@@ -1,0 +1,1 @@
+Namespace(mode='evaluate', sleeptime=1.2, in_mem_index=True, dataset='txt', testset='human', retriever='ragatouille', reranker='noop', generator='llama70b', k=10, hypothetical=False, chunkaugmentation=False, altprompt=False)
