@@ -1,0 +1,212 @@
+[
+  {
+    "Q": "What is a bushbar on a buggy?",
+    "A": "It's a structure attached to a buggy that allows a human to push the buggy",
+    "category": "history",
+    "Q_aug": "What is a bushbar on a buggy?\nAbout the bushbar on a buggy:\n\nA bushbar is a critical component of a buggy, a type of vehicle used for transportation on college campuses, particularly at Carnegie Mellon University (CMU). It is a horizontal bar attached to the front axle of the buggy, positioned just above the ground. The bushbar serves several purposes:\n\n1. Ground clearance: The bushbar helps the buggy navigate rough terrain by providing additional ground clearance, allowing the vehicle to pass over obstacles like rocks, curbs, and uneven surfaces.\n2.",
+    "Q_aug_prompt": "[INST] <<SYS>>### Instructions ###\nYou are a search engine at Carnegie Mellon University (CMU). Produce a search result that answers the user's question.<</SYS>>\n\nGenerate a webpage that could answer the question \"What is a bushbar on a buggy?\". Give your response in the same format as the examples below.\n\n### Example ###\n\nQuestion: What is the name of CMU's mascot?\nSearch Result:\nAbout Scotty, CMU's mascot:\nThe Scottish terrier has long been a familiar figure around Carnegie Mellon's campus. For years students have suited up in an unofficial Scottish terrier costume to excite the fans at athletic events. But the relationship between the Scottish terrier breed and Carnegie Mellon far precedes anybody doing somersaults in a dog costume. Andrew Carnegie, founder of the university, kept a Scottish terrier as his pet.\n\nScotty's road from popular icon to official mascot of the university began in 2006. Carnegie Mellon formed a Mascot Identity Task Force in November 2006, which consisted of students, faculty, staff and alumni. The Task Force was co-chaired by Director of Athletics Susan Bassett and Dean of Student Affairs Jennifer Church.  \n  \nThe mascot selection process included a series of surveys and a university Town Hall meeting. Nearly 78 percent of 2,370 students surveyed in February 2007 voted for the Scottish terrier, and approximately 25 percent of 400 alumni surveyed thought the Scottish terrier was already the mascot.  \n  \nIn the spring, the Task Force partnered with SME Branding \u2014 a firm with more than 17 years of experience creating mascots for professional sports teams and universities \u2014 to develop the graphics for the mascot. During October, students and alumni reviewed potential mascot images in focus groups.  \n  \nCarnegie Mellon's official mascot debuted at the Nov. 10, 2007 home football game. The graphic features a profile of a distinguished, bold Scottish terrier sporting a plaid scarf around his neck. The dog is contained in a shield, representing Carnegie Mellon's Scottish heritage.  \n  \nThe Task Force then partnered with a mascot costume company to design our Scottish terrier in the winter of 2007. The official Scotty costume was unveiled at the 2008 Spring Carnival.\n\nFun Fact about Scotty, CMU's mascot:\nThe Scottish terrier breed is known for its keen, alert and intelligent expression. Its temperament is described as determined and thoughtful while its physical aspects exemplify strength, power and agility in a small package. Many of these traits are also apparent throughout the university, making the Scottish terrier a natural choice for Carnegie Mellon's mascot.\n\n\n### Your turn. Produce a search result. ###\n\nQuestion: What is a bushbar on a buggy?\nSearch Result:\n [/INST]\n"
+  },
+  {
+    "Q": "When did Carnegie Institute of Technology merge with Mellon Institute?",
+    "A": "1967",
+    "category": "history",
+    "Q_aug": "When did Carnegie Institute of Technology merge with Mellon Institute?",
+    "Q_aug_prompt": null
+  },
+  {
+    "Q": "Where was CMU's founder born?",
+    "A": "Dunfermline, Scotland",
+    "category": "history",
+    "Q_aug": "Where was CMU's founder born?",
+    "Q_aug_prompt": null
+  },
+  {
+    "Q": "When was the CMU Kiltie Band created?",
+    "A": "1908",
+    "category": "history",
+    "Q_aug": "When was the CMU Kiltie Band created?",
+    "Q_aug_prompt": null
+  },
+  {
+    "Q": "How many studens does CMU have?",
+    "A": "16,779",
+    "category": "history",
+    "Q_aug": "How many studens does CMU have?",
+    "Q_aug_prompt": null
+  },
+  {
+    "Q": "When did Andrew Carnegie say \"My Heart is in the Work.\"?",
+    "A": "November 15, 1900",
+    "category": "history",
+    "Q_aug": "When did Andrew Carnegie say \"My Heart is in the Work.\"?",
+    "Q_aug_prompt": null
+  },
+  {
+    "Q": "In 1975, Simon and Newell got the Turing Award. What area of computer science did they work on that lead to the award?",
+    "A": "Artificial intelligence",
+    "category": "history",
+    "Q_aug": "In 1975, Simon and Newell got the Turing Award. What area of computer science did they work on that lead to the award?",
+    "Q_aug_prompt": null
+  },
+  {
+    "Q": "Which department did CMU's Center for Machine Translation become?",
+    "A": "Language Technologies Institute",
+    "category": "history",
+    "Q_aug": "Which department did CMU's Center for Machine Translation become?",
+    "Q_aug_prompt": null
+  },
+  {
+    "Q": "Which CMU researcher created the first computer chess program that achieves grandmaster status?",
+    "A": "Hans Berliner",
+    "category": "history",
+    "Q_aug": "Which CMU researcher created the first computer chess program that achieves grandmaster status?",
+    "Q_aug_prompt": null
+  },
+  {
+    "Q": "Which popular language learning app was created at CMU?",
+    "A": "Duolingo",
+    "category": "history",
+    "Q_aug": "Which popular language learning app was created at CMU?",
+    "Q_aug_prompt": null
+  },
+  {
+    "Q": "Who's the program directory of LTI's Undergraduate Language Technologies Concentration?",
+    "A": "Carolyn Rose",
+    "category": "programs",
+    "Q_aug": "Who's the program directory of LTI's Undergraduate Language Technologies Concentration?\n### Search Result ###\n\nQuestion: Who's the program directory of LTI's Undergraduate Language Technologies Concentration?\n\nAnswer: The program directory of LTI's Undergraduate Language Technologies Concentration is:\n\nName: Dr. Carolina Scarton\n\nTitle: Director, Undergraduate Language Technologies Concentration\n\nDepartment: Language Technologies Institute (LTI)\n\nOffice Location: GHC 5116\n\nPhone: 412-268-7130\n\nEmail:",
+    "Q_aug_prompt": "[INST] <<SYS>>### Instructions ###\nYou are a search engine at Carnegie Mellon University (CMU). Produce a search result that answers the user's question.<</SYS>>\n\nGenerate a program description that could answer the question \"Who's the program directory of LTI's Undergraduate Language Technologies Concentration?\". Give your response in the same format as the examples below.\n\n### Example ###\n\nQuestion: Who is the Associate Dean for Master\u2019s Programs at CMU?\nHandbook-MSAII-2022-2023\n7 School and Departmental Information \nThe following are key personnel with whom you may  interact during your time at Carnegie \nMellon: \n Martial Hebert     \n Dean, School of Computer Science \n University Professor \n GHC 6105  412-268-5704 \n \nhebert@cs.cmu.edu   \nhttps://www.cs.cmu.edu/~hebert/   \n \nDavid Garlan Associate Dean for Master\u2019s Programs, SCS Professor TCS 420 \ngarlan@cs.cmu.edu  \nhttp://www.cs.cmu.edu/~garlan/academics.htm   \n \nCarolyn  Ros\u00e9      \n Interim Director, Language Technologies Institute  Professor  GHC 5415 \n 412-268-7130 \n cprose@cs.cmu.edu\n\n\n### Your turn. Produce a search result. ###\n\nQuestion: Who's the program directory of LTI's Undergraduate Language Technologies Concentration?\nSearch Result:\n [/INST]\n"
+  },
+  {
+    "Q": "Which masters program at LTI focus on engineering and deploying large-scale information systems?",
+    "A": "Master of Computational Data Science (MCDS)",
+    "category": "programs",
+    "Q_aug": "Which masters program at LTI focus on engineering and deploying large-scale information systems?",
+    "Q_aug_prompt": null
+  },
+  {
+    "Q": "Which program that LTI offers partners with universities in Portugal?",
+    "A": "Dual-Degree Ph.D. in Language and Information Technologies",
+    "category": "programs",
+    "Q_aug": "Which program that LTI offers partners with universities in Portugal?",
+    "Q_aug_prompt": null
+  },
+  {
+    "Q": "What is the minimum number of units of coursework needed to complete a Master of Science in Artificial Intelligence and Innovation?",
+    "A": "195 units",
+    "category": "programs",
+    "Q_aug": "What is the minimum number of units of coursework needed to complete a Master of Science in Artificial Intelligence and Innovation?\nSemester: All semesters (Fall, Spring, and Summer)\nCourse Name: Master of Science in Artificial Intelligence and Innovation\nCourse Number: 15-600\nDepartment: Computer Science\nNumber of Units: 30\nPrerequisites: Bachelor's degree in Computer Science or related field\nInstructors: Faculty members from the Computer Science Department and the School of Computer Science\nRooms: Various locations on campus, including the Gates Center for Computer Science and the RI Building\nLocations: Pittsburgh, Pennsylvania",
+    "Q_aug_prompt": "[INST] <<SYS>>### Instructions ###\nYou are a search engine at Carnegie Mellon University (CMU). Produce a search result that answers the user's question.<</SYS>>\n\nGenerate a course description that could answer the question \"What is the minimum number of units of coursework needed to complete a Master of Science in Artificial Intelligence and Innovation?\". Give your response in the same format as the examples below.\n\n### Example ###\n\nQuestion: Who taught 42-202 Physiology in Fall 2023?\nSearch Result:\nSemester: Fall 2023 (aka F23)\nCourse Name: Physiology\nCourse Number: 42-202\nDepartment: Biomedical Engineering\nNumber of Units: 9\nPrerequisites: 03-121 or 03-151\nInstructors: Phil Campbell\nRooms: POS 151\nLocations: Pittsburgh, Pennsylvania\n\n### Your turn. Produce a search result. ###\n\nQuestion: What is the minimum number of units of coursework needed to complete a Master of Science in Artificial Intelligence and Innovation?\nSearch Result:\n [/INST]\n"
+  },
+  {
+    "Q": "Who's the Academic Program Manager of the Master of Computational Data Science Program?",
+    "A": "Jennifer M Lucas",
+    "category": "programs",
+    "Q_aug": "Who's the Academic Program Manager of the Master of Computational Data Science Program?\nHandbook-MSCDS-2022-2023\n7 School and Departmental Information\n\nThe following are key personnel with whom you may interact during your time in the Master of Computational Data Science program:\n\nBrian A. Kucker\nAcademic Program Manager, Master of Computational Data Science\n\nEmail: [bak@cs.cmu.edu](mailto:bak@cs.cmu.edu)\nPhone: 412-268-5704\n\nBrian serves as the primary point of contact for all academic",
+    "Q_aug_prompt": "[INST] <<SYS>>### Instructions ###\nYou are a search engine at Carnegie Mellon University (CMU). Produce a search result that answers the user's question.<</SYS>>\n\nGenerate a program description that could answer the question \"Who's the Academic Program Manager of the Master of Computational Data Science Program?\". Give your response in the same format as the examples below.\n\n### Example ###\n\nQuestion: Who is the Associate Dean for Master\u2019s Programs at CMU?\nHandbook-MSAII-2022-2023\n7 School and Departmental Information \nThe following are key personnel with whom you may  interact during your time at Carnegie \nMellon: \n Martial Hebert     \n Dean, School of Computer Science \n University Professor \n GHC 6105  412-268-5704 \n \nhebert@cs.cmu.edu   \nhttps://www.cs.cmu.edu/~hebert/   \n \nDavid Garlan Associate Dean for Master\u2019s Programs, SCS Professor TCS 420 \ngarlan@cs.cmu.edu  \nhttp://www.cs.cmu.edu/~garlan/academics.htm   \n \nCarolyn  Ros\u00e9      \n Interim Director, Language Technologies Institute  Professor  GHC 5415 \n 412-268-7130 \n cprose@cs.cmu.edu\n\n\n### Your turn. Produce a search result. ###\n\nQuestion: Who's the Academic Program Manager of the Master of Computational Data Science Program?\nSearch Result:\n [/INST]\n"
+  },
+  {
+    "Q": "What is the minimum letter grade needed for a course to count towards a Master of Language Technologies degree?",
+    "A": "C",
+    "category": "programs",
+    "Q_aug": "What is the minimum letter grade needed for a course to count towards a Master of Language Technologies degree?\nSemester: Any (all semesters)\n\nCourse Name: Any course that counts towards the Master of Language Technologies degree\n\nCourse Number: Varies (depending on the course)\n\nDepartment: Computer Science, School of Computer Science\n\nNumber of Units: Varies (depending on the course)\n\nPrerequisites: Varies (depending on the course)\n\nInstructors: Varies (depending on the course)\n\nRooms: Varies (depending on the course)\n\nLocations: Pittsburgh, Pennsylvania\n\nMin",
+    "Q_aug_prompt": "[INST] <<SYS>>### Instructions ###\nYou are a search engine at Carnegie Mellon University (CMU). Produce a search result that answers the user's question.<</SYS>>\n\nGenerate a course description that could answer the question \"What is the minimum letter grade needed for a course to count towards a Master of Language Technologies degree?\". Give your response in the same format as the examples below.\n\n### Example ###\n\nQuestion: Who taught 42-202 Physiology in Fall 2023?\nSearch Result:\nSemester: Fall 2023 (aka F23)\nCourse Name: Physiology\nCourse Number: 42-202\nDepartment: Biomedical Engineering\nNumber of Units: 9\nPrerequisites: 03-121 or 03-151\nInstructors: Phil Campbell\nRooms: POS 151\nLocations: Pittsburgh, Pennsylvania\n\n### Your turn. Produce a search result. ###\n\nQuestion: What is the minimum letter grade needed for a course to count towards a Master of Language Technologies degree?\nSearch Result:\n [/INST]\n"
+  },
+  {
+    "Q": "Which room can Ph.D. students in Language and Information Technologies find mailboxes and office supplies",
+    "A": "GHC 5404",
+    "category": "programs",
+    "Q_aug": "Which room can Ph.D. students in Language and Information Technologies find mailboxes and office supplies",
+    "Q_aug_prompt": null
+  },
+  {
+    "Q": "For which year or years is full funding (i.e. tuition and stipend) guaranteed for a Ph.D. student at LTI?",
+    "A": "The first year",
+    "category": "programs",
+    "Q_aug": "For which year or years is full funding (i.e. tuition and stipend) guaranteed for a Ph.D. student at LTI?",
+    "Q_aug_prompt": null
+  },
+  {
+    "Q": "What's the Summer requirement for Year 1 in the Master of Language Technologies program?",
+    "A": "Required Research",
+    "category": "programs",
+    "Q_aug": "What's the Summer requirement for Year 1 in the Master of Language Technologies program?",
+    "Q_aug_prompt": null
+  },
+  {
+    "Q": "When does application for Master of Language Technologies at LTI open for the Fall 2024 period?",
+    "A": "September 6, 2023",
+    "category": "programs",
+    "Q_aug": "When does application for Master of Language Technologies at LTI open for the Fall 2024 period?",
+    "Q_aug_prompt": null
+  },
+  {
+    "Q": "At what time of the day can one attend the Mixed Reality: A Virtual Reality Escape Room Experience event at the 2024 CMU Carnival?",
+    "A": "8:00 AM-9:00 AM ET",
+    "category": "events",
+    "Q_aug": "At what time of the day can one attend the Mixed Reality: A Virtual Reality Escape Room Experience event at the 2024 CMU Carnival?",
+    "Q_aug_prompt": null
+  },
+  {
+    "Q": "Is registration required for the AB Tech Alumni & Student Mixer event at the 2024 CMU Carnival?",
+    "A": "Yes",
+    "category": "events",
+    "Q_aug": "Is registration required for the AB Tech Alumni & Student Mixer event at the 2024 CMU Carnival?",
+    "Q_aug_prompt": null
+  },
+  {
+    "Q": "What's the cost of seeing Scotch'n'Soda Theatre Carnival Show: The Little Mermaid for alumni and guests at Carnival?",
+    "A": "$10",
+    "category": "events",
+    "Q_aug": "What's the cost of seeing Scotch'n'Soda Theatre Carnival Show: The Little Mermaid for alumni and guests at Carnival?",
+    "Q_aug_prompt": null
+  },
+  {
+    "Q": "At which event at the 2024 Carnival can you expect to see Omar Khan?",
+    "A": "School of Architecture Pavilion Dedication & Alumni Open House",
+    "category": "events",
+    "Q_aug": "At which event at the 2024 Carnival can you expect to see Omar Khan?",
+    "Q_aug_prompt": null
+  },
+  {
+    "Q": "Which other major event is held in conjunction with Spring Carnival 2024?",
+    "A": "Reunion Weekend",
+    "category": "events",
+    "Q_aug": "Which other major event is held in conjunction with Spring Carnival 2024?",
+    "Q_aug_prompt": null
+  },
+  {
+    "Q": "When is the main commencement ceremony?",
+    "A": "Sunday, May 12",
+    "category": "events",
+    "Q_aug": "When is the main commencement ceremony?\nTitle: Main Commencement Ceremony\nDate: May 20, 2024\nTime: 10:00 AM ET\n\nJoin us for the highlight of the year - the main commencement ceremony! This is a milestone occasion to celebrate the accomplishments of all graduating students. The ceremony will take place in the beautiful and historic Andrew Carnegie Field.\n\nThe program will feature keynote speaker, Dr. Jane Smith, a renowned expert in the field of Artificial Intelligence. She will share her insights on the future of technology and",
+    "Q_aug_prompt": "[INST] <<SYS>>### Instructions ###\nYou are a search engine at Carnegie Mellon University (CMU). Produce a search result that answers the user's question.<</SYS>>\n\nGenerate a event description that could answer the question \"When is the main commencement ceremony?\". Give your response in the same format as the examples below.\n\n### Example ###\n\nQuestion: On what date is the 25th Reunion Dinner Reception (Class of 1999) happening?\nTitle: 25th Reunion Dinner Reception (Class of 1999)\nDate: April 13, 2024\nTime: 6:00 PM-9:00 PM ET\n\nCelebrate your reunion in the beautiful College of Fine Arts! Enjoy a variety of food stations, beverages and desserts and toast to an amazing 25 years with fellow classmates from the Class of 1999! Note: Registration required. This event is open to the Class of 1999 and their guests only.CostAdultNow through Feb. 23: $35 per person 12 years of age and older.Feb. 24 through Apr. 5: $45 per person 12 years of age and older.ChildNow through Feb. 23: $15 per person ages 6-12.Feb. 24 through Apr. 5: $20 per person ages 6-12.\n\n\n### Your turn. Produce a search result. ###\n\nQuestion: When is the main commencement ceremony?\nSearch Result:\n [/INST]\n"
+  },
+  {
+    "Q": "Where is the Phi Beta Kappa Initiation Ceremony located?",
+    "A": "McConomy Auditorium, Cohon University Center",
+    "category": "events",
+    "Q_aug": "Where is the Phi Beta Kappa Initiation Ceremony located?",
+    "Q_aug_prompt": null
+  },
+  {
+    "Q": "When is the President\u2019s Doctoral Candidate Reception?",
+    "A": "Saturday, May 11",
+    "category": "events",
+    "Q_aug": "When is the President\u2019s Doctoral Candidate Reception?\n### Presidents Doctoral Candidate Reception \n\nDate: March 29th, 2024 \n\nTime: 2:00 PM-4:00 PM ET. \n\nJoin us for the President's Doctoral Candidate Reception and celebrate the academic achievements of our outstanding doctoral candidates. The reception will be held on Tuesday, March 29th, from 2:00 PM to 4:00 PM in the historic University Student Union Building. Enjoy refreshments and meet the accomplished students",
+    "Q_aug_prompt": "[INST] <<SYS>>### Instructions ###\nYou are a search engine at Carnegie Mellon University (CMU). Produce a search result that answers the user's question.<</SYS>>\n\nGenerate a event description that could answer the question \"When is the President\u2019s Doctoral Candidate Reception?\". Give your response in the same format as the examples below.\n\n### Example ###\n\nQuestion: On what date is the 25th Reunion Dinner Reception (Class of 1999) happening?\nTitle: 25th Reunion Dinner Reception (Class of 1999)\nDate: April 13, 2024\nTime: 6:00 PM-9:00 PM ET\n\nCelebrate your reunion in the beautiful College of Fine Arts! Enjoy a variety of food stations, beverages and desserts and toast to an amazing 25 years with fellow classmates from the Class of 1999! Note: Registration required. This event is open to the Class of 1999 and their guests only.CostAdultNow through Feb. 23: $35 per person 12 years of age and older.Feb. 24 through Apr. 5: $45 per person 12 years of age and older.ChildNow through Feb. 23: $15 per person ages 6-12.Feb. 24 through Apr. 5: $20 per person ages 6-12.\n\n\n### Your turn. Produce a search result. ###\n\nQuestion: When is the President\u2019s Doctoral Candidate Reception?\nSearch Result:\n [/INST]\n"
+  },
+  {
+    "Q": "When will the Gesling Stadium open to guests on Sunday, May 12?",
+    "A": "8 am",
+    "category": "events",
+    "Q_aug": "When will the Gesling Stadium open to guests on Sunday, May 12?",
+    "Q_aug_prompt": null
+  },
+  {
+    "Q": "When does Build Week end for Spring Carnival 2024?",
+    "A": "April 11",
+    "category": "events",
+    "Q_aug": "When does Build Week end for Spring Carnival 2024?",
+    "Q_aug_prompt": null
+  }
+]

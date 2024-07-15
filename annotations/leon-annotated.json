@@ -1,0 +1,152 @@
+[
+  {
+    "Q":"What is a bushbar on a buggy?",
+    "A":"It's a structure attached to a buggy that allows a human to push the buggy",
+    "category":"history"
+  },
+  {
+    "Q":"When did Carnegie Institute of Technology merge with Mellon Institute?",
+    "A":"1967",
+    "category":"history"
+  },
+  {
+    "Q":"Where was CMU's founder born?",
+    "A":"Dunfermline, Scotland",
+    "category":"history"
+  },
+  {
+    "Q":"When was the CMU Kiltie Band created?",
+    "A":"1908",
+    "category":"history"
+  },
+  {
+    "Q":"How many studens does CMU have?",
+    "A":"16,779",
+    "category":"history"
+  },
+  {
+    "Q":"When did Andrew Carnegie say \"My Heart is in the Work.\"?",
+    "A":"November 15, 1900",
+    "category":"history"
+  },
+  {
+    "Q":"In 1975, Simon and Newell got the Turing Award. What area of computer science did they work on that lead to the award?",
+    "A":"Artificial intelligence",
+    "category":"history"
+  },
+  {
+    "Q":"Which department did CMU's Center for Machine Translation become?",
+    "A":"Language Technologies Institute",
+    "category":"history"
+  },
+  {
+    "Q":"Which CMU researcher created the first computer chess program that achieves grandmaster status?",
+    "A":"Hans Berliner",
+    "category":"history"
+  },
+  {
+    "Q":"Which popular language learning app was created at CMU?",
+    "A":"Duolingo",
+    "category":"history"
+  },
+  {
+    "Q":"Who's the program directory of LTI's Undergraduate Language Technologies Concentration?",
+    "A":"Carolyn Rose",
+    "category": "programs"
+  },
+  {
+    "Q":"Which masters program at LTI focus on engineering and deploying large-scale information systems?",
+    "A":"Master of Computational Data Science (MCDS)",
+    "category": "programs"
+  },
+  {
+    "Q":"Which program that LTI offers partners with universities in Portugal?",
+    "A":"Dual-Degree Ph.D. in Language and Information Technologies",
+    "category": "programs"
+  },
+  {
+    "Q":"What is the minimum number of units of coursework needed to complete a Master of Science in Artificial Intelligence and Innovation?",
+    "A":"195 units",
+    "category": "programs"
+  },
+  {
+    "Q":"Who's the Academic Program Manager of the Master of Computational Data Science Program?",
+    "A":"Jennifer M Lucas",
+    "category": "programs"
+  },
+  {
+    "Q":"What is the minimum letter grade needed for a course to count towards a Master of Language Technologies degree?",
+    "A":"C",
+    "category": "programs"
+  },
+  {
+    "Q":"Which room can Ph.D. students in Language and Information Technologies find mailboxes and office supplies",
+    "A":"GHC 5404",
+    "category": "programs"
+  },
+  {
+    "Q":"For which year or years is full funding (i.e. tuition and stipend) guaranteed for a Ph.D. student at LTI?",
+    "A":"The first year",
+    "category": "programs"
+  },
+  {
+    "Q":"What's the Summer requirement for Year 1 in the Master of Language Technologies program?",
+    "A":"Required Research",
+    "category": "programs"
+  },
+  {
+    "Q":"When does application for Master of Language Technologies at LTI open for the Fall 2024 period?",
+    "A":"September 6, 2023",
+    "category": "programs"
+  },
+  {
+    "Q":"At what time of the day can one attend the Mixed Reality: A Virtual Reality Escape Room Experience event at the 2024 CMU Carnival?",
+    "A":"8:00 AM-9:00 AM ET",
+    "category":"events"
+  },
+  {
+    "Q":"Is registration required for the AB Tech Alumni & Student Mixer event at the 2024 CMU Carnival?",
+    "A":"Yes",
+    "category":"events"
+  },
+  {
+    "Q":"What's the cost of seeing Scotch'n'Soda Theatre Carnival Show: The Little Mermaid for alumni and guests at Carnival?",
+    "A":"$10",
+    "category":"events"
+  },
+  {
+    "Q":"At which event at the 2024 Carnival can you expect to see Omar Khan?",
+    "A":"School of Architecture Pavilion Dedication & Alumni Open House",
+    "category":"events"
+  },
+  {
+    "Q":"Which other major event is held in conjunction with Spring Carnival 2024?",
+    "A":"Reunion Weekend",
+    "category":"events"
+  },
+  {
+    "Q":"When is the main commencement ceremony?",
+    "A":"Sunday, May 12",
+    "category":"events"
+  },
+  {
+    "Q":"Where is the Phi Beta Kappa Initiation Ceremony located?",
+    "A":"McConomy Auditorium, Cohon University Center",
+    "category":"events"
+  },
+  {
+    "Q":"When is the President\u2019s Doctoral Candidate Reception?",
+    "A":"Saturday, May 11",
+    "category":"events"
+  },
+  {
+    "Q":"When will the Gesling Stadium open to guests on Sunday, May 12?",
+    "A":"8 am",
+    "category":"events"
+  },
+  {
+    "Q":"When does Build Week end for Spring Carnival 2024?",
+    "A":"April 11",
+    "category":"events"
+  }
+]

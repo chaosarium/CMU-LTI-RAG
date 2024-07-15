@@ -1,0 +1,1502 @@
+[
+  {
+    "Q":"Who was the last author of the paper called Understanding Masked Autoencoders via Hierarchical Latent Variable Models?",
+    "A":"Kun Zhang",
+    "category":"papers"
+  },
+  {
+    "Q":"At what venue was the paper called Data-efficient Active Learning for Structured Prediction with Partial Annotation and Self-Training published?",
+    "A":"Conference on Empirical Methods in Natural Language Processing",
+    "category":"papers"
+  },
+  {
+    "Q":"What was the paper called Understanding Masked Autoencoders via Hierarchical Latent Variable Models about?",
+    "A":"This work formally characterize and justify existing empirical in-sights and provide theoretical guarantees of MAE, and formulate the underlying data-generating process as a hierarchical latent variable model, and shows that under reasonable assumptions, MAE provably identifies a set of latent variables in the hierarchical model.",
+    "category":"papers"
+  },
+  {
+    "Q":"At what venue was the paper called Regularizing Self-training for Unsupervised Domain Adaptation via Structural Constraints published?",
+    "A":"arXiv.org",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the first author of the paper called Improving Factuality of Abstractive Summarization via Contrastive Reward Learning?",
+    "A":"Ethan Chern",
+    "category":"papers"
+  },
+  {
+    "Q":"What was the paper called Exploring Smart Commercial Building Occupants\u2019 Perceptions and Notification Preferences of Internet of Things Data Collection in the United States about?",
+    "A":"It is found that around half of the participants are not fully aware of the data collection and use practices of IoT even though they notice the presence of IoT devices and sensors.",
+    "category":"papers"
+  },
+  {
+    "Q":"What year was the paper called Counterfactual Augmentation for Multimodal Learning Under Presentation Bias published?",
+    "A":"2023",
+    "category":"papers"
+  },
+  {
+    "Q":"At what venue was the paper called Clever Hans or Neural Theory of Mind? Stress Testing Social Reasoning in Large Language Models published?",
+    "A":"arXiv.org",
+    "category":"papers"
+  },
+  {
+    "Q":"Who were the authors of the paper called VideoGLUE: Video General Understanding Evaluation of Foundation Models?",
+    "A":"Liangzhe Yuan, Nitesh B. Gundavarapu, Long Zhao, Hao Zhou, Yin Cui, Lu Jiang, Xu Yang, Menglin Jia, Tobias Weyand, Luke Friedman, Mikhail Sirotenko, H. Wang, Florian Schroff, Hartwig Adam, Ming Yang, Ting Liu, Boqing Gong",
+    "category":"papers"
+  },
+  {
+    "Q":"At what venue was the paper called Queer People are People First: Deconstructing Sexual Identity Stereotypes in Large Language Models published?",
+    "A":"arXiv.org",
+    "category":"papers"
+  },
+  {
+    "Q":"What was the paper called Language Models Get a Gender Makeover: Mitigating Gender Bias with Few-Shot Data Interventions about?",
+    "A":"This paper empirically shows that by fine-tuning a pre-trained model on only 10 debiased (intervened) training examples, the tendency to favor any gender is significantly reduced, and argues that the few-shot de-biasing approach is highly feasible and practical.",
+    "category":"papers"
+  },
+  {
+    "Q":"What was the paper called Solving NLP Problems through Human-System Collaboration: A Discussion-based Approach about?",
+    "A":"This research aims to create a dataset and computational framework for systems that discuss and refine their predictions through dialogue and shows that the proposed system can have beneficial discussions with humans improving the accuracy by up to 25 points in the natural language inference task.",
+    "category":"papers"
+  },
+  {
+    "Q":"What was the paper called Reasoning about the Unseen for Efficient Outdoor Object Navigation about?",
+    "A":"A new task OUTDOOR is introduced, a new mechanism for Large Language Models (LLMs) to accurately hallucinate possible futures, and a new computationally aware success metric for pushing research forward in this more complex domain are introduced.",
+    "category":"papers"
+  },
+  {
+    "Q":"What was the paper called Learning Performance-Improving Code Edits about?",
+    "A":"This paper investigates the ability of large language models (LLMs) to suggest functionally correct, performance improving code edits, and hypothesizes that language models can suggest such edits in ways that would be impractical for static analysis alone.",
+    "category":"papers"
+  },
+  {
+    "Q":"What year was the paper called Membership Inference Attacks against Language Models via Neighbourhood Comparison published?",
+    "A":"2023",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the first author of the paper called Care4Lang at MEDIQA-Chat 2023: Fine-tuning Language Models for Classifying and Summarizing Clinical Dialogues?",
+    "A":"Amal AlQahtani",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the first author of the paper called Prompt2Model: Generating Deployable Models from Natural Language Instructions?",
+    "A":"Vijay Viswanathan",
+    "category":"papers"
+  },
+  {
+    "Q":"At what venue was the paper called WebUI: A Dataset for Enhancing Visual UI Understanding with Web Semantics published?",
+    "A":"International Conference on Human Factors in Computing Systems",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the first author of the paper called From User Perceptions to Technical Improvement: Enabling People Who Stutter to Better Use Speech Recognition?",
+    "A":"Colin S. Lea",
+    "category":"papers"
+  },
+  {
+    "Q":"At what venue was the paper called D-CALM: A Dynamic Clustering-based Active Learning Approach for Mitigating Bias published?",
+    "A":"Annual Meeting of the Association for Computational Linguistics",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the last author of the paper called Jointly modeling products and resource pages for task-oriented recommendation?",
+    "A":"Julian McAuley",
+    "category":"papers"
+  },
+  {
+    "Q":"What year was the paper called Comparing Privacy Label Disclosures of Apps Published in both the App Store and Google Play Stores published?",
+    "A":"2023",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the first author of the paper called USB: A Unified Summarization Benchmark Across Tasks and Domains?",
+    "A":"Kundan Krishna",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the last author of the paper called Towards Improving Harmonic Sensitivity and Prediction Stability for Singing Melody Extraction?",
+    "A":"S. Dubnov",
+    "category":"papers"
+  },
+  {
+    "Q":"What was the paper called Multilingual Machine Translation with Large Language Models: Empirical Results and Analysis about?",
+    "A":"It is discovered that LLMs exhibit new working patterns when used for MMT and cross-lingual exemplars can provide better task guidance for low-resource translation than exemplars in the same language pairs.",
+    "category":"papers"
+  },
+  {
+    "Q":"What was the paper called BASS: Block-wise Adaptation for Speech Summarization about?",
+    "A":"This paper develops a method that allows one to train summarization models on very long sequences in an incremental manner and devise and test strategies to pass semantic context across the blocks.",
+    "category":"papers"
+  },
+  {
+    "Q":"At what venue was the paper called Rethinking Voice-Face Correlation: A Geometry View published?",
+    "A":"ACM Multimedia",
+    "category":"papers"
+  },
+  {
+    "Q":"What year was the paper called SPAE: Semantic Pyramid AutoEncoder for Multimodal Generation with Frozen LLMs published?",
+    "A":"2023",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the first author of the paper called Multilingual Machine Translation with Large Language Models: Empirical Results and Analysis?",
+    "A":"Wenhao Zhu",
+    "category":"papers"
+  },
+  {
+    "Q":"What year was the paper called The Internal State of an LLM Knows When its Lying published?",
+    "A":"2023",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the last author of the paper called How About Kind of Generating Hedges using End-to-End Neural Models??",
+    "A":"Justine Cassell",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the first author of the paper called Neural Machine Translation for the Indigenous Languages of the Americas: An Introduction?",
+    "A":"Manuel Mager",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the first author of the paper called Syntax and Semantics Meet in the \u201cMiddle\u201d: Probing the Syntax-Semantics Interface of LMs Through Agentivity?",
+    "A":"Lindia Tjuatja",
+    "category":"papers"
+  },
+  {
+    "Q":"At what venue was the paper called GlobalBench: A Benchmark for Global Progress in Natural Language Processing published?",
+    "A":"Conference on Empirical Methods in Natural Language Processing",
+    "category":"papers"
+  },
+  {
+    "Q":"What year was the paper called Learning Disentangled Prompts for Compositional Image Synthesis published?",
+    "A":"2023",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the first author of the paper called Surveying (Dis)Parities and Concerns of Compute Hungry NLP Research?",
+    "A":"Ji-Ung Lee",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the first author of the paper called MusicLDM: Enhancing Novelty in Text-to-Music Generation Using Beat-Synchronous Mixup Strategies?",
+    "A":"K. Chen",
+    "category":"papers"
+  },
+  {
+    "Q":"Who were the authors of the paper called PWESuite: Phonetic Word Embeddings and Tasks They Facilitate?",
+    "A":"Vil\u00e9m Zouhar, Kalvin Chang, Chenxuan Cui, Nathaniel Carlson, Nathaniel R. Robinson, Mrinmaya Sachan, David R. Mortensen",
+    "category":"papers"
+  },
+  {
+    "Q":"What year was the paper called Why do Nearest Neighbor Language Models Work? published?",
+    "A":"2023",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the first author of the paper called Chain-of-Skills: A Configurable Model for Open-Domain Question Answering?",
+    "A":"Kaixin Ma",
+    "category":"papers"
+  },
+  {
+    "Q":"At what venue was the paper called Pragmatic Inference with a CLIP Listener for Contrastive Captioning published?",
+    "A":"Annual Meeting of the Association for Computational Linguistics",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the last author of the paper called Generating Images with Multimodal Language Models?",
+    "A":"R. Salakhutdinov",
+    "category":"papers"
+  },
+  {
+    "Q":"What year was the paper called A Vector Quantized Approach for Text to Speech Synthesis on Real-World Spontaneous Speech published?",
+    "A":"2023",
+    "category":"papers"
+  },
+  {
+    "Q":"Who were the authors of the paper called Understanding Ethics in NLP Authoring and Reviewing?",
+    "A":"Luciana Benotti, Kar\u00ebn Fort, Min-Yen Kan, Yulia Tsvetkov",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the last author of the paper called WebUI: A Dataset for Enhancing Visual UI Understanding with Web Semantics?",
+    "A":"Jeffrey P. Bigham",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the first author of the paper called Regularizing Self-training for Unsupervised Domain Adaptation via Structural Constraints?",
+    "A":"Rajshekhar Das",
+    "category":"papers"
+  },
+  {
+    "Q":"Who were the authors of the paper called Pragmatic Inference with a CLIP Listener for Contrastive Captioning?",
+    "A":"Jiefu Ou, Benno Krojer, Daniel Fried",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the last author of the paper called On the Interactions of Structural Constraints and Data Resources for Structured Prediction?",
+    "A":"E. Hovy",
+    "category":"papers"
+  },
+  {
+    "Q":"What year was the paper called Impacts of Aerosol Chemical Composition on Cloud Condensation Nuclei (CCN) Activity during Wintertime in Beijing, China published?",
+    "A":"2023",
+    "category":"papers"
+  },
+  {
+    "Q":"At what venue was the paper called Generating Images with Multimodal Language Models published?",
+    "A":"arXiv.org",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the last author of the paper called Don't Take This Out of Context!: On the Need for Contextual Models and Evaluations for Stylistic Rewriting?",
+    "A":"Maarten Sap",
+    "category":"papers"
+  },
+  {
+    "Q":"At what venue was the paper called GameQA: Gamified Mobile App Platform for Building Multiple-Domain Question-Answering Datasets published?",
+    "A":"Conference of the European Chapter of the Association for Computational Linguistics",
+    "category":"papers"
+  },
+  {
+    "Q":"Who were the authors of the paper called ATLAS: Automatically Detecting Discrepancies Between Privacy Policies and Privacy Labels?",
+    "A":"Akshatha Jain, David Rodr\u00edguez Torrado, J. D. \u00c1lamo, N. Sadeh",
+    "category":"papers"
+  },
+  {
+    "Q":"Who were the authors of the paper called Dynamic-SUPERB: Towards A Dynamic, Collaborative, and Comprehensive Instruction-Tuning Benchmark for Speech?",
+    "A":"Chien-yu Huang, Ke-Han Lu, Shi Wang, Chi-Yuan Hsiao, Chun-Yi Kuan, Haibin Wu, Siddhant Arora, Kai-Wei Chang, Jiatong Shi, Yifan Peng, Roshan Sharma, Shinji Watanabe, Bhiksha Ramakrishnan, Shady Shehata, Hung-yi Lee",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the first author of the paper called Contrastive Attention Networks for Attribution of Early Modern Print?",
+    "A":"Nikolai Vogler",
+    "category":"papers"
+  },
+  {
+    "Q":"At what venue was the paper called Exploring Smart Commercial Building Occupants\u2019 Perceptions and Notification Preferences of Internet of Things Data Collection in the United States published?",
+    "A":"European Symposium on Security and Privacy",
+    "category":"papers"
+  },
+  {
+    "Q":"What was the paper called OPT-R: Exploring the Role of Explanations in Finetuning and Prompting for Reasoning Skills of Large Language Models about?",
+    "A":"It is revealed that having explanations in the fewshot exemplar has no significant impact on the model\u2019s performance when the model is finetuned, while positively affecting the non-finetuned counterpart, and a slight yet consistent increase in classification accuracy as the authors incorporate explanations during prompting and finetuning.",
+    "category":"papers"
+  },
+  {
+    "Q":"What year was the paper called StarCoder: may the source be with you! published?",
+    "A":"2023",
+    "category":"papers"
+  },
+  {
+    "Q":"What was the paper called Generating Images with Multimodal Language Models about?",
+    "A":"This work proposes a method to fuse frozen text-only large language models (LLMs) with pre-trained image encoder and decoder models, by mapping between their embedding spaces, and exhibits a wider range of capabilities compared to prior multimodal language models.",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the first author of the paper called ChatGPT MT: Competitive for High- (but Not Low-) Resource Languages?",
+    "A":"Nathaniel R. Robinson",
+    "category":"papers"
+  },
+  {
+    "Q":"What year was the paper called Plan, Eliminate, and Track - Language Models are Good Teachers for Embodied Agents published?",
+    "A":"2023",
+    "category":"papers"
+  },
+  {
+    "Q":"What was the paper called Evaluation of FluSight influenza forecasting in the 2021\u201322 and 2022\u201323 seasons with a new target laboratory-confirmed influenza hospitalizations about?",
+    "A":"Averaging across all forecast targets, the FluSight ensemble was the 2nd most accurate model measured by WIS in 2021-22 and the 5th most accurate in the 2022-23 season and most component models degraded over longer forecast horizons and during periods of rapid change.",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the first author of the paper called Multimodal Learning Without Labeled Multimodal Data: Guarantees and Applications?",
+    "A":"P. Liang",
+    "category":"papers"
+  },
+  {
+    "Q":"Who were the authors of the paper called Seasonal and Diurnal Characteristics of the Vertical Profile of Aerosol Optical Properties in Urban Beijing, 2017-2021?",
+    "A":"Xinglu Zhang, Yu Zheng, H. Che, K. Gui, Lei Li, Hujia Zhao, Yuanxin Liang, Wenrui Yao, Xindan Zhang, Hengheng Zhao, Yanting Lu, Xiaoye Zhang",
+    "category":"papers"
+  },
+  {
+    "Q":"At what venue was the paper called Evaluation of FluSight influenza forecasting in the 2021\u201322 and 2022\u201323 seasons with a new target laboratory-confirmed influenza hospitalizations published?",
+    "A":"medRxiv",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the last author of the paper called WebArena: A Realistic Web Environment for Building Autonomous Agents?",
+    "A":"Graham Neubig",
+    "category":"papers"
+  },
+  {
+    "Q":"Who were the authors of the paper called Quantitative Evaluation of Dust and Black Carbon Column Concentration in the MERRA-2 Reanalysis Dataset Using Satellite-Based Component Retrievals?",
+    "A":"Lei Li, H. Che, Xin Su, Xindan Zhang, K. Gui, Yu Zheng, Hujia Zhao, Hengheng Zhao, Yuanxin Liang, Yadong Lei, Lei Zhang, J. Zhong, Zhili Wang, Xiaoye Zhang",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the last author of the paper called Crossing the Threshold: Idiomatic Machine Translation through Retrieval Augmentation and Loss Weighting?",
+    "A":"Graham Neubig",
+    "category":"papers"
+  },
+  {
+    "Q":"At what venue was the paper called Language Models Get a Gender Makeover: Mitigating Gender Bias with Few-Shot Data Interventions published?",
+    "A":"Annual Meeting of the Association for Computational Linguistics",
+    "category":"papers"
+  },
+  {
+    "Q":"Who were the authors of the paper called It\u2019s MBR All the Way Down: Modern Generation Techniques Through the Lens of Minimum Bayes Risk?",
+    "A":"Amanda Bertsch, Alex Xie, Graham Neubig, Matthew R. Gormley",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the first author of the paper called Dynamic-SUPERB: Towards A Dynamic, Collaborative, and Comprehensive Instruction-Tuning Benchmark for Speech?",
+    "A":"Chien-yu Huang",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the last author of the paper called Difference-Masking: Choosing What to Mask in Continued Pretraining?",
+    "A":"Louis-Philippe Morency",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the last author of the paper called Can Large Language Models Infer Causation from Correlation??",
+    "A":"B. Scholkopf",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the last author of the paper called MultiZoo & MultiBench: A Standardized Toolkit for Multimodal Deep Learning?",
+    "A":"R. Salakhutdinov",
+    "category":"papers"
+  },
+  {
+    "Q":"What was the paper called How About Kind of Generating Hedges using End-to-End Neural Models? about?",
+    "A":"This work develops a model of hedge generation based on fine-tuning state-of-the-art language models trained on human-human tutoring data, followed by reranking to select the candidate that best matches the expected hedging strategy within a candidate pool using a hedge classifier.",
+    "category":"papers"
+  },
+  {
+    "Q":"At what venue was the paper called Advancing Regular Language Reasoning in Linear Recurrent Neural Networks published?",
+    "A":"arXiv.org",
+    "category":"papers"
+  },
+  {
+    "Q":"What was the paper called Counterfactual Augmentation for Multimodal Learning Under Presentation Bias about?",
+    "A":"Empirical evaluations demonstrate that counterfactual augmentation yields better downstream performance compared to both uncorrected models and existing bias-correction methods, and model analyses indicate that the generatedcounterfactuals align closely with true counterfactUALs in an oracle setting.",
+    "category":"papers"
+  },
+  {
+    "Q":"At what venue was the paper called From Dogwhistles to Bullhorns: Unveiling Coded Rhetoric with Language Models published?",
+    "A":"Annual Meeting of the Association for Computational Linguistics",
+    "category":"papers"
+  },
+  {
+    "Q":"What year was the paper called Don't Take This Out of Context!: On the Need for Contextual Models and Evaluations for Stylistic Rewriting published?",
+    "A":"2023",
+    "category":"papers"
+  },
+  {
+    "Q":"Who were the authors of the paper called WebUI: A Dataset for Enhancing Visual UI Understanding with Web Semantics?",
+    "A":"Jason Wu, Siyan Wang, Siman Shen, Yi-Hao Peng, Jeffrey Nichols, Jeffrey P. Bigham",
+    "category":"papers"
+  },
+  {
+    "Q":"What was the paper called Value Kaleidoscope: Engaging AI with Pluralistic Human Values, Rights, and Duties about?",
+    "A":"Kaleido is built, an open, light-weight, and structured language-based multi-task model that generates, explains, and assesses the relevance and valence of human values, rights, and duties within a specific context and demonstrates that Kaleido can help explain variability in human decision-making by outputting contrasting values.",
+    "category":"papers"
+  },
+  {
+    "Q":"Who were the authors of the paper called Neural Mixed Effects for Nonlinear Personalized Predictions?",
+    "A":"T. W\u00f6rtwein, Nicholas Allen, Lisa B. Sheeber, R. Auerbach, J. Cohn, Louis-Philippe Morency",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the first author of the paper called How About Kind of Generating Hedges using End-to-End Neural Models??",
+    "A":"Alafate Abulimiti",
+    "category":"papers"
+  },
+  {
+    "Q":"What year was the paper called It\u2019s MBR All the Way Down: Modern Generation Techniques Through the Lens of Minimum Bayes Risk published?",
+    "A":"2023",
+    "category":"papers"
+  },
+  {
+    "Q":"What year was the paper called MusicLDM: Enhancing Novelty in Text-to-Music Generation Using Beat-Synchronous Mixup Strategies published?",
+    "A":"2023",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the last author of the paper called The Roles of Symbols in Neural-based AI: They are Not What You Think!?",
+    "A":"Tom M. Mitchell",
+    "category":"papers"
+  },
+  {
+    "Q":"At what venue was the paper called CLIPSonic: Text-to-Audio Synthesis with Unlabeled Videos and Pretrained Language-Vision Models published?",
+    "A":"IEEE Workshop on Applications of Signal Processing to Audio and Acoustics",
+    "category":"papers"
+  },
+  {
+    "Q":"What year was the paper called MultiViz: Towards User-Centric Visualizations and Interpretations of Multimodal Models published?",
+    "A":"2023",
+    "category":"papers"
+  },
+  {
+    "Q":"What year was the paper called Evaluation of FluSight influenza forecasting in the 2021\u201322 and 2022\u201323 seasons with a new target laboratory-confirmed influenza hospitalizations published?",
+    "A":"2023",
+    "category":"papers"
+  },
+  {
+    "Q":"What was the paper called COBRA Frames: Contextual Reasoning about Effects and Harms of Offensive Statements about?",
+    "A":"COBRA frames are introduced, the first context-aware formalism for explaining the intents, reactions, and harms of offensive or biased statements grounded in their social and situational context, and the importance and feasibility of contextualized NLP by modeling social factors are highlighted.",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the last author of the paper called The Devil Is in the Errors: Leveraging Large Language Models for Fine-grained Machine Translation Evaluation?",
+    "A":"Orhan Firat",
+    "category":"papers"
+  },
+  {
+    "Q":"At what venue was the paper called Multi-Objective Improvement of Android Applications published?",
+    "A":"arXiv.org",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the first author of the paper called Factorized Contrastive Learning: Going Beyond Multi-view Redundancy?",
+    "A":"P. Liang",
+    "category":"papers"
+  },
+  {
+    "Q":"Who were the authors of the paper called Do Privacy Labels Answer Users' Privacy Questions??",
+    "A":"Shikun Zhang, N. Sadeh",
+    "category":"papers"
+  },
+  {
+    "Q":"What was the paper called Clever Hans or Neural Theory of Mind? Stress Testing Social Reasoning in Large Language Models about?",
+    "A":"It is found that while LLMs exhibit certain N-ToM abilities, this behavior is far from being robust, indicating reliance on shallow heuristics rather than robust ToM abilities.",
+    "category":"papers"
+  },
+  {
+    "Q":"At what venue was the paper called WebArena: A Realistic Web Environment for Building Autonomous Agents published?",
+    "A":"arXiv.org",
+    "category":"papers"
+  },
+  {
+    "Q":"What year was the paper called Learning to Generate Equitable Text in Dialogue from Biased Training Data published?",
+    "A":"2023",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the first author of the paper called Counterfactual Augmentation for Multimodal Learning Under Presentation Bias?",
+    "A":"Victoria Lin",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the first author of the paper called SPAE: Semantic Pyramid AutoEncoder for Multimodal Generation with Frozen LLMs?",
+    "A":"Lijun Yu",
+    "category":"papers"
+  },
+  {
+    "Q":"Who were the authors of the paper called The Devil Is in the Errors: Leveraging Large Language Models for Fine-grained Machine Translation Evaluation?",
+    "A":"Patrick Fernandes, Daniel Deutsch, M. Finkelstein, Parker Riley, Andr\u00e9 F. T. Martins, Graham Neubig, Ankush Garg, J. Clark, Markus Freitag, Orhan Firat",
+    "category":"papers"
+  },
+  {
+    "Q":"What was the paper called Learning to Generate Equitable Text in Dialogue from Biased Training Data about?",
+    "A":"This work provides formal definitions of equity in text generation, and proves formal connections between learning human-likeness and learning equity: algorithms for improving equity ultimately reduce to algorithms forimproving human- likeness (on augmented data).",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the first author of the paper called A Gold Standard Dataset for the Reviewer Assignment Problem?",
+    "A":"Ivan Stelmakh",
+    "category":"papers"
+  },
+  {
+    "Q":"Who were the authors of the paper called Screen Correspondence: Mapping Interchangeable Elements between UIs?",
+    "A":"Jason Wu, Amanda Swearngin, Xiaoyi Zhang, Jeffrey Nichols, Jeffrey P. Bigham",
+    "category":"papers"
+  },
+  {
+    "Q":"What was the paper called Are aligned neural networks adversarially aligned? about?",
+    "A":"It is shown that existing NLP-based optimization attacks are insufficiently powerful to reliably attack aligned text models, and conjecture that improved NLP attacks may demonstrate this same level of adversarial control over text-only models.",
+    "category":"papers"
+  },
+  {
+    "Q":"Who were the authors of the paper called BiasX: \"Thinking Slow\" in Toxic Content Moderation with Explanations of Implied Social Biases?",
+    "A":"Yiming Zhang, Sravani Nanduri, Liwei Jiang, Tongshuang Wu, Maarten Sap",
+    "category":"papers"
+  },
+  {
+    "Q":"What year was the paper called Smaller Language Models are Better Black-box Machine-Generated Text Detectors published?",
+    "A":"2023",
+    "category":"papers"
+  },
+  {
+    "Q":"Who were the authors of the paper called Contrastive Attention Networks for Attribution of Early Modern Print?",
+    "A":"Nikolai Vogler, Kartik Goyal, Kishore PV Reddy, Elizaveta Pertseva, Sam Lemley, Christopher N. Warren, M. GSell, Taylor Berg-Kirkpatrick",
+    "category":"papers"
+  },
+  {
+    "Q":"At what venue was the paper called Automatic Detection of Dyspnea in Real Human\u2013Robot Interaction Scenarios published?",
+    "A":"Italian National Conference on Sensors",
+    "category":"papers"
+  },
+  {
+    "Q":"Who were the authors of the paper called Multi-Objective Improvement of Android Applications?",
+    "A":"Jamie Callan, J. Petke",
+    "category":"papers"
+  },
+  {
+    "Q":"Who were the authors of the paper called BASS: Block-wise Adaptation for Speech Summarization?",
+    "A":"Roshan Sharma, Kenneth Zheng, Siddhant Arora, Shinji Watanabe, Rita Singh, B. Raj",
+    "category":"papers"
+  },
+  {
+    "Q":"At what venue was the paper called Image\u2013text coherence and its implications for multimodal AI published?",
+    "A":"Frontiers in Artificial Intelligence",
+    "category":"papers"
+  },
+  {
+    "Q":"What year was the paper called Quantitative Analysis of Natural Gas Diffusion Characteristics in Tight Oil Reservoirs Based on Experimental and Numerical Simulation Methods published?",
+    "A":"2023",
+    "category":"papers"
+  },
+  {
+    "Q":"What was the paper called SPAE: Semantic Pyramid AutoEncoder for Multimodal Generation with Frozen LLMs about?",
+    "A":"This method marks the first successful attempt to enable a frozen LLM to generate image content while surpassing state-of-the-art performance in image understanding tasks, under the same setting, by over 25%.",
+    "category":"papers"
+  },
+  {
+    "Q":"What was the paper called Factorized Contrastive Learning: Going Beyond Multi-view Redundancy about?",
+    "A":"FactorCL is a new multimodal representation learning method to go beyond multi-view redundancy and captures both shared and unique information and achieves state-of-the-art results on six benchmarks.",
+    "category":"papers"
+  },
+  {
+    "Q":"At what venue was the paper called Riveter: Measuring Power and Social Dynamics Between Entities published?",
+    "A":"Annual Meeting of the Association for Computational Linguistics",
+    "category":"papers"
+  },
+  {
+    "Q":"At what venue was the paper called Large Language Models Enable Few-Shot Clustering published?",
+    "A":"arXiv.org",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the last author of the paper called SigMoreFun Submission to the SIGMORPHON Shared Task on Interlinear Glossing?",
+    "A":"L. Levin",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the last author of the paper called Surveying (Dis)Parities and Concerns of Compute Hungry NLP Research?",
+    "A":"Jesse Dodge",
+    "category":"papers"
+  },
+  {
+    "Q":"Who were the authors of the paper called Riveter: Measuring Power and Social Dynamics Between Entities?",
+    "A":"Maria Antoniak, Anjalie Field, Jimin Mun, Melanie Walsh, Lauren F. Klein, Maarten Sap",
+    "category":"papers"
+  },
+  {
+    "Q":"What was the paper called Neural Mixed Effects for Nonlinear Personalized Predictions about?",
+    "A":"NME combines the efficiency of neural network optimization with nonlinear mixed effects modeling and improves performance across six unimodal and multimodal datasets, including a smartphone dataset to predict daily mood and a mother-adolescent datasets to predict affective state sequences where half the mothers experience symptoms of depression.",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the first author of the paper called Automatic Detection of Dyspnea in Real Human\u2013Robot Interaction Scenarios?",
+    "A":"Eduardo Alvarado",
+    "category":"papers"
+  },
+  {
+    "Q":"What year was the paper called Construction Grammar Provides Unique Insight into Neural Language Models published?",
+    "A":"2023",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the last author of the paper called Transformed Protoform Reconstruction?",
+    "A":"David R. Mortensen",
+    "category":"papers"
+  },
+  {
+    "Q":"What was the paper called Improving Language Models with Advantage-based Offline Policy Gradients about?",
+    "A":"Advantage-Leftover Lunch RL (A-LoL), a new class of offline policy gradient algorithms that enable RL training on any pre-existing data that assumes the entire LM output sequence as a single action, and allows incorporating sequence-level classifiers or human-designed scoring functions as rewards.",
+    "category":"papers"
+  },
+  {
+    "Q":"What was the paper called CodeBERTScore: Evaluating Code Generation with Pretrained Models of Code about?",
+    "A":"It is found that generated code that receives a higher score by CodeBERTScore is more likely to be preferred by humans, as well as to function correctly when executed, than all existing metrics.",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the last author of the paper called USB: A Unified Summarization Benchmark Across Tasks and Domains?",
+    "A":"Zachary Chase Lipton",
+    "category":"papers"
+  },
+  {
+    "Q":"At what venue was the paper called Crossing the Threshold: Idiomatic Machine Translation through Retrieval Augmentation and Loss Weighting published?",
+    "A":"Conference on Empirical Methods in Natural Language Processing",
+    "category":"papers"
+  },
+  {
+    "Q":"At what venue was the paper called Multilingual Content Moderation: A Case Study on Reddit published?",
+    "A":"Conference of the European Chapter of the Association for Computational Linguistics",
+    "category":"papers"
+  },
+  {
+    "Q":"At what venue was the paper called NLPositionality: Characterizing Design Biases of Datasets and Models published?",
+    "A":"Annual Meeting of the Association for Computational Linguistics",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the first author of the paper called Value Kaleidoscope: Engaging AI with Pluralistic Human Values, Rights, and Duties?",
+    "A":"Taylor Sorensen",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the last author of the paper called Quantitative Evaluation of Dust and Black Carbon Column Concentration in the MERRA-2 Reanalysis Dataset Using Satellite-Based Component Retrievals?",
+    "A":"Xiaoye Zhang",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the first author of the paper called Pengi: An Audio Language Model for Audio Tasks?",
+    "A":"Soham Deshmukh",
+    "category":"papers"
+  },
+  {
+    "Q":"Who were the authors of the paper called Chain-of-Skills: A Configurable Model for Open-Domain Question Answering?",
+    "A":"Kaixin Ma, Hao Cheng, Yu Zhang, Xiaodong Liu, Eric Nyberg, Jianfeng Gao",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the first author of the paper called VideoGLUE: Video General Understanding Evaluation of Foundation Models?",
+    "A":"Liangzhe Yuan",
+    "category":"papers"
+  },
+  {
+    "Q":"What was the paper called On the Interactions of Structural Constraints and Data Resources for Structured Prediction about?",
+    "A":"An analysis on the interactions of the effectiveness of decoding with structural constraints and the amount of available training data for structured prediction tasks in NLP finds that models trained with less data predict outputs with more structural violations in greedy decoding mode.",
+    "category":"papers"
+  },
+  {
+    "Q":"What was the paper called Automatic Detection of Dyspnea in Real Human\u2013Robot Interaction Scenarios about?",
+    "A":"A respiratory distress estimation technique for telephony previously proposed by the authors is adapted and evaluated in real static and dynamic HRI scenarios and the combination of both types of classifiers provides the best joint accuracy and AUC score.",
+    "category":"papers"
+  },
+  {
+    "Q":"At what venue was the paper called Towards Open-Domain Twitter User Profile Inference published?",
+    "A":"Annual Meeting of the Association for Computational Linguistics",
+    "category":"papers"
+  },
+  {
+    "Q":"Who were the authors of the paper called Evaluation of FluSight influenza forecasting in the 2021\u201322 and 2022\u201323 seasons with a new target laboratory-confirmed influenza hospitalizations?",
+    "A":"Sarabeth M. Mathis, Alexander E. Webber, Tom\u00e1s M Le\u00f3n, Erin L. Murray, Monica Sun, L. A. White, L. Brooks, Alden Green, Addison J. Hu, Daniel J McDonald, Roni Rosenfeld, Dmitry Shemetov, R. Tibshirani, S. Kandula, Sen Pei, Jeffrey Shaman, R. Yaari, T. Yamana, Pulak Agarwal, Srikar Balusu, Gautham Gururajan, Harshavardhan Kamarthi, B. A. Prakash, Rishi Raman, Alexander Rodr\u00edguez, Zhiyuan Zhao, Akilan Meiyappan, Shalina Omar, P. Baccam, H. Gurung, S. Stage, B. Suchoski, M. Ajelli, A. G. Kummer, M. Litvinova, Paulo C. Ventura, Spencer Wadsworth, Jarad Niemi, Erica Carcelen, Alison Hill, Sung-Mok Jung, J. Lemaitre, J. Lessler, Sara L. Loo, Clif McKee, Koji Sato, Clair Smith, S. Truelove, Thomas McAndrew, Wenxuan Ye, Nikos Bosse, W. Hlavacek, Yen Ting Lin, A. Mallela, Ye Chen, Shelby Lamm, Jaechoul Lee, Richard G Posner, A. Perofsky, C\u00e9cile Viboud, Leonardo Clemente, Fred Lu, Austin G Meyer, Mauricio Santillana, Matteo Chinazzi, Jessica T. Davis, K. Mu, A. Pastore y Piontti, A. Vespignani, X. Xiong, M. Ben-Nun, P. Riley, J. Turtle, Chis Hulme-Lowe, Shakeel Jessa, V. Nagraj, Stephen D. Turner, Desiree Williams, Avranil Basu, John M Drake, S. Fox, G. Gibson, Ehsan Suez, E. Thommes, Monica G. Cojocaru, E. Cramer, Aaron Gerding, A. Stark, E. Ray, Nick Reich, Li Shandross, N. Wattanachit, Yijin Wang, Martha W Zorn, Majd Al Aawar, A. Srivastava, L. A. Meyers, A. Adiga, Benjamin Hurt, Gursharn Kaur, Bryan L Lewis, M. Marathe, S. Venkatramanan, P. Butler, Andrew Farabow, N. Muralidhar, Naren Ramakrishnan, Carrie Reed, M. Biggerstaff, R. Borchering",
+    "category":"papers"
+  },
+  {
+    "Q":"What year was the paper called PlayGround Low Resource Machine Translation System for the 2023 AmericasNLP Shared Task published?",
+    "A":"2023",
+    "category":"papers"
+  },
+  {
+    "Q":"Who were the authors of the paper called Quantifying & Modeling Feature Interactions: An Information Decomposition Framework?",
+    "A":"P. Liang, Yun Cheng, Xiang Fan, Chun Kai Ling, Suzanne Nie, Richard J. Chen, Zihao Deng, Faisal Mahmood, R. Salakhutdinov, Louis-Philippe Morency",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the last author of the paper called Multilingual Content Moderation: A Case Study on Reddit?",
+    "A":"Malihe Alikhani",
+    "category":"papers"
+  },
+  {
+    "Q":"Who were the authors of the paper called Multi-Dimensional Evaluation of Text Summarization with In-Context Learning?",
+    "A":"Sameer Jain, Vaishakh Keshava, Swarnashree Mysore Sathyendra, Patrick Fernandes, Pengfei Liu, Graham Neubig, Chunting Zhou",
+    "category":"papers"
+  },
+  {
+    "Q":"What year was the paper called Clever Hans or Neural Theory of Mind? Stress Testing Social Reasoning in Large Language Models published?",
+    "A":"2023",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the first author of the paper called PlayGround Low Resource Machine Translation System for the 2023 AmericasNLP Shared Task?",
+    "A":"Tianrui Gu",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the first author of the paper called Structured Dialogue Discourse Parsing?",
+    "A":"Ta-Chung Chi",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the last author of the paper called Don't Take This Out of Context! On the Need for Contextual Models and Evaluations for Stylistic Rewriting?",
+    "A":"Maarten Sap",
+    "category":"papers"
+  },
+  {
+    "Q":"What year was the paper called Chain-of-Skills: A Configurable Model for Open-Domain Question Answering published?",
+    "A":"2023",
+    "category":"papers"
+  },
+  {
+    "Q":"What year was the paper called ALERT: Adapt Language Models to Reasoning Tasks published?",
+    "A":"2023",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the last author of the paper called Expanding the Role of Affective Phenomena in Multimodal Interaction Research?",
+    "A":"Louis-Philippe Morency",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the first author of the paper called Methods for Measuring, Updating, and Visualizing Factual Beliefs in Language Models?",
+    "A":"Peter Hase",
+    "category":"papers"
+  },
+  {
+    "Q":"What year was the paper called How About Kind of Generating Hedges using End-to-End Neural Models? published?",
+    "A":"2023",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the first author of the paper called Do Privacy Labels Answer Users' Privacy Questions??",
+    "A":"Shikun Zhang",
+    "category":"papers"
+  },
+  {
+    "Q":"What was the paper called Construction Grammar Provides Unique Insight into Neural Language Models about?",
+    "A":"The view of the most important challenges and research questions that this promising new field of research faces is provided, and an analysis of selected previous work in detail is provided.",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the last author of the paper called Structured Dialogue Discourse Parsing?",
+    "A":"Alexander I. Rudnicky",
+    "category":"papers"
+  },
+  {
+    "Q":"Who were the authors of the paper called Extracting Training Data from Diffusion Models?",
+    "A":"Nicholas Carlini, Jamie Hayes, Milad Nasr, Matthew Jagielski, Vikash Sehwag, Florian Tram\u00e8r, B. Balle, Daphne Ippolito, Eric Wallace",
+    "category":"papers"
+  },
+  {
+    "Q":"At what venue was the paper called Counterfactual Augmentation for Multimodal Learning Under Presentation Bias published?",
+    "A":"Conference on Empirical Methods in Natural Language Processing",
+    "category":"papers"
+  },
+  {
+    "Q":"Who were the authors of the paper called Deriving Vocal Fold Oscillation Information from Recorded Voice Signals Using Models of Phonation?",
+    "A":"Wayne Zhao, Rita Singh",
+    "category":"papers"
+  },
+  {
+    "Q":"At what venue was the paper called PWESuite: Phonetic Word Embeddings and Tasks They Facilitate published?",
+    "A":"arXiv.org",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the first author of the paper called Exploring Stigmergic Collaboration and Task Modularity Through an Expert Crowdsourcing Annotation System: The Case of Storm Phenomena in the Euro-Atlantic Region?",
+    "A":"Dennis Paulino",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the first author of the paper called Correcting for heterogeneity in real-time epidemiological indicators?",
+    "A":"Aaron M. Rumack",
+    "category":"papers"
+  },
+  {
+    "Q":"What was the paper called ClimaBench: A Benchmark Dataset For Climate Change Text Understanding in English about?",
+    "A":"Climate Change Benchmark (ClimaBench) is introduced, a benchmark collection of existing disparate datasets for evaluating model performance across a diverse set of CC NLU tasks systematically and an analysis of several generic and CC-oriented models answering whether tuning on domain text offers any improvements across these tasks.",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the last author of the paper called Why do Nearest Neighbor Language Models Work??",
+    "A":"Graham Neubig",
+    "category":"papers"
+  },
+  {
+    "Q":"What was the paper called A Pretrainer's Guide to Training Data: Measuring the Effects of Data Age, Domain Coverage, Quality, & Toxicity about?",
+    "A":"These findings constitute the largest set of experiments to validate, quantify, and expose many undocumented intuitions about text pretraining, which are hoped to help support more informed data-centric decisions in LM development.",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the last author of the paper called InPars-Light: Cost-Effective Unsupervised Training of Efficient Rankers?",
+    "A":"Eric Nyberg",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the first author of the paper called Image\u2013text coherence and its implications for multimodal AI?",
+    "A":"Malihe Alikhani",
+    "category":"papers"
+  },
+  {
+    "Q":"What year was the paper called OPT-R: Exploring the Role of Explanations in Finetuning and Prompting for Reasoning Skills of Large Language Models published?",
+    "A":"2023",
+    "category":"papers"
+  },
+  {
+    "Q":"What was the paper called Latent Phrase Matching for Dysarthric Speech about?",
+    "A":"A query-by-example-based personalized phrase recognition system that is trained using small amounts of speech, is language agnostic, does not assume a traditional pronunciation lexicon, and generalizes well across speech difference severities is proposed.",
+    "category":"papers"
+  },
+  {
+    "Q":"What year was the paper called MOSAIC: Learning Unified Multi-Sensory Object Property Representations for Robot Perception published?",
+    "A":"2023",
+    "category":"papers"
+  },
+  {
+    "Q":"Who were the authors of the paper called PlayGround Low Resource Machine Translation System for the 2023 AmericasNLP Shared Task?",
+    "A":"Tianrui Gu, Kaie Chen, Siqi Ouyang, Lei Li",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the last author of the paper called Contrastive Attention Networks for Attribution of Early Modern Print?",
+    "A":"Taylor Berg-Kirkpatrick",
+    "category":"papers"
+  },
+  {
+    "Q":"What year was the paper called The Roles of Symbols in Neural-based AI: They are Not What You Think! published?",
+    "A":"2023",
+    "category":"papers"
+  },
+  {
+    "Q":"What year was the paper called Deriving Vocal Fold Oscillation Information from Recorded Voice Signals Using Models of Phonation published?",
+    "A":"2023",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the first author of the paper called MultiViz: Towards User-Centric Visualizations and Interpretations of Multimodal Models?",
+    "A":"P. Liang",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the last author of the paper called A Vector Quantized Approach for Text to Speech Synthesis on Real-World Spontaneous Speech?",
+    "A":"Alexander I. Rudnicky",
+    "category":"papers"
+  },
+  {
+    "Q":"What was the paper called The Devil Is in the Errors: Leveraging Large Language Models for Fine-grained Machine Translation Evaluation about?",
+    "A":"This paper proposes AutoMQM, a prompting technique which leverages the reasoning and in-context learning capabilities of large language models (LLMs) and asks them to identify and categorize errors in translations, and finds that it improves performance compared to just prompting for scores.",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the first author of the paper called StarCoder: may the source be with you!?",
+    "A":"Raymond Li",
+    "category":"papers"
+  },
+  {
+    "Q":"What year was the paper called On the Interactions of Structural Constraints and Data Resources for Structured Prediction published?",
+    "A":"2023",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the last author of the paper called GlobalBench: A Benchmark for Global Progress in Natural Language Processing?",
+    "A":"Graham Neubig",
+    "category":"papers"
+  },
+  {
+    "Q":"At what venue was the paper called Do All Languages Cost the Same? Tokenization in the Era of Commercial Language Models published?",
+    "A":"Conference on Empirical Methods in Natural Language Processing",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the last author of the paper called Dynamic-SUPERB: Towards A Dynamic, Collaborative, and Comprehensive Instruction-Tuning Benchmark for Speech?",
+    "A":"Hung-yi Lee",
+    "category":"papers"
+  },
+  {
+    "Q":"At what venue was the paper called Generalized Glossing Guidelines: An Explicit, Human- and Machine-Readable, Item-and-Process Convention for Morphological Annotation published?",
+    "A":"Special Interest Group on Computational Morphology and Phonology Workshop",
+    "category":"papers"
+  },
+  {
+    "Q":"At what venue was the paper called The Hidden Dance of Phonemes and Visage: Unveiling the Enigmatic Link between Phonemes and Facial Features published?",
+    "A":"Interspeech",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the last author of the paper called MultiViz: Towards User-Centric Visualizations and Interpretations of Multimodal Models?",
+    "A":"R. Salakhutdinov",
+    "category":"papers"
+  },
+  {
+    "Q":"Who were the authors of the paper called Why do Nearest Neighbor Language Models Work??",
+    "A":"Frank F. Xu, Uri Alon, Graham Neubig",
+    "category":"papers"
+  },
+  {
+    "Q":"What year was the paper called ChatGPT MT: Competitive for High- (but Not Low-) Resource Languages published?",
+    "A":"2023",
+    "category":"papers"
+  },
+  {
+    "Q":"At what venue was the paper called Can Large Language Models Infer Causation from Correlation? published?",
+    "A":"arXiv.org",
+    "category":"papers"
+  },
+  {
+    "Q":"What year was the paper called A Gene-Based Algorithm for Identifying Factors That May Affect a Speaker\u2019s Voice published?",
+    "A":"2023",
+    "category":"papers"
+  },
+  {
+    "Q":"What year was the paper called ATLAS: Automatically Detecting Discrepancies Between Privacy Policies and Privacy Labels published?",
+    "A":"2023",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the first author of the paper called Do All Languages Cost the Same? Tokenization in the Era of Commercial Language Models?",
+    "A":"Orevaoghene Ahia",
+    "category":"papers"
+  },
+  {
+    "Q":"Who were the authors of the paper called Towards Improving Harmonic Sensitivity and Prediction Stability for Singing Melody Extraction?",
+    "A":"Keren Shao, K. Chen, Taylor Berg-Kirkpatrick, S. Dubnov",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the last author of the paper called Muse: Text-To-Image Generation via Masked Generative Transformers?",
+    "A":"Dilip Krishnan",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the last author of the paper called CodeBERTScore: Evaluating Code Generation with Pretrained Models of Code?",
+    "A":"Graham Neubig",
+    "category":"papers"
+  },
+  {
+    "Q":"What year was the paper called Data-efficient Active Learning for Structured Prediction with Partial Annotation and Self-Training published?",
+    "A":"2023",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the last author of the paper called Counterfactual Augmentation for Multimodal Learning Under Presentation Bias?",
+    "A":"Srinagesh Sharma",
+    "category":"papers"
+  },
+  {
+    "Q":"At what venue was the paper called Never-ending Learning of User Interfaces published?",
+    "A":"ACM Symposium on User Interface Software and Technology",
+    "category":"papers"
+  },
+  {
+    "Q":"Who were the authors of the paper called Overview of Robust and Multilingual Automatic Evaluation Metrics?",
+    "A":"Mario Rodriguez-Cantelar, Chen Zhang, Chengguang Tang, Ke Shi, Sarik Ghazarian, Jo\u00e3o Sedoc, L. F. D\u2019Haro, Alexander I. Rudnicky",
+    "category":"papers"
+  },
+  {
+    "Q":"What was the paper called Advancing Regular Language Reasoning in Linear Recurrent Neural Networks about?",
+    "A":"This work theoretically analyze some existing LRNNs and proposes a new LRNN equipped with a block-diagonal and input-dependent transition matrix that is the only LRNN that can perform length extrapolation on regular language tasks such as Sum, Even Pair, and Modular Arithmetic.",
+    "category":"papers"
+  },
+  {
+    "Q":"What year was the paper called CSurF: Sparse Lexical Retrieval through Contextualized Surface Forms published?",
+    "A":"2023",
+    "category":"papers"
+  },
+  {
+    "Q":"What was the paper called Image\u2013text coherence and its implications for multimodal AI about?",
+    "A":"This paper shows how image\u2013text coherence relations can be used to model the pragmatics of image-text presentations in AI systems, and reviews case studies describing coherence in image\u2013 Text data sets, predicting coherence from few-shot annotations, and coherence models of image\u2013 text tasks such as caption generation and caption evaluation.",
+    "category":"papers"
+  },
+  {
+    "Q":"What year was the paper called Language-Agnostic Transformers and Assessing ChatGPT-Based Query Rewriting for Multilingual Document-Grounded QA published?",
+    "A":"2023",
+    "category":"papers"
+  },
+  {
+    "Q":"What was the paper called Unlimiformer: Long-Range Transformers with Unlimited Length Input about?",
+    "A":"This work proposes Unlimiformer: a general approach that wraps any existing pretrained encoder-decoder transformer, and offloads the cross-attention computation to a single k-nearest-neighbor (kNN) index, while the returned kNN distances are the attention dot-product scores.",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the first author of the paper called SantaCoder: don't reach for the stars!?",
+    "A":"Loubna Ben Allal",
+    "category":"papers"
+  },
+  {
+    "Q":"What year was the paper called Pengi: An Audio Language Model for Audio Tasks published?",
+    "A":"2023",
+    "category":"papers"
+  },
+  {
+    "Q":"At what venue was the paper called HomeRobot: Open-Vocabulary Mobile Manipulation published?",
+    "A":"Conference on Robot Learning",
+    "category":"papers"
+  },
+  {
+    "Q":"At what venue was the paper called To Build Our Future, We Must Know Our Past: Contextualizing Paradigm Shifts in Natural Language Processing published?",
+    "A":"Conference on Empirical Methods in Natural Language Processing",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the first author of the paper called Towards Open-Domain Twitter User Profile Inference?",
+    "A":"Haoyang Wen",
+    "category":"papers"
+  },
+  {
+    "Q":"What year was the paper called Active Retrieval Augmented Generation published?",
+    "A":"2023",
+    "category":"papers"
+  },
+  {
+    "Q":"Who were the authors of the paper called MusicLDM: Enhancing Novelty in Text-to-Music Generation Using Beat-Synchronous Mixup Strategies?",
+    "A":"K. Chen, Yusong Wu, Haohe Liu, Marianna Nezhurina, Taylor Berg-Kirkpatrick, S. Dubnov",
+    "category":"papers"
+  },
+  {
+    "Q":"What year was the paper called Neural Machine Translation for the Indigenous Languages of the Americas: An Introduction published?",
+    "A":"2023",
+    "category":"papers"
+  },
+  {
+    "Q":"Who were the authors of the paper called Making Scalable Meta Learning Practical?",
+    "A":"Sang Keun Choe, Sanket Vaibhav Mehta, Hwijeen Ahn, W. Neiswanger, Pengtao Xie, Emma Strubell, Eric P. Xing",
+    "category":"papers"
+  },
+  {
+    "Q":"What was the paper called Score: A Rule Engine for the Scone Knowledge Base System about?",
+    "A":"The Scone system is augmented with a production rule engine that automatically performs simple inference based on existing and newly-added structures in Scone's knowledge base, potentially improving the capabilities of any planning systems built on top of Scone.",
+    "category":"papers"
+  },
+  {
+    "Q":"What was the paper called GameQA: Gamified Mobile App Platform for Building Multiple-Domain Question-Answering Datasets about?",
+    "A":"This work developed a novel crowd-sourcing platform to gather multiple-domain QA data for low-resource languages and successfully released the app for Icelandic to build a dataset which rivals large QA datasets for high- resource languages both in terms of size and ratio of answered questions.",
+    "category":"papers"
+  },
+  {
+    "Q":"What year was the paper called Improving Language Models with Advantage-based Offline Policy Gradients published?",
+    "A":"2023",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the first author of the paper called MultiZoo & MultiBench: A Standardized Toolkit for Multimodal Deep Learning?",
+    "A":"P. Liang",
+    "category":"papers"
+  },
+  {
+    "Q":"What was the paper called Do Privacy Labels Answer Users' Privacy Questions? about?",
+    "A":"A crowd-sourced corpus of privacy questions collected from mobile app users is analyzed to determine to what extent these mobile app labels actually address users\u2019 privacy concerns and questions.",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the first author of the paper called Never-ending Learning of User Interfaces?",
+    "A":"Jason Wu",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the first author of the paper called A corpus of Persian literary text?",
+    "A":"Shahab Raji",
+    "category":"papers"
+  },
+  {
+    "Q":"Who were the authors of the paper called From Dogwhistles to Bullhorns: Unveiling Coded Rhetoric with Language Models?",
+    "A":"Julia Mendelsohn, Ronan Le Bras, Yejin Choi, Maarten Sap",
+    "category":"papers"
+  },
+  {
+    "Q":"At what venue was the paper called The Troubling Emergence of Hallucination in Large Language Models - An Extensive Definition, Quantification, and Prescriptive Remediations published?",
+    "A":"Conference on Empirical Methods in Natural Language Processing",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the first author of the paper called Reasoning about the Unseen for Efficient Outdoor Object Navigation?",
+    "A":"Quanting Xie",
+    "category":"papers"
+  },
+  {
+    "Q":"What year was the paper called Exploring Stigmergic Collaboration and Task Modularity Through an Expert Crowdsourcing Annotation System: The Case of Storm Phenomena in the Euro-Atlantic Region published?",
+    "A":"2023",
+    "category":"papers"
+  },
+  {
+    "Q":"What was the paper called PlayGround Low Resource Machine Translation System for the 2023 AmericasNLP Shared Task about?",
+    "A":"PlayGround\u2019s submission to the AmericasNLP 2023 shared task on machine translation (MT) into indigenous languages is presented and the effectiveness of weight averaging and back translation is examined.",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the last author of the paper called OPT-R: Exploring the Role of Explanations in Finetuning and Prompting for Reasoning Skills of Large Language Models?",
+    "A":"Mona T. Diab",
+    "category":"papers"
+  },
+  {
+    "Q":"Who were the authors of the paper called Don't Take This Out of Context!: On the Need for Contextual Models and Evaluations for Stylistic Rewriting?",
+    "A":"Akhila Yerukola, Xuhui Zhou, Elizabeth Clark, Maarten Sap",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the last author of the paper called When to generate hedges in peer-tutoring interactions?",
+    "A":"Justine Cassell",
+    "category":"papers"
+  },
+  {
+    "Q":"What was the paper called CLIPSonic: Text-to-Audio Synthesis with Unlabeled Videos and Pretrained Language-Vision Models about?",
+    "A":"This work proposes to learn the desired text-audio correspondence by leveraging the visual modality as a bridge in videos and pretrained language-vision models, and shows competitive performance against a state-of-the-art image-to-audio synthesis model in a subjective listening test.",
+    "category":"papers"
+  },
+  {
+    "Q":"What was the paper called Multimodal Learning Without Labeled Multimodal Data: Guarantees and Applications about?",
+    "A":"This work proposes two lower bounds based on the amount of shared information between modalities and the disagreement between separately trained unimodal classifiers, and derive an upper bound through connections to approximate algorithms for min-entropy couplings and validate these estimated bounds and show how they accurately track true interactions.",
+    "category":"papers"
+  },
+  {
+    "Q":"Who were the authors of the paper called To Build Our Future, We Must Know Our Past: Contextualizing Paradigm Shifts in Natural Language Processing?",
+    "A":"Sireesh Gururaja, Amanda Bertsch, Clara Na, D. Widder, Emma Strubell",
+    "category":"papers"
+  },
+  {
+    "Q":"What year was the paper called Regularizing Self-training for Unsupervised Domain Adaptation via Structural Constraints published?",
+    "A":"2023",
+    "category":"papers"
+  },
+  {
+    "Q":"At what venue was the paper called Don't Take This Out of Context!: On the Need for Contextual Models and Evaluations for Stylistic Rewriting published?",
+    "A":"Conference on Empirical Methods in Natural Language Processing",
+    "category":"papers"
+  },
+  {
+    "Q":"What year was the paper called DataFinder: Scientific Dataset Recommendation from Natural Language Descriptions published?",
+    "A":"2023",
+    "category":"papers"
+  },
+  {
+    "Q":"What year was the paper called USB: A Unified Summarization Benchmark Across Tasks and Domains published?",
+    "A":"2023",
+    "category":"papers"
+  },
+  {
+    "Q":"At what venue was the paper called Multimodal Learning Without Labeled Multimodal Data: Guarantees and Applications published?",
+    "A":"arXiv.org",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the first author of the paper called MOSAIC: Learning Unified Multi-Sensory Object Property Representations for Robot Perception?",
+    "A":"Gyan Tatiya",
+    "category":"papers"
+  },
+  {
+    "Q":"Who were the authors of the paper called OpenMatch-v2: An All-in-one Multi-Modality PLM-based Information Retrieval Toolkit?",
+    "A":"Shi Yu, Zhenghao Liu, Chenyan Xiong, Zhiyuan Liu",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the first author of the paper called Findings of the Second WMT Shared Task on Sign Language Translation (WMT-SLT23)?",
+    "A":"Mathias M\u00fcller",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the first author of the paper called Membership Inference Attacks against Language Models via Neighbourhood Comparison?",
+    "A":"Justus Mattern",
+    "category":"papers"
+  },
+  {
+    "Q":"What year was the paper called Modeling Empathic Similarity in Personal Narratives published?",
+    "A":"2023",
+    "category":"papers"
+  },
+  {
+    "Q":"Who were the authors of the paper called Multi-lingual and Multi-cultural Figurative Language Understanding?",
+    "A":"Anubha Kabra, Emmy Liu, Simran Khanuja, Alham Fikri Aji, Genta Indra Winata, Samuel Cahyawijaya, Anuoluwapo Aremu, Perez Ogayo, Graham Neubig",
+    "category":"papers"
+  },
+  {
+    "Q":"At what venue was the paper called Construction Grammar Provides Unique Insight into Neural Language Models published?",
+    "A":"0",
+    "category":"papers"
+  },
+  {
+    "Q":"At what venue was the paper called Don't Take This Out of Context! On the Need for Contextual Models and Evaluations for Stylistic Rewriting published?",
+    "A":"arXiv.org",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the last author of the paper called Regularizing Self-training for Unsupervised Domain Adaptation via Structural Constraints?",
+    "A":"Jose Moura",
+    "category":"papers"
+  },
+  {
+    "Q":"What was the paper called PWESuite: Phonetic Word Embeddings and Tasks They Facilitate about?",
+    "A":"Three methods that use articulatory features to build phonetically informed word embeddings are developed that address the inconsistent evaluation of existing phonetic word embedding methods and contribute a task suite to fairly evaluate past, current, and future methods.",
+    "category":"papers"
+  },
+  {
+    "Q":"What was the paper called NLPositionality: Characterizing Design Biases of Datasets and Models about?",
+    "A":"NLPositionality, a framework for characterizing design biases and quantifying the positionality of NLP datasets and models, is introduced and it is found that dataset and models align predominantly with Western, White, college-educated, and younger populations.",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the first author of the paper called WebArena: A Realistic Web Environment for Building Autonomous Agents?",
+    "A":"Shuyan Zhou",
+    "category":"papers"
+  },
+  {
+    "Q":"At what venue was the paper called DataFinder: Scientific Dataset Recommendation from Natural Language Descriptions published?",
+    "A":"Annual Meeting of the Association for Computational Linguistics",
+    "category":"papers"
+  },
+  {
+    "Q":"What was the paper called WebUI: A Dataset for Enhancing Visual UI Understanding with Web Semantics about?",
+    "A":"This work crawled the web to construct WebUI, a large dataset of 400,000 rendered web pages associated with automatically extracted metadata, and analyzed the composition of WebUI to show that while automatically extracted data is noisy, most examples meet basic criteria for visual UI modeling.",
+    "category":"papers"
+  },
+  {
+    "Q":"What year was the paper called Multilingual Content Moderation: A Case Study on Reddit published?",
+    "A":"2023",
+    "category":"papers"
+  },
+  {
+    "Q":"Who were the authors of the paper called Modeling Empathic Similarity in Personal Narratives?",
+    "A":"Jocelyn Shen, Maarten Sap, Pedro Colon-Hernandez, Hae Won Park, C. Breazeal",
+    "category":"papers"
+  },
+  {
+    "Q":"What was the paper called MOSAIC: Learning Unified Multi-Sensory Object Property Representations for Robot Perception about?",
+    "A":"This work pioneers the application of CLIP-based sensory grounding in robotics, promising a significant leap in multi-sensory perception capabilities for autonomous systems.",
+    "category":"papers"
+  },
+  {
+    "Q":"What year was the paper called CodeBERTScore: Evaluating Code Generation with Pretrained Models of Code published?",
+    "A":"2023",
+    "category":"papers"
+  },
+  {
+    "Q":"Who were the authors of the paper called D-CALM: A Dynamic Clustering-based Active Learning Approach for Mitigating Bias?",
+    "A":"Sabit Hassan, Malihe Alikhani",
+    "category":"papers"
+  },
+  {
+    "Q":"Who were the authors of the paper called Multilingual Machine Translation with Large Language Models: Empirical Results and Analysis?",
+    "A":"Wenhao Zhu, Hongyi Liu, Qingxiu Dong, Jingjing Xu, Lingpeng Kong, Jiajun Chen, Lei Li, Shujian Huang",
+    "category":"papers"
+  },
+  {
+    "Q":"Who were the authors of the paper called A Vector Quantized Approach for Text to Speech Synthesis on Real-World Spontaneous Speech?",
+    "A":"Li-Wei Chen, Shinji Watanabe, Alexander I. Rudnicky",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the first author of the paper called Improving Language Models with Advantage-based Offline Policy Gradients?",
+    "A":"Ashutosh Baheti",
+    "category":"papers"
+  },
+  {
+    "Q":"What was the paper called Conversational Search with Random Walks over Entity Graphs about?",
+    "A":"Experiments show that using random walks to estimate entity centrality on conversation entity graphs improves top precision answer passage ranking over competitive transformer-based baselines.",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the first author of the paper called Understanding Masked Autoencoders via Hierarchical Latent Variable Models?",
+    "A":"Lingjing Kong",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the last author of the paper called OpenMatch-v2: An All-in-one Multi-Modality PLM-based Information Retrieval Toolkit?",
+    "A":"Zhiyuan Liu",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the last author of the paper called The Hidden Dance of Phonemes and Visage: Unveiling the Enigmatic Link between Phonemes and Facial Features?",
+    "A":"B. Raj",
+    "category":"papers"
+  },
+  {
+    "Q":"At what venue was the paper called Active Retrieval Augmented Generation published?",
+    "A":"Conference on Empirical Methods in Natural Language Processing",
+    "category":"papers"
+  },
+  {
+    "Q":"Who were the authors of the paper called Latent Phrase Matching for Dysarthric Speech?",
+    "A":"Colin S. Lea, Dianna Yee, Jaya Narain, Zifang Huang, Lauren Tooley, Jeffrey P. Bigham, Leah Findlater",
+    "category":"papers"
+  },
+  {
+    "Q":"At what venue was the paper called Jointly modeling products and resource pages for task-oriented recommendation published?",
+    "A":"The Web Conference",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the first author of the paper called Towards Countering Essentialism through Social Bias Reasoning?",
+    "A":"Emily Allaway",
+    "category":"papers"
+  },
+  {
+    "Q":"What was the paper called Jointly modeling products and resource pages for task-oriented recommendation about?",
+    "A":"This paper jointly model product interactions and resource page interactions to create a system which can recommend both products and resource pages to users, and extends a state-of-the-art system to incorporate this new intent data, and shows a significant improvement in the ability of the system to recommend products.",
+    "category":"papers"
+  },
+  {
+    "Q":"At what venue was the paper called StyleDrop: Text-to-Image Generation in Any Style published?",
+    "A":"arXiv.org",
+    "category":"papers"
+  },
+  {
+    "Q":"At what venue was the paper called SantaCoder: don't reach for the stars! published?",
+    "A":"arXiv.org",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the last author of the paper called Neural Machine Translation for the Indigenous Languages of the Americas: An Introduction?",
+    "A":"Katharina Kann",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the first author of the paper called Language-Agnostic Transformers and Assessing ChatGPT-Based Query Rewriting for Multilingual Document-Grounded QA?",
+    "A":"Srinivas Gowriraj",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the first author of the paper called StyleDrop: Text-to-Image Generation in Any Style?",
+    "A":"Kihyuk Sohn",
+    "category":"papers"
+  },
+  {
+    "Q":"At what venue was the paper called Learning Disentangled Prompts for Compositional Image Synthesis published?",
+    "A":"arXiv.org",
+    "category":"papers"
+  },
+  {
+    "Q":"At what venue was the paper called COBRA Frames: Contextual Reasoning about Effects and Harms of Offensive Statements published?",
+    "A":"Annual Meeting of the Association for Computational Linguistics",
+    "category":"papers"
+  },
+  {
+    "Q":"At what venue was the paper called ALERT: Adapt Language Models to Reasoning Tasks published?",
+    "A":"Annual Meeting of the Association for Computational Linguistics",
+    "category":"papers"
+  },
+  {
+    "Q":"What was the paper called SenteCon: Leveraging Lexicons to Learn Human-Interpretable Language Representations about?",
+    "A":"This work presents SenteCon, a method for introducing human interpretability in deep language representations that outperforms existing interpretable language representations with respect to both its downstream performance and its agreement with human characterizations of the text.",
+    "category":"papers"
+  },
+  {
+    "Q":"What was the paper called KALE: Using a K-Sparse Projector for Lexical Expansion about?",
+    "A":"KALE is a new lightweight method that uses a small model with a k-sparse projector to convert dense representations into a sparse set of entries from a latent vocabulary, which can replace the original lexical vocabulary with gains in accuracy and efficiency.",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the last author of the paper called Learning Multimodal Cues of Children\u2019s Uncertainty?",
+    "A":"Malihe Alikhani",
+    "category":"papers"
+  },
+  {
+    "Q":"What was the paper called Crossing the Threshold: Idiomatic Machine Translation through Retrieval Augmentation and Loss Weighting about?",
+    "A":"To improve translation of natural idioms, this work introduces two straightforward yet effective techniques: the strategic upweighting of training loss on potentially idiomatic sentences, and using retrieval-augmented models.",
+    "category":"papers"
+  },
+  {
+    "Q":"Who were the authors of the paper called FacTool: Factuality Detection in Generative AI - A Tool Augmented Framework for Multi-Task and Multi-Domain Scenarios?",
+    "A":"Ethan Chern, Steffi Chern, Shiqi Chen, Weizhe Yuan, Kehua Feng, Chunting Zhou, Junxian He, Graham Neubig, Pengfei Liu",
+    "category":"papers"
+  },
+  {
+    "Q":"Who were the authors of the paper called Cross-Modal Fine-Tuning: Align then Refine?",
+    "A":"Junhong Shen, Liam Li, L. Dery, Corey Staten, M. Khodak, Graham Neubig, Ameet Talwalkar",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the first author of the paper called On the Interactions of Structural Constraints and Data Resources for Structured Prediction?",
+    "A":"Zhisong Zhang",
+    "category":"papers"
+  },
+  {
+    "Q":"What was the paper called Chain-of-Skills: A Configurable Model for Open-Domain Question Answering about?",
+    "A":"This work proposes a modular retriever where individual modules correspond to key skills that can be reused across datasets and achieves state-of-the-art fine-tuned retrieval performance on NQ, HotpotQA and OTT-QA.",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the last author of the paper called A Gold Standard Dataset for the Reviewer Assignment Problem?",
+    "A":"Nihar B. Shah",
+    "category":"papers"
+  },
+  {
+    "Q":"What year was the paper called Cross-Modal Fine-Tuning: Align then Refine published?",
+    "A":"2023",
+    "category":"papers"
+  },
+  {
+    "Q":"What year was the paper called Quantitative Evaluation of Dust and Black Carbon Column Concentration in the MERRA-2 Reanalysis Dataset Using Satellite-Based Component Retrievals published?",
+    "A":"2023",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the last author of the paper called ClimaBench: A Benchmark Dataset For Climate Change Text Understanding in English?",
+    "A":"Taylor Berg-Kirkpatrick",
+    "category":"papers"
+  },
+  {
+    "Q":"Who were the authors of the paper called SantaCoder: don't reach for the stars!?",
+    "A":"Loubna Ben Allal, Raymond Li, Denis Kocetkov, Chenghao Mou, Christopher Akiki, Carlos Mu\u00f1oz Ferrandis, Niklas Muennighoff, Mayank Mishra, A. Gu, Manan Dey, Logesh Kumar Umapathi, Carolyn Jane Anderson, Yangtian Zi, J. Poirier, Hailey Schoelkopf, S. Troshin, Dmitry Abulkhanov, M. Romero, M. Lappert, F. Toni, Bernardo Garcia del Rio, Qian Liu, Shamik Bose, Urvashi Bhattacharyya, Terry Yue Zhuo, I. Yu, Paulo Villegas, Marco Zocca, Sourab Mangrulkar, D. Lansky, Huu Nguyen, Danish Contractor, Luisa Villa, Jia Li, Dzmitry Bahdanau, Yacine Jernite, S. Hughes, Daniel Fried, Arjun Guha, Harm de Vries, Leandro von Werra",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the last author of the paper called Multi-Objective Improvement of Android Applications?",
+    "A":"J. Petke",
+    "category":"papers"
+  },
+  {
+    "Q":"Who were the authors of the paper called Methods for Measuring, Updating, and Visualizing Factual Beliefs in Language Models?",
+    "A":"Peter Hase, Mona T. Diab, Asli Celikyilmaz, Xian Li, Zornitsa Kozareva, Veselin Stoyanov, Mohit Bansal, Srini Iyer",
+    "category":"papers"
+  },
+  {
+    "Q":"What year was the paper called VideoGLUE: Video General Understanding Evaluation of Foundation Models published?",
+    "A":"2023",
+    "category":"papers"
+  },
+  {
+    "Q":"Who were the authors of the paper called Expanding the Role of Affective Phenomena in Multimodal Interaction Research?",
+    "A":"Leena Mathur, Maja J Mataric, Louis-Philippe Morency",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the first author of the paper called Learning to Generate Equitable Text in Dialogue from Biased Training Data?",
+    "A":"Anthony Sicilia",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the first author of the paper called OpenMatch-v2: An All-in-one Multi-Modality PLM-based Information Retrieval Toolkit?",
+    "A":"Shi Yu",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the first author of the paper called Jointly modeling products and resource pages for task-oriented recommendation?",
+    "A":"B. Duncan",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the last author of the paper called A Pretrainer's Guide to Training Data: Measuring the Effects of Data Age, Domain Coverage, Quality, & Toxicity?",
+    "A":"Daphne Ippolito",
+    "category":"papers"
+  },
+  {
+    "Q":"What was the paper called Active Retrieval Augmented Generation about?",
+    "A":"This work proposes Forward-Looking Active REtrieval augmented generation (FLARE), a generic method which iteratively uses a prediction of the upcoming sentence to anticipate future content, which is then utilized as a query to retrieve relevant documents to regenerate the sentence if it contains low-confidence tokens.",
+    "category":"papers"
+  },
+  {
+    "Q":"At what venue was the paper called Bridging the Gap: A Survey on Integrating (Human) Feedback for Natural Language Generation published?",
+    "A":"arXiv.org",
+    "category":"papers"
+  },
+  {
+    "Q":"What year was the paper called COBRA Frames: Contextual Reasoning about Effects and Harms of Offensive Statements published?",
+    "A":"2023",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the last author of the paper called Learning to Generate Equitable Text in Dialogue from Biased Training Data?",
+    "A":"Malihe Alikhani",
+    "category":"papers"
+  },
+  {
+    "Q":"Who were the authors of the paper called DataFinder: Scientific Dataset Recommendation from Natural Language Descriptions?",
+    "A":"Vijay Viswanathan, Luyu Gao, Tongshuang Sherry Wu, Pengfei Liu, Graham Neubig",
+    "category":"papers"
+  },
+  {
+    "Q":"What year was the paper called Learning Multimodal Cues of Children\u2019s Uncertainty published?",
+    "A":"2023",
+    "category":"papers"
+  },
+  {
+    "Q":"Who was the first author of the paper called SHAP-based Prediction of Mother's History of Depression to Understand the Influence on Child Behavior?",
+    "A":"Maneesh Bilalpur",
+    "category":"papers"
+  }
+]

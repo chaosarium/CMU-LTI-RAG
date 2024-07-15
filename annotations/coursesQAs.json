@@ -1,0 +1,1502 @@
+[
+  {
+    "Q":"Which department offers the course 07-070 Teaching Techniques for Computer Science?",
+    "A":"SCS Interdisciplinary",
+    "category":"courses"
+  },
+  {
+    "Q":"How many units does the course 16-883 Special Topics: Provably Safe Robotics carry?",
+    "A":"12",
+    "category":"courses"
+  },
+  {
+    "Q":"Who taught 60-263 Intermediate Studio: Graphic Novel in the semester Spring 2024?",
+    "A":"John Pena",
+    "category":"courses"
+  },
+  {
+    "Q":"What are the prerequisites for 48-200 Architecture Design Studio: POIESIS STUDIO 3?",
+    "A":"48-100 and 48-105 and 62-122 and 62-125 and 62-126 and 62-104 and 48-025 and 62-123",
+    "category":"courses"
+  },
+  {
+    "Q":"Which department offers the course 84-793 IPS Policy Seminar III?",
+    "A":"Institute for Politics and Strategy",
+    "category":"courses"
+  },
+  {
+    "Q":"How many units does the course 51-952 Progress Reviews II carry?",
+    "A":"0",
+    "category":"courses"
+  },
+  {
+    "Q":"Who taught 12-750 Infrastructure Management in the semester Spring 2024?",
+    "A":"Donald Coffelt",
+    "category":"courses"
+  },
+  {
+    "Q":"Which room or rooms does the course 98-122 Blackjack Techniques take place in Fall 2023?",
+    "A":"POS 145",
+    "category":"courses"
+  },
+  {
+    "Q":"How many units does the course 82-241 Intermediate Spanish I carry?",
+    "A":"9",
+    "category":"courses"
+  },
+  {
+    "Q":"Which department offers the course 09-050 Study Abroad?",
+    "A":"Chemistry",
+    "category":"courses"
+  },
+  {
+    "Q":"Which department offers the course 69-155 Cardio Fitness Sculpt?",
+    "A":"Physical Education",
+    "category":"courses"
+  },
+  {
+    "Q":"Which department offers the course 94-403 Consulting Lab?",
+    "A":"Heinz College Wide Courses",
+    "category":"courses"
+  },
+  {
+    "Q":"Which room or rooms does the course 94-845 Smart Cities: Growth and Intelligent Transportation Systems take place in Fall 2023?",
+    "A":"HBH 2008",
+    "category":"courses"
+  },
+  {
+    "Q":"How many units does the course 51-262 Design Center: Communication and Digital Design Fundamentals carry?",
+    "A":"9",
+    "category":"courses"
+  },
+  {
+    "Q":"Which department offers the course 51-365 Creative Technology Sprints?",
+    "A":"Design",
+    "category":"courses"
+  },
+  {
+    "Q":"How many units does the course 21-254 Linear Algebra and Vector Calculus for Engineers carry?",
+    "A":"11",
+    "category":"courses"
+  },
+  {
+    "Q":"Who taught 51-425 Design Center: Beginning Book Arts Lab in the semester Fall 2023?",
+    "A":"Joseph Dicey",
+    "category":"courses"
+  },
+  {
+    "Q":"How many units does the course 16-745 Optimal Control and Reinforcement Learning carry?",
+    "A":"12",
+    "category":"courses"
+  },
+  {
+    "Q":"Which department offers the course 62-141 Black and White Photography I?",
+    "A":"CFA Interdisciplinary",
+    "category":"courses"
+  },
+  {
+    "Q":"Who taught 95-828 Machine Learning for Problem Solving in the semester Spring 2024?",
+    "A":"Leman Akoglu",
+    "category":"courses"
+  },
+  {
+    "Q":"Which room or rooms does the course 95-884 Network Defenses take place in Fall 2023?",
+    "A":"HBH 2009",
+    "category":"courses"
+  },
+  {
+    "Q":"Who taught 54-489 Dramaturgy: Internship in the semester Spring 2024?",
+    "A":"W. Arons",
+    "category":"courses"
+  },
+  {
+    "Q":"Which room or rooms does the course 57-665 History of the Piano take place in Spring 2024?",
+    "A":"HOA 224",
+    "category":"courses"
+  },
+  {
+    "Q":"Which department offers the course 05-661 Advanced Interaction Design?",
+    "A":"Human-Computer Interaction",
+    "category":"courses"
+  },
+  {
+    "Q":"Which room or rooms does the course 54-050 Study Abroad take place in Fall 2023?",
+    "A":"",
+    "category":"courses"
+  },
+  {
+    "Q":"How many units does the course 82-482 Introduction to Translation carry?",
+    "A":"9",
+    "category":"courses"
+  },
+  {
+    "Q":"Which department offers the course 39-220 Experiential Learning II?",
+    "A":"CIT Interdisciplinary",
+    "category":"courses"
+  },
+  {
+    "Q":"How many units does the course 33-051 Study Abroad carry?",
+    "A":"0",
+    "category":"courses"
+  },
+  {
+    "Q":"Which department offers the course 45-851 Data Mining?",
+    "A":"Business Administration",
+    "category":"courses"
+  },
+  {
+    "Q":"How many units does the course 57-101 Introduction to Music Technology carry?",
+    "A":"6",
+    "category":"courses"
+  },
+  {
+    "Q":"Which department offers the course 57-517 Major Studio (Trombone)?",
+    "A":"Music",
+    "category":"courses"
+  },
+  {
+    "Q":"Which room or rooms does the course 99-360 IDeATe: E-Textiles take place in Spring 2024?",
+    "A":"HL A10",
+    "category":"courses"
+  },
+  {
+    "Q":"How many units does the course 18-787 Data Analytics carry?",
+    "A":"6",
+    "category":"courses"
+  },
+  {
+    "Q":"Which department offers the course 99-262 ADDvocate: Anti-Discrimination Dialogue for Social Justice?",
+    "A":"Carnegie Mellon University-Wide Studies",
+    "category":"courses"
+  },
+  {
+    "Q":"Who taught 80-603 Formal Methods: Tools and Techniques in the semester Fall 2023?",
+    "A":"Krzysztof Mierzewski",
+    "category":"courses"
+  },
+  {
+    "Q":"What are the prerequisites for 03-744 Membrane Trafficking?",
+    "A":"03-240 or 03-320",
+    "category":"courses"
+  },
+  {
+    "Q":"Which department offers the course 57-149 Basic Harmony I?",
+    "A":"Music",
+    "category":"courses"
+  },
+  {
+    "Q":"Which room or rooms does the course 14-819 Introduction to Software Reverse-Engineering take place in Spring 2024?",
+    "A":"CMU REMOTE; INI DEC",
+    "category":"courses"
+  },
+  {
+    "Q":"Who taught 11-935 LTI Practicum in the semester Spring 2024?",
+    "A":"Robert Frederking",
+    "category":"courses"
+  },
+  {
+    "Q":"What are the prerequisites for 76-439 Novelistic Television?",
+    "A":"(76-101) or (76-102) or (76-107 and 76-106) or (76-106 and 76-108) or (76-107 and 76-108)",
+    "category":"courses"
+  },
+  {
+    "Q":"Which department offers the course 18-460 Optimization?",
+    "A":"Electrical & Computer Engineering",
+    "category":"courses"
+  },
+  {
+    "Q":"Which department offers the course 09-111 Nanolegos: Chemical Building Blocks?",
+    "A":"Chemistry",
+    "category":"courses"
+  },
+  {
+    "Q":"Who taught 45-824 Venture Capital and Private Equity in the semester Spring 2024?",
+    "A":"Matthew Denes",
+    "category":"courses"
+  },
+  {
+    "Q":"Who taught 54-254 New Play Development in the semester Spring 2024?",
+    "A":"Kristi Good; TJ Young",
+    "category":"courses"
+  },
+  {
+    "Q":"Which room or rooms does the course 49-712 User Experience Research: Theory, Methods, Practice take place in Fall 2023?",
+    "A":"CA 115",
+    "category":"courses"
+  },
+  {
+    "Q":"How many units does the course 03-511 Computational Molecular Biology and Genomics carry?",
+    "A":"9",
+    "category":"courses"
+  },
+  {
+    "Q":"Who taught 73-436 Applied Projects for Business and Economics in the semester Spring 2024?",
+    "A":"Vaibhav Keshav",
+    "category":"courses"
+  },
+  {
+    "Q":"Which department offers the course 95-568 Data Management and Security?",
+    "A":"Information Systems:Sch of IS & Mgt",
+    "category":"courses"
+  },
+  {
+    "Q":"What are the prerequisites for 70-495 Corporate Finance?",
+    "A":"21-370 or 70-391",
+    "category":"courses"
+  },
+  {
+    "Q":"Which department offers the course 32-200 Naval Laboratory?",
+    "A":"Naval Science - ROTC",
+    "category":"courses"
+  },
+  {
+    "Q":"How many units does the course 36-225 Introduction to Probability Theory carry?",
+    "A":"9",
+    "category":"courses"
+  },
+  {
+    "Q":"Which department offers the course 57-775 Vocal Pedagogy II?",
+    "A":"Music",
+    "category":"courses"
+  },
+  {
+    "Q":"Which room or rooms does the course 24-887 Machine Learning & Artificial Intelligence for Engineers take place in Spring 2024?",
+    "A":"CMU REMOTE",
+    "category":"courses"
+  },
+  {
+    "Q":"Which department offers the course 84-348 Advocacy, Policy and Practice?",
+    "A":"Institute for Politics and Strategy",
+    "category":"courses"
+  },
+  {
+    "Q":"Which department offers the course 48-791 M.S. Project?",
+    "A":"Architecture",
+    "category":"courses"
+  },
+  {
+    "Q":"How many units does the course 67-272 Application Design and Development carry?",
+    "A":"12",
+    "category":"courses"
+  },
+  {
+    "Q":"Which department offers the course 15-322 Introduction to Computer Music?",
+    "A":"Computer Science",
+    "category":"courses"
+  },
+  {
+    "Q":"Who taught 57-618 Independent Study in Conducting in the semester Fall 2023?",
+    "A":"Daniel Curtis; Denis Colwell; Instructor TBA",
+    "category":"courses"
+  },
+  {
+    "Q":"Which room or rooms does the course 95-451 Making Products Count: Data Science for Product Managers take place in Fall 2023?",
+    "A":"HBH 2008",
+    "category":"courses"
+  },
+  {
+    "Q":"What are the prerequisites for 33-122 Physics II for Biological Sciences and Chemistry Students?",
+    "A":"(21-120 and 33-121) or (33-151) or (33-141) or (21-120 and 33-111) or (33-131) or (33-106)",
+    "category":"courses"
+  },
+  {
+    "Q":"How many units does the course 57-420 JIVE - CMU Jazz Choir carry?",
+    "A":"3",
+    "category":"courses"
+  },
+  {
+    "Q":"Who taught 57-596 Sophomore Recital in the semester Spring 2024?",
+    "A":"Andres Cardenes; Anne Williams; Christopher Wu; David Harding; David Premo; Frederic Chiu; Instructor TBA; Micah Howard; Sergey Schepkin; William van der Sloot",
+    "category":"courses"
+  },
+  {
+    "Q":"Which room or rooms does the course 03-642 Graduate Molecular Biology take place in Fall 2023?",
+    "A":"DH 1212",
+    "category":"courses"
+  },
+  {
+    "Q":"Which room or rooms does the course 18-989 Introduction to Graduate Studies take place in Fall 2023?",
+    "A":"B23 227; BH A51",
+    "category":"courses"
+  },
+  {
+    "Q":"Which room or rooms does the course 76-239 Introduction to Film Studies take place in Spring 2024?",
+    "A":"DH 2315; POS 153",
+    "category":"courses"
+  },
+  {
+    "Q":"How many units does the course 79-233 Forced Displacement, Migration, and Statelessness in the Modern Middle East carry?",
+    "A":"6",
+    "category":"courses"
+  },
+  {
+    "Q":"Which room or rooms does the course 67-100 Information Systems First Year Colloquium take place in Fall 2023?",
+    "A":"CMB 1064; DH A302",
+    "category":"courses"
+  },
+  {
+    "Q":"How many units does the course 51-725 MDES\/MPS Interaction Design Lab carry?",
+    "A":"6",
+    "category":"courses"
+  },
+  {
+    "Q":"Which room or rooms does the course 54-862 Anti-Racist & Equitable Practices in Theater take place in Spring 2024?",
+    "A":"PH 226A",
+    "category":"courses"
+  },
+  {
+    "Q":"How many units does the course 45-928 Energy Finance carry?",
+    "A":"6",
+    "category":"courses"
+  },
+  {
+    "Q":"How many units does the course 70-438 Commercialization and Innovation carry?",
+    "A":"9",
+    "category":"courses"
+  },
+  {
+    "Q":"Who taught 46-921 Financial Data Science I in the semester Fall 2023?",
+    "A":"Chad Schafer",
+    "category":"courses"
+  },
+  {
+    "Q":"Who taught 57-236 Performance for Composers in the semester Fall 2023?",
+    "A":"Nancy Galbraith; R. James Whipple",
+    "category":"courses"
+  },
+  {
+    "Q":"How many units does the course 51-438 Letterpress\/Screen-printing DIY Workshop carry?",
+    "A":"9",
+    "category":"courses"
+  },
+  {
+    "Q":"Which department offers the course 02-731 Modeling Evolution?",
+    "A":"Computational Biology",
+    "category":"courses"
+  },
+  {
+    "Q":"Who taught 09-381 Environmental Systems on a Changing Planet: Science & Engineering Addendum in the semester Fall 2023?",
+    "A":"Ryan Sullivan",
+    "category":"courses"
+  },
+  {
+    "Q":"Who taught 82-174 Introduction to Japanese II in the semester Fall 2023?",
+    "A":"Bo Zhan",
+    "category":"courses"
+  },
+  {
+    "Q":"Which room or rooms does the course 18-349 Introduction to Embedded Systems take place in Spring 2024?",
+    "A":"HH B103",
+    "category":"courses"
+  },
+  {
+    "Q":"Which department offers the course 24-451 Feedback Control Systems?",
+    "A":"Mechanical Engineering",
+    "category":"courses"
+  },
+  {
+    "Q":"Who taught 57-700 Major Studio (Voice) in the semester Spring 2024?",
+    "A":"Alexandra Gruber; Daniel Teadt; Elizabeth Lawrence; Jennifer Aylmer; Maria Spacagna; Marianne Cornetti",
+    "category":"courses"
+  },
+  {
+    "Q":"Who taught 15-330 Introduction to Computer Security in the semester Fall 2023?",
+    "A":"Bryan Parno",
+    "category":"courses"
+  },
+  {
+    "Q":"Which room or rooms does the course 73-332 Political Economy take place in Spring 2024?",
+    "A":"TEP 2702",
+    "category":"courses"
+  },
+  {
+    "Q":"Which department offers the course 57-610 Internship?",
+    "A":"Music",
+    "category":"courses"
+  },
+  {
+    "Q":"Which room or rooms does the course 54-792 Graduate Playwriting II take place in Spring 2024?",
+    "A":"PH 125C",
+    "category":"courses"
+  },
+  {
+    "Q":"How many units does the course 76-373 Argument carry?",
+    "A":"9",
+    "category":"courses"
+  },
+  {
+    "Q":"Which room or rooms does the course 05-795 Applications of Cognitive Science take place in Spring 2024?",
+    "A":"BH 336B",
+    "category":"courses"
+  },
+  {
+    "Q":"Who taught 73-270 Professional Communication for Economists in the semester Spring 2024?",
+    "A":"Carla Bevins",
+    "category":"courses"
+  },
+  {
+    "Q":"Who taught 94-827 SAS for Public Policy in the semester Spring 2024?",
+    "A":"Gerald Hunter",
+    "category":"courses"
+  },
+  {
+    "Q":"Who taught 21-902 Doctoral Thesis Research in the semester Fall 2023?",
+    "A":"Agoston Pisztora; Alan Frieze; Boris Bukh; Clinton Conley; David Kinderlehrer; Dejan Slepcev; Dmitry Kramkov; Ernest Schimmerling; Florian Frick; Gautam Iyer; Giovanni Leoni; Ian Tice; Instructor TBA; Irene Fonseca; James Cummings; Konstantin Tikhomirov; Martin Larsson; Michael Young; Mykhaylo Shkolnikov; Noel Walkington; Po-Shen Loh; Prasad Tetali; Rami Grossberg; Richard Statman; Robin Neumayer; Theresa Anderson; Tom Bohman; Tomasz Tkocz; Wesley Pegden; William Hrusa",
+    "category":"courses"
+  },
+  {
+    "Q":"What are the prerequisites for 45-870 Strategic Corporate Management?",
+    "A":"45-770",
+    "category":"courses"
+  },
+  {
+    "Q":"Who taught 70-452 Introduction to Product Management in the semester Fall 2023?",
+    "A":"Robert Monroe",
+    "category":"courses"
+  },
+  {
+    "Q":"Which room or rooms does the course 79-465 The Arts in Qatar take place in Spring 2024?",
+    "A":"CMB 1030",
+    "category":"courses"
+  },
+  {
+    "Q":"Who taught 07-120 Introduction to Software Construction in the semester Fall 2023?",
+    "A":"Mayank Goel; Michael Hilton",
+    "category":"courses"
+  },
+  {
+    "Q":"How many units does the course 57-180 Basic Solfege I carry?",
+    "A":"3",
+    "category":"courses"
+  },
+  {
+    "Q":"Which department offers the course 76-718 Communicating in the Global Marketplace?",
+    "A":"English",
+    "category":"courses"
+  },
+  {
+    "Q":"Which department offers the course 67-426 Special Topics - Capstone course in Data Science?",
+    "A":"Information Systems Program",
+    "category":"courses"
+  },
+  {
+    "Q":"Which department offers the course 24-354 Mechatronics Applications in Mechanical Engineering?",
+    "A":"Mechanical Engineering",
+    "category":"courses"
+  },
+  {
+    "Q":"How many units does the course 18-642 Embedded System Software Engineering carry?",
+    "A":"12",
+    "category":"courses"
+  },
+  {
+    "Q":"What are the prerequisites for 18-843 Mobile and Pervasive Computing?",
+    "A":"15-410",
+    "category":"courses"
+  },
+  {
+    "Q":"How many units does the course 18-729 Board-Level RF Systems for the Internet-of-Things carry?",
+    "A":"12",
+    "category":"courses"
+  },
+  {
+    "Q":"Who taught 76-221 Books You Should Have Read By Now in the semester Summer Two 2024?",
+    "A":"Eunji Jo",
+    "category":"courses"
+  },
+  {
+    "Q":"How many units does the course 67-373 Information Systems Consulting Project carry?",
+    "A":"12",
+    "category":"courses"
+  },
+  {
+    "Q":"How many units does the course 21-484 Graph Theory carry?",
+    "A":"9",
+    "category":"courses"
+  },
+  {
+    "Q":"How many units does the course 49-703 Figure it Out: Your Professional Identity and Story carry?",
+    "A":"6",
+    "category":"courses"
+  },
+  {
+    "Q":"How many units does the course 09-105 Introduction to Modern Chemistry I carry?",
+    "A":"10",
+    "category":"courses"
+  },
+  {
+    "Q":"Which department offers the course 42-798 Current Readings in Biomedical Engineering?",
+    "A":"Biomedical Engineering",
+    "category":"courses"
+  },
+  {
+    "Q":"What are the prerequisites for 70-381 Marketing I?",
+    "A":"(76-102) or (76-101) or (76-106 and 76-107) or (76-106 and 76-108) or (76-107 and 76-108)",
+    "category":"courses"
+  },
+  {
+    "Q":"Which department offers the course 82-347 Spanish for Heritage Speakers?",
+    "A":"Modern Languages",
+    "category":"courses"
+  },
+  {
+    "Q":"Who taught 16-880 Engineering Haptic Interfaces in the semester Spring 2024?",
+    "A":"Melisa Orta Martinez",
+    "category":"courses"
+  },
+  {
+    "Q":"How many units does the course 15-652 Foundation Programming Languages carry?",
+    "A":"12",
+    "category":"courses"
+  },
+  {
+    "Q":"How many units does the course 54-191 Acting for Non-Majors carry?",
+    "A":"9",
+    "category":"courses"
+  },
+  {
+    "Q":"Which department offers the course 85-781 Graduate Reading and Research?",
+    "A":"Psychology",
+    "category":"courses"
+  },
+  {
+    "Q":"Which room or rooms does the course 46-904 Financial Computing IV take place in Fall 2023?",
+    "A":"BRD 507; TCS 250",
+    "category":"courses"
+  },
+  {
+    "Q":"How many units does the course 57-477 Music of the Spirit carry?",
+    "A":"6",
+    "category":"courses"
+  },
+  {
+    "Q":"Who taught 54-794 Directing in the semester Spring 2024?",
+    "A":"Dick Block; Instructor TBA",
+    "category":"courses"
+  },
+  {
+    "Q":"Which department offers the course 57-037 Vocal Master Class?",
+    "A":"Music",
+    "category":"courses"
+  },
+  {
+    "Q":"Which room or rooms does the course 17-437 Web Application Development take place in Fall 2023?",
+    "A":"BH A51",
+    "category":"courses"
+  },
+  {
+    "Q":"Who taught 57-662 Piano Maintenance II in the semester Spring 2024?",
+    "A":"Peter Stumpf",
+    "category":"courses"
+  },
+  {
+    "Q":"Who taught 54-335 Auditioning for the Stage in the semester Spring 2024?",
+    "A":"Andrew Smith",
+    "category":"courses"
+  },
+  {
+    "Q":"Who taught 27-201 Structure of Materials in the semester Fall 2023?",
+    "A":"Vincent Sokalski",
+    "category":"courses"
+  },
+  {
+    "Q":"Which department offers the course 54-281 Foundations of Drama II?",
+    "A":"Drama",
+    "category":"courses"
+  },
+  {
+    "Q":"Which room or rooms does the course 04-950 Engineering Artificial Intelligence Capstone take place in Fall 2023?",
+    "A":"CMR F307",
+    "category":"courses"
+  },
+  {
+    "Q":"Who taught 94-491 Lean Innovation Lab in the semester Fall 2023?",
+    "A":"James Riel",
+    "category":"courses"
+  },
+  {
+    "Q":"Which department offers the course 82-418 Advanced Research in French & Francophone Language & Culture?",
+    "A":"Modern Languages",
+    "category":"courses"
+  },
+  {
+    "Q":"Which department offers the course 94-864 Technology, Humanity, and Social Justice: Criminal Justice?",
+    "A":"Heinz College Wide Courses",
+    "category":"courses"
+  },
+  {
+    "Q":"Who taught 60-170 Foundations: Paint\/Print in the semester Spring 2024?",
+    "A":"Daniel Ferrell; Lyndon Barrois; Ranee Henderson",
+    "category":"courses"
+  },
+  {
+    "Q":"Which department offers the course 53-374 Retro Game Lab?",
+    "A":"Entertainment Technology",
+    "category":"courses"
+  },
+  {
+    "Q":"Who taught 10-940 Independent Study in the semester Fall 2023?",
+    "A":"Tom Mitchell",
+    "category":"courses"
+  },
+  {
+    "Q":"Who taught 46-884 Modern Data Management in the semester Spring 2024?",
+    "A":"Yan Huang",
+    "category":"courses"
+  },
+  {
+    "Q":"Which department offers the course 15-294 Rapid Prototyping Technologies?",
+    "A":"Computer Science",
+    "category":"courses"
+  },
+  {
+    "Q":"Who taught 24-231 Fluid Mechanics in the semester Spring 2024?",
+    "A":"Noelia Grande Gutierrez; Shawn Litster",
+    "category":"courses"
+  },
+  {
+    "Q":"Which room or rooms does the course 38-301 TBA take place in Spring 2024?",
+    "A":"CMB 1190",
+    "category":"courses"
+  },
+  {
+    "Q":"Who taught 57-496 BXA Studio (1st semester) in the semester Spring 2024?",
+    "A":"Alberto Almarza; Alexandra Gruber; Andres Cardenes; Andrew Carlisle; Anne Williams; Christopher Allen; Christopher Wu; Craig Knox; Cynthia Dealmeida; Daniel Teadt; David Harding; David Premo; Frederic Chiu; George Vosburgh; Gretchen Van Hoesen; Instructor TBA; Jack Howell; James Houlik; Jason Kush; Jeffrey Dee; Jennifer Aylmer; Jeremy Branson; John Marcinizyn; Katherine Pukinskis; Lance Laduke; Lorna McGhee; Maria Spacagna; Micah Howard; Michael Rusinek; Nancy Galbraith; Nancy Goeres; Neal Berntsen; Paul Evans; Peter Sullivan; R. James Whipple; Rebecca Cherian; Sergey Schepkin; Stephen Kostyniak; William Caballero; William van der Sloot",
+    "category":"courses"
+  },
+  {
+    "Q":"Who taught 69-153 Lifeguard Training in the semester Fall 2023?",
+    "A":"Alicia Gorman; Sara Gauntner",
+    "category":"courses"
+  },
+  {
+    "Q":"How many units does the course 46-977 MSCF Studies in Financial Engineering carry?",
+    "A":"6",
+    "category":"courses"
+  },
+  {
+    "Q":"What are the prerequisites for 57-392 Keyboard Studies (Music Ed)?",
+    "A":"57-391",
+    "category":"courses"
+  },
+  {
+    "Q":"How many units does the course 12-623 Molecular Simulation of Materials carry?",
+    "A":"12",
+    "category":"courses"
+  },
+  {
+    "Q":"Which department offers the course 12-794 Graduate Seminar?",
+    "A":"Civil & Environmental Engineering",
+    "category":"courses"
+  },
+  {
+    "Q":"Which department offers the course 94-820 Consumer Analytics in Health Care?",
+    "A":"Heinz College Wide Courses",
+    "category":"courses"
+  },
+  {
+    "Q":"Who taught 84-797 Graduate Research in the semester Spring 2024?",
+    "A":"Daniel Silverman; Instructor TBA",
+    "category":"courses"
+  },
+  {
+    "Q":"How many units does the course 57-702 Major Studio (Conducting) carry?",
+    "A":"9",
+    "category":"courses"
+  },
+  {
+    "Q":"Which room or rooms does the course 18-873 Spacecraft Design-Build-Fly Laboratory take place in Fall 2023?",
+    "A":"NSH 1305",
+    "category":"courses"
+  },
+  {
+    "Q":"Who taught 95-410 Blockchain Fundamentals in the semester Fall 2023?",
+    "A":"Samuel Perl",
+    "category":"courses"
+  },
+  {
+    "Q":"Which room or rooms does the course 11-603 Python for Data Science take place in Summer One\/All 2024?",
+    "A":"",
+    "category":"courses"
+  },
+  {
+    "Q":"What are the prerequisites for 33-339 Intermediate Electricity and Magnetism II?",
+    "A":"33-338",
+    "category":"courses"
+  },
+  {
+    "Q":"Who taught 38-613 Communication Skills and Professional Development for Scientists in the semester Fall 2023?",
+    "A":"Manfred Paulini",
+    "category":"courses"
+  },
+  {
+    "Q":"Who taught 12-741 Data Management in the semester Fall 2023?",
+    "A":"Mario Berges",
+    "category":"courses"
+  },
+  {
+    "Q":"Which department offers the course 57-670 Chamber Music: Brass?",
+    "A":"Music",
+    "category":"courses"
+  },
+  {
+    "Q":"How many units does the course 79-120 Introduction to African American History: Black Americans and the World carry?",
+    "A":"9",
+    "category":"courses"
+  },
+  {
+    "Q":"How many units does the course 90-719 Physical Technical Systems I carry?",
+    "A":"12",
+    "category":"courses"
+  },
+  {
+    "Q":"Which department offers the course 54-787 Graduate Screenwriting I?",
+    "A":"Drama",
+    "category":"courses"
+  },
+  {
+    "Q":"How many units does the course 57-606 Music History for Graduate Students 1 carry?",
+    "A":"6",
+    "category":"courses"
+  },
+  {
+    "Q":"Who taught 93-846 Cultural Policy & Advocacy in the US in the semester Spring 2024?",
+    "A":"Jeff Poulin",
+    "category":"courses"
+  },
+  {
+    "Q":"How many units does the course 03-600 Biotechnology or Biopharmaceutical Engineering Internship carry?",
+    "A":"3",
+    "category":"courses"
+  },
+  {
+    "Q":"How many units does the course 99-352 IDeATe: Soft Fabrication Skills carry?",
+    "A":"1",
+    "category":"courses"
+  },
+  {
+    "Q":"Who taught 66-400 Dietrich College Senior Honors Colloquium in the semester Fall 2023?",
+    "A":"Joseph Devine",
+    "category":"courses"
+  },
+  {
+    "Q":"Which department offers the course 57-449 Beginning Piano for Children II?",
+    "A":"Music",
+    "category":"courses"
+  },
+  {
+    "Q":"Who taught 94-854 Developing as a Leader in the semester Fall 2023?",
+    "A":"David Lassman",
+    "category":"courses"
+  },
+  {
+    "Q":"How many units does the course 48-716 MSCD Pre-thesis II carry?",
+    "A":"6",
+    "category":"courses"
+  },
+  {
+    "Q":"Which room or rooms does the course 76-461 Refugee Stories: Literature, Art and Film take place in Spring 2024?",
+    "A":"PH 125D",
+    "category":"courses"
+  },
+  {
+    "Q":"Which room or rooms does the course 11-423 ConLanging: Lrng. Ling. & Lang Tech via Constru Artif. Lang. take place in Spring 2024?",
+    "A":"GHC 4301",
+    "category":"courses"
+  },
+  {
+    "Q":"Which department offers the course 54-609 Independent Study in Dramaturgy?",
+    "A":"Drama",
+    "category":"courses"
+  },
+  {
+    "Q":"Which room or rooms does the course 05-670 Digital Service Innovation take place in Spring 2024?",
+    "A":"4SC 104",
+    "category":"courses"
+  },
+  {
+    "Q":"How many units does the course 82-451 Del Son al Reggaeton: Chronicling Countercultural Latin American Soundscapes carry?",
+    "A":"9",
+    "category":"courses"
+  },
+  {
+    "Q":"Which department offers the course 45-863 Risk Analytics?",
+    "A":"Business Administration",
+    "category":"courses"
+  },
+  {
+    "Q":"Who taught 90-937 Independent Study in the semester Summer One\/All 2024?",
+    "A":"Brett Crawford",
+    "category":"courses"
+  },
+  {
+    "Q":"Which department offers the course 15-326 Computational Microeconomics?",
+    "A":"Computer Science",
+    "category":"courses"
+  },
+  {
+    "Q":"Which department offers the course 11-492 Speech Technology for Conversational AI?",
+    "A":"Language Technologies Institute",
+    "category":"courses"
+  },
+  {
+    "Q":"Who taught 18-781 Speech Recognition and Understanding in the semester Fall 2023?",
+    "A":"Shinji Watanabe",
+    "category":"courses"
+  },
+  {
+    "Q":"How many units does the course 04-625 Intrusion Detection Systems carry?",
+    "A":"12",
+    "category":"courses"
+  },
+  {
+    "Q":"Which department offers the course 76-748 Academic Writing and Communication for Graduate Students?",
+    "A":"English",
+    "category":"courses"
+  },
+  {
+    "Q":"Who taught 02-512 Computational Methods for Biological Modeling and Simulation in the semester Fall 2023?",
+    "A":"Oana Carja; Russell Schwartz",
+    "category":"courses"
+  },
+  {
+    "Q":"Who taught 17-437 Web Application Development in the semester Fall 2023?",
+    "A":"Jeffrey Eppinger",
+    "category":"courses"
+  },
+  {
+    "Q":"Which room or rooms does the course 70-443 Digital Marketing and Social Media Strategy take place in Fall 2023?",
+    "A":"CMB 1190",
+    "category":"courses"
+  },
+  {
+    "Q":"Which room or rooms does the course 91-800 Organizational Management take place in Fall 2023?",
+    "A":"HBH 1005",
+    "category":"courses"
+  },
+  {
+    "Q":"How many units does the course 12-702 Fundamentals of Water Quality Engineering carry?",
+    "A":"12",
+    "category":"courses"
+  },
+  {
+    "Q":"Who taught 82-183 AI for Humanities: The Multi-dimensions of World Languages, Arts, and Cultures in the semester Summer Two 2024?",
+    "A":"Ding Zhao; Ting Su",
+    "category":"courses"
+  },
+  {
+    "Q":"Which room or rooms does the course 04-613 ICT Business Economics and Finance take place in Spring 2024?",
+    "A":"CMR F205",
+    "category":"courses"
+  },
+  {
+    "Q":"How many units does the course 82-139 Chinese Language, Culture and Society carry?",
+    "A":"9",
+    "category":"courses"
+  },
+  {
+    "Q":"Who taught 19-684 Engineering and Technology Innovation Management in Practice in the semester Fall 2023?",
+    "A":"Phillip Yu",
+    "category":"courses"
+  },
+  {
+    "Q":"How many units does the course 18-654 Software Verification and Testing carry?",
+    "A":"12",
+    "category":"courses"
+  },
+  {
+    "Q":"Which department offers the course 57-974 Piano Pedagogy II?",
+    "A":"Music",
+    "category":"courses"
+  },
+  {
+    "Q":"Who taught 15-316 Software Foundations of Security and Privacy in the semester Fall 2023?",
+    "A":"Matthew Fredrikson",
+    "category":"courses"
+  },
+  {
+    "Q":"Who taught 09-435 Independent Study Chemistry in the semester Spring 2024?",
+    "A":"Karen Stump",
+    "category":"courses"
+  },
+  {
+    "Q":"How many units does the course 53-341 Distributed Game Studio - Game Art Pipeline carry?",
+    "A":"12",
+    "category":"courses"
+  },
+  {
+    "Q":"Who taught 80-991 Thesis Research in the semester Spring 2024?",
+    "A":"Adam Bjorndahl; Alex London; Christina Bjorndahl; Danielle Wenner; Francesca Zaffora Blando; Instructor TBA; Jeremy Avigad; Kevin Kelly; Kevin Zollman; Mandy Simons; Peter Spirtes; Steve Awodey; Teddy Seidenfeld; Tom Werner; Wayne Wu; Wilfried Sieg",
+    "category":"courses"
+  },
+  {
+    "Q":"Who taught 03-362 Cellular Neuroscience in the semester Fall 2023?",
+    "A":"Aryn Gittis",
+    "category":"courses"
+  },
+  {
+    "Q":"Who taught 82-412 Topics in Arabic Studies in the semester Spring 2024?",
+    "A":"Anouar Rahmani",
+    "category":"courses"
+  },
+  {
+    "Q":"Which department offers the course 82-451 Studies in Latin American Literature and Culture?",
+    "A":"Modern Languages",
+    "category":"courses"
+  },
+  {
+    "Q":"How many units does the course 54-890 Costume Production Monograph carry?",
+    "A":"3",
+    "category":"courses"
+  },
+  {
+    "Q":"Who taught 93-826 External Relations: Fundraising & Individual Giving in the semester Spring 2024?",
+    "A":"Jamie McMahon",
+    "category":"courses"
+  },
+  {
+    "Q":"What are the prerequisites for 95-900 Internship?",
+    "A":"95-717 and 95-718",
+    "category":"courses"
+  },
+  {
+    "Q":"Which room or rooms does the course 99-358 IDeATe: Introduction to the Unity Game Engine take place in Fall 2023?",
+    "A":"HL 106C",
+    "category":"courses"
+  },
+  {
+    "Q":"Who taught 49-608 Professional Practice of Product Innovation in the semester Fall 2023?",
+    "A":"Jason Smith",
+    "category":"courses"
+  },
+  {
+    "Q":"How many units does the course 42-998 Biomedical Engineering PhD Prospectus carry?",
+    "A":"0",
+    "category":"courses"
+  },
+  {
+    "Q":"How many units does the course 79-223 Mexico: From the Aztec Empire to the Drug War carry?",
+    "A":"9",
+    "category":"courses"
+  },
+  {
+    "Q":"Which room or rooms does the course 45-770 Corporate Strategy take place in Fall 2023?",
+    "A":"TEP 2111",
+    "category":"courses"
+  },
+  {
+    "Q":"Which room or rooms does the course 27-305 Introduction to Materials Characterization take place in Spring 2024?",
+    "A":"HH B131",
+    "category":"courses"
+  },
+  {
+    "Q":"Which room or rooms does the course 82-171 Elementary Japanese I take place in Fall 2023?",
+    "A":"WEH 4707",
+    "category":"courses"
+  },
+  {
+    "Q":"Which room or rooms does the course 86-783 Neural Engineering Laboratory take place in Fall 2023?",
+    "A":"MI 130",
+    "category":"courses"
+  },
+  {
+    "Q":"Which room or rooms does the course 42-302 Biomedical Engineering Systems Modeling and Analysis take place in Spring 2024?",
+    "A":"HH B131",
+    "category":"courses"
+  },
+  {
+    "Q":"Which department offers the course 18-344 Computer Systems and the Hardware-Software Interface?",
+    "A":"Electrical & Computer Engineering",
+    "category":"courses"
+  },
+  {
+    "Q":"How many units does the course 03-362 Cellular Neuroscience carry?",
+    "A":"9",
+    "category":"courses"
+  },
+  {
+    "Q":"Which department offers the course 51-228 Communications Studio II: Designing Communications for Interactions?",
+    "A":"Design",
+    "category":"courses"
+  },
+  {
+    "Q":"How many units does the course 62-469 Intermediate Stained Glass carry?",
+    "A":"3",
+    "category":"courses"
+  },
+  {
+    "Q":"Who taught 36-202 Methods for Statistics & Data Science in the semester Summer Two 2024?",
+    "A":"Gordon Weinberg",
+    "category":"courses"
+  },
+  {
+    "Q":"How many units does the course 79-492 Faculty Research Assistant carry?",
+    "A":"9",
+    "category":"courses"
+  },
+  {
+    "Q":"Which department offers the course 99-355 IDeATe: Introduction to Arduino?",
+    "A":"Carnegie Mellon University-Wide Studies",
+    "category":"courses"
+  },
+  {
+    "Q":"Who taught 76-239 Introduction to Film Studies in the semester Fall 2023?",
+    "A":"Jeffrey Hinkelman; Jeffrey Squires",
+    "category":"courses"
+  },
+  {
+    "Q":"Which department offers the course 49-704 iii Seminar Series?",
+    "A":"Integrated Innovation Institute",
+    "category":"courses"
+  },
+  {
+    "Q":"Which room or rooms does the course 33-115 Physics for Future Presidents take place in Fall 2023?",
+    "A":"CMB 1190",
+    "category":"courses"
+  },
+  {
+    "Q":"Who taught 33-232 Mathematical Methods of Physics in the semester Spring 2024?",
+    "A":"Diana Parno",
+    "category":"courses"
+  },
+  {
+    "Q":"Which room or rooms does the course 39-612 Energy Policy and Economics take place in Spring 2024?",
+    "A":"HH B131",
+    "category":"courses"
+  },
+  {
+    "Q":"Which department offers the course 76-296 20th Century Russian Masterpieces?",
+    "A":"English",
+    "category":"courses"
+  },
+  {
+    "Q":"Which room or rooms does the course 54-759 Working with Dramaturgs take place in Fall 2023?",
+    "A":"WEH 8427",
+    "category":"courses"
+  },
+  {
+    "Q":"How many units does the course 57-449 Beginning Piano for Children II carry?",
+    "A":"6",
+    "category":"courses"
+  },
+  {
+    "Q":"How many units does the course 82-173 Introduction to Japanese I carry?",
+    "A":"9",
+    "category":"courses"
+  },
+  {
+    "Q":"What are the prerequisites for 76-339 The American War Film?",
+    "A":"(76-101) or (76-106 and 76-107) or (76-106 and 76-108) or (76-107 and 76-108)",
+    "category":"courses"
+  },
+  {
+    "Q":"Which room or rooms does the course 17-685 Dynamic Network Analysis take place in Spring 2024?",
+    "A":"TEP 1403",
+    "category":"courses"
+  },
+  {
+    "Q":"How many units does the course 93-879 Navigating the Practical Realities of the Film Industry carry?",
+    "A":"3",
+    "category":"courses"
+  },
+  {
+    "Q":"Which department offers the course 82-283 Language Diversity & Cultural Identity?",
+    "A":"Modern Languages",
+    "category":"courses"
+  },
+  {
+    "Q":"Which room or rooms does the course 54-381 Contemporary Comedy by Historically Underrepresented Groups take place in Fall 2023?",
+    "A":"PH A19; PH A19A",
+    "category":"courses"
+  },
+  {
+    "Q":"Who taught 54-473 Drawing for Theatrical Designers in the semester Fall 2023?",
+    "A":"Susan Tsu",
+    "category":"courses"
+  },
+  {
+    "Q":"Which department offers the course 57-827 Jazz Orchestra?",
+    "A":"Music",
+    "category":"courses"
+  },
+  {
+    "Q":"Which department offers the course 54-425 Directing?",
+    "A":"Drama",
+    "category":"courses"
+  },
+  {
+    "Q":"How many units does the course 95-865 Unstructured Data Analytics carry?",
+    "A":"6",
+    "category":"courses"
+  },
+  {
+    "Q":"Which department offers the course 12-746 Special Topics: Intro to Python Prototyping for Infrastructure Systems?",
+    "A":"Civil & Environmental Engineering",
+    "category":"courses"
+  },
+  {
+    "Q":"Who taught 79-491 Independent Study in the semester Spring 2024?",
+    "A":"Abigail Owen; Allyson Creasman; Benjamin Reilly; Benno Weiner; Christopher Phillips; Deepa Nair; Donna Harsch; Edda Fields-Black; Emanuela Grama; Ezelle Sanford; Instructor TBA; Jay Aronson; Joe Trotter; Joel Tarr; John Soluri; Laurie Eisenberg; Lisa Tetrault; Nico Slate; Noah Theriault; Paul Eiss; Ricky Law; Scott Sandage; Steven Schlossman; Timothy Haggerty; Wendy Goldman",
+    "category":"courses"
+  },
+  {
+    "Q":"Which room or rooms does the course 45-820 Finance II take place in Spring 2024?",
+    "A":"TEP 2111",
+    "category":"courses"
+  },
+  {
+    "Q":"How many units does the course 24-697 Research Communication in Mechanical Engineering carry?",
+    "A":"4",
+    "category":"courses"
+  },
+  {
+    "Q":"How many units does the course 54-933 Technical Direction III carry?",
+    "A":"6",
+    "category":"courses"
+  },
+  {
+    "Q":"Which department offers the course 14-709 INI Project-Japan?",
+    "A":"Information Networking Institute",
+    "category":"courses"
+  },
+  {
+    "Q":"Who taught 99-353 IDeATe: Design Essentials for Laser Cutting in the semester Spring 2024?",
+    "A":"James Knopf",
+    "category":"courses"
+  },
+  {
+    "Q":"Which department offers the course 82-702 Cultural Studies Elective - Graduate Level?",
+    "A":"Modern Languages",
+    "category":"courses"
+  },
+  {
+    "Q":"Who taught 48-355 Perspective in the semester Spring 2024?",
+    "A":"Douglas Cooper",
+    "category":"courses"
+  },
+  {
+    "Q":"How many units does the course 76-270 Writing for the Professions carry?",
+    "A":"9",
+    "category":"courses"
+  },
+  {
+    "Q":"Which department offers the course 51-486 Designing Experiences for Learning?",
+    "A":"Design",
+    "category":"courses"
+  },
+  {
+    "Q":"How many units does the course 82-707 Introduction to Translation carry?",
+    "A":"9",
+    "category":"courses"
+  },
+  {
+    "Q":"Which department offers the course 27-675 Masters Report?",
+    "A":"Materials Science & Engineering",
+    "category":"courses"
+  },
+  {
+    "Q":"Which room or rooms does the course 69-134 Beginning Golf take place in Fall 2023?",
+    "A":"CUC 151",
+    "category":"courses"
+  },
+  {
+    "Q":"Which room or rooms does the course 88-453 Behavioral Economics Capstone take place in Fall 2023?",
+    "A":"GHC 4102",
+    "category":"courses"
+  },
+  {
+    "Q":"What are the prerequisites for 21-690 Methods of Optimization?",
+    "A":"(21-356 or 21-236 or 21-456) and (21-373 or 21-237)",
+    "category":"courses"
+  },
+  {
+    "Q":"Which room or rooms does the course 95-885 Data Science and Big Data take place in Fall 2023?",
+    "A":"HBH 2009",
+    "category":"courses"
+  },
+  {
+    "Q":"Which department offers the course 54-267 Conceptual Sound Design?",
+    "A":"Drama",
+    "category":"courses"
+  },
+  {
+    "Q":"How many units does the course 18-845 Internet Services carry?",
+    "A":"12",
+    "category":"courses"
+  },
+  {
+    "Q":"Which department offers the course 57-285 Music History III?",
+    "A":"Music",
+    "category":"courses"
+  },
+  {
+    "Q":"How many units does the course 05-682 METALS Project 2 carry?",
+    "A":"48",
+    "category":"courses"
+  },
+  {
+    "Q":"How many units does the course 70-332 Business, Society and Ethics carry?",
+    "A":"9",
+    "category":"courses"
+  },
+  {
+    "Q":"How many units does the course 91-601 Quantitative Methods II carry?",
+    "A":"0",
+    "category":"courses"
+  },
+  {
+    "Q":"Who taught 46-887 Machine Learnng for Business Applications II in the semester Fall 2023?",
+    "A":"Mattia Ciollaro",
+    "category":"courses"
+  },
+  {
+    "Q":"How many units does the course 57-714 Major Studio (Saxophone) carry?",
+    "A":"9",
+    "category":"courses"
+  },
+  {
+    "Q":"How many units does the course 85-501 Readings in Developmental psychology carry?",
+    "A":"9",
+    "category":"courses"
+  },
+  {
+    "Q":"How many units does the course 48-707 MUD Graduate Seminar carry?",
+    "A":"3",
+    "category":"courses"
+  },
+  {
+    "Q":"How many units does the course 54-898 Composition for Theatrical Sound Design 2 carry?",
+    "A":"9",
+    "category":"courses"
+  },
+  {
+    "Q":"Which department offers the course 21-120 Differential and Integral Calculus?",
+    "A":"Mathematical Sciences",
+    "category":"courses"
+  },
+  {
+    "Q":"Who taught 51-101 Studio: Survey of Design in the semester Fall 2023?",
+    "A":"Kristin Hughes; Mark Baskinger",
+    "category":"courses"
+  },
+  {
+    "Q":"What are the prerequisites for 67-262 Database Design and Development?",
+    "A":"15-122 or 15-112 or 15-121",
+    "category":"courses"
+  },
+  {
+    "Q":"Which department offers the course 88-602 Behavioral Decision Making?",
+    "A":"Social & Decision Sciences",
+    "category":"courses"
+  },
+  {
+    "Q":"Which department offers the course 09-861 Chemical Research?",
+    "A":"Chemistry",
+    "category":"courses"
+  },
+  {
+    "Q":"Which room or rooms does the course 80-334 Social and Political Philosophy take place in Fall 2023?",
+    "A":"CMB 1030",
+    "category":"courses"
+  },
+  {
+    "Q":"Which room or rooms does the course 14-761 Applied Information Assurance take place in Spring 2024?",
+    "A":"B23 212; INI DEC",
+    "category":"courses"
+  },
+  {
+    "Q":"Which department offers the course 24-101 Fundamentals of Mechanical Engineering?",
+    "A":"Mechanical Engineering",
+    "category":"courses"
+  },
+  {
+    "Q":"Which room or rooms does the course 82-208 Eastern Europe: Society and Culture take place in Spring 2024?",
+    "A":"POS 343",
+    "category":"courses"
+  },
+  {
+    "Q":"Which room or rooms does the course 33-124 Introduction to Astronomy take place in Fall 2023?",
+    "A":"DH A302",
+    "category":"courses"
+  },
+  {
+    "Q":"Which department offers the course 94-881 Managing Analytic Projects?",
+    "A":"Heinz College Wide Courses",
+    "category":"courses"
+  },
+  {
+    "Q":"How many units does the course 11-422 Grammar Formalisims carry?",
+    "A":"12",
+    "category":"courses"
+  },
+  {
+    "Q":"Which room or rooms does the course 95-906 Independent Study take place in Spring 2024?",
+    "A":"",
+    "category":"courses"
+  },
+  {
+    "Q":"Who taught 15-750 Algorithms in the Real World in the semester Fall 2023?",
+    "A":"Rashmi Korlakai Vinayak",
+    "category":"courses"
+  },
+  {
+    "Q":"Which room or rooms does the course 57-888 Instrumental\/Choral Conducting take place in Spring 2024?",
+    "A":"HOA 226",
+    "category":"courses"
+  },
+  {
+    "Q":"Who taught 82-500 Modern Languages Independent Study in the semester Fall 2023?",
+    "A":"Stephan Caspar",
+    "category":"courses"
+  },
+  {
+    "Q":"Who taught 88-398 Independent Study in the semester Fall 2023?",
+    "A":"Danny Oppenheimer",
+    "category":"courses"
+  },
+  {
+    "Q":"Who taught 90-856 Policy Topics: Tech Policy & Management in the semester Spring 2024?",
+    "A":"Gio Altamirano Rayo",
+    "category":"courses"
+  },
+  {
+    "Q":"How many units does the course 48-667 Material Histories carry?",
+    "A":"9",
+    "category":"courses"
+  },
+  {
+    "Q":"Who taught 21-111 Differential Calculus in the semester Spring 2024?",
+    "A":"Hasan Demirkoparan",
+    "category":"courses"
+  },
+  {
+    "Q":"Who taught 46-924 Natural Language Processing in the semester Fall 2023?",
+    "A":"Ronald Yurko",
+    "category":"courses"
+  },
+  {
+    "Q":"Who taught 60-499 Studio Independent Study in the semester Summer One\/All 2024?",
+    "A":"Mark Cato",
+    "category":"courses"
+  },
+  {
+    "Q":"Who taught 79-280 Coffee and Capitalism in the semester Spring 2024?",
+    "A":"John Soluri",
+    "category":"courses"
+  },
+  {
+    "Q":"Which department offers the course 19-452 EPP Projects II?",
+    "A":"Engineering & Public Policy",
+    "category":"courses"
+  },
+  {
+    "Q":"Which department offers the course 57-463 Consumer Driven Composition for Contemporary Media?",
+    "A":"Music",
+    "category":"courses"
+  },
+  {
+    "Q":"How many units does the course 57-671 Chamber Music: String Quartet carry?",
+    "A":"3",
+    "category":"courses"
+  },
+  {
+    "Q":"Which department offers the course 54-422 Directing IV: Next Steps?",
+    "A":"Drama",
+    "category":"courses"
+  },
+  {
+    "Q":"Which room or rooms does the course 67-220 Digital Accessibility - Ensuring Universal Access to the Information Society take place in Fall 2023?",
+    "A":"WEH 8427",
+    "category":"courses"
+  },
+  {
+    "Q":"Which room or rooms does the course 79-303 Pittsburgh and the Transformation of Modern Urban America take place in Fall 2023?",
+    "A":"BH 246A",
+    "category":"courses"
+  },
+  {
+    "Q":"Who taught 11-722 Grammar Formalisms in the semester Spring 2024?",
+    "A":"Lorraine Levin",
+    "category":"courses"
+  },
+  {
+    "Q":"Who taught 45-915 Managing Through Incentives in the semester Spring 2024?",
+    "A":"Alexey Kushnir",
+    "category":"courses"
+  },
+  {
+    "Q":"Which department offers the course 90-958 Independent Study?",
+    "A":"Public Policy & Mgt:Sch of Pub Pol & Mgt",
+    "category":"courses"
+  },
+  {
+    "Q":"What are the prerequisites for 57-775 Vocal Pedagogy II?",
+    "A":"57-774",
+    "category":"courses"
+  },
+  {
+    "Q":"How many units does the course 82-215 Arab Culture Through Dialogues, Film, and Literature carry?",
+    "A":"9",
+    "category":"courses"
+  },
+  {
+    "Q":"Which room or rooms does the course 76-245 Shakespeare: Tragedies & Histories take place in Spring 2024?",
+    "A":"PH A19C",
+    "category":"courses"
+  },
+  {
+    "Q":"Who taught 09-871 Doctoral Dissertation in the semester Summer Two 2024?",
+    "A":"Kevin Noonan",
+    "category":"courses"
+  },
+  {
+    "Q":"Who taught 36-731 Foundations of Causal Inference in the semester Fall 2023?",
+    "A":"Edward Kennedy",
+    "category":"courses"
+  },
+  {
+    "Q":"How many units does the course 57-513 Major Studio (Bassoon) carry?",
+    "A":"9",
+    "category":"courses"
+  },
+  {
+    "Q":"How many units does the course 76-239 Introduction to Film Studies carry?",
+    "A":"9",
+    "category":"courses"
+  },
+  {
+    "Q":"Who taught 60-135 Foundations: Sculpture II in the semester Spring 2024?",
+    "A":"Britt Ransom; Ling-Lin Ku",
+    "category":"courses"
+  },
+  {
+    "Q":"Which room or rooms does the course 36-295 Independent Study take place in Spring 2024?",
+    "A":"",
+    "category":"courses"
+  },
+  {
+    "Q":"Which room or rooms does the course 24-441 Engineering Design II: Conceptualization and Realization take place in Spring 2024?",
+    "A":"PH A18B",
+    "category":"courses"
+  },
+  {
+    "Q":"Which department offers the course 57-749 Beginning Piano for Children II?",
+    "A":"Music",
+    "category":"courses"
+  },
+  {
+    "Q":"Who taught 48-743 Introduction to Ecological Design Thinking in the semester Fall 2023?",
+    "A":"Dana Cupkova",
+    "category":"courses"
+  },
+  {
+    "Q":"Which department offers the course 54-615 MFA Director's Lab?",
+    "A":"Drama",
+    "category":"courses"
+  },
+  {
+    "Q":"How many units does the course 45-869 Service Design Leadership for Tackling Complexity carry?",
+    "A":"6",
+    "category":"courses"
+  }
+]

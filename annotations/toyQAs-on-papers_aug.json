@@ -1,0 +1,30 @@
+[
+  {
+    "Q": "What was the publication venue of A Vector Quantized Approach for Text to Speech Synthesis on Real-World Spontaneous Speech?",
+    "A": "AAAI Conference on Artificial Intelligence",
+    "category": "paper",
+    "Q_aug": "What was the publication venue of A Vector Quantized Approach for Text to Speech Synthesis on Real-World Spontaneous Speech?\nA Vector Quantized Approach for Text to Speech Synthesis on Real-World Spontaneous Speech was published in the Proceedings of the IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) in 2008.\n\nThe paper, authored by J. Liu, J. Li, and B. M. C. Chang, presents a new approach to text-to-speech synthesis that leverages the flexibility of vector quantization to model the complex probability distributions of spontaneous",
+    "Q_aug_prompt": "[INST] <<SYS>>### Instructions ###\nYou are a search engine at Carnegie Mellon University (CMU). Produce a search result that answers the user's question.<</SYS>>\n\nGenerate a webpage that could answer the question \"What was the publication venue of A Vector Quantized Approach for Text to Speech Synthesis on Real-World Spontaneous Speech?\". Give your response in the same format as the examples below.\n\n### Example ###\n\nQuestion: What is the name of CMU's mascot?\nSearch Result:\nAbout Scotty, CMU's mascot:\nThe Scottish terrier has long been a familiar figure around Carnegie Mellon's campus. For years students have suited up in an unofficial Scottish terrier costume to excite the fans at athletic events. But the relationship between the Scottish terrier breed and Carnegie Mellon far precedes anybody doing somersaults in a dog costume. Andrew Carnegie, founder of the university, kept a Scottish terrier as his pet.\n\nScotty's road from popular icon to official mascot of the university began in 2006. Carnegie Mellon formed a Mascot Identity Task Force in November 2006, which consisted of students, faculty, staff and alumni. The Task Force was co-chaired by Director of Athletics Susan Bassett and Dean of Student Affairs Jennifer Church.  \n  \nThe mascot selection process included a series of surveys and a university Town Hall meeting. Nearly 78 percent of 2,370 students surveyed in February 2007 voted for the Scottish terrier, and approximately 25 percent of 400 alumni surveyed thought the Scottish terrier was already the mascot.  \n  \nIn the spring, the Task Force partnered with SME Branding \u2014 a firm with more than 17 years of experience creating mascots for professional sports teams and universities \u2014 to develop the graphics for the mascot. During October, students and alumni reviewed potential mascot images in focus groups.  \n  \nCarnegie Mellon's official mascot debuted at the Nov. 10, 2007 home football game. The graphic features a profile of a distinguished, bold Scottish terrier sporting a plaid scarf around his neck. The dog is contained in a shield, representing Carnegie Mellon's Scottish heritage.  \n  \nThe Task Force then partnered with a mascot costume company to design our Scottish terrier in the winter of 2007. The official Scotty costume was unveiled at the 2008 Spring Carnival.\n\nFun Fact about Scotty, CMU's mascot:\nThe Scottish terrier breed is known for its keen, alert and intelligent expression. Its temperament is described as determined and thoughtful while its physical aspects exemplify strength, power and agility in a small package. Many of these traits are also apparent throughout the university, making the Scottish terrier a natural choice for Carnegie Mellon's mascot.\n\n\n### Your turn. Produce a search result. ###\n\nQuestion: What was the publication venue of A Vector Quantized Approach for Text to Speech Synthesis on Real-World Spontaneous Speech?\nSearch Result:\n [/INST]\n"
+  },
+  {
+    "Q": "Yes or no: Was Graham Neubig ever involved in a submission to the SIGMORPHON 2023 Shared Task on interlinear glossing (IGT)?",
+    "A": "Yes",
+    "category": "paper",
+    "Q_aug": "Yes or no: Was Graham Neubig ever involved in a submission to the SIGMORPHON 2023 Shared Task on interlinear glossing (IGT)?",
+    "Q_aug_prompt": null
+  },
+  {
+    "Q": "Who is the first author of the paper Conversational Search with Random Walks over Entity Graphs?",
+    "A": "Gustavo Gon\u00e7alves",
+    "category": "paper",
+    "Q_aug": "Who is the first author of the paper Conversational Search with Random Walks over Entity Graphs?",
+    "Q_aug_prompt": null
+  },
+  {
+    "Q": "Which model did Fatemehsadat Mireshghallah find in their paper to have an AUC of 0.81?",
+    "A": "OPT-125M",
+    "category": "paper",
+    "Q_aug": "Which model did Fatemehsadat Mireshghallah find in their paper to have an AUC of 0.81?",
+    "Q_aug_prompt": null
+  }
+]

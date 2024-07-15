@@ -1,0 +1,22 @@
+[
+  {
+    "Q":"What was the publication venue of A Vector Quantized Approach for Text to Speech Synthesis on Real-World Spontaneous Speech?",
+    "A":"AAAI Conference on Artificial Intelligence",
+    "category": "paper"
+  },
+  {
+    "Q":"Yes or no: Was Graham Neubig ever involved in a submission to the SIGMORPHON 2023 Shared Task on interlinear glossing (IGT)?",
+    "A":"Yes",
+    "category": "paper"
+  },
+  {
+    "Q":"Who is the first author of the paper Conversational Search with Random Walks over Entity Graphs?",
+    "A":"Gustavo Gonçalves",
+    "category": "paper"
+  },
+  {
+    "Q":"Which model did Fatemehsadat Mireshghallah find in their paper to have an AUC of 0.81?",
+    "A":"OPT-125M",
+    "category": "paper"
+  }
+]

@@ -1,0 +1,1502 @@
+[
+    {
+        "Q": "What is David Mortensen's email?",
+        "A": "dmortens@cs.cmu.edu",
+        "category": "directory"
+    },
+    {
+        "Q": "What is David Mortensen's phone number?",
+        "A": "412-268-2894",
+        "category": "directory"
+    },
+    {
+        "Q": "Where is David Mortensen's office?",
+        "A": "5707 Gates & Hillman Centers",
+        "category": "directory"
+    },
+    {
+        "Q": "What is David Mortensen's professional title?",
+        "A": "Assistant Research Professor",
+        "category": "directory"
+    },
+    {
+        "Q": "What are David Mortensen's research interests?",
+        "A": "Natural Language Processing and Computational Linguistics, Corpus Annotation and Resources",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Jamie Callan's email?",
+        "A": "callan@cs.cmu.edu",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Jamie Callan's phone number?",
+        "A": "412-268-4525",
+        "category": "directory"
+    },
+    {
+        "Q": "Where is Jamie Callan's office?",
+        "A": "5419 Gates & Hillman Centers",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Jamie Callan's professional title?",
+        "A": "Professor and PhD Program Director",
+        "category": "directory"
+    },
+    {
+        "Q": "What are Jamie Callan's research interests?",
+        "A": "Information Retrieval, Text Mining and Analytics",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Norman Sadeh's email?",
+        "A": "ns1i@andrew.cmu.edu",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Norman Sadeh's professional title?",
+        "A": "Professor of Computer Science in the Institute for Software Research and Co-director of the MSIT in Privacy Engineering Program",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Kemal Oflazer's email?",
+        "A": "ko@qatar.cmu.edu",
+        "category": "directory"
+    },
+    {
+        "Q": "Where is Kemal Oflazer's office?",
+        "A": "1009 Carnegie Mellon - Qatar Campus",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Kemal Oflazer's professional title?",
+        "A": "Teaching Professor of Computer Science",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Lei Li's email?",
+        "A": "leili@andrew.cmu.edu",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Lei Li's phone number?",
+        "A": "412-268-6355",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Lei Li's professional title?",
+        "A": "Assistant Professor",
+        "category": "directory"
+    },
+    {
+        "Q": "What are Lei Li's research interests?",
+        "A": "Machine Learning, Machine Translation, Large Language Models, AI Drug Discovery",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Ravi Starzl's email?",
+        "A": "rstarzl@andrew.cmu.edu",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Ravi Starzl's phone number?",
+        "A": "412-268-8425",
+        "category": "directory"
+    },
+    {
+        "Q": "Where is Ravi Starzl's office?",
+        "A": "6701 Gates & Hillman Centers",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Ravi Starzl's professional title?",
+        "A": "Adjunct Professor",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Thomas Schaaf's email?",
+        "A": "Email",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Thomas Schaaf's professional title?",
+        "A": "Principal Research Scientist at 3M | M*Modal",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Richard Stern's email?",
+        "A": "rms@cs.cmu.edu",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Richard Stern's phone number?",
+        "A": "412-268-2535",
+        "category": "directory"
+    },
+    {
+        "Q": "Where is Richard Stern's office?",
+        "A": "B24 Baker-Porter Hall",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Richard Stern's professional title?",
+        "A": "Professor",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Michael Mauldin's email?",
+        "A": "Email",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Michael Mauldin's professional title?",
+        "A": "Inventor of Lycos (early Internet search engine) in 1994",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Malihe Alikhani's email?",
+        "A": "malihe@pitt.edu",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Malihe Alikhani's professional title?",
+        "A": "Assistant Professor at the University of Pittsburgh",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Rodolfo M Vega's email?",
+        "A": "rmvega@andrew.cmu.edu",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Louis-Philippe Morency's email?",
+        "A": "morency@cs.cmu.edu",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Louis-Philippe Morency's phone number?",
+        "A": "412-268-5508",
+        "category": "directory"
+    },
+    {
+        "Q": "Where is Louis-Philippe Morency's office?",
+        "A": "5411 Gates & Hillman Centers",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Louis-Philippe Morency's professional title?",
+        "A": "Leonardo Associate Professor of Computer Science",
+        "category": "directory"
+    },
+    {
+        "Q": "What are Louis-Philippe Morency's research interests?",
+        "A": "Machine Learning, Multimodal Computing and Interaction, Spoken Interfaces and Dialogue Processing",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Justine Cassell's email?",
+        "A": "jcassell@andrew.cmu.edu",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Justine Cassell's phone number?",
+        "A": "412-204-6268",
+        "category": "directory"
+    },
+    {
+        "Q": "Where is Justine Cassell's office?",
+        "A": "5107 Gates & Hillman Centers",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Justine Cassell's professional title?",
+        "A": "Professor (On Leave)",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Daphne Ippolito's email?",
+        "A": "daphnei@cmu.edu",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Daphne Ippolito's phone number?",
+        "A": "412-268-7250",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Daphne Ippolito's professional title?",
+        "A": "Assistant Professor",
+        "category": "directory"
+    },
+    {
+        "Q": "What are Daphne Ippolito's research interests?",
+        "A": "Natural Language Generation, Privacy and Security, Language Technology Application Areas/Issues, Creativity",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Rita Singh's email?",
+        "A": "rsingh@cs.cmu.edu",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Rita Singh's phone number?",
+        "A": "412-268-9859",
+        "category": "directory"
+    },
+    {
+        "Q": "Where is Rita Singh's office?",
+        "A": "6703 Gates & Hillman Centers",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Rita Singh's professional title?",
+        "A": "Associate Research Professor",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Graham Neubig's email?",
+        "A": "gneubig@cs.cmu.edu",
+        "category": "directory"
+    },
+    {
+        "Q": "Where is Graham Neubig's office?",
+        "A": "5409 Gates & Hillman Centers",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Graham Neubig's professional title?",
+        "A": "Associate Professor",
+        "category": "directory"
+    },
+    {
+        "Q": "What are Graham Neubig's research interests?",
+        "A": "Machine Translation, Natural Language Processing, Spoken Language Processing, Machine Learning",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Emma Strubell's email?",
+        "A": "estrubel@andrew.cmu.edu",
+        "category": "directory"
+    },
+    {
+        "Q": "Where is Emma Strubell's office?",
+        "A": "Gates & Hillman Centers",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Emma Strubell's professional title?",
+        "A": "Assistant Professor",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Lu Jiang's email?",
+        "A": "lujiang@google.com",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Lu Jiang's professional title?",
+        "A": "Staff Research Scientist at Google",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Matt Gormley's email?",
+        "A": "mgormley@cs.cmu.edu",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Matt Gormley's phone number?",
+        "A": "412-268-7205",
+        "category": "directory"
+    },
+    {
+        "Q": "Where is Matt Gormley's office?",
+        "A": "8227 Gates & Hillman Centers",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Matt Gormley's professional title?",
+        "A": "Assistant Teaching Professor",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Michael Shamos's email?",
+        "A": "shamos@cs.cmu.edu",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Michael Shamos's phone number?",
+        "A": "412-268-8193",
+        "category": "directory"
+    },
+    {
+        "Q": "Where is Michael Shamos's office?",
+        "A": "6707 Gates & Hillman Centers",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Michael Shamos's professional title?",
+        "A": "Distinguished Career Professor",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Daniel Fried's email?",
+        "A": "dfried@andrew.cmu.edu",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Daniel Fried's professional title?",
+        "A": "Assistant Professor",
+        "category": "directory"
+    },
+    {
+        "Q": "What are Daniel Fried's research interests?",
+        "A": "Language and Code, Conversational AI, Intelligent Agents, and Dialogue, Discourse and Pragmatics, Multimodal AI",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Bhiksha Ramakrishnan's email?",
+        "A": "bhiksha@cs.cmu.edu",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Bhiksha Ramakrishnan's phone number?",
+        "A": "412-268-9826",
+        "category": "directory"
+    },
+    {
+        "Q": "Where is Bhiksha Ramakrishnan's office?",
+        "A": "6705 Gates & Hillman Centers",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Bhiksha Ramakrishnan's professional title?",
+        "A": "Professor",
+        "category": "directory"
+    },
+    {
+        "Q": "What are Bhiksha Ramakrishnan's research interests?",
+        "A": "Machine Learning, Multimodal Computing and Interaction, Speech Processing, Spoken Interfaces and Dialogue Processing, Privacy",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Florian Metze's email?",
+        "A": "fmetze@cs.cmu.edu",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Florian Metze's phone number?",
+        "A": "412-268-8984",
+        "category": "directory"
+    },
+    {
+        "Q": "Where is Florian Metze's office?",
+        "A": "202 407 South Craig Street",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Florian Metze's professional title?",
+        "A": "Associate Research Professor",
+        "category": "directory"
+    },
+    {
+        "Q": "What are Florian Metze's research interests?",
+        "A": "Machine Learning, Speech Processing",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Raj Reddy's email?",
+        "A": "rr0s@andrew.cmu.edu",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Raj Reddy's phone number?",
+        "A": "412-268-2597",
+        "category": "directory"
+    },
+    {
+        "Q": "Where is Raj Reddy's office?",
+        "A": "5327 Wean Hall",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Raj Reddy's professional title?",
+        "A": "Moza Bint Nasser University Professor",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Anatole Gershman's email?",
+        "A": "anatole.gershman@cs.cmu.edu",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Anatole Gershman's phone number?",
+        "A": "412-268-8259",
+        "category": "directory"
+    },
+    {
+        "Q": "Where is Anatole Gershman's office?",
+        "A": "6415 Gates & Hillman Centers",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Anatole Gershman's professional title?",
+        "A": "Distinguished Service Professor",
+        "category": "directory"
+    },
+    {
+        "Q": "What are Anatole Gershman's research interests?",
+        "A": "Information Extraction, Summarization and Question Answering",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Yiming Yang's email?",
+        "A": "yiming@cs.cmu.edu",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Yiming Yang's phone number?",
+        "A": "412-268-1364",
+        "category": "directory"
+    },
+    {
+        "Q": "Where is Yiming Yang's office?",
+        "A": "6717 Gates & Hillman Centers",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Yiming Yang's professional title?",
+        "A": "Professor",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Matthias Grabmair's email?",
+        "A": "mgrabmai@andrew.cmu.edu",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Matthias Grabmair's professional title?",
+        "A": "Assistant Professor, Technical University of Munich, Germany",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Chenyan Xiong's email?",
+        "A": "cx@andrew.cmu.edu",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Chenyan Xiong's phone number?",
+        "A": "412-268-7641",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Chenyan Xiong's professional title?",
+        "A": "Associate Professor",
+        "category": "directory"
+    },
+    {
+        "Q": "What is William Cohen's email?",
+        "A": "wcohen@cs.cmu.edu",
+        "category": "directory"
+    },
+    {
+        "Q": "What is William Cohen's phone number?",
+        "A": "412-268-7664",
+        "category": "directory"
+    },
+    {
+        "Q": "Where is William Cohen's office?",
+        "A": "8217 Gates & Hillman Centers",
+        "category": "directory"
+    },
+    {
+        "Q": "What is William Cohen's professional title?",
+        "A": "Director of Research Engineering at Google AI and SCS Consulting Professor",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Christopher Dyer's email?",
+        "A": "cdyer@cs.cmu.edu",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Christopher Dyer's professional title?",
+        "A": "Senior Staff Scientist for DeepMind",
+        "category": "directory"
+    },
+    {
+        "Q": "What are Christopher Dyer's research interests?",
+        "A": "Machine Learning, Machine Translation, Natural Language Processing and Computational Linguistics",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Teruko Mitamura's email?",
+        "A": "teruko@cs.cmu.edu",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Teruko Mitamura's phone number?",
+        "A": "412-268-6596",
+        "category": "directory"
+    },
+    {
+        "Q": "Where is Teruko Mitamura's office?",
+        "A": "6711 Gates & Hillman Centers",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Teruko Mitamura's professional title?",
+        "A": "Research Professor",
+        "category": "directory"
+    },
+    {
+        "Q": "What are Teruko Mitamura's research interests?",
+        "A": "Information Extraction, Summarization and Question Answering, Information Retrieval, Text Mining and Analytics, Language Technologies for Education, Natural Language Processing and Computational Linguistics",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Scott Fahlman's email?",
+        "A": "sef@cs.cmu.edu",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Scott Fahlman's phone number?",
+        "A": "412-268-2575",
+        "category": "directory"
+    },
+    {
+        "Q": "Where is Scott Fahlman's office?",
+        "A": "6417 Gates & Hillman Centers",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Scott Fahlman's professional title?",
+        "A": "Research Professor Emeritus",
+        "category": "directory"
+    },
+    {
+        "Q": "What are Scott Fahlman's research interests?",
+        "A": "AI, Knowledge Representation and Reasoning, Natural Language Understanding",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Monika Woszczyna's email?",
+        "A": "monikaw@andrew.cmu.edu",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Monika Woszczyna's professional title?",
+        "A": "Head of Speech Technology Group at Multimodal Technologies Inc.",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Alexander Rudnicky's email?",
+        "A": "alex.rudnicky@cs.cmu.edu",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Alexander Rudnicky's phone number?",
+        "A": "412-268-2622",
+        "category": "directory"
+    },
+    {
+        "Q": "Where is Alexander Rudnicky's office?",
+        "A": "6511 Gates & Hillman Centers",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Alexander Rudnicky's professional title?",
+        "A": "Research Professor Emeritus",
+        "category": "directory"
+    },
+    {
+        "Q": "What are Alexander Rudnicky's research interests?",
+        "A": "Multimodal Computing and Interaction, Speech Processing, Spoken Interfaces and Dialogue Processing",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Yulia Tsvetkov's email?",
+        "A": "yuliats@cs.washington.edu",
+        "category": "directory"
+    },
+    {
+        "Q": "Where is Yulia Tsvetkov's office?",
+        "A": "Gates & Hillman Centers",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Yulia Tsvetkov's professional title?",
+        "A": "Assistant Professor at the University of Washington",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Eric P. Xing's email?",
+        "A": "epxing@andrew.cmu.edu",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Eric P. Xing's phone number?",
+        "A": "412-268-2559",
+        "category": "directory"
+    },
+    {
+        "Q": "Where is Eric P. Xing's office?",
+        "A": "8101 Gates & Hillman Centers",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Eric P. Xing's professional title?",
+        "A": "Professor (On Leave)",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Tom Mitchell's email?",
+        "A": "mitchell@andrew.cmu.edu",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Tom Mitchell's phone number?",
+        "A": "412-268-2611",
+        "category": "directory"
+    },
+    {
+        "Q": "Where is Tom Mitchell's office?",
+        "A": "8211 Gates & Hillman Centers",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Tom Mitchell's professional title?",
+        "A": "E. Fredkin University Professor in the Machine Learning Department",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Fernando Diaz's phone number?",
+        "A": "412-268-4229",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Fernando Diaz's professional title?",
+        "A": "Associate Professor",
+        "category": "directory"
+    },
+    {
+        "Q": "What are Fernando Diaz's research interests?",
+        "A": "Fairness and Ethics in Language Technology, Creativity, Evaluation",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Mona Diab's email?",
+        "A": "mdiab@andrew.cmu.edu",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Mona Diab's phone number?",
+        "A": "412-268-3669",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Mona Diab's professional title?",
+        "A": "LTI Director and Tenured Professor",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Alexander Hauptmann's email?",
+        "A": "alex@cs.cmu.edu",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Alexander Hauptmann's phone number?",
+        "A": "412-268-1448",
+        "category": "directory"
+    },
+    {
+        "Q": "Where is Alexander Hauptmann's office?",
+        "A": "5519 Gates & Hillman Centers",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Alexander Hauptmann's professional title?",
+        "A": "Research Professor",
+        "category": "directory"
+    },
+    {
+        "Q": "What are Alexander Hauptmann's research interests?",
+        "A": "Information Extraction, Summarization and Question Answering, Information Retrieval, Text Mining and Analytics, Machine Learning, Multimodal Computing and Interaction",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Shinji Watanabe's email?",
+        "A": "swatanab@andrew.cmu.edu",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Shinji Watanabe's phone number?",
+        "A": "412-268-3687",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Shinji Watanabe's professional title?",
+        "A": "Associate Professor",
+        "category": "directory"
+    },
+    {
+        "Q": "What are Shinji Watanabe's research interests?",
+        "A": "Speech Recognition, Speech Synthesis, Multilingual/Low-Resource Speech Processing, Speech-to-Speech Translation, Speech Enhancement / Robust Speech Processing",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Brian MacWhinney's email?",
+        "A": "macw@cmu.edu",
+        "category": "directory"
+    },
+    {
+        "Q": "Where is Brian MacWhinney's office?",
+        "A": "254M Baker Hall",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Brian MacWhinney's professional title?",
+        "A": "Professor of Psychology at Carnegie Mellon University",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Robert Frederking's email?",
+        "A": "ref@cs.cmu.edu",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Robert Frederking's phone number?",
+        "A": "412-268-6656",
+        "category": "directory"
+    },
+    {
+        "Q": "Where is Robert Frederking's office?",
+        "A": "6515 Gates & Hillman Centers",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Robert Frederking's professional title?",
+        "A": "Principal Systems Scientist/Associate Dean of Doctoral Programs/MLT Program Director",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Jeffrey Bigham's email?",
+        "A": "jbigham@andrew.cmu.edu",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Jeffrey Bigham's phone number?",
+        "A": "412-945-0708",
+        "category": "directory"
+    },
+    {
+        "Q": "Where is Jeffrey Bigham's office?",
+        "A": "3525 Newell-Simon Hall",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Jeffrey Bigham's professional title?",
+        "A": "Associate Professor",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Ian Lane's email?",
+        "A": "lane@cmu.edu",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Ian Lane's phone number?",
+        "A": "408-505-3178",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Ian Lane's professional title?",
+        "A": "Assistant Research Professor CMU Silicon Valley",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Taylor Berg-Kirkpatrick's email?",
+        "A": "tberg@cs.cmu.edu",
+        "category": "directory"
+    },
+    {
+        "Q": "Where is Taylor Berg-Kirkpatrick's office?",
+        "A": "6403 Gates & Hillman Centers",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Taylor Berg-Kirkpatrick's professional title?",
+        "A": "Assistant Professor, University of California, San Diego",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Alexander Waibel's email?",
+        "A": "waibel@cs.cmu.edu",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Alexander Waibel's phone number?",
+        "A": "412-268-7676",
+        "category": "directory"
+    },
+    {
+        "Q": "Where is Alexander Waibel's office?",
+        "A": "205 407 South Craig Street",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Alexander Waibel's professional title?",
+        "A": "Professor",
+        "category": "directory"
+    },
+    {
+        "Q": "What are Alexander Waibel's research interests?",
+        "A": "Spoken Language Translation, Machine Translation, Speech Processing, Neural Networks, Machine Learning, Multimodal Interaction, Dialog Processing",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Jack Mostow's phone number?",
+        "A": "412-268-1330",
+        "category": "directory"
+    },
+    {
+        "Q": "Where is Jack Mostow's office?",
+        "A": "3113 Newell-Simon Hall",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Jack Mostow's professional title?",
+        "A": "Research Professor Emeritus",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Eric Nyberg's email?",
+        "A": "ehn@cs.cmu.edu",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Eric Nyberg's phone number?",
+        "A": "412-268-7281",
+        "category": "directory"
+    },
+    {
+        "Q": "Where is Eric Nyberg's office?",
+        "A": "6715 Gates & Hillman Centers",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Eric Nyberg's professional title?",
+        "A": "Professor",
+        "category": "directory"
+    },
+    {
+        "Q": "What are Eric Nyberg's research interests?",
+        "A": "Information Extraction, Summarization and Question Answering, Information Retrieval, Text Mining and Analytics, Language Technologies for Education",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Roni Rosenfeld's email?",
+        "A": "roni.rosenfeld@cs.cmu.edu",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Roni Rosenfeld's phone number?",
+        "A": "412-268-7678",
+        "category": "directory"
+    },
+    {
+        "Q": "Where is Roni Rosenfeld's office?",
+        "A": "8002 Gates & Hillman Centers",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Roni Rosenfeld's professional title?",
+        "A": "Machine Learning Department",
+        "category": "directory"
+    },
+    {
+        "Q": "What are Roni Rosenfeld's research interests?",
+        "A": "Computational Epidemiology, Dialog Systems for the Developing World",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Sean Welleck's email?",
+        "A": "swelleck@andrew.cmu.edu",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Sean Welleck's professional title?",
+        "A": "Assistant Professor (Starting January 2024)",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Carolyn Rosé's email?",
+        "A": "cprose@cs.cmu.edu",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Carolyn Rosé's phone number?",
+        "A": "412-268-7130",
+        "category": "directory"
+    },
+    {
+        "Q": "Where is Carolyn Rosé's office?",
+        "A": "5415 Gates & Hillman Centers",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Carolyn Rosé's professional title?",
+        "A": "Professor",
+        "category": "directory"
+    },
+    {
+        "Q": "What are Carolyn Rosé's research interests?",
+        "A": "Information Retrieval, Text Mining and Analytics, Language Technologies for Education, Natural Language Processing and Computational Linguistics, Computer Supported Collaborative Learning/MOOCs",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Yonatan Bisk's email?",
+        "A": "ybisk@cs.cmu.edu",
+        "category": "directory"
+    },
+    {
+        "Q": "Where is Yonatan Bisk's office?",
+        "A": "Gates & Hillman Centers",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Yonatan Bisk's professional title?",
+        "A": "Assistant Professor",
+        "category": "directory"
+    },
+    {
+        "Q": "What are Yonatan Bisk's research interests?",
+        "A": "Grounding, RoboNLP, Vision and Language, Embodiment, Unsupervised Learning",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Ralf Brown's email?",
+        "A": "ralf@andrew.cmu.edu",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Ralf Brown's phone number?",
+        "A": "412-268-8298",
+        "category": "directory"
+    },
+    {
+        "Q": "Where is Ralf Brown's office?",
+        "A": "5711 Gates & Hillman Centers",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Ralf Brown's professional title?",
+        "A": "Principal Systems Scientist",
+        "category": "directory"
+    },
+    {
+        "Q": "What are Ralf Brown's research interests?",
+        "A": "Information Extraction, Summarization and Question Answering, Information Retrieval, Text Mining and Analytics, Machine Translation, Natural Language Processing and Computational Linguistics",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Madhavi Ganapathiraju's email?",
+        "A": "madhavi@pitt.edu",
+        "category": "directory"
+    },
+    {
+        "Q": "Where is Madhavi Ganapathiraju's office?",
+        "A": "Gates & Hillman Centers",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Madhavi Ganapathiraju's professional title?",
+        "A": "Associate Professor Department of Biomedical Informatics at University of Pittsburgh",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Maarten Sap's email?",
+        "A": "msap2@andrew.cmu.edu",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Maarten Sap's professional title?",
+        "A": "Assistant Professor",
+        "category": "directory"
+    },
+    {
+        "Q": "What are Maarten Sap's research interests?",
+        "A": "Fairness and Ethics in Language Technology, Computational Social Science, Discourse and Pragmatics, Conversational AI, Intelligent Agents, and Dialogue",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Alon Lavie's email?",
+        "A": "alavie@cs.cmu.edu",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Alon Lavie's professional title?",
+        "A": "Vice President of Language Technologies at Unbabel and Consulting Professor at the Language Technologies Institute",
+        "category": "directory"
+    },
+    {
+        "Q": "What are Alon Lavie's research interests?",
+        "A": "Machine Translation, Natural Language Processing and Computational Linguistics",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Lori Levin's email?",
+        "A": "lsl@cs.cmu.edu",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Lori Levin's phone number?",
+        "A": "412-268-6193",
+        "category": "directory"
+    },
+    {
+        "Q": "Where is Lori Levin's office?",
+        "A": "5717 Gates & Hillman Centers",
+        "category": "directory"
+    },
+    {
+        "Q": "What is Lori Levin's professional title?",
+        "A": "Research Professor",
+        "category": "directory"
+    },
+    {
+        "Q": "What are Lori Levin's research interests?",
+        "A": "Machine Translation, Natural Language Processing and Computational Linguistics, Corpus Annotation and Resources",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty are interested in Speech Synthesis?",
+        "A": "Shinji Watanabe",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty are interested in Neural Networks?",
+        "A": "Alexander Waibel",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty are interested in Computer Supported Collaborative Learning/MOOCs?",
+        "A": "Carolyn Rosé",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty are interested in Speech Processing?",
+        "A": "Bhiksha Ramakrishnan, Florian Metze, Alexander Rudnicky, Shinji Watanabe, Alexander Waibel",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty are interested in Multimodal AI?",
+        "A": "Daniel Fried",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty are interested in Vision and Language?",
+        "A": "Yonatan Bisk",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty are interested in Multimodal Computing and Interaction?",
+        "A": "Louis-Philippe Morency, Bhiksha Ramakrishnan, Alexander Rudnicky, Alexander Hauptmann",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty are interested in Large Language Models?",
+        "A": "Lei Li",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty are interested in Creativity?",
+        "A": "Daphne Ippolito, Fernando Diaz",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty are interested in Spoken Interfaces and Dialogue Processing?",
+        "A": "Louis-Philippe Morency, Bhiksha Ramakrishnan, Alexander Rudnicky",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty are interested in Text Mining and Analytics?",
+        "A": "Jamie Callan, Teruko Mitamura, Alexander Hauptmann, Eric Nyberg, Carolyn Rosé, Ralf Brown",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty are interested in Conversational AI?",
+        "A": "Daniel Fried, Maarten Sap",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty are interested in Machine Learning?",
+        "A": "Lei Li, Louis-Philippe Morency, Graham Neubig, Bhiksha Ramakrishnan, Florian Metze, Christopher Dyer, Alexander Hauptmann, Alexander Waibel",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty are interested in Information Extraction?",
+        "A": "Anatole Gershman, Teruko Mitamura, Alexander Hauptmann, Eric Nyberg, Ralf Brown",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty are interested in Dialog Processing?",
+        "A": "Alexander Waibel",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty are interested in Privacy and Security?",
+        "A": "Daphne Ippolito",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty are interested in Computational Epidemiology?",
+        "A": "Roni Rosenfeld",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty are interested in Computational Social Science?",
+        "A": "Maarten Sap",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty are interested in Multimodal Interaction?",
+        "A": "Alexander Waibel",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty are interested in Machine Translation?",
+        "A": "Lei Li, Graham Neubig, Christopher Dyer, Alexander Waibel, Ralf Brown, Alon Lavie, Lori Levin",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty are interested in Privacy?",
+        "A": "Daphne Ippolito, Bhiksha Ramakrishnan",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty are interested in Speech Recognition?",
+        "A": "Shinji Watanabe",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty are interested in Spoken Language Processing?",
+        "A": "Graham Neubig",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty are interested in AI Drug Discovery?",
+        "A": "Lei Li",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty are interested in Multilingual/Low-Resource Speech Processing?",
+        "A": "Shinji Watanabe",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty are interested in Embodiment?",
+        "A": "Yonatan Bisk",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty are interested in Language and Code?",
+        "A": "Daniel Fried",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty are interested in Summarization and Question Answering?",
+        "A": "Anatole Gershman, Teruko Mitamura, Alexander Hauptmann, Eric Nyberg, Ralf Brown",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty are interested in Evaluation?",
+        "A": "Fernando Diaz",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty are interested in Knowledge Representation and Reasoning?",
+        "A": "Scott Fahlman",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty are interested in Dialog Systems for the Developing World?",
+        "A": "Roni Rosenfeld",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty are interested in Natural Language Processing and Computational Linguistics?",
+        "A": "David Mortensen, Christopher Dyer, Teruko Mitamura, Carolyn Rosé, Ralf Brown, Alon Lavie, Lori Levin",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty are interested in Speech-to-Speech Translation?",
+        "A": "Shinji Watanabe",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty are interested in AI?",
+        "A": "Lei Li, Daniel Fried, Scott Fahlman, Maarten Sap",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty are interested in Corpus Annotation and Resources?",
+        "A": "David Mortensen, Lori Levin",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty are interested in Language Technologies for Education?",
+        "A": "Teruko Mitamura, Eric Nyberg, Carolyn Rosé",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty are interested in Intelligent Agents?",
+        "A": "Daniel Fried, Maarten Sap",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty are interested in Grounding?",
+        "A": "Yonatan Bisk",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty are interested in Spoken Language Translation?",
+        "A": "Alexander Waibel",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty are interested in Information Retrieval?",
+        "A": "Jamie Callan, Teruko Mitamura, Alexander Hauptmann, Eric Nyberg, Carolyn Rosé, Ralf Brown",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty are interested in Fairness and Ethics in Language Technology?",
+        "A": "Fernando Diaz, Maarten Sap",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty are interested in Natural Language Understanding?",
+        "A": "Scott Fahlman",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty are interested in Discourse and Pragmatics?",
+        "A": "Daniel Fried, Maarten Sap",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty are interested in and Dialogue?",
+        "A": "Louis-Philippe Morency, Daniel Fried, Bhiksha Ramakrishnan, Alexander Rudnicky, Maarten Sap",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty are interested in Unsupervised Learning?",
+        "A": "Yonatan Bisk",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty are interested in Natural Language Generation?",
+        "A": "Daphne Ippolito",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty are interested in Speech Enhancement / Robust Speech Processing?",
+        "A": "Shinji Watanabe",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty are interested in Natural Language Processing?",
+        "A": "David Mortensen, Graham Neubig, Christopher Dyer, Teruko Mitamura, Carolyn Rosé, Ralf Brown, Alon Lavie, Lori Levin",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty are interested in Language Technology Application Areas/Issues?",
+        "A": "Daphne Ippolito",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty have the job title Machine Learning Department?",
+        "A": "Roni Rosenfeld",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty have the job title Senior Staff Scientist for DeepMind?",
+        "A": "Christopher Dyer",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty have the job title Assistant Professor at the University of Washington?",
+        "A": "Yulia Tsvetkov",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty have the job title Assistant Teaching Professor?",
+        "A": "Matt Gormley",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty have the job title Research Professor Emeritus?",
+        "A": "Scott Fahlman, Alexander Rudnicky, Jack Mostow",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty have the job title Assistant Research Professor CMU Silicon Valley?",
+        "A": "Ian Lane",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty have the job title Assistant Professor, University of California, San Diego?",
+        "A": "Taylor Berg-Kirkpatrick",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty have the job title Head of Speech Technology Group at Multimodal Technologies Inc.?",
+        "A": "Monika Woszczyna",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty have the job title Professor and PhD Program Director?",
+        "A": "Jamie Callan",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty have the job title Distinguished Career Professor?",
+        "A": "Michael Shamos",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty have the job title Adjunct Professor?",
+        "A": "Ravi Starzl",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty have the job title Inventor of Lycos (early Internet search engine) in 1994?",
+        "A": "Michael Mauldin",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty have the job title Principal Systems Scientist?",
+        "A": "Ralf Brown",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty have the job title Leonardo Associate Professor of Computer Science?",
+        "A": "Louis-Philippe Morency",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty have the job title Distinguished Service Professor?",
+        "A": "Anatole Gershman",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty have the job title Principal Research Scientist at 3M | M*Modal?",
+        "A": "Thomas Schaaf",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty have the job title LTI Director and Tenured Professor?",
+        "A": "Mona Diab",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty have the job title Research Professor?",
+        "A": "Teruko Mitamura, Alexander Hauptmann, Lori Levin",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty have the job title Associate Professor?",
+        "A": "Graham Neubig, Chenyan Xiong, Fernando Diaz, Shinji Watanabe, Jeffrey Bigham",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty have the job title Director of Research Engineering at Google AI and SCS Consulting Professor?",
+        "A": "William Cohen",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty have the job title Assistant Research Professor?",
+        "A": "David Mortensen",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty have the job title Associate Research Professor?",
+        "A": "Rita Singh, Florian Metze",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty have the job title Professor of Psychology at Carnegie Mellon University?",
+        "A": "Brian MacWhinney",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty have the job title Teaching Professor of Computer Science?",
+        "A": "Kemal Oflazer",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty have the job title Assistant Professor (Starting January 2024)?",
+        "A": "Sean Welleck",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty have the job title Professor of Computer Science in the Institute for Software Research and Co-director of the MSIT in Privacy Engineering Program?",
+        "A": "Norman Sadeh",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty have the job title Staff Research Scientist at Google?",
+        "A": "Lu Jiang",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty have the job title Moza Bint Nasser University Professor?",
+        "A": "Raj Reddy",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty have the job title E. Fredkin University Professor in the Machine Learning Department?",
+        "A": "Tom Mitchell",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty have the job title Professor?",
+        "A": "Richard Stern, Bhiksha Ramakrishnan, Yiming Yang, Alexander Waibel, Eric Nyberg, Carolyn Rosé",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty have the job title Assistant Professor, Technical University of Munich, Germany?",
+        "A": "Matthias Grabmair",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty have the job title Vice President of Language Technologies at Unbabel and Consulting Professor at the Language Technologies Institute?",
+        "A": "Alon Lavie",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty have the job title Principal Systems Scientist/Associate Dean of Doctoral Programs/MLT Program Director?",
+        "A": "Robert Frederking",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty have the job title Professor (On Leave)?",
+        "A": "Justine Cassell, Eric P. Xing",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty have the job title Assistant Professor at the University of Pittsburgh?",
+        "A": "Malihe Alikhani",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty have the job title Assistant Professor?",
+        "A": "Lei Li, Daphne Ippolito, Emma Strubell, Daniel Fried, Yonatan Bisk, Maarten Sap",
+        "category": "directory"
+    },
+    {
+        "Q": "Which faculty have the job title Associate Professor Department of Biomedical Informatics at University of Pittsburgh?",
+        "A": "Madhavi Ganapathiraju",
+        "category": "directory"
+    }
+]

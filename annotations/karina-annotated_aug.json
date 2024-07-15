@@ -1,0 +1,212 @@
+[
+  {
+    "Q": "What is Yonatan Bisk's professional title?",
+    "A": "Assistant Professor",
+    "category": "directory",
+    "Q_aug": "What is Yonatan Bisk's professional title?",
+    "Q_aug_prompt": null
+  },
+  {
+    "Q": "What is Ralf Brown's professional title?",
+    "A": "Principal Systems Scientist",
+    "category": "directory",
+    "Q_aug": "What is Ralf Brown's professional title?",
+    "Q_aug_prompt": null
+  },
+  {
+    "Q": "Where is Richard Stern's office?",
+    "A": "B24 Baker-Porter Hall",
+    "category": "directory",
+    "Q_aug": "Where is Richard Stern's office?",
+    "Q_aug_prompt": null
+  },
+  {
+    "Q": "At what non-CMU university does Malihe Alikhani work?",
+    "A": "University of Pittsburgh",
+    "category": "directory",
+    "Q_aug": "At what non-CMU university does Malihe Alikhani work?",
+    "Q_aug_prompt": null
+  },
+  {
+    "Q": "At what non-CMU university does Taylor Berg-Kirkpatrick work?",
+    "A": "University of California, San Diego",
+    "category": "directory",
+    "Q_aug": "At what non-CMU university does Taylor Berg-Kirkpatrick work?",
+    "Q_aug_prompt": null
+  },
+  {
+    "Q": "Who is the first author of the paper entitled \"WebArena: A Realistic Web Environment for Building Autonomous Agents,\" published in 2023?",
+    "A": "Shuyan Zhou",
+    "category": "papers",
+    "Q_aug": "Who is the first author of the paper entitled \"WebArena: A Realistic Web Environment for Building Autonomous Agents,\" published in 2023?",
+    "Q_aug_prompt": null
+  },
+  {
+    "Q": "Who is the first author of the paper entitled \"A Pretrainer's Guide to Training Data: Measuring the Effects of Data Age, Domain Coverage, Quality, & Toxicity\"?",
+    "A": "Shayne Longpre",
+    "category": "papers",
+    "Q_aug": "Who is the first author of the paper entitled \"A Pretrainer's Guide to Training Data: Measuring the Effects of Data Age, Domain Coverage, Quality, & Toxicity\"?",
+    "Q_aug_prompt": null
+  },
+  {
+    "Q": "Who is the first author of the paper entitled \"Active Retrieval Augmented Generation\"?",
+    "A": "Zhengbao Jiang",
+    "category": "papers",
+    "Q_aug": "Who is the first author of the paper entitled \"Active Retrieval Augmented Generation\"?",
+    "Q_aug_prompt": null
+  },
+  {
+    "Q": "Who is the CMU faculty member who is an author on the paper entitled \"Clever Hans or Neural Theory of Mind? Stress Testing Social Reasoning in Large Language Models\"?",
+    "A": "Maarten Sap",
+    "category": "papers",
+    "Q_aug": "Who is the CMU faculty member who is an author on the paper entitled \"Clever Hans or Neural Theory of Mind? Stress Testing Social Reasoning in Large Language Models\"?",
+    "Q_aug_prompt": null
+  },
+  {
+    "Q": "Which CMU faculty member is an author on the paper entitled \"MOSAIC: Learning Unified Multi-Sensory Object Property Representations for Robot Perception\"?",
+    "A": "Yonatan Bisk",
+    "category": "papers",
+    "Q_aug": "Which CMU faculty member is an author on the paper entitled \"MOSAIC: Learning Unified Multi-Sensory Object Property Representations for Robot Perception\"?",
+    "Q_aug_prompt": null
+  },
+  {
+    "Q": "What are Bhiksha Ramakrishnan's research areas? List them in alphabetical order, separated by comma.",
+    "A": "Machine Learning, Multimodal Computing and Interaction, Speech Processing, Spoken Interfaces and Dialogue Processing, Privacy",
+    "category": "directory",
+    "Q_aug": "What are Bhiksha Ramakrishnan's research areas? List them in alphabetical order, separated by comma.",
+    "Q_aug_prompt": null
+  },
+  {
+    "Q": "What are Maarten Sap's research areas? List them in alphabetical order, separated by comma.",
+    "A": "Fairness and Ethics in Language Technology, Computational Social Science, Discourse and Pragmatics, Conversational AI, Intelligent Agents, and Dialogue",
+    "category": "directory",
+    "Q_aug": "What are Maarten Sap's research areas? List them in alphabetical order, separated by comma.",
+    "Q_aug_prompt": null
+  },
+  {
+    "Q": "Who is the first author of the paper called \"WebUI: A Dataset for Enhancing Visual UI Understanding with Web Semantics\"?",
+    "A": "Jason Wu",
+    "category": "papers",
+    "Q_aug": "Who is the first author of the paper called \"WebUI: A Dataset for Enhancing Visual UI Understanding with Web Semantics\"?",
+    "Q_aug_prompt": null
+  },
+  {
+    "Q": "Who is the first author of the paper called \"OPT-R: Exploring the Role of Explanations in Finetuning and Prompting for Reasoning Skills of Large Language Models\"?",
+    "A": "Badr AlKhamissi",
+    "category": "papers",
+    "Q_aug": "Who is the first author of the paper called \"OPT-R: Exploring the Role of Explanations in Finetuning and Prompting for Reasoning Skills of Large Language Models\"?",
+    "Q_aug_prompt": null
+  },
+  {
+    "Q": "Who is the first author of the paper called \"Unlimiformer: Long-Range Transformers with Unlimited Length Input\"?",
+    "A": "Amanda Bertsch",
+    "category": "papers",
+    "Q_aug": "Who is the first author of the paper called \"Unlimiformer: Long-Range Transformers with Unlimited Length Input\"?",
+    "Q_aug_prompt": null
+  },
+  {
+    "Q": "Who taught the course \"Human Language for Artificial Intelligence\" in fall 2023?",
+    "A": "Lorraine Levin",
+    "category": "courses",
+    "Q_aug": "Who taught the course \"Human Language for Artificial Intelligence\" in fall 2023?",
+    "Q_aug_prompt": null
+  },
+  {
+    "Q": "Who taught the \"Data Science Seminar\" in fall 2023? Give the names of the faculty members in alphabetical order by their first name, separated by comma.",
+    "A": "Emma Strubell, Maarten Sap",
+    "category": "courses",
+    "Q_aug": "Who taught the \"Data Science Seminar\" in fall 2023? Give the names of the faculty members in alphabetical order by their first name, separated by comma.",
+    "Q_aug_prompt": null
+  },
+  {
+    "Q": "Who taught the course called \"Foundations of Computational Data Science\" in fall 2023? Give the answer without diacritics.",
+    "A": "Carolyn Rose",
+    "category": "courses",
+    "Q_aug": "Who taught the course called \"Foundations of Computational Data Science\" in fall 2023? Give the answer without diacritics.",
+    "Q_aug_prompt": null
+  },
+  {
+    "Q": "Who taught the course called \"Large Language Models Methods and Application\" in fall 2023? Give the names of the instructors in alphabetical order by first name, separated by comma.",
+    "A": "Chenyan Xiong, Daphne Ippolito",
+    "category": "courses",
+    "Q_aug": "Who taught the course called \"Large Language Models Methods and Application\" in fall 2023? Give the names of the instructors in alphabetical order by first name, separated by comma.",
+    "Q_aug_prompt": null
+  },
+  {
+    "Q": "Who is teaching the course called \"Subword Modeling\" in spring 2024?",
+    "A": "David Mortensen",
+    "category": "courses",
+    "Q_aug": "Who is teaching the course called \"Subword Modeling\" in spring 2024?",
+    "Q_aug_prompt": null
+  },
+  {
+    "Q": "Who is teaching the course \"Search Engines\" in spring 2024?",
+    "A": "Jamie Callan",
+    "category": "courses",
+    "Q_aug": "Who is teaching the course \"Search Engines\" in spring 2024?",
+    "Q_aug_prompt": null
+  },
+  {
+    "Q": "Who is teaching the course \"Speech Technology for Conversational AI\" in spring 2024?",
+    "A": "Shinji Watanabe",
+    "category": "courses",
+    "Q_aug": "Who is teaching the course \"Speech Technology for Conversational AI\" in spring 2024?",
+    "Q_aug_prompt": null
+  },
+  {
+    "Q": "Who is teaching the course \"Neural Code Generation\" in spring 2024? Give the instructor names in alphabetical order by first name, separated by comma.",
+    "A": "Daniel Fried, Sean Welleck",
+    "category": "courses",
+    "Q_aug": "Who is teaching the course \"Neural Code Generation\" in spring 2024? Give the instructor names in alphabetical order by first name, separated by comma.",
+    "Q_aug_prompt": null
+  },
+  {
+    "Q": "Who is teaching the course \"Question Answering\" in spring 2024? Give the instructor names in alphabetical order by first name, separated by comma.",
+    "A": "Eric Nyberg, Teruko Mitamura",
+    "category": "courses",
+    "Q_aug": "Who is teaching the course \"Question Answering\" in spring 2024? Give the instructor names in alphabetical order by first name, separated by comma.",
+    "Q_aug_prompt": null
+  },
+  {
+    "Q": "Who is teaching the course \"Quantitative Evaluation of Language Technologies\" in spring 2024?",
+    "A": "Fernando Diaz",
+    "category": "courses",
+    "Q_aug": "Who is teaching the course \"Quantitative Evaluation of Language Technologies\" in spring 2024?",
+    "Q_aug_prompt": null
+  },
+  {
+    "Q": "Who is teaching the course \"Foundations of Computational Data Science\" in summer 2024? Write the answer without diacritics, and list the instructor names in alphabetical order by first name, separated by comma.",
+    "A": "Annette Han, Carolyn Rose",
+    "category": "courses",
+    "Q_aug": "Who is teaching the course \"Foundations of Computational Data Science\" in summer 2024? Write the answer without diacritics, and list the instructor names in alphabetical order by first name, separated by comma.",
+    "Q_aug_prompt": null
+  },
+  {
+    "Q": "Who taught the course called \"Data Science Capstone Research\" in summer 2023?",
+    "A": "Eric Nyberg",
+    "category": "courses",
+    "Q_aug": "Who taught the course called \"Data Science Capstone Research\" in summer 2023?",
+    "Q_aug_prompt": null
+  },
+  {
+    "Q": "Who was the instructor for the \"PhD Internship\" in summer 2023?",
+    "A": "Jamie Callan",
+    "category": "courses",
+    "Q_aug": "Who was the instructor for the \"PhD Internship\" in summer 2023?",
+    "Q_aug_prompt": null
+  },
+  {
+    "Q": "Who taught the course \"MIIS Directed Study\" in fall 2023?",
+    "A": "Teruko Mitamura",
+    "category": "courses",
+    "Q_aug": "Who taught the course \"MIIS Directed Study\" in fall 2023?",
+    "Q_aug_prompt": null
+  },
+  {
+    "Q": "Who was the instructor for \"Speech Recognition and Understanding\" in fall 2023?",
+    "A": "Shinji Watanabe",
+    "category": "courses",
+    "Q_aug": "Who was the instructor for \"Speech Recognition and Understanding\" in fall 2023?",
+    "Q_aug_prompt": null
+  }
+]
