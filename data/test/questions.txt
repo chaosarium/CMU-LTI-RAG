@@ -1,0 +1,960 @@
+What is Yonatan Bisk's professional title?
+What is Ralf Brown's professional title?
+Where is Richard Stern's office?
+At what non-CMU university does Malihe Alikhani work?
+At what non-CMU university does Taylor Berg-Kirkpatrick work?
+Who is the first author of the paper entitled "WebArena: A Realistic Web Environment for Building Autonomous Agents," published in 2023?
+Who is the first author of the paper entitled "A Pretrainer\'s Guide to Training Data: Measuring the Effects of Data Age, Domain Coverage, Quality, & Toxicity"?
+Who is the first author of the paper entitled "Active Retrieval Augmented Generation"?
+Who is the CMU faculty member who is an author on the paper entitled "Clever Hans or Neural Theory of Mind? Stress Testing Social Reasoning in Large Language Models"?
+Which CMU faculty member is an author on the paper entitled "MOSAIC: Learning Unified Multi-Sensory Object Property Representations for Robot Perception"?
+What are Bhiksha Ramakrishnan's research areas? List them in alphabetical order, separated by comma.
+What are Maarten Sap's research areas? List them in alphabetical order, separated by comma.
+Who is the first author of the paper called "WebUI: A Dataset for Enhancing Visual UI Understanding with Web Semantics"?
+Who is the first author of the paper called "OPT-R: Exploring the Role of Explanations in Finetuning and Prompting for Reasoning Skills of Large Language Models"?
+Who is the first author of the paper called "Unlimiformer: Long-Range Transformers with Unlimited Length Input"?
+Who taught the course "Human Language for Artificial Intelligence" in fall 2023?
+Who taught the "Data Science Seminar" in fall 2023? Give the names of the faculty members in alphabetical order by their first name, separated by comma.
+Who taught the course called "Foundations of Computational Data Science" in fall 2023? Give the answer without diacritics.
+Who taught the course called "Large Language Models Methods and Application" in fall 2023? Give the names of the instructors in alphabetical order by first name, separated by comma.
+Who is teaching the course called "Subword Modeling" in spring 2024?
+Who is teaching the course "Search Engines" in spring 2024?
+Who is teaching the course "Speech Technology for Conversational AI" in spring 2024?
+Who is teaching the course "Neural Code Generation" in spring 2024? Give the instructor names in alphabetical order by first name, separated by comma.
+Who is teaching the course "Question Answering" in spring 2024? Give the instructor names in alphabetical order by first name, separated by comma.
+Who is teaching the course "Quantitative Evaluation of Language Technologies" in spring 2024?
+Who is teaching the course "Foundations of Computational Data Science" in summer 2024? Write the answer without diacritics, and list the instructor names in alphabetical order by first name, separated by comma.
+Who taught the course called "Data Science Capstone Research" in summer 2023?
+Who was the instructor for the "PhD Internship" in summer 2023?
+Who taught the course "MIIS Directed Study" in fall 2023?
+Who was the instructor for "Speech Recognition and Understanding" in fall 2023?
+What is a bushbar on a buggy?
+When did Carnegie Institute of Technology merge with Mellon Institute?
+Where was CMU's founder born?
+When was the CMU Kiltie Band created?
+How many studens does CMU have?
+When did Andrew Carnegie say "My Heart is in the Work."?
+In 1975, Simon and Newell got the Turing Award. What area of computer science did they work on that lead to the award?
+Which department did CMU's Center for Machine Translation become?
+Which CMU researcher created the first computer chess program that achieves grandmaster status?
+Which popular language learning app was created at CMU?
+Who's the program directory of LTI's Undergraduate Language Technologies Concentration?
+Which masters program at LTI focus on engineering and deploying large-scale information systems?
+Which program that LTI offers partners with universities in Portugal?
+What is the minimum number of units of coursework needed to complete a Master of Science in Artificial Intelligence and Innovation?
+Who's the Academic Program Manager of the Master of Computational Data Science Program?
+What is the minimum letter grade needed for a course to count towards a Master of Language Technologies degree?
+Which room can Ph.D. students in Language and Information Technologies find mailboxes and office supplies
+For which year or years is full funding (i.e. tuition and stipend) guaranteed for a Ph.D. student at LTI?
+What's the Summer requirement for Year 1 in the Master of Language Technologies program?
+When does application for Master of Language Technologies at LTI open for the Fall 2024 period?
+At what time of the day can one attend the Mixed Reality: A Virtual Reality Escape Room Experience event at the 2024 CMU Carnival?
+Is registration required for the AB Tech Alumni & Student Mixer event at the 2024 CMU Carnival?
+What's the cost of seeing Scotch'n'Soda Theatre Carnival Show: The Little Mermaid for alumni and guests at Carnival?
+At which event at the 2024 Carnival can you expect to see Omar Khan?
+Which other major event is held in conjunction with Spring Carnival 2024?
+When is the main commencement ceremony?
+Where is the Phi Beta Kappa Initiation Ceremony located?
+When is the President’s Doctoral Candidate Reception?
+When will the Gesling Stadium open to guests on Sunday, May 12?
+When does Build Week end for Spring Carnival 2024?
+What is David Mortensen's email?
+What is David Mortensen's phone number?
+Where is David Mortensen's office?
+What is David Mortensen's professional title?
+What are David Mortensen's research interests?
+What is Jamie Callan's email?
+What is Jamie Callan's phone number?
+Where is Jamie Callan's office?
+What is Jamie Callan's professional title?
+What are Jamie Callan's research interests?
+What is Norman Sadeh's email?
+What is Norman Sadeh's professional title?
+What is Kemal Oflazer's email?
+Where is Kemal Oflazer's office?
+What is Kemal Oflazer's professional title?
+What is Lei Li's email?
+What is Lei Li's phone number?
+What is Lei Li's professional title?
+What are Lei Li's research interests?
+What is Ravi Starzl's email?
+What is Ravi Starzl's phone number?
+Where is Ravi Starzl's office?
+What is Ravi Starzl's professional title?
+What is Thomas Schaaf's email?
+What is Thomas Schaaf's professional title?
+What is Richard Stern's email?
+What is Richard Stern's phone number?
+Where is Richard Stern's office?
+What is Richard Stern's professional title?
+What is Michael Mauldin's email?
+What is Michael Mauldin's professional title?
+What is Malihe Alikhani's email?
+What is Malihe Alikhani's professional title?
+What is Rodolfo M Vega's email?
+What is Louis-Philippe Morency's email?
+What is Louis-Philippe Morency's phone number?
+Where is Louis-Philippe Morency's office?
+What is Louis-Philippe Morency's professional title?
+What are Louis-Philippe Morency's research interests?
+What is Justine Cassell's email?
+What is Justine Cassell's phone number?
+Where is Justine Cassell's office?
+What is Justine Cassell's professional title?
+What is Daphne Ippolito's email?
+What is Daphne Ippolito's phone number?
+What is Daphne Ippolito's professional title?
+What are Daphne Ippolito's research interests?
+What is Rita Singh's email?
+What is Rita Singh's phone number?
+Where is Rita Singh's office?
+What is Rita Singh's professional title?
+What is Graham Neubig's email?
+Where is Graham Neubig's office?
+What is Graham Neubig's professional title?
+What are Graham Neubig's research interests?
+What is Emma Strubell's email?
+Where is Emma Strubell's office?
+What is Emma Strubell's professional title?
+What is Lu Jiang's email?
+What is Lu Jiang's professional title?
+What is Matt Gormley's email?
+What is Matt Gormley's phone number?
+Where is Matt Gormley's office?
+What is Matt Gormley's professional title?
+What is Michael Shamos's email?
+What is Michael Shamos's phone number?
+Where is Michael Shamos's office?
+What is Michael Shamos's professional title?
+What is Daniel Fried's email?
+What is Daniel Fried's professional title?
+What are Daniel Fried's research interests?
+What is Bhiksha Ramakrishnan's email?
+What is Bhiksha Ramakrishnan's phone number?
+Where is Bhiksha Ramakrishnan's office?
+What is Bhiksha Ramakrishnan's professional title?
+What are Bhiksha Ramakrishnan's research interests?
+What is Florian Metze's email?
+What is Florian Metze's phone number?
+Where is Florian Metze's office?
+What is Florian Metze's professional title?
+What are Florian Metze's research interests?
+What is Raj Reddy's email?
+What is Raj Reddy's phone number?
+Where is Raj Reddy's office?
+What is Raj Reddy's professional title?
+What is Anatole Gershman's email?
+What is Anatole Gershman's phone number?
+Where is Anatole Gershman's office?
+What is Anatole Gershman's professional title?
+What are Anatole Gershman's research interests?
+What is Yiming Yang's email?
+What is Yiming Yang's phone number?
+Where is Yiming Yang's office?
+What is Yiming Yang's professional title?
+What is Matthias Grabmair's email?
+What is Matthias Grabmair's professional title?
+What is Chenyan Xiong's email?
+What is Chenyan Xiong's phone number?
+What is Chenyan Xiong's professional title?
+What is William Cohen's email?
+What is William Cohen's phone number?
+Where is William Cohen's office?
+What is William Cohen's professional title?
+What is Christopher Dyer's email?
+What is Christopher Dyer's professional title?
+What are Christopher Dyer's research interests?
+What is Teruko Mitamura's email?
+What is Teruko Mitamura's phone number?
+Where is Teruko Mitamura's office?
+What is Teruko Mitamura's professional title?
+What are Teruko Mitamura's research interests?
+What is Scott Fahlman's email?
+What is Scott Fahlman's phone number?
+Where is Scott Fahlman's office?
+What is Scott Fahlman's professional title?
+What are Scott Fahlman's research interests?
+What is Monika Woszczyna's email?
+What is Monika Woszczyna's professional title?
+What is Alexander Rudnicky's email?
+What is Alexander Rudnicky's phone number?
+Where is Alexander Rudnicky's office?
+What is Alexander Rudnicky's professional title?
+What are Alexander Rudnicky's research interests?
+What is Yulia Tsvetkov's email?
+Where is Yulia Tsvetkov's office?
+What is Yulia Tsvetkov's professional title?
+What is Eric P. Xing's email?
+What is Eric P. Xing's phone number?
+Where is Eric P. Xing's office?
+What is Eric P. Xing's professional title?
+What is Tom Mitchell's email?
+What is Tom Mitchell's phone number?
+Where is Tom Mitchell's office?
+What is Tom Mitchell's professional title?
+What is Fernando Diaz's phone number?
+What is Fernando Diaz's professional title?
+What are Fernando Diaz's research interests?
+What is Mona Diab's email?
+What is Mona Diab's phone number?
+What is Mona Diab's professional title?
+What is Alexander Hauptmann's email?
+What is Alexander Hauptmann's phone number?
+Where is Alexander Hauptmann's office?
+What is Alexander Hauptmann's professional title?
+What are Alexander Hauptmann's research interests?
+What is Shinji Watanabe's email?
+What is Shinji Watanabe's phone number?
+What is Shinji Watanabe's professional title?
+What are Shinji Watanabe's research interests?
+What is Brian MacWhinney's email?
+Where is Brian MacWhinney's office?
+What is Brian MacWhinney's professional title?
+What is Robert Frederking's email?
+What is Robert Frederking's phone number?
+Where is Robert Frederking's office?
+What is Robert Frederking's professional title?
+What is Jeffrey Bigham's email?
+What is Jeffrey Bigham's phone number?
+Where is Jeffrey Bigham's office?
+What is Jeffrey Bigham's professional title?
+What is Ian Lane's email?
+What is Ian Lane's phone number?
+What is Ian Lane's professional title?
+What is Taylor Berg-Kirkpatrick's email?
+Where is Taylor Berg-Kirkpatrick's office?
+What is Taylor Berg-Kirkpatrick's professional title?
+What is Alexander Waibel's email?
+What is Alexander Waibel's phone number?
+Where is Alexander Waibel's office?
+What is Alexander Waibel's professional title?
+What are Alexander Waibel's research interests?
+What is Jack Mostow's phone number?
+Where is Jack Mostow's office?
+What is Jack Mostow's professional title?
+What is Eric Nyberg's email?
+What is Eric Nyberg's phone number?
+Where is Eric Nyberg's office?
+What is Eric Nyberg's professional title?
+What are Eric Nyberg's research interests?
+What is Roni Rosenfeld's email?
+What is Roni Rosenfeld's phone number?
+Where is Roni Rosenfeld's office?
+What is Roni Rosenfeld's professional title?
+What are Roni Rosenfeld's research interests?
+What is Sean Welleck's email?
+What is Sean Welleck's professional title?
+What is Carolyn Rosé's email?
+What is Carolyn Rosé's phone number?
+Where is Carolyn Rosé's office?
+What is Carolyn Rosé's professional title?
+What are Carolyn Rosé's research interests?
+What is Yonatan Bisk's email?
+Where is Yonatan Bisk's office?
+What is Yonatan Bisk's professional title?
+What are Yonatan Bisk's research interests?
+What is Ralf Brown's email?
+What is Ralf Brown's phone number?
+Where is Ralf Brown's office?
+What is Ralf Brown's professional title?
+What are Ralf Brown's research interests?
+What is Madhavi Ganapathiraju's email?
+Where is Madhavi Ganapathiraju's office?
+What is Madhavi Ganapathiraju's professional title?
+What is Maarten Sap's email?
+What is Maarten Sap's professional title?
+What are Maarten Sap's research interests?
+What is Alon Lavie's email?
+What is Alon Lavie's professional title?
+What are Alon Lavie's research interests?
+What is Lori Levin's email?
+What is Lori Levin's phone number?
+Where is Lori Levin's office?
+What is Lori Levin's professional title?
+What are Lori Levin's research interests?
+Which faculty are interested in Speech Synthesis?
+Which faculty are interested in Neural Networks?
+Which faculty are interested in Computer Supported Collaborative Learning/MOOCs?
+Which faculty are interested in Speech Processing?
+Which faculty are interested in Multimodal AI?
+Which faculty are interested in Vision and Language?
+Which faculty are interested in Multimodal Computing and Interaction?
+Which faculty are interested in Large Language Models?
+Which faculty are interested in Creativity?
+Which faculty are interested in Spoken Interfaces and Dialogue Processing?
+Which faculty are interested in Text Mining and Analytics?
+Which faculty are interested in Conversational AI?
+Which faculty are interested in Machine Learning?
+Which faculty are interested in Information Extraction?
+Which faculty are interested in Dialog Processing?
+Which faculty are interested in Privacy and Security?
+Which faculty are interested in Computational Epidemiology?
+Which faculty are interested in Computational Social Science?
+Which faculty are interested in Multimodal Interaction?
+Which faculty are interested in Machine Translation?
+Which faculty are interested in Privacy?
+Which faculty are interested in Speech Recognition?
+Which faculty are interested in Spoken Language Processing?
+Which faculty are interested in AI Drug Discovery?
+Which faculty are interested in Multilingual/Low-Resource Speech Processing?
+Which faculty are interested in Embodiment?
+Which faculty are interested in Language and Code?
+Which faculty are interested in Summarization and Question Answering?
+Which faculty are interested in Evaluation?
+Which faculty are interested in Knowledge Representation and Reasoning?
+Which faculty are interested in Dialog Systems for the Developing World?
+Which faculty are interested in Natural Language Processing and Computational Linguistics?
+Which faculty are interested in Speech-to-Speech Translation?
+Which faculty are interested in AI?
+Which faculty are interested in Corpus Annotation and Resources?
+Which faculty are interested in Language Technologies for Education?
+Which faculty are interested in Intelligent Agents?
+Which faculty are interested in Grounding?
+Which faculty are interested in Spoken Language Translation?
+Which faculty are interested in Information Retrieval?
+Which faculty are interested in Fairness and Ethics in Language Technology?
+Which faculty are interested in Natural Language Understanding?
+Which faculty are interested in Discourse and Pragmatics?
+Which faculty are interested in and Dialogue?
+Which faculty are interested in Unsupervised Learning?
+Which faculty are interested in Natural Language Generation?
+Which faculty are interested in Speech Enhancement / Robust Speech Processing?
+Which faculty are interested in Natural Language Processing?
+Which faculty are interested in Language Technology Application Areas/Issues?
+Which faculty have the job title Machine Learning Department?
+Which faculty have the job title Senior Staff Scientist for DeepMind?
+Which faculty have the job title Assistant Professor at the University of Washington?
+Which faculty have the job title Assistant Teaching Professor?
+Which faculty have the job title Research Professor Emeritus?
+Which faculty have the job title Assistant Research Professor CMU Silicon Valley?
+Which faculty have the job title Assistant Professor, University of California, San Diego?
+Which faculty have the job title Head of Speech Technology Group at Multimodal Technologies Inc.?
+Which faculty have the job title Professor and PhD Program Director?
+Which faculty have the job title Distinguished Career Professor?
+Which faculty have the job title Adjunct Professor?
+Which faculty have the job title Inventor of Lycos (early Internet search engine) in 1994?
+Which faculty have the job title Principal Systems Scientist?
+Which faculty have the job title Leonardo Associate Professor of Computer Science?
+Which faculty have the job title Distinguished Service Professor?
+Which faculty have the job title Principal Research Scientist at 3M | M*Modal?
+Which faculty have the job title LTI Director and Tenured Professor?
+Which faculty have the job title Research Professor?
+Which faculty have the job title Associate Professor?
+Which faculty have the job title Director of Research Engineering at Google AI and SCS Consulting Professor?
+Which faculty have the job title Assistant Research Professor?
+Which faculty have the job title Associate Research Professor?
+Which faculty have the job title Professor of Psychology at Carnegie Mellon University?
+Which faculty have the job title Teaching Professor of Computer Science?
+Which faculty have the job title Assistant Professor (Starting January 2024)?
+Which faculty have the job title Professor of Computer Science in the Institute for Software Research and Co-director of the MSIT in Privacy Engineering Program?
+Which faculty have the job title Staff Research Scientist at Google?
+Which faculty have the job title Moza Bint Nasser University Professor?
+Which faculty have the job title E. Fredkin University Professor in the Machine Learning Department?
+Which faculty have the job title Professor?
+Which faculty have the job title Assistant Professor, Technical University of Munich, Germany?
+Which faculty have the job title Vice President of Language Technologies at Unbabel and Consulting Professor at the Language Technologies Institute?
+Which faculty have the job title Principal Systems Scientist/Associate Dean of Doctoral Programs/MLT Program Director?
+Which faculty have the job title Professor (On Leave)?
+Which faculty have the job title Assistant Professor at the University of Pittsburgh?
+Which faculty have the job title Assistant Professor?
+Which faculty have the job title Associate Professor Department of Biomedical Informatics at University of Pittsburgh?
+Which department offers the course 07-070 Teaching Techniques for Computer Science?
+How many units does the course 16-883 Special Topics: Provably Safe Robotics carry?
+Who taught 60-263 Intermediate Studio: Graphic Novel in the semester Spring 2024?
+What are the prerequisites for 48-200 Architecture Design Studio: POIESIS STUDIO 3?
+Which department offers the course 84-793 IPS Policy Seminar III?
+How many units does the course 51-952 Progress Reviews II carry?
+Who taught 12-750 Infrastructure Management in the semester Spring 2024?
+Which room or rooms does the course 98-122 Blackjack Techniques take place in Fall 2023?
+How many units does the course 82-241 Intermediate Spanish I carry?
+Which department offers the course 09-050 Study Abroad?
+Which department offers the course 69-155 Cardio Fitness Sculpt?
+Which department offers the course 94-403 Consulting Lab?
+Which room or rooms does the course 94-845 Smart Cities: Growth and Intelligent Transportation Systems take place in Fall 2023?
+How many units does the course 51-262 Design Center: Communication and Digital Design Fundamentals carry?
+Which department offers the course 51-365 Creative Technology Sprints?
+How many units does the course 21-254 Linear Algebra and Vector Calculus for Engineers carry?
+Who taught 51-425 Design Center: Beginning Book Arts Lab in the semester Fall 2023?
+How many units does the course 16-745 Optimal Control and Reinforcement Learning carry?
+Which department offers the course 62-141 Black and White Photography I?
+Who taught 95-828 Machine Learning for Problem Solving in the semester Spring 2024?
+Which room or rooms does the course 95-884 Network Defenses take place in Fall 2023?
+Who taught 54-489 Dramaturgy: Internship in the semester Spring 2024?
+Which room or rooms does the course 57-665 History of the Piano take place in Spring 2024?
+Which department offers the course 05-661 Advanced Interaction Design?
+Which room or rooms does the course 54-050 Study Abroad take place in Fall 2023?
+How many units does the course 82-482 Introduction to Translation carry?
+Which department offers the course 39-220 Experiential Learning II?
+How many units does the course 33-051 Study Abroad carry?
+Which department offers the course 45-851 Data Mining?
+How many units does the course 57-101 Introduction to Music Technology carry?
+Which department offers the course 57-517 Major Studio (Trombone)?
+Which room or rooms does the course 99-360 IDeATe: E-Textiles take place in Spring 2024?
+How many units does the course 18-787 Data Analytics carry?
+Which department offers the course 99-262 ADDvocate: Anti-Discrimination Dialogue for Social Justice?
+Who taught 80-603 Formal Methods: Tools and Techniques in the semester Fall 2023?
+What are the prerequisites for 03-744 Membrane Trafficking?
+Which department offers the course 57-149 Basic Harmony I?
+Which room or rooms does the course 14-819 Introduction to Software Reverse-Engineering take place in Spring 2024?
+Who taught 11-935 LTI Practicum in the semester Spring 2024?
+What are the prerequisites for 76-439 Novelistic Television?
+Which department offers the course 18-460 Optimization?
+Which department offers the course 09-111 Nanolegos: Chemical Building Blocks?
+Who taught 45-824 Venture Capital and Private Equity in the semester Spring 2024?
+Who taught 54-254 New Play Development in the semester Spring 2024?
+Which room or rooms does the course 49-712 User Experience Research: Theory, Methods, Practice take place in Fall 2023?
+How many units does the course 03-511 Computational Molecular Biology and Genomics carry?
+Who taught 73-436 Applied Projects for Business and Economics in the semester Spring 2024?
+Which department offers the course 95-568 Data Management and Security?
+What are the prerequisites for 70-495 Corporate Finance?
+Which department offers the course 32-200 Naval Laboratory?
+How many units does the course 36-225 Introduction to Probability Theory carry?
+Which department offers the course 57-775 Vocal Pedagogy II?
+Which room or rooms does the course 24-887 Machine Learning & Artificial Intelligence for Engineers take place in Spring 2024?
+Which department offers the course 84-348 Advocacy, Policy and Practice?
+Which department offers the course 48-791 M.S. Project?
+How many units does the course 67-272 Application Design and Development carry?
+Which department offers the course 15-322 Introduction to Computer Music?
+Who taught 57-618 Independent Study in Conducting in the semester Fall 2023?
+Which room or rooms does the course 95-451 Making Products Count: Data Science for Product Managers take place in Fall 2023?
+What are the prerequisites for 33-122 Physics II for Biological Sciences and Chemistry Students?
+How many units does the course 57-420 JIVE - CMU Jazz Choir carry?
+Who taught 57-596 Sophomore Recital in the semester Spring 2024?
+Which room or rooms does the course 03-642 Graduate Molecular Biology take place in Fall 2023?
+Which room or rooms does the course 18-989 Introduction to Graduate Studies take place in Fall 2023?
+Which room or rooms does the course 76-239 Introduction to Film Studies take place in Spring 2024?
+How many units does the course 79-233 Forced Displacement, Migration, and Statelessness in the Modern Middle East carry?
+Which room or rooms does the course 67-100 Information Systems First Year Colloquium take place in Fall 2023?
+How many units does the course 51-725 MDES/MPS Interaction Design Lab carry?
+Which room or rooms does the course 54-862 Anti-Racist & Equitable Practices in Theater take place in Spring 2024?
+How many units does the course 45-928 Energy Finance carry?
+How many units does the course 70-438 Commercialization and Innovation carry?
+Who taught 46-921 Financial Data Science I in the semester Fall 2023?
+Who taught 57-236 Performance for Composers in the semester Fall 2023?
+How many units does the course 51-438 Letterpress/Screen-printing DIY Workshop carry?
+Which department offers the course 02-731 Modeling Evolution?
+Who taught 09-381 Environmental Systems on a Changing Planet: Science & Engineering Addendum in the semester Fall 2023?
+Who taught 82-174 Introduction to Japanese II in the semester Fall 2023?
+Which room or rooms does the course 18-349 Introduction to Embedded Systems take place in Spring 2024?
+Which department offers the course 24-451 Feedback Control Systems?
+Who taught 57-700 Major Studio (Voice) in the semester Spring 2024?
+Who taught 15-330 Introduction to Computer Security in the semester Fall 2023?
+Which room or rooms does the course 73-332 Political Economy take place in Spring 2024?
+Which department offers the course 57-610 Internship?
+Which room or rooms does the course 54-792 Graduate Playwriting II take place in Spring 2024?
+How many units does the course 76-373 Argument carry?
+Which room or rooms does the course 05-795 Applications of Cognitive Science take place in Spring 2024?
+Who taught 73-270 Professional Communication for Economists in the semester Spring 2024?
+Who taught 94-827 SAS for Public Policy in the semester Spring 2024?
+Who taught 21-902 Doctoral Thesis Research in the semester Fall 2023?
+What are the prerequisites for 45-870 Strategic Corporate Management?
+Who taught 70-452 Introduction to Product Management in the semester Fall 2023?
+Which room or rooms does the course 79-465 The Arts in Qatar take place in Spring 2024?
+Who taught 07-120 Introduction to Software Construction in the semester Fall 2023?
+How many units does the course 57-180 Basic Solfege I carry?
+Which department offers the course 76-718 Communicating in the Global Marketplace?
+Which department offers the course 67-426 Special Topics - Capstone course in Data Science?
+Which department offers the course 24-354 Mechatronics Applications in Mechanical Engineering?
+How many units does the course 18-642 Embedded System Software Engineering carry?
+What are the prerequisites for 18-843 Mobile and Pervasive Computing?
+How many units does the course 18-729 Board-Level RF Systems for the Internet-of-Things carry?
+Who taught 76-221 Books You Should Have Read By Now in the semester Summer Two 2024?
+How many units does the course 67-373 Information Systems Consulting Project carry?
+How many units does the course 21-484 Graph Theory carry?
+How many units does the course 49-703 Figure it Out: Your Professional Identity and Story carry?
+How many units does the course 09-105 Introduction to Modern Chemistry I carry?
+Which department offers the course 42-798 Current Readings in Biomedical Engineering?
+What are the prerequisites for 70-381 Marketing I?
+Which department offers the course 82-347 Spanish for Heritage Speakers?
+Who taught 16-880 Engineering Haptic Interfaces in the semester Spring 2024?
+How many units does the course 15-652 Foundation Programming Languages carry?
+How many units does the course 54-191 Acting for Non-Majors carry?
+Which department offers the course 85-781 Graduate Reading and Research?
+Which room or rooms does the course 46-904 Financial Computing IV take place in Fall 2023?
+How many units does the course 57-477 Music of the Spirit carry?
+Who taught 54-794 Directing in the semester Spring 2024?
+Which department offers the course 57-037 Vocal Master Class?
+Which room or rooms does the course 17-437 Web Application Development take place in Fall 2023?
+Who taught 57-662 Piano Maintenance II in the semester Spring 2024?
+Who taught 54-335 Auditioning for the Stage in the semester Spring 2024?
+Who taught 27-201 Structure of Materials in the semester Fall 2023?
+Which department offers the course 54-281 Foundations of Drama II?
+Which room or rooms does the course 04-950 Engineering Artificial Intelligence Capstone take place in Fall 2023?
+Who taught 94-491 Lean Innovation Lab in the semester Fall 2023?
+Which department offers the course 82-418 Advanced Research in French & Francophone Language & Culture?
+Which department offers the course 94-864 Technology, Humanity, and Social Justice: Criminal Justice?
+Who taught 60-170 Foundations: Paint/Print in the semester Spring 2024?
+Which department offers the course 53-374 Retro Game Lab?
+Who taught 10-940 Independent Study in the semester Fall 2023?
+Who taught 46-884 Modern Data Management in the semester Spring 2024?
+Which department offers the course 15-294 Rapid Prototyping Technologies?
+Who taught 24-231 Fluid Mechanics in the semester Spring 2024?
+Which room or rooms does the course 38-301 TBA take place in Spring 2024?
+Who taught 57-496 BXA Studio (1st semester) in the semester Spring 2024?
+Who taught 69-153 Lifeguard Training in the semester Fall 2023?
+How many units does the course 46-977 MSCF Studies in Financial Engineering carry?
+What are the prerequisites for 57-392 Keyboard Studies (Music Ed)?
+How many units does the course 12-623 Molecular Simulation of Materials carry?
+Which department offers the course 12-794 Graduate Seminar?
+Which department offers the course 94-820 Consumer Analytics in Health Care?
+Who taught 84-797 Graduate Research in the semester Spring 2024?
+How many units does the course 57-702 Major Studio (Conducting) carry?
+Which room or rooms does the course 18-873 Spacecraft Design-Build-Fly Laboratory take place in Fall 2023?
+Who taught 95-410 Blockchain Fundamentals in the semester Fall 2023?
+Which room or rooms does the course 11-603 Python for Data Science take place in Summer One/All 2024?
+What are the prerequisites for 33-339 Intermediate Electricity and Magnetism II?
+Who taught 38-613 Communication Skills and Professional Development for Scientists in the semester Fall 2023?
+Who taught 12-741 Data Management in the semester Fall 2023?
+Which department offers the course 57-670 Chamber Music: Brass?
+How many units does the course 79-120 Introduction to African American History: Black Americans and the World carry?
+How many units does the course 90-719 Physical Technical Systems I carry?
+Which department offers the course 54-787 Graduate Screenwriting I?
+How many units does the course 57-606 Music History for Graduate Students 1 carry?
+Who taught 93-846 Cultural Policy & Advocacy in the US in the semester Spring 2024?
+How many units does the course 03-600 Biotechnology or Biopharmaceutical Engineering Internship carry?
+How many units does the course 99-352 IDeATe: Soft Fabrication Skills carry?
+Who taught 66-400 Dietrich College Senior Honors Colloquium in the semester Fall 2023?
+Which department offers the course 57-449 Beginning Piano for Children II?
+Who taught 94-854 Developing as a Leader in the semester Fall 2023?
+How many units does the course 48-716 MSCD Pre-thesis II carry?
+Which room or rooms does the course 76-461 Refugee Stories: Literature, Art and Film take place in Spring 2024?
+Which room or rooms does the course 11-423 ConLanging: Lrng. Ling. & Lang Tech via Constru Artif. Lang. take place in Spring 2024?
+Which department offers the course 54-609 Independent Study in Dramaturgy?
+Which room or rooms does the course 05-670 Digital Service Innovation take place in Spring 2024?
+How many units does the course 82-451 Del Son al Reggaeton: Chronicling Countercultural Latin American Soundscapes carry?
+Which department offers the course 45-863 Risk Analytics?
+Who taught 90-937 Independent Study in the semester Summer One/All 2024?
+Which department offers the course 15-326 Computational Microeconomics?
+Which department offers the course 11-492 Speech Technology for Conversational AI?
+Who taught 18-781 Speech Recognition and Understanding in the semester Fall 2023?
+How many units does the course 04-625 Intrusion Detection Systems carry?
+Which department offers the course 76-748 Academic Writing and Communication for Graduate Students?
+Who taught 02-512 Computational Methods for Biological Modeling and Simulation in the semester Fall 2023?
+Who taught 17-437 Web Application Development in the semester Fall 2023?
+Which room or rooms does the course 70-443 Digital Marketing and Social Media Strategy take place in Fall 2023?
+Which room or rooms does the course 91-800 Organizational Management take place in Fall 2023?
+How many units does the course 12-702 Fundamentals of Water Quality Engineering carry?
+Who taught 82-183 AI for Humanities: The Multi-dimensions of World Languages, Arts, and Cultures in the semester Summer Two 2024?
+Which room or rooms does the course 04-613 ICT Business Economics and Finance take place in Spring 2024?
+How many units does the course 82-139 Chinese Language, Culture and Society carry?
+Who taught 19-684 Engineering and Technology Innovation Management in Practice in the semester Fall 2023?
+How many units does the course 18-654 Software Verification and Testing carry?
+Which department offers the course 57-974 Piano Pedagogy II?
+Who taught 15-316 Software Foundations of Security and Privacy in the semester Fall 2023?
+Who taught 09-435 Independent Study Chemistry in the semester Spring 2024?
+How many units does the course 53-341 Distributed Game Studio - Game Art Pipeline carry?
+Who taught 80-991 Thesis Research in the semester Spring 2024?
+Who taught 03-362 Cellular Neuroscience in the semester Fall 2023?
+Who taught 82-412 Topics in Arabic Studies in the semester Spring 2024?
+Which department offers the course 82-451 Studies in Latin American Literature and Culture?
+How many units does the course 54-890 Costume Production Monograph carry?
+Who taught 93-826 External Relations: Fundraising & Individual Giving in the semester Spring 2024?
+What are the prerequisites for 95-900 Internship?
+Which room or rooms does the course 99-358 IDeATe: Introduction to the Unity Game Engine take place in Fall 2023?
+Who taught 49-608 Professional Practice of Product Innovation in the semester Fall 2023?
+How many units does the course 42-998 Biomedical Engineering PhD Prospectus carry?
+How many units does the course 79-223 Mexico: From the Aztec Empire to the Drug War carry?
+Which room or rooms does the course 45-770 Corporate Strategy take place in Fall 2023?
+Which room or rooms does the course 27-305 Introduction to Materials Characterization take place in Spring 2024?
+Which room or rooms does the course 82-171 Elementary Japanese I take place in Fall 2023?
+Which room or rooms does the course 86-783 Neural Engineering Laboratory take place in Fall 2023?
+Which room or rooms does the course 42-302 Biomedical Engineering Systems Modeling and Analysis take place in Spring 2024?
+Which department offers the course 18-344 Computer Systems and the Hardware-Software Interface?
+How many units does the course 03-362 Cellular Neuroscience carry?
+Which department offers the course 51-228 Communications Studio II: Designing Communications for Interactions?
+How many units does the course 62-469 Intermediate Stained Glass carry?
+Who taught 36-202 Methods for Statistics & Data Science in the semester Summer Two 2024?
+How many units does the course 79-492 Faculty Research Assistant carry?
+Which department offers the course 99-355 IDeATe: Introduction to Arduino?
+Who taught 76-239 Introduction to Film Studies in the semester Fall 2023?
+Which department offers the course 49-704 iii Seminar Series?
+Which room or rooms does the course 33-115 Physics for Future Presidents take place in Fall 2023?
+Who taught 33-232 Mathematical Methods of Physics in the semester Spring 2024?
+Which room or rooms does the course 39-612 Energy Policy and Economics take place in Spring 2024?
+Which department offers the course 76-296 20th Century Russian Masterpieces?
+Which room or rooms does the course 54-759 Working with Dramaturgs take place in Fall 2023?
+How many units does the course 57-449 Beginning Piano for Children II carry?
+How many units does the course 82-173 Introduction to Japanese I carry?
+What are the prerequisites for 76-339 The American War Film?
+Which room or rooms does the course 17-685 Dynamic Network Analysis take place in Spring 2024?
+How many units does the course 93-879 Navigating the Practical Realities of the Film Industry carry?
+Which department offers the course 82-283 Language Diversity & Cultural Identity?
+Which room or rooms does the course 54-381 Contemporary Comedy by Historically Underrepresented Groups take place in Fall 2023?
+Who taught 54-473 Drawing for Theatrical Designers in the semester Fall 2023?
+Which department offers the course 57-827 Jazz Orchestra?
+Which department offers the course 54-425 Directing?
+How many units does the course 95-865 Unstructured Data Analytics carry?
+Which department offers the course 12-746 Special Topics: Intro to Python Prototyping for Infrastructure Systems?
+Who taught 79-491 Independent Study in the semester Spring 2024?
+Which room or rooms does the course 45-820 Finance II take place in Spring 2024?
+How many units does the course 24-697 Research Communication in Mechanical Engineering carry?
+How many units does the course 54-933 Technical Direction III carry?
+Which department offers the course 14-709 INI Project-Japan?
+Who taught 99-353 IDeATe: Design Essentials for Laser Cutting in the semester Spring 2024?
+Which department offers the course 82-702 Cultural Studies Elective - Graduate Level?
+Who taught 48-355 Perspective in the semester Spring 2024?
+How many units does the course 76-270 Writing for the Professions carry?
+Which department offers the course 51-486 Designing Experiences for Learning?
+How many units does the course 82-707 Introduction to Translation carry?
+Which department offers the course 27-675 Masters Report?
+Which room or rooms does the course 69-134 Beginning Golf take place in Fall 2023?
+Which room or rooms does the course 88-453 Behavioral Economics Capstone take place in Fall 2023?
+What are the prerequisites for 21-690 Methods of Optimization?
+Which room or rooms does the course 95-885 Data Science and Big Data take place in Fall 2023?
+Which department offers the course 54-267 Conceptual Sound Design?
+How many units does the course 18-845 Internet Services carry?
+Which department offers the course 57-285 Music History III?
+How many units does the course 05-682 METALS Project 2 carry?
+How many units does the course 70-332 Business, Society and Ethics carry?
+How many units does the course 91-601 Quantitative Methods II carry?
+Who taught 46-887 Machine Learnng for Business Applications II in the semester Fall 2023?
+How many units does the course 57-714 Major Studio (Saxophone) carry?
+How many units does the course 85-501 Readings in Developmental psychology carry?
+How many units does the course 48-707 MUD Graduate Seminar carry?
+How many units does the course 54-898 Composition for Theatrical Sound Design 2 carry?
+Which department offers the course 21-120 Differential and Integral Calculus?
+Who taught 51-101 Studio: Survey of Design in the semester Fall 2023?
+What are the prerequisites for 67-262 Database Design and Development?
+Which department offers the course 88-602 Behavioral Decision Making?
+Which department offers the course 09-861 Chemical Research?
+Which room or rooms does the course 80-334 Social and Political Philosophy take place in Fall 2023?
+Which room or rooms does the course 14-761 Applied Information Assurance take place in Spring 2024?
+Which department offers the course 24-101 Fundamentals of Mechanical Engineering?
+Which room or rooms does the course 82-208 Eastern Europe: Society and Culture take place in Spring 2024?
+Which room or rooms does the course 33-124 Introduction to Astronomy take place in Fall 2023?
+Which department offers the course 94-881 Managing Analytic Projects?
+How many units does the course 11-422 Grammar Formalisims carry?
+Which room or rooms does the course 95-906 Independent Study take place in Spring 2024?
+Who taught 15-750 Algorithms in the Real World in the semester Fall 2023?
+Which room or rooms does the course 57-888 Instrumental/Choral Conducting take place in Spring 2024?
+Who taught 82-500 Modern Languages Independent Study in the semester Fall 2023?
+Who taught 88-398 Independent Study in the semester Fall 2023?
+Who taught 90-856 Policy Topics: Tech Policy & Management in the semester Spring 2024?
+How many units does the course 48-667 Material Histories carry?
+Who taught 21-111 Differential Calculus in the semester Spring 2024?
+Who taught 46-924 Natural Language Processing in the semester Fall 2023?
+Who taught 60-499 Studio Independent Study in the semester Summer One/All 2024?
+Who taught 79-280 Coffee and Capitalism in the semester Spring 2024?
+Which department offers the course 19-452 EPP Projects II?
+Which department offers the course 57-463 Consumer Driven Composition for Contemporary Media?
+How many units does the course 57-671 Chamber Music: String Quartet carry?
+Which department offers the course 54-422 Directing IV: Next Steps?
+Which room or rooms does the course 67-220 Digital Accessibility - Ensuring Universal Access to the Information Society take place in Fall 2023?
+Which room or rooms does the course 79-303 Pittsburgh and the Transformation of Modern Urban America take place in Fall 2023?
+Who taught 11-722 Grammar Formalisms in the semester Spring 2024?
+Who taught 45-915 Managing Through Incentives in the semester Spring 2024?
+Which department offers the course 90-958 Independent Study?
+What are the prerequisites for 57-775 Vocal Pedagogy II?
+How many units does the course 82-215 Arab Culture Through Dialogues, Film, and Literature carry?
+Which room or rooms does the course 76-245 Shakespeare: Tragedies & Histories take place in Spring 2024?
+Who taught 09-871 Doctoral Dissertation in the semester Summer Two 2024?
+Who taught 36-731 Foundations of Causal Inference in the semester Fall 2023?
+How many units does the course 57-513 Major Studio (Bassoon) carry?
+How many units does the course 76-239 Introduction to Film Studies carry?
+Who taught 60-135 Foundations: Sculpture II in the semester Spring 2024?
+Which room or rooms does the course 36-295 Independent Study take place in Spring 2024?
+Which room or rooms does the course 24-441 Engineering Design II: Conceptualization and Realization take place in Spring 2024?
+Which department offers the course 57-749 Beginning Piano for Children II?
+Who taught 48-743 Introduction to Ecological Design Thinking in the semester Fall 2023?
+Which department offers the course 54-615 MFA Director's Lab?
+How many units does the course 45-869 Service Design Leadership for Tackling Complexity carry?
+Who was the last author of the paper called Understanding Masked Autoencoders via Hierarchical Latent Variable Models?
+At what venue was the paper called Data-efficient Active Learning for Structured Prediction with Partial Annotation and Self-Training published?
+What was the paper called Understanding Masked Autoencoders via Hierarchical Latent Variable Models about?
+At what venue was the paper called Regularizing Self-training for Unsupervised Domain Adaptation via Structural Constraints published?
+Who was the first author of the paper called Improving Factuality of Abstractive Summarization via Contrastive Reward Learning?
+What was the paper called Exploring Smart Commercial Building Occupants’ Perceptions and Notification Preferences of Internet of Things Data Collection in the United States about?
+What year was the paper called Counterfactual Augmentation for Multimodal Learning Under Presentation Bias published?
+At what venue was the paper called Clever Hans or Neural Theory of Mind? Stress Testing Social Reasoning in Large Language Models published?
+Who were the authors of the paper called VideoGLUE: Video General Understanding Evaluation of Foundation Models?
+At what venue was the paper called Queer People are People First: Deconstructing Sexual Identity Stereotypes in Large Language Models published?
+What was the paper called Language Models Get a Gender Makeover: Mitigating Gender Bias with Few-Shot Data Interventions about?
+What was the paper called Solving NLP Problems through Human-System Collaboration: A Discussion-based Approach about?
+What was the paper called Reasoning about the Unseen for Efficient Outdoor Object Navigation about?
+What was the paper called Learning Performance-Improving Code Edits about?
+What year was the paper called Membership Inference Attacks against Language Models via Neighbourhood Comparison published?
+Who was the first author of the paper called Care4Lang at MEDIQA-Chat 2023: Fine-tuning Language Models for Classifying and Summarizing Clinical Dialogues?
+Who was the first author of the paper called Prompt2Model: Generating Deployable Models from Natural Language Instructions?
+At what venue was the paper called WebUI: A Dataset for Enhancing Visual UI Understanding with Web Semantics published?
+Who was the first author of the paper called From User Perceptions to Technical Improvement: Enabling People Who Stutter to Better Use Speech Recognition?
+At what venue was the paper called D-CALM: A Dynamic Clustering-based Active Learning Approach for Mitigating Bias published?
+Who was the last author of the paper called Jointly modeling products and resource pages for task-oriented recommendation?
+What year was the paper called Comparing Privacy Label Disclosures of Apps Published in both the App Store and Google Play Stores published?
+Who was the first author of the paper called USB: A Unified Summarization Benchmark Across Tasks and Domains?
+Who was the last author of the paper called Towards Improving Harmonic Sensitivity and Prediction Stability for Singing Melody Extraction?
+What was the paper called Multilingual Machine Translation with Large Language Models: Empirical Results and Analysis about?
+What was the paper called BASS: Block-wise Adaptation for Speech Summarization about?
+At what venue was the paper called Rethinking Voice-Face Correlation: A Geometry View published?
+What year was the paper called SPAE: Semantic Pyramid AutoEncoder for Multimodal Generation with Frozen LLMs published?
+Who was the first author of the paper called Multilingual Machine Translation with Large Language Models: Empirical Results and Analysis?
+What year was the paper called The Internal State of an LLM Knows When its Lying published?
+Who was the last author of the paper called How About Kind of Generating Hedges using End-to-End Neural Models??
+Who was the first author of the paper called Neural Machine Translation for the Indigenous Languages of the Americas: An Introduction?
+Who was the first author of the paper called Syntax and Semantics Meet in the “Middle”: Probing the Syntax-Semantics Interface of LMs Through Agentivity?
+At what venue was the paper called GlobalBench: A Benchmark for Global Progress in Natural Language Processing published?
+What year was the paper called Learning Disentangled Prompts for Compositional Image Synthesis published?
+Who was the first author of the paper called Surveying (Dis)Parities and Concerns of Compute Hungry NLP Research?
+Who was the first author of the paper called MusicLDM: Enhancing Novelty in Text-to-Music Generation Using Beat-Synchronous Mixup Strategies?
+Who were the authors of the paper called PWESuite: Phonetic Word Embeddings and Tasks They Facilitate?
+What year was the paper called Why do Nearest Neighbor Language Models Work? published?
+Who was the first author of the paper called Chain-of-Skills: A Configurable Model for Open-Domain Question Answering?
+At what venue was the paper called Pragmatic Inference with a CLIP Listener for Contrastive Captioning published?
+Who was the last author of the paper called Generating Images with Multimodal Language Models?
+What year was the paper called A Vector Quantized Approach for Text to Speech Synthesis on Real-World Spontaneous Speech published?
+Who were the authors of the paper called Understanding Ethics in NLP Authoring and Reviewing?
+Who was the last author of the paper called WebUI: A Dataset for Enhancing Visual UI Understanding with Web Semantics?
+Who was the first author of the paper called Regularizing Self-training for Unsupervised Domain Adaptation via Structural Constraints?
+Who were the authors of the paper called Pragmatic Inference with a CLIP Listener for Contrastive Captioning?
+Who was the last author of the paper called On the Interactions of Structural Constraints and Data Resources for Structured Prediction?
+What year was the paper called Impacts of Aerosol Chemical Composition on Cloud Condensation Nuclei (CCN) Activity during Wintertime in Beijing, China published?
+At what venue was the paper called Generating Images with Multimodal Language Models published?
+Who was the last author of the paper called Don't Take This Out of Context!: On the Need for Contextual Models and Evaluations for Stylistic Rewriting?
+At what venue was the paper called GameQA: Gamified Mobile App Platform for Building Multiple-Domain Question-Answering Datasets published?
+Who were the authors of the paper called ATLAS: Automatically Detecting Discrepancies Between Privacy Policies and Privacy Labels?
+Who were the authors of the paper called Dynamic-SUPERB: Towards A Dynamic, Collaborative, and Comprehensive Instruction-Tuning Benchmark for Speech?
+Who was the first author of the paper called Contrastive Attention Networks for Attribution of Early Modern Print?
+At what venue was the paper called Exploring Smart Commercial Building Occupants’ Perceptions and Notification Preferences of Internet of Things Data Collection in the United States published?
+What was the paper called OPT-R: Exploring the Role of Explanations in Finetuning and Prompting for Reasoning Skills of Large Language Models about?
+What year was the paper called StarCoder: may the source be with you! published?
+What was the paper called Generating Images with Multimodal Language Models about?
+Who was the first author of the paper called ChatGPT MT: Competitive for High- (but Not Low-) Resource Languages?
+What year was the paper called Plan, Eliminate, and Track - Language Models are Good Teachers for Embodied Agents published?
+What was the paper called Evaluation of FluSight influenza forecasting in the 2021–22 and 2022–23 seasons with a new target laboratory-confirmed influenza hospitalizations about?
+Who was the first author of the paper called Multimodal Learning Without Labeled Multimodal Data: Guarantees and Applications?
+Who were the authors of the paper called Seasonal and Diurnal Characteristics of the Vertical Profile of Aerosol Optical Properties in Urban Beijing, 2017-2021?
+At what venue was the paper called Evaluation of FluSight influenza forecasting in the 2021–22 and 2022–23 seasons with a new target laboratory-confirmed influenza hospitalizations published?
+Who was the last author of the paper called WebArena: A Realistic Web Environment for Building Autonomous Agents?
+Who were the authors of the paper called Quantitative Evaluation of Dust and Black Carbon Column Concentration in the MERRA-2 Reanalysis Dataset Using Satellite-Based Component Retrievals?
+Who was the last author of the paper called Crossing the Threshold: Idiomatic Machine Translation through Retrieval Augmentation and Loss Weighting?
+At what venue was the paper called Language Models Get a Gender Makeover: Mitigating Gender Bias with Few-Shot Data Interventions published?
+Who were the authors of the paper called It’s MBR All the Way Down: Modern Generation Techniques Through the Lens of Minimum Bayes Risk?
+Who was the first author of the paper called Dynamic-SUPERB: Towards A Dynamic, Collaborative, and Comprehensive Instruction-Tuning Benchmark for Speech?
+Who was the last author of the paper called Difference-Masking: Choosing What to Mask in Continued Pretraining?
+Who was the last author of the paper called Can Large Language Models Infer Causation from Correlation??
+Who was the last author of the paper called MultiZoo & MultiBench: A Standardized Toolkit for Multimodal Deep Learning?
+What was the paper called How About Kind of Generating Hedges using End-to-End Neural Models? about?
+At what venue was the paper called Advancing Regular Language Reasoning in Linear Recurrent Neural Networks published?
+What was the paper called Counterfactual Augmentation for Multimodal Learning Under Presentation Bias about?
+At what venue was the paper called From Dogwhistles to Bullhorns: Unveiling Coded Rhetoric with Language Models published?
+What year was the paper called Don't Take This Out of Context!: On the Need for Contextual Models and Evaluations for Stylistic Rewriting published?
+Who were the authors of the paper called WebUI: A Dataset for Enhancing Visual UI Understanding with Web Semantics?
+What was the paper called Value Kaleidoscope: Engaging AI with Pluralistic Human Values, Rights, and Duties about?
+Who were the authors of the paper called Neural Mixed Effects for Nonlinear Personalized Predictions?
+Who was the first author of the paper called How About Kind of Generating Hedges using End-to-End Neural Models??
+What year was the paper called It’s MBR All the Way Down: Modern Generation Techniques Through the Lens of Minimum Bayes Risk published?
+What year was the paper called MusicLDM: Enhancing Novelty in Text-to-Music Generation Using Beat-Synchronous Mixup Strategies published?
+Who was the last author of the paper called The Roles of Symbols in Neural-based AI: They are Not What You Think!?
+At what venue was the paper called CLIPSonic: Text-to-Audio Synthesis with Unlabeled Videos and Pretrained Language-Vision Models published?
+What year was the paper called MultiViz: Towards User-Centric Visualizations and Interpretations of Multimodal Models published?
+What year was the paper called Evaluation of FluSight influenza forecasting in the 2021–22 and 2022–23 seasons with a new target laboratory-confirmed influenza hospitalizations published?
+What was the paper called COBRA Frames: Contextual Reasoning about Effects and Harms of Offensive Statements about?
+Who was the last author of the paper called The Devil Is in the Errors: Leveraging Large Language Models for Fine-grained Machine Translation Evaluation?
+At what venue was the paper called Multi-Objective Improvement of Android Applications published?
+Who was the first author of the paper called Factorized Contrastive Learning: Going Beyond Multi-view Redundancy?
+Who were the authors of the paper called Do Privacy Labels Answer Users' Privacy Questions??
+What was the paper called Clever Hans or Neural Theory of Mind? Stress Testing Social Reasoning in Large Language Models about?
+At what venue was the paper called WebArena: A Realistic Web Environment for Building Autonomous Agents published?
+What year was the paper called Learning to Generate Equitable Text in Dialogue from Biased Training Data published?
+Who was the first author of the paper called Counterfactual Augmentation for Multimodal Learning Under Presentation Bias?
+Who was the first author of the paper called SPAE: Semantic Pyramid AutoEncoder for Multimodal Generation with Frozen LLMs?
+Who were the authors of the paper called The Devil Is in the Errors: Leveraging Large Language Models for Fine-grained Machine Translation Evaluation?
+What was the paper called Learning to Generate Equitable Text in Dialogue from Biased Training Data about?
+Who was the first author of the paper called A Gold Standard Dataset for the Reviewer Assignment Problem?
+Who were the authors of the paper called Screen Correspondence: Mapping Interchangeable Elements between UIs?
+What was the paper called Are aligned neural networks adversarially aligned? about?
+Who were the authors of the paper called BiasX: "Thinking Slow" in Toxic Content Moderation with Explanations of Implied Social Biases?
+What year was the paper called Smaller Language Models are Better Black-box Machine-Generated Text Detectors published?
+Who were the authors of the paper called Contrastive Attention Networks for Attribution of Early Modern Print?
+At what venue was the paper called Automatic Detection of Dyspnea in Real Human–Robot Interaction Scenarios published?
+Who were the authors of the paper called Multi-Objective Improvement of Android Applications?
+Who were the authors of the paper called BASS: Block-wise Adaptation for Speech Summarization?
+At what venue was the paper called Image–text coherence and its implications for multimodal AI published?
+What year was the paper called Quantitative Analysis of Natural Gas Diffusion Characteristics in Tight Oil Reservoirs Based on Experimental and Numerical Simulation Methods published?
+What was the paper called SPAE: Semantic Pyramid AutoEncoder for Multimodal Generation with Frozen LLMs about?
+What was the paper called Factorized Contrastive Learning: Going Beyond Multi-view Redundancy about?
+At what venue was the paper called Riveter: Measuring Power and Social Dynamics Between Entities published?
+At what venue was the paper called Large Language Models Enable Few-Shot Clustering published?
+Who was the last author of the paper called SigMoreFun Submission to the SIGMORPHON Shared Task on Interlinear Glossing?
+Who was the last author of the paper called Surveying (Dis)Parities and Concerns of Compute Hungry NLP Research?
+Who were the authors of the paper called Riveter: Measuring Power and Social Dynamics Between Entities?
+What was the paper called Neural Mixed Effects for Nonlinear Personalized Predictions about?
+Who was the first author of the paper called Automatic Detection of Dyspnea in Real Human–Robot Interaction Scenarios?
+What year was the paper called Construction Grammar Provides Unique Insight into Neural Language Models published?
+Who was the last author of the paper called Transformed Protoform Reconstruction?
+What was the paper called Improving Language Models with Advantage-based Offline Policy Gradients about?
+What was the paper called CodeBERTScore: Evaluating Code Generation with Pretrained Models of Code about?
+Who was the last author of the paper called USB: A Unified Summarization Benchmark Across Tasks and Domains?
+At what venue was the paper called Crossing the Threshold: Idiomatic Machine Translation through Retrieval Augmentation and Loss Weighting published?
+At what venue was the paper called Multilingual Content Moderation: A Case Study on Reddit published?
+At what venue was the paper called NLPositionality: Characterizing Design Biases of Datasets and Models published?
+Who was the first author of the paper called Value Kaleidoscope: Engaging AI with Pluralistic Human Values, Rights, and Duties?
+Who was the last author of the paper called Quantitative Evaluation of Dust and Black Carbon Column Concentration in the MERRA-2 Reanalysis Dataset Using Satellite-Based Component Retrievals?
+Who was the first author of the paper called Pengi: An Audio Language Model for Audio Tasks?
+Who were the authors of the paper called Chain-of-Skills: A Configurable Model for Open-Domain Question Answering?
+Who was the first author of the paper called VideoGLUE: Video General Understanding Evaluation of Foundation Models?
+What was the paper called On the Interactions of Structural Constraints and Data Resources for Structured Prediction about?
+What was the paper called Automatic Detection of Dyspnea in Real Human–Robot Interaction Scenarios about?
+At what venue was the paper called Towards Open-Domain Twitter User Profile Inference published?
+Who were the authors of the paper called Evaluation of FluSight influenza forecasting in the 2021–22 and 2022–23 seasons with a new target laboratory-confirmed influenza hospitalizations?
+What year was the paper called PlayGround Low Resource Machine Translation System for the 2023 AmericasNLP Shared Task published?
+Who were the authors of the paper called Quantifying & Modeling Feature Interactions: An Information Decomposition Framework?
+Who was the last author of the paper called Multilingual Content Moderation: A Case Study on Reddit?
+Who were the authors of the paper called Multi-Dimensional Evaluation of Text Summarization with In-Context Learning?
+What year was the paper called Clever Hans or Neural Theory of Mind? Stress Testing Social Reasoning in Large Language Models published?
+Who was the first author of the paper called PlayGround Low Resource Machine Translation System for the 2023 AmericasNLP Shared Task?
+Who was the first author of the paper called Structured Dialogue Discourse Parsing?
+Who was the last author of the paper called Don't Take This Out of Context! On the Need for Contextual Models and Evaluations for Stylistic Rewriting?
+What year was the paper called Chain-of-Skills: A Configurable Model for Open-Domain Question Answering published?
+What year was the paper called ALERT: Adapt Language Models to Reasoning Tasks published?
+Who was the last author of the paper called Expanding the Role of Affective Phenomena in Multimodal Interaction Research?
+Who was the first author of the paper called Methods for Measuring, Updating, and Visualizing Factual Beliefs in Language Models?
+What year was the paper called How About Kind of Generating Hedges using End-to-End Neural Models? published?
+Who was the first author of the paper called Do Privacy Labels Answer Users' Privacy Questions??
+What was the paper called Construction Grammar Provides Unique Insight into Neural Language Models about?
+Who was the last author of the paper called Structured Dialogue Discourse Parsing?
+Who were the authors of the paper called Extracting Training Data from Diffusion Models?
+At what venue was the paper called Counterfactual Augmentation for Multimodal Learning Under Presentation Bias published?
+Who were the authors of the paper called Deriving Vocal Fold Oscillation Information from Recorded Voice Signals Using Models of Phonation?
+At what venue was the paper called PWESuite: Phonetic Word Embeddings and Tasks They Facilitate published?
+Who was the first author of the paper called Exploring Stigmergic Collaboration and Task Modularity Through an Expert Crowdsourcing Annotation System: The Case of Storm Phenomena in the Euro-Atlantic Region?
+Who was the first author of the paper called Correcting for heterogeneity in real-time epidemiological indicators?
+What was the paper called ClimaBench: A Benchmark Dataset For Climate Change Text Understanding in English about?
+Who was the last author of the paper called Why do Nearest Neighbor Language Models Work??
+What was the paper called A Pretrainer's Guide to Training Data: Measuring the Effects of Data Age, Domain Coverage, Quality, & Toxicity about?
+Who was the last author of the paper called InPars-Light: Cost-Effective Unsupervised Training of Efficient Rankers?
+Who was the first author of the paper called Image–text coherence and its implications for multimodal AI?
+What year was the paper called OPT-R: Exploring the Role of Explanations in Finetuning and Prompting for Reasoning Skills of Large Language Models published?
+What was the paper called Latent Phrase Matching for Dysarthric Speech about?
+What year was the paper called MOSAIC: Learning Unified Multi-Sensory Object Property Representations for Robot Perception published?
+Who were the authors of the paper called PlayGround Low Resource Machine Translation System for the 2023 AmericasNLP Shared Task?
+Who was the last author of the paper called Contrastive Attention Networks for Attribution of Early Modern Print?
+What year was the paper called The Roles of Symbols in Neural-based AI: They are Not What You Think! published?
+What year was the paper called Deriving Vocal Fold Oscillation Information from Recorded Voice Signals Using Models of Phonation published?
+Who was the first author of the paper called MultiViz: Towards User-Centric Visualizations and Interpretations of Multimodal Models?
+Who was the last author of the paper called A Vector Quantized Approach for Text to Speech Synthesis on Real-World Spontaneous Speech?
+What was the paper called The Devil Is in the Errors: Leveraging Large Language Models for Fine-grained Machine Translation Evaluation about?
+Who was the first author of the paper called StarCoder: may the source be with you!?
+What year was the paper called On the Interactions of Structural Constraints and Data Resources for Structured Prediction published?
+Who was the last author of the paper called GlobalBench: A Benchmark for Global Progress in Natural Language Processing?
+At what venue was the paper called Do All Languages Cost the Same? Tokenization in the Era of Commercial Language Models published?
+Who was the last author of the paper called Dynamic-SUPERB: Towards A Dynamic, Collaborative, and Comprehensive Instruction-Tuning Benchmark for Speech?
+At what venue was the paper called Generalized Glossing Guidelines: An Explicit, Human- and Machine-Readable, Item-and-Process Convention for Morphological Annotation published?
+At what venue was the paper called The Hidden Dance of Phonemes and Visage: Unveiling the Enigmatic Link between Phonemes and Facial Features published?
+Who was the last author of the paper called MultiViz: Towards User-Centric Visualizations and Interpretations of Multimodal Models?
+Who were the authors of the paper called Why do Nearest Neighbor Language Models Work??
+What year was the paper called ChatGPT MT: Competitive for High- (but Not Low-) Resource Languages published?
+At what venue was the paper called Can Large Language Models Infer Causation from Correlation? published?
+What year was the paper called A Gene-Based Algorithm for Identifying Factors That May Affect a Speaker’s Voice published?
+What year was the paper called ATLAS: Automatically Detecting Discrepancies Between Privacy Policies and Privacy Labels published?
+Who was the first author of the paper called Do All Languages Cost the Same? Tokenization in the Era of Commercial Language Models?
+Who were the authors of the paper called Towards Improving Harmonic Sensitivity and Prediction Stability for Singing Melody Extraction?
+Who was the last author of the paper called Muse: Text-To-Image Generation via Masked Generative Transformers?
+Who was the last author of the paper called CodeBERTScore: Evaluating Code Generation with Pretrained Models of Code?
+What year was the paper called Data-efficient Active Learning for Structured Prediction with Partial Annotation and Self-Training published?
+Who was the last author of the paper called Counterfactual Augmentation for Multimodal Learning Under Presentation Bias?
+At what venue was the paper called Never-ending Learning of User Interfaces published?
+Who were the authors of the paper called Overview of Robust and Multilingual Automatic Evaluation Metrics?
+What was the paper called Advancing Regular Language Reasoning in Linear Recurrent Neural Networks about?
+What year was the paper called CSurF: Sparse Lexical Retrieval through Contextualized Surface Forms published?
+What was the paper called Image–text coherence and its implications for multimodal AI about?
+What year was the paper called Language-Agnostic Transformers and Assessing ChatGPT-Based Query Rewriting for Multilingual Document-Grounded QA published?
+What was the paper called Unlimiformer: Long-Range Transformers with Unlimited Length Input about?
+Who was the first author of the paper called SantaCoder: don't reach for the stars!?
+What year was the paper called Pengi: An Audio Language Model for Audio Tasks published?
+At what venue was the paper called HomeRobot: Open-Vocabulary Mobile Manipulation published?
+At what venue was the paper called To Build Our Future, We Must Know Our Past: Contextualizing Paradigm Shifts in Natural Language Processing published?
+Who was the first author of the paper called Towards Open-Domain Twitter User Profile Inference?
+What year was the paper called Active Retrieval Augmented Generation published?
+Who were the authors of the paper called MusicLDM: Enhancing Novelty in Text-to-Music Generation Using Beat-Synchronous Mixup Strategies?
+What year was the paper called Neural Machine Translation for the Indigenous Languages of the Americas: An Introduction published?
+Who were the authors of the paper called Making Scalable Meta Learning Practical?
+What was the paper called Score: A Rule Engine for the Scone Knowledge Base System about?
+What was the paper called GameQA: Gamified Mobile App Platform for Building Multiple-Domain Question-Answering Datasets about?
+What year was the paper called Improving Language Models with Advantage-based Offline Policy Gradients published?
+Who was the first author of the paper called MultiZoo & MultiBench: A Standardized Toolkit for Multimodal Deep Learning?
+What was the paper called Do Privacy Labels Answer Users' Privacy Questions? about?
+Who was the first author of the paper called Never-ending Learning of User Interfaces?
+Who was the first author of the paper called A corpus of Persian literary text?
+Who were the authors of the paper called From Dogwhistles to Bullhorns: Unveiling Coded Rhetoric with Language Models?
+At what venue was the paper called The Troubling Emergence of Hallucination in Large Language Models - An Extensive Definition, Quantification, and Prescriptive Remediations published?
+Who was the first author of the paper called Reasoning about the Unseen for Efficient Outdoor Object Navigation?
+What year was the paper called Exploring Stigmergic Collaboration and Task Modularity Through an Expert Crowdsourcing Annotation System: The Case of Storm Phenomena in the Euro-Atlantic Region published?
+What was the paper called PlayGround Low Resource Machine Translation System for the 2023 AmericasNLP Shared Task about?
+Who was the last author of the paper called OPT-R: Exploring the Role of Explanations in Finetuning and Prompting for Reasoning Skills of Large Language Models?
+Who were the authors of the paper called Don't Take This Out of Context!: On the Need for Contextual Models and Evaluations for Stylistic Rewriting?
+Who was the last author of the paper called When to generate hedges in peer-tutoring interactions?
+What was the paper called CLIPSonic: Text-to-Audio Synthesis with Unlabeled Videos and Pretrained Language-Vision Models about?
+What was the paper called Multimodal Learning Without Labeled Multimodal Data: Guarantees and Applications about?
+Who were the authors of the paper called To Build Our Future, We Must Know Our Past: Contextualizing Paradigm Shifts in Natural Language Processing?
+What year was the paper called Regularizing Self-training for Unsupervised Domain Adaptation via Structural Constraints published?
+At what venue was the paper called Don't Take This Out of Context!: On the Need for Contextual Models and Evaluations for Stylistic Rewriting published?
+What year was the paper called DataFinder: Scientific Dataset Recommendation from Natural Language Descriptions published?
+What year was the paper called USB: A Unified Summarization Benchmark Across Tasks and Domains published?
+At what venue was the paper called Multimodal Learning Without Labeled Multimodal Data: Guarantees and Applications published?
+Who was the first author of the paper called MOSAIC: Learning Unified Multi-Sensory Object Property Representations for Robot Perception?
+Who were the authors of the paper called OpenMatch-v2: An All-in-one Multi-Modality PLM-based Information Retrieval Toolkit?
+Who was the first author of the paper called Findings of the Second WMT Shared Task on Sign Language Translation (WMT-SLT23)?
+Who was the first author of the paper called Membership Inference Attacks against Language Models via Neighbourhood Comparison?
+What year was the paper called Modeling Empathic Similarity in Personal Narratives published?
+Who were the authors of the paper called Multi-lingual and Multi-cultural Figurative Language Understanding?
+At what venue was the paper called Construction Grammar Provides Unique Insight into Neural Language Models published?
+At what venue was the paper called Don't Take This Out of Context! On the Need for Contextual Models and Evaluations for Stylistic Rewriting published?
+Who was the last author of the paper called Regularizing Self-training for Unsupervised Domain Adaptation via Structural Constraints?
+What was the paper called PWESuite: Phonetic Word Embeddings and Tasks They Facilitate about?
+What was the paper called NLPositionality: Characterizing Design Biases of Datasets and Models about?
+Who was the first author of the paper called WebArena: A Realistic Web Environment for Building Autonomous Agents?
+At what venue was the paper called DataFinder: Scientific Dataset Recommendation from Natural Language Descriptions published?
+What was the paper called WebUI: A Dataset for Enhancing Visual UI Understanding with Web Semantics about?
+What year was the paper called Multilingual Content Moderation: A Case Study on Reddit published?
+Who were the authors of the paper called Modeling Empathic Similarity in Personal Narratives?
+What was the paper called MOSAIC: Learning Unified Multi-Sensory Object Property Representations for Robot Perception about?
+What year was the paper called CodeBERTScore: Evaluating Code Generation with Pretrained Models of Code published?
+Who were the authors of the paper called D-CALM: A Dynamic Clustering-based Active Learning Approach for Mitigating Bias?
+Who were the authors of the paper called Multilingual Machine Translation with Large Language Models: Empirical Results and Analysis?
+Who were the authors of the paper called A Vector Quantized Approach for Text to Speech Synthesis on Real-World Spontaneous Speech?
+Who was the first author of the paper called Improving Language Models with Advantage-based Offline Policy Gradients?
+What was the paper called Conversational Search with Random Walks over Entity Graphs about?
+Who was the first author of the paper called Understanding Masked Autoencoders via Hierarchical Latent Variable Models?
+Who was the last author of the paper called OpenMatch-v2: An All-in-one Multi-Modality PLM-based Information Retrieval Toolkit?
+Who was the last author of the paper called The Hidden Dance of Phonemes and Visage: Unveiling the Enigmatic Link between Phonemes and Facial Features?
+At what venue was the paper called Active Retrieval Augmented Generation published?
+Who were the authors of the paper called Latent Phrase Matching for Dysarthric Speech?
+At what venue was the paper called Jointly modeling products and resource pages for task-oriented recommendation published?
+Who was the first author of the paper called Towards Countering Essentialism through Social Bias Reasoning?
+What was the paper called Jointly modeling products and resource pages for task-oriented recommendation about?
+At what venue was the paper called StyleDrop: Text-to-Image Generation in Any Style published?
+At what venue was the paper called SantaCoder: don't reach for the stars! published?
+Who was the last author of the paper called Neural Machine Translation for the Indigenous Languages of the Americas: An Introduction?
+Who was the first author of the paper called Language-Agnostic Transformers and Assessing ChatGPT-Based Query Rewriting for Multilingual Document-Grounded QA?
+Who was the first author of the paper called StyleDrop: Text-to-Image Generation in Any Style?
+At what venue was the paper called Learning Disentangled Prompts for Compositional Image Synthesis published?
+At what venue was the paper called COBRA Frames: Contextual Reasoning about Effects and Harms of Offensive Statements published?
+At what venue was the paper called ALERT: Adapt Language Models to Reasoning Tasks published?
+What was the paper called SenteCon: Leveraging Lexicons to Learn Human-Interpretable Language Representations about?
+What was the paper called KALE: Using a K-Sparse Projector for Lexical Expansion about?
+Who was the last author of the paper called Learning Multimodal Cues of Children’s Uncertainty?
+What was the paper called Crossing the Threshold: Idiomatic Machine Translation through Retrieval Augmentation and Loss Weighting about?
+Who were the authors of the paper called FacTool: Factuality Detection in Generative AI - A Tool Augmented Framework for Multi-Task and Multi-Domain Scenarios?
+Who were the authors of the paper called Cross-Modal Fine-Tuning: Align then Refine?
+Who was the first author of the paper called On the Interactions of Structural Constraints and Data Resources for Structured Prediction?
+What was the paper called Chain-of-Skills: A Configurable Model for Open-Domain Question Answering about?
+Who was the last author of the paper called A Gold Standard Dataset for the Reviewer Assignment Problem?
+What year was the paper called Cross-Modal Fine-Tuning: Align then Refine published?
+What year was the paper called Quantitative Evaluation of Dust and Black Carbon Column Concentration in the MERRA-2 Reanalysis Dataset Using Satellite-Based Component Retrievals published?
+Who was the last author of the paper called ClimaBench: A Benchmark Dataset For Climate Change Text Understanding in English?
+Who were the authors of the paper called SantaCoder: don't reach for the stars!?
+Who was the last author of the paper called Multi-Objective Improvement of Android Applications?
+Who were the authors of the paper called Methods for Measuring, Updating, and Visualizing Factual Beliefs in Language Models?
+What year was the paper called VideoGLUE: Video General Understanding Evaluation of Foundation Models published?
+Who were the authors of the paper called Expanding the Role of Affective Phenomena in Multimodal Interaction Research?
+Who was the first author of the paper called Learning to Generate Equitable Text in Dialogue from Biased Training Data?
+Who was the first author of the paper called OpenMatch-v2: An All-in-one Multi-Modality PLM-based Information Retrieval Toolkit?
+Who was the first author of the paper called Jointly modeling products and resource pages for task-oriented recommendation?
+Who was the last author of the paper called A Pretrainer's Guide to Training Data: Measuring the Effects of Data Age, Domain Coverage, Quality, & Toxicity?
+What was the paper called Active Retrieval Augmented Generation about?
+At what venue was the paper called Bridging the Gap: A Survey on Integrating (Human) Feedback for Natural Language Generation published?
+What year was the paper called COBRA Frames: Contextual Reasoning about Effects and Harms of Offensive Statements published?
+Who was the last author of the paper called Learning to Generate Equitable Text in Dialogue from Biased Training Data?
+Who were the authors of the paper called DataFinder: Scientific Dataset Recommendation from Natural Language Descriptions?
+What year was the paper called Learning Multimodal Cues of Children’s Uncertainty published?
+Who was the first author of the paper called SHAP-based Prediction of Mother's History of Depression to Understand the Influence on Child Behavior?

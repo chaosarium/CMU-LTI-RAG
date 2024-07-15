@@ -1,0 +1,960 @@
+Assistant Professor
+Principal Systems Scientist
+B24 Baker-Porter Hall
+University of Pittsburgh
+University of California, San Diego
+Shuyan Zhou
+Shayne Longpre
+Zhengbao Jiang
+Maarten Sap
+Yonatan Bisk
+Machine Learning, Multimodal Computing and Interaction, Speech Processing, Spoken Interfaces and Dialogue Processing, Privacy
+Fairness and Ethics in Language Technology, Computational Social Science, Discourse and Pragmatics, Conversational AI, Intelligent Agents, and Dialogue
+Jason Wu
+Badr AlKhamissi
+Amanda Bertsch
+Lorraine Levin
+Emma Strubell, Maarten Sap
+Carolyn Rose
+Chenyan Xiong, Daphne Ippolito
+David Mortensen
+Jamie Callan
+Shinji Watanabe
+Daniel Fried, Sean Welleck
+Eric Nyberg, Teruko Mitamura
+Fernando Diaz
+Annette Han, Carolyn Rose
+Eric Nyberg
+Jamie Callan
+Teruko Mitamura
+Shinji Watanabe
+It's a structure attached to a buggy that allows a human to push the buggy
+1967
+Dunfermline, Scotland
+1908
+16,779
+November 15, 1900
+Artificial intelligence
+Language Technologies Institute
+Hans Berliner
+Duolingo
+Carolyn Rose
+Master of Computational Data Science (MCDS)
+Dual-Degree Ph.D. in Language and Information Technologies
+195 units
+Jennifer M Lucas
+C
+GHC 5404
+The first year
+Required Research
+September 6, 2023
+8:00 AM-9:00 AM ET
+Yes
+$10
+School of Architecture Pavilion Dedication & Alumni Open House
+Reunion Weekend
+Sunday, May 12
+McConomy Auditorium, Cohon University Center
+Saturday, May 11
+8 am
+April 11
+dmortens@cs.cmu.edu
+412-268-2894
+5707 Gates & Hillman Centers
+Assistant Research Professor
+Natural Language Processing and Computational Linguistics, Corpus Annotation and Resources
+callan@cs.cmu.edu
+412-268-4525
+5419 Gates & Hillman Centers
+Professor and PhD Program Director
+Information Retrieval, Text Mining and Analytics
+ns1i@andrew.cmu.edu
+Professor of Computer Science in the Institute for Software Research and Co-director of the MSIT in Privacy Engineering Program
+ko@qatar.cmu.edu
+1009 Carnegie Mellon - Qatar Campus
+Teaching Professor of Computer Science
+leili@andrew.cmu.edu
+412-268-6355
+Assistant Professor
+Machine Learning, Machine Translation, Large Language Models, AI Drug Discovery
+rstarzl@andrew.cmu.edu
+412-268-8425
+6701 Gates & Hillman Centers
+Adjunct Professor
+Email
+Principal Research Scientist at 3M | M*Modal
+rms@cs.cmu.edu
+412-268-2535
+B24 Baker-Porter Hall
+Professor
+Email
+Inventor of Lycos (early Internet search engine) in 1994
+malihe@pitt.edu
+Assistant Professor at the University of Pittsburgh
+rmvega@andrew.cmu.edu
+morency@cs.cmu.edu
+412-268-5508
+5411 Gates & Hillman Centers
+Leonardo Associate Professor of Computer Science
+Machine Learning, Multimodal Computing and Interaction, Spoken Interfaces and Dialogue Processing
+jcassell@andrew.cmu.edu
+412-204-6268
+5107 Gates & Hillman Centers
+Professor (On Leave)
+daphnei@cmu.edu
+412-268-7250
+Assistant Professor
+Natural Language Generation, Privacy and Security, Language Technology Application Areas/Issues, Creativity
+rsingh@cs.cmu.edu
+412-268-9859
+6703 Gates & Hillman Centers
+Associate Research Professor
+gneubig@cs.cmu.edu
+5409 Gates & Hillman Centers
+Associate Professor
+Machine Translation, Natural Language Processing, Spoken Language Processing, Machine Learning
+estrubel@andrew.cmu.edu
+Gates & Hillman Centers
+Assistant Professor
+lujiang@google.com
+Staff Research Scientist at Google
+mgormley@cs.cmu.edu
+412-268-7205
+8227 Gates & Hillman Centers
+Assistant Teaching Professor
+shamos@cs.cmu.edu
+412-268-8193
+6707 Gates & Hillman Centers
+Distinguished Career Professor
+dfried@andrew.cmu.edu
+Assistant Professor
+Language and Code, Conversational AI, Intelligent Agents, and Dialogue, Discourse and Pragmatics, Multimodal AI
+bhiksha@cs.cmu.edu
+412-268-9826
+6705 Gates & Hillman Centers
+Professor
+Machine Learning, Multimodal Computing and Interaction, Speech Processing, Spoken Interfaces and Dialogue Processing, Privacy
+fmetze@cs.cmu.edu
+412-268-8984
+202 407 South Craig Street
+Associate Research Professor
+Machine Learning, Speech Processing
+rr0s@andrew.cmu.edu
+412-268-2597
+5327 Wean Hall
+Moza Bint Nasser University Professor
+anatole.gershman@cs.cmu.edu
+412-268-8259
+6415 Gates & Hillman Centers
+Distinguished Service Professor
+Information Extraction, Summarization and Question Answering
+yiming@cs.cmu.edu
+412-268-1364
+6717 Gates & Hillman Centers
+Professor
+mgrabmai@andrew.cmu.edu
+Assistant Professor, Technical University of Munich, Germany
+cx@andrew.cmu.edu
+412-268-7641
+Associate Professor
+wcohen@cs.cmu.edu
+412-268-7664
+8217 Gates & Hillman Centers
+Director of Research Engineering at Google AI and SCS Consulting Professor
+cdyer@cs.cmu.edu
+Senior Staff Scientist for DeepMind
+Machine Learning, Machine Translation, Natural Language Processing and Computational Linguistics
+teruko@cs.cmu.edu
+412-268-6596
+6711 Gates & Hillman Centers
+Research Professor
+Information Extraction, Summarization and Question Answering, Information Retrieval, Text Mining and Analytics, Language Technologies for Education, Natural Language Processing and Computational Linguistics
+sef@cs.cmu.edu
+412-268-2575
+6417 Gates & Hillman Centers
+Research Professor Emeritus
+AI, Knowledge Representation and Reasoning, Natural Language Understanding
+monikaw@andrew.cmu.edu
+Head of Speech Technology Group at Multimodal Technologies Inc.
+alex.rudnicky@cs.cmu.edu
+412-268-2622
+6511 Gates & Hillman Centers
+Research Professor Emeritus
+Multimodal Computing and Interaction, Speech Processing, Spoken Interfaces and Dialogue Processing
+yuliats@cs.washington.edu
+Gates & Hillman Centers
+Assistant Professor at the University of Washington
+epxing@andrew.cmu.edu
+412-268-2559
+8101 Gates & Hillman Centers
+Professor (On Leave)
+mitchell@andrew.cmu.edu
+412-268-2611
+8211 Gates & Hillman Centers
+E. Fredkin University Professor in the Machine Learning Department
+412-268-4229
+Associate Professor
+Fairness and Ethics in Language Technology, Creativity, Evaluation
+mdiab@andrew.cmu.edu
+412-268-3669
+LTI Director and Tenured Professor
+alex@cs.cmu.edu
+412-268-1448
+5519 Gates & Hillman Centers
+Research Professor
+Information Extraction, Summarization and Question Answering, Information Retrieval, Text Mining and Analytics, Machine Learning, Multimodal Computing and Interaction
+swatanab@andrew.cmu.edu
+412-268-3687
+Associate Professor
+Speech Recognition, Speech Synthesis, Multilingual/Low-Resource Speech Processing, Speech-to-Speech Translation, Speech Enhancement / Robust Speech Processing
+macw@cmu.edu
+254M Baker Hall
+Professor of Psychology at Carnegie Mellon University
+ref@cs.cmu.edu
+412-268-6656
+6515 Gates & Hillman Centers
+Principal Systems Scientist/Associate Dean of Doctoral Programs/MLT Program Director
+jbigham@andrew.cmu.edu
+412-945-0708
+3525 Newell-Simon Hall
+Associate Professor
+lane@cmu.edu
+408-505-3178
+Assistant Research Professor CMU Silicon Valley
+tberg@cs.cmu.edu
+6403 Gates & Hillman Centers
+Assistant Professor, University of California, San Diego
+waibel@cs.cmu.edu
+412-268-7676
+205 407 South Craig Street
+Professor
+Spoken Language Translation, Machine Translation, Speech Processing, Neural Networks, Machine Learning, Multimodal Interaction, Dialog Processing
+412-268-1330
+3113 Newell-Simon Hall
+Research Professor Emeritus
+ehn@cs.cmu.edu
+412-268-7281
+6715 Gates & Hillman Centers
+Professor
+Information Extraction, Summarization and Question Answering, Information Retrieval, Text Mining and Analytics, Language Technologies for Education
+roni.rosenfeld@cs.cmu.edu
+412-268-7678
+8002 Gates & Hillman Centers
+Machine Learning Department
+Computational Epidemiology, Dialog Systems for the Developing World
+swelleck@andrew.cmu.edu
+Assistant Professor (Starting January 2024)
+cprose@cs.cmu.edu
+412-268-7130
+5415 Gates & Hillman Centers
+Professor
+Information Retrieval, Text Mining and Analytics, Language Technologies for Education, Natural Language Processing and Computational Linguistics, Computer Supported Collaborative Learning/MOOCs
+ybisk@cs.cmu.edu
+Gates & Hillman Centers
+Assistant Professor
+Grounding, RoboNLP, Vision and Language, Embodiment, Unsupervised Learning
+ralf@andrew.cmu.edu
+412-268-8298
+5711 Gates & Hillman Centers
+Principal Systems Scientist
+Information Extraction, Summarization and Question Answering, Information Retrieval, Text Mining and Analytics, Machine Translation, Natural Language Processing and Computational Linguistics
+madhavi@pitt.edu
+Gates & Hillman Centers
+Associate Professor Department of Biomedical Informatics at University of Pittsburgh
+msap2@andrew.cmu.edu
+Assistant Professor
+Fairness and Ethics in Language Technology, Computational Social Science, Discourse and Pragmatics, Conversational AI, Intelligent Agents, and Dialogue
+alavie@cs.cmu.edu
+Vice President of Language Technologies at Unbabel and Consulting Professor at the Language Technologies Institute
+Machine Translation, Natural Language Processing and Computational Linguistics
+lsl@cs.cmu.edu
+412-268-6193
+5717 Gates & Hillman Centers
+Research Professor
+Machine Translation, Natural Language Processing and Computational Linguistics, Corpus Annotation and Resources
+Shinji Watanabe
+Alexander Waibel
+Carolyn Rosé
+Bhiksha Ramakrishnan, Florian Metze, Alexander Rudnicky, Shinji Watanabe, Alexander Waibel
+Daniel Fried
+Yonatan Bisk
+Louis-Philippe Morency, Bhiksha Ramakrishnan, Alexander Rudnicky, Alexander Hauptmann
+Lei Li
+Daphne Ippolito, Fernando Diaz
+Louis-Philippe Morency, Bhiksha Ramakrishnan, Alexander Rudnicky
+Jamie Callan, Teruko Mitamura, Alexander Hauptmann, Eric Nyberg, Carolyn Rosé, Ralf Brown
+Daniel Fried, Maarten Sap
+Lei Li, Louis-Philippe Morency, Graham Neubig, Bhiksha Ramakrishnan, Florian Metze, Christopher Dyer, Alexander Hauptmann, Alexander Waibel
+Anatole Gershman, Teruko Mitamura, Alexander Hauptmann, Eric Nyberg, Ralf Brown
+Alexander Waibel
+Daphne Ippolito
+Roni Rosenfeld
+Maarten Sap
+Alexander Waibel
+Lei Li, Graham Neubig, Christopher Dyer, Alexander Waibel, Ralf Brown, Alon Lavie, Lori Levin
+Daphne Ippolito, Bhiksha Ramakrishnan
+Shinji Watanabe
+Graham Neubig
+Lei Li
+Shinji Watanabe
+Yonatan Bisk
+Daniel Fried
+Anatole Gershman, Teruko Mitamura, Alexander Hauptmann, Eric Nyberg, Ralf Brown
+Fernando Diaz
+Scott Fahlman
+Roni Rosenfeld
+David Mortensen, Christopher Dyer, Teruko Mitamura, Carolyn Rosé, Ralf Brown, Alon Lavie, Lori Levin
+Shinji Watanabe
+Lei Li, Daniel Fried, Scott Fahlman, Maarten Sap
+David Mortensen, Lori Levin
+Teruko Mitamura, Eric Nyberg, Carolyn Rosé
+Daniel Fried, Maarten Sap
+Yonatan Bisk
+Alexander Waibel
+Jamie Callan, Teruko Mitamura, Alexander Hauptmann, Eric Nyberg, Carolyn Rosé, Ralf Brown
+Fernando Diaz, Maarten Sap
+Scott Fahlman
+Daniel Fried, Maarten Sap
+Louis-Philippe Morency, Daniel Fried, Bhiksha Ramakrishnan, Alexander Rudnicky, Maarten Sap
+Yonatan Bisk
+Daphne Ippolito
+Shinji Watanabe
+David Mortensen, Graham Neubig, Christopher Dyer, Teruko Mitamura, Carolyn Rosé, Ralf Brown, Alon Lavie, Lori Levin
+Daphne Ippolito
+Roni Rosenfeld
+Christopher Dyer
+Yulia Tsvetkov
+Matt Gormley
+Scott Fahlman, Alexander Rudnicky, Jack Mostow
+Ian Lane
+Taylor Berg-Kirkpatrick
+Monika Woszczyna
+Jamie Callan
+Michael Shamos
+Ravi Starzl
+Michael Mauldin
+Ralf Brown
+Louis-Philippe Morency
+Anatole Gershman
+Thomas Schaaf
+Mona Diab
+Teruko Mitamura, Alexander Hauptmann, Lori Levin
+Graham Neubig, Chenyan Xiong, Fernando Diaz, Shinji Watanabe, Jeffrey Bigham
+William Cohen
+David Mortensen
+Rita Singh, Florian Metze
+Brian MacWhinney
+Kemal Oflazer
+Sean Welleck
+Norman Sadeh
+Lu Jiang
+Raj Reddy
+Tom Mitchell
+Richard Stern, Bhiksha Ramakrishnan, Yiming Yang, Alexander Waibel, Eric Nyberg, Carolyn Rosé
+Matthias Grabmair
+Alon Lavie
+Robert Frederking
+Justine Cassell, Eric P. Xing
+Malihe Alikhani
+Lei Li, Daphne Ippolito, Emma Strubell, Daniel Fried, Yonatan Bisk, Maarten Sap
+Madhavi Ganapathiraju
+SCS Interdisciplinary
+12
+John Pena
+48-100 and 48-105 and 62-122 and 62-125 and 62-126 and 62-104 and 48-025 and 62-123
+Institute for Politics and Strategy
+0
+Donald Coffelt
+POS 145
+9
+Chemistry
+Physical Education
+Heinz College Wide Courses
+HBH 2008
+9
+Design
+11
+Joseph Dicey
+12
+CFA Interdisciplinary
+Leman Akoglu
+HBH 2009
+W. Arons
+HOA 224
+Human-Computer Interaction
+
+9
+CIT Interdisciplinary
+0
+Business Administration
+6
+Music
+HL A10
+6
+Carnegie Mellon University-Wide Studies
+Krzysztof Mierzewski
+03-240 or 03-320
+Music
+CMU REMOTE; INI DEC
+Robert Frederking
+(76-101) or (76-102) or (76-107 and 76-106) or (76-106 and 76-108) or (76-107 and 76-108)
+Electrical & Computer Engineering
+Chemistry
+Matthew Denes
+Kristi Good; TJ Young
+CA 115
+9
+Vaibhav Keshav
+Information Systems:Sch of IS & Mgt
+21-370 or 70-391
+Naval Science - ROTC
+9
+Music
+CMU REMOTE
+Institute for Politics and Strategy
+Architecture
+12
+Computer Science
+Daniel Curtis; Denis Colwell; Instructor TBA
+HBH 2008
+(21-120 and 33-121) or (33-151) or (33-141) or (21-120 and 33-111) or (33-131) or (33-106)
+3
+Andres Cardenes; Anne Williams; Christopher Wu; David Harding; David Premo; Frederic Chiu; Instructor TBA; Micah Howard; Sergey Schepkin; William van der Sloot
+DH 1212
+B23 227; BH A51
+DH 2315; POS 153
+6
+CMB 1064; DH A302
+6
+PH 226A
+6
+9
+Chad Schafer
+Nancy Galbraith; R. James Whipple
+9
+Computational Biology
+Ryan Sullivan
+Bo Zhan
+HH B103
+Mechanical Engineering
+Alexandra Gruber; Daniel Teadt; Elizabeth Lawrence; Jennifer Aylmer; Maria Spacagna; Marianne Cornetti
+Bryan Parno
+TEP 2702
+Music
+PH 125C
+9
+BH 336B
+Carla Bevins
+Gerald Hunter
+Agoston Pisztora; Alan Frieze; Boris Bukh; Clinton Conley; David Kinderlehrer; Dejan Slepcev; Dmitry Kramkov; Ernest Schimmerling; Florian Frick; Gautam Iyer; Giovanni Leoni; Ian Tice; Instructor TBA; Irene Fonseca; James Cummings; Konstantin Tikhomirov; Martin Larsson; Michael Young; Mykhaylo Shkolnikov; Noel Walkington; Po-Shen Loh; Prasad Tetali; Rami Grossberg; Richard Statman; Robin Neumayer; Theresa Anderson; Tom Bohman; Tomasz Tkocz; Wesley Pegden; William Hrusa
+45-770
+Robert Monroe
+CMB 1030
+Mayank Goel; Michael Hilton
+3
+English
+Information Systems Program
+Mechanical Engineering
+12
+15-410
+12
+Eunji Jo
+12
+9
+6
+10
+Biomedical Engineering
+(76-102) or (76-101) or (76-106 and 76-107) or (76-106 and 76-108) or (76-107 and 76-108)
+Modern Languages
+Melisa Orta Martinez
+12
+9
+Psychology
+BRD 507; TCS 250
+6
+Dick Block; Instructor TBA
+Music
+BH A51
+Peter Stumpf
+Andrew Smith
+Vincent Sokalski
+Drama
+CMR F307
+James Riel
+Modern Languages
+Heinz College Wide Courses
+Daniel Ferrell; Lyndon Barrois; Ranee Henderson
+Entertainment Technology
+Tom Mitchell
+Yan Huang
+Computer Science
+Noelia Grande Gutierrez; Shawn Litster
+CMB 1190
+Alberto Almarza; Alexandra Gruber; Andres Cardenes; Andrew Carlisle; Anne Williams; Christopher Allen; Christopher Wu; Craig Knox; Cynthia Dealmeida; Daniel Teadt; David Harding; David Premo; Frederic Chiu; George Vosburgh; Gretchen Van Hoesen; Instructor TBA; Jack Howell; James Houlik; Jason Kush; Jeffrey Dee; Jennifer Aylmer; Jeremy Branson; John Marcinizyn; Katherine Pukinskis; Lance Laduke; Lorna McGhee; Maria Spacagna; Micah Howard; Michael Rusinek; Nancy Galbraith; Nancy Goeres; Neal Berntsen; Paul Evans; Peter Sullivan; R. James Whipple; Rebecca Cherian; Sergey Schepkin; Stephen Kostyniak; William Caballero; William van der Sloot
+Alicia Gorman; Sara Gauntner
+6
+57-391
+12
+Civil & Environmental Engineering
+Heinz College Wide Courses
+Daniel Silverman; Instructor TBA
+9
+NSH 1305
+Samuel Perl
+
+33-338
+Manfred Paulini
+Mario Berges
+Music
+9
+12
+Drama
+6
+Jeff Poulin
+3
+1
+Joseph Devine
+Music
+David Lassman
+6
+PH 125D
+GHC 4301
+Drama
+4SC 104
+9
+Business Administration
+Brett Crawford
+Computer Science
+Language Technologies Institute
+Shinji Watanabe
+12
+English
+Oana Carja; Russell Schwartz
+Jeffrey Eppinger
+CMB 1190
+HBH 1005
+12
+Ding Zhao; Ting Su
+CMR F205
+9
+Phillip Yu
+12
+Music
+Matthew Fredrikson
+Karen Stump
+12
+Adam Bjorndahl; Alex London; Christina Bjorndahl; Danielle Wenner; Francesca Zaffora Blando; Instructor TBA; Jeremy Avigad; Kevin Kelly; Kevin Zollman; Mandy Simons; Peter Spirtes; Steve Awodey; Teddy Seidenfeld; Tom Werner; Wayne Wu; Wilfried Sieg
+Aryn Gittis
+Anouar Rahmani
+Modern Languages
+3
+Jamie McMahon
+95-717 and 95-718
+HL 106C
+Jason Smith
+0
+9
+TEP 2111
+HH B131
+WEH 4707
+MI 130
+HH B131
+Electrical & Computer Engineering
+9
+Design
+3
+Gordon Weinberg
+9
+Carnegie Mellon University-Wide Studies
+Jeffrey Hinkelman; Jeffrey Squires
+Integrated Innovation Institute
+CMB 1190
+Diana Parno
+HH B131
+English
+WEH 8427
+6
+9
+(76-101) or (76-106 and 76-107) or (76-106 and 76-108) or (76-107 and 76-108)
+TEP 1403
+3
+Modern Languages
+PH A19; PH A19A
+Susan Tsu
+Music
+Drama
+6
+Civil & Environmental Engineering
+Abigail Owen; Allyson Creasman; Benjamin Reilly; Benno Weiner; Christopher Phillips; Deepa Nair; Donna Harsch; Edda Fields-Black; Emanuela Grama; Ezelle Sanford; Instructor TBA; Jay Aronson; Joe Trotter; Joel Tarr; John Soluri; Laurie Eisenberg; Lisa Tetrault; Nico Slate; Noah Theriault; Paul Eiss; Ricky Law; Scott Sandage; Steven Schlossman; Timothy Haggerty; Wendy Goldman
+TEP 2111
+4
+6
+Information Networking Institute
+James Knopf
+Modern Languages
+Douglas Cooper
+9
+Design
+9
+Materials Science & Engineering
+CUC 151
+GHC 4102
+(21-356 or 21-236 or 21-456) and (21-373 or 21-237)
+HBH 2009
+Drama
+12
+Music
+48
+9
+0
+Mattia Ciollaro
+9
+9
+3
+9
+Mathematical Sciences
+Kristin Hughes; Mark Baskinger
+15-122 or 15-112 or 15-121
+Social & Decision Sciences
+Chemistry
+CMB 1030
+B23 212; INI DEC
+Mechanical Engineering
+POS 343
+DH A302
+Heinz College Wide Courses
+12
+
+Rashmi Korlakai Vinayak
+HOA 226
+Stephan Caspar
+Danny Oppenheimer
+Gio Altamirano Rayo
+9
+Hasan Demirkoparan
+Ronald Yurko
+Mark Cato
+John Soluri
+Engineering & Public Policy
+Music
+3
+Drama
+WEH 8427
+BH 246A
+Lorraine Levin
+Alexey Kushnir
+Public Policy & Mgt:Sch of Pub Pol & Mgt
+57-774
+9
+PH A19C
+Kevin Noonan
+Edward Kennedy
+9
+9
+Britt Ransom; Ling-Lin Ku
+
+PH A18B
+Music
+Dana Cupkova
+Drama
+6
+Kun Zhang
+Conference on Empirical Methods in Natural Language Processing
+This work formally characterize and justify existing empirical in-sights and provide theoretical guarantees of MAE, and formulate the underlying data-generating process as a hierarchical latent variable model, and shows that under reasonable assumptions, MAE provably identifies a set of latent variables in the hierarchical model.
+arXiv.org
+Ethan Chern
+It is found that around half of the participants are not fully aware of the data collection and use practices of IoT even though they notice the presence of IoT devices and sensors.
+2023
+arXiv.org
+Liangzhe Yuan, Nitesh B. Gundavarapu, Long Zhao, Hao Zhou, Yin Cui, Lu Jiang, Xu Yang, Menglin Jia, Tobias Weyand, Luke Friedman, Mikhail Sirotenko, H. Wang, Florian Schroff, Hartwig Adam, Ming Yang, Ting Liu, Boqing Gong
+arXiv.org
+This paper empirically shows that by fine-tuning a pre-trained model on only 10 debiased (intervened) training examples, the tendency to favor any gender is significantly reduced, and argues that the few-shot de-biasing approach is highly feasible and practical.
+This research aims to create a dataset and computational framework for systems that discuss and refine their predictions through dialogue and shows that the proposed system can have beneficial discussions with humans improving the accuracy by up to 25 points in the natural language inference task.
+A new task OUTDOOR is introduced, a new mechanism for Large Language Models (LLMs) to accurately hallucinate possible futures, and a new computationally aware success metric for pushing research forward in this more complex domain are introduced.
+This paper investigates the ability of large language models (LLMs) to suggest functionally correct, performance improving code edits, and hypothesizes that language models can suggest such edits in ways that would be impractical for static analysis alone.
+2023
+Amal AlQahtani
+Vijay Viswanathan
+International Conference on Human Factors in Computing Systems
+Colin S. Lea
+Annual Meeting of the Association for Computational Linguistics
+Julian McAuley
+2023
+Kundan Krishna
+S. Dubnov
+It is discovered that LLMs exhibit new working patterns when used for MMT and cross-lingual exemplars can provide better task guidance for low-resource translation than exemplars in the same language pairs.
+This paper develops a method that allows one to train summarization models on very long sequences in an incremental manner and devise and test strategies to pass semantic context across the blocks.
+ACM Multimedia
+2023
+Wenhao Zhu
+2023
+Justine Cassell
+Manuel Mager
+Lindia Tjuatja
+Conference on Empirical Methods in Natural Language Processing
+2023
+Ji-Ung Lee
+K. Chen
+Vilém Zouhar, Kalvin Chang, Chenxuan Cui, Nathaniel Carlson, Nathaniel R. Robinson, Mrinmaya Sachan, David R. Mortensen
+2023
+Kaixin Ma
+Annual Meeting of the Association for Computational Linguistics
+R. Salakhutdinov
+2023
+Luciana Benotti, Karën Fort, Min-Yen Kan, Yulia Tsvetkov
+Jeffrey P. Bigham
+Rajshekhar Das
+Jiefu Ou, Benno Krojer, Daniel Fried
+E. Hovy
+2023
+arXiv.org
+Maarten Sap
+Conference of the European Chapter of the Association for Computational Linguistics
+Akshatha Jain, David Rodríguez Torrado, J. D. Álamo, N. Sadeh
+Chien-yu Huang, Ke-Han Lu, Shi Wang, Chi-Yuan Hsiao, Chun-Yi Kuan, Haibin Wu, Siddhant Arora, Kai-Wei Chang, Jiatong Shi, Yifan Peng, Roshan Sharma, Shinji Watanabe, Bhiksha Ramakrishnan, Shady Shehata, Hung-yi Lee
+Nikolai Vogler
+European Symposium on Security and Privacy
+It is revealed that having explanations in the fewshot exemplar has no significant impact on the model’s performance when the model is finetuned, while positively affecting the non-finetuned counterpart, and a slight yet consistent increase in classification accuracy as the authors incorporate explanations during prompting and finetuning.
+2023
+This work proposes a method to fuse frozen text-only large language models (LLMs) with pre-trained image encoder and decoder models, by mapping between their embedding spaces, and exhibits a wider range of capabilities compared to prior multimodal language models.
+Nathaniel R. Robinson
+2023
+Averaging across all forecast targets, the FluSight ensemble was the 2nd most accurate model measured by WIS in 2021-22 and the 5th most accurate in the 2022-23 season and most component models degraded over longer forecast horizons and during periods of rapid change.
+P. Liang
+Xinglu Zhang, Yu Zheng, H. Che, K. Gui, Lei Li, Hujia Zhao, Yuanxin Liang, Wenrui Yao, Xindan Zhang, Hengheng Zhao, Yanting Lu, Xiaoye Zhang
+medRxiv
+Graham Neubig
+Lei Li, H. Che, Xin Su, Xindan Zhang, K. Gui, Yu Zheng, Hujia Zhao, Hengheng Zhao, Yuanxin Liang, Yadong Lei, Lei Zhang, J. Zhong, Zhili Wang, Xiaoye Zhang
+Graham Neubig
+Annual Meeting of the Association for Computational Linguistics
+Amanda Bertsch, Alex Xie, Graham Neubig, Matthew R. Gormley
+Chien-yu Huang
+Louis-Philippe Morency
+B. Scholkopf
+R. Salakhutdinov
+This work develops a model of hedge generation based on fine-tuning state-of-the-art language models trained on human-human tutoring data, followed by reranking to select the candidate that best matches the expected hedging strategy within a candidate pool using a hedge classifier.
+arXiv.org
+Empirical evaluations demonstrate that counterfactual augmentation yields better downstream performance compared to both uncorrected models and existing bias-correction methods, and model analyses indicate that the generatedcounterfactuals align closely with true counterfactUALs in an oracle setting.
+Annual Meeting of the Association for Computational Linguistics
+2023
+Jason Wu, Siyan Wang, Siman Shen, Yi-Hao Peng, Jeffrey Nichols, Jeffrey P. Bigham
+Kaleido is built, an open, light-weight, and structured language-based multi-task model that generates, explains, and assesses the relevance and valence of human values, rights, and duties within a specific context and demonstrates that Kaleido can help explain variability in human decision-making by outputting contrasting values.
+T. Wörtwein, Nicholas Allen, Lisa B. Sheeber, R. Auerbach, J. Cohn, Louis-Philippe Morency
+Alafate Abulimiti
+2023
+2023
+Tom M. Mitchell
+IEEE Workshop on Applications of Signal Processing to Audio and Acoustics
+2023
+2023
+COBRA frames are introduced, the first context-aware formalism for explaining the intents, reactions, and harms of offensive or biased statements grounded in their social and situational context, and the importance and feasibility of contextualized NLP by modeling social factors are highlighted.
+Orhan Firat
+arXiv.org
+P. Liang
+Shikun Zhang, N. Sadeh
+It is found that while LLMs exhibit certain N-ToM abilities, this behavior is far from being robust, indicating reliance on shallow heuristics rather than robust ToM abilities.
+arXiv.org
+2023
+Victoria Lin
+Lijun Yu
+Patrick Fernandes, Daniel Deutsch, M. Finkelstein, Parker Riley, André F. T. Martins, Graham Neubig, Ankush Garg, J. Clark, Markus Freitag, Orhan Firat
+This work provides formal definitions of equity in text generation, and proves formal connections between learning human-likeness and learning equity: algorithms for improving equity ultimately reduce to algorithms forimproving human- likeness (on augmented data).
+Ivan Stelmakh
+Jason Wu, Amanda Swearngin, Xiaoyi Zhang, Jeffrey Nichols, Jeffrey P. Bigham
+It is shown that existing NLP-based optimization attacks are insufficiently powerful to reliably attack aligned text models, and conjecture that improved NLP attacks may demonstrate this same level of adversarial control over text-only models.
+Yiming Zhang, Sravani Nanduri, Liwei Jiang, Tongshuang Wu, Maarten Sap
+2023
+Nikolai Vogler, Kartik Goyal, Kishore PV Reddy, Elizaveta Pertseva, Sam Lemley, Christopher N. Warren, M. GSell, Taylor Berg-Kirkpatrick
+Italian National Conference on Sensors
+Jamie Callan, J. Petke
+Roshan Sharma, Kenneth Zheng, Siddhant Arora, Shinji Watanabe, Rita Singh, B. Raj
+Frontiers in Artificial Intelligence
+2023
+This method marks the first successful attempt to enable a frozen LLM to generate image content while surpassing state-of-the-art performance in image understanding tasks, under the same setting, by over 25%.
+FactorCL is a new multimodal representation learning method to go beyond multi-view redundancy and captures both shared and unique information and achieves state-of-the-art results on six benchmarks.
+Annual Meeting of the Association for Computational Linguistics
+arXiv.org
+L. Levin
+Jesse Dodge
+Maria Antoniak, Anjalie Field, Jimin Mun, Melanie Walsh, Lauren F. Klein, Maarten Sap
+NME combines the efficiency of neural network optimization with nonlinear mixed effects modeling and improves performance across six unimodal and multimodal datasets, including a smartphone dataset to predict daily mood and a mother-adolescent datasets to predict affective state sequences where half the mothers experience symptoms of depression.
+Eduardo Alvarado
+2023
+David R. Mortensen
+Advantage-Leftover Lunch RL (A-LoL), a new class of offline policy gradient algorithms that enable RL training on any pre-existing data that assumes the entire LM output sequence as a single action, and allows incorporating sequence-level classifiers or human-designed scoring functions as rewards.
+It is found that generated code that receives a higher score by CodeBERTScore is more likely to be preferred by humans, as well as to function correctly when executed, than all existing metrics.
+Zachary Chase Lipton
+Conference on Empirical Methods in Natural Language Processing
+Conference of the European Chapter of the Association for Computational Linguistics
+Annual Meeting of the Association for Computational Linguistics
+Taylor Sorensen
+Xiaoye Zhang
+Soham Deshmukh
+Kaixin Ma, Hao Cheng, Yu Zhang, Xiaodong Liu, Eric Nyberg, Jianfeng Gao
+Liangzhe Yuan
+An analysis on the interactions of the effectiveness of decoding with structural constraints and the amount of available training data for structured prediction tasks in NLP finds that models trained with less data predict outputs with more structural violations in greedy decoding mode.
+A respiratory distress estimation technique for telephony previously proposed by the authors is adapted and evaluated in real static and dynamic HRI scenarios and the combination of both types of classifiers provides the best joint accuracy and AUC score.
+Annual Meeting of the Association for Computational Linguistics
+Sarabeth M. Mathis, Alexander E. Webber, Tomás M León, Erin L. Murray, Monica Sun, L. A. White, L. Brooks, Alden Green, Addison J. Hu, Daniel J McDonald, Roni Rosenfeld, Dmitry Shemetov, R. Tibshirani, S. Kandula, Sen Pei, Jeffrey Shaman, R. Yaari, T. Yamana, Pulak Agarwal, Srikar Balusu, Gautham Gururajan, Harshavardhan Kamarthi, B. A. Prakash, Rishi Raman, Alexander Rodríguez, Zhiyuan Zhao, Akilan Meiyappan, Shalina Omar, P. Baccam, H. Gurung, S. Stage, B. Suchoski, M. Ajelli, A. G. Kummer, M. Litvinova, Paulo C. Ventura, Spencer Wadsworth, Jarad Niemi, Erica Carcelen, Alison Hill, Sung-Mok Jung, J. Lemaitre, J. Lessler, Sara L. Loo, Clif McKee, Koji Sato, Clair Smith, S. Truelove, Thomas McAndrew, Wenxuan Ye, Nikos Bosse, W. Hlavacek, Yen Ting Lin, A. Mallela, Ye Chen, Shelby Lamm, Jaechoul Lee, Richard G Posner, A. Perofsky, Cécile Viboud, Leonardo Clemente, Fred Lu, Austin G Meyer, Mauricio Santillana, Matteo Chinazzi, Jessica T. Davis, K. Mu, A. Pastore y Piontti, A. Vespignani, X. Xiong, M. Ben-Nun, P. Riley, J. Turtle, Chis Hulme-Lowe, Shakeel Jessa, V. Nagraj, Stephen D. Turner, Desiree Williams, Avranil Basu, John M Drake, S. Fox, G. Gibson, Ehsan Suez, E. Thommes, Monica G. Cojocaru, E. Cramer, Aaron Gerding, A. Stark, E. Ray, Nick Reich, Li Shandross, N. Wattanachit, Yijin Wang, Martha W Zorn, Majd Al Aawar, A. Srivastava, L. A. Meyers, A. Adiga, Benjamin Hurt, Gursharn Kaur, Bryan L Lewis, M. Marathe, S. Venkatramanan, P. Butler, Andrew Farabow, N. Muralidhar, Naren Ramakrishnan, Carrie Reed, M. Biggerstaff, R. Borchering
+2023
+P. Liang, Yun Cheng, Xiang Fan, Chun Kai Ling, Suzanne Nie, Richard J. Chen, Zihao Deng, Faisal Mahmood, R. Salakhutdinov, Louis-Philippe Morency
+Malihe Alikhani
+Sameer Jain, Vaishakh Keshava, Swarnashree Mysore Sathyendra, Patrick Fernandes, Pengfei Liu, Graham Neubig, Chunting Zhou
+2023
+Tianrui Gu
+Ta-Chung Chi
+Maarten Sap
+2023
+2023
+Louis-Philippe Morency
+Peter Hase
+2023
+Shikun Zhang
+The view of the most important challenges and research questions that this promising new field of research faces is provided, and an analysis of selected previous work in detail is provided.
+Alexander I. Rudnicky
+Nicholas Carlini, Jamie Hayes, Milad Nasr, Matthew Jagielski, Vikash Sehwag, Florian Tramèr, B. Balle, Daphne Ippolito, Eric Wallace
+Conference on Empirical Methods in Natural Language Processing
+Wayne Zhao, Rita Singh
+arXiv.org
+Dennis Paulino
+Aaron M. Rumack
+Climate Change Benchmark (ClimaBench) is introduced, a benchmark collection of existing disparate datasets for evaluating model performance across a diverse set of CC NLU tasks systematically and an analysis of several generic and CC-oriented models answering whether tuning on domain text offers any improvements across these tasks.
+Graham Neubig
+These findings constitute the largest set of experiments to validate, quantify, and expose many undocumented intuitions about text pretraining, which are hoped to help support more informed data-centric decisions in LM development.
+Eric Nyberg
+Malihe Alikhani
+2023
+A query-by-example-based personalized phrase recognition system that is trained using small amounts of speech, is language agnostic, does not assume a traditional pronunciation lexicon, and generalizes well across speech difference severities is proposed.
+2023
+Tianrui Gu, Kaie Chen, Siqi Ouyang, Lei Li
+Taylor Berg-Kirkpatrick
+2023
+2023
+P. Liang
+Alexander I. Rudnicky
+This paper proposes AutoMQM, a prompting technique which leverages the reasoning and in-context learning capabilities of large language models (LLMs) and asks them to identify and categorize errors in translations, and finds that it improves performance compared to just prompting for scores.
+Raymond Li
+2023
+Graham Neubig
+Conference on Empirical Methods in Natural Language Processing
+Hung-yi Lee
+Special Interest Group on Computational Morphology and Phonology Workshop
+Interspeech
+R. Salakhutdinov
+Frank F. Xu, Uri Alon, Graham Neubig
+2023
+arXiv.org
+2023
+2023
+Orevaoghene Ahia
+Keren Shao, K. Chen, Taylor Berg-Kirkpatrick, S. Dubnov
+Dilip Krishnan
+Graham Neubig
+2023
+Srinagesh Sharma
+ACM Symposium on User Interface Software and Technology
+Mario Rodriguez-Cantelar, Chen Zhang, Chengguang Tang, Ke Shi, Sarik Ghazarian, João Sedoc, L. F. D’Haro, Alexander I. Rudnicky
+This work theoretically analyze some existing LRNNs and proposes a new LRNN equipped with a block-diagonal and input-dependent transition matrix that is the only LRNN that can perform length extrapolation on regular language tasks such as Sum, Even Pair, and Modular Arithmetic.
+2023
+This paper shows how image–text coherence relations can be used to model the pragmatics of image-text presentations in AI systems, and reviews case studies describing coherence in image– Text data sets, predicting coherence from few-shot annotations, and coherence models of image– text tasks such as caption generation and caption evaluation.
+2023
+This work proposes Unlimiformer: a general approach that wraps any existing pretrained encoder-decoder transformer, and offloads the cross-attention computation to a single k-nearest-neighbor (kNN) index, while the returned kNN distances are the attention dot-product scores.
+Loubna Ben Allal
+2023
+Conference on Robot Learning
+Conference on Empirical Methods in Natural Language Processing
+Haoyang Wen
+2023
+K. Chen, Yusong Wu, Haohe Liu, Marianna Nezhurina, Taylor Berg-Kirkpatrick, S. Dubnov
+2023
+Sang Keun Choe, Sanket Vaibhav Mehta, Hwijeen Ahn, W. Neiswanger, Pengtao Xie, Emma Strubell, Eric P. Xing
+The Scone system is augmented with a production rule engine that automatically performs simple inference based on existing and newly-added structures in Scone's knowledge base, potentially improving the capabilities of any planning systems built on top of Scone.
+This work developed a novel crowd-sourcing platform to gather multiple-domain QA data for low-resource languages and successfully released the app for Icelandic to build a dataset which rivals large QA datasets for high- resource languages both in terms of size and ratio of answered questions.
+2023
+P. Liang
+A crowd-sourced corpus of privacy questions collected from mobile app users is analyzed to determine to what extent these mobile app labels actually address users’ privacy concerns and questions.
+Jason Wu
+Shahab Raji
+Julia Mendelsohn, Ronan Le Bras, Yejin Choi, Maarten Sap
+Conference on Empirical Methods in Natural Language Processing
+Quanting Xie
+2023
+PlayGround’s submission to the AmericasNLP 2023 shared task on machine translation (MT) into indigenous languages is presented and the effectiveness of weight averaging and back translation is examined.
+Mona T. Diab
+Akhila Yerukola, Xuhui Zhou, Elizabeth Clark, Maarten Sap
+Justine Cassell
+This work proposes to learn the desired text-audio correspondence by leveraging the visual modality as a bridge in videos and pretrained language-vision models, and shows competitive performance against a state-of-the-art image-to-audio synthesis model in a subjective listening test.
+This work proposes two lower bounds based on the amount of shared information between modalities and the disagreement between separately trained unimodal classifiers, and derive an upper bound through connections to approximate algorithms for min-entropy couplings and validate these estimated bounds and show how they accurately track true interactions.
+Sireesh Gururaja, Amanda Bertsch, Clara Na, D. Widder, Emma Strubell
+2023
+Conference on Empirical Methods in Natural Language Processing
+2023
+2023
+arXiv.org
+Gyan Tatiya
+Shi Yu, Zhenghao Liu, Chenyan Xiong, Zhiyuan Liu
+Mathias Müller
+Justus Mattern
+2023
+Anubha Kabra, Emmy Liu, Simran Khanuja, Alham Fikri Aji, Genta Indra Winata, Samuel Cahyawijaya, Anuoluwapo Aremu, Perez Ogayo, Graham Neubig
+0
+arXiv.org
+Jose Moura
+Three methods that use articulatory features to build phonetically informed word embeddings are developed that address the inconsistent evaluation of existing phonetic word embedding methods and contribute a task suite to fairly evaluate past, current, and future methods.
+NLPositionality, a framework for characterizing design biases and quantifying the positionality of NLP datasets and models, is introduced and it is found that dataset and models align predominantly with Western, White, college-educated, and younger populations.
+Shuyan Zhou
+Annual Meeting of the Association for Computational Linguistics
+This work crawled the web to construct WebUI, a large dataset of 400,000 rendered web pages associated with automatically extracted metadata, and analyzed the composition of WebUI to show that while automatically extracted data is noisy, most examples meet basic criteria for visual UI modeling.
+2023
+Jocelyn Shen, Maarten Sap, Pedro Colon-Hernandez, Hae Won Park, C. Breazeal
+This work pioneers the application of CLIP-based sensory grounding in robotics, promising a significant leap in multi-sensory perception capabilities for autonomous systems.
+2023
+Sabit Hassan, Malihe Alikhani
+Wenhao Zhu, Hongyi Liu, Qingxiu Dong, Jingjing Xu, Lingpeng Kong, Jiajun Chen, Lei Li, Shujian Huang
+Li-Wei Chen, Shinji Watanabe, Alexander I. Rudnicky
+Ashutosh Baheti
+Experiments show that using random walks to estimate entity centrality on conversation entity graphs improves top precision answer passage ranking over competitive transformer-based baselines.
+Lingjing Kong
+Zhiyuan Liu
+B. Raj
+Conference on Empirical Methods in Natural Language Processing
+Colin S. Lea, Dianna Yee, Jaya Narain, Zifang Huang, Lauren Tooley, Jeffrey P. Bigham, Leah Findlater
+The Web Conference
+Emily Allaway
+This paper jointly model product interactions and resource page interactions to create a system which can recommend both products and resource pages to users, and extends a state-of-the-art system to incorporate this new intent data, and shows a significant improvement in the ability of the system to recommend products.
+arXiv.org
+arXiv.org
+Katharina Kann
+Srinivas Gowriraj
+Kihyuk Sohn
+arXiv.org
+Annual Meeting of the Association for Computational Linguistics
+Annual Meeting of the Association for Computational Linguistics
+This work presents SenteCon, a method for introducing human interpretability in deep language representations that outperforms existing interpretable language representations with respect to both its downstream performance and its agreement with human characterizations of the text.
+KALE is a new lightweight method that uses a small model with a k-sparse projector to convert dense representations into a sparse set of entries from a latent vocabulary, which can replace the original lexical vocabulary with gains in accuracy and efficiency.
+Malihe Alikhani
+To improve translation of natural idioms, this work introduces two straightforward yet effective techniques: the strategic upweighting of training loss on potentially idiomatic sentences, and using retrieval-augmented models.
+Ethan Chern, Steffi Chern, Shiqi Chen, Weizhe Yuan, Kehua Feng, Chunting Zhou, Junxian He, Graham Neubig, Pengfei Liu
+Junhong Shen, Liam Li, L. Dery, Corey Staten, M. Khodak, Graham Neubig, Ameet Talwalkar
+Zhisong Zhang
+This work proposes a modular retriever where individual modules correspond to key skills that can be reused across datasets and achieves state-of-the-art fine-tuned retrieval performance on NQ, HotpotQA and OTT-QA.
+Nihar B. Shah
+2023
+2023
+Taylor Berg-Kirkpatrick
+Loubna Ben Allal, Raymond Li, Denis Kocetkov, Chenghao Mou, Christopher Akiki, Carlos Muñoz Ferrandis, Niklas Muennighoff, Mayank Mishra, A. Gu, Manan Dey, Logesh Kumar Umapathi, Carolyn Jane Anderson, Yangtian Zi, J. Poirier, Hailey Schoelkopf, S. Troshin, Dmitry Abulkhanov, M. Romero, M. Lappert, F. Toni, Bernardo Garcia del Rio, Qian Liu, Shamik Bose, Urvashi Bhattacharyya, Terry Yue Zhuo, I. Yu, Paulo Villegas, Marco Zocca, Sourab Mangrulkar, D. Lansky, Huu Nguyen, Danish Contractor, Luisa Villa, Jia Li, Dzmitry Bahdanau, Yacine Jernite, S. Hughes, Daniel Fried, Arjun Guha, Harm de Vries, Leandro von Werra
+J. Petke
+Peter Hase, Mona T. Diab, Asli Celikyilmaz, Xian Li, Zornitsa Kozareva, Veselin Stoyanov, Mohit Bansal, Srini Iyer
+2023
+Leena Mathur, Maja J Mataric, Louis-Philippe Morency
+Anthony Sicilia
+Shi Yu
+B. Duncan
+Daphne Ippolito
+This work proposes Forward-Looking Active REtrieval augmented generation (FLARE), a generic method which iteratively uses a prediction of the upcoming sentence to anticipate future content, which is then utilized as a query to retrieve relevant documents to regenerate the sentence if it contains low-confidence tokens.
+arXiv.org
+2023
+Malihe Alikhani
+Vijay Viswanathan, Luyu Gao, Tongshuang Sherry Wu, Pengfei Liu, Graham Neubig
+2023
+Maneesh Bilalpur
