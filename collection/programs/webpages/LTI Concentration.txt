@@ -1,0 +1,51 @@
+Overview: Human language technologies have become an increasingly central component of computer science. Information retrieval, machine translation and speech technology are used daily by the general public, while text mining, natural language processing and language-based tutoring are common within more specialized professional or educational environments. The LTI prepares students for this world by offering a minor that gives you the opportunity to not only learn about language technologies, but to also apply that knowledge through a directed project.
+Requirements: Students interested in the language technologies minor must complete our prerequisite courses with an average grade of B (3.0) or better before applying to the program. (Students who do not meet this average must submit a letter of explanation along with their application.) Prerequisites include:
+
+Principles of Imperative Computation (15-122)
+Principles of Functional Programming (15-150)
+We also strongly encourage candidates to take
+
+Differential and Integral Calculus (21-120) and Integration and Approximation (21-122)
+Matrices and Linear Transformations (21-241) or Matrix Theory (21-242)
+Probability and Computing (15-259) or Probability (21-325) or Probability Theory for Computer Scientists (36-218) or Introduction to Probability Theory (36-225)
+Curriculum: The Language Technologies Concentration requires that SCS students complete one core course and their choice of three elective courses of at least 9 units each. The electives can be chosen from a specific set of stand-alone courses. In addition to the four courses, students are required to do an undergraduate research project for at least 9 units to complete their concentration.
+
+Course Requirements for Undergraduate Minor
+
+Core Course
+
+Electives (Choose Three)
+
+Project
+
+Human Language for Artificial Intelligence (11-411)
+
+Natural Language Processing (11-411)
+
+Machine Learning for Text and Graph-based Mining (11-441)
+
+Search Engines (11-442)
+
+Speech Processing (11-492)
+
+Machine Learning in Practice (11-344)
+
+Advanced Natural Language Processing (11-711)
+
+Machine Translation and Sequence-to-Sequence Models (11-731)
+
+Multilingual Natural Language Processing (11-737)
+
+Neural Networks for NLP (11-747)
+
+Speech Recognition and Understanding (11-751)
+
+Language and Statistics (11-761)
+
+Multimodal Affective Computing (11-776)
+
+The Nature of Language (80-180)
+
+Students must complete a semester-long directed research project in the context of being registered for an independent study or thesis.  This should provide hands-on experience and an in-depth study of a topic in same area as a chosen elective.
+Admission: Students interested in earning a minor in language technologies must apply for admission no later than September 30 of their senior year. An admission decision will usually be made within one month. Students may petition the LTI undergraduate program director to be admitted to the minor earlier or later in their undergraduate careers. To apply, contact the program's director, Carolyn Rosé.
+Additional Info: For more information on the undergraduate minor, contact Carolyn Rosé.

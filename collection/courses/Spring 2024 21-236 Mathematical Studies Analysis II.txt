@@ -1,0 +1,16 @@
+<start course metadata for 21-236 Mathematical Studies Analysis II>
+Semester: Spring 2024 (aka S24)
+Course Name: Mathematical Studies Analysis II
+Course Number: 21-236
+Department: Mathematical Sciences
+Number of Units: 12
+Prerequisites: 21-235
+Instructors: Ian Tice
+Rooms: DH 2122
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-236 Mathematical Studies Analysis II>
+
+<start course description for 21-236 Mathematical Studies Analysis II>
+Semester: Spring 2024 (aka S24)
+Course Description: A component of the honors program, 21-236 is a more demanding version of 21-356 of greater scope. Topics to be covered typically include: Lebesgue measure in Euclidean space, measurable functions, the Lebesgue integral, integral limit theorems, Fubini-Tonelli theorem, and change of variables; Lebesgue spaces, completeness, approximation, and embeddings; absolutely continuous functions, functions of bounded variation, and curve lengths; differentiable submanifolds of Euclidean space, tangent spaces, mappings between manifolds, vector and tensor fields, manifolds with boundary and orientations; differential forms, integration of forms, Stokes' theorem; Hausdorff measure, divergence theorem.  (Three 50 minute lectures, one 50 minute recitation)
+</end course description for 21-236 Mathematical Studies Analysis II>

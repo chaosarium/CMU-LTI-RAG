@@ -1,0 +1,6 @@
+Name: Eric Nyberg
+Title: Professor
+Email ehn@cs.cmu.edu
+Phone: 412-268-7281
+Office: 6715 Gates & Hillman Centers
+Interests: Information Extraction, Summarization and Question Answering, Information Retrieval, Text Mining and Analytics, Language Technologies for Education

@@ -1,0 +1,16 @@
+<start course metadata for 51-729 Communication Design Studio>
+Semester: Fall 2023 (aka F23)
+Course Name: Communication Design Studio
+Course Number: 51-729
+Department: Design
+Number of Units: 15
+Prerequisites: None
+Instructors: Stacie Rohrbach, Victoria Crowley
+Rooms: MM 215
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-729 Communication Design Studio>
+
+<start course description for 51-729 Communication Design Studio>
+Semester: Fall 2023 (aka F23)
+Course Description: In this course students learn how the form of communication impacts the way people perceive and process messages by investigating communication theories and applying them to the design of messages. Students learn how to approach communication challenges through exercises and projects where they pose questions, observe and capture information through sketching and photographing, developing and iterating concepts, and evaluating their effectiveness. This course is intended for MDES & MPS students in Design; all other students by permission of the instructor.
+</end course description for 51-729 Communication Design Studio>

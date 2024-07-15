@@ -1,0 +1,16 @@
+<start course metadata for 48-622 Explorations in Craft: Soft Forms, Stable Structures>
+Semester: Fall 2023 (aka F23)
+Course Name: Explorations in Craft: Soft Forms, Stable Structures
+Course Number: 48-622
+Department: Architecture
+Number of Units: 9
+Prerequisites: None
+Instructors: Laura Garofalo
+Rooms: CFA 206A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-622 Explorations in Craft: Soft Forms, Stable Structures>
+
+<start course description for 48-622 Explorations in Craft: Soft Forms, Stable Structures>
+Semester: Fall 2023 (aka F23)
+Course Description: This course focuses on physical model making of soft forms. Softness is an evocative quality in architecture, but how do we "find" and then represent those elusive soft forms? How do we demonstrate a level of intentionality and control in their execution outside the digital realm? How do we suspend disbelief and open haptic possibilities? How do we manipulate materials with control?   Using soft materials and/or expressing fluid form we will explore analog and digital craft pairings for fabrication, assembly methods, and physical form-finding techniques. The design and use of items like cutting and sewing patterns, bending jigs and casting molds will introduce the types of interfaces that facilitate thoughtful crafting of models.  While learning through making, students will develop their own expression of softness. Presentations, demonstrations, and workshops on craft will inform experiments focused on material qualities and their formal affordances.  Explorations and experiments will also consider structural stability in relation to soft material and formal palettes. These will inform a final independent project. The methods we work with in this class are intended to open possibilities and refine model making skills.   Note: The class will have a materials fee to cover workshop costs. There will be some teamwork.
+</end course description for 48-622 Explorations in Craft: Soft Forms, Stable Structures>

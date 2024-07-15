@@ -1,0 +1,16 @@
+<start course metadata for 98-044 TBA>
+Semester: Fall 2023 (aka F23)
+Course Name: TBA
+Course Number: 98-044
+Department: StuCo (Student Led Courses)
+Number of Units: 3
+Prerequisites: None
+Instructors: Shreyes Nallan
+Rooms: WEH 5201
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 98-044 TBA>
+
+<start course description for 98-044 TBA>
+Semester: Fall 2023 (aka F23)
+Course Description: This course will cover the design, history, and culture of flags. We will consider the purpose and meaning of flags; the characteristics that differentiate flags from other pieces of visual design; historical and modern design practices, including flag patterns, devices, emblems, and color symbolism; flag terminology; and the relevance of flags to cultures around the world. Throughout the course, students will have the opportunity to practice their knowledge by creating flags of their own and receiving feedback from each other. No prior knowledge is required.
+</end course description for 98-044 TBA>

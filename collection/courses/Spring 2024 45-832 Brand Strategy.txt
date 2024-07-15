@@ -1,0 +1,16 @@
+<start course metadata for 45-832 Brand Strategy>
+Semester: Spring 2024 (aka S24)
+Course Name: Brand Strategy
+Course Number: 45-832
+Department: Business Administration
+Number of Units: 6
+Prerequisites: 45-730
+Instructors: Melissa Murphy
+Rooms: TEP 2118
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-832 Brand Strategy>
+
+<start course description for 45-832 Brand Strategy>
+Semester: Spring 2024 (aka S24)
+Course Description: This course covers why brands are important, what they represent to consumers, how companies currently manage their brands, and strategies for creating and sustaining brand equity.
+</end course description for 45-832 Brand Strategy>

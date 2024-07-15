@@ -1,0 +1,16 @@
+<start course metadata for 70-345 Business Presentations>
+Semester: Spring 2024 (aka S24)
+Course Name: Business Presentations
+Course Number: 70-345
+Department: Business Administration
+Number of Units: 9
+Prerequisites: 70-340 or 73-270
+Instructors: Abbe Depretis, Carla Bevins, Clara Burke, J Mcginnis
+Rooms: CMB 1064; TEP 2702
+Locations: Doha, Qatar; Pittsburgh, Pennsylvania
+</end course metadata for 70-345 Business Presentations>
+
+<start course description for 70-345 Business Presentations>
+Semester: Spring 2024 (aka S24)
+Course Description: In this course, students prepare, present, discuss, and critique different oral presentations currently practiced in business. Topics include developing verbal and physical presence; planning presentations based on audience needs and expectations; projecting personal credibility and professionalism. Assignments and cases will vary from term to term and may include talks such as pitches, team-driven strategic plans, rallying speeches, mock interviews, and other presentations that prepare students to succeed as oral communicators in the business world. This course may use third-party course material that is not available for individual purchase from the publisher. If so, the third-party course material will be secured and provided by the Tepper School to students enrolled in the course, and students enrolled in the course will be required to pay to the University the associated additional course materials fee for the third-party course material provided. The amount of the course materials fee is dependent on the University's cost of the particular materials provided, and typically ranges from $13 to $75.
+</end course description for 70-345 Business Presentations>

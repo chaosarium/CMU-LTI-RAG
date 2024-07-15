@@ -1,0 +1,16 @@
+<start course metadata for 57-491 Solfege for Conductors I>
+Semester: Fall 2023 (aka F23)
+Course Name: Solfege for Conductors I
+Course Number: 57-491
+Department: Music
+Number of Units: 3
+Prerequisites: 57-184 or 57-488
+Instructors: Stephen Story
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-491 Solfege for Conductors I>
+
+<start course description for 57-491 Solfege for Conductors I>
+Semester: Fall 2023 (aka F23)
+Course Description: TBA
+</end course description for 57-491 Solfege for Conductors I>

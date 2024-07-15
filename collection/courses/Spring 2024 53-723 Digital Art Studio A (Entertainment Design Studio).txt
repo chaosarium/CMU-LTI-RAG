@@ -1,0 +1,16 @@
+<start course metadata for 53-723 Digital Art Studio A (Entertainment Design Studio)>
+Semester: Spring 2024 (aka S24)
+Course Name: Digital Art Studio A (Entertainment Design Studio)
+Course Number: 53-723
+Department: Entertainment Technology
+Number of Units: 12
+Prerequisites: None
+Instructors: Ricardo Washington
+Rooms: PTC 5208
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 53-723 Digital Art Studio A (Entertainment Design Studio)>
+
+<start course description for 53-723 Digital Art Studio A (Entertainment Design Studio)>
+Semester: Spring 2024 (aka S24)
+Course Description: In this class students will use projects and self-directed learning goals, designed with the help of the instructor, to explore areas of art and design of their choosing. The class serves as an environment to practice skills and apply fundamental design principles to projects in a setting that encourages robust and active learning and discovery for students of all skill levels. It is a good time to work on portfolio materials, improve specific skills and practices, or deepen understanding of art and aesthetics in general.
+</end course description for 53-723 Digital Art Studio A (Entertainment Design Studio)>

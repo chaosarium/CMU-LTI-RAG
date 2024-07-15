@@ -1,0 +1,16 @@
+<start course metadata for 67-410 Clinical Data Science>
+Semester: Fall 2023 (aka F23)
+Course Name: Clinical Data Science
+Course Number: 67-410
+Department: Information Systems Program
+Number of Units: 9
+Prerequisites: None
+Instructors: Daniel Phelps
+Rooms: CMB 3044
+Locations: Doha, Qatar
+</end course metadata for 67-410 Clinical Data Science>
+
+<start course description for 67-410 Clinical Data Science>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is designed as an introductory course in Critical Care Data Science, providing an introduction to the tools and techniques of data science, specifically focused on clinically relevant critical care.  Electronic Medical Records; Common Data Models for Clinical Data; SQL Querying; Computational Phenotyping; Common Machine Learning Techniques (Supervised; Unsupervised; Reinforcement Learning); and Reporting Clinical Data Science Research.
+</end course description for 67-410 Clinical Data Science>

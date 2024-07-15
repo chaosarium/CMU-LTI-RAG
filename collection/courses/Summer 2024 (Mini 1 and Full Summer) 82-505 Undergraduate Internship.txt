@@ -1,0 +1,16 @@
+<start course metadata for 82-505 Undergraduate Internship>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Undergraduate Internship
+Course Number: 82-505
+Department: Modern Languages
+Number of Units: N/A
+Prerequisites: None
+Instructors: Instructor TBA
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 82-505 Undergraduate Internship>
+
+<start course description for 82-505 Undergraduate Internship>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: To be eligible for the ML Internship, you'd need to find an internship where the use of your language of study will be a large part of your working for an organization.  Internships are supervised work experiences either on or off campus and are related to your academic interests and career goals.  To earn academic credit, you must arrange a Modern Languages faculty sponsor who agrees to define the academic component of your work, monitor your progress, and assign a final grade.  You also need to have a work site supervisor willing to communicate with the faculty sponsor and provide an evaluation of your work before a final grade is assigned. Modern Languages internships will be graded on a pass/fail basis only.  Units for the class will be contingent upon how much of your language of study will be a part of your day-to-day work.   If approved to participate in the internship:   You must maintain regular contact with your faculty sponsor as agreed to at the beginning of the internship.    In addition to any required written assignments, upon completion (but before grades are due) you must submit a reflective evaluation of your internship experience to the faculty sponsor.    Additionally, students are responsible to see that site supervisors submit a brief written evaluation of the student's internship to the faculty sponsor before the grade is entered.
+</end course description for 82-505 Undergraduate Internship>

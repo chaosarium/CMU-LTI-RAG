@@ -1,0 +1,16 @@
+<start course metadata for 79-503 Senior Thesis I>
+Semester: Fall 2023 (aka F23)
+Course Name: Senior Thesis I
+Course Number: 79-503
+Department: History
+Number of Units: 9
+Prerequisites: None
+Instructors: Instructor TBA
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 79-503 Senior Thesis I>
+
+<start course description for 79-503 Senior Thesis I>
+Semester: Fall 2023 (aka F23)
+Course Description: Seniors may write a thesis with permission of the Undergraduate Advisor and a designated faculty member who will supervise its completion.
+</end course description for 79-503 Senior Thesis I>

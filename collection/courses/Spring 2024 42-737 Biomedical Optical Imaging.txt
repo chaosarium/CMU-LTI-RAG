@@ -1,0 +1,16 @@
+<start course metadata for 42-737 Biomedical Optical Imaging>
+Semester: Spring 2024 (aka S24)
+Course Name: Biomedical Optical Imaging
+Course Number: 42-737
+Department: Biomedical Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Jana Kainerstorfer
+Rooms: GHC 4211
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 42-737 Biomedical Optical Imaging>
+
+<start course description for 42-737 Biomedical Optical Imaging>
+Semester: Spring 2024 (aka S24)
+Course Description: Biophotonics, or biomedical optics, is a field dealing with the application of optical science and imaging technology to biomedical problems, including clinical applications. The course introduces basic concepts in electromagnetism and light tissue interactions, including optical properties of tissue, absorption, fluorescence, and light scattering. Imaging methods will be described, including fluorescence imaging, Raman spectroscopy, optical coherence tomography, diffuse optical spectroscopy, and photoacoustic tomography. The basic physics and engineering of each imaging technique are emphasized. Their relevance to human disease diagnostic and clinical applications will be included, such as breast cancer imaging and monitoring, 3D retinal imaging, ways of non-invasive tumor detection, as well as functional brain imaging in infants.
+</end course description for 42-737 Biomedical Optical Imaging>

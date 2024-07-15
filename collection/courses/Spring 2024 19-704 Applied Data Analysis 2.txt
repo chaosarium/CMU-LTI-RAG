@@ -1,0 +1,16 @@
+<start course metadata for 19-704 Applied Data Analysis 2>
+Semester: Spring 2024 (aka S24)
+Course Name: Applied Data Analysis 2
+Course Number: 19-704
+Department: Engineering & Public Policy
+Number of Units: 6
+Prerequisites: 19-703
+Instructors: Kate Whitefoot
+Rooms: WEH 4709; WEH 5320
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 19-704 Applied Data Analysis 2>
+
+<start course description for 19-704 Applied Data Analysis 2>
+Semester: Spring 2024 (aka S24)
+Course Description: Students will gain a basic understanding of the estimation, interpretation, and diagnostic assessment of the most widely used statistical models in the social sciences.  This includes: graphical and inferential statistics, multiple regression with interactions, logistic regression, multi-level models, and panel data.    Assignments include six data analysis projects in R.  19703 is part 1, 19704 is part 2.
+</end course description for 19-704 Applied Data Analysis 2>

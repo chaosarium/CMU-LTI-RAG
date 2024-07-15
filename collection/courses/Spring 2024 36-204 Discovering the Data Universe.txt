@@ -1,0 +1,16 @@
+<start course metadata for 36-204 Discovering the Data Universe>
+Semester: Spring 2024 (aka S24)
+Course Name: Discovering the Data Universe
+Course Number: 36-204
+Department: Statistics and Data Science
+Number of Units: 3
+Prerequisites: None
+Instructors: Emma Slayton
+Rooms: WEH 4709
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 36-204 Discovering the Data Universe>
+
+<start course description for 36-204 Discovering the Data Universe>
+Semester: Spring 2024 (aka S24)
+Course Description: Every day we wake up in the data universe, we use the information around us to make decisions. We are constantly evaluating and interpreting data from our environment, in everything from spreadsheets to Instagram posts. At the same time, our own personal data are being observed and recorded--through websites we visit online, our smart devices, and even our interactions with other students and faculty at CMU. Navigating this data universe requires knowledge of what data is and how to use it responsibly. For example, can a plant be a data set? Discovering the truth behind a piece of data, including who made it, what it looks like, and what we can learn from it, is a critical skill. Understanding data can be the difference between being able to distinguish truth from lies; and the key to identifying your data footprint and succeeding in research and in your career. In this course, we will explore the data universe from multiple angles and across several types of data. We will define, find, and analyze data, and most importantly, identify narratives within data to tell stories about the world around us. We will examine data using the following questions: How can we tell multiple stories from the same dataset? What biases can exist in data? And, who creates or decides what data matters enough to collect, preserve, and share? NOTE: There will be one in person and one virtual pre-recorded lecture each week.
+</end course description for 36-204 Discovering the Data Universe>

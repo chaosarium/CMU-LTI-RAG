@@ -1,0 +1,16 @@
+<start course metadata for 24-665 Special Topics: Wearable Health Technologies>
+Semester: Spring 2024 (aka S24)
+Course Name: Special Topics: Wearable Health Technologies
+Course Number: 24-665
+Department: Mechanical Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Eni Halilaj
+Rooms: WEH 5409
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-665 Special Topics: Wearable Health Technologies>
+
+<start course description for 24-665 Special Topics: Wearable Health Technologies>
+Semester: Spring 2024 (aka S24)
+Course Description: This project-based course will provide an overview of emerging wearable health technologies and give students hands-on experience in solving ongoing technical challenges. The wearable sensing field is experiencing explosive growth, with exciting applications in medicine. New lightweight devices will make it easier to monitor health conditions in real time, automatically import data into health informatics systems, and provide haptic feedback with humans in the loop. We will review several aspects of these technologies, including hardware, software and big data analytics, user experience, and applications. Students will be working collaboratively in a semester-long project that tackles timely experimental and computational challenges. Programing experience, in any language, is a pre-requisite.
+</end course description for 24-665 Special Topics: Wearable Health Technologies>

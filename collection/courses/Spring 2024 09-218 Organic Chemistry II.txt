@@ -1,0 +1,16 @@
+<start course metadata for 09-218 Organic Chemistry II>
+Semester: Spring 2024 (aka S24)
+Course Name: Organic Chemistry II
+Course Number: 09-218
+Department: Chemistry
+Number of Units: 9
+Prerequisites: 09-217 or 09-219
+Instructors: Gloria Silva
+Rooms: DH 2302
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 09-218 Organic Chemistry II>
+
+<start course description for 09-218 Organic Chemistry II>
+Semester: Spring 2024 (aka S24)
+Course Description: This course further develops many of the concepts introduced in Organic Chemistry I, 09-217. Emphasis is placed on the utilization of reaction mechanisms for understanding the outcome of chemical transformations, and the employment of a wide variety of functional groups and reaction types in the synthesis of organic molecules. Also, time permitting, included in the course will be special topics selected from the following; polymers and advanced materials, biomolecules such as carbohydrates, proteins and nucleic acids, and drug design. 3 hrs. lec., 1 hr. rec.
+</end course description for 09-218 Organic Chemistry II>

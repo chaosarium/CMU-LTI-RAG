@@ -1,0 +1,16 @@
+<start course metadata for 21-410 Research Topics in Mathematical Sciences>
+Semester: Spring 2024 (aka S24)
+Course Name: Research Topics in Mathematical Sciences
+Course Number: 21-410
+Department: Mathematical Sciences
+Number of Units: 9
+Prerequisites: None
+Instructors: Evan O'Dorney, Theresa Anderson
+Rooms: WEH 8201
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-410 Research Topics in Mathematical Sciences>
+
+<start course description for 21-410 Research Topics in Mathematical Sciences>
+Semester: Spring 2024 (aka S24)
+Course Description: This course affords undergraduates to pursue elementary research topics in the area of expertise of the instructor. The prerequisites will depend on the content of the course.  (Three 50 minute lectures)
+</end course description for 21-410 Research Topics in Mathematical Sciences>

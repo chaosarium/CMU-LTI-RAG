@@ -1,0 +1,16 @@
+<start course metadata for 17-675 Software Engineering Practicum>
+Semester: Fall 2023 (aka F23)
+Course Name: Software Engineering Practicum
+Course Number: 17-675
+Department: Software & Societal Systems
+Number of Units: 36
+Prerequisites: None
+Instructors: Bradley Schmerl, Eduardo Miranda, Hasan Yasar, Jeffrey Gennari, Jim Berardone, Michael Riley, Scott Pavetti, Sujata Telang
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 17-675 Software Engineering Practicum>
+
+<start course description for 17-675 Software Engineering Practicum>
+Semester: Fall 2023 (aka F23)
+Course Description: Registration in Software Engineering Practicum is limited to MSE-SS students or those students who are invited by the faculty to register. Software Engineering Practicum provides students with a laboratory for direct application of concepts learned in core courses.
+</end course description for 17-675 Software Engineering Practicum>

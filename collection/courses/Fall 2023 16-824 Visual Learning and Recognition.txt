@@ -1,0 +1,16 @@
+<start course metadata for 16-824 Visual Learning and Recognition>
+Semester: Fall 2023 (aka F23)
+Course Name: Visual Learning and Recognition
+Course Number: 16-824
+Department: Robotics
+Number of Units: 12
+Prerequisites: 10-701 or 16-722 or 16-720 or 15-781 or 16-385
+Instructors: Jun-Yan Zhu
+Rooms: MI AUD
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 16-824 Visual Learning and Recognition>
+
+<start course description for 16-824 Visual Learning and Recognition>
+Semester: Fall 2023 (aka F23)
+Course Description: This graduate-level computer vision course focuses on representation and reasoning for large amounts of data (images, videos, associated tags, text, GPS locations, etc.) toward understanding the visual world surrounding us. We will be reading an eclectic mix of classic and recent papers on topics including Theories of Perception, Mid-level Vision (Grouping, Segmentation, Poses), Object and Scene Recognition, 3D Scene Understanding, Action Recognition, Multimodal Perception, Language and Vision Models, Deep Generative Models, Efficient Neural Networks, and more. We will cover a wide range of supervised, semi-supervised, self-supervised, and unsupervised approaches for each topic above.
+</end course description for 16-824 Visual Learning and Recognition>

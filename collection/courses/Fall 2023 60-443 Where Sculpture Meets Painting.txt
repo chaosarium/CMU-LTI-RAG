@@ -1,0 +1,16 @@
+<start course metadata for 60-443 Where Sculpture Meets Painting>
+Semester: Fall 2023 (aka F23)
+Course Name: Where Sculpture Meets Painting
+Course Number: 60-443
+Department: Art
+Number of Units: 10
+Prerequisites: None
+Instructors: Sarah Bowling
+Rooms: DH B302
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 60-443 Where Sculpture Meets Painting>
+
+<start course description for 60-443 Where Sculpture Meets Painting>
+Semester: Fall 2023 (aka F23)
+Course Description: Where Sculpture Meets Painting is a project-based studio course in sculpture that explores the convergence of three-dimensional and two-dimensional art forms. This course challenges students to think expansively about how painting and drawing impact and integrate into a sculpture practice. We will explore the possibilities of interdisciplinary art, installation, materiality, and investigate how sculptures and paintings can speak to one another. This course delves into various techniques on transforming sculptural materials with paint and pushing the boundaries of what is considered painting versus sculpture. Embracing a more painterly approach to object-making, students will investigate how color, spatial understandings, and fabrication techniques can blur the lines between mediums and discover innovative ways to frame paintings and objects in space. Throughout this course, students are encouraged to pursue their individual research. Students will have access to our physical and digital fabrication shops including a wood shop, metal shop, soft sculpture lab, CNC, laser cutters, and 3D printers. Prior experience in sculpture foundations classes is expected, but not required if students have a strong interest in expanding their practice.
+</end course description for 60-443 Where Sculpture Meets Painting>

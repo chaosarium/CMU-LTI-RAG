@@ -1,0 +1,16 @@
+<start course metadata for 45-992 German Study Abroad Capstone>
+Semester: Spring 2024 (aka S24)
+Course Name: German Study Abroad Capstone
+Course Number: 45-992
+Department: Business Administration
+Number of Units: 12
+Prerequisites: None
+Instructors: Wendy Hermann
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-992 German Study Abroad Capstone>
+
+<start course description for 45-992 German Study Abroad Capstone>
+Semester: Spring 2024 (aka S24)
+Course Description: Capstone
+</end course description for 45-992 German Study Abroad Capstone>

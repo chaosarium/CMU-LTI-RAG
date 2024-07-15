@@ -1,0 +1,16 @@
+<start course metadata for 80-715 Seminar on Homotopy Type Theory>
+Semester: Fall 2023 (aka F23)
+Course Name: Seminar on Homotopy Type Theory
+Course Number: 80-715
+Department: Philosophy
+Number of Units: 12
+Prerequisites: None
+Instructors: Steve Awodey
+Rooms: BH 150
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 80-715 Seminar on Homotopy Type Theory>
+
+<start course description for 80-715 Seminar on Homotopy Type Theory>
+Semester: Fall 2023 (aka F23)
+Course Description: Research seminar in homotopy type theory
+</end course description for 80-715 Seminar on Homotopy Type Theory>

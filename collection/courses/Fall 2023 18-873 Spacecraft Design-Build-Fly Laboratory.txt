@@ -1,0 +1,16 @@
+<start course metadata for 18-873 Spacecraft Design-Build-Fly Laboratory>
+Semester: Fall 2023 (aka F23)
+Course Name: Spacecraft Design-Build-Fly Laboratory
+Course Number: 18-873
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Brandon Lucia, Zachary Manchester
+Rooms: NSH 1305
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-873 Spacecraft Design-Build-Fly Laboratory>
+
+<start course description for 18-873 Spacecraft Design-Build-Fly Laboratory>
+Semester: Fall 2023 (aka F23)
+Course Description: Spacecraft design is a truly interdisciplinary subject that draws from every branch of engineering. This course integrates broad skillsets from mechanical engineering, electrical and computer engineering, computer science, and robotics toward the goal of designing, building, testing, and flying a small spacecraft over the course of two semesters. Students will engage directly in all aspects of the spacecraft mission lifecycle from initial requirements definition through mission operations. YES, WE ARE REALLY GOING TO LAUNCH A SATELLITE INTO SPACE AS PART OF THIS COURSE. Students will work in subsystem teams, each focusing on some aspect of the spacecraft, but will be exposed to many different disciplines and challenges. Practical, hands-on, engineering skills will be emphasized, along with building and testing physical hardware and flight software.
+</end course description for 18-873 Spacecraft Design-Build-Fly Laboratory>

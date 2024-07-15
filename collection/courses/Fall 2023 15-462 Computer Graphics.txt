@@ -1,0 +1,16 @@
+<start course metadata for 15-462 Computer Graphics>
+Semester: Fall 2023 (aka F23)
+Course Name: Computer Graphics
+Course Number: 15-462
+Department: Computer Science
+Number of Units: 12
+Prerequisites: (15-213 and 21-240 and 21-259) or (15-213 and 21-241 and 21-259) or (18-202 and 18-213)
+Instructors: Nancy Pollard, Oscar Dadfar
+Rooms: BH A51
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-462 Computer Graphics>
+
+<start course description for 15-462 Computer Graphics>
+Semester: Fall 2023 (aka F23)
+Course Description: This course provides a comprehensive introduction to computer graphics modeling, animation, and rendering. Topics covered include basic image processing, geometric transformations, geometric modeling of curves and surfaces, animation, 3-D viewing, visibility algorithms, shading, and ray tracing.
+</end course description for 15-462 Computer Graphics>

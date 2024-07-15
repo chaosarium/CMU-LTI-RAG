@@ -1,0 +1,16 @@
+<start course metadata for 54-872 Scenic Design Skills: 2D Drawing and Rendering>
+Semester: Spring 2024 (aka S24)
+Course Name: Scenic Design Skills: 2D Drawing and Rendering
+Course Number: 54-872
+Department: Drama
+Number of Units: 4
+Prerequisites: None
+Instructors: Chelsea Warren
+Rooms: PCA 307
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-872 Scenic Design Skills: 2D Drawing and Rendering>
+
+<start course description for 54-872 Scenic Design Skills: 2D Drawing and Rendering>
+Semester: Spring 2024 (aka S24)
+Course Description: This mini offers practice in two-dimensional drawing and rendering for the theatre.
+</end course description for 54-872 Scenic Design Skills: 2D Drawing and Rendering>

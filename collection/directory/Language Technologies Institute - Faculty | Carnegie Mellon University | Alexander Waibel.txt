@@ -1,0 +1,6 @@
+Name: Alexander Waibel
+Title: Professor
+Email waibel@cs.cmu.edu
+Phone: 412-268-7676
+Office: 205 407 South Craig Street
+Interests: Spoken Language Translation, Machine Translation, Speech Processing, Neural Networks, Machine Learning, Multimodal Interaction, Dialog Processing

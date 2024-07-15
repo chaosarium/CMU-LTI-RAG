@@ -1,0 +1,16 @@
+<start course metadata for 03-221 Genomes, Evolution, and Disease: Introduction to Quantitative Genetic Analysis>
+Semester: Spring 2024 (aka S24)
+Course Name: Genomes, Evolution, and Disease: Introduction to Quantitative Genetic Analysis
+Course Number: 03-221
+Department: Biological Sciences
+Number of Units: 9
+Prerequisites: (03-151 or 03-121) and (36-247 or 36-201 or 36-218 or 15-259 or 15-359 or 36-200 or 36-217 or 21-124 or 36-225)
+Instructors: Stephanie Wong-Noonan, Zheng Kuang
+Rooms: GHC 4307
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 03-221 Genomes, Evolution, and Disease: Introduction to Quantitative Genetic Analysis>
+
+<start course description for 03-221 Genomes, Evolution, and Disease: Introduction to Quantitative Genetic Analysis>
+Semester: Spring 2024 (aka S24)
+Course Description: Scientific and technical advances in genetics have accelerated dramatically since the draft human genome sequence was published in 2001. The development of massively parallel DNA sequencing and associated technologies has transformed the way we approach genetic questions. Contemporary genetics is increasingly concerned with generating, processing and analyzing vast amounts of data to extract information about genetic variation, expression, interactions and associations. At the same time, comparative genomics, bioinformatic and reverse genetic methods are transforming the way in which gene functions are investigated, while the development of powerful methods for precise modification of genomes is opening the way to cell- and gene-based therapies for disease. In parallel, the promise of precision or personalized medicine is predicated on advances in understanding of complex traits, genetic interactions and networks. These and other topics will be covered following a review of basic principles of gene structure and expression, the fundamental principles of Mendelian genetics, and their underpinnings in cellular mechanisms for the replication, recombination and transmission of genetic material. Although the topics overlap extensively with 03220 (Genetics), they will be presented at a more advanced level, with a greater emphasis on current methods of quantitative and statistical analysis. This course is recommended for students with a particular interest in emerging technologies for analysis of human genetics, genomics, gene therapy and precision medicine.
+</end course description for 03-221 Genomes, Evolution, and Disease: Introduction to Quantitative Genetic Analysis>

@@ -1,0 +1,16 @@
+<start course metadata for 16-633 Special Topic: Robot Cognition and Learning>
+Semester: Spring 2024 (aka S24)
+Course Name: Special Topic: Robot Cognition and Learning
+Course Number: 16-633
+Department: Robotics
+Number of Units: 12
+Prerequisites: None
+Instructors: Christopher Atkeson
+Rooms: WEH 2302
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 16-633 Special Topic: Robot Cognition and Learning>
+
+<start course description for 16-633 Special Topic: Robot Cognition and Learning>
+Semester: Spring 2024 (aka S24)
+Course Description: This is open to both Grad and Undergrad students.  This project class focuses on developing cognitive and learning systems for robots. Students will become familiar with and use state of the art software tools to build prototype systems, as well as how to evaluate these systems. The course project will involve implementing a cognitive/learning system on a real robot. For undergraduates, this course is an elective for the Robotics Major.
+</end course description for 16-633 Special Topic: Robot Cognition and Learning>

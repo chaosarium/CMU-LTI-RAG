@@ -1,0 +1,16 @@
+<start course metadata for 53-671 Game Design, Prototyping and Production>
+Semester: Spring 2024 (aka S24)
+Course Name: Game Design, Prototyping and Production
+Course Number: 53-671
+Department: Entertainment Technology
+Number of Units: 15
+Prerequisites: None
+Instructors: Thomas Corbett
+Rooms: HL 106B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 53-671 Game Design, Prototyping and Production>
+
+<start course description for 53-671 Game Design, Prototyping and Production>
+Semester: Spring 2024 (aka S24)
+Course Description: Learn to develop video games in a collaborative environment. This course will cover fundamental principles of the design and mechanics of games, rapid prototyping, iterative design processes, and project management. The class will examine business aspects of the industry that impact the design of games, including demographics, economic models, budgets, and marketing. Course work is performed in collaborative, cross-disciplinary teams as students form their own "game studios" to tackle design challenges and create games of their own. These teams will engage in hands-on development and will have roles for artists, programmers, designers, producers and more. Students from all disciplines are encouraged to join.[Undergraduate students, please register for 53471]
+</end course description for 53-671 Game Design, Prototyping and Production>

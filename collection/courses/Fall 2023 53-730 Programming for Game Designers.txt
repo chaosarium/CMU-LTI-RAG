@@ -1,0 +1,16 @@
+<start course metadata for 53-730 Programming for Game Designers>
+Semester: Fall 2023 (aka F23)
+Course Name: Programming for Game Designers
+Course Number: 53-730
+Department: Entertainment Technology
+Number of Units: 12
+Prerequisites: None
+Instructors: Philip Light
+Rooms: PTC 5208
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 53-730 Programming for Game Designers>
+
+<start course description for 53-730 Programming for Game Designers>
+Semester: Fall 2023 (aka F23)
+Course Description: Game design sits at the crossroads of many different disciplines--programming, art, writing, design, engineering, psychology, and more. This course takes a practical approach to programming and how it can be used to make one a better game designer. Through individual & collaborative projects, students will learn programming tools, techniques for working with data, methods of working with teams, and prototyping strategies. This course is geared toward non-programmers looking to add programming to their game design toolset.
+</end course description for 53-730 Programming for Game Designers>

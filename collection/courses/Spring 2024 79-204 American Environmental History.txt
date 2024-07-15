@@ -1,0 +1,16 @@
+<start course metadata for 79-204 American Environmental History>
+Semester: Spring 2024 (aka S24)
+Course Name: American Environmental History
+Course Number: 79-204
+Department: History
+Number of Units: 9
+Prerequisites: None
+Instructors: Edmund Russell
+Rooms: PH A18A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 79-204 American Environmental History>
+
+<start course description for 79-204 American Environmental History>
+Semester: Spring 2024 (aka S24)
+Course Description: This course examines how people in North America have interacted with their surroundings from the end of the last ice age to the present.  This course fulfills Dietrich College's "Contextual Thinking" general education requirement.
+</end course description for 79-204 American Environmental History>

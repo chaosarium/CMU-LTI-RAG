@@ -1,0 +1,16 @@
+<start course metadata for 85-102 Introduction to Psychology>
+Semester: Spring 2024 (aka S24)
+Course Name: Introduction to Psychology
+Course Number: 85-102
+Department: Psychology
+Number of Units: 9
+Prerequisites: None
+Instructors: Daniel Ames
+Rooms: SH 105
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 85-102 Introduction to Psychology>
+
+<start course description for 85-102 Introduction to Psychology>
+Semester: Spring 2024 (aka S24)
+Course Description: This course examines major areas of scientific psychology in some depth, the attempt being to develop basic models of our behavior and thought that explain wide areas of our functioning. The primary focus is on the areas of neural and motivational control of behavior, memory and thought, social interaction, and psychological development. Specific topics within these areas include brain function, motivational control systems, learning, cognitive and perceptual information processing, problem solving, obedience and conformity, social interaction, emotion, attitude consistency and change, how our social, cognitive and language functions develop, the importance of childhood to adult functioning, and psychopathology. In addition to the lecture, the course includes a weekly recitation section meeting and weekly short WEB-based laboratory experiences in which students get to perform actual experiments, interpret real data, and experience many psychological phenomena.
+</end course description for 85-102 Introduction to Psychology>

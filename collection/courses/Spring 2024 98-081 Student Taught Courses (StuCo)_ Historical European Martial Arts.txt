@@ -1,0 +1,16 @@
+<start course metadata for 98-081 Student Taught Courses (StuCo): Historical European Martial Arts>
+Semester: Spring 2024 (aka S24)
+Course Name: Student Taught Courses (StuCo): Historical European Martial Arts
+Course Number: 98-081
+Department: StuCo (Student Led Courses)
+Number of Units: 3
+Prerequisites: None
+Instructors: Jacob Nelson, Lauren Loria-Sklar
+Rooms: CUC ACTVY
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 98-081 Student Taught Courses (StuCo): Historical European Martial Arts>
+
+<start course description for 98-081 Student Taught Courses (StuCo): Historical European Martial Arts>
+Semester: Spring 2024 (aka S24)
+Course Description: Are you interested in swordplay? Historical European Martial Arts will introduce you to the history of European swordsmanship and give you hands-on practice in the art of historical fencing. From this course, you will learn the fundamental techniques of various weapons from the European tradition and delve into the historical manuals written by masters of old.
+</end course description for 98-081 Student Taught Courses (StuCo): Historical European Martial Arts>

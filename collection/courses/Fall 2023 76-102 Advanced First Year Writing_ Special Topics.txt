@@ -1,0 +1,16 @@
+<start course metadata for 76-102 Advanced First Year Writing: Special Topics>
+Semester: Fall 2023 (aka F23)
+Course Name: Advanced First Year Writing: Special Topics
+Course Number: 76-102
+Department: English
+Number of Units: 9
+Prerequisites: None
+Instructors: Peter Mayshle
+Rooms: BH 255B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 76-102 Advanced First Year Writing: Special Topics>
+
+<start course description for 76-102 Advanced First Year Writing: Special Topics>
+Semester: Fall 2023 (aka F23)
+Course Description: 76-102, Advanced First-Year Writing courses are designed for students who have demonstrated an understanding of academic writing that most incoming freshmen have not. Because of the students' level of preparedness, the First-Year Writing Program provides intensive, advanced courses for students to work closely with senior faculty within the English department. Advanced courses assume that students have established strong reading and synthesizing skills, as well as a demonstrated interest in writing and communication, prior to entering Carnegie Mellon. The course topics shift each semester. Students enroll through special invitation. Class size for 76102 is capped at 19 and there are no prerequisites for the course. Advisors will be notified if their students qualify for the advanced writing courses.
+</end course description for 76-102 Advanced First Year Writing: Special Topics>

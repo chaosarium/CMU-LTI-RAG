@@ -1,0 +1,16 @@
+<start course metadata for 18-447 Introduction to Computer Architecture>
+Semester: Spring 2024 (aka S24)
+Course Name: Introduction to Computer Architecture
+Course Number: 18-447
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: (18-240) and (18-213 or 15-213) and (18-349 or 18-320 or 18-340 or 18-330 or 18-341 or 18-344)
+Instructors: James Hoe
+Rooms: HH B131
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-447 Introduction to Computer Architecture>
+
+<start course description for 18-447 Introduction to Computer Architecture>
+Semester: Spring 2024 (aka S24)
+Course Description: Computer architecture is the science and art of selecting and interconnecting hardware components to create a computer that meets functional, performance and cost goals. This course introduces the basic hardware structure of a modern programmable computer, including the basic laws underlying performance evaluation. We will learn, for example, how to design the control and data path hardware for a MIPS-like processor, how to make machine instructions execute simultaneously through pipelining and simple superscalar execution, and how to design fast memory and storage systems. The principles presented in the lecture are reinforced in the laboratory through the design and simulation of a register transfer (RT) implementation of a MIPS-like pipelined superscalar in Verilog. Learning to design programmable systems requires that you already have the knowledge of building RT systems, the knowledge of the behavior storage hierarchies (e.g., cache memories) and virtual memory, and the knowledge of assembly language programming.
+</end course description for 18-447 Introduction to Computer Architecture>

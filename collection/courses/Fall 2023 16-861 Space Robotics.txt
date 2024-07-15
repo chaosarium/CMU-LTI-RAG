@@ -1,0 +1,16 @@
+<start course metadata for 16-861 Space Robotics>
+Semester: Fall 2023 (aka F23)
+Course Name: Space Robotics
+Course Number: 16-861
+Department: Robotics
+Number of Units: 12
+Prerequisites: None
+Instructors: Heather Jones, William Red Whittaker
+Rooms: NSH 1305
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 16-861 Space Robotics>
+
+<start course description for 16-861 Space Robotics>
+Semester: Fall 2023 (aka F23)
+Course Description: Planetary rovers to date have been huge, slow, isotope-heated, and directed by human operators.   This course pursues technologies for a class of small, fast, solar, autonomous rovers for revolutionizing planetary exploration. Beyond engaging with the technologies and methodologies for such capability, students will develop a rover that will fly on a near-term moon mission.  The course covers development of planetary robot mobility, mechanics, electronics, navigation, energetics, sensing, computing, software, thermal management, communications, and operator interaction. Additionally, space systems considerations address challenges of low mass, space environment, reliability, testing and evaluation. The course is appropriate for a broad range of student disciplines and interests.  Lectures convey topical content.  Course Learning Objectives include formulation, problem solving, and implementation of robotic space systems. Students work in teams with guidance to master topical content and generate mission-relevant contributions.  Students master the technologies, distinctions and challenges of developing a new class of planetary exploration rovers.
+</end course description for 16-861 Space Robotics>

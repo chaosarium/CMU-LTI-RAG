@@ -1,0 +1,16 @@
+<start course metadata for 46-800 Research Practicum>
+Semester: Fall 2023 (aka F23)
+Course Name: Research Practicum
+Course Number: 46-800
+Department: Business Administration
+Number of Units: 0
+Prerequisites: None
+Instructors: Instructor TBA
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 46-800 Research Practicum>
+
+<start course description for 46-800 Research Practicum>
+Semester: Fall 2023 (aka F23)
+Course Description: TBA
+</end course description for 46-800 Research Practicum>

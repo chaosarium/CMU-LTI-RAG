@@ -1,0 +1,16 @@
+<start course metadata for 57-980 Seminar in Music Education>
+Semester: Spring 2024 (aka S24)
+Course Name: Seminar in Music Education
+Course Number: 57-980
+Department: Music
+Number of Units: 9
+Prerequisites: None
+Instructors: Susan Raponi
+Rooms: HOA 224
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-980 Seminar in Music Education>
+
+<start course description for 57-980 Seminar in Music Education>
+Semester: Spring 2024 (aka S24)
+Course Description: This is a required core course for the MM degree in Music Education. Students identify and discuss current trends and issues in music education. From these topics, students, together with the professor, select one to pursue in depth. Depending on the topic, school observations, research, or teaching experiences lead to the completion of a project, usually a paper.
+</end course description for 57-980 Seminar in Music Education>

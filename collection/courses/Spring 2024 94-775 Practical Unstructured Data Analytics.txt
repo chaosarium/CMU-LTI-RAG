@@ -1,0 +1,16 @@
+<start course metadata for 94-775 Practical Unstructured Data Analytics>
+Semester: Spring 2024 (aka S24)
+Course Name: Practical Unstructured Data Analytics
+Course Number: 94-775
+Department: Heinz College Wide Courses
+Number of Units: 6
+Prerequisites: (90-819 or 95-888) and (95-791 or 90-803)
+Instructors: Woody Zhu
+Rooms: HBH 1204
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 94-775 Practical Unstructured Data Analytics>
+
+<start course description for 94-775 Practical Unstructured Data Analytics>
+Semester: Spring 2024 (aka S24)
+Course Description: Companies, governments, and other organizations now collect massive amounts of data such as text, images, audio, and video. How do we turn this heterogeneous mess of data into actionable insights? A common problem is that we often do not know what structure underlies the data ahead of time, hence the data often being referred to as "unstructured". This course takes a practical approach to unstructured data analysis via a two-step approach:      We first examine how to identify possible structure present in the data via visualization and other exploratory methods.     Once we have clues for what structure is present in the data, we turn toward exploiting this structure to make predictions.  Many examples are given for how these methods help solve real problems faced by organizations. There is a final project in this course which must address a policy question.  How this course differs from 95-865 "Unstructured Data Analysis": 95-865 emphasizes more of the technical skill development (assessed through two in-class exams involving coding), and does not have any sort of policy focus. 94-775 has a policy-focused final project instead of a final exam. 94-775 does not require cloud computing (part of 95-865 requires the use of Amazon Web Services). Despite these differences, there is heavy material overlap between 94-775 and 95-865. You cannot get credit for both 94-775 and 95-865.
+</end course description for 94-775 Practical Unstructured Data Analytics>

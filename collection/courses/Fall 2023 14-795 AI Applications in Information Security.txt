@@ -1,0 +1,16 @@
+<start course metadata for 14-795 AI Applications in Information Security>
+Semester: Fall 2023 (aka F23)
+Course Name: AI Applications in Information Security
+Course Number: 14-795
+Department: Information Networking Institute
+Number of Units: 12
+Prerequisites: 14-757 or 10-601 or 24-787 or 18-661
+Instructors: David Varodayan
+Rooms: B23 118; CIC 1201
+Locations: Pittsburgh, Pennsylvania; San Jose, California
+</end course metadata for 14-795 AI Applications in Information Security>
+
+<start course description for 14-795 AI Applications in Information Security>
+Semester: Fall 2023 (aka F23)
+Course Description: Information security attacks can generate vast amounts of data in the form of files, logs, network packets, and more. In this course students will learn how AI systems leverage data to detect and attribute threats such as spam, malware, botnets and network intrusion. The course will examine each of the following stages in an AI workflow in the context of information security applications: data preparation and visualization; feature extraction and selection; model selection, training, tuning and evaluation. The course will also discuss issues of AI explainability and adversarial attacks against AI. Grading will be based on Python programming assignments and an implementation/analysis project.
+</end course description for 14-795 AI Applications in Information Security>

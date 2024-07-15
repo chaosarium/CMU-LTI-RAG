@@ -1,0 +1,16 @@
+<start course metadata for 12-201 Geology>
+Semester: Spring 2024 (aka S24)
+Course Name: Geology
+Course Number: 12-201
+Department: Civil & Environmental Engineering
+Number of Units: 9
+Prerequisites: None
+Instructors: Kelvin Gregory
+Rooms: POS 151
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 12-201 Geology>
+
+<start course description for 12-201 Geology>
+Semester: Spring 2024 (aka S24)
+Course Description: Introduction to physical geology; common rocks and rock-forming minerals and their chemical compositions/structure, physical properties, origins, and uses; geologic processes: surface and ground-water flow, volcanism, mountain-building, tectonics, glaciation, sedimentation, seismicity, and atmospheric and oceanic circulation.
+</end course description for 12-201 Geology>

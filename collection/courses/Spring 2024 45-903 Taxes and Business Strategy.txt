@@ -1,0 +1,16 @@
+<start course metadata for 45-903 Taxes and Business Strategy>
+Semester: Spring 2024 (aka S24)
+Course Name: Taxes and Business Strategy
+Course Number: 45-903
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Max Risch
+Rooms: TEP 2111
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-903 Taxes and Business Strategy>
+
+<start course description for 45-903 Taxes and Business Strategy>
+Semester: Spring 2024 (aka S24)
+Course Description: The goal of this course is to build a microeconomic and corporate finance-based framework to incorporate taxes into business decision making. We will also discuss the accounting rules for financial reporting of taxes in the financial statements and how we can use these disclosures to learn about and assess a company¿s tax strategy. In this course, we will develop both general principles for thinking about taxes, which are applicable to any institutional setting, as well as study many specific contemporary tax planning examples, such as corporate inversions and the ¿Double Irish Dutch Sandwich¿.
+</end course description for 45-903 Taxes and Business Strategy>

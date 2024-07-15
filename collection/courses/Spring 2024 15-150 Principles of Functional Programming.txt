@@ -1,0 +1,16 @@
+<start course metadata for 15-150 Principles of Functional Programming>
+Semester: Spring 2024 (aka S24)
+Course Name: Principles of Functional Programming
+Course Number: 15-150
+Department: Computer Science
+Number of Units: 12
+Prerequisites: (15-151 or 21-127 or 21-128) and (15-112)
+Instructors: Michael Erdmann, Zeliha Dilsun Kaynar
+Rooms: DH 2210; DH 2315
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-150 Principles of Functional Programming>
+
+<start course description for 15-150 Principles of Functional Programming>
+Semester: Spring 2024 (aka S24)
+Course Description: An introduction to programming based on a "functional" model of computation.  The functional model is a natural generalization of algebra in which programs are formulas that describe the output of a computation in terms of its inputs---that is, as a function.  But instead of being confined to real- or complex-valued functions, the functional model extends the algebraic view to a very rich class of data types, including not only aggregates built up from other types, but also functions themselves as values.  This course is an introduction to programming that is focused on the central concepts of function and type.  One major theme is the interplay between inductive types, which are built up incrementally; recursive functions, which compute over inductive types by decomposition; and proof by structural induction, which is used to prove the correctness and time complexity of a recursive function.  Another major theme is the role of types in structuring large programs into separate modules, and the integration of imperative programming through the introduction of data types whose values may be altered during computation.    NOTE: students must achieve a C or better in order to use   this course to satisfy the pre-requisite for any subsequent Computer   Science course.
+</end course description for 15-150 Principles of Functional Programming>

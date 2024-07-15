@@ -1,0 +1,16 @@
+<start course metadata for 18-090 Twisted Signals: Multimedia Processing for the Arts>
+Semester: Spring 2024 (aka S24)
+Course Name: Twisted Signals: Multimedia Processing for the Arts
+Course Number: 18-090
+Department: Electrical & Computer Engineering
+Number of Units: 10
+Prerequisites: None
+Instructors: Jesse Stiles
+Rooms: PH A18A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-090 Twisted Signals: Multimedia Processing for the Arts>
+
+<start course description for 18-090 Twisted Signals: Multimedia Processing for the Arts>
+Semester: Spring 2024 (aka S24)
+Course Description: [IDeATe portal course] - This course presents an overview on manipulating and synthesizing sound, video, and control signals.  Signals are the raw materials used in many forms of electronic art and design - electronic music, interactive art, video art, kinetic sculpture, and more. In these fields, signals are used to represent information about sound, images, sensors, and movement. By transforming and manipulating these types of signals, we are able to create powerful new tools for digital art, multimedia applications, music, responsive environments, video and sound installation, smart products, and beyond.  In this course we will study Signal Processing from a practical point-of-view, developing tools that can be easily integrated into art-making using the graphical programming environment Max (a.k.a. Max/MSP/Jitter).  We will present a survey of Signal Processing techniques used in the sonic and visual arts, and will discuss the mathematical theories underlying these techniques.  Students will be encouraged to combine, modify, and extend working examples of software to create original digital artworks.
+</end course description for 18-090 Twisted Signals: Multimedia Processing for the Arts>

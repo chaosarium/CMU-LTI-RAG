@@ -1,0 +1,16 @@
+<start course metadata for 15-689 Independent Study in the Computer Sciences>
+Semester: Spring 2024 (aka S24)
+Course Name: Independent Study in the Computer Sciences
+Course Number: 15-689
+Department: Computer Science
+Number of Units: N/A
+Prerequisites: None
+Instructors: David Eckhardt, David O'Hallaron
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-689 Independent Study in the Computer Sciences>
+
+<start course description for 15-689 Independent Study in the Computer Sciences>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is for Computer Science master's students carrying out research supervised by a faculty member. Students will be automatically wait-listed pending program approval of an independent-study prospectus (contact your academic advisor for details).
+</end course description for 15-689 Independent Study in the Computer Sciences>

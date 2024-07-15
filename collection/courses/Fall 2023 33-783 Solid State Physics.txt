@@ -1,0 +1,16 @@
+<start course metadata for 33-783 Solid State Physics>
+Semester: Fall 2023 (aka F23)
+Course Name: Solid State Physics
+Course Number: 33-783
+Department: Physics
+Number of Units: 12
+Prerequisites: 33-756
+Instructors: Vladyslav Kozii
+Rooms: BH 235A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 33-783 Solid State Physics>
+
+<start course description for 33-783 Solid State Physics>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is designed to give advanced graduate students a fundamental knowledge of the microscopic properties of solids in terms of molecular and atomic theory, crystal structures, x-ray diffraction of crystals and crystal defects, lattice vibration and thermal properties of crystals; free-electron model, energy bands, electrical conduction and magnetism.
+</end course description for 33-783 Solid State Physics>

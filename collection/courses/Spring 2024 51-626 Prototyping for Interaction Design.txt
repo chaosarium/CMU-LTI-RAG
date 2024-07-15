@@ -1,0 +1,16 @@
+<start course metadata for 51-626 Prototyping for Interaction Design>
+Semester: Spring 2024 (aka S24)
+Course Name: Prototyping for Interaction Design
+Course Number: 51-626
+Department: Design
+Number of Units: 12
+Prerequisites: None
+Instructors: Andrew Twigg
+Rooms: MM 121
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-626 Prototyping for Interaction Design>
+
+<start course description for 51-626 Prototyping for Interaction Design>
+Semester: Spring 2024 (aka S24)
+Course Description: Series of lab exercises targeting basic skill building in rudimentary desktop modeling and other forms of three-dimensional making, hacking, basic mechanics and electronics, programming/coding, and prototyping. Aspects of the course function in parallel application to Studio II, but the course also works independently with its own projects and agenda.
+</end course description for 51-626 Prototyping for Interaction Design>

@@ -1,0 +1,16 @@
+<start course metadata for 11-631 Data Science Seminar>
+Semester: Fall 2023 (aka F23)
+Course Name: Data Science Seminar
+Course Number: 11-631
+Department: Language Technologies Institute
+Number of Units: 12
+Prerequisites: None
+Instructors: Emma Strubell, Maarten Sap
+Rooms: BH A36; GHC 4307
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 11-631 Data Science Seminar>
+
+<start course description for 11-631 Data Science Seminar>
+Semester: Fall 2023 (aka F23)
+Course Description: This course provides the MCDS students with a basic understanding of Data Science as an emerging scientific discipline, with interdisciplinary perspectives from computer science, business, and information policy / security. Students will read and discuss relevant publications, and attend presentations by guest speakers. Grading will be based on homework assignments related to the material covered in class sessions.  This course is for MCDS students only.
+</end course description for 11-631 Data Science Seminar>

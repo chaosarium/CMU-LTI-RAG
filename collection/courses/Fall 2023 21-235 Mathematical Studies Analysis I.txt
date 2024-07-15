@@ -1,0 +1,16 @@
+<start course metadata for 21-235 Mathematical Studies Analysis I>
+Semester: Fall 2023 (aka F23)
+Course Name: Mathematical Studies Analysis I
+Course Number: 21-235
+Department: Mathematical Sciences
+Number of Units: 12
+Prerequisites: 21-259 or 21-269 or 21-268 or 21-256
+Instructors: Ian Tice
+Rooms: WEH 8201
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-235 Mathematical Studies Analysis I>
+
+<start course description for 21-235 Mathematical Studies Analysis I>
+Semester: Fall 2023 (aka F23)
+Course Description: A component of the honors program, 21-235 is a more demanding version of 21-355 of greater scope.    Topics to be covered typically include: metric spaces, normed spaces, and inner product spaces; further properties of metric spaces such as completions, density, compactness, and connectedness; limits and continuity of maps between metric spaces, homeomorphisms, extension theorems, contraction mappings, extreme and intermediate value theorems; convergence of sequences and series of functions; metric spaces of functions, sequences, and metric subsets; Stone-Weierstrass and Arzela-Ascoli theorems; Baire category and applications; infinite series in normed spaces, convergence tests, and power series; differential calculus of maps between normed spaces, inverse and implicit function theorems in Banach spaces; existence results in ordinary differential equations.  The prerequisite sequence 21-128, 21-242, 21-269 is particularly recommended.  (Three 50 minute lectures, one 50 minute recitation)
+</end course description for 21-235 Mathematical Studies Analysis I>

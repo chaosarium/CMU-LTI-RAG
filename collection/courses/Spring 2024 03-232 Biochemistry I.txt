@@ -1,0 +1,16 @@
+<start course metadata for 03-232 Biochemistry I>
+Semester: Spring 2024 (aka S24)
+Course Name: Biochemistry I
+Course Number: 03-232
+Department: Biological Sciences
+Number of Units: 9
+Prerequisites: 09-105 or 09-107 or 06-221 or 06-223
+Instructors: Adviti Naik, Annette Vincent, Gordon Rule
+Rooms: CMB 1031; POS 151
+Locations: Doha, Qatar; Pittsburgh, Pennsylvania
+</end course metadata for 03-232 Biochemistry I>
+
+<start course description for 03-232 Biochemistry I>
+Semester: Spring 2024 (aka S24)
+Course Description: This course provides an introduction to the application of biochemistry to biotechnology. The functional properties of amino acids, nucleotides, lipids, and sugars are presented. This is followed by a discussion of the structural and thermodynamic aspects of the organization of these molecules into higher-order structures, such as proteins, nucleic acids, and membranes. The kinetics and thermodynamics of protein-ligand interactions are discussed for non-cooperative, cooperative, and allosteric binding events. The use of mechanistic and kinetic information in enzyme characterization and drug discovery are discussed. Topics pertinent to biotechnology include: antibody production and use, energy production in biochemical systems, expression of recombinant proteins, and methods of protein purification and characterization. The course is an alternate to 03-231.
+</end course description for 03-232 Biochemistry I>

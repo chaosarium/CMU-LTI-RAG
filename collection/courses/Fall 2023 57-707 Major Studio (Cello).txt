@@ -1,0 +1,16 @@
+<start course metadata for 57-707 Major Studio (Cello)>
+Semester: Fall 2023 (aka F23)
+Course Name: Major Studio (Cello)
+Course Number: 57-707
+Department: Music
+Number of Units: 9
+Prerequisites: None
+Instructors: Anne Williams, David Premo
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-707 Major Studio (Cello)>
+
+<start course description for 57-707 Major Studio (Cello)>
+Semester: Fall 2023 (aka F23)
+Course Description: A one hour private lesson per week for all music majors.
+</end course description for 57-707 Major Studio (Cello)>

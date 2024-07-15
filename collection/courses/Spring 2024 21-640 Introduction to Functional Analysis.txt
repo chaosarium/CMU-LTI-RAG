@@ -1,0 +1,16 @@
+<start course metadata for 21-640 Introduction to Functional Analysis>
+Semester: Spring 2024 (aka S24)
+Course Name: Introduction to Functional Analysis
+Course Number: 21-640
+Department: Mathematical Sciences
+Number of Units: 12
+Prerequisites: (21-651 or 21-236) and (21-720 or 21-236)
+Instructors: Tomasz Tkocz
+Rooms: WEH 8220
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-640 Introduction to Functional Analysis>
+
+<start course description for 21-640 Introduction to Functional Analysis>
+Semester: Spring 2024 (aka S24)
+Course Description: Linear spaces: Hilbert spaces, Banach spaces, topological vector spaces.  Hilbert spaces: geometry, projections, Riesz Representation Theorem, bilinear and quadratic forms, orthonormal sets and Fourier series. Banach spaces: continuity of linear mappings, Hahn-Banach Theorem, uniform boundedness, open-mapping theorem. Closed operators, closed graph theorem. Dual spaces: weak and weak-star topologies (Banach-Alaoglu Theorem), reflexivity. Space of bounded continuous functions and its dual. Linear operators and adjoints: basic properties, null spaces and ranges. Compact operators. Sequences of bounded linear operators: weak, strong and uniform convergence. Introduction to spectral theory: Notions of spectrum and resolvent set of bounded operators, spectral theory of compact operators. Time permitting: Fredholm Alternative.  Time permitting: Stone-Weierstrass Theorem.  (Three 50 minute lectures)
+</end course description for 21-640 Introduction to Functional Analysis>

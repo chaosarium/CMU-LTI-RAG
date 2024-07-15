@@ -1,0 +1,16 @@
+<start course metadata for 03-737 Biosensors>
+Semester: Spring 2024 (aka S24)
+Course Name: Biosensors
+Course Number: 03-737
+Department: Biological Sciences
+Number of Units: 6
+Prerequisites: None
+Instructors: Yongxin Zhao
+Rooms: SH 236
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 03-737 Biosensors>
+
+<start course description for 03-737 Biosensors>
+Semester: Spring 2024 (aka S24)
+Course Description: Biological systems are essentially 3D, highly-linked networks that sense, compute and respond to internal or external stimuli via widely distributed and diversified cells interacting over various timescales. To understand such complex biological systems, ideally, it would require observation of the activity of numerous populations of cells with a high degree of precision and resolution down to molecular building blocks. In this way, we can understand the functions and dynamics that are produced by the interactions between different cells as well as subcellular signaling events within individual cells. This course explores up-to-date tools that enable insight into how biological components work together to probe physiological functions, and how these interactions go awry in disease states.
+</end course description for 03-737 Biosensors>

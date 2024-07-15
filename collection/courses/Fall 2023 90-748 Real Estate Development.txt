@@ -1,0 +1,16 @@
+<start course metadata for 90-748 Real Estate Development>
+Semester: Fall 2023 (aka F23)
+Course Name: Real Estate Development
+Course Number: 90-748
+Department: Public Policy & Mgt:Sch of Pub Pol & Mgt
+Number of Units: 6
+Prerequisites: None
+Instructors: Thomas Link
+Rooms: HBH 1007
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 90-748 Real Estate Development>
+
+<start course description for 90-748 Real Estate Development>
+Semester: Fall 2023 (aka F23)
+Course Description: Critical to the economic development professional's toolkit is understanding how and why real estate is developed: what motivates private real estate development, how real estate development is financed, market drivers and the context by which private real estate developers and financiers operate, and the role of public policy and public financing in achieving desired public outcomes.  In this class, you will explore the real estate development process, the context by which real estate is developed, valuation and financing methodologies, and the role of the public in supporting private real estate development through a combination of lecture, discussion, and guest speakers.  You will have fun building your real estate toolkit.   You will meet and learn from practicing real estate development professionals (including me!) and explore real world real estate developments.  From main streets to downtown office towers, you will gain a new appreciation and insight into how the places you live, work, and play came to be. Your learning will be assessed through individual take-home assignments, a group case study, class participation, and an in-class presentation. While there are no specific prerequisites for this course, you should have basic Excel modeling skills and basic understanding of finance.
+</end course description for 90-748 Real Estate Development>

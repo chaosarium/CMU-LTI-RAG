@@ -1,0 +1,16 @@
+<start course metadata for 47-812 Econometrics II>
+Semester: Fall 2023 (aka F23)
+Course Name: Econometrics II
+Course Number: 47-812
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Robert Miller
+Rooms: TEP 5219
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 47-812 Econometrics II>
+
+<start course description for 47-812 Econometrics II>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is the second course in the core econometrics sequence of the economics PhD program. It is about estimating structural economic models. The basic question is how to use data to estimate the parameters of an economic model. We will want to establish: 1. establish the consistency of the estimators, 2. establish the asymptotic normality of the estimators, 3. the data has been used as efficiently as possible in terms of obtaining the smallest possible variance of the asymptotic distribution, and 4. test hypothesis about the parameters. We would like to use economic theory to restrict our estimation problem so that we has as much structure as possible implied by theory. Students should learn how to establish the consistency and asymptotic normality for parameters estimated from nonlinear objective functions. The students should also learn how to calculate the parameter estimates and perform inference.
+</end course description for 47-812 Econometrics II>

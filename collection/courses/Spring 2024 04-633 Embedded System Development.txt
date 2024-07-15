@@ -1,0 +1,16 @@
+<start course metadata for 04-633 Embedded System Development>
+Semester: Spring 2024 (aka S24)
+Course Name: Embedded System Development
+Course Number: 04-633
+Department: Information & Communication Technology
+Number of Units: 12
+Prerequisites: None
+Instructors: Emmanuel Ndashimye
+Rooms: CMR F307
+Locations: Kigali, Rwanda
+</end course metadata for 04-633 Embedded System Development>
+
+<start course description for 04-633 Embedded System Development>
+Semester: Spring 2024 (aka S24)
+Course Description: This hands-on course provides a basic understanding of embedded systems development, embedded processor architectures, programming, and design. It covers models of computation for embedded systems, modeling, specification, synthesis, verification, hardware/software implementation, performance analysis, and optimization. Also covered are project design methodologies and associated tools.  Students will learn using chips such as the PIC and Arduino. Students will study assembly, C programming, and Arduino programming. Students will learn how to program with the embedded architecture that is ubiquitous in smartphones, portable gaming devices, robots, etc. Through a series of laboratory exercises with state-of-the-art embedded microcontrollers, sensors, and actuators, students will acquire skills in the design and implementation of core embedded systems.
+</end course description for 04-633 Embedded System Development>

@@ -1,0 +1,16 @@
+<start course metadata for 69-143 Dodgeball>
+Semester: Spring 2024 (aka S24)
+Course Name: Dodgeball
+Course Number: 69-143
+Department: Physical Education
+Number of Units: 3
+Prerequisites: None
+Instructors: Yon Struble
+Rooms: CUC W GYM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 69-143 Dodgeball>
+
+<start course description for 69-143 Dodgeball>
+Semester: Spring 2024 (aka S24)
+Course Description: This class is designed to teach the rules of dodgeball.    The students will learn the national rules and play against classmates.
+</end course description for 69-143 Dodgeball>

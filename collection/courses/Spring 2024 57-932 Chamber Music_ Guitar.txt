@@ -1,0 +1,16 @@
+<start course metadata for 57-932 Chamber Music: Guitar>
+Semester: Spring 2024 (aka S24)
+Course Name: Chamber Music: Guitar
+Course Number: 57-932
+Department: Music
+Number of Units: 6
+Prerequisites: None
+Instructors: James Ferla, John Marcinizyn
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-932 Chamber Music: Guitar>
+
+<start course description for 57-932 Chamber Music: Guitar>
+Semester: Spring 2024 (aka S24)
+Course Description: TBA
+</end course description for 57-932 Chamber Music: Guitar>

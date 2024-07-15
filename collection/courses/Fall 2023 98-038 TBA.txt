@@ -1,0 +1,16 @@
+<start course metadata for 98-038 TBA>
+Semester: Fall 2023 (aka F23)
+Course Name: TBA
+Course Number: 98-038
+Department: StuCo (Student Led Courses)
+Number of Units: 3
+Prerequisites: None
+Instructors: Jeff Chen
+Rooms: WEH 4707
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 98-038 TBA>
+
+<start course description for 98-038 TBA>
+Semester: Fall 2023 (aka F23)
+Course Description: Anime is a limited animation style which originates from post World War II Japan, developed alongside Japanese Consumer Media into an artistic movement, and can be considered one of modern Japan's major cultural exports. Through this course, we will be exploring the history of the development of Anime and Contemporary Japan, as well as examining how these came to affect Anime and Anime Culture in the present day. This course is open to anyone with interest in Japanese Media History and Culture and does not require prior knowledge on the subject.
+</end course description for 98-038 TBA>

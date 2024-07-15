@@ -1,0 +1,16 @@
+<start course metadata for 18-991 ECE Graduate Teaching Internship>
+Semester: Fall 2023 (aka F23)
+Course Name: ECE Graduate Teaching Internship
+Course Number: 18-991
+Department: Electrical & Computer Engineering
+Number of Units: N/A
+Prerequisites: None
+Instructors: James Bain
+Rooms: DNM DNM
+Locations: Lisbon, Portugal; Pittsburgh, Pennsylvania; San Jose, California
+</end course metadata for 18-991 ECE Graduate Teaching Internship>
+
+<start course description for 18-991 ECE Graduate Teaching Internship>
+Semester: Fall 2023 (aka F23)
+Course Description: Two semesters of Teaching Internship are required for the ECE Ph.D. program. Ph.D. students or M.S. students who intend to pursue a Ph.D. are eligible for the TI. Students should obtain their advisor's permission prior to applying for the TI. Students must complete the online TA application to be considered for a position. TIs can expect to work 10-12 hours per week on average. Registration of 12 units is required for each semester of teaching. See https://www.ece.cmu.edu/insider/teaching-opportunities.html for further information about applying for a Teaching Internship position.
+</end course description for 18-991 ECE Graduate Teaching Internship>

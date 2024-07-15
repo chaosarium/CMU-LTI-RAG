@@ -1,0 +1,16 @@
+<start course metadata for 12-793 Graduate Teaching Assignment>
+Semester: Spring 2024 (aka S24)
+Course Name: Graduate Teaching Assignment
+Course Number: 12-793
+Department: Civil & Environmental Engineering
+Number of Units: 0
+Prerequisites: None
+Instructors: Burcu Akinci
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 12-793 Graduate Teaching Assignment>
+
+<start course description for 12-793 Graduate Teaching Assignment>
+Semester: Spring 2024 (aka S24)
+Course Description: Graduate students on assistantships, either from the Department or external organizations, will be required to serve as a TA once each year.  PhD students entering the graduate program with an MS degree will be required to TA a maximum of four times.  Thesis MS students will be required to serve as a TA for one course.  Thus, students who pursue both the MS and PhD degrees in the Department will be required to TA a maximum of five times.  In each semester that a student serves as a TA, the student will be registered for course 12-793 Graduate Teaching Assignment (0 uinits, letter grade).  This will provide documentation of teaching assistant experience.
+</end course description for 12-793 Graduate Teaching Assignment>

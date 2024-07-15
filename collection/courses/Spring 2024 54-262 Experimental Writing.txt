@@ -1,0 +1,16 @@
+<start course metadata for 54-262 Experimental Writing>
+Semester: Spring 2024 (aka S24)
+Course Name: Experimental Writing
+Course Number: 54-262
+Department: Drama
+Number of Units: 6
+Prerequisites: None
+Instructors: Rob Handel
+Rooms: WEH 6403
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-262 Experimental Writing>
+
+<start course description for 54-262 Experimental Writing>
+Semester: Spring 2024 (aka S24)
+Course Description: What is the shape of the story you are telling? Does it want to be a novel? A punk jazz ritual? A prayerbook? Is it taking the form of a deck of cards, a cookbook, a cassette found in a junked car? Does it speed or slow time? Is it catchy or difficult? If writing is to be useful as a tool for destruction and rebirth, must it find new forms? This writing workshop centers slow reading and beginner's mind. Sources may include Kathy Acker, Inger Christensen, Nathalie Léger, Horacio Castellanos Moya, M. NourbeSe Philip, Virginia Woolf, and Sarah Vap.
+</end course description for 54-262 Experimental Writing>

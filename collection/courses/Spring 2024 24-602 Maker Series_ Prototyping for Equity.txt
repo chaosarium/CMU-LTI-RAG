@@ -1,0 +1,16 @@
+<start course metadata for 24-602 Maker Series: Prototyping for Equity>
+Semester: Spring 2024 (aka S24)
+Course Name: Maker Series: Prototyping for Equity
+Course Number: 24-602
+Department: Mechanical Engineering
+Number of Units: N/A
+Prerequisites: None
+Instructors: Diana Haidar
+Rooms: ANS C02
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-602 Maker Series: Prototyping for Equity>
+
+<start course description for 24-602 Maker Series: Prototyping for Equity>
+Semester: Spring 2024 (aka S24)
+Course Description: This course applies prototyping techniques to develop products for underserved populations of people.  In order to fabricate components for prototypes, this course teaches the safe operation of fabrication tools, including 3D printer, laser cutter-engraver machine, and power tools.  A significant portion of the course is dedicated to applying the engineering design cycle to meet the unique needs/wants of a specific user population.  This hands-on course culminates in building a prototype that can be tested to validate its performance as the physical solution to a real-world problem. 5-6-unit mini (7-weeks)
+</end course description for 24-602 Maker Series: Prototyping for Equity>

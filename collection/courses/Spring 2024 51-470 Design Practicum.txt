@@ -1,0 +1,16 @@
+<start course metadata for 51-470 Design Practicum>
+Semester: Spring 2024 (aka S24)
+Course Name: Design Practicum
+Course Number: 51-470
+Department: Design
+Number of Units: 3
+Prerequisites: None
+Instructors: Wayne Chung
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-470 Design Practicum>
+
+<start course description for 51-470 Design Practicum>
+Semester: Spring 2024 (aka S24)
+Course Description: This course provides 3 units of pass/fail credit for students participating in a design internship.  The student must be registered for this course during the internship, in order to earn the credit.  In the summer semester, the course must be paid for as an additional course, as summer courses are not part of the normal fall/spring academic year.    At the end of the term, the student's supervisor must email the course coordinator with a brief statement describing the student's activities, and an evaluation of the student's performance.  Students are required to submit a statement, reflecting on insights gained from the internship experience. Upon receipt of both statements, the course coordinator will assign a grade of either P or N, depending on the outcome.
+</end course description for 51-470 Design Practicum>

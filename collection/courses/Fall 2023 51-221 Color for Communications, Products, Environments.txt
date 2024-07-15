@@ -1,0 +1,16 @@
+<start course metadata for 51-221 Color for Communications, Products, Environments>
+Semester: Fall 2023 (aka F23)
+Course Name: Color for Communications, Products, Environments
+Course Number: 51-221
+Department: Design
+Number of Units: 9
+Prerequisites: 51-122
+Instructors: Mark Mentzer
+Rooms: MM A11
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-221 Color for Communications, Products, Environments>
+
+<start course description for 51-221 Color for Communications, Products, Environments>
+Semester: Fall 2023 (aka F23)
+Course Description: This course will explore the fundamentals of color through the implementation of various media as they apply to their use in communication and expression in design. While this course does not deal with color theory per se we will spend time on the causes and effects of color interaction, color contrasts, color harmonies and color strategies for the effective use of color in our visual design work. We will use both nature and man made constructs to discuss how color affects what we see and its effect on our visual world. Short exercises and longer- term projects will be the vehicles of our explorations. This course is for Sophomore Design Majors.
+</end course description for 51-221 Color for Communications, Products, Environments>

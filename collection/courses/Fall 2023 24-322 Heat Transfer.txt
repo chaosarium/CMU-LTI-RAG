@@ -1,0 +1,16 @@
+<start course metadata for 24-322 Heat Transfer>
+Semester: Fall 2023 (aka F23)
+Course Name: Heat Transfer
+Course Number: 24-322
+Department: Mechanical Engineering
+Number of Units: 10
+Prerequisites: 21-260 and 24-231 and 24-221
+Instructors: Sheng Shen
+Rooms: WEH 7500
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-322 Heat Transfer>
+
+<start course description for 24-322 Heat Transfer>
+Semester: Fall 2023 (aka F23)
+Course Description: Introduction to basic concepts of engineering heat transfer. Steady and transient heat conduction in solids, including the effect of heat generation. Finned surfaces. Correlation formulas for forced and free convection, condensation, and boiling. Design and analysis of heat exchangers. Radiation heat transfer. Problems in combined convection and radiation. Measurement techniques.  3 hrs. lec., 1 hr. recitation.
+</end course description for 24-322 Heat Transfer>

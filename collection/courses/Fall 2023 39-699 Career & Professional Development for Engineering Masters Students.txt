@@ -1,0 +1,16 @@
+<start course metadata for 39-699 Career & Professional Development for Engineering Masters Students>
+Semester: Fall 2023 (aka F23)
+Course Name: Career & Professional Development for Engineering Masters Students
+Course Number: 39-699
+Department: CIT Interdisciplinary
+Number of Units: 3
+Prerequisites: None
+Instructors: Marcie Foy
+Rooms: HH B103
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 39-699 Career & Professional Development for Engineering Masters Students>
+
+<start course description for 39-699 Career & Professional Development for Engineering Masters Students>
+Semester: Fall 2023 (aka F23)
+Course Description: This professional development course is designed to engage, educate and empower engineering Masters Students to create and manage career opportunities, as well as to develop the professional skills necessary to be successful in a job search and internship/first year of employment.  Open to College of Engineering masters students, this seminar style course will support professional development in the following areas: self-assessment/awareness, resume creation, personal introduction development, job search planning, interviewing, networking, career fair success, entrepreneurship, and internship/employment readiness, etc. Assignments will be actionable and relevant to the job search, enabling students to immediately apply classroom learning.    Assignments and active classroom participation will determine pass/fail grade.
+</end course description for 39-699 Career & Professional Development for Engineering Masters Students>

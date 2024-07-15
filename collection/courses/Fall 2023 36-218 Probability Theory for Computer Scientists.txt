@@ -1,0 +1,16 @@
+<start course metadata for 36-218 Probability Theory for Computer Scientists>
+Semester: Fall 2023 (aka F23)
+Course Name: Probability Theory for Computer Scientists
+Course Number: 36-218
+Department: Statistics and Data Science
+Number of Units: 9
+Prerequisites: (21-112 and 21-111) or (21-120) or (21-256) or (21-259)
+Instructors: Christopher Genovese
+Rooms: DH 2315
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 36-218 Probability Theory for Computer Scientists>
+
+<start course description for 36-218 Probability Theory for Computer Scientists>
+Semester: Fall 2023 (aka F23)
+Course Description: Probability theory is the mathematical foundation for the study of both statistics and of random systems. This course is an intensive introduction to probability,from the foundations and mechanics to its application in statistical methods and modeling of random processes. Special topics and many examples are drawn from areas and problems that are of interest to computer scientists and that should prepare computer science students for the probabilistic and statistical ideas they encounter in downstream courses and research. A grade of C or better is required in order to use this course as a pre-requisite for 36-226, 36-326, and 36-410. If you hold a Statistics primary/additional major or minor you will be required to complete 36-226. For those who do not have a major or minor in Statistics, and receive at least a B in 36-218, you will be eligible to move directly onto 36-401.
+</end course description for 36-218 Probability Theory for Computer Scientists>

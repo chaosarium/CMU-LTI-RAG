@@ -1,0 +1,16 @@
+<start course metadata for 16-450 Robotics Systems Engineering>
+Semester: Fall 2023 (aka F23)
+Course Name: Robotics Systems Engineering
+Course Number: 16-450
+Department: Robotics
+Number of Units: 12
+Prerequisites: (16-311) and (24-451 or 18-370 or 16-299)
+Instructors: David Wettergreen
+Rooms: NSH 3002
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 16-450 Robotics Systems Engineering>
+
+<start course description for 16-450 Robotics Systems Engineering>
+Semester: Fall 2023 (aka F23)
+Course Description: Systems engineering examines methods of specifying, designing, analyzing and testing complex systems.  In this course, principles and processes of systems engineering are introduced and applied to the development of robotic devices.  The focus is on robotic system engineered to perform complex behavior. Such systems embed computing elements, integrate sensors and actuators, operate in a reliable and robust fashion, and demand rigorous engineering from conception through production. The course is organized as a progression through the systems engineering process of conceptualization, specification, design, and prototyping with consideration of verification and validation.  Students completing this course will engineer a robotic system through its compete design and initial prototype.  The project concept and teams can continue into the Spring-semester (16-474 Robotics Capstone) for system refinement, testing and demonstration.
+</end course description for 16-450 Robotics Systems Engineering>

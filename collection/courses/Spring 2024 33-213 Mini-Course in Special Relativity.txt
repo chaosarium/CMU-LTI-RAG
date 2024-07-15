@@ -1,0 +1,16 @@
+<start course metadata for 33-213 Mini-Course in Special Relativity>
+Semester: Spring 2024 (aka S24)
+Course Name: Mini-Course in Special Relativity
+Course Number: 33-213
+Department: Physics
+Number of Units: 4
+Prerequisites: 33-107 or 33-132 or 33-112 or 33-142 or 33-152 or 33-122
+Instructors: Sayan Mandal
+Rooms: DH 1112; GHC 4102
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 33-213 Mini-Course in Special Relativity>
+
+<start course description for 33-213 Mini-Course in Special Relativity>
+Semester: Spring 2024 (aka S24)
+Course Description: This course spans the first six weeks of 33-211, Physics III: Modern Essentials. It treats the Mechanics aspects of Special Relativity, including topics such as simultaneity, the Lorentz transformation, time dilation, length contraction, space-time geometry, resolving some famous puzzles, and the momentum, mass, and energy relations. The Electricity and Magnetism portions of the subject are deferred until the junior/senior courses in E&M; (33-338/33-339).
+</end course description for 33-213 Mini-Course in Special Relativity>

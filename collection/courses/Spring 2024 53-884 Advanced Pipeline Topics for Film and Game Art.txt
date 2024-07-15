@@ -1,0 +1,16 @@
+<start course metadata for 53-884 Advanced Pipeline Topics for Film and Game Art>
+Semester: Spring 2024 (aka S24)
+Course Name: Advanced Pipeline Topics for Film and Game Art
+Course Number: 53-884
+Department: Entertainment Technology
+Number of Units: 12
+Prerequisites: 53-831 or 53-531 or 60-125 or 53-881
+Instructors: Moshe Mahler
+Rooms: PTC 5208
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 53-884 Advanced Pipeline Topics for Film and Game Art>
+
+<start course description for 53-884 Advanced Pipeline Topics for Film and Game Art>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is designed to give students exposure to advanced aspects of technical art and cg art production pipelines and the craft of bringing virtual worlds to life that are both visually stunning and imbued with authenticity. Through a series of modules and group projects, students will learn how to research and teach themselves emerging computer graphics technologies relating to Digital Sculpture, Look Development, and Visual FX. Each module will feature tasks geared to both traditional pipeline artists as well as technical artists, allowing a variety of students to participate in the class. The class will emphasize the importance of research, traditional art, and storytelling as a backdrop to different tools and technologies. Group projects will be collaborative efforts across skill-sets that will be designed, pitched, and executed by multi-disciplinary teams, emulating realtime and film studio pipelines.
+</end course description for 53-884 Advanced Pipeline Topics for Film and Game Art>

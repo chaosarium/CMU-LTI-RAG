@@ -1,0 +1,16 @@
+<start course metadata for 36-497 Corporate Capstone Project>
+Semester: Fall 2023 (aka F23)
+Course Name: Corporate Capstone Project
+Course Number: 36-497
+Department: Statistics and Data Science
+Number of Units: 9
+Prerequisites: None
+Instructors: Cosma Shalizi, Eli Ben-Michael
+Rooms: WEH 5409
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 36-497 Corporate Capstone Project>
+
+<start course description for 36-497 Corporate Capstone Project>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is designed to give undergraduate students experience applying statistics data science methodology to real industry projects. Small groups of students will be matched with industry clients and do supervised projects for a semester. From an academic perspective, the course presents an opportunity for students to gain skills in approaching a research problem, critical thinking, and statistical analyses. Additionally, the course will help students develop the professional skills necessary for successfully navigating team-based project delivery roles. Client-facing and collaborative skills will be emphasized within a team setting, and students will learn leading practices for engaging stakeholders as well as gain a conceptual understanding of leading practices for project delivery. The industry clients will change and rotate each semester; available projects will be advertised prior to the first week of class. The course size is limited; students apply the previous semester and placed on the course waitlist until project matching is performed. Students with skill sets matching project needs will be given priority. We will also take into consideration whether or not a student has had a recent prior corporate capstone experience with the goal of providing experiences to a broad group of qualified students. Note that there is no guarantee a waitlisted student will be matched to a project in any given semester.
+</end course description for 36-497 Corporate Capstone Project>

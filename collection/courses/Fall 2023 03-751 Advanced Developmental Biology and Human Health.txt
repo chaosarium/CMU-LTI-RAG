@@ -1,0 +1,16 @@
+<start course metadata for 03-751 Advanced Developmental Biology and Human Health>
+Semester: Fall 2023 (aka F23)
+Course Name: Advanced Developmental Biology and Human Health
+Course Number: 03-751
+Department: Biological Sciences
+Number of Units: 12
+Prerequisites: (03-240 or 03-320) and (03-330 or 03-220)
+Instructors: Brooke Mccartney, Charles Ettensohn
+Rooms: DH 2122
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 03-751 Advanced Developmental Biology and Human Health>
+
+<start course description for 03-751 Advanced Developmental Biology and Human Health>
+Semester: Fall 2023 (aka F23)
+Course Description: None
+</end course description for 03-751 Advanced Developmental Biology and Human Health>

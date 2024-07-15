@@ -1,0 +1,16 @@
+<start course metadata for 54-195 Creative and Dramatic Writing for Engineers>
+Semester: Fall 2023 (aka F23)
+Course Name: Creative and Dramatic Writing for Engineers
+Course Number: 54-195
+Department: Drama
+Number of Units: 9
+Prerequisites: None
+Instructors: Gretchen Suarez-Pena
+Rooms: PH 125C
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-195 Creative and Dramatic Writing for Engineers>
+
+<start course description for 54-195 Creative and Dramatic Writing for Engineers>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is centered on learning dramatic structure for storytelling while cultivating a sense of creativity utilizing the written word. Throughout this course, students will translate these new skills into technical writing to relay information in a clear, effective, and compelling way.
+</end course description for 54-195 Creative and Dramatic Writing for Engineers>

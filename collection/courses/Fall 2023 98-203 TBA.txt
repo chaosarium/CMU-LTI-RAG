@@ -1,0 +1,16 @@
+<start course metadata for 98-203 TBA>
+Semester: Fall 2023 (aka F23)
+Course Name: TBA
+Course Number: 98-203
+Department: StuCo (Student Led Courses)
+Number of Units: 3
+Prerequisites: None
+Instructors: Alexander Wang
+Rooms: WEH 5302
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 98-203 TBA>
+
+<start course description for 98-203 TBA>
+Semester: Fall 2023 (aka F23)
+Course Description: In this course, students will sample a wide variety of knowledge ranging from the fields of HCI/Game design, music theory/music computing, interactive media design, and learn about how these disciplines intersect. The course will also provide an introduction to the history and development of rhythm games, audiovisual art, and experimental music practices. Instruction is a combination of lectures on various topics followed by hands-on p5.js programming exercises. Assignment will consist primarily of creative coding assignments where students with less programming background can build algorithmic thinking skills while more advanced coders will be able to apply their knowledge and build their portfolio. Collaborations are welcome on projects, especially between students from different backgrounds. Students with a background in any form of design, media arts, HCI, computer science, music, IDEATE, will be a good fit for the course. The course will be taught in p5.js, but students are free to explore other tools (e.g. Unity, Max MSP) for their projects. Students should be familiar with at least one of the following fields: design, music, programming, or be committed to spend extra time learning outside of scheduled lecture times. Coding knowledge is strongly preferred but not a requirement as we will go through programming basics in the first few weeks.
+</end course description for 98-203 TBA>

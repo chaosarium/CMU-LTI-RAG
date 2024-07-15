@@ -1,0 +1,16 @@
+<start course metadata for 48-727 Inquiry into Computational Design>
+Semester: Fall 2023 (aka F23)
+Course Name: Inquiry into Computational Design
+Course Number: 48-727
+Department: Architecture
+Number of Units: 9
+Prerequisites: None
+Instructors: Daniel Cardoso Llach
+Rooms: MM 303
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-727 Inquiry into Computational Design>
+
+<start course description for 48-727 Inquiry into Computational Design>
+Semester: Fall 2023 (aka F23)
+Course Description: This graduate-level course examines the emergence of computation as a pivotal concept in contemporary architecture and design through a selection of design theories and practices responding to the so-called "computer revolution". An aim of the course is to explore computation beyond particular technologies and tools, and to cultivate an awareness of design technologies as cultural artifacts shaping disciplinary identities and worldviews, and shifting conceptions of design, creativity, nature, body, and place. The semester is divided into two-week thematic modules, often with computational design faculty participating as guests covering topics derived from their own research. Each module includes readings and a short team-based project expanding on the topic introduced. Topics include among others shape grammars, tangible interaction, responsive environments, cybernetics, and architectural robotics. The course also introduces participants to the rudiments of academic research, in particular to the elements and structure of an effective research paper. Participants practice reading and responding to both historical documents and contemporary research related to each topic, and develop a critical understanding of a rapidly expanding landscape of hybrid practices, theories, and research methods linked to computational and interactive forms of creative practice.
+</end course description for 48-727 Inquiry into Computational Design>

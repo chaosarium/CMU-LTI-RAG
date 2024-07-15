@@ -1,0 +1,16 @@
+<start course metadata for 53-788 Introduction to Maya>
+Semester: Spring 2024 (aka S24)
+Course Name: Introduction to Maya
+Course Number: 53-788
+Department: Entertainment Technology
+Number of Units: 12
+Prerequisites: None
+Instructors: Steve Audia
+Rooms: PTC 5208
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 53-788 Introduction to Maya>
+
+<start course description for 53-788 Introduction to Maya>
+Semester: Spring 2024 (aka S24)
+Course Description: This is an introductory class for Autodesk's Maya 2023. Students will master the complex interface and tool-set of Maya.  Prior experience with 3D modeling/animation is not required.  Introduction to Maya will concentrate primarily on the proficiency of use for the application itself, and secondarily on the sharpening of personal skill sets such as modeling and animating.  There will be in-depth discussion of the basic methodologies used in all leading 3D modeling packages for a better understanding of how Maya and other 3D applications work internally.  Students will be assigned small-scope projects in modeling, animating, texturing and rigging.  Most techniques discussed will be geared towards current video game industry use.
+</end course description for 53-788 Introduction to Maya>

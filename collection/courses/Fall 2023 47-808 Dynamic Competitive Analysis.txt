@@ -1,0 +1,16 @@
+<start course metadata for 47-808 Dynamic Competitive Analysis>
+Semester: Fall 2023 (aka F23)
+Course Name: Dynamic Competitive Analysis
+Course Number: 47-808
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Stephen Spear
+Rooms: TEP 4219
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 47-808 Dynamic Competitive Analysis>
+
+<start course description for 47-808 Dynamic Competitive Analysis>
+Semester: Fall 2023 (aka F23)
+Course Description: This course will focus on the overlapping generations (OLG) model.  Together with the neoclassical growth model (aka the Ramsey-Cass-Koopmans model), the OLG is one of the workhorse models used in macroeconomic theory.  Since the student will have been introduced to the RCK model in detail in the first two macro classes, we will assume a working familiarity with this model and, as noted, focus primarily on the OLG model here.
+</end course description for 47-808 Dynamic Competitive Analysis>

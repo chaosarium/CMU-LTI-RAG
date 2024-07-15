@@ -1,0 +1,16 @@
+<start course metadata for 47-851 Modern Convex Optimization>
+Semester: Fall 2023 (aka F23)
+Course Name: Modern Convex Optimization
+Course Number: 47-851
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Fatma Kilinc-Karzan
+Rooms: TEP 4219
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 47-851 Modern Convex Optimization>
+
+<start course description for 47-851 Modern Convex Optimization>
+Semester: Fall 2023 (aka F23)
+Course Description: This course will cover the main foundations of convex optimization.  The  goal is to develop solid command of the foundational blocks of this discipline at the highest possible level.  The course topics will include a thorough treatment of duality, optimality conditions,  conic optimization, and general algorithmic templates for first-order, second- and higher-order algorithms.
+</end course description for 47-851 Modern Convex Optimization>

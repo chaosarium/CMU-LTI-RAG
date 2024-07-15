@@ -1,0 +1,16 @@
+<start course metadata for 21-108 Introduction to Mathematical Concepts>
+Semester: Spring 2024 (aka S24)
+Course Name: Introduction to Mathematical Concepts
+Course Number: 21-108
+Department: Mathematical Sciences
+Number of Units: 6
+Prerequisites: None
+Instructors: Gheorghiciuc
+Rooms: BH A53
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-108 Introduction to Mathematical Concepts>
+
+<start course description for 21-108 Introduction to Mathematical Concepts>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is an introduction to the vocabulary necessary for understanding and proving mathematical statements.  The topics in this course include integers, rational numbers, polynomials, divisibility of numbers and polynomials, basic logic, sets, relations, functions, rule of sum, and rule of product.  (Three 50 minute lectures, two 50 minute recitations)
+</end course description for 21-108 Introduction to Mathematical Concepts>

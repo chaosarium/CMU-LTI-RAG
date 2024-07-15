@@ -1,0 +1,16 @@
+<start course metadata for 98-061 TBA>
+Semester: Fall 2023 (aka F23)
+Course Name: TBA
+Course Number: 98-061
+Department: StuCo (Student Led Courses)
+Number of Units: 3
+Prerequisites: None
+Instructors: Pranav Addepalli
+Rooms: PH A18A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 98-061 TBA>
+
+<start course description for 98-061 TBA>
+Semester: Fall 2023 (aka F23)
+Course Description: Good design is invisible. Beautifully designed things are often subtle, minimal, working in the background. It is bad design that usually hits you in the face, that stands out and can be uncomfortable. This course will uncover the hidden good designs in the products, services, and UIs we work with daily.   We will explore the principles and best practices of modern product, service, and UI design through the examination of real-world examples. Each week, we will explore a different example of good design and analyze the elements that make it successful. We will look at the latest trends and techniques in the industry, and learn how to apply them to your own projects. Throughout the course, we will examine the user experience and consider how design decisions affect the user's perception and engagement. We will also learn how to use data to inform design decisions. The class will be a mix of lectures, discussions, and activities. We will also have guest lecturers (Designers, PMs, etc.) to discuss industry experience and throughout the course! By the end of the course, students will have a deeper understanding of how to design user-friendly and visually appealing products and services. There are no prerequisites for the class: interest is more than enough!
+</end course description for 98-061 TBA>

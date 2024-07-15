@@ -1,0 +1,16 @@
+<start course metadata for 98-122 Blackjack Techniques>
+Semester: Fall 2023 (aka F23)
+Course Name: Blackjack Techniques
+Course Number: 98-122
+Department: StuCo (Student Led Courses)
+Number of Units: 3
+Prerequisites: None
+Instructors: Dong Min Hwang, Liangze Li
+Rooms: POS 145
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 98-122 Blackjack Techniques>
+
+<start course description for 98-122 Blackjack Techniques>
+Semester: Fall 2023 (aka F23)
+Course Description: Blackjack is one of the most popular (and profitable) table games so far, contributing around a quarter of a typical casino's revenue. Unlike other casino games, such as Roulette, which are purely luck-based and are a net loss for the player, Blackjack can be beaten with card counting. This is because, unlike in Roulette, each card draw in Blackjack is not an independent event. Later card draws can be predicted with results from earlier draws in the same game, which makes some room for maneuvering of probabilities to the player's advantage. This course is for people who are interested in learning more about the rules & tricks of Blackjack and learning how to beat it. NO EXPERIENCE REQUIRED. We will learn the rules of the game, memorize the basic mathematical strategy, and master the card counting skills necessary to beat the game. Each week, after some theory, we will do training drills to help everyone get better at muscle skills. It just takes practice.
+</end course description for 98-122 Blackjack Techniques>

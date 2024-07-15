@@ -1,0 +1,16 @@
+<start course metadata for 94-719 Budgetary Planning and Analysis>
+Semester: Fall 2023 (aka F23)
+Course Name: Budgetary Planning and Analysis
+Course Number: 94-719
+Department: Heinz College Wide Courses
+Number of Units: 6
+Prerequisites: 90-723 or 95-719
+Instructors: Jillian Stephenson
+Rooms: HBH 1005
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 94-719 Budgetary Planning and Analysis>
+
+<start course description for 94-719 Budgetary Planning and Analysis>
+Semester: Fall 2023 (aka F23)
+Course Description: This course focuses on budgeting and analytical techniques that are a key part of strategic planning and controlling operations of any organization.   This course introduces the fundamental elements of budgeting, variances analysis and managerial decision making which are valuable skills for effective leaders.  Effective budgeting can help organizations achieve their operational and financial goals leading to sustainability and future growth.
+</end course description for 94-719 Budgetary Planning and Analysis>

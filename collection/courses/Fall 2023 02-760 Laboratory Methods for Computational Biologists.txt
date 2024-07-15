@@ -1,0 +1,16 @@
+<start course metadata for 02-760 Laboratory Methods for Computational Biologists>
+Semester: Fall 2023 (aka F23)
+Course Name: Laboratory Methods for Computational Biologists
+Course Number: 02-760
+Department: Computational Biology
+Number of Units: 9
+Prerequisites: None
+Instructors: Joshua Kangas
+Rooms: WEH 5409
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 02-760 Laboratory Methods for Computational Biologists>
+
+<start course description for 02-760 Laboratory Methods for Computational Biologists>
+Semester: Fall 2023 (aka F23)
+Course Description: Computational biologists frequently focus on analyzing and modeling large amounts of biological data, often from high-throughput assays or diverse sources. It is therefore critical that students training in computational biology be familiar with the paradigms and methods of experimentation and measurement that lead to the production of these data. This one-semester laboratory course gives students a deeper appreciation of the principles and challenges of biological experimentation. Students learn a range of topics, including experimental design, structural biology, next generation sequencing, genomics, proteomics, bioimaging, and high-content screening. Class sessions are primarily devoted to designing and performing experiments in the lab using the above techniques. Students are required to keep a detailed laboratory notebook of their experiments and summarize their resulting data in written abstracts and oral presentations given in class-hosted lab meetings. With an emphasis on the basics of experimentation and broad views of multiple cutting-edge and high-throughput techniques, this course is appropriate for students who have never taken a traditional undergraduate biology lab course, as well as those who have and are looking for introductory training in more advanced approaches. Grading: Letter grade based on class participation, laboratory notebooks, experimental design assignments, and written and oral presentations. 02-250 is a suggested pre-requisite.
+</end course description for 02-760 Laboratory Methods for Computational Biologists>

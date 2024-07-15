@@ -1,0 +1,16 @@
+<start course metadata for 33-998 Thesis Research>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Thesis Research
+Course Number: 33-998
+Department: Physics
+Number of Units: N/A
+Prerequisites: None
+Instructors: Markus Deserno
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 33-998 Thesis Research>
+
+<start course description for 33-998 Thesis Research>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: None
+</end course description for 33-998 Thesis Research>

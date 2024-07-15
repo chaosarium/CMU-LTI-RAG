@@ -1,0 +1,16 @@
+<start course metadata for 57-162 Eurhythmics II>
+Semester: Spring 2024 (aka S24)
+Course Name: Eurhythmics II
+Course Number: 57-162
+Department: Music
+Number of Units: 3
+Prerequisites: 57-161
+Instructors: Stephen Neely
+Rooms: MM 119
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-162 Eurhythmics II>
+
+<start course description for 57-162 Eurhythmics II>
+Semester: Spring 2024 (aka S24)
+Course Description: Eurhythmics II introduces combinations of binary and ternary metric units, mixed meters, changing meters, and notation and performance of cross-rhythms.
+</end course description for 57-162 Eurhythmics II>

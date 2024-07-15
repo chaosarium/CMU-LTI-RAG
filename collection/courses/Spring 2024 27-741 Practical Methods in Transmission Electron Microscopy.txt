@@ -1,0 +1,16 @@
+<start course metadata for 27-741 Practical Methods in Transmission Electron Microscopy>
+Semester: Spring 2024 (aka S24)
+Course Name: Practical Methods in Transmission Electron Microscopy
+Course Number: 27-741
+Department: Materials Science & Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Elizabeth Dickey
+Rooms: REH 124
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 27-741 Practical Methods in Transmission Electron Microscopy>
+
+<start course description for 27-741 Practical Methods in Transmission Electron Microscopy>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is designed to provide instrument training on transmission electron microscopes in the Materials Characterization Facility (MCF). Emphasis will be placed on acquiring the basic skills needed to successfully operate this type of microscope; this will be achieved by a combination of lectures and hands-on lab sessions. Lectures will provide the necessary background to understand electron scattering techniques, including electron diffraction, bright field and dark field imaging, phase contrast microscopy, and energy dispersive x-ray spectroscopy. Lab sessions will inform the student on standard operating procedures for the techniques discussed in the lecture portion of the course. At the end of the course, the student is expected to demonstrate the ability to independently use the transmission electron microscope for basic operations; successful demonstration of such skills will lead to certification for day-use of transmission electron microscopes in the MCF.
+</end course description for 27-741 Practical Methods in Transmission Electron Microscopy>

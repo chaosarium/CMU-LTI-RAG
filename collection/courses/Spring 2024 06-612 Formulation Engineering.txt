@@ -1,0 +1,16 @@
+<start course metadata for 06-612 Formulation Engineering>
+Semester: Spring 2024 (aka S24)
+Course Name: Formulation Engineering
+Course Number: 06-612
+Department: Chemical Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Robert Tilton
+Rooms: DH 1112
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 06-612 Formulation Engineering>
+
+<start course description for 06-612 Formulation Engineering>
+Semester: Spring 2024 (aka S24)
+Course Description: Students will learn the scientific and design principles needed for careers in complex fluid formulation-based industries such as consumer products, pharmaceuticals, paints, agrochemicals or lubricants. The essential science and engineering principles of colloids, surfactants, interfaces and polymer solutions will be introduced.  Students will learn to use these principles in combination with experimental measurements and statistical design of experiments tools to design effective liquid product formulations within specified economic, material and even aesthetic constraints. The lecture portion of the course is complemented by weekly lab sessions where student teams will design, prepare, test and improve their own formulations for a commercial complex fluid product, such as a detergent or an ink, that meets performance goals within specified constraints.
+</end course description for 06-612 Formulation Engineering>

@@ -1,0 +1,16 @@
+<start course metadata for 15-466 Computer Game Programming>
+Semester: Fall 2023 (aka F23)
+Course Name: Computer Game Programming
+Course Number: 15-466
+Department: Computer Science
+Number of Units: 12
+Prerequisites: 15-462
+Instructors: James McCann
+Rooms: POS 151
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-466 Computer Game Programming>
+
+<start course description for 15-466 Computer Game Programming>
+Semester: Fall 2023 (aka F23)
+Course Description: The goal of this course is to acquaint students with the code required to turn ideas into games. This includes both runtime systems -- e.g., AI, sound, physics, rendering, and networking -- and the asset pipelines and creative tools that make it possible to author content that uses these systems. In the first part of the course, students will implement small games that focus on specific runtime systems, along with appropriate asset editors or exporters. In the second part, students will work in groups to build a larger, polished, open-ended game project. Students who have completed the course will have the skills required to extend -- or build from scratch -- a modern computer game. Students wishing to take this class should be familiar with the C++ language and have a basic understanding of the OpenGL API. If you meet these requirements but have not taken 15-462 (the formal prerequisite), please contact the instructor.
+</end course description for 15-466 Computer Game Programming>

@@ -1,0 +1,16 @@
+<start course metadata for 16-868 Biomechanics & Motor Control>
+Semester: Fall 2023 (aka F23)
+Course Name: Biomechanics & Motor Control
+Course Number: 16-868
+Department: Robotics
+Number of Units: 12
+Prerequisites: None
+Instructors: Hartmut Geyer
+Rooms: WEH 2302
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 16-868 Biomechanics & Motor Control>
+
+<start course description for 16-868 Biomechanics & Motor Control>
+Semester: Fall 2023 (aka F23)
+Course Description: The course provides an introduction into the mechanics and control of legged locomotion with a focus on the human system. The main topics covered include fundamental concepts, muscle-skeleton mechanics, and neural control. Examples of bio-inspiration in robots and rehabilitation devices are highlighted.  By the end of the course, you will have the basic knowledge to build your own dynamic an control models of animal and human motions. The course develops the material in parallel with an introduction into Matlab's Simulink and SimMechanics environments for modeling nonlinear dynamic systems. Assignments and team projects will let you apply your knowledge to problems of animal and human motion in theory and computer simulations.
+</end course description for 16-868 Biomechanics & Motor Control>

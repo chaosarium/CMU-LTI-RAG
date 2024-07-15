@@ -1,0 +1,16 @@
+<start course metadata for 24-207 Special Topics: Maker Series: Intro to CNC Router>
+Semester: Fall 2023 (aka F23)
+Course Name: Special Topics: Maker Series: Intro to CNC Router
+Course Number: 24-207
+Department: Mechanical Engineering
+Number of Units: 1
+Prerequisites: 24-206
+Instructors: Justin Harvilla
+Rooms: ANS B10; ANS C02
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-207 Special Topics: Maker Series: Intro to CNC Router>
+
+<start course description for 24-207 Special Topics: Maker Series: Intro to CNC Router>
+Semester: Fall 2023 (aka F23)
+Course Description: This course teaches the safe operation of a CNC router machine through structured hands-on activities.  A significant portion of the course is dedicated to software for fabrication of 2D and 3D parts.  Homework assignments are important for reinforcement of skills learned, and are flexible for students to complete guided or self-directed projects.  1-unit micro (2-weeks)
+</end course description for 24-207 Special Topics: Maker Series: Intro to CNC Router>

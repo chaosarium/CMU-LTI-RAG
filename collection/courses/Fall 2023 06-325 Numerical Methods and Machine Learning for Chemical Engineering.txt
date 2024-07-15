@@ -1,0 +1,16 @@
+<start course metadata for 06-325 Numerical Methods and Machine Learning for Chemical Engineering>
+Semester: Fall 2023 (aka F23)
+Course Name: Numerical Methods and Machine Learning for Chemical Engineering
+Course Number: 06-325
+Department: Chemical Engineering
+Number of Units: 6
+Prerequisites: (06-262) and (15-112 or 15-110)
+Instructors: Carl Laird
+Rooms: GHC 4215
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 06-325 Numerical Methods and Machine Learning for Chemical Engineering>
+
+<start course description for 06-325 Numerical Methods and Machine Learning for Chemical Engineering>
+Semester: Fall 2023 (aka F23)
+Course Description: This course will focus on applying numerical methods and machine learning to chemical engineering problems. Students will learn how modern programming environments (on laptops and in the cloud) can run python code. Programming concepts such as defining functions and plotting quantities will be reviewed. Students will learn how to apply and debug numerical integration techniques to systems of ODEs. Solving systems of nonlinear equations and black-box optimization will be covered.  Machine learning will be introduced starting with the statistics of linear and non-linear regression with regularization. Polynomial fitting and interpolation will be covered. With this base, students will learn how to apply machine learning techniques such as gaussian process regression and neural networks to regression tasks. A small project will be included near the end to encourage creative applications to chemical engineering problems.
+</end course description for 06-325 Numerical Methods and Machine Learning for Chemical Engineering>

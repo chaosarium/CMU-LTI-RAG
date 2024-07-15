@@ -1,0 +1,16 @@
+<start course metadata for 18-792 Advanced Digital Signal Processing>
+Semester: Fall 2023 (aka F23)
+Course Name: Advanced Digital Signal Processing
+Course Number: 18-792
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: (36-225 or 36-218 or 36-219 or 21-325) and (18-491 or 18-691)
+Instructors: Richard Stern
+Rooms: WEH 4625
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-792 Advanced Digital Signal Processing>
+
+<start course description for 18-792 Advanced Digital Signal Processing>
+Semester: Fall 2023 (aka F23)
+Course Description: This course will examine a number of advanced topics and applications in one-dimensional digital signal processing, with emphasis on optimal signal processing techniques. Topics will include modern spectral estimation, linear prediction, short-time Fourier analysis, adaptive filtering, plus selected topics in array processing and homomorphic signal processing, with applications in speech and music processing.     4 hrs. lec.
+</end course description for 18-792 Advanced Digital Signal Processing>

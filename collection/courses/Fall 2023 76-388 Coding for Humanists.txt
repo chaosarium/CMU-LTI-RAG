@@ -1,0 +1,16 @@
+<start course metadata for 76-388 Coding for Humanists>
+Semester: Fall 2023 (aka F23)
+Course Name: Coding for Humanists
+Course Number: 76-388
+Department: English
+Number of Units: 9
+Prerequisites: (76-101) or (76-102) or (76-106 and 76-107) or (76-106 and 76-108) or (76-107 and 76-108)
+Instructors: Suguru Ishizaki
+Rooms: WEH 5201
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 76-388 Coding for Humanists>
+
+<start course description for 76-388 Coding for Humanists>
+Semester: Fall 2023 (aka F23)
+Course Description: This course provides students with the foundational knowledge and skills to develop and/or utilize computer-aided research tools for text analysis. Through a series of hands-on coding exercises, students will explore computation as a means to engage in new questions and expand their thinking about textual artifacts. This course is designed for students with no, or very little, coding experience. So, if you have already taken a programming course, this course is most likely not for you. Students who have taken 15-110 and/or 15-112 may not take this course. For the final project, you will develop a small research project involving a computational analysis of a corpus of texts. You will plan, design, and write a computer program that processes and analyzes a textual corpus of your choice. Students who are taking the course for 9-unit will write a brief project report (3-5 pages) that summarizes your final project. Graduate students in the MA in Rhetoric/PhD programs must register for 12-unit, and will complete a research paper (4,000-5,000 word).
+</end course description for 76-388 Coding for Humanists>

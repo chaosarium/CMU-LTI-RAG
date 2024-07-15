@@ -1,0 +1,16 @@
+<start course metadata for 03-601 Computational Biology Internship>
+Semester: Fall 2023 (aka F23)
+Course Name: Computational Biology Internship
+Course Number: 03-601
+Department: Biological Sciences
+Number of Units: 3
+Prerequisites: None
+Instructors: Daniel Brasier
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 03-601 Computational Biology Internship>
+
+<start course description for 03-601 Computational Biology Internship>
+Semester: Fall 2023 (aka F23)
+Course Description: This course allows a student to gain computational biology experience in a "real-world" setting. Internships vary widely in scope, but common to all is the chance to practice computational biology skills acquired in the classroom. Typically, students seek and secure their own internships.
+</end course description for 03-601 Computational Biology Internship>

@@ -1,0 +1,16 @@
+<start course metadata for 06-621 Material Balances in Bioprocesses>
+Semester: Fall 2023 (aka F23)
+Course Name: Material Balances in Bioprocesses
+Course Number: 06-621
+Department: Chemical Engineering
+Number of Units: 9
+Prerequisites: None
+Instructors: Elizabeth Wayne
+Rooms: WEH 4709
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 06-621 Material Balances in Bioprocesses>
+
+<start course description for 06-621 Material Balances in Bioprocesses>
+Semester: Fall 2023 (aka F23)
+Course Description: We equip students with creative engineering problem-solving techniques and fundamental chemical engineering material balance skills. Lectures are designed to provide training in data analysis, material property estimation for single- and multi-phase systems, basic process flow-sheets, reactive and non-reactive mass balances, along with problem solving strategies and tools applied to biomanufacturing and other topics of interest in pharmaceutical processing. This course is intended for graduate students in the physical sciences that lack an engineering background.
+</end course description for 06-621 Material Balances in Bioprocesses>

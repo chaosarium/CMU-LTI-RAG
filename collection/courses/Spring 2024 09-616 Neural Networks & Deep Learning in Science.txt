@@ -1,0 +1,16 @@
+<start course metadata for 09-616 Neural Networks & Deep Learning in Science>
+Semester: Spring 2024 (aka S24)
+Course Name: Neural Networks & Deep Learning in Science
+Course Number: 09-616
+Department: Chemistry
+Number of Units: 12
+Prerequisites: None
+Instructors: Olexandr Isayev
+Rooms: 3SC 110
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 09-616 Neural Networks & Deep Learning in Science>
+
+<start course description for 09-616 Neural Networks & Deep Learning in Science>
+Semester: Spring 2024 (aka S24)
+Course Description: Focus on practice and applications of deep learning by exploring foundational concepts, structuring popular networks and implementing models through modern technologies (python, Jupyter notebooks and PyTorch). Other topics may include image recognition, machine translation, natural language processing, parallelism, GPU distributed computing, cloud technologies, inference and parameter ¿tting in deep networks. Course uses large datasets hosted by PSC.
+</end course description for 09-616 Neural Networks & Deep Learning in Science>

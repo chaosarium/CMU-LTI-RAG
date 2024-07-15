@@ -1,0 +1,16 @@
+<start course metadata for 48-300 Architecture Design Studio: Praxis Studio 1>
+Semester: Fall 2023 (aka F23)
+Course Name: Architecture Design Studio: Praxis Studio 1
+Course Number: 48-300
+Department: Architecture
+Number of Units: 18
+Prerequisites: 48-200 and 48-205 and 48-116 and 62-275 and 62-225 and 48-215
+Instructors: Heather Bizon
+Rooms: MM A14
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-300 Architecture Design Studio: Praxis Studio 1>
+
+<start course description for 48-300 Architecture Design Studio: Praxis Studio 1>
+Semester: Fall 2023 (aka F23)
+Course Description: Typically, we do site research and then design something for that site. However, this is a studio where the design research part of the semester will become the project itself. We're going to do site research and correlate it with the information we can find. We're going to make unconventional models and experiment with how we construct a network of sites through sets of relationships, linguistic, computational, and visual descriptions. In principle, we're going to think critically about how we construct the identity of a place through its cultural, social, and ecological systems, and develop procedures for doing so. We will investigate Pittsburgh as a collective site. Over the course of the semester, we will develop a "necklace" or circuit of sites that addressing Event, Housing and Infrastructure. The Steel Necklace will be a composite of these three different architectural/urban interventions to address the cultural, social and ecological issues of Pittsburgh. As the urban condition is a network of shared expressions, lived experiences and relationships, our studio will be a collaborative studio exchanging and intermixing projects. Students will detail into the collective network developing in high resolution a housing component relative to infrastructure and event spatial interventions.
+</end course description for 48-300 Architecture Design Studio: Praxis Studio 1>

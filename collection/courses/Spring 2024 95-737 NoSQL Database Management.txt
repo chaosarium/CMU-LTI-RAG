@@ -1,0 +1,16 @@
+<start course metadata for 95-737 NoSQL Database Management>
+Semester: Spring 2024 (aka S24)
+Course Name: NoSQL Database Management
+Course Number: 95-737
+Department: Information Systems:Sch of IS & Mgt
+Number of Units: 6
+Prerequisites: 95-813 or 95-703 or 90-838
+Instructors: Dan Costa, Derrick Spooner
+Rooms: HBH 1202
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 95-737 NoSQL Database Management>
+
+<start course description for 95-737 NoSQL Database Management>
+Semester: Spring 2024 (aka S24)
+Course Description: The widespread emergence of big data storage needs has driven the development and adoption of a new class of non-relational databases commonly referred to as NoSQL databases. This course will explore the origins of NoSQL databases and the characteristics that distinguish them from traditional relational database management systems. Core concepts of NoSQL databases will be presented, followed by an exploration of how different database technologies implement these core concepts. We will take a closer look at 1-2 databases from each of the four main NoSQL data models (key-value, column family, document, and graph), highlighting the business needs that drive the development and use of each database. Finally, we will present criteria that decision makers should consider when choosing between relational and non-relational databases and techniques for selecting the NoSQL database that best addresses specific use cases.
+</end course description for 95-737 NoSQL Database Management>

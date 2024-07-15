@@ -1,0 +1,16 @@
+<start course metadata for 11-935 LTI Practicum>
+Semester: Spring 2024 (aka S24)
+Course Name: LTI Practicum
+Course Number: 11-935
+Department: Language Technologies Institute
+Number of Units: N/A
+Prerequisites: None
+Instructors: Robert Frederking
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 11-935 LTI Practicum>
+
+<start course description for 11-935 LTI Practicum>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is intended as an internship course for students who are doing Curricular Practical Training (CPT) as part of their graduate degree.
+</end course description for 11-935 LTI Practicum>

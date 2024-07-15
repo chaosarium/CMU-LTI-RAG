@@ -1,0 +1,16 @@
+<start course metadata for 05-818 Design Educational Games>
+Semester: Spring 2024 (aka S24)
+Course Name: Design Educational Games
+Course Number: 05-818
+Department: Human-Computer Interaction
+Number of Units: 12
+Prerequisites: None
+Instructors: Erik Harpstead
+Rooms: WEH 2302
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 05-818 Design Educational Games>
+
+<start course description for 05-818 Design Educational Games>
+Semester: Spring 2024 (aka S24)
+Course Description: The potential of digital games to improve education is enormous. However, it is a significant challenge to create a game that is both fun and educational. In this course, students will learn to meet this challenge by combining processes and principles from game design and instructional design. Students will also learn to evaluate their games for fun, learning, and the integration of the two. They will be guided by the EDGE framework for the analysis and design educational games. The course will involve a significant hands-on portion in which students learn a design process to create educational games, digital or non-digital. They will also read about existing educational games and discuss game design, instructional design, learning and transfer, and the educational effectiveness of digital games. They will analyze an educational game and present their analysis to the class.  The intended audience includes graduate and advanced undergraduate students in HCII, CS, ETC, Design, and students interested in education or psychology research.   To be eligible to enroll, students must have successfully completed one course in human-computer interaction, game design, computer science, or cognitive/educational psychology, or they must have instructor permission.  During most weeks, we will have a lecture and a course meeting devoted to student game presentations, discussion of homework assignments, and hands-on work. The lecture meetings will be devoted to discussions focused on the course readings. The hands-on part will be opportunities for students to work on assignments and projects, and to discuss progress and open issues with the course instructors.
+</end course description for 05-818 Design Educational Games>

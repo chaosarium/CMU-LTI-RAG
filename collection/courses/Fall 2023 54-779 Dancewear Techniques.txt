@@ -1,0 +1,16 @@
+<start course metadata for 54-779 Dancewear Techniques>
+Semester: Fall 2023 (aka F23)
+Course Name: Dancewear Techniques
+Course Number: 54-779
+Department: Drama
+Number of Units: 9
+Prerequisites: 54-813 and 54-814 and 54-848
+Instructors: Hugh Hanson
+Rooms: PCA 308
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-779 Dancewear Techniques>
+
+<start course description for 54-779 Dancewear Techniques>
+Semester: Fall 2023 (aka F23)
+Course Description: Dance Techniques is a full semester exploration of classical dance costume, beginning with the historical development of ballet, the codification of the form and its costume and its impact on the dance world.  Over the course of the semester each student will design and make a classical ballet bodice and tutu: starting by designing for a particular scene in a ballet, patterning for a specific ballerina, outlining step-by-step instructions, developing custom trim elements, fitting, stitching, finishing and rigging together the bodice and tutu, in accordance with industry standards.   In addition, a broader scope of dance costumes will be discussed and their unique structural considerations will be explored.  This course also looks at the application of dance techniques of pattern development and garment construction to other costume genres.
+</end course description for 54-779 Dancewear Techniques>

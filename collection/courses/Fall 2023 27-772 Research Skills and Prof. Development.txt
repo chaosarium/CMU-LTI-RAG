@@ -1,0 +1,16 @@
+<start course metadata for 27-772 Research Skills and Prof. Development>
+Semester: Fall 2023 (aka F23)
+Course Name: Research Skills and Prof. Development
+Course Number: 27-772
+Department: Materials Science & Engineering
+Number of Units: 1
+Prerequisites: None
+Instructors: P. Chris Pistorius
+Rooms: WEH 4623
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 27-772 Research Skills and Prof. Development>
+
+<start course description for 27-772 Research Skills and Prof. Development>
+Semester: Fall 2023 (aka F23)
+Course Description: The pass / fail course gives new Ph.D. students in Materials Science and Engineering an overview of relevant skills. Topics to be covered will include (amongst others) diversity, equity and inclusion activities in the MSE department; goalsetting; literature searches; reference management; publishing; data management; data visualization; and hypothesis formulation.
+</end course description for 27-772 Research Skills and Prof. Development>

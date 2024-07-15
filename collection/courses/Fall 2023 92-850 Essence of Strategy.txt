@@ -1,0 +1,16 @@
+<start course metadata for 92-850 Essence of Strategy>
+Semester: Fall 2023 (aka F23)
+Course Name: Essence of Strategy
+Course Number: 92-850
+Department: Medical Management:Sch of Pub Pol & Mgt
+Number of Units: 4
+Prerequisites: None
+Instructors: David Lassman
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 92-850 Essence of Strategy>
+
+<start course description for 92-850 Essence of Strategy>
+Semester: Fall 2023 (aka F23)
+Course Description: This course will introduce you to frameworks for understanding and developing strategy.  Prior to class, students will read articles and case studies pertaining to strategic capabilities and vision, which we will then discuss in class.  There is also a written assignment.
+</end course description for 92-850 Essence of Strategy>

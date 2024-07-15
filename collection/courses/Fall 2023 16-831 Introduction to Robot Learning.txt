@@ -1,0 +1,16 @@
+<start course metadata for 16-831 Introduction to Robot Learning>
+Semester: Fall 2023 (aka F23)
+Course Name: Introduction to Robot Learning
+Course Number: 16-831
+Department: Robotics
+Number of Units: 12
+Prerequisites: None
+Instructors: Deepak Pathak
+Rooms: SH 105
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 16-831 Introduction to Robot Learning>
+
+<start course description for 16-831 Introduction to Robot Learning>
+Semester: Fall 2023 (aka F23)
+Course Description: Robots need to make sequential decisions to operate in the world and generalize to diverse environments. How can they learn to do so? This is what we call the "robot learning" problem and it spans topics in machine learning, visual learning and reinforcement learning. In this course,  we will learn the fundamentals of topics in machine/deep/visual/reinforcement-learning and how such approaches are applied to robot decision making.  We will study fundamentals of: 1) machine (deep) learning with emphasis on approaches relevant for cognition, 2) reinforcement learning: model-based, model-free, on-policy (policy gradients), off-policy (q-learning), etc.; 2) imitation learning: behavior cloning, dagger, inverse RL and offline RL.; 3) visual learning geared towards cognition and decision making including topics like generative models and their use for robotics, learning from human videos, passsive internet videos, language models; and 4) leveraging simulations, building differentiable simulations and how to transfer policies from simulation to the real world; 5) we will also briefly touch topics in neuroscience and psychology that provide cognitive motivations for several techniques in decision making. Throughout the course, we will look at many examples of how such methods can be applied to real robotics tasks as well as broader applications of decision making beyond robotics (such as online dialogue agents etc.).  The course will provide an overview of relevant topics and open questions in the area. There will be a strong emphasis on bridging the gap between many different fields of AI. The goal is for students to get both the high-level understanding of important problems and possible solutions, as well as low level understanding of technical solutions. We hope that this course will inspire you to approach problems in congnition and embodied learning from different perspectives in your research.  (As of 3/21/2023)
+</end course description for 16-831 Introduction to Robot Learning>

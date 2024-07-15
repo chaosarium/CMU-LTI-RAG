@@ -1,0 +1,16 @@
+<start course metadata for 76-328 Introduction to Corpus Linguistics>
+Semester: Spring 2024 (aka S24)
+Course Name: Introduction to Corpus Linguistics
+Course Number: 76-328
+Department: English
+Number of Units: 9
+Prerequisites: None
+Instructors: Maria Pia Gomez Laich
+Rooms: CMB 3204
+Locations: Doha, Qatar
+</end course metadata for 76-328 Introduction to Corpus Linguistics>
+
+<start course description for 76-328 Introduction to Corpus Linguistics>
+Semester: Spring 2024 (aka S24)
+Course Description: This is a hands-on, project-based class that will help students build a methodological toolkit for computer-based textual analysis. That toolkit will include methods for the collection of data, its processing via off-the-shelf software and some simple code, as well as its analysis using a variety of statistical techniques. In doing so, the class offers students the opportunity to engage in scientifically oriented inquiry, giving priority to the use of corpus evidence to answer research questions. The first part of the term will be devoted to introducing fundamental concepts and taking a bird's eye view of the potential application of corpus methods in domains like academic writing, technical communication, and social media. From there, students will initiate projects of their own choosing and develop them over the course of the semester. The goal is to acquaint students with the strengths and limitations of computer- based textual analysis and to provide them with the necessary foundational skills to design projects, to apply appropriate quantitative methods, and to report their results clearly and ethically to a variety of audiences. This class requires neither an advanced knowledge of statistics nor any previous coding experience, just a curiosity about language and the ways in which identifying patterns in language can help us solve problems and understand our world.
+</end course description for 76-328 Introduction to Corpus Linguistics>

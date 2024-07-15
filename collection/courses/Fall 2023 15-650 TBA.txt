@@ -1,0 +1,16 @@
+<start course metadata for 15-650 TBA>
+Semester: Fall 2023 (aka F23)
+Course Name: TBA
+Course Number: 15-650
+Department: Computer Science
+Number of Units: 12
+Prerequisites: None
+Instructors: Yun Yu
+Rooms: DH 2315
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-650 TBA>
+
+<start course description for 15-650 TBA>
+Semester: Fall 2023 (aka F23)
+Course Description: The objective of this course is to study general computational problems, with a focus on the principles used to design those algorithms. Efficient data structures will be discussed to support these algorithmic concepts. Topics include: Run time analysis, divide-and-conquer algorithms, dynamic programming algorithms, network flow algorithms, linear and integer programming, large-scale search algorithms and heuristics, efficient data storage and query, and NP-completeness. Although this course will have several programming assignments, it is primarily not a programming course. Instead, it will focus on the design and analysis of algorithms for general classes of problems. This course is not open to CS graduate students who should consider taking 15-651 instead.
+</end course description for 15-650 TBA>

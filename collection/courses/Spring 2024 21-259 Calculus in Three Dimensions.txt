@@ -1,0 +1,16 @@
+<start course metadata for 21-259 Calculus in Three Dimensions>
+Semester: Spring 2024 (aka S24)
+Course Name: Calculus in Three Dimensions
+Course Number: 21-259
+Department: Mathematical Sciences
+Number of Units: 10
+Prerequisites: 21-122
+Instructors: Dejan Slepcev, Evan O'Dorney
+Rooms: BH A36; WEH 7500
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-259 Calculus in Three Dimensions>
+
+<start course description for 21-259 Calculus in Three Dimensions>
+Semester: Spring 2024 (aka S24)
+Course Description: Vectors, lines, planes, quadratic surfaces, polar, cylindrical and spherical coordinates, partial derivatives, directional derivatives, gradient, divergence, curl, chain rule, maximum-minimum problems, multiple integrals, parametric surfaces and curves, line integrals, surface integrals, Green-Gauss theorems. (Three 50 minute lectures, one 50 minute recitation)
+</end course description for 21-259 Calculus in Three Dimensions>

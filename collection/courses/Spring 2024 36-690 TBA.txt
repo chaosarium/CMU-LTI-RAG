@@ -1,0 +1,16 @@
+<start course metadata for 36-690 TBA>
+Semester: Spring 2024 (aka S24)
+Course Name: TBA
+Course Number: 36-690
+Department: Statistics and Data Science
+Number of Units: 12
+Prerequisites: None
+Instructors: Gonzalo Mena, Nynke Niezink
+Rooms: WEH 5415
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 36-690 TBA>
+
+<start course description for 36-690 TBA>
+Semester: Spring 2024 (aka S24)
+Course Description: Students are taught how to structure a consulting session, elicit and diagnose a problem, manage a project, and report an analysis. The class will participate in meetings with industrial and academic clients. For Master of Statistical Practice students only.
+</end course description for 36-690 TBA>

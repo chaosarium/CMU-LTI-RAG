@@ -1,0 +1,16 @@
+<start course metadata for 79-705 Seminar in Instruction>
+Semester: Fall 2023 (aka F23)
+Course Name: Seminar in Instruction
+Course Number: 79-705
+Department: History
+Number of Units: 6
+Prerequisites: None
+Instructors: Ricky Law
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 79-705 Seminar in Instruction>
+
+<start course description for 79-705 Seminar in Instruction>
+Semester: Fall 2023 (aka F23)
+Course Description: Most universities focus on cultivating the research skills of graduate students. Yet many graduate students will spend much of their careers in the classroom. This course is designed to introduce graduate students to different pedagogical strategies. Through discussions, readings, activities, and assignments, participants will practice a variety of instruction methods and will analyze the complexities of the learning process. Together, we will explore the joys and challenges of teaching.
+</end course description for 79-705 Seminar in Instruction>

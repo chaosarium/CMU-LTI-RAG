@@ -1,0 +1,16 @@
+<start course metadata for 45-869 Service Design Leadership for Tackling Complexity>
+Semester: Spring 2024 (aka S24)
+Course Name: Service Design Leadership for Tackling Complexity
+Course Number: 45-869
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Ming Ming Chapman
+Rooms: TEP 2118
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-869 Service Design Leadership for Tackling Complexity>
+
+<start course description for 45-869 Service Design Leadership for Tackling Complexity>
+Semester: Spring 2024 (aka S24)
+Course Description: Description Service Design is a transformative, customer-centric approach employed by industry giants such as Apple, Amazon, Spotify, Airbnb, and Uber to revolutionize their oerings and provide exceptional experiences. It facilitates the dierentiation of products and services, granting companies a competitive edge in the market. This course equips students with the essential Service Design skills to explore new perspectives, shape relationship-oriented business strategies, and prioritize a culture of curiosity, collaboration, sustainability, and impact. With a focus on dierentiation, and ethical responsibility, this course empowers students to design new product and service proposals and prepares them to eectively lead organizational transformations. Key Topics ¿ Introduction to Service Design: Explore Service Design principles, methodologies, and how to identify stakeholder needs, generate ideas, and brainstorm recommendations within a business context. ¿ Service Design Research and Insights: Conducting stakeholder research, gathering insights, and using qualitative and quantitative methods to inform Service Design decisions. ¿ Ethical and Social Responsibility in Service Design: Considering ethics, social responsibility, inclusivity, sustainability, and privacy concerns in Service Design decisions and practices. ¿ User Journey Mapping and Process Optimization: Understanding and analyzing the user experience by mapping touchpoints, interactions, and emotions throughout the service journey to enhance eciency and user satisfaction. ¿ Change Management and Leadership: Using future-state blueprints to envision and map organizational change and lead cross-functional teams in business setting
+</end course description for 45-869 Service Design Leadership for Tackling Complexity>

@@ -1,0 +1,16 @@
+<start course metadata for 98-193 Student Taught Courses (StuCo): Intro to Quantum Computing>
+Semester: Spring 2024 (aka S24)
+Course Name: Student Taught Courses (StuCo): Intro to Quantum Computing
+Course Number: 98-193
+Department: StuCo (Student Led Courses)
+Number of Units: 3
+Prerequisites: None
+Instructors: Ulan Seitkaliyev
+Rooms: CMB 1032
+Locations: Doha, Qatar
+</end course metadata for 98-193 Student Taught Courses (StuCo): Intro to Quantum Computing>
+
+<start course description for 98-193 Student Taught Courses (StuCo): Intro to Quantum Computing>
+Semester: Spring 2024 (aka S24)
+Course Description: Introduction to Quantum Computing is a course designed to provide an accessible introduction to the rapidly evolving field of quantum computing, REGARDLESS of the participant's academic background or experience. The course begins by introducing the basic principles of quantum computing and the fundamental concepts of qubits, quantum gates, superposition, entanglement, and quantum algorithms. It covers topics such as quantum circuits and quantum applications. The course is structured to accommodate learners with diverse backgrounds, including those with little or no prior knowledge of computer science. It is designed to provide a solid foundation in quantum computing, with a focus on practical applications that are currently being developed and explored. Throughout the course, participants will be exposed to a range of quantum computing tools and techniques, including quantum simulators and programming languages. They will also be introduced to some of the key players in the field and the latest research and developments.
+</end course description for 98-193 Student Taught Courses (StuCo): Intro to Quantum Computing>

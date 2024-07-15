@@ -1,0 +1,16 @@
+<start course metadata for 10-500 Senior Research Project>
+Semester: Fall 2023 (aka F23)
+Course Name: Senior Research Project
+Course Number: 10-500
+Department: Machine Learning
+Number of Units: N/A
+Prerequisites: None
+Instructors: Matthew Gormley
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 10-500 Senior Research Project>
+
+<start course description for 10-500 Senior Research Project>
+Semester: Fall 2023 (aka F23)
+Course Description: Register for this course if you are minoring in Machine Learning. This course is intended for research with a faculty member that would count towards the minor.
+</end course description for 10-500 Senior Research Project>

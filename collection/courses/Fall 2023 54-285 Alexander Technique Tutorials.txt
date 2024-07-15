@@ -1,0 +1,16 @@
+<start course metadata for 54-285 Alexander Technique Tutorials>
+Semester: Fall 2023 (aka F23)
+Course Name: Alexander Technique Tutorials
+Course Number: 54-285
+Department: Drama
+Number of Units: 1
+Prerequisites: 54-101
+Instructors: Emily Sapa
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-285 Alexander Technique Tutorials>
+
+<start course description for 54-285 Alexander Technique Tutorials>
+Semester: Fall 2023 (aka F23)
+Course Description: Half-hour tutorials, individually scheduled per student. Optional for Acting and Musical Theater students.
+</end course description for 54-285 Alexander Technique Tutorials>

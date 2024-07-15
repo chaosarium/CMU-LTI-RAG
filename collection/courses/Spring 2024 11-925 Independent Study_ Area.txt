@@ -1,0 +1,16 @@
+<start course metadata for 11-925 Independent Study: Area>
+Semester: Spring 2024 (aka S24)
+Course Name: Independent Study: Area
+Course Number: 11-925
+Department: Language Technologies Institute
+Number of Units: N/A
+Prerequisites: None
+Instructors: Alexander Hauptmann, Alexander Rudnicky, Alexander Waibel, Anthony Tomasic, Bhiksha Ramakrishnan, Carolyn Rose, Christopher Langmead, Eduard Hovy, Eric Nyberg, Eric Xing, Eugene Fink, Florian Metze, Graham Neubig, Instructor TBA, Jack Mostow, Jamie Callan, Justine Cassell, Katia Sycara, Kenneth Koedinger, Lorraine Levin, Louis-Philippe Morency, Madhavi Ganapathiraju, Marcel Just, Maxine Eskenazi, Ralf Brown, Rita Singh, Robert Frederking, Ronald Rosenfeld, Scott Fahlman, Stacey Young, Teruko Mitamura, Tom Mitchell, William Cohen, Yiming Yang, Ziv Bar-Joseph
+Rooms: DNM DNM
+Locations: Lisbon, Portugal; Pittsburgh, Pennsylvania
+</end course metadata for 11-925 Independent Study: Area>
+
+<start course description for 11-925 Independent Study: Area>
+Semester: Spring 2024 (aka S24)
+Course Description: This course number is intended for individual study with the intended thesis advisor prior to acceptance of a student's thesis proposal.
+</end course description for 11-925 Independent Study: Area>

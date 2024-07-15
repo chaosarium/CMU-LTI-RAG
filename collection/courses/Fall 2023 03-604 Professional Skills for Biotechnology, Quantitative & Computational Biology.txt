@@ -1,0 +1,16 @@
+<start course metadata for 03-604 Professional Skills for Biotechnology, Quantitative & Computational Biology>
+Semester: Fall 2023 (aka F23)
+Course Name: Professional Skills for Biotechnology, Quantitative & Computational Biology
+Course Number: 03-604
+Department: Biological Sciences
+Number of Units: 3
+Prerequisites: None
+Instructors: Dan DeBlasio, Daniel Brasier
+Rooms: GHC 4211; POS 152
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 03-604 Professional Skills for Biotechnology, Quantitative & Computational Biology>
+
+<start course description for 03-604 Professional Skills for Biotechnology, Quantitative & Computational Biology>
+Semester: Fall 2023 (aka F23)
+Course Description: This course gives Masters students in Biological Sciences and related fields the opportunity to develop the professional skills necessary for a successful career in either academia or industry. The first set of topics will include assistance with elevator pitches, interview preparation, resume and cover letter writing, and presentation skills. The course will also guest speakers to connect with students professionally and to provide students with perspectives from within industry on regulatory compliance issues. The course is pass/fail only.
+</end course description for 03-604 Professional Skills for Biotechnology, Quantitative & Computational Biology>

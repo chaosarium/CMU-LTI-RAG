@@ -1,0 +1,16 @@
+<start course metadata for 04-653 Engineering AI Project Methods>
+Semester: Fall 2023 (aka F23)
+Course Name: Engineering AI Project Methods
+Course Number: 04-653
+Department: Information & Communication Technology
+Number of Units: 6
+Prerequisites: None
+Instructors: Timothy Brown
+Rooms: CMR F205
+Locations: Kigali, Rwanda
+</end course metadata for 04-653 Engineering AI Project Methods>
+
+<start course description for 04-653 Engineering AI Project Methods>
+Semester: Fall 2023 (aka F23)
+Course Description: The purpose of this course is to assist engineers to understand the components of complex engineering artificial intelligence (AI) projects, to manage those project components, and to form and lead a project team. Project management tools and techniques will be introduced, discussed, and applied to ongoing or subsequent projects in your studies. Special attention is paid to the diversity of stakeholders who may be involved in AI projects, the special role of data and processing resources, as well as managing privacy and ethical issues of AI-based engineering projects. Techniques for eliciting design features, engaging users, identifying constraints, and developing system requirements will be covered, especially in a diverse stakeholder environment. Tools for managing projects and continuous integration and continuous delivery practices are also covered. The course consists of weekly hands-on assignments as well as a final project to integrate the project methods covered in the class.  Grading is based on written assignments, a final portfolio of work, participation and attendance
+</end course description for 04-653 Engineering AI Project Methods>

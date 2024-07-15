@@ -1,0 +1,16 @@
+<start course metadata for 90-856 Policy Topics: Tech Policy & Management>
+Semester: Spring 2024 (aka S24)
+Course Name: Policy Topics: Tech Policy & Management
+Course Number: 90-856
+Department: Public Policy & Mgt:Sch of Pub Pol & Mgt
+Number of Units: 6
+Prerequisites: None
+Instructors: Gio Altamirano Rayo
+Rooms: 
+Locations: Washington, District of Columbia
+</end course metadata for 90-856 Policy Topics: Tech Policy & Management>
+
+<start course description for 90-856 Policy Topics: Tech Policy & Management>
+Semester: Spring 2024 (aka S24)
+Course Description: Public interest technology is a growing field of practice focused on deploying technology for social good.  Examples of this include technology deployed to improve and streamline government services, understanding and reversing the unintended but often negative impacts of technology, and developing tech solutions and innovations that can improve peoples lives.  The field includes not just technologists but also designers, policy practitioners, program managers as well as leaders to ensure that technology is deployed in ways that ensure equity and truly serve the public interest.  This class will highlight the management and leadership challenges of this rapidly transforming field of Public Interest Tech.  Classes will cover:  What is Public Interest Tech?  Inclusive tables create responsible systems (user-centered design; work of Mutale Nkonde, Ruha Benjamin, Virginia Eubanks); Change and Systems Management (Steven Covey; Omidyar Systems Framework); Product Management (Kathy Pham's work) and Recruiting and Developing teams.  The class will bring in speakers as well as study examples and best practices from federal, state and local government as well as nonprofits.  By the end of the class, students will understand the current state of Public Interest Tech as well as be ready to contribute to the success of Public Interest Tech initiatives in their professional lives.  The class will be taught by Afua Bruce, Chief Data Officer of Datakind who has been a pioneer in the Public Interest Tech field.  A computer engineer by training, Afua has deep experience working in the government and social sectors with a commitment to the principles of inclusivity and partnership building.
+</end course description for 90-856 Policy Topics: Tech Policy & Management>

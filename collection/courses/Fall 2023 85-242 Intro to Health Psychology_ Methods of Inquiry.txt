@@ -1,0 +1,16 @@
+<start course metadata for 85-242 Intro to Health Psychology: Methods of Inquiry>
+Semester: Fall 2023 (aka F23)
+Course Name: Intro to Health Psychology: Methods of Inquiry
+Course Number: 85-242
+Department: Psychology
+Number of Units: 3
+Prerequisites: None
+Instructors: Crista Crittenden
+Rooms: CMB 1031
+Locations: Doha, Qatar
+</end course metadata for 85-242 Intro to Health Psychology: Methods of Inquiry>
+
+<start course description for 85-242 Intro to Health Psychology: Methods of Inquiry>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is an introduction to the basic principles of health psychology, and the research methods that allow the field to investigate how psychological and social factors "get under the skin" to influence health and disease. Following the WHO's definition of health, we will discuss health as "a state of physical, mental, and social well-being, and not just the absence of disease". This course will provide students with the conceptual and research basics to critically study the field of health psychology. An emphasis will be placed on understanding the type of research methods that are employed by health psychologists. Epidemiological concepts, longitudinal and experimental research designs, and health outcome measurements will be explored in-depth. At the end of the course, students will have a further understanding of health psychology's biopsychosocial approach to health and will be able to describe the methods of inquiry that lead to meaningful discoveries in the field. This knowledge will also be applied to establishing skills in the reading and interpreting of research literature. In providing a better understanding of the field of health psychology and its methods of inquiry, students will be provided the knowledge and skills needed to fully engage with other health psychology courses that are more specialized in scope (85-252 and 85-258)
+</end course description for 85-242 Intro to Health Psychology: Methods of Inquiry>

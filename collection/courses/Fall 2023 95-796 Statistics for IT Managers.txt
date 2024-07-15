@@ -1,0 +1,16 @@
+<start course metadata for 95-796 Statistics for IT Managers>
+Semester: Fall 2023 (aka F23)
+Course Name: Statistics for IT Managers
+Course Number: 95-796
+Department: Information Systems:Sch of IS & Mgt
+Number of Units: 6
+Prerequisites: None
+Instructors: Andrew Garin, Daniel Nagin, John Ostlund
+Rooms: DNM DNM; HBH 1204; HBH 1206; HBH A301
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 95-796 Statistics for IT Managers>
+
+<start course description for 95-796 Statistics for IT Managers>
+Semester: Fall 2023 (aka F23)
+Course Description: This introductory course in data analysis and statistical inference requires no background in statistics. Its objective is to provide individuals who aspire to enter management or policy analysis positions with the basic statistical tools for analyzing and interpreting data. The course is divided into three distinct modules: descriptive statistics, statistical inference, and regression analysis. The emphasis of the classes on descriptive statistics is the calculation and interpretation of summary statistical measures for describing raw data. The sessions on statistical inference are designed to provide you with the background for executing and interpreting hypothesis tests and confidence intervals. The final component of the course focuses on regression analysis, a widely used statistical methodology. Throughout the course you will regularly analyze data relevant to management and policy analysis using the Excel statistical software package.
+</end course description for 95-796 Statistics for IT Managers>

@@ -1,0 +1,16 @@
+<start course metadata for 04-980 Engineering Independent Study>
+Semester: Fall 2023 (aka F23)
+Course Name: Engineering Independent Study
+Course Number: 04-980
+Department: Information & Communication Technology
+Number of Units: N/A
+Prerequisites: None
+Instructors: Assane Gueye, Carine Pierrett Mukamakuza, Instructor TBA
+Rooms: DNM DNM
+Locations: Kigali, Rwanda
+</end course metadata for 04-980 Engineering Independent Study>
+
+<start course description for 04-980 Engineering Independent Study>
+Semester: Fall 2023 (aka F23)
+Course Description: Students can undertake an independent study project during any semester after their first semester under the guidance of a faculty member. The student and faculty member should define the nature and scope of the project, and agree upon the expectations, deliverables, and the number of units to be earned for the project. Independent study of a topic unfamiliar to the student and not covered in an existing course, as well as original project work, can be undertaken as an Engineering Independent Study. A brief description of the project signed by both the faculty member and the student should be submitted and approved prior to the start of the semester.  It is the responsibility of the faculty member to monitor the progress of the student and grade the project at the end of the semester. The number of units can be 3-15 units for the semester. Up to 15 total units of Engineering Independent Student credit can be counted toward the degree.
+</end course description for 04-980 Engineering Independent Study>

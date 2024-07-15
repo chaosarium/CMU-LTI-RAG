@@ -1,0 +1,16 @@
+<start course metadata for 09-105 Introduction to Modern Chemistry I>
+Semester: Summer Two 2024 (aka M24, M24 Mini 2, Summer 2024 Mini 2)
+Course Name: Introduction to Modern Chemistry I
+Course Number: 09-105
+Department: Chemistry
+Number of Units: 10
+Prerequisites: None
+Instructors: Gizelle Sherwood
+Rooms: DH 2302
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 09-105 Introduction to Modern Chemistry I>
+
+<start course description for 09-105 Introduction to Modern Chemistry I>
+Semester: Summer Two 2024 (aka M24, M24 Mini 2, Summer 2024 Mini 2)
+Course Description: None
+</end course description for 09-105 Introduction to Modern Chemistry I>

@@ -1,0 +1,16 @@
+<start course metadata for 88-398 Independent Study>
+Semester: Fall 2023 (aka F23)
+Course Name: Independent Study
+Course Number: 88-398
+Department: Social & Decision Sciences
+Number of Units: N/A
+Prerequisites: None
+Instructors: Danny Oppenheimer
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 88-398 Independent Study>
+
+<start course description for 88-398 Independent Study>
+Semester: Fall 2023 (aka F23)
+Course Description: Students conduct independent academic study under the supervision of a Social & Decision Sciences faculty member. Students who wish to engage in an independent study should seek out a faculty member whose interests are appropriate to the topic. Students must also complete an "Independent Study/Research for Credit" form, available from the SDS Advisors in Porter 208A and 208G.
+</end course description for 88-398 Independent Study>

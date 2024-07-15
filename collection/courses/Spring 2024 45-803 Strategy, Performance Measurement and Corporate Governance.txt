@@ -1,0 +1,16 @@
+<start course metadata for 45-803 Strategy, Performance Measurement and Corporate Governance>
+Semester: Spring 2024 (aka S24)
+Course Name: Strategy, Performance Measurement and Corporate Governance
+Course Number: 45-803
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Austin Sudbury
+Rooms: TEP 2112
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-803 Strategy, Performance Measurement and Corporate Governance>
+
+<start course description for 45-803 Strategy, Performance Measurement and Corporate Governance>
+Semester: Spring 2024 (aka S24)
+Course Description: The course studies the role of managerial accounting systems in communicating and implementing an organization¿s strategy. Much of the course is focused on performance measurement and incentive issues throughout the organization, including the board of directors (corporate governance), top management team (executive compensation), division heads (investment, profit, revenue, and cost centers), and lower-level managers.  The course is intended for anyone involved in developing, communicating, implementing, and evaluating an organization¿s strategy. Students who intend to have a career in corporate finance, operations management, general management, or consulting should find the course valuable.
+</end course description for 45-803 Strategy, Performance Measurement and Corporate Governance>

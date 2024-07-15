@@ -1,0 +1,16 @@
+<start course metadata for 36-490 Undergraduate Research>
+Semester: Fall 2023 (aka F23)
+Course Name: Undergraduate Research
+Course Number: 36-490
+Department: Statistics and Data Science
+Number of Units: 9
+Prerequisites: None
+Instructors: Cosma Shalizi, Eli Ben-Michael
+Rooms: WEH 5409
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 36-490 Undergraduate Research>
+
+<start course description for 36-490 Undergraduate Research>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is designed to give undergraduate students experience using statistics in real research problems. Small groups of students are matched with clients and do supervised research for a semester.  From an academic perspective, the course presents an opportunity for students to gain skills in approaching a research problem, critical thinking, and statistical analyses. Additionally, the course will help students develop the professional skills necessary for successfully navigating team-based project delivery roles. Client-facing and collaborative skills will be emphasized within a team setting, and students will learn leading practices for engaging stakeholders as well as gain a conceptual understanding of leading practices for project delivery.
+</end course description for 36-490 Undergraduate Research>

@@ -1,0 +1,16 @@
+<start course metadata for 48-695 Master of Architecture>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Master of Architecture
+Course Number: 48-695
+Department: Architecture
+Number of Units: 3
+Prerequisites: None
+Instructors: Jeremy Ficca, Joshua Bard, Kai Gutschow, Sarosh Anklesaria, Stefan Gruber
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-695 Master of Architecture>
+
+<start course description for 48-695 Master of Architecture>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: TBA
+</end course description for 48-695 Master of Architecture>

@@ -1,0 +1,16 @@
+<start course metadata for 70-417 Topics in Entrepreneurship>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Topics in Entrepreneurship
+Course Number: 70-417
+Department: Business Administration
+Number of Units: 9
+Prerequisites: None
+Instructors: Maher Hakim
+Rooms: 
+Locations: Doha, Qatar
+</end course metadata for 70-417 Topics in Entrepreneurship>
+
+<start course description for 70-417 Topics in Entrepreneurship>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: This course covers Design Thinking, Artificial Intelligence (AI), and Entrepreneurship. This course covers the emergence of 5 new bodies of knowledge that will be increasingly important to society and to new job creation. These bodies of knowledge concern "Design Thinking, Artificial Intelligence (AI), Collective Intelligence, Secrets of Highly Successful Teams, and Entrepreneurship.
+</end course description for 70-417 Topics in Entrepreneurship>

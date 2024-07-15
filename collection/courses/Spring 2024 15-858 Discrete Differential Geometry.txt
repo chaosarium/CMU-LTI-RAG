@@ -1,0 +1,16 @@
+<start course metadata for 15-858 Discrete Differential Geometry>
+Semester: Spring 2024 (aka S24)
+Course Name: Discrete Differential Geometry
+Course Number: 15-858
+Department: Computer Science
+Number of Units: 12
+Prerequisites: None
+Instructors: Keenan Crane
+Rooms: GHC 4303
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-858 Discrete Differential Geometry>
+
+<start course description for 15-858 Discrete Differential Geometry>
+Semester: Spring 2024 (aka S24)
+Course Description: This course focuses on three-dimensional geometry processing, while simultaneously providing a first course in traditional differential geometry. Our main goal is to show how fundamental geometric concepts (like curvature) can be understood from complementary computational and mathematical points of view. This dual perspective enriches understanding on both sides, and leads to the development of practical algorithms for working with real-world geometric data. Along the way we will revisit important ideas from calculus and linear algebra, putting a strong emphasis on intuitive, visual understanding that complements the more traditional formal, algebraic treatment. The course provides essential mathematical background as well as a large array of real-world examples and applications. It also provides a short survey of recent developments in digital geometry processing and discrete differential geometry. Topics include: curves and surfaces, curvature, connections and parallel transport, exterior algebra, exterior calculus, Stokes' theorem, simplicial homology, de Rham cohomology, Helmholtz-Hodge decomposition, conformal mapping, finite element methods, and numerical linear algebra.Applications include: approximation of curvature, curve and surface smoothing, surface parameterization, vector field design, and computation of geodesic distance.
+</end course description for 15-858 Discrete Differential Geometry>

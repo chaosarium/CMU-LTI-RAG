@@ -1,0 +1,16 @@
+<start course metadata for 85-359 Introduction to Music Cognition Research>
+Semester: Fall 2023 (aka F23)
+Course Name: Introduction to Music Cognition Research
+Course Number: 85-359
+Department: Psychology
+Number of Units: 9
+Prerequisites: (85-102 and 36-200) or (85-211 and 36-200)
+Instructors: Laurie Heller, Richard Randall
+Rooms: BH 336A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 85-359 Introduction to Music Cognition Research>
+
+<start course description for 85-359 Introduction to Music Cognition Research>
+Semester: Fall 2023 (aka F23)
+Course Description: This course explores the roles of cognitive processes in the experience of music with a focus on carrying out a collaborative laboratory project in order to understand first-hand the challenges of the experimental study of music. In readings, lectures, discussions, and demonstrations we will become acquainted with the relevant psychological theories of perception, memory and learning, and review and critically analyze selected experimental findings on the psychology of music. We will examine the use of psychological principles (e.g. Gestalt laws of perception, limitations on working memory, categorical perception, chunking, schemas, modularity) to explain musical phenomena. The emphasis will be on applying an experimental approach to music perception and cognition, but we will also consider ongoing debates about larger issues (such as musics adaptive value to the human species, and the determinants of musical taste). Prerequisite: either Harmony 1 or Cognitive Psychology or introduction to psychology or an intro level statistics or by instructor permission.
+</end course description for 85-359 Introduction to Music Cognition Research>

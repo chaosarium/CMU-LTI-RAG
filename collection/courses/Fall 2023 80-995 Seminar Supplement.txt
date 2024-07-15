@@ -1,0 +1,16 @@
+<start course metadata for 80-995 Seminar Supplement>
+Semester: Fall 2023 (aka F23)
+Course Name: Seminar Supplement
+Course Number: 80-995
+Department: Philosophy
+Number of Units: N/A
+Prerequisites: None
+Instructors: Adam Bjorndahl
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 80-995 Seminar Supplement>
+
+<start course description for 80-995 Seminar Supplement>
+Semester: Fall 2023 (aka F23)
+Course Description: Seminar Supplement
+</end course description for 80-995 Seminar Supplement>

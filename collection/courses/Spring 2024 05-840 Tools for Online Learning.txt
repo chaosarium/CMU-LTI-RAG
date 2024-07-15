@@ -1,0 +1,16 @@
+<start course metadata for 05-840 Tools for Online Learning>
+Semester: Spring 2024 (aka S24)
+Course Name: Tools for Online Learning
+Course Number: 05-840
+Department: Human-Computer Interaction
+Number of Units: 12
+Prerequisites: None
+Instructors: John Stamper, Steven Moore
+Rooms: WEH 2302
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 05-840 Tools for Online Learning>
+
+<start course description for 05-840 Tools for Online Learning>
+Semester: Spring 2024 (aka S24)
+Course Description: In this course, we will explore issues that pertain to interaction and interface design. The class will focus on elements of the larger interaction design process including basic design principles, information architecture and navigation, planning and brainstorming methods, and techniques for developing rapid sketches and prototypes. Course Requirements: This class will not focus on learning specific software tools. Students are expected to have prior experience using a variety of design and programming tools. Please speak with the instructor if you have questions regarding these prerequisites. This course was design for students in the METALS program.
+</end course description for 05-840 Tools for Online Learning>

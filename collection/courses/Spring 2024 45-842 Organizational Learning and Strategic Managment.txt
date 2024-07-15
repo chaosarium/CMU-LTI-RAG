@@ -1,0 +1,16 @@
+<start course metadata for 45-842 Organizational Learning and Strategic Managment>
+Semester: Spring 2024 (aka S24)
+Course Name: Organizational Learning and Strategic Managment
+Course Number: 45-842
+Department: Business Administration
+Number of Units: 6
+Prerequisites: 45-740 or 45-742
+Instructors: Linda Argote
+Rooms: TEP 2110
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-842 Organizational Learning and Strategic Managment>
+
+<start course description for 45-842 Organizational Learning and Strategic Managment>
+Semester: Spring 2024 (aka S24)
+Course Description: Managing knowledge effectively is key to the performance and competitiveness of organizations. The course examines how organizations innovate or create new knowledge, how they retain knowledge, and how they transfer knowledge. Strategic implications of new results on organizational learning and knowledge management are also developed.  Students will acquire a greater appreciation of the dynamics of organizations and how to analyze them.  You will also learn techniques for increasing your effectiveness as a manager, such as approaches for promoting creativity and knowledge sharing in organizations.  A mix of lectures, guest presentations, cases and exercises are used to increase your ability to create, retain and transfer knowledge effectively in organizations. Course requirements include class participation, a mid-term test, and a paper. The course is particularly relevant for students interested in careers in consulting, operations, strategy, or human resource management.
+</end course description for 45-842 Organizational Learning and Strategic Managment>

@@ -1,0 +1,16 @@
+<start course metadata for 24-650 Applied Finite Element Analysis>
+Semester: Fall 2023 (aka F23)
+Course Name: Applied Finite Element Analysis
+Course Number: 24-650
+Department: Mechanical Engineering
+Number of Units: 12
+Prerequisites: 24-262 and 24-322
+Instructors: Dave Conover
+Rooms: ANS B10
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-650 Applied Finite Element Analysis>
+
+<start course description for 24-650 Applied Finite Element Analysis>
+Semester: Fall 2023 (aka F23)
+Course Description: This is an introductory course on the finite element method with emphasis on application of the method to a wide variety of problems.  The theory of finite element analysis is presented and students learn various applications of the method through assignments utilizing standard finite element software packages commonly used in industry.   Various types of analyses are considered, which may include, for example, static, pseudo-static, dynamic, modal, buckling, contact, heat transfer, thermal stress and thermal shock.  Students also learn to use a variety of element types in the models created, such as truss, beam, spring, solid, plate, and shell elements.
+</end course description for 24-650 Applied Finite Element Analysis>

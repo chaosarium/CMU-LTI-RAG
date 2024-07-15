@@ -1,0 +1,16 @@
+<start course metadata for 48-752 Zero Energy Housing>
+Semester: Spring 2024 (aka S24)
+Course Name: Zero Energy Housing
+Course Number: 48-752
+Department: Architecture
+Number of Units: 9
+Prerequisites: None
+Instructors: Nina Baird
+Rooms: MM 415IW
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-752 Zero Energy Housing>
+
+<start course description for 48-752 Zero Energy Housing>
+Semester: Spring 2024 (aka S24)
+Course Description: Are you interested in designing or renovating the high-performance multifamily housing of the future? Would it surprise you to know that despite numerous successful single-family projects, only a limited number of successful multistory, multifamily zero examples exist? Creating multifamily housing that reaches net zero or carbon neutral goals is challenging since occupant behavior can influence the outcome as much as building design and construction. Yet multifamily housing is an essential typology to address rapid development and urbanization. Take on the challenge of creating high performance housing for our net zero future by exploring the technical and social demands of multifamily zero energy design or renovation. 48-752 is a graduate level course designed to support that goal. Through lectures, outside research, discussion, and a final applied project, you'll explore the design approaches, codes, policy, technology, and energy infrastructure options that can help you achieve the housing performance we know is essential for a sustainable future.
+</end course description for 48-752 Zero Energy Housing>

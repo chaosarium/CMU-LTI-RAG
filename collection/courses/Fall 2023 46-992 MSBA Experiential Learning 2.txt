@@ -1,0 +1,16 @@
+<start course metadata for 46-992 MSBA Experiential Learning 2>
+Semester: Fall 2023 (aka F23)
+Course Name: MSBA Experiential Learning 2
+Course Number: 46-992
+Department: Business Administration
+Number of Units: 3
+Prerequisites: None
+Instructors: Ganesh Mani
+Rooms: TEP 2111
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 46-992 MSBA Experiential Learning 2>
+
+<start course description for 46-992 MSBA Experiential Learning 2>
+Semester: Fall 2023 (aka F23)
+Course Description: TBD
+</end course description for 46-992 MSBA Experiential Learning 2>

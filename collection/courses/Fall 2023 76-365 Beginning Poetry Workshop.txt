@@ -1,0 +1,16 @@
+<start course metadata for 76-365 Beginning Poetry Workshop>
+Semester: Fall 2023 (aka F23)
+Course Name: Beginning Poetry Workshop
+Course Number: 76-365
+Department: English
+Number of Units: 9
+Prerequisites: (76-102 or 76-101 or 76-106 or 76-107 or 76-108) and (76-265)
+Instructors: Lauren Shapiro
+Rooms: PH A19C
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 76-365 Beginning Poetry Workshop>
+
+<start course description for 76-365 Beginning Poetry Workshop>
+Semester: Fall 2023 (aka F23)
+Course Description: In this course students will read and discuss the poems and collections of contemporary poets, attend outside readings and events, critique their classmates' poems, and create a body of poetic work. We will look closely at such things as lineation and form, hybrid and multimedia poetics, and the role of poetry in a charged political and pandemic landscape. I will encourage students to experiment and to take their craft in new directions through weekly writing assignments and in-class exercises. Ultimately, this course will help students become stronger writers, readers, and critics.
+</end course description for 76-365 Beginning Poetry Workshop>

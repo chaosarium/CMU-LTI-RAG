@@ -1,0 +1,16 @@
+<start course metadata for 19-677 Economics of Innovation Strategy>
+Semester: Fall 2023 (aka F23)
+Course Name: Economics of Innovation Strategy
+Course Number: 19-677
+Department: Engineering & Public Policy
+Number of Units: 6
+Prerequisites: None
+Instructors: Jason O'Connor
+Rooms: DH 1112
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 19-677 Economics of Innovation Strategy>
+
+<start course description for 19-677 Economics of Innovation Strategy>
+Semester: Fall 2023 (aka F23)
+Course Description: This course will introduce students to the economic models that underpin innovation strategy. We will emphasize the application of frameworks from the economics of tech-nical change to understand how technology markets evolve and what strategies allow firms to capture value from innovation. The aim of the course is to develop a rigorous foundation in economics that students can use in professional roles such as:    a manager in a technology-intensive firm  an engineer or scientist interested in new product development/R&D;  an analyst or investor in technology markets  a management consultant specializing in technology-intensive industries
+</end course description for 19-677 Economics of Innovation Strategy>

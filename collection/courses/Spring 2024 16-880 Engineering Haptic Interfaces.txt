@@ -1,0 +1,16 @@
+<start course metadata for 16-880 Engineering Haptic Interfaces>
+Semester: Spring 2024 (aka S24)
+Course Name: Engineering Haptic Interfaces
+Course Number: 16-880
+Department: Robotics
+Number of Units: 12
+Prerequisites: None
+Instructors: Melisa Orta Martinez
+Rooms: ANS C02
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 16-880 Engineering Haptic Interfaces>
+
+<start course description for 16-880 Engineering Haptic Interfaces>
+Semester: Spring 2024 (aka S24)
+Course Description: This course focuses on addressing challenges in the field of haptics from an engineer's perspective. We will begin by studying human haptic perception and an introduction into psychophysics. We will then study the design and control of haptic systems which provide touch feedback to a user. The class format will include lectures, discussion, paper presentations, laboratories and assignments using hardware that will be shipped to the students, and a class project. This class is designed to be a graduate/advanced undergraduate course and requires a background in dynamic systems, mechatronics, and basic programming.  Mechanical prototyping, robotics, and feedback control knowledge are useful skills for this class but are not required.
+</end course description for 16-880 Engineering Haptic Interfaces>

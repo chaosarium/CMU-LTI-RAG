@@ -1,0 +1,16 @@
+<start course metadata for 09-222 Laboratory II: Organic Synthesis and Analysis>
+Semester: Spring 2024 (aka S24)
+Course Name: Laboratory II: Organic Synthesis and Analysis
+Course Number: 09-222
+Department: Chemistry
+Number of Units: 12
+Prerequisites: (09-217 or 09-219) and (09-221 or 09-223)
+Instructors: Niharika Krishn Botcha
+Rooms: DH 1211
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 09-222 Laboratory II: Organic Synthesis and Analysis>
+
+<start course description for 09-222 Laboratory II: Organic Synthesis and Analysis>
+Semester: Spring 2024 (aka S24)
+Course Description: In this second course in the laboratory sequence, students acquire laboratory skills relevant to synthesis and purification of organic compounds, as well as the practical use of chromatography and spectroscopy. Students will also further develop technical writing skills through preparation of lab reports. 2 hrs. lec., 6 hrs. lab.
+</end course description for 09-222 Laboratory II: Organic Synthesis and Analysis>

@@ -1,0 +1,16 @@
+<start course metadata for 12-746 Special Topics: Intro to Python Prototyping for Infrastructure Systems>
+Semester: Fall 2023 (aka F23)
+Course Name: Special Topics: Intro to Python Prototyping for Infrastructure Systems
+Course Number: 12-746
+Department: Civil & Environmental Engineering
+Number of Units: 6
+Prerequisites: None
+Instructors: Susan Finger
+Rooms: SH 236
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 12-746 Special Topics: Intro to Python Prototyping for Infrastructure Systems>
+
+<start course description for 12-746 Special Topics: Intro to Python Prototyping for Infrastructure Systems>
+Semester: Fall 2023 (aka F23)
+Course Description: This course uses the Python programming language to introduce fundamental programming approaches to students from civil and environmental engineering. No prerequisite required and students with no programming experience are recommended to take this course. This course will cover fundamental programming approaches, object-oriented programming concepts, graphical user interface design in Python, and file and database operation. Real-world examples from infrastructure management will be used in the class for demonstration and term project. Students will work individually and in teams to develop a series of applications that are potentially be used in real-world applications.
+</end course description for 12-746 Special Topics: Intro to Python Prototyping for Infrastructure Systems>

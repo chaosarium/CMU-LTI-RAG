@@ -1,0 +1,16 @@
+<start course metadata for 17-611 Statistics for Decision Making>
+Semester: Fall 2023 (aka F23)
+Course Name: Statistics for Decision Making
+Course Number: 17-611
+Department: Software & Societal Systems
+Number of Units: 6
+Prerequisites: None
+Instructors: Pavetti
+Rooms: CMU REMOTE
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 17-611 Statistics for Decision Making>
+
+<start course description for 17-611 Statistics for Decision Making>
+Semester: Fall 2023 (aka F23)
+Course Description: Measurements and their analysis play a critical role in effective and efficient software development, the construction of data driven applications, as well as provide the scientific basis for software engineering to become a true engineering discipline. This course combines a refresher in basic statistics techniques with an introduction to measurement theory to enable students define valid measurements in their domain of application. After completing this course, students will be capable of creating operational definitions for the measurements, establish the validity of the chosen constructs, design appropriate scales for them and select the right tools to describe typical values, their dispersion and test their significance.
+</end course description for 17-611 Statistics for Decision Making>

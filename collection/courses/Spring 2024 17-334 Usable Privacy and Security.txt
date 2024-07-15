@@ -1,0 +1,16 @@
+<start course metadata for 17-334 Usable Privacy and Security>
+Semester: Spring 2024 (aka S24)
+Course Name: Usable Privacy and Security
+Course Number: 17-334
+Department: Software & Societal Systems
+Number of Units: 9
+Prerequisites: None
+Instructors: Lorrie Cranor, Yuvraj Agarwal
+Rooms: DNM DNM; HH B103
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 17-334 Usable Privacy and Security>
+
+<start course description for 17-334 Usable Privacy and Security>
+Semester: Spring 2024 (aka S24)
+Course Description: There is growing recognition that technology alone will not provide all of the solutions to security and privacy problems. Human factors play an important role in these areas, and it is important for security and privacy experts to have an understanding of how people will interact with the systems they develop. This course is designed to introduce students to a variety of usability and user interface problems related to privacy and security and to give them experience in designing studies aimed at helping to evaluate usability issues in security and privacy systems. The course is suitable both for students interested in privacy and security who would like to learn more about usability, as well as for students interested in usability who would like to learn more about security and privacy. Much of the course will be taught in a graduate seminar style in which all students will be expected to do a weekly reading assignment and each week different students will prepare a presentation for the class. Students will also work on a group project throughout the semester. The course is open to all graduate students who have technical backgrounds. The 12-unit course numbers (08-734 and 5-836) are for PhD students and masters students. Students enrolled in these course numbers will be expected to play a leadership role in a group project that produces a paper suitable for publication.  The 9-unit 500-level course numbers (08-534 and 05-436) are for juniors, seniors, and masters students. Students enrolled in these course numbers will have less demanding project and presentation requirements.
+</end course description for 17-334 Usable Privacy and Security>

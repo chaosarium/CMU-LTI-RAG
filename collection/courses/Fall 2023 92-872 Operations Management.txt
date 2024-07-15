@@ -1,0 +1,16 @@
+<start course metadata for 92-872 Operations Management>
+Semester: Fall 2023 (aka F23)
+Course Name: Operations Management
+Course Number: 92-872
+Department: Medical Management:Sch of Pub Pol & Mgt
+Number of Units: 4
+Prerequisites: None
+Instructors: Jonathan Caulkins
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 92-872 Operations Management>
+
+<start course description for 92-872 Operations Management>
+Semester: Fall 2023 (aka F23)
+Course Description: No course description provided.
+</end course description for 92-872 Operations Management>

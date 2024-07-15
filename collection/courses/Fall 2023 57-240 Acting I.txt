@@ -1,0 +1,16 @@
+<start course metadata for 57-240 Acting I>
+Semester: Fall 2023 (aka F23)
+Course Name: Acting I
+Course Number: 57-240
+Department: Music
+Number of Units: 3
+Prerequisites: None
+Instructors: Kelly Trumbull
+Rooms: CFA ACH
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-240 Acting I>
+
+<start course description for 57-240 Acting I>
+Semester: Fall 2023 (aka F23)
+Course Description: The basics of acting will be established throughout the first year following the guideposts described in Audition, by Michael Shurtleffís. Structured improvisations, monologues, scene work, songs, and arias will provide a platform for the development of stage presence and effective communication. Each semester will finish with a group project that provides an opportunity for the students to begin to work together as a cast.
+</end course description for 57-240 Acting I>

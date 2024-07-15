@@ -1,0 +1,6 @@
+Name: Yonatan Bisk
+Title: Assistant Professor
+Email ybisk@cs.cmu.edu
+Phone: 
+Office: Gates & Hillman Centers
+Interests: Grounding, RoboNLP, Vision and Language, Embodiment, Unsupervised Learning

@@ -1,0 +1,16 @@
+<start course metadata for 48-630 M.Arch Studio: Praxis 1>
+Semester: Fall 2023 (aka F23)
+Course Name: M.Arch Studio: Praxis 1
+Course Number: 48-630
+Department: Architecture
+Number of Units: 18
+Prerequisites: None
+Instructors: Jonathan Kline, Sarosh Anklesaria
+Rooms: MM 312
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-630 M.Arch Studio: Praxis 1>
+
+<start course description for 48-630 M.Arch Studio: Praxis 1>
+Semester: Fall 2023 (aka F23)
+Course Description: TBA
+</end course description for 48-630 M.Arch Studio: Praxis 1>

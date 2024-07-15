@@ -1,0 +1,16 @@
+<start course metadata for 51-173 Design Center: Human Experience in Design>
+Semester: Fall 2023 (aka F23)
+Course Name: Design Center: Human Experience in Design
+Course Number: 51-173
+Department: Design
+Number of Units: 9
+Prerequisites: None
+Instructors: Brett Yasko
+Rooms: MM 103
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-173 Design Center: Human Experience in Design>
+
+<start course description for 51-173 Design Center: Human Experience in Design>
+Semester: Fall 2023 (aka F23)
+Course Description: Design touches, and can profoundly affect, people's lives. But why? And how? This course begins with a broad definition of what design is (and can be). We'll see how design is about the process as much as it is about the final product. We'll look at how the end user interacts with what is designed. And we'll discuss how designers need to think beyond the actual artifact to what lies behind it. We'll touch on design theory, design practice, design responsibility and even some design history. And through a series of guest lectures, explorations of other designers' work, field trips, viewings, class discussions and projects, we'll try to determine just what design is and what designers do.
+</end course description for 51-173 Design Center: Human Experience in Design>

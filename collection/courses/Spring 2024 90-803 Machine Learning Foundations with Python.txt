@@ -1,0 +1,16 @@
+<start course metadata for 90-803 Machine Learning Foundations with Python>
+Semester: Spring 2024 (aka S24)
+Course Name: Machine Learning Foundations with Python
+Course Number: 90-803
+Department: Public Policy & Mgt:Sch of Pub Pol & Mgt
+Number of Units: 12
+Prerequisites: (90-819 or 95-888) and (90-707 or 90-711 or 95-796) and (90-800)
+Instructors: Gabriela Gongora-Svartzman
+Rooms: HBH 1206; HBH A301
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 90-803 Machine Learning Foundations with Python>
+
+<start course description for 90-803 Machine Learning Foundations with Python>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is designed to give students a solid grounding in algorithms, modeling, and tools employed in machine learning. The emphasis is on understanding the application of a wide range of modern machine learning techniques to specific data analysis scenarios rather than on mastering the theoretical underpinnings of the techniques. The course covers methods that are aimed at both supervised learning (e.g. prediction, classification) and unsupervised learning (e.g., clustering). This course is focused on applying machine learning with Python, and students will learn to develop and run Jupyter Notebooks and scripts. Nonetheless, students will gain an understanding of each algorithm, allowing them to assess performance and choose the best model for real-world datasets.
+</end course description for 90-803 Machine Learning Foundations with Python>

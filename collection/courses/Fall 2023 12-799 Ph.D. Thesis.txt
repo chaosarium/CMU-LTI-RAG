@@ -1,0 +1,16 @@
+<start course metadata for 12-799 Ph.D. Thesis>
+Semester: Fall 2023 (aka F23)
+Course Name: Ph.D. Thesis
+Course Number: 12-799
+Department: Civil & Environmental Engineering
+Number of Units: N/A
+Prerequisites: None
+Instructors: Burcu Akinci
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 12-799 Ph.D. Thesis>
+
+<start course description for 12-799 Ph.D. Thesis>
+Semester: Fall 2023 (aka F23)
+Course Description: Independent research on significant fundamental problems in a major area of study, with the advice and approval of the faculty. Required of candidates for the degree of Doctor of Philosophy in Civil and Environmental Engineering.
+</end course description for 12-799 Ph.D. Thesis>

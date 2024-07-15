@@ -1,0 +1,16 @@
+<start course metadata for 76-846 Revenge Tragedy>
+Semester: Fall 2023 (aka F23)
+Course Name: Revenge Tragedy
+Course Number: 76-846
+Department: English
+Number of Units: N/A
+Prerequisites: None
+Instructors: Stephen Wittek
+Rooms: PH 125D
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 76-846 Revenge Tragedy>
+
+<start course description for 76-846 Revenge Tragedy>
+Semester: Fall 2023 (aka F23)
+Course Description: Attendants to the early modern English theater seem to have had an almost insatiable appetite for revenge tragedy: a lurid, blood-soaked genre distinguished by plots involving insanity, skulls, ghosts, poisonings, stabbings, suicide, and other forms of unnatural death. This course will cover key examples of the genre, putting particular emphasis on the depiction and interrogation of justice, analyses of death, and playful engagement with theatricality. Our central curriculum will include the following plays: Thyestes (Seneca), The Spanish Tragedy (Kyd), Titus Andronicus (Shakespeare), Hamlet (Shakespeare), The Revenger's Tragedy (Middleton), and The Duchess of Malfi (Webster). We will also read a selection of critical essays and related literature from the period.
+</end course description for 76-846 Revenge Tragedy>

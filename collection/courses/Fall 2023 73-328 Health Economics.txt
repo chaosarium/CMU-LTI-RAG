@@ -1,0 +1,16 @@
+<start course metadata for 73-328 Health Economics>
+Semester: Fall 2023 (aka F23)
+Course Name: Health Economics
+Course Number: 73-328
+Department: Economics
+Number of Units: 12
+Prerequisites: (21-120) and (73-102 or 73-104)
+Instructors: Martin Gaynor
+Rooms: HBH 1005
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 73-328 Health Economics>
+
+<start course description for 73-328 Health Economics>
+Semester: Fall 2023 (aka F23)
+Course Description: This course will teach the student to use economic analysis to understand critical issues in health care and and health policy. We will address issues such as the following:   1. What factors best explain the level and rate of growth of U.S. health expenditures?   2. Does the recent high rate of growth of U.S. health care expenditures make U.S. firms less competitive in international markets?   3. What are some of the likely consequences (intended and unintended) of the proposed reforms to Medicare?   4. Can physicians induce demand for their services?   5. What are the impacts of managed care on the health care system?   6. Do strong affiliations between physicians and health plans hurt competition?    (Lecture, 3 hours). Minimum grade of "C" required in all economics pre-requisite courses.  Junior standing required.
+</end course description for 73-328 Health Economics>

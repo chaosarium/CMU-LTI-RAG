@@ -1,0 +1,16 @@
+<start course metadata for 49-750 Integrated Thinking for Innovation>
+Semester: Fall 2023 (aka F23)
+Course Name: Integrated Thinking for Innovation
+Course Number: 49-750
+Department: Integrated Innovation Institute
+Number of Units: 6
+Prerequisites: None
+Instructors: Omid Saadati
+Rooms: B23 211; B23 227
+Locations: San Jose, California
+</end course metadata for 49-750 Integrated Thinking for Innovation>
+
+<start course description for 49-750 Integrated Thinking for Innovation>
+Semester: Fall 2023 (aka F23)
+Course Description: The challenges our world is facing today signal an unprecedented need for innovators who can analyze wicked problems, communicate system complexities, and work effectively with stakeholders from multiple industries to generate multiple solution pathways. The toughest problems require us to employ a multi-disciplinary approach and to develop a growth mindset to embrace new ways of thinking and working. Innovators need to understand a problem from multiple perspectives and learn how to empathize and work collaboratively with stakeholders. In this studio course, students practice modeling complex system problems, and engage in critical thinking through process retrospectives and peer- and self-critique of work products. Students will learn and practice a toolkit of methods and frameworks (e.g. systems thinking) to guide intelligent problem exploration and framing.
+</end course description for 49-750 Integrated Thinking for Innovation>

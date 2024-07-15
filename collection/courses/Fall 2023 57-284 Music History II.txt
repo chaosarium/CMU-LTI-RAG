@@ -1,0 +1,16 @@
+<start course metadata for 57-284 Music History II>
+Semester: Fall 2023 (aka F23)
+Course Name: Music History II
+Course Number: 57-284
+Department: Music
+Number of Units: 9
+Prerequisites: 57-283
+Instructors: Paul Johnston
+Rooms: CFA A2
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-284 Music History II>
+
+<start course description for 57-284 Music History II>
+Semester: Fall 2023 (aka F23)
+Course Description: This class will be an in-depth analytical study of music of the Classical and Romantic periods.  It will emphasize selected genres and forms by representative composers in order to trace the evolution of musical style, to clarify the main characteristics of these periods, to set the musical developments in broader cultural contexts, and to apply this knowledge to practical decisions made by today's musician.
+</end course description for 57-284 Music History II>

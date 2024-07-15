@@ -1,0 +1,16 @@
+<start course metadata for 88-300 Programming and Data Analysis for Social Scientists>
+Semester: Spring 2024 (aka S24)
+Course Name: Programming and Data Analysis for Social Scientists
+Course Number: 88-300
+Department: Social & Decision Sciences
+Number of Units: 9
+Prerequisites: 36-200 or 36-201
+Instructors: Mark Patterson
+Rooms: POS 145
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 88-300 Programming and Data Analysis for Social Scientists>
+
+<start course description for 88-300 Programming and Data Analysis for Social Scientists>
+Semester: Spring 2024 (aka S24)
+Course Description: This course presents an introduction to computational thinking through practice with data analysis.  Students will develop extensive expertise using the statistical programming language R.  Designed primarily with social science majors in mind, students will use a variety of data structures to represent information and solve problems.  The course is conducted in a "flipped classroom" style, and places a heavy emphasis on hands-on programming -- in every class, students will practice writing computer programs to conduct analysis and explore social science phenomena.    Students will develop skills in all facets of the data analysis pipeline, from installing and loading packages to reading-in files to data cleaning, munging, visualization and modeling.  The course is primarily intended for students who have limited familiarity with coding, and assumes no previous exposure to R.
+</end course description for 88-300 Programming and Data Analysis for Social Scientists>

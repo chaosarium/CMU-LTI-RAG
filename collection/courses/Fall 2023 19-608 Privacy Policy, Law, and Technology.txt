@@ -1,0 +1,16 @@
+<start course metadata for 19-608 Privacy Policy, Law, and Technology>
+Semester: Fall 2023 (aka F23)
+Course Name: Privacy Policy, Law, and Technology
+Course Number: 19-608
+Department: Engineering & Public Policy
+Number of Units: 12
+Prerequisites: None
+Instructors: Lujo Bauer
+Rooms: CMR A203; SH 236
+Locations: Kigali, Rwanda; Pittsburgh, Pennsylvania
+</end course metadata for 19-608 Privacy Policy, Law, and Technology>
+
+<start course description for 19-608 Privacy Policy, Law, and Technology>
+Semester: Fall 2023 (aka F23)
+Course Description: This course focuses on policy issues related to privacy from the perspectives of governments, organizations, and individuals. We will begin with a historical and philosophical study of privacy and then explore recent public policy issues. We will examine the privacy protections provided by laws and regulations, as well as the way technology can be used to protect privacy. We will emphasize technology-related privacy concerns and mitigation, for example: social networks, smartphones, behavioral advertising (and tools to prevent targeted advertising and tracking), anonymous communication systems, big data, and drones. This is part of a series of courses offered as part of the MSIT-Privacy Engineering masters program. These courses may be taken in any order or simultaneously. Foundations of Privacy (Fall semester) offers more in-depth coverage of technologies and algorithms used to reason about and protect privacy. Engineering Privacy in Software (Spring semester) focuses on the methods and tools needed to design systems for privacy. This course is intended primarily for graduate students and advanced undergraduate students with some technical background. Programming skills are not required. 8-733, 19-608, and 95-818 are 12-unit courses for PhD students. Students enrolled under these course numbers will have extra assignments and will be expected to do a project suitable for publication. 8-533 is a 9-unit course for undergraduate students. Masters students may register for any of the course numbers permitted by their program. This course will include a lot of reading, writing, and class discussion. Students will be able to tailor their assignments to their skills and interests. However, all students will be expected to do some writing and some technical work.
+</end course description for 19-608 Privacy Policy, Law, and Technology>

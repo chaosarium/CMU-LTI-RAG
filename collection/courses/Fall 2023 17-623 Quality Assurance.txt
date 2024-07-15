@@ -1,0 +1,16 @@
+<start course metadata for 17-623 Quality Assurance>
+Semester: Fall 2023 (aka F23)
+Course Name: Quality Assurance
+Course Number: 17-623
+Department: Software & Societal Systems
+Number of Units: 6
+Prerequisites: None
+Instructors: Gennari, Timperley
+Rooms: 3SC 265
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 17-623 Quality Assurance>
+
+<start course description for 17-623 Quality Assurance>
+Semester: Fall 2023 (aka F23)
+Course Description: This class is fundamentally about software quality assurance and control. This course will introduce various quality assurance tools and techniques to software engineering students. Students will build their "quality toolbox" not only with useful tools and techniques, but with the knowledge of when those tools should be used, how to evaluate their results, and what assurances they can provide. The key learning objectives of the course include: 1. Understand software quality: how to define it, analyze it, and measure it. 2. Select the proper analytical tool/technique for a given situation and explore how to analyze results. 3. Understand the strengths and weaknesses of different quality assurance techniques, such as software testing, static analysis, code review, and demonstration. 4. Learn to collect, manage, and evaluate quality metrics. 5. Analyze and verify a variety of software properties including, but not limited to, functionality, security, reliability, and performance. 6. Gain experience with real quality assurance tools including static analysis tools, software testing frameworks, and software quality measurement tools
+</end course description for 17-623 Quality Assurance>

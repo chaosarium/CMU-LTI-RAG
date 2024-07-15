@@ -1,0 +1,16 @@
+<start course metadata for 57-121 Elective Studio (Piano)>
+Semester: Spring 2024 (aka S24)
+Course Name: Elective Studio (Piano)
+Course Number: 57-121
+Department: Music
+Number of Units: N/A
+Prerequisites: None
+Instructors: Amaury Morales, Carla Larocca, Christopher Capizzi, Frederic Chiu, Hyun Ju Curtin, Mehyon Moon, Rodrigo Ojeda, Sergey Schepkin, Sung-Im Kim, Tatyana Gelman
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-121 Elective Studio (Piano)>
+
+<start course description for 57-121 Elective Studio (Piano)>
+Semester: Spring 2024 (aka S24)
+Course Description: Private lessons for non-music majors on orchestral instruments, voice, keyboard, guitar, Alexander Technique, jazz improvisation, composition, and bagpipes.  An appropriate fee will be charged according to length of lesson.  Practice facilities and instrument ownership are the responsibility of the student.  Instructor permission required.
+</end course description for 57-121 Elective Studio (Piano)>

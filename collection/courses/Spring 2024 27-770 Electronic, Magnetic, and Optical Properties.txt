@@ -1,0 +1,16 @@
+<start course metadata for 27-770 Electronic, Magnetic, and Optical Properties>
+Semester: Spring 2024 (aka S24)
+Course Name: Electronic, Magnetic, and Optical Properties
+Course Number: 27-770
+Department: Materials Science & Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Marek Skowronski
+Rooms: WEH 4708
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 27-770 Electronic, Magnetic, and Optical Properties>
+
+<start course description for 27-770 Electronic, Magnetic, and Optical Properties>
+Semester: Spring 2024 (aka S24)
+Course Description: The course emphasizes the electrical, magnetic and optical properties of materials and the principles underlying devices that depend on these properties. The necessary background in quantum mechanics and electromagnetism will be developed as needed. Subjects will include electronic structure and transport properties, dielectric behavior, optical processes, magnetic properties, devices and superconductivity. 4 hrs. lec.
+</end course description for 27-770 Electronic, Magnetic, and Optical Properties>

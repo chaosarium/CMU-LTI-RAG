@@ -1,0 +1,16 @@
+<start course metadata for 16-725 (Bio)Medical Image Analysis>
+Semester: Spring 2024 (aka S24)
+Course Name: (Bio)Medical Image Analysis
+Course Number: 16-725
+Department: Robotics
+Number of Units: 12
+Prerequisites: None
+Instructors: John Galeotti
+Rooms: GHC 4102
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 16-725 (Bio)Medical Image Analysis>
+
+<start course description for 16-725 (Bio)Medical Image Analysis>
+Semester: Spring 2024 (aka S24)
+Course Description: Students will gain theoretical and practical skills in 2D, 3D, and 4D biomedical image analysis, including skills relevant to general image analysis. The fundamentals of computational medical image analysis will be explored, leading to current research in applying geometry and statistics to segmentation, registration, visualization, and image understanding.  Additional and related covered topics include de-noising/restoration, morphology, level sets, and shape/feature analysis.  Students will develop practical experience through projects using the latest version of the National Library of Medicine Insight Toolkit ( ITK ) and SimpleITK, a popular open-source software library developed by a consortium of institutions including Carnegie Mellon University and the University of Pittsburgh. In addition to image analysis, the course will include interaction with radiologists and pathologist(s). *** Lectures are at CMU and students will visit clinicians at UPMC.  Some or all of the class lectures may also be videoed for public distribution, but students may request to be excluded from distributed video. 16-725 is a graduate class, and 16-425 is a cross-listed undergraduate section.  16-425 is new this year, and has substantially reduced requirements for the final project and for the larger homework assignments, nor does it require shadowing the clinicians. Prerequisites:  Knowledge of vector calculus, basic probability, and either C++ or python, including basic command-line familiarity and how to pass arguments to your own command-line programs.  Extensive expertise with C++ and templates is not necessary, but some students may find it helpful.
+</end course description for 16-725 (Bio)Medical Image Analysis>

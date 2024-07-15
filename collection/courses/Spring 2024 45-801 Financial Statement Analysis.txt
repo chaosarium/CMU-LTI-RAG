@@ -1,0 +1,16 @@
+<start course metadata for 45-801 Financial Statement Analysis>
+Semester: Spring 2024 (aka S24)
+Course Name: Financial Statement Analysis
+Course Number: 45-801
+Department: Business Administration
+Number of Units: 6
+Prerequisites: 45-700
+Instructors: Austin Sudbury
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-801 Financial Statement Analysis>
+
+<start course description for 45-801 Financial Statement Analysis>
+Semester: Spring 2024 (aka S24)
+Course Description: STUDENTS ARE NOT PERMITTED TO TAKE THIS COURSE FOR PASS/FAIL  1. Course objectives: This course is about fundamental analysis using financial statements.  We develop and apply tools to help us understand firm activities that generate shareholder value.  We also study earnings management, earnings quality, and the financial reporting regulatory environment in order to develop a more refined understanding of financial statements and how to make adjustments to them to improve your analysis.   2. Features of the approach:   -Builds from first principles  -Compares different approaches  -Stresses fundamental analysis and, in particular, the distinction between operating and financing activities to isolate the value drivers -Exploits accounting as a system for measuring value added   Here is a list of topics we address:   -Which firm activities generate value?   -How do we evaluate earnings quality (persistence)?   -How do we pull apart and reformulate financial statements to get at the relevant information?   -How should we do ratio analysis to reflect the underlying economic activities of the firm?   3. Course organization:  The course uses a combination of lectures, cases, and a take-home final exam.  Your participation in case discussions is a key component of the course
+</end course description for 45-801 Financial Statement Analysis>

@@ -1,0 +1,16 @@
+<start course metadata for 45-881 Modern Data Management>
+Semester: Spring 2024 (aka S24)
+Course Name: Modern Data Management
+Course Number: 45-881
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Yan Huang
+Rooms: TEP 2112
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-881 Modern Data Management>
+
+<start course description for 45-881 Modern Data Management>
+Semester: Spring 2024 (aka S24)
+Course Description: This course introduces modern methods and tools for data collection, storage, retrieval and analysis. It covers the design and implementation of relational databases (e.g., MySQL databases), Structured Query Language (SQL), data preparation using Tableau Prep, joining and blending multiple data sources in Tableau, and a brief discussion of data management challenges in the big data era.    By the end of this course, you will be able to manage data of varying sizes with various tools. There will be considerable use of "hands-on" exercises throughout the course to familiarize you with these tools.
+</end course description for 45-881 Modern Data Management>

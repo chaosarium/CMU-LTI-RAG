@@ -1,0 +1,16 @@
+<start course metadata for 17-699 Independent Study>
+Semester: Fall 2023 (aka F23)
+Course Name: Independent Study
+Course Number: 17-699
+Department: Software & Societal Systems
+Number of Units: N/A
+Prerequisites: None
+Instructors: Andrew Begel, Travis Breaux
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 17-699 Independent Study>
+
+<start course description for 17-699 Independent Study>
+Semester: Fall 2023 (aka F23)
+Course Description: This independent study is for Master Software Engineering programs.
+</end course description for 17-699 Independent Study>

@@ -1,0 +1,16 @@
+<start course metadata for 54-413 Showcase>
+Semester: Fall 2023 (aka F23)
+Course Name: Showcase
+Course Number: 54-413
+Department: Drama
+Number of Units: 6
+Prerequisites: 54-301 and 54-302
+Instructors: Lisa Velten-Smith
+Rooms: PCA A35
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-413 Showcase>
+
+<start course description for 54-413 Showcase>
+Semester: Fall 2023 (aka F23)
+Course Description: Senior acting class for actors and Mt's who are in good standing and in position to graduate in the Spring. Preparation for the New York and Los Angeles Showcase presentations.
+</end course description for 54-413 Showcase>

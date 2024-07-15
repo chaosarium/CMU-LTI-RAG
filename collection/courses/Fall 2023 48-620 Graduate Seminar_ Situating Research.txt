@@ -1,0 +1,16 @@
+<start course metadata for 48-620 Graduate Seminar: Situating Research>
+Semester: Fall 2023 (aka F23)
+Course Name: Graduate Seminar: Situating Research
+Course Number: 48-620
+Department: Architecture
+Number of Units: 3
+Prerequisites: None
+Instructors: Nida Rehman
+Rooms: CFA 214
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-620 Graduate Seminar: Situating Research>
+
+<start course description for 48-620 Graduate Seminar: Situating Research>
+Semester: Fall 2023 (aka F23)
+Course Description: Situating Research will introduce incoming graduate students to a range of research approaches through lectures and conversations with SoA faculty, PhD researchers, and other invited guests. The course is aimed at helping students develop an understanding of the varied modalities of design research, while creating opportunities for cohort building, social exchange, and exposure to faculty activity particularly within the areas of climate change and sustainability, social and spatial justice, and design computation and artificial intelligence. With concise introductions to a broad range of concepts and frameworks including building and geo-spatial analysis, fieldwork, prototyping, research ethics, archival and textual analysis, and more, these conversations will provide a springboard for students to start situating themselves and their work within the landscape of research and scholarship at CMU.
+</end course description for 48-620 Graduate Seminar: Situating Research>

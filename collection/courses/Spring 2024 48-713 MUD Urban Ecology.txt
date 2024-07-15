@@ -1,0 +1,16 @@
+<start course metadata for 48-713 MUD Urban Ecology>
+Semester: Spring 2024 (aka S24)
+Course Name: MUD Urban Ecology
+Course Number: 48-713
+Department: Architecture
+Number of Units: 9
+Prerequisites: None
+Instructors: Christine Mondor
+Rooms: MM 415IW
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-713 MUD Urban Ecology>
+
+<start course description for 48-713 MUD Urban Ecology>
+Semester: Spring 2024 (aka S24)
+Course Description: Urban ecology describes the complex relationships between humans and our environment and is bound by an understanding of system dynamics. Urban ecology draws from our understanding of urban settlements and the cultural values that shape them, as well as our conception of ecology as the resources and flows that support biotic systems. Urban ecology situates humans and our activities as part of a dynamic and living environment that is more continuum than a dichotomy. This class will examine the shifting regimes of urban ecology and equip students with skills and core concepts that enable them to lead or contribute to transition through design. As designers we are trained to see patterns--urban ecology asks us also to see processes and to speculate on effects and possible outcomes. This course will discuss the systems and the logics that create the patterns, and we will explore how our design process may be different when dealing with the ambiguity and uncertainty of systems design. We will learn the fundamentals of systems dynamics modeling as it applies to the design of historical and contemporary landscapes, infrastructure, and spatial practices at the macro-, meso-, and micro-scales.
+</end course description for 48-713 MUD Urban Ecology>

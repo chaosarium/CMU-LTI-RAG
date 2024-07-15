@@ -1,0 +1,16 @@
+<start course metadata for 36-225 Introduction to Probability Theory>
+Semester: Fall 2023 (aka F23)
+Course Name: Introduction to Probability Theory
+Course Number: 36-225
+Department: Statistics and Data Science
+Number of Units: 9
+Prerequisites: (21-112 and 21-111) or (21-120) or (21-256) or (21-259)
+Instructors: Joel Greenhouse
+Rooms: MI AUD
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 36-225 Introduction to Probability Theory>
+
+<start course description for 36-225 Introduction to Probability Theory>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is the first half of a year-long course which provides an introduction to probability and mathematical statistics for students in the data sciences. Topics include elementary probability theory, conditional probability and independence, random variables, distribution functions, joint and conditional distributions, law of large numbers, and the central limit theorem.
+</end course description for 36-225 Introduction to Probability Theory>

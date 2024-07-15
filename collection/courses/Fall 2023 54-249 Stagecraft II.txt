@@ -1,0 +1,16 @@
+<start course metadata for 54-249 Stagecraft II>
+Semester: Fall 2023 (aka F23)
+Course Name: Stagecraft II
+Course Number: 54-249
+Department: Drama
+Number of Units: 14
+Prerequisites: 54-151 and 54-152 and 54-158
+Instructors: C. Todd Brown, Kevin Hines
+Rooms: PCA 107
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-249 Stagecraft II>
+
+<start course description for 54-249 Stagecraft II>
+Semester: Fall 2023 (aka F23)
+Course Description: Stagecraft II presents advanced shop skills and beginning department head skills for Scenery, Lighting, and Costumes.  This course will require additional time during the evening and on weekends. Prerequisites: Stagecraft I (two semesters) OR Instructor Permission
+</end course description for 54-249 Stagecraft II>

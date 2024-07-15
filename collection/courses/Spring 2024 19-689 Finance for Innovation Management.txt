@@ -1,0 +1,16 @@
+<start course metadata for 19-689 Finance for Innovation Management>
+Semester: Spring 2024 (aka S24)
+Course Name: Finance for Innovation Management
+Course Number: 19-689
+Department: Engineering & Public Policy
+Number of Units: 6
+Prerequisites: None
+Instructors: Robert Wasson
+Rooms: DH 1211
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 19-689 Finance for Innovation Management>
+
+<start course description for 19-689 Finance for Innovation Management>
+Semester: Spring 2024 (aka S24)
+Course Description: In this course, there will be three main elements all focused around the innovation decision-making process: Basic financial concepts   Business case development by innovation project managers. Tools and processes used in innovation decision-making  With respect to financial concepts, the course will provide an introduction of the basic financial concepts that corporations use to capture their financial performance including the following: Basic financial statement information income statement / balance sheet / meanings / interpretations / analysis of financial statements/determination of cash flow / annual reports, etc. Performance metrics, ROI, Debt to Equity ratio, EPS, NOPAT, EBITDA, Liquidity, Days outstanding, other appropriate measures  The intention of this introduction is to provide future project managers with a sufficient understanding of the financial information that is typically used in building a business case to make innovation decisions both in a corporate setting and in a more entrepreneurial setting.    With respect to actual innovation decision-making, the course will examine the various tools and techniques that are used by (1) corporations to make investment decisions in specific R&D; projects and (2) entrepreneurial organizations to make investments > decisions in new technical projects.   This course will address a number of commonly used decision tools such as:  (1) Discounting / Net Present Value calculations (NPV), IRR / Payback Period / ROIC / etc.; (2) Decision and Risk Analysis methodologies; and (3) Portfolio management  Finally, the course will develop an understanding of the differences between how corporations and how entrepreneurial firms use these tools, examine the implications of financial analysis techniques on R&D; decision-making, and will examine some of the suggested fallacies and the limitations of financial analysis of innovation management.
+</end course description for 19-689 Finance for Innovation Management>

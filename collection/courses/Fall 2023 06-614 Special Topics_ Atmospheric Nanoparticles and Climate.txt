@@ -1,0 +1,16 @@
+<start course metadata for 06-614 Special Topics: Atmospheric Nanoparticles and Climate>
+Semester: Fall 2023 (aka F23)
+Course Name: Special Topics: Atmospheric Nanoparticles and Climate
+Course Number: 06-614
+Department: Chemical Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Coty Jen
+Rooms: DH 4201
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 06-614 Special Topics: Atmospheric Nanoparticles and Climate>
+
+<start course description for 06-614 Special Topics: Atmospheric Nanoparticles and Climate>
+Semester: Fall 2023 (aka F23)
+Course Description: This course will examine the physicochemical properties of atmospheric nanoparticles and the chemical processes that form these particles. We will also cover basic techniques for characterizing atmospheric nanoparticles using fundamentals of aerosol physics and chemistry. The last portion of the course will explore how atmospheric nanoparticles affect the Earth's radiative budget and ultimately climate. Students will apply their atmospheric nanoparticle knowledge to determine the feasibility and effectiveness of various atmospheric geoengineering techniques proposed in literature. Though this course targets atmospheric nanoparticles, it is also broadly applicable to anyone interested applications of aerosolized nanoparticles.  Prerequisites: undergraduate chemistry and physics
+</end course description for 06-614 Special Topics: Atmospheric Nanoparticles and Climate>

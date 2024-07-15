@@ -1,0 +1,16 @@
+<start course metadata for 16-782 Planning and Decision-making in Robotics>
+Semester: Fall 2023 (aka F23)
+Course Name: Planning and Decision-making in Robotics
+Course Number: 16-782
+Department: Robotics
+Number of Units: 12
+Prerequisites: None
+Instructors: Maxim Likhachev
+Rooms: NSH 3002
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 16-782 Planning and Decision-making in Robotics>
+
+<start course description for 16-782 Planning and Decision-making in Robotics>
+Semester: Fall 2023 (aka F23)
+Course Description: Planning and Decision-making are critical components of autonomy in robotic systems. These components are responsible for making decisions that range from path planning and motion planning to coverage and task planning to taking actions that help robots understand the world around them better. This course studies underlying algorithmic techniques used for planning and decision-making in robotics and examines case studies in ground and aerial robots, humanoids, mobile manipulation platforms and multi-robot systems. The students will learn the algorithms and implement them in a series of programming-based projects.
+</end course description for 16-782 Planning and Decision-making in Robotics>

@@ -1,0 +1,16 @@
+<start course metadata for 54-339 Stage Management Seminar>
+Semester: Spring 2024 (aka S24)
+Course Name: Stage Management Seminar
+Course Number: 54-339
+Department: Drama
+Number of Units: 3
+Prerequisites: None
+Instructors: Tina Shackleford
+Rooms: PCA 231
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-339 Stage Management Seminar>
+
+<start course description for 54-339 Stage Management Seminar>
+Semester: Spring 2024 (aka S24)
+Course Description: This class provides stage managers an opportunity to participate in in-depth discussion about the production process.  Specific issues related to CMU productions and troubleshooting problems are a particular focus.  The class also presents guest speakers on related topics and will work on longer-term projects as needed.
+</end course description for 54-339 Stage Management Seminar>

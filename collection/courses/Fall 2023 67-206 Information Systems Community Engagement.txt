@@ -1,0 +1,16 @@
+<start course metadata for 67-206 Information Systems Community Engagement>
+Semester: Fall 2023 (aka F23)
+Course Name: Information Systems Community Engagement
+Course Number: 67-206
+Department: Information Systems Program
+Number of Units: 6
+Prerequisites: None
+Instructors: Julia Poepping
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 67-206 Information Systems Community Engagement>
+
+<start course description for 67-206 Information Systems Community Engagement>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is designed to provide an experiential learning experience to students in the IS program. Students will develop an iterative testing model to improve and conduct CMU Information Systems outreach program to Pittsburgh Public School. Students will engage with the community, have conversations with community partners and educators, and demonstrate knowledge of civic engagement, cultural identity, and diversity/inclusion. Experiential learning through engagement in the Pittsburgh Public Schools community will help CMU students make an impact on younger students, inspiring them to potentially pursue CMU IS or other interdisciplinary technology careers.
+</end course description for 67-206 Information Systems Community Engagement>

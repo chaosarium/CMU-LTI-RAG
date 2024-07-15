@@ -1,0 +1,16 @@
+<start course metadata for 54-722 Graduate Directing: Text to Stage>
+Semester: Spring 2024 (aka S24)
+Course Name: Graduate Directing: Text to Stage
+Course Number: 54-722
+Department: Drama
+Number of Units: 9
+Prerequisites: None
+Instructors: Kim Weild
+Rooms: MEL M206
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-722 Graduate Directing: Text to Stage>
+
+<start course description for 54-722 Graduate Directing: Text to Stage>
+Semester: Spring 2024 (aka S24)
+Course Description: Text to Stage is a studio laboratory course for graduate CMU MFA directing students.
+</end course description for 54-722 Graduate Directing: Text to Stage>

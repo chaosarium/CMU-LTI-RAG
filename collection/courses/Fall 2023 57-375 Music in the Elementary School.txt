@@ -1,0 +1,16 @@
+<start course metadata for 57-375 Music in the Elementary School>
+Semester: Fall 2023 (aka F23)
+Course Name: Music in the Elementary School
+Course Number: 57-375
+Department: Music
+Number of Units: 6
+Prerequisites: 57-331
+Instructors: Jane Wall
+Rooms: HOA 223
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-375 Music in the Elementary School>
+
+<start course description for 57-375 Music in the Elementary School>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is designed to provide a philosophical background for teaching music in the elementary school and to provide a variety of pedagogical techniques, which are essential when teaching music from Preschool through Grade 6.
+</end course description for 57-375 Music in the Elementary School>

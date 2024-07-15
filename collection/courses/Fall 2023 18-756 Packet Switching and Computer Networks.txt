@@ -1,0 +1,16 @@
+<start course metadata for 18-756 Packet Switching and Computer Networks>
+Semester: Fall 2023 (aka F23)
+Course Name: Packet Switching and Computer Networks
+Course Number: 18-756
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Hyong Kim
+Rooms: PH 125B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-756 Packet Switching and Computer Networks>
+
+<start course description for 18-756 Packet Switching and Computer Networks>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is designed to provide graduate students an understanding of the fundamental concepts in computer networks of the present and the future. In the past, the scarce and expensive resource in communication networks has been the bandwidth of transmission facilities. Accordingly, the techniques used for networking and switching have been chosen to optimize the efficient use of this resource. These techniques have differed according to the type of information carried: circuit switching for voice and packet switching for data. It is expected that elements of circuit and packet switching will be used in the integrated networks. This course focuses on packet switching for computer networks and protocol design. Topics in the course include: computer networks over-view; OSI layers, queuing theory; data link protocol; flow control; congestion control; routing; local area networks; transport layer. The current networks and applications will be introduced through the student seminars in the last weeks of the course.     4 hrs. lec.     Prerequisites: 18-345 and senior or graduate standing.
+</end course description for 18-756 Packet Switching and Computer Networks>

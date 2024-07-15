@@ -1,0 +1,16 @@
+<start course metadata for 17-638 Engineering Embedded Systems>
+Semester: Fall 2023 (aka F23)
+Course Name: Engineering Embedded Systems
+Course Number: 17-638
+Department: Software & Societal Systems
+Number of Units: 6
+Prerequisites: None
+Instructors: Michael Riley, Scott Pavetti
+Rooms: 3SC 265
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 17-638 Engineering Embedded Systems>
+
+<start course description for 17-638 Engineering Embedded Systems>
+Semester: Fall 2023 (aka F23)
+Course Description: The purpose of this course is to understand and negotiate the factors that drive embedded systems projects including design choices, construction methods, and other practices that must be considered during architecture planning for an embedded system. Students will experience creating and analyzing a software intensive embedded system written in C and using typical industry tooling appropriate for the classroom.  The course consists of lectures, weekly assignments, in class discussions, and programming projects.  With respect to programming projects, students will create working systems throughout the semester using the concepts learned throughout the course including the use of real time operating systems and data structures common to the embedded domain.  This course is aimed at creating software engineers capable of navigating the complex technical ecosystem required to be proficient engineers in the embedded domain.  By the end of the course, students will be able to articulate methods to design and analyze the scheduling of embedded software tasks or threads that execute in priority based real-time operating systems.  Students will be able to identify embedded system components of construction to ensure task synchronization, fault containment, communication, and responses to hardware-based interrupts.
+</end course description for 17-638 Engineering Embedded Systems>

@@ -1,0 +1,16 @@
+<start course metadata for 70-506 Independent Study Management Information Systems>
+Semester: Spring 2024 (aka S24)
+Course Name: Independent Study Management Information Systems
+Course Number: 70-506
+Department: Business Administration
+Number of Units: N/A
+Prerequisites: None
+Instructors: George Burton Hollifield, Muhammad Farooqi
+Rooms: DNM DNM
+Locations: Doha, Qatar; Pittsburgh, Pennsylvania
+</end course metadata for 70-506 Independent Study Management Information Systems>
+
+<start course description for 70-506 Independent Study Management Information Systems>
+Semester: Spring 2024 (aka S24)
+Course Description: Students with a special interest in Management Information Systems not covered by a formal Business course may develop an Independent Study Course in that area.  Readings and work to be completed are by agreement between the student and an individual faculty member.  Enrollment by permission of the BA Program.
+</end course description for 70-506 Independent Study Management Information Systems>

@@ -1,0 +1,16 @@
+<start course metadata for 76-765 TBA>
+Semester: Spring 2024 (aka S24)
+Course Name: TBA
+Course Number: 76-765
+Department: English
+Number of Units: 3
+Prerequisites: None
+Instructors: Instructor TBA
+Rooms: PH 125D
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 76-765 TBA>
+
+<start course description for 76-765 TBA>
+Semester: Spring 2024 (aka S24)
+Course Description: tbd
+</end course description for 76-765 TBA>

@@ -1,0 +1,16 @@
+<start course metadata for 53-721 Special Projects II>
+Semester: Spring 2024 (aka S24)
+Course Name: Special Projects II
+Course Number: 53-721
+Department: Entertainment Technology
+Number of Units: N/A
+Prerequisites: None
+Instructors: David Culyba
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 53-721 Special Projects II>
+
+<start course description for 53-721 Special Projects II>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is structured as a student-directed independent study course accompanied by group discussions, guest speakers, and critique sessions.  Each student is expected to submit an individual or pair plan of work to faculty, which will be evaluated and refined to determine a reasonable scope and educational outcomes.  All work should be comprised of digital sound or audio work, possible outcomes including but not limited to: musical composition, interactive game audio, music games, spatialized audio, sound or music synthesis, and interactive musical performance or installation.  Specific software will not normally be taught; students will need to self-organize to learn tools relevant to the projects they undertake.
+</end course description for 53-721 Special Projects II>

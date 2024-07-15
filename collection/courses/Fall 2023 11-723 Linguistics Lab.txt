@@ -1,0 +1,16 @@
+<start course metadata for 11-723 Linguistics Lab>
+Semester: Fall 2023 (aka F23)
+Course Name: Linguistics Lab
+Course Number: 11-723
+Department: Language Technologies Institute
+Number of Units: 6
+Prerequisites: None
+Instructors: David Mortensen, Lorraine Levin
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 11-723 Linguistics Lab>
+
+<start course description for 11-723 Linguistics Lab>
+Semester: Fall 2023 (aka F23)
+Course Description: Self-paced, student-designed lab project focusing on linguistic issues in Natural Language Processing
+</end course description for 11-723 Linguistics Lab>

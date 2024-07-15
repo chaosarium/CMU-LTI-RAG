@@ -1,0 +1,16 @@
+<start course metadata for 51-361 HyperSENSE: Augmenting Human Experience in Environments>
+Semester: Spring 2024 (aka S24)
+Course Name: HyperSENSE: Augmenting Human Experience in Environments
+Course Number: 51-361
+Department: Design
+Number of Units: 9
+Prerequisites: None
+Instructors: Dina El Zanfaly
+Rooms: MM 215
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-361 HyperSENSE: Augmenting Human Experience in Environments>
+
+<start course description for 51-361 HyperSENSE: Augmenting Human Experience in Environments>
+Semester: Spring 2024 (aka S24)
+Course Description: We make sense of the world using our bodies, and just as we shape the environments around us, they also shape our experiences and senses. We will look in this course at how we can create physical and digital interactions that bridge the gap between humans and built environments to augment our senses. We will explore and introduce new roles of computational design and making in embodied sense-making, including human perception and cognition. We will apply methods and practices that form the basis for embodied interaction design. We will create projects that materialize these interactions using research-through-design and iterative design methods. Students choose the themes for their final projects or join an ongoing research project.    Students in this class will work in groups to create installations in space controlled by human actions or wearable pieces that augment the body. Course deliverables include participating in reading discussions, a main project, and a publishable paper documenting the theoretical approach, creative process and findings. The instructors will help students publish their papers or pictorial in upcoming design conferences if students ask for help. Some possible themes for these projects could be:  An installation that materializes a human presence in a remote space; a remote collaboration work tool or a wearable piece that enhances a certain human sense, and/or alters the perception of a specific space.
+</end course description for 51-361 HyperSENSE: Augmenting Human Experience in Environments>

@@ -1,0 +1,16 @@
+<start course metadata for 17-631 Information, Security, Privacy & Policy>
+Semester: Fall 2023 (aka F23)
+Course Name: Information, Security, Privacy & Policy
+Course Number: 17-631
+Department: Software & Societal Systems
+Number of Units: 12
+Prerequisites: None
+Instructors: Hana Habib, Norman Sadeh
+Rooms: DNM DNM; WEH 2302
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 17-631 Information, Security, Privacy & Policy>
+
+<start course description for 17-631 Information, Security, Privacy & Policy>
+Semester: Fall 2023 (aka F23)
+Course Description: As layers upon layers of technology mediate increasingly rich business processes and social interactions, issues of information security and privacy are growing more complex too.  This course takes a multi-disciplinary perspective of information security and privacy, looking at technologies as well as business, legal, policy and usability issues.  The objective is to prepare students to identify and address critical security and privacy issues involved in the design, development and deployment of information systems.  Examples used to introduce concepts covered in the class range from enterprise systems to mobile and pervasive computing as well as social networking.  Format:  Lectures, short student presentations on topics selected together with the instructor, and guest presentations.  Target Audience: Primarily intended for motivated undergraduate and masters students with CS background.  Also open to PhD students interested in a more practical, multi-disciplinary understanding of information security and privacy.
+</end course description for 17-631 Information, Security, Privacy & Policy>

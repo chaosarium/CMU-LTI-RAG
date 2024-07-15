@@ -1,0 +1,16 @@
+<start course metadata for 67-348 Black Mirror - Cultural Representations of Technology>
+Semester: Fall 2023 (aka F23)
+Course Name: Black Mirror - Cultural Representations of Technology
+Course Number: 67-348
+Department: Information Systems Program
+Number of Units: 9
+Prerequisites: None
+Instructors: Jeria Quesenberry
+Rooms: PH 126A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 67-348 Black Mirror - Cultural Representations of Technology>
+
+<start course description for 67-348 Black Mirror - Cultural Representations of Technology>
+Semester: Fall 2023 (aka F23)
+Course Description: Advances in technology raise a variety of fascinating ethical, cultural, and societal questions often resulting in uncertainties and unanticipated dilemmas. This course provides students opportunities to explore how cultural representations of technology are reflected in society and inform continued technical advancements. Using episodes from Black Mirror - a British anthology television series created by Charlie Brooker - we will explore the depictions of technology and society. Discussions of episodes will be supplemented by popular, critical texts and academic articles. This course will challenge students to think critically about technological change and acquire a more sophisticated understanding of the political, economic, and cultural considerations that underlie technological development. Students will engage critically and constructively in key debates that shape the future of the technology, through in-class discussions, presentations, and colloquia.
+</end course description for 67-348 Black Mirror - Cultural Representations of Technology>

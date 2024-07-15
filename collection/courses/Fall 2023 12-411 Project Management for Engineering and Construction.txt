@@ -1,0 +1,16 @@
+<start course metadata for 12-411 Project Management for Engineering and Construction>
+Semester: Fall 2023 (aka F23)
+Course Name: Project Management for Engineering and Construction
+Course Number: 12-411
+Department: Civil & Environmental Engineering
+Number of Units: 9
+Prerequisites: 12-301
+Instructors: Pingbo Tang
+Rooms: BH A53
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 12-411 Project Management for Engineering and Construction>
+
+<start course description for 12-411 Project Management for Engineering and Construction>
+Semester: Fall 2023 (aka F23)
+Course Description: Through planning and management, and optimization and allocation of materials and labor under time and financial constraints, project managers lead teams to achieve project goals. This course is an introduction to project management of engineering, construction, and operations of building facilities and civil infrastructure. This course emphasizes design, construction, and operation as an integrated process and examines various topics related to four core aspects of project management - time, cost, quality, and safety. Engineering and management cases from civil, construction, and infrastructure engineering domains will be examined. Topics covered include contracting issues, legal structures, project planning and scheduling, cash flows, cost estimation and financing of constructed facilities, labor productivity, material management, equipment utilization, cost control, monitoring, and accounting for construction. The course will introduce various software tools useful for implementation of these topics, including project scheduling and management tools, software for optimization and economic analysis, field operation analysis tools, and digital design and modeling tools.  Civil engineering undergraduates register for section A. Environmental Engineering undergraduates register for section B. All graduate students register for section C.
+</end course description for 12-411 Project Management for Engineering and Construction>

@@ -1,0 +1,16 @@
+<start course metadata for 45-960 Sustainable Operatins>
+Semester: Spring 2024 (aka S24)
+Course Name: Sustainable Operatins
+Course Number: 45-960
+Department: Business Administration
+Number of Units: 6
+Prerequisites: 45-760
+Instructors: Alan Scheller-Wolf
+Rooms: TEP 2110
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-960 Sustainable Operatins>
+
+<start course description for 45-960 Sustainable Operatins>
+Semester: Spring 2024 (aka S24)
+Course Description: In this course we will explore and develop definitions of sustainability in general, and sustainable operations in particular.  We will also investigate how companies can evaluate and implement sustainability measures, and different motivations for firms to engage or invest in sustainable efforts.    We will approach sustainable operations from the value chain perspective, by identifying opportunities for sustainable actions and policies at different phases in the product life cycle. These phases range from research and development to the point where products are discarded by the consumer, for potential reuse or recycling.  We will use quantitative operations models and techniques to analyze and evaluate the viability of these sustainable opportunities.    Specific course topics may include: triple Bottom Line (3BL), Life Cycle Assessment, Carbon Disclosure, Remanufacturing, Closed-Loop Supply Chains, Sustainable Product Design, LEED building, ISO 14000, and Sustainable Resource Extraction.  This course will use cases and assignments (in groups) to support the material discussed in class.  An open book, open notes, individual exam will conclude the course.
+</end course description for 45-960 Sustainable Operatins>

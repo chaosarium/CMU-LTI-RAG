@@ -1,0 +1,16 @@
+<start course metadata for 85-718 Infant development: Inside the Mind of Babies>
+Semester: Spring 2024 (aka S24)
+Course Name: Infant development: Inside the Mind of Babies
+Course Number: 85-718
+Department: Psychology
+Number of Units: N/A
+Prerequisites: None
+Instructors: David Rakison
+Rooms: BH 336A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 85-718 Infant development: Inside the Mind of Babies>
+
+<start course description for 85-718 Infant development: Inside the Mind of Babies>
+Semester: Spring 2024 (aka S24)
+Course Description: This course will provide an overview of development in infancy. A basic knowledge of developmental issues is assumed. We will cover the key aspects of infancy, namely, perceptual, cognitive, social, verbal, and emotional development, but there will be a primary focus on perception, cognition, and action. Each week, students will be required to read a chapter in a textbook as well as short advanced empirical papers, often with conflicting accounts of a phenomenon. The instructor will introduce the key concepts, issues, and lines of research in one class, and students will lead discussion on the same topic in the following class. Research methods specific to the study of infant development will be emphasized. Major issues that will be discussed include theories of developmental change, continuity in development, the nature of the psychological mechanism that underpin change, and the relative contributions of heredity and environment. There will be a focus for many topics on how developmental cascades operate over short- and long-timescales.
+</end course description for 85-718 Infant development: Inside the Mind of Babies>

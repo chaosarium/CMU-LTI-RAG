@@ -1,0 +1,16 @@
+<start course metadata for 88-231 Thinking in Person vs. Thinking Online>
+Semester: Fall 2023 (aka F23)
+Course Name: Thinking in Person vs. Thinking Online
+Course Number: 88-231
+Department: Social & Decision Sciences
+Number of Units: 9
+Prerequisites: None
+Instructors: Daniel Ames
+Rooms: WEH 5403
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 88-231 Thinking in Person vs. Thinking Online>
+
+<start course description for 88-231 Thinking in Person vs. Thinking Online>
+Semester: Fall 2023 (aka F23)
+Course Description: Being online changes how we think.   Different media lead us to ask different questions, remember (or forget) different information, attend to different details, and interact with other people in different ways. These types of thinking aren't inherently better or worse, but they may be better or worse for facilitating specific goals.  Too often, we use a particular medium/technology without considering how it will influence our thinking.   This can lead us to be less efficient or less effective at a task than we otherwise might be, or can qualitatively change the nature of our outcomes.   In this class, we will explore how the media we use affects the character of our thinking, so as to enable students to make mindful and deliberate choices about how to interact with media in ways that support the type of thinking desired and appropriate for their goals.  Moreover, we will examine how to optimize media for specific goals in important applied domains, such as education, medicine, policy, child-rearing, and dating.
+</end course description for 88-231 Thinking in Person vs. Thinking Online>

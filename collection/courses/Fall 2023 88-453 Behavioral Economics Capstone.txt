@@ -1,0 +1,16 @@
+<start course metadata for 88-453 Behavioral Economics Capstone>
+Semester: Fall 2023 (aka F23)
+Course Name: Behavioral Economics Capstone
+Course Number: 88-453
+Department: Social & Decision Sciences
+Number of Units: 9
+Prerequisites: None
+Instructors: Erin Carbone
+Rooms: GHC 4102
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 88-453 Behavioral Economics Capstone>
+
+<start course description for 88-453 Behavioral Economics Capstone>
+Semester: Fall 2023 (aka F23)
+Course Description: The Capstone in Behavioral Economics, Policy, and Organizations will work to apply the theories, concepts, and statistical techniques mastered in prior courses to an applied project.  Students will work closely both in teams and individually with the instructor on a project that will address a problem posed by an organization or government that behavioral economics can help to solve.  Students will work to structure the problem, design an intervention or study, collect and analyze the data, and make recommendations for implementation.  Students will manage the project and drive interactions with the client organization.
+</end course description for 88-453 Behavioral Economics Capstone>

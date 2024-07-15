@@ -1,0 +1,16 @@
+<start course metadata for 80-306 Decision Theory>
+Semester: Spring 2024 (aka S24)
+Course Name: Decision Theory
+Course Number: 80-306
+Department: Philosophy
+Number of Units: 9
+Prerequisites: None
+Instructors: Kevin Zollman
+Rooms: POS A35
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 80-306 Decision Theory>
+
+<start course description for 80-306 Decision Theory>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is an introduction to formal models of choice and decision-making. We begin by examining choice under certainty, developing both qualitative and quantitative models of preference. We then expand our analysis to take into account uncertainty, focusing on the von Neumann-Morgenstern theory of expected utility and Savage's classic axioms. Empirical challenges to models are emphasized throughout, in response to which we will consider a variety of alternative representations of uncertainty (e.g., Dempster-Shafer belief functions, non-unique probability measures) and preference (e.g., framing effects, prospect theory).
+</end course description for 80-306 Decision Theory>

@@ -1,0 +1,16 @@
+<start course metadata for 92-891 Health Policy>
+Semester: Spring 2024 (aka S24)
+Course Name: Health Policy
+Course Number: 92-891
+Department: Medical Management:Sch of Pub Pol & Mgt
+Number of Units: 4
+Prerequisites: None
+Instructors: David Dausey
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 92-891 Health Policy>
+
+<start course description for 92-891 Health Policy>
+Semester: Spring 2024 (aka S24)
+Course Description: Course description will be available on Heinz College website.
+</end course description for 92-891 Health Policy>

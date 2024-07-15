@@ -1,0 +1,16 @@
+<start course metadata for 90-711 Statistical Reasoning with R>
+Semester: Fall 2023 (aka F23)
+Course Name: Statistical Reasoning with R
+Course Number: 90-711
+Department: Public Policy & Mgt:Sch of Pub Pol & Mgt
+Number of Units: 12
+Prerequisites: None
+Instructors: Amelia Haviland
+Rooms: HBH 1002
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 90-711 Statistical Reasoning with R>
+
+<start course description for 90-711 Statistical Reasoning with R>
+Semester: Fall 2023 (aka F23)
+Course Description: Statistical reasoning is essential to learning from data and understanding the strengths and limitations of data analyses. This course is grounded in questions of importance in public policy and focuses on how data and statistical reasoning can inform those questions. We will use a hands-on approach to develop skills and critical thinking in the fundamentals of causal inference, univariate and bivariate descriptive statistics, quantifying uncertainty, statistical inference, and linear regression. The hands-on approach involves learning the basics of how to use the R statistical language and weekly labs in which students will use R to carry out data analysis on real-world policy issues in a supervised setting. While useful, no R or computer programming experience is required for the course, and this course does not replace the stand-alone R course.  This is a rigorous graduate school introductory statistics and data analysis course, and students who take this course will be enabled to use (and further develop) statistical reasoning and methods in your other courses, your summer internship, your Systems Synthesis Project, and in your career. In today's information world, data are available everywhere and the role of statistics is rapidly increasing in public policy, health care, the arts, the entertainment industry, business, academia and many other parts of society. We echo the message of The New York Times which published an article entitled "For Today's Graduate, Just One Word: Statistics."
+</end course description for 90-711 Statistical Reasoning with R>

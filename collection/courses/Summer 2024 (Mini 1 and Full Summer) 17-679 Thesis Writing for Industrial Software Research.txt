@@ -1,0 +1,16 @@
+<start course metadata for 17-679 Thesis Writing for Industrial Software Research>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Thesis Writing for Industrial Software Research
+Course Number: 17-679
+Department: Software & Societal Systems
+Number of Units: 6
+Prerequisites: None
+Instructors: Eduardo Miranda, Swarnalatha Ashok
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 17-679 Thesis Writing for Industrial Software Research>
+
+<start course description for 17-679 Thesis Writing for Industrial Software Research>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: Expository writing is used to present facts in a manner that supports a thesis. Successful thesis writing frequently requires identifying the audience, identifying and assessing facts for their relevancy and credibility to the thesis, and ensuring that conclusions are scoped and directly follow from facts. This course will introduce students to the software engineering thesis writing process with a specific focus on reflective practice. Students will work to identify a thesis topic based on their experience and interests, they will conduct a literature review to identify related work, will engage in reflective  writing and learn to critique this writing. This course is for students enrolled in the Masters of Software Engineeirng program who are completing a supervised thesis option.
+</end course description for 17-679 Thesis Writing for Industrial Software Research>

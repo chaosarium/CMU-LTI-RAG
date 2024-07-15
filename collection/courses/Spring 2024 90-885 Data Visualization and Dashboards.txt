@@ -1,0 +1,16 @@
+<start course metadata for 90-885 Data Visualization and Dashboards>
+Semester: Spring 2024 (aka S24)
+Course Name: Data Visualization and Dashboards
+Course Number: 90-885
+Department: Public Policy & Mgt:Sch of Pub Pol & Mgt
+Number of Units: 6
+Prerequisites: None
+Instructors: Trevor Filipiak
+Rooms: 
+Locations: Washington, District of Columbia
+</end course metadata for 90-885 Data Visualization and Dashboards>
+
+<start course description for 90-885 Data Visualization and Dashboards>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is designed to introduce data visualization as an analytical tool, a medium of communication, and the basis for interactive information dashboards. Students will learn best practices in data visualization, sharpen analytical skills, and learn how to design dashboards for use by stakeholders.   Students will have the opportunity to practice skills on concrete deliverables, and will synthesize course material in a comprehensive team-based final project. This project will reinforce comfort with the Tableau software package and will provide a portfolio item for students.  Students will use Tableau as their main tool to visualize data and develop dashboards but will develop transferrable skills which can apply to many of the most popular software packages in the current marketplace.
+</end course description for 90-885 Data Visualization and Dashboards>

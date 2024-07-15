@@ -1,0 +1,16 @@
+<start course metadata for 98-031 Student Taught Courses (StuCo): NLP Ethics in a Nutshell>
+Semester: Spring 2024 (aka S24)
+Course Name: Student Taught Courses (StuCo): NLP Ethics in a Nutshell
+Course Number: 98-031
+Department: StuCo (Student Led Courses)
+Number of Units: 3
+Prerequisites: None
+Instructors: Yunze Xiao
+Rooms: CMB 1031
+Locations: Doha, Qatar
+</end course metadata for 98-031 Student Taught Courses (StuCo): NLP Ethics in a Nutshell>
+
+<start course description for 98-031 Student Taught Courses (StuCo): NLP Ethics in a Nutshell>
+Semester: Spring 2024 (aka S24)
+Course Description: The course offers a condensed yet impactful journey into the synergy between ethics and advanced human language technology. Designed with a balanced workload in mind, this course provides a streamlined exploration of the transformative potential of large language models in understanding complex social dynamics. Through concise theoretical modules, students will delve into the realm of natural language processing, machine learning, and their ethical implication. By focusing on key concepts and practical skills, this course ensures that students can grasp the essentials without being overwhelmed. Ultimately, participants will emerge with a solid foundation in utilizing tools like ChatGPT to gain insights from textual data, paving the way for them to make meaningful contributions at the intersection of technology and societal understanding.
+</end course description for 98-031 Student Taught Courses (StuCo): NLP Ethics in a Nutshell>

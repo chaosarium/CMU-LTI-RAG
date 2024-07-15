@@ -1,0 +1,16 @@
+<start course metadata for 67-425 Special Topics - Capstone course in Digitalization>
+Semester: Spring 2024 (aka S24)
+Course Name: Special Topics - Capstone course in Digitalization
+Course Number: 67-425
+Department: Information Systems Program
+Number of Units: 9
+Prerequisites: None
+Instructors: Savanid  Nui Vatanasakdakul
+Rooms: CMB 3048
+Locations: Doha, Qatar
+</end course metadata for 67-425 Special Topics - Capstone course in Digitalization>
+
+<start course description for 67-425 Special Topics - Capstone course in Digitalization>
+Semester: Spring 2024 (aka S24)
+Course Description: Most organizations including your future employers use enterprise systems to run their business processes such as sales, procurement, and production. This course discusses key business processes in organizations and the role, functions and technical foundations of enterprise systems such as Enterprise Resource Planning (ERP) systems and Customer Relationship Management (CRM) systems. Through hands-on use of enterprise systems in multiple case studies, the students will become familiar with the key concepts in such systems and demonstrate practical knowledge on how such systems allow organizations to run end-to-end business processes such as order-to-cash or make-to-order. The course also addresses the lifecycle of enterprise systems' projects and their various phases such as selection, implementation, operation and maintenance.
+</end course description for 67-425 Special Topics - Capstone course in Digitalization>

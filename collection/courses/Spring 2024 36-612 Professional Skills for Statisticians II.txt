@@ -1,0 +1,16 @@
+<start course metadata for 36-612 Professional Skills for Statisticians II>
+Semester: Spring 2024 (aka S24)
+Course Name: Professional Skills for Statisticians II
+Course Number: 36-612
+Department: Statistics and Data Science
+Number of Units: 6
+Prerequisites: None
+Instructors: Jamie McGovern
+Rooms: GHC 4211
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 36-612 Professional Skills for Statisticians II>
+
+<start course description for 36-612 Professional Skills for Statisticians II>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is a continuation of 36-611 and covers additional writing and presentation skills, as well as interview skills. For Master in Statistical Practice students only.
+</end course description for 36-612 Professional Skills for Statisticians II>

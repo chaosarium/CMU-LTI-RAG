@@ -1,0 +1,16 @@
+<start course metadata for 03-119 Genome Editing: Past, Present, and Future>
+Semester: Spring 2024 (aka S24)
+Course Name: Genome Editing: Past, Present, and Future
+Course Number: 03-119
+Department: Biological Sciences
+Number of Units: 3
+Prerequisites: None
+Instructors: Gordon Rule
+Rooms: CMB 1030
+Locations: Doha, Qatar
+</end course metadata for 03-119 Genome Editing: Past, Present, and Future>
+
+<start course description for 03-119 Genome Editing: Past, Present, and Future>
+Semester: Spring 2024 (aka S24)
+Course Description: Special Topics in Biological Sciences Micro Courses. Topics will vary depending on the semester and instructor.  Courses offered under this course number will not require prior knowledge of or exposure to biological sciences and are open to students from any major and class year.  Please read individual section descriptions for more information. Spring 2023: Sections W3 & A4: Stayin' Alive: Human Immunity: This course will provide the tools for the layperson to understand how their immune system works to prevent disease and cancer.  The course also explains the basis of modern immunotherapies such as vaccines and cancer treatment.  Biology at the high-school level is the only requirement.  This requirement can be waived after completing a short series of simple on-line modules.
+</end course description for 03-119 Genome Editing: Past, Present, and Future>

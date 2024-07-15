@@ -1,0 +1,16 @@
+<start course metadata for 48-708 Commoning the City>
+Semester: Spring 2024 (aka S24)
+Course Name: Commoning the City
+Course Number: 48-708
+Department: Architecture
+Number of Units: 18
+Prerequisites: 48-707
+Instructors: Jonathan Kline
+Rooms: MM 312
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-708 Commoning the City>
+
+<start course description for 48-708 Commoning the City>
+Semester: Spring 2024 (aka S24)
+Course Description: Commoning the City is a yearlong research-based-design thesis studio focused on social justice and community-led urban transformations, positioning design as an agent of change that can support citizens claiming their Right to the City. The first semester, taught by Stefan Gruber provides a theoretical framing and uses case study research to enable development of thesis proposals that are theoretically grounded, geographically and culturally situated, and politically informed. The second semester, taught by Jonathan Kline, supports students in rigorously exploring their hypothesis through design and writing. For their thesis projects students focus on an urban milieu of their choice, research its actors, explore its social and ecological issues, and ultimately posit a hypothesis about how urban design might support new forms of commoning. Design exploration is organized around applying patterns and systems of commoning identified in case studies to their chosen urban context to create and support new forms of community-led resource sharing. The semester culminates with students contributing to the SoA thesis exhibition and creating a thesis book
+</end course description for 48-708 Commoning the City>

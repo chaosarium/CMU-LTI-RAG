@@ -1,0 +1,16 @@
+<start course metadata for 48-642 History of Asian Architecture>
+Semester: Spring 2024 (aka S24)
+Course Name: History of Asian Architecture
+Course Number: 48-642
+Department: Architecture
+Number of Units: 9
+Prerequisites: None
+Instructors: Xin Chen
+Rooms: CMU REMOTE
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-642 History of Asian Architecture>
+
+<start course description for 48-642 History of Asian Architecture>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is intended to serve as an introduction to the evolution of urban spaces and the function of the architecture in South Asia, China, Korea and Japan. It is organized chronologically and will examine the impact of indigenous philosophical principles on the organization of villages, capital cities, and religious centers. The course will begin in the Indus Valley where complex urban planning along with public and private architecture flourished from 2600-1900 BCE. We will examine South Asian Hindu and Buddhist cave monasteries as well as freestanding Hindu temples and identify the salient architectural forms that identify each type. We will then move to China where the earliest villages were arranged according to ideas about nature and the organizing system of fengshui. By the earliest Chinese dynastic period, urban planning and building placement were beginning to be codified according to Confucian and Daoist ideals. Later Chinese imperial centers were consciously designed according to Confucian regularity and hierarchy in order to make visual statements about power. We will then move to consider urban organization and Buddhist temples in China, Korea to Japan where South Asian and Eurasian models were adopted and adapted. The examination of the Japanese warrior culture will include castles, new ideas in residential architecture, the Pleasure Quarters, and retirement villas. Contemporary architecture will be addressed through individual and group projects that will investigate specific structures and situate the buildings within the cultural and historic circumstances that led to their creation.
+</end course description for 48-642 History of Asian Architecture>

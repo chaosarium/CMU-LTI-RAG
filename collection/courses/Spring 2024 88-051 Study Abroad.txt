@@ -1,0 +1,16 @@
+<start course metadata for 88-051 Study Abroad>
+Semester: Spring 2024 (aka S24)
+Course Name: Study Abroad
+Course Number: 88-051
+Department: Social & Decision Sciences
+Number of Units: 0
+Prerequisites: None
+Instructors: Gretchen Chapman
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 88-051 Study Abroad>
+
+<start course description for 88-051 Study Abroad>
+Semester: Spring 2024 (aka S24)
+Course Description: This course number is a place holder and assigned to Social and Decision Science students studying abroad by the Office of International Education. Students should not register themselves for this course.
+</end course description for 88-051 Study Abroad>

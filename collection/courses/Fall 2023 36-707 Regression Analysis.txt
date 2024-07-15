@@ -1,0 +1,16 @@
+<start course metadata for 36-707 Regression Analysis>
+Semester: Fall 2023 (aka F23)
+Course Name: Regression Analysis
+Course Number: 36-707
+Department: Statistics and Data Science
+Number of Units: 12
+Prerequisites: None
+Instructors: Ann Lee
+Rooms: PH 125B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 36-707 Regression Analysis>
+
+<start course description for 36-707 Regression Analysis>
+Semester: Fall 2023 (aka F23)
+Course Description: This is a course in data analysis. Topics covered include: Simple and multiple linear regression, causation, weighted least-squares, global and case diagnostics, robust regression, exponential families, logistic regression and generalized linear models; Model selection: prediction risk, bias-variance tradeoff, risk estimation, model search, ridge regression and lasso, stepwise regression, maybe boosting; Smoothing and nonparametric regression: linear smoothers, kernels, local regression, penalized regression, regularization and splines, wavelets, variance estimation, confidence bands, local likelihood, additive models; Classification: parametric and nonparametric regression, LDA, QDA, trees. Practice in data analysis is obtained through course  projects.  This course is primarily for first year PhD students in Statistics & Data Science; it requires an appropriate background for entering that program.
+</end course description for 36-707 Regression Analysis>

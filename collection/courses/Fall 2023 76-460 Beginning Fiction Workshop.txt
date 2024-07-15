@@ -1,0 +1,16 @@
+<start course metadata for 76-460 Beginning Fiction Workshop>
+Semester: Fall 2023 (aka F23)
+Course Name: Beginning Fiction Workshop
+Course Number: 76-460
+Department: English
+Number of Units: 9
+Prerequisites: 76-260
+Instructors: Kevin Gonzalez
+Rooms: BH 255B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 76-460 Beginning Fiction Workshop>
+
+<start course description for 76-460 Beginning Fiction Workshop>
+Semester: Fall 2023 (aka F23)
+Course Description: In this writing-intensive workshop students will be laser-focused on producing and polishing their own fiction. We'll complement our workshops with readings from masters of short fiction and novels, with an eye on sharpening our own facility with dialogue, structure, and voice. Each student must be prepared to constructively critique and deconstruct her/his peers' work, as well as actively contribute to class discussions about the elements of craft that undergird successful works of fiction. Each student will be expected to produce a portfolio of original writing (short exercises originating from thematic prompts and a substantial story) by the end of the semester.
+</end course description for 76-460 Beginning Fiction Workshop>

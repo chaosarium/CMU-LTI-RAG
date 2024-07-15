@@ -1,0 +1,16 @@
+<start course metadata for 70-388 Islamic Finance>
+Semester: Spring 2024 (aka S24)
+Course Name: Islamic Finance
+Course Number: 70-388
+Department: Business Administration
+Number of Units: 9
+Prerequisites: None
+Instructors: Muhammad Farooqi
+Rooms: CMB 3178
+Locations: Doha, Qatar
+</end course metadata for 70-388 Islamic Finance>
+
+<start course description for 70-388 Islamic Finance>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is designed to introduce students to the basics of Islamic Finance.  The course will start with an analysis of the Shariah rules that define Islamic Finance.  Students will then look at the main investment structures and map these against the traditional conventional banking products.  The course wraps up with a critique of complex project finance structures through a Shariah compliance lens to identify the gaps between theory and practice.
+</end course description for 70-388 Islamic Finance>

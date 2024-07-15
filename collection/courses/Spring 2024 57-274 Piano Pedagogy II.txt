@@ -1,0 +1,16 @@
+<start course metadata for 57-274 Piano Pedagogy II>
+Semester: Spring 2024 (aka S24)
+Course Name: Piano Pedagogy II
+Course Number: 57-274
+Department: Music
+Number of Units: 6
+Prerequisites: 57-273
+Instructors: Luz Manriquez
+Rooms: CFA M157
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-274 Piano Pedagogy II>
+
+<start course description for 57-274 Piano Pedagogy II>
+Semester: Spring 2024 (aka S24)
+Course Description: Beyond the beginning years: this course covers piano pedagogy of intermediate and early advanced level students. Topics include "What is a good piece?" Standard literature and technical development repertoire lists will be studied. The business of piano teaching and the instruction of college keyboard skills for non-piano majors will be discussed.
+</end course description for 57-274 Piano Pedagogy II>

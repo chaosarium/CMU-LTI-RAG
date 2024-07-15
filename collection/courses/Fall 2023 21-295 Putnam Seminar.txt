@@ -1,0 +1,16 @@
+<start course metadata for 21-295 Putnam Seminar>
+Semester: Fall 2023 (aka F23)
+Course Name: Putnam Seminar
+Course Number: 21-295
+Department: Mathematical Sciences
+Number of Units: 3
+Prerequisites: None
+Instructors: Po-Shen Loh, Zelealem Yilma
+Rooms: CMB 1031; DH A302; GHC 4301; POS 146; POS A35
+Locations: Doha, Qatar; Pittsburgh, Pennsylvania
+</end course metadata for 21-295 Putnam Seminar>
+
+<start course description for 21-295 Putnam Seminar>
+Semester: Fall 2023 (aka F23)
+Course Description: A problem solving seminar designed to prepare students to participate in the annual William Lowell Putnam Mathematical Competition.  Students solve and present their solutions to problems posed.  (One 50 minute session)
+</end course description for 21-295 Putnam Seminar>

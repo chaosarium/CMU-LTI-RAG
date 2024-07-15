@@ -1,0 +1,16 @@
+<start course metadata for 76-881 Introduction to Multimedia Design>
+Semester: Fall 2023 (aka F23)
+Course Name: Introduction to Multimedia Design
+Course Number: 76-881
+Department: English
+Number of Units: 12
+Prerequisites: 76-391 or 76-791 or 51-262
+Instructors: Brian Staszel
+Rooms: CFA 323
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 76-881 Introduction to Multimedia Design>
+
+<start course description for 76-881 Introduction to Multimedia Design>
+Semester: Fall 2023 (aka F23)
+Course Description: There is increasing demand for professional/technical writers who understand multimedia and its communicative possibilities. This class will provide students with the opportunity to develop the ability to create and analyze multimedia experiences that merge text, spoken voice, music, animation and video. Students will be introduced to the basic concepts and vocabulary of motion graphics, as well as the practical issues surrounding multimedia design and digital storytelling through a series of hands-on projects involving various contexts. Students will explore what it means to write for a dynamic medium and how to take advantage of elements of time, motion and sound to help expand their visual communicative skills. The essentials of Adobe After Effects will be taught in order to build the skills necessary to complete assignments, explore multimedia possibilities and foster each student's unique creative voice. Adobe Premiere and Audition will be employed to support specific tasks. Students will also be taught to capture their own original images, video and narration audio to craft the elements of their projects. It is helpful to have some prior basic experience with Photoshop or Illustrator. In-class discussions, 2 group workshops and critiques are an essential part of this course.
+</end course description for 76-881 Introduction to Multimedia Design>

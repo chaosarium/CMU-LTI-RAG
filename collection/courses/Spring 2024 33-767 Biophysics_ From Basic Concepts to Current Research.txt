@@ -1,0 +1,16 @@
+<start course metadata for 33-767 Biophysics: From Basic Concepts to Current Research>
+Semester: Spring 2024 (aka S24)
+Course Name: Biophysics: From Basic Concepts to Current Research
+Course Number: 33-767
+Department: Physics
+Number of Units: 12
+Prerequisites: None
+Instructors: Fangwei Si
+Rooms: WEH 5328
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 33-767 Biophysics: From Basic Concepts to Current Research>
+
+<start course description for 33-767 Biophysics: From Basic Concepts to Current Research>
+Semester: Spring 2024 (aka S24)
+Course Description: This course mixes lectures and student presentations on advanced topics in Biological Physics. In the course, students will gain a deep appreciation of the fact that very basic physical and chemical principles underlie many central life processes. Life is not only compatible with the laws of physics and chemistry, rather, it exploits them in ingenious ways. After taking the course, students should be able to name examples of such situations for which they can provide a coherent line of reasoning that outlines these connections. They will be able to explain key experiments by which these connections either have been found or are nowadays routinely established, and outline simple back-of-the-envelope estimates by which one can convince oneself of either the validity or inapplicability of certain popular models and ideas. They should also have become sufficiently familiar with the key terminology frequently encountered in biology, such that they can start to further educate themselves by consulting biological and biophysical literature. The course uses Physical Biology of the Cell  by Rob Phillips et al. (Garland Science, New York, NY, 2013, ISBN 978-0-8153-4450-6).
+</end course description for 33-767 Biophysics: From Basic Concepts to Current Research>

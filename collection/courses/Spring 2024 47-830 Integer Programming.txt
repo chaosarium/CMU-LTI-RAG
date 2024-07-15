@@ -1,0 +1,16 @@
+<start course metadata for 47-830 Integer Programming>
+Semester: Spring 2024 (aka S24)
+Course Name: Integer Programming
+Course Number: 47-830
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Gerard Cornuejols
+Rooms: TEP 4219
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 47-830 Integer Programming>
+
+<start course description for 47-830 Integer Programming>
+Semester: Spring 2024 (aka S24)
+Course Description: This is a graduate-level course in integer programming. The following topics will be covered: Scope and applicability of integer programming. Formulations.The knapsack problem, covering and packing, the traveling salesman problem. Complexity and problem reductions. Solutions methods: enumeration and convexification. Branch and bound, branch and cut. Combinatorial optimization. Polyhedral theory. Cutting planes. Gomory-Chvátal theory. The mixed integer Gomory cut. Intersection cuts and the corner polyhedron. Disjunctive programming: optimization over unions of polyhedra. Higher dimensional representations. Lift-and-project. Valid inequalities for structured integer programs. Minimal cover inequalities. Lifting functions. Superadditivity. Sequence independent liftings. Flow cover inequalities. Reformulations and relaxations. Lagrangian relaxation. Dantzig-Wolfe reformulation. Benders decomposition.
+</end course description for 47-830 Integer Programming>

@@ -1,0 +1,16 @@
+<start course metadata for 32-100 Naval Laboratory>
+Semester: Spring 2024 (aka S24)
+Course Name: Naval Laboratory
+Course Number: 32-100
+Department: Naval Science - ROTC
+Number of Units: 3
+Prerequisites: None
+Instructors: Benjamin Stewart
+Rooms: FRB 210
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 32-100 Naval Laboratory>
+
+<start course description for 32-100 Naval Laboratory>
+Semester: Spring 2024 (aka S24)
+Course Description: Military drill, physical fitness, and leadership seminars.
+</end course description for 32-100 Naval Laboratory>

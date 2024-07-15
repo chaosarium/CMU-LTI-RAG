@@ -1,0 +1,16 @@
+<start course metadata for 15-642 Machine Learning Systems>
+Semester: Spring 2024 (aka S24)
+Course Name: Machine Learning Systems
+Course Number: 15-642
+Department: Computer Science
+Number of Units: 12
+Prerequisites: None
+Instructors: Tianqi Chen, Zhihao Jia
+Rooms: POS 151
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-642 Machine Learning Systems>
+
+<start course description for 15-642 Machine Learning Systems>
+Semester: Spring 2024 (aka S24)
+Course Description: The goal of this course is to provide students an understanding and overview of elements in modern machine learning systems. Throughout the course, the students will learn about the design rationale behind the state-of-the-art machine learning frameworks and advanced system techniques to scale, reduce memory, and offload heterogeneous compute resources. We will also run case studies of large-scale training and serving systems used in practice today. This course offers the necessary background for students who would like to pursue research in the area of machine learning systems or continue to work in machine learning engineering.
+</end course description for 15-642 Machine Learning Systems>

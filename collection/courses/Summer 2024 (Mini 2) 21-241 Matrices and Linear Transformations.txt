@@ -1,0 +1,16 @@
+<start course metadata for 21-241 Matrices and Linear Transformations>
+Semester: Summer Two 2024 (aka M24, M24 Mini 2, Summer 2024 Mini 2)
+Course Name: Matrices and Linear Transformations
+Course Number: 21-241
+Department: Mathematical Sciences
+Number of Units: 11
+Prerequisites: None
+Instructors: Junichi Koganemaru
+Rooms: WEH 7500
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-241 Matrices and Linear Transformations>
+
+<start course description for 21-241 Matrices and Linear Transformations>
+Semester: Summer Two 2024 (aka M24, M24 Mini 2, Summer 2024 Mini 2)
+Course Description: A first course in linear algebra intended for scientists, engineers, mathematicians and computer scientists.  Students will be required to write some straightforward proofs.  Topics to be covered: complex numbers, real and complex vectors and matrices, rowspace and columnspace of a matrix, rank and nullity, solving linear systems by row reduction of a matrix, inverse matrices and determinants, change of basis, linear transformations, inner product of vectors, orthonormal bases and the Gram-Schmidt process, eigenvectors and eigenvalues, diagonalization of a matrix, symmetric and orthogonal matrices. 21-127 is strongly recommended. 3 hrs. lec., 1 hr. rec
+</end course description for 21-241 Matrices and Linear Transformations>

@@ -1,0 +1,16 @@
+<start course metadata for 90-709 Intermediate Economic Analysis>
+Semester: Fall 2023 (aka F23)
+Course Name: Intermediate Economic Analysis
+Course Number: 90-709
+Department: Public Policy & Mgt:Sch of Pub Pol & Mgt
+Number of Units: 12
+Prerequisites: None
+Instructors: Felix Koenig
+Rooms: HBH 1204
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 90-709 Intermediate Economic Analysis>
+
+<start course description for 90-709 Intermediate Economic Analysis>
+Semester: Fall 2023 (aka F23)
+Course Description: This is a course in economics relevant to public policy and management for those who already have some familiarity and facility with basic economics. In this course we will focus on microeconomics, which is the study of individuals, firms, and markets.
+</end course description for 90-709 Intermediate Economic Analysis>

@@ -1,0 +1,16 @@
+<start course metadata for 94-879 Fundamentals of Operationalizing AI>
+Semester: Spring 2024 (aka S24)
+Course Name: Fundamentals of Operationalizing AI
+Course Number: 94-879
+Department: Heinz College Wide Courses
+Number of Units: 6
+Prerequisites: None
+Instructors: Anand Rao
+Rooms: HBH 1004
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 94-879 Fundamentals of Operationalizing AI>
+
+<start course description for 94-879 Fundamentals of Operationalizing AI>
+Semester: Spring 2024 (aka S24)
+Course Description: Embark on a transformative journey with our course, "Fundamentals of Operationalizing AI: Mastering AI Lifecycle from Theory to Practice". This comprehensive program is meticulously designed to provide an in-depth understanding of the entire AI lifecycle. It covers a broad spectrum of topics, from business scoping, data management and engineering, to model development, deployment, and stewardship.   The course introduces the concept of Operationalizing AI (OAI), a critical aspect of AI implementation that is often overlooked. You will learn about its significance, the challenges it presents, its benefits, and the roles involved. We delve into related disciplines such as DevOps, DataOps, DevSecOps, MLOps, and AI Ops, focusing on the emerging best practices, roles, skills, capabilities, and governance across the AI lifecycle.  Upon completion, you will have a robust understanding of how to build and manage large-scale, production-quality AI systems that seamlessly integrate data, software, and models. Several guest lectures from industry practitioners and companies developing tools for operationalizing AI will give you  a window into how organizations are operationalizing AI and creating the necessary tooling. This course is an invaluable resource for those aspiring to master the art and science of AI implementation, offering practical insights and knowledge that can be immediately applied in the real world. Join us and equip yourself with the skills to navigate the exciting world of AI.
+</end course description for 94-879 Fundamentals of Operationalizing AI>

@@ -1,0 +1,16 @@
+<start course metadata for 95-765 Information Security Thesis>
+Semester: Spring 2024 (aka S24)
+Course Name: Information Security Thesis
+Course Number: 95-765
+Department: Information Systems:Sch of IS & Mgt
+Number of Units: N/A
+Prerequisites: None
+Instructors: Clarence Worrell, Dan Costa, Kathleen Carley, Michael Mccarthy, Patrick Tague, Randy Trzeciak, Thomas Scanlon
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 95-765 Information Security Thesis>
+
+<start course description for 95-765 Information Security Thesis>
+Semester: Spring 2024 (aka S24)
+Course Description: None
+</end course description for 95-765 Information Security Thesis>

@@ -1,0 +1,16 @@
+<start course metadata for 85-221 Principles of Child Development>
+Semester: Spring 2024 (aka S24)
+Course Name: Principles of Child Development
+Course Number: 85-221
+Department: Psychology
+Number of Units: 9
+Prerequisites: None
+Instructors: Sharon Carver
+Rooms: BH A36
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 85-221 Principles of Child Development>
+
+<start course description for 85-221 Principles of Child Development>
+Semester: Spring 2024 (aka S24)
+Course Description: The goal of this course is to provide an introduction to the study of developmental psychology from conception through the onset of adolescence in both a cultural and historical context. The emphasis is on basic concepts and theories of child growth and development as these apply to the psychological processes of perception, cognition, emotion, social interactions, and brain and body development, all with a focus on the effects of nature and nurture, individual differences, and the role of society in facilitating change.  In addition to learning basic developmental concepts, you will learn various research designs and procedures that have been used in the research literature. Students also learn about existing controversies in the literature and are therefore encouraged to view developmental psychology as an evolving discipline.
+</end course description for 85-221 Principles of Child Development>

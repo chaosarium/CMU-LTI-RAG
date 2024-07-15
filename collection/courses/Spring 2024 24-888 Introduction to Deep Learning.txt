@@ -1,0 +1,16 @@
+<start course metadata for 24-888 Introduction to Deep Learning>
+Semester: Spring 2024 (aka S24)
+Course Name: Introduction to Deep Learning
+Course Number: 24-888
+Department: Mechanical Engineering
+Number of Units: 12
+Prerequisites: 24-887
+Instructors: Amir Barati Farimani
+Rooms: CMU REMOTE
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-888 Introduction to Deep Learning>
+
+<start course description for 24-888 Introduction to Deep Learning>
+Semester: Spring 2024 (aka S24)
+Course Description: This course presents the deep learning methodology and how deep learning can be used as universal function approximator. Students will learn about the basics of deep neural networks, and their applications to different tasks in engineering. The course will teach the basics of deep neural networks, such as Feed Forward Neural Networks and Convolutional Neural Networks (CNN), as well as more advanced topics such as sequential learning using Recurrent Neural Networks, Generative Adversarial Networks, Attention and Transformers, and Diffusion models. The fundamental knowledge and mathematics behind backpropagation and automatic differentiation will be discussed. Students will also learn how to implement these models using deep learning libraries (Pytorch) and be able to apply Deep Learning to a variety of artificial intelligence tasks pertinent to different engineering problems. This course is the remote version of the combination of courses 24-788 and 24-789, which is designed specifically for remote students in a certificate program.
+</end course description for 24-888 Introduction to Deep Learning>

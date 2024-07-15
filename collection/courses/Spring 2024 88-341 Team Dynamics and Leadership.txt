@@ -1,0 +1,16 @@
+<start course metadata for 88-341 Team Dynamics and Leadership>
+Semester: Spring 2024 (aka S24)
+Course Name: Team Dynamics and Leadership
+Course Number: 88-341
+Department: Social & Decision Sciences
+Number of Units: 9
+Prerequisites: 36-200 or 36-201 or 36-207 or 36-217 or 70-207 or 36-225 or 36-247 or 36-220
+Instructors: Maria Tomprou
+Rooms: TEP 2612
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 88-341 Team Dynamics and Leadership>
+
+<start course description for 88-341 Team Dynamics and Leadership>
+Semester: Spring 2024 (aka S24)
+Course Description: Much of the work in groups and organizations consists of communication.  You communicate to get information that will be the basis of decisions, to provide a vision for the people who work for and with you, to coordinate activity, and to sell yourself and your work.  The goal of this course is to identify sources of communication problems within an organization and ways to overcome them.  To do this requires that we know how communication normally works, what parts are difficult, and how to fix it when it goes wrong.  The focus of this course is on providing you with a broad understanding of the way communication operates within dyads, work groups, and organizations.  This course is not a practicum in public speaking or writing, although you will get some experience writing, speaking and managing impressions.  Rather the intent is to give you theoretical and empirical underpinnings for the communication you will undoubtedly do when you return to work.  Readings come from both the research and the managerial literatures.  Among the topics considered are managerial communication, persuasion and conformity, self presentation and person perception, social networks.  Cases and group projects give you an opportunity to apply what you've learned.
+</end course description for 88-341 Team Dynamics and Leadership>

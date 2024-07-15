@@ -1,0 +1,16 @@
+<start course metadata for 54-833 Directing for Film>
+Semester: Fall 2023 (aka F23)
+Course Name: Directing for Film
+Course Number: 54-833
+Department: Drama
+Number of Units: 6
+Prerequisites: None
+Instructors: Melissa Martin
+Rooms: PCA 231
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-833 Directing for Film>
+
+<start course description for 54-833 Directing for Film>
+Semester: Fall 2023 (aka F23)
+Course Description: A combination lecture and workshop for graduate directors to introduce a comprehensive approach to filmmaking. Beginning with the dramatic structure of the screenplay and ending with non linear video editing, each director will explore visual storytelling with the camera. They will learn to organize workflow and its implications as they create a number of original short films.
+</end course description for 54-833 Directing for Film>

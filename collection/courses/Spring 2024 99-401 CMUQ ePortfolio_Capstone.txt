@@ -1,0 +1,16 @@
+<start course metadata for 99-401 CMUQ ePortfolio/Capstone>
+Semester: Spring 2024 (aka S24)
+Course Name: CMUQ ePortfolio/Capstone
+Course Number: 99-401
+Department: Carnegie Mellon University-Wide Studies
+Number of Units: N/A
+Prerequisites: None
+Instructors: Gianni Di Caro, Serkan Akguc
+Rooms: DNM DNM
+Locations: Doha, Qatar
+</end course metadata for 99-401 CMUQ ePortfolio/Capstone>
+
+<start course description for 99-401 CMUQ ePortfolio/Capstone>
+Semester: Spring 2024 (aka S24)
+Course Description: Registration by special permission.  This course is for CMUQ students who have declared a minor or are engaged in a certificate program. Students should contact the instructor(s) for permission to enroll. This course is a series of lessons/modules with guided activities to enable students to reflect on and synthesize their academic course of study. The activities may include independent research, reflective exercises, team projects, feedback from faculty, as well as external speakers and recent graduates who have expertise to share.  Under the guidance of a faculty advisor, a student may undertake a project that is reflective in nature and synthesizes the student's academic coursework and educational experience throughout their minor or certificate program at CMUQ. The final project may be in various formats approved by the faculty advisor.  The course will be offered in IPO or hybrid mode with all modules available through Canvas and/or Zoom.  Each semester, the course will be facilitated by the students' course/project advisors. Additionally, students will regularly meet individually with the course instructor in person or through Zoom.
+</end course description for 99-401 CMUQ ePortfolio/Capstone>

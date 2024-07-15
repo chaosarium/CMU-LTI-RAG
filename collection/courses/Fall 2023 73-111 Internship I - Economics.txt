@@ -1,0 +1,16 @@
+<start course metadata for 73-111 Internship I - Economics>
+Semester: Fall 2023 (aka F23)
+Course Name: Internship I - Economics
+Course Number: 73-111
+Department: Economics
+Number of Units: N/A
+Prerequisites: None
+Instructors: Rubab Jafry O'Connor
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 73-111 Internship I - Economics>
+
+<start course description for 73-111 Internship I - Economics>
+Semester: Fall 2023 (aka F23)
+Course Description: By permission of the Undergraduate Economics Program.
+</end course description for 73-111 Internship I - Economics>

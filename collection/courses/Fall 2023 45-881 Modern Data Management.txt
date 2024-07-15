@@ -1,0 +1,16 @@
+<start course metadata for 45-881 Modern Data Management>
+Semester: Fall 2023 (aka F23)
+Course Name: Modern Data Management
+Course Number: 45-881
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Robert Monroe
+Rooms: TEP 2111
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-881 Modern Data Management>
+
+<start course description for 45-881 Modern Data Management>
+Semester: Fall 2023 (aka F23)
+Course Description: The objective of this course is to learn how to organize and manipulate data for making critical business decisions. "Data Management" in this course includes both the analysis of various sizes and types of data and their synthesis into fact-based, data-driven recommendations with illustrating charts. The course teaches the use of advanced functions in Excel (e.g., Pivot tables, look-up functions, array formulas), the abstraction and representation of business situations as entity relationship diagrams, the transformation of such diagrams into database schemata, and the use of Structured Query Language to manipulate data. We will use MS Access as our database software. The course also includes hands-on experience with cloud-based databases.
+</end course description for 45-881 Modern Data Management>

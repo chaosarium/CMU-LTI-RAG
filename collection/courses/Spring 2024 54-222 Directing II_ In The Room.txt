@@ -1,0 +1,16 @@
+<start course metadata for 54-222 Directing II: In The Room>
+Semester: Spring 2024 (aka S24)
+Course Name: Directing II: In The Room
+Course Number: 54-222
+Department: Drama
+Number of Units: 9
+Prerequisites: 54-221
+Instructors: Gab Cody
+Rooms: PCA 314
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-222 Directing II: In The Room>
+
+<start course description for 54-222 Directing II: In The Room>
+Semester: Spring 2024 (aka S24)
+Course Description: A continuation of the work done in the first semester of Directing II. This course is for Directing sophomores and BXA Directing students only.
+</end course description for 54-222 Directing II: In The Room>

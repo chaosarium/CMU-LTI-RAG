@@ -1,0 +1,16 @@
+<start course metadata for 80-611 Undecidability and Incompleteness>
+Semester: Spring 2024 (aka S24)
+Course Name: Undecidability and Incompleteness
+Course Number: 80-611
+Department: Philosophy
+Number of Units: N/A
+Prerequisites: 21-600 or 80-211 or 80-210 or 80-610
+Instructors: Wilfried Sieg
+Rooms: PH 125B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 80-611 Undecidability and Incompleteness>
+
+<start course description for 80-611 Undecidability and Incompleteness>
+Semester: Spring 2024 (aka S24)
+Course Description: U & I focuses on two fundamental results: the undecidability of logic (established by Alonzo Church and Alan Turing) and the incompleteness of mathematical theories (discovered by Kurt Gödel).  The proofs of these results require a novel metamathematical perspective, but also striking logical concepts and fascinating mathematical techniques. In this course, the theorems are not just formulated but actually proved.   We begin with the axiomatic development of elementary set theory that allows, at the same time, the formal representation of informal mathematics like number theory.  With this basis, one can show that syntactic notions concerning set theory are representable in the very theory.  It is then easy to prove that set theory is incomplete.  To show that logic is undecidable, the crucial concept of computation is introduced via Turing machines. The two concepts - proof and computation - are fundamental for mathematics, computer science and, in particular, artificial intelligence.   The undecidability and incompleteness results are among the most significant contributions of modern logic to the foundations of mathematics. They provide also the beginnings of a deeper understanding of mental processes in cognitive science and, thus, of the human mind.  To understand the latter connections, we will read about and discuss historical as well as philosophical aspects of the subject.  (Graduate students can enroll  in the course for 6 units and attend only weeks 1-7 of the semester).
+</end course description for 80-611 Undecidability and Incompleteness>

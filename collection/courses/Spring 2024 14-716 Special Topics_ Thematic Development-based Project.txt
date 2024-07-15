@@ -1,0 +1,16 @@
+<start course metadata for 14-716 Special Topics: Thematic Development-based Project>
+Semester: Spring 2024 (aka S24)
+Course Name: Special Topics: Thematic Development-based Project
+Course Number: 14-716
+Department: Information Networking Institute
+Number of Units: 36
+Prerequisites: None
+Instructors: Sujata Telang
+Rooms: INI 205
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 14-716 Special Topics: Thematic Development-based Project>
+
+<start course description for 14-716 Special Topics: Thematic Development-based Project>
+Semester: Spring 2024 (aka S24)
+Course Description: Development-based graduate project experience for INI MSIS/MSIN students who elect the 4-semester Advanced Study option, and further elect to be assigned by INI to a team-based development project. Reflective of endeavors characteristic to research and industry in the information security (IS) and/or information networks (IN) domain, students will work on a team tackling an assigned problem and with scope for individual exploration of IS/IN knowledge area(s).   Complexity & size of assigned project and  #students enrolled will determine  size of teams, and one of following modalities for team-based work:  - Each team approaches a specific IS/IN knowledge area of the assigned problem/project  - Each team independently approaches the assigned problem/project as a whole  - Each team is assigned a different problem/project
+</end course description for 14-716 Special Topics: Thematic Development-based Project>

@@ -1,0 +1,16 @@
+<start course metadata for 12-725 Fate, Transport & Physicochemical Processes of Orgnc Contaminants in Aqua Systms>
+Semester: Spring 2024 (aka S24)
+Course Name: Fate, Transport & Physicochemical Processes of Orgnc Contaminants in Aqua Systms
+Course Number: 12-725
+Department: Civil & Environmental Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Gregory Lowry
+Rooms: PH A7F
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 12-725 Fate, Transport & Physicochemical Processes of Orgnc Contaminants in Aqua Systms>
+
+<start course description for 12-725 Fate, Transport & Physicochemical Processes of Orgnc Contaminants in Aqua Systms>
+Semester: Spring 2024 (aka S24)
+Course Description: Examination of the major physical and chemical processes affecting the fate and treatment of organic compounds nanoparticles in aquatic systems. The emphasis is on anthropogenic organic compounds. The course will review some concepts from physical organic chemistry, and examine the relationships between chemical structure, properties, and environmental behavior of organic compounds. Chemical processes important to the fate, treatment, and biotransformation of specific organic compounds are addressed.  Two laboratory sessions illustrate measurement techniques for organic compounds in water.  12-702 is a co- req for non environmental engineers or students who have not had and environmental engineering undergraduate course
+</end course description for 12-725 Fate, Transport & Physicochemical Processes of Orgnc Contaminants in Aqua Systms>

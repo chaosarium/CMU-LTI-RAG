@@ -1,0 +1,16 @@
+<start course metadata for 54-957 Graduate Directing: Thesis>
+Semester: Fall 2023 (aka F23)
+Course Name: Graduate Directing: Thesis
+Course Number: 54-957
+Department: Drama
+Number of Units: N/A
+Prerequisites: None
+Instructors: Kim Weild
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-957 Graduate Directing: Thesis>
+
+<start course description for 54-957 Graduate Directing: Thesis>
+Semester: Fall 2023 (aka F23)
+Course Description: THESIS
+</end course description for 54-957 Graduate Directing: Thesis>

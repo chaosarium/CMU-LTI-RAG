@@ -1,0 +1,16 @@
+<start course metadata for 32-402 Leadership and Ethics>
+Semester: Fall 2023 (aka F23)
+Course Name: Leadership and Ethics
+Course Number: 32-402
+Department: Naval Science - ROTC
+Number of Units: 9
+Prerequisites: None
+Instructors: Instructor TBA
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 32-402 Leadership and Ethics>
+
+<start course description for 32-402 Leadership and Ethics>
+Semester: Fall 2023 (aka F23)
+Course Description: The study of naval junior officer responsibilities. The course exposes the student to a study of ethics, decision making and responsibility as well as counseling methods, military justice administration, naval human resources management, directives and correspondence, naval personnel administration, material management and maintenance and supply systems. This capstone course in the NROTC curriculum builds on and integrates the professional competencies developed in prior course work and professional training.
+</end course description for 32-402 Leadership and Ethics>

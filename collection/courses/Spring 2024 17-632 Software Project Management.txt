@@ -1,0 +1,16 @@
+<start course metadata for 17-632 Software Project Management>
+Semester: Spring 2024 (aka S24)
+Course Name: Software Project Management
+Course Number: 17-632
+Department: Software & Societal Systems
+Number of Units: 6
+Prerequisites: None
+Instructors: Ashok Kumar, Eduardo Miranda, Timothy Chick
+Rooms: 3SC 265
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 17-632 Software Project Management>
+
+<start course description for 17-632 Software Project Management>
+Semester: Spring 2024 (aka S24)
+Course Description: Projects are temporary organizations set up to achieve a one time objective in an agreed time frame. They are characterized by requiring the execution of interrelated, normally non repeating activities, by multidisciplinary groups. Because of its temporary nature and the interrelatedness of its activities, projects require prescriptive planning, budgeting, staffing and risk management. This course will introduce student to fundamental project management techniques and tools such as activity planning, milestone planning, estimation, work breakdown structures, critical paths. The course will also look at hybrid methods such as Milestone Driven Agile Execution and Disciplined Agile Delivery. This course has a distance section, which will be conducted in virtual reality.
+</end course description for 17-632 Software Project Management>

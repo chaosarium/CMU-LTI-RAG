@@ -1,0 +1,16 @@
+<start course metadata for 15-850 Advanced Algorithms>
+Semester: Spring 2024 (aka S24)
+Course Name: Advanced Algorithms
+Course Number: 15-850
+Department: Computer Science
+Number of Units: 12
+Prerequisites: None
+Instructors: Jason Li
+Rooms: GHC 4303
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-850 Advanced Algorithms>
+
+<start course description for 15-850 Advanced Algorithms>
+Semester: Spring 2024 (aka S24)
+Course Description: An intensive graduate course on the design and analysis of algorithms.
+</end course description for 15-850 Advanced Algorithms>

@@ -1,0 +1,16 @@
+<start course metadata for 94-700 Organizational Design & Implementation>
+Semester: Fall 2023 (aka F23)
+Course Name: Organizational Design & Implementation
+Course Number: 94-700
+Department: Heinz College Wide Courses
+Number of Units: 6
+Prerequisites: None
+Instructors: Anna Mayo, David Krackhardt, David Lassman, Rubab Jafry O'Connor
+Rooms: HBH 1002; HBH 1005; HBH 1202; HBH 1204; HBH 1206; HBH 2008; HBH 2009
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 94-700 Organizational Design & Implementation>
+
+<start course description for 94-700 Organizational Design & Implementation>
+Semester: Fall 2023 (aka F23)
+Course Description: This course draws on insights and knowledge about organizational behavior with an eye toward using such information for managing in complex organizations. It is intended to provide managers with skills and perspectives that will enable them to work successfully in organizations. Specific topics will include work motivation leadership job design biases in managerial decision making understanding group processes building bases of power in organizations managing conflict and the relationship between the organization and its environment.
+</end course description for 94-700 Organizational Design & Implementation>

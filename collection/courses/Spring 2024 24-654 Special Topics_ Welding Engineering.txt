@@ -1,0 +1,16 @@
+<start course metadata for 24-654 Special Topics: Welding Engineering>
+Semester: Spring 2024 (aka S24)
+Course Name: Special Topics: Welding Engineering
+Course Number: 24-654
+Department: Mechanical Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Israel Stol
+Rooms: PH 226B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-654 Special Topics: Welding Engineering>
+
+<start course description for 24-654 Special Topics: Welding Engineering>
+Semester: Spring 2024 (aka S24)
+Course Description: This course introduces the Welding Engineering field by teaching its fundamental aspects (e.g. metallurgy, solidification, heat transfer, arc physics, etc.) as applied to welding common ferrous and non ferrous materials with representative fusion (e.g. GMAW, LBW) and solid-state (e.g. FSW, FW) based processes and aspects of their use in production (i.e. variables to control, specific techniques and methodologies, standards/specifications, inspection & testing of welds to ensure their quality). This will provide students with the knowledge to start to become more conversant in this discipline and to those that elect to further delve and specialize in specific areas of joining & assembly, the preparation/step-stone to start to do so in their careers in industry or academia.
+</end course description for 24-654 Special Topics: Welding Engineering>

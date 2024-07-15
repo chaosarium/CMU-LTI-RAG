@@ -1,0 +1,16 @@
+<start course metadata for 60-430 Advanced SIS: Open Sculpture>
+Semester: Spring 2024 (aka S24)
+Course Name: Advanced SIS: Open Sculpture
+Course Number: 60-430
+Department: Art
+Number of Units: 10
+Prerequisites: None
+Instructors: Marvin Toure
+Rooms: DH B302
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 60-430 Advanced SIS: Open Sculpture>
+
+<start course description for 60-430 Advanced SIS: Open Sculpture>
+Semester: Spring 2024 (aka S24)
+Course Description: This is a project-based studio class that allows for student-driven development of an artistic practice in 3D media, installation, site specific work, and systems. Ours is a widely inclusive and experimental definition of "sculpture." Aspects of making such as scale, medium, materials, methods, processes, and concept are unconstrained in projects assigned, while time and site become the more specific lens through which artistic peers may engage in group dialogue over common constraints. Through lectures, readings, discussion, individual meetings, hands-on-making, and group critiques, students will develop their abilities to brainstorm, make proposals, and turn ideas into action. Artists will build 3 to 4 major projects from start to finish, develop a working artist's statement and bibliography, and hone their individual sense of creative identity through the development of personal research interests, aesthetic sensibilities, and their own critical language surrounding common themes through their projects. An emphasis will be placed on extremely contemporary art, and students will make frequent presentations on new art works relevant to class discussions, as we develop our own class database of sculptors, fabricators, media artists, installation artists, makers, and thinkers. The concepts we will explore as a group include physical and sensorial properties such as scale, weight, balance, materiality, and connectivity; relationship of form to context and site; function, transformation, translation, iteration, and interactivity; and the continued relevancy of hand-making and physical construction in an era of post-industrial post-internet capitalism.
+</end course description for 60-430 Advanced SIS: Open Sculpture>

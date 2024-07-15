@@ -1,0 +1,16 @@
+<start course metadata for 54-500 Individual Vocal Lessons>
+Semester: Fall 2023 (aka F23)
+Course Name: Individual Vocal Lessons
+Course Number: 54-500
+Department: Drama
+Number of Units: 5
+Prerequisites: None
+Instructors: Claudia Benack, Gary Kline, Rick Edinger
+Rooms: PCA 321
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-500 Individual Vocal Lessons>
+
+<start course description for 54-500 Individual Vocal Lessons>
+Semester: Fall 2023 (aka F23)
+Course Description: FOR MUSIC THEATRE MAJORS ONLY.  Singing Voice based on speech-level and classical singing techniques, required of all Musical Theatre Majors   Lessons are private, for the duration of one hour per week.   Voice Lab combines all students of Musical Theatre in a one-hour performance class, where repertoire is performed for faculty and students alike.   Training is progressive, with each semester building on the vocal mastery achieved from the previous semester. Repertoire spans from classical to rock, but with an emphasis on songs extracted from the American Musical Canon.
+</end course description for 54-500 Individual Vocal Lessons>

@@ -1,0 +1,16 @@
+<start course metadata for 51-744 Research Methods for Design>
+Semester: Spring 2024 (aka S24)
+Course Name: Research Methods for Design
+Course Number: 51-744
+Department: Design
+Number of Units: 9
+Prerequisites: None
+Instructors: Bruce Hanington
+Rooms: MM 215
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-744 Research Methods for Design>
+
+<start course description for 51-744 Research Methods for Design>
+Semester: Spring 2024 (aka S24)
+Course Description: An examination of research methods currently employed by the design professions, with an emphasis on user field research methods and creative toolkits for participatory design. Students gain experience in method application through a parallel studio project phased through exploratory, generative, and evaluative research. Required of all first year Master of Design and Master of Professional Studies students in Design, and linked to the Studio II project in Design 51-712. Others may be admitted by permission of the instructor, with preference given to those concurrently taking Design 51-712.
+</end course description for 51-744 Research Methods for Design>

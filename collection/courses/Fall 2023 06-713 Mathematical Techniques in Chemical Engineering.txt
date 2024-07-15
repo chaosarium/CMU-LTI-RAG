@@ -1,0 +1,16 @@
+<start course metadata for 06-713 Mathematical Techniques in Chemical Engineering>
+Semester: Fall 2023 (aka F23)
+Course Name: Mathematical Techniques in Chemical Engineering
+Course Number: 06-713
+Department: Chemical Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Aditya Khair
+Rooms: DH 1112
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 06-713 Mathematical Techniques in Chemical Engineering>
+
+<start course description for 06-713 Mathematical Techniques in Chemical Engineering>
+Semester: Fall 2023 (aka F23)
+Course Description: Selection, construction, solution, and interpretation of mathematical models applicable to the study of chemical engineering problems. Mathematical topics emphasized include divergence, curl and gradient operators, vector field theory, the solution of ordinary and partial differential equations by infinite series, separation of variables, Green's functions, regular and singular perturbations, and boundary-layer techniques.
+</end course description for 06-713 Mathematical Techniques in Chemical Engineering>

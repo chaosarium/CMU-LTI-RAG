@@ -1,0 +1,16 @@
+<start course metadata for 42-999 Ph.D Thesis Defense>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Ph.D Thesis Defense
+Course Number: 42-999
+Department: Biomedical Engineering
+Number of Units: 0
+Prerequisites: None
+Instructors: Maryia Rakach
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 42-999 Ph.D Thesis Defense>
+
+<start course description for 42-999 Ph.D Thesis Defense>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: Biomedical Engineering PhD Thesis Defense Examination
+</end course description for 42-999 Ph.D Thesis Defense>

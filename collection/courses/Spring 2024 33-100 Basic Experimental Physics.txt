@@ -1,0 +1,16 @@
+<start course metadata for 33-100 Basic Experimental Physics>
+Semester: Spring 2024 (aka S24)
+Course Name: Basic Experimental Physics
+Course Number: 33-100
+Department: Physics
+Number of Units: 6
+Prerequisites: None
+Instructors: Brendan Mullan, Patrick Lachance
+Rooms: DH A331
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 33-100 Basic Experimental Physics>
+
+<start course description for 33-100 Basic Experimental Physics>
+Semester: Spring 2024 (aka S24)
+Course Description: This course provides students with a basic introduction to experimental physics. The content of the course and the particular experiments to be carried out are chosen to be especially useful for students who intend to work in the health sciences. Specific topics will range from mechanics to nuclear and atomic physics. This course is specifically geared toward pre-health students.
+</end course description for 33-100 Basic Experimental Physics>

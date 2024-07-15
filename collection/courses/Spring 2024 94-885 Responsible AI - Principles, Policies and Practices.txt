@@ -1,0 +1,16 @@
+<start course metadata for 94-885 Responsible AI - Principles, Policies and Practices>
+Semester: Spring 2024 (aka S24)
+Course Name: Responsible AI - Principles, Policies and Practices
+Course Number: 94-885
+Department: Heinz College Wide Courses
+Number of Units: 6
+Prerequisites: None
+Instructors: Anand Rao
+Rooms: HBH 1204
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 94-885 Responsible AI - Principles, Policies and Practices>
+
+<start course description for 94-885 Responsible AI - Principles, Policies and Practices>
+Semester: Spring 2024 (aka S24)
+Course Description: As the world rapidly embraces Artificial Intelligence, the potential for both benefit and harm escalates. This course, "Responsible AI: Principles, Policies, and Practices," navigates the complexities of responsible AI use. Our focus is on providing a detailed and practical understanding of the key risks and harms traditional and generative AI can pose, the principles guiding ethical use of AI, and the intricacies of how these harms manifest themselves in the AI lifecycle. This course places a strong emphasis on bias, fairness, transparency, explainability, safety, security, privacy, and accountability, demystifying these foundational concepts and highlighting their relevance in the end-to-end AI life cycle.  Delve into the regulatory landscape of AI as we dissect policymaking worldwide and scrutinize responsible AI frameworks adopted by leading organizations. You'll gain valuable insight into the emerging standards, certifications, and accreditation programs that are guiding the responsible use of AI, Generative AI, and Large Language Models. Building on this knowledge, the course will help you understand the integral role of governance in AI and the pivotal role that various stakeholders play in this landscape.  Our unique approach combines theory with practical strategy, enabling you to develop a comprehensive operational plan for implementing responsible AI within an organization. The course culminates with the creation of a strategy and handbook tailored to the needs of an organization. Furthermore, we will equip you with the skills to communicate effectively, making a compelling case for implementing a responsible AI program. Several guest lectures from practitioners and policy makers, coupled with synthetic case scenarios will give you  a window into how organizations and policy making bodies are advancing the responsible use of AI.
+</end course description for 94-885 Responsible AI - Principles, Policies and Practices>

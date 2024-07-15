@@ -1,0 +1,16 @@
+<start course metadata for 54-175 Conservatory Hour>
+Semester: Fall 2023 (aka F23)
+Course Name: Conservatory Hour
+Course Number: 54-175
+Department: Drama
+Number of Units: 1
+Prerequisites: None
+Instructors: Kristi Good, TJ Young
+Rooms: PCA 114
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-175 Conservatory Hour>
+
+<start course description for 54-175 Conservatory Hour>
+Semester: Fall 2023 (aka F23)
+Course Description: A discussion class for first-year Drama students. Open to non-majors interested in declaring a Drama minor.
+</end course description for 54-175 Conservatory Hour>

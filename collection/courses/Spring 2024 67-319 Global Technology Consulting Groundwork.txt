@@ -1,0 +1,16 @@
+<start course metadata for 67-319 Global Technology Consulting Groundwork>
+Semester: Spring 2024 (aka S24)
+Course Name: Global Technology Consulting Groundwork
+Course Number: 67-319
+Department: Information Systems Program
+Number of Units: 3
+Prerequisites: None
+Instructors: Joseph Mertz
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 67-319 Global Technology Consulting Groundwork>
+
+<start course description for 67-319 Global Technology Consulting Groundwork>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is by invitation only for participants in the Technology Consulting in the Global Community program. For information on the program and how to apply, see URL below.
+</end course description for 67-319 Global Technology Consulting Groundwork>

@@ -1,0 +1,16 @@
+<start course metadata for 48-111 Exploring Pittsburgh>
+Semester: Spring 2024 (aka S24)
+Course Name: Exploring Pittsburgh
+Course Number: 48-111
+Department: Architecture
+Number of Units: 3
+Prerequisites: None
+Instructors: Francesca Torello
+Rooms: CFA 214
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-111 Exploring Pittsburgh>
+
+<start course description for 48-111 Exploring Pittsburgh>
+Semester: Spring 2024 (aka S24)
+Course Description: The city of Pittsburgh is at once your (permanent or temporary) home and the site of many of your studio projects. In this class you will start exploring Pittsburgh - as built environment in which your work might be situated, as cultural context you need to interpret, and as creative material for your own work. You will learn some of Pittsburgh's urban history, looking at phases of physical growth and dramatic change over time. You will take walks, do site visits and sharpen your observation skills. You will critically engage with some of the evidence. You will start to read cities as complex and layered, shaped by invisible forces as much as by visible ones.
+</end course description for 48-111 Exploring Pittsburgh>

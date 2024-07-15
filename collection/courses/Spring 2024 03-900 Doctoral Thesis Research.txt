@@ -1,0 +1,16 @@
+<start course metadata for 03-900 Doctoral Thesis Research>
+Semester: Spring 2024 (aka S24)
+Course Name: Doctoral Thesis Research
+Course Number: 03-900
+Department: Biological Sciences
+Number of Units: N/A
+Prerequisites: None
+Instructors: Natalia Hiller, Veronica Hinman
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 03-900 Doctoral Thesis Research>
+
+<start course description for 03-900 Doctoral Thesis Research>
+Semester: Spring 2024 (aka S24)
+Course Description: Doctoral Thesis Research consists of an independent investigation on a project selected from a major area of research study with the advice and approval of the faculty advisor.
+</end course description for 03-900 Doctoral Thesis Research>

@@ -1,0 +1,16 @@
+<start course metadata for 17-808 Software Engineering Research>
+Semester: Fall 2023 (aka F23)
+Course Name: Software Engineering Research
+Course Number: 17-808
+Department: Software & Societal Systems
+Number of Units: 12
+Prerequisites: None
+Instructors: Andrew Begel, Bogdan Vasilescu, Christian Kaestner, David Garlan, Eunsuk Kang, Fraser Brown, Jonathan Aldrich, Rohan Padhye, Travis Breaux
+Rooms: MI 448
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 17-808 Software Engineering Research>
+
+<start course description for 17-808 Software Engineering Research>
+Semester: Fall 2023 (aka F23)
+Course Description: This course prepares PhD students to begin research in software  engineering. It introduces important ideas across the breadth of software  engineering and the major research strategies of the field. Students  will become familiar with the structure of the field; they will learn  the seminal ideas and developments that led to current research  questions; they will learn to critique research papers to evaluate  their claims and evidence; and they will also become familiar with the  current research themes at CMU.
+</end course description for 17-808 Software Engineering Research>

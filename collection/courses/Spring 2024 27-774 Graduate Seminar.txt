@@ -1,0 +1,16 @@
+<start course metadata for 27-774 Graduate Seminar>
+Semester: Spring 2024 (aka S24)
+Course Name: Graduate Seminar
+Course Number: 27-774
+Department: Materials Science & Engineering
+Number of Units: 1
+Prerequisites: None
+Instructors: Noa Marom
+Rooms: DH 2210
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 27-774 Graduate Seminar>
+
+<start course description for 27-774 Graduate Seminar>
+Semester: Spring 2024 (aka S24)
+Course Description: The purpose of this course is to help students develop oral communication skills and, for more advanced students, to exchange information on the progress of their current research. Each week, a student delivers a seminar on recent articles or, preferably, on his or her own research. The audience consists of other graduate students and faculty who provide feedback on the quality of the presentation, along with suggestions for improvement. This course is required of all full-time graduate students in each semester for which they are registered. 1 hr. lec.
+</end course description for 27-774 Graduate Seminar>

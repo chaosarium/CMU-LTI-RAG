@@ -1,0 +1,16 @@
+<start course metadata for 67-364 Practical Data Science>
+Semester: Spring 2024 (aka S24)
+Course Name: Practical Data Science
+Course Number: 67-364
+Department: Information Systems Program
+Number of Units: 9
+Prerequisites: (36-200 or 36-201) and (15-112)
+Instructors: Raja Sooriamurthi
+Rooms: HBH 1206
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 67-364 Practical Data Science>
+
+<start course description for 67-364 Practical Data Science>
+Semester: Spring 2024 (aka S24)
+Course Description: From empirical, to theoretical, to computational science, we are at the dawn of a new revolution---a fourth paradigm of science driven by data.  Like archaeological remnants, data, by its very nature, is a marker of what happened in the past. How can data be used to better understand this past and what is happening in the present?  How can data be leveraged to forecast what will happen in the future? Better still, how can data be used to mold what should happen in the future? In this course we will study descriptive, predictive, and prescriptive methods by which data can be used to gain insight and inform actions of people and organizations.  The real excitement of data science is in the doing.  This is an application oriented course requiring skill in algorithmic problem solving. We will use Python based data science tools.  While prior programming experience with Python will be helpful the course will strive to be self-contained.  If you have not programmed in Python before, you need to be comfortable programming in some language (e.g., Ruby, R, Java, C++) and will need to come up to speed with the Pythonic way of problem solving.
+</end course description for 67-364 Practical Data Science>

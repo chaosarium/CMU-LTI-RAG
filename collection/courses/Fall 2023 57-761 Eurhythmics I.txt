@@ -1,0 +1,16 @@
+<start course metadata for 57-761 Eurhythmics I>
+Semester: Fall 2023 (aka F23)
+Course Name: Eurhythmics I
+Course Number: 57-761
+Department: Music
+Number of Units: 3
+Prerequisites: None
+Instructors: Stephen Neely
+Rooms: MM 119
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-761 Eurhythmics I>
+
+<start course description for 57-761 Eurhythmics I>
+Semester: Fall 2023 (aka F23)
+Course Description: Dalcroze Eurhythmics is a unique approach to music learning based on the recognition that meaningful rhythmic movement experience, associated with ear-training and improvisation, reinforces understanding of music concepts, enhances musicianship, and focuses awareness on the physical demands of artistic performance. All concepts are experienced in a musical context. Rhythm reading, notation, analysis, and improvisation are integral to the course. Eurhythmics I covers basic binary and ternary metric units and rhythm patterns in relation to these metric units within simple and compound meters.
+</end course description for 57-761 Eurhythmics I>

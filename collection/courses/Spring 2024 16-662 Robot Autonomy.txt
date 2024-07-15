@@ -1,0 +1,16 @@
+<start course metadata for 16-662 Robot Autonomy>
+Semester: Spring 2024 (aka S24)
+Course Name: Robot Autonomy
+Course Number: 16-662
+Department: Robotics
+Number of Units: 12
+Prerequisites: None
+Instructors: Oliver Kroemer
+Rooms: NSH 1305
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 16-662 Robot Autonomy>
+
+<start course description for 16-662 Robot Autonomy>
+Semester: Spring 2024 (aka S24)
+Course Description: Required core course for MRSD first-year students. Robot Autonomy delves into the interplay between perception, manipulation, navigation, planning, and learning for autonomous systems. These components are required to develop autonomous robots for a wide range of domains including households, manufacturing, service industries, and healthcare. The course will discuss the implementations, applications, and limitations of state-of-the-art algorithms for each of these components. Students will be taught methods for synthesizing grasps, recognizing objects and events, utilizing sensor feedback, planning in high-dimensional spaces, learning skills from experience, and building behavior engines for performing high-level tasks. Students will also learn to combine these components to create fully autonomous robot systems. The course emphasizes the implementation of the algorithms discussed in class through homework assignments in simulation as well as class projects on real robot systems.
+</end course description for 16-662 Robot Autonomy>

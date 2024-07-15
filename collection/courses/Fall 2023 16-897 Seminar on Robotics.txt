@@ -1,0 +1,16 @@
+<start course metadata for 16-897 Seminar on Robotics>
+Semester: Fall 2023 (aka F23)
+Course Name: Seminar on Robotics
+Course Number: 16-897
+Department: Robotics
+Number of Units: 0
+Prerequisites: None
+Instructors: Deepak Pathak
+Rooms: NSH 1305
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 16-897 Seminar on Robotics>
+
+<start course description for 16-897 Seminar on Robotics>
+Semester: Fall 2023 (aka F23)
+Course Description: Weekly presentations to robotics community by leaders in academia, business and industry.
+</end course description for 16-897 Seminar on Robotics>

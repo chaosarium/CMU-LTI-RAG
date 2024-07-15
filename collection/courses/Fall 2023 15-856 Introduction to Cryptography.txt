@@ -1,0 +1,16 @@
+<start course metadata for 15-856 Introduction to Cryptography>
+Semester: Fall 2023 (aka F23)
+Course Name: Introduction to Cryptography
+Course Number: 15-856
+Department: Computer Science
+Number of Units: 12
+Prerequisites: None
+Instructors: Aayush Jain
+Rooms: GHC 4303
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-856 Introduction to Cryptography>
+
+<start course description for 15-856 Introduction to Cryptography>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is aimed as an introduction to modern cryptography. This course will be a mix of applied and theoretical cryptography.
+</end course description for 15-856 Introduction to Cryptography>

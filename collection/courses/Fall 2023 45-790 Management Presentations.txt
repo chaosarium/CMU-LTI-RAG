@@ -1,0 +1,16 @@
+<start course metadata for 45-790 Management Presentations>
+Semester: Fall 2023 (aka F23)
+Course Name: Management Presentations
+Course Number: 45-790
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Abbe Depretis, Carla Bevins, Clara Burke, Instructor TBA
+Rooms: TEP 2119
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-790 Management Presentations>
+
+<start course description for 45-790 Management Presentations>
+Semester: Fall 2023 (aka F23)
+Course Description: This course provides opportunities to practice and hone your presentation skills, both with and without PowerPoint.  Presentations are typically completed individually.  All presentations are designed to prepare you for roles as managers and leaders in your organization.
+</end course description for 45-790 Management Presentations>

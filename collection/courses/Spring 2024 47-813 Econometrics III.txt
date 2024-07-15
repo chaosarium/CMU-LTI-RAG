@@ -1,0 +1,16 @@
+<start course metadata for 47-813 Econometrics III>
+Semester: Spring 2024 (aka S24)
+Course Name: Econometrics III
+Course Number: 47-813
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Robert Miller
+Rooms: TEP 5219
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 47-813 Econometrics III>
+
+<start course description for 47-813 Econometrics III>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is the third course in the core econometrics sequence of the economics PhD program. This course explores relationships between economic theory, identification, estimation and econometric practice. It develops structural approaches for analyzing large cross sectional and longitudinal data sets, by exploiting restrictions derived from the equilibrium dynamic outcomes in individual discrete choice optimization problems and non-cooperative games. We investigate empirical content, characterize identification, evaluate alternative estimators and testing procedures, as well as consider counterfactuals. There are three segments. The first analyzes approaches to dynamic discrete choice models, the second applies them to lifecycle models in labor economics and product innovation, while the third is an investigation into the econometrics of optimal contracting.
+</end course description for 47-813 Econometrics III>

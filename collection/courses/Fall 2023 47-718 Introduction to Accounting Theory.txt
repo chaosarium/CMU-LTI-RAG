@@ -1,0 +1,16 @@
+<start course metadata for 47-718 Introduction to Accounting Theory>
+Semester: Fall 2023 (aka F23)
+Course Name: Introduction to Accounting Theory
+Course Number: 47-718
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Jinghong Liang
+Rooms: TEP 4219
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 47-718 Introduction to Accounting Theory>
+
+<start course description for 47-718 Introduction to Accounting Theory>
+Semester: Fall 2023 (aka F23)
+Course Description: This course offers an introduction to the theoretical investigation of accounting as an academic discipline. The introduction is open to perspectives from the history of accounting thoughts, the mathematical foundation of bookkeeping, and modeled economic behavior. The central object of interest is the structure of accounting measurements and information. In varying degree, the course 1) integrates the various historical attempts at building intellectual foundations prior to the emergence of the modern accounting theory; 2) covers the mathematical structure of accounting measurements; 3) constructs basic theory-extension built on powerful forces of information economics and information science.
+</end course description for 47-718 Introduction to Accounting Theory>

@@ -1,0 +1,16 @@
+<start course metadata for 60-252 Intermediate Studio: Color>
+Semester: Fall 2023 (aka F23)
+Course Name: Intermediate Studio: Color
+Course Number: 60-252
+Department: Art
+Number of Units: 10
+Prerequisites: None
+Instructors: Clayton Merrell
+Rooms: CFA 313
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 60-252 Intermediate Studio: Color>
+
+<start course description for 60-252 Intermediate Studio: Color>
+Semester: Fall 2023 (aka F23)
+Course Description: In this course, students will learn to employ a wide range of color theories and color systems through hands-on exercises and studies. Studies will be done primarily in paint, with some use of collage and digital media. These exercises will be aimed at mastering a variety of color approaches that will be applicable to each student's own artistic practice. Students will develop, based on their own interests, a cohesive body of work in which to practice and expand on the skills learned through the directed exercises. Studio work will be augmented by lectures, demonstrations, critiques, readings and critical discussion of writings about color.
+</end course description for 60-252 Intermediate Studio: Color>

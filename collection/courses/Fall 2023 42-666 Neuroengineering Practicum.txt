@@ -1,0 +1,16 @@
+<start course metadata for 42-666 Neuroengineering Practicum>
+Semester: Fall 2023 (aka F23)
+Course Name: Neuroengineering Practicum
+Course Number: 42-666
+Department: Biomedical Engineering
+Number of Units: 9
+Prerequisites: None
+Instructors: Bin He
+Rooms: PH 226C
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 42-666 Neuroengineering Practicum>
+
+<start course description for 42-666 Neuroengineering Practicum>
+Semester: Fall 2023 (aka F23)
+Course Description: This course will examine topics and issues related to ethics, professional conduct, conflicts, plagiarism, copyright, authorship, research design considerations, IRB, IACUC, intellectual properties, review process, regulatory science and FDA process, professional presentations, and technical writing in neuroengineering. Students will discuss neuro-ethical implications of neural technologies and learn about the process of bringing such technologies to market, including intellectual property and FDA approval considerations. Students will discuss essential career development skills for a neuroengineering R and D career in academia and industry. An important component of the course is to develop students' communications skills including developing an effective research proposal, as well as effective oral presentations of the ideas developed in the proposal and technical report. The essentials for successful proposal writing will be discussed in case studies, in the form of fellowship applications. Each student will be required to develop a research proposal based upon students' own research or an emerging research topic in neuroengineering. Each student will also be required to develop a research statement on her/his own research interest. It is expected that students will improve her/his writing skills for proposal/research statement development with case studies, group discussions, and individualized feedbacks on students' own writing and presentation. This course will help students to develop practical skills addressing real world problems in neuroengineering.
+</end course description for 42-666 Neuroengineering Practicum>

@@ -1,0 +1,16 @@
+<start course metadata for 02-702 Computational Biology Seminar>
+Semester: Spring 2024 (aka S24)
+Course Name: Computational Biology Seminar
+Course Number: 02-702
+Department: Computational Biology
+Number of Units: 3
+Prerequisites: None
+Instructors: Oana Carja
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 02-702 Computational Biology Seminar>
+
+<start course description for 02-702 Computational Biology Seminar>
+Semester: Spring 2024 (aka S24)
+Course Description: This course consists of weekly invited presentations on current computational biology research topics by leading scientists.  Attendance is mandatory for a passing grade.  You are permitted to miss only 2 seminars to receive a passing grade.  See course website (https://www.compbio.cmu.edu/seminar-series/index.html) for seminar locations.  Some will be at the University of Pittsburgh and some will be at Carnegie Mellon. Please check the schedule weekly for updates.
+</end course description for 02-702 Computational Biology Seminar>

@@ -1,0 +1,16 @@
+<start course metadata for 04-990 Engineering Research Project>
+Semester: Fall 2023 (aka F23)
+Course Name: Engineering Research Project
+Course Number: 04-990
+Department: Information & Communication Technology
+Number of Units: N/A
+Prerequisites: None
+Instructors: Barry Rawn, George Okeyo, Instructor TBA, Jason Hong, Jema David Ndibwile, Moise Busogi
+Rooms: DNM DNM
+Locations: Kigali, Rwanda
+</end course metadata for 04-990 Engineering Research Project>
+
+<start course description for 04-990 Engineering Research Project>
+Semester: Fall 2023 (aka F23)
+Course Description: This course offers a research opportunity for students interested in pursuing a research or academic career or PhD study. The research project is conducted under the supervision of a faculty research adviser who first  approves it based on the student's skills and mutual interest. The research  adviser and the student define and approve a study plan appropriate for the  research.  The research will lead to the presentation and defense of a mini-thesis in front of a research committee that may lead to the publication of a scholarly paper or papers. The research committee consists of three members including the advisor, and may include one external member.  The student must complete 36 units of research over one or two semesters and may count 6 units of 04-701 Research Methods in Engineering toward the total. The variable units (12-36) allow the students to spread the research project over two semesters.
+</end course description for 04-990 Engineering Research Project>

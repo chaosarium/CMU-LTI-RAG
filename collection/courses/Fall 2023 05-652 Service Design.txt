@@ -1,0 +1,16 @@
+<start course metadata for 05-652 Service Design>
+Semester: Fall 2023 (aka F23)
+Course Name: Service Design
+Course Number: 05-652
+Department: Human-Computer Interaction
+Number of Units: 12
+Prerequisites: None
+Instructors: Daniel Saffer, Denise Hardman
+Rooms: 3SC 172
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 05-652 Service Design>
+
+<start course description for 05-652 Service Design>
+Semester: Fall 2023 (aka F23)
+Course Description: In this course, we will collectively define and study services and product service systems, and learn the basics of designing them. We will do this through lectures, studio projects, and verbal and written exposition. Classwork will be done individually and in teams.
+</end course description for 05-652 Service Design>

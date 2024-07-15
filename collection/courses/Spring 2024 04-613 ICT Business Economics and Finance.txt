@@ -1,0 +1,16 @@
+<start course metadata for 04-613 ICT Business Economics and Finance>
+Semester: Spring 2024 (aka S24)
+Course Name: ICT Business Economics and Finance
+Course Number: 04-613
+Department: Information & Communication Technology
+Number of Units: 12
+Prerequisites: None
+Instructors: Carine Pierrett Mukamakuza
+Rooms: CMR F205
+Locations: Kigali, Rwanda
+</end course metadata for 04-613 ICT Business Economics and Finance>
+
+<start course description for 04-613 ICT Business Economics and Finance>
+Semester: Spring 2024 (aka S24)
+Course Description: This course focuses on financial fundamentals (reading and understanding financial statements, cost analysis and budgeting) and basic concepts from economic theory in the context of the current ICT industry.  Topics to be covered include market structure, regulation, strategy, negotiation, business models, working with investors and the creation of business plans. The format of the class is to present theory as it applies to business in general, and then to apply the theory to current firms in the ICT sector.  The concepts and thinking introduced in this class are applicable to companies in other sectors, including the non-profit sector.  The class project has each student analyzing the financials and economics of a major ICT firm (Google, Microsoft, Nokia, etc), writing a paper on the firm and presenting the results to the class.  Each student will also create an original business plan for a new ICT firm in Africa and present it to the class.
+</end course description for 04-613 ICT Business Economics and Finance>

@@ -1,0 +1,16 @@
+<start course metadata for 39-612 Energy Policy and Economics>
+Semester: Spring 2024 (aka S24)
+Course Name: Energy Policy and Economics
+Course Number: 39-612
+Department: CIT Interdisciplinary
+Number of Units: 6
+Prerequisites: None
+Instructors: Nicholas Muller
+Rooms: HH B131
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 39-612 Energy Policy and Economics>
+
+<start course description for 39-612 Energy Policy and Economics>
+Semester: Spring 2024 (aka S24)
+Course Description: This course will begin with a review of microeconomic concepts and tools necessary for analysis of the topics covered in the class. The course will explore how past energy technology policies and choices are intertwined with pathways of economic development, social impacts, macroeconomic measurement and performance. This course will explore how a wide variety of policy mechanisms- technology policy, utility regulation and restructuring, emissions policies, multilateral interventions and agreements, and corporate strategies-can shape energy use and the environmental impacts of energy systems. Study examples will draw from both developed and developing countries.
+</end course description for 39-612 Energy Policy and Economics>

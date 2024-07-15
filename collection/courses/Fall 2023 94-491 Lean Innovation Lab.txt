@@ -1,0 +1,16 @@
+<start course metadata for 94-491 Lean Innovation Lab>
+Semester: Fall 2023 (aka F23)
+Course Name: Lean Innovation Lab
+Course Number: 94-491
+Department: Heinz College Wide Courses
+Number of Units: 12
+Prerequisites: None
+Instructors: James Riel
+Rooms: HBH 1208
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 94-491 Lean Innovation Lab>
+
+<start course description for 94-491 Lean Innovation Lab>
+Semester: Fall 2023 (aka F23)
+Course Description: Lean Innovation Lab is a specialized Heinz College course that is designed to challenge students to tackle new and emerging problems through mission-driven entrepreneurship. Students will be placed in teams (of 4-5) and select from a set of carefully curated, complex, & real-world problem sets. Student teams will learn about the problem sponsors as an organization, their culture, and their mission to instill a culture of relentless resilience and new innovative practice.  Individuals will learn to apply Lean Innovation frameworks and tools to identify key stakeholders, understand their needs, and develop and test iterative minimum viable products (MVPs) that lead to an applicable solution. Using a flipped-classroom approach, the teams brief the teaching team on their progress each week and receive direct coaching from their instructors and advisors, mentors, and subject matter experts from across public and private entrepreneurship ecosystems. Problem sets will focus on solving problems across public agencies in government as well as dual-use applications in private sectors and industries.
+</end course description for 94-491 Lean Innovation Lab>

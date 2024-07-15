@@ -1,0 +1,16 @@
+<start course metadata for 76-243 Introduction to Television>
+Semester: Fall 2023 (aka F23)
+Course Name: Introduction to Television
+Course Number: 76-243
+Department: English
+Number of Units: 9
+Prerequisites: None
+Instructors: Koel Banerjee
+Rooms: BH 255B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 76-243 Introduction to Television>
+
+<start course description for 76-243 Introduction to Television>
+Semester: Fall 2023 (aka F23)
+Course Description: Television is a ubiquitous vehicle of mass culture that cannot be casually dismissed or uncritically celebrated. This course approaches television as an industry, a global mass medium, and a site of social and political discourse. It will provide an overview of various critical frameworks for understanding television. It will contextualize the ways that television affects and mediates configurations of class, race, gender, and sexuality. We will also reflect on our viewing practices: from contemplation to binge-watching and guilty pleasures. To do this, the course will engage with a wide variety of popular American TV genres and formats, including sitcoms, reality TV, dramas, and news and talk shows. It will also provide a historical overview of the medium. The course will conclude with the rise of digital streaming platforms and examine how they have impacted network television.
+</end course description for 76-243 Introduction to Television>

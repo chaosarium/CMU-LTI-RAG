@@ -1,0 +1,16 @@
+<start course metadata for 53-831 Building Virtual Worlds>
+Semester: Fall 2023 (aka F23)
+Course Name: Building Virtual Worlds
+Course Number: 53-831
+Department: Entertainment Technology
+Number of Units: 24
+Prerequisites: None
+Instructors: David Culyba, Jonathan Walton
+Rooms: PTC MPR
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 53-831 Building Virtual Worlds>
+
+<start course description for 53-831 Building Virtual Worlds>
+Semester: Fall 2023 (aka F23)
+Course Description: This is a project course, where interdisciplinary teams build rapidly prototyped immersive interactive virtual worlds. The course will cover world building, environmental design, non-linear storytelling, and related topics. Students will use modeling tools, paint tools, sound processing tools, and the Unity game engine in conjunction with cutting-edge interface hardware. At the end of the semester, we hold an exhibition on campus to show class projects to the Carnegie Mellon community. The goal of the course is to take students with varying talents, backgrounds, and perspectives and put them together to do what they couldn't do alone.   The course is primarily for ETC graduate students, but occasionally other students are admitted by special permission from the instructors. To enroll, students must have ONE of the following skills: 3D modeling, high quality 2D art skills,strong programming skills, or the ability to compose and record original music and/or sound effects. The key is that there are no "idea people" in the course; everyone must share in the mechanical creation of the worlds. Students in the course may be assigned to a role that is not their primary skill set due to the distribution of the enrollees. This is a hands-on course and it takes a lot of time, but most students find it very fulfilling and fun. Note that we don't try to teach artists to program, or engineers to paint; we form teams where everyone does what they're already skilled at to attack a joint project. Class time includes a split between regular lectures, display/critique of group projects, guest lectures and workshops designed to aid in world creation. Significant out-of-classroom time is required at the ETC working with your group, and non-ETC students must be sure to contact the faculty before the semester begins to get clarity on what time in class will be required.
+</end course description for 53-831 Building Virtual Worlds>

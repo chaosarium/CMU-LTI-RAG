@@ -1,0 +1,16 @@
+<start course metadata for 46-901 Financial Computing I>
+Semester: Fall 2023 (aka F23)
+Course Name: Financial Computing I
+Course Number: 46-901
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: John Ostlund
+Rooms: BRD 507; TCS 250
+Locations: New York, New York; Pittsburgh, Pennsylvania
+</end course metadata for 46-901 Financial Computing I>
+
+<start course description for 46-901 Financial Computing I>
+Semester: Fall 2023 (aka F23)
+Course Description: Financial Computing I will continue with more advanced Python, and with more applications of Python to quantitative finance topics:  1.Pandas for spreadsheets and time series 2.Defining and using classes 3.More dynamic programming algorithms, standard data structures, sorting algorithms 4.Graphing with matplotlib and other visualization modules 5.Regular expression pattern matching 6.Web scraping tools 7.Brief intro to the four option pricing methods: The Black-Scholes formula (and computing implied volatility), binomial trees, simulation, and numerical integration 8.Ordinary Least Squares (using NumPy) 9. Using NumPy: numerical arrays, statistical and linear algebra facilities  Prerequisite - MSCF Programming Prep  Non-MSCF students may not take this course without written permission from the instructor. To be eligible, you must be a BSCF student or a graduate student enrolled in an MSCF participating college (Dietrich, Heinz, Tepper or Mellon). PhD students with relevant research may be eligible with permission from the instructor.
+</end course description for 46-901 Financial Computing I>

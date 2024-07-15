@@ -1,0 +1,16 @@
+<start course metadata for 54-242 Improvisation>
+Semester: Spring 2024 (aka S24)
+Course Name: Improvisation
+Course Number: 54-242
+Department: Drama
+Number of Units: 2
+Prerequisites: 54-101 and 54-102
+Instructors: Catherine Mueller
+Rooms: PCA 313
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-242 Improvisation>
+
+<start course description for 54-242 Improvisation>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is for Sophomore Actors only. This course not only sharpens their skills as ensemble performers, but also allows for more playfulness, creativity and exploration, cultivating risk-taking and a certain abandon. The course concentrates on non-verbal psychological improv, helping actors achieve a kind of physical truth and spontaneity, while becoming aware of the importance of the body in conveying information.
+</end course description for 54-242 Improvisation>

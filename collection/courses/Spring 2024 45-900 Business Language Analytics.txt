@@ -1,0 +1,16 @@
+<start course metadata for 45-900 Business Language Analytics>
+Semester: Spring 2024 (aka S24)
+Course Name: Business Language Analytics
+Course Number: 45-900
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Jinghong Liang
+Rooms: TEP 2112
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-900 Business Language Analytics>
+
+<start course description for 45-900 Business Language Analytics>
+Semester: Spring 2024 (aka S24)
+Course Description: Course goals The central focus of the course is on the structure of business language in both numbers and texts, not necessarily on analytical tools and techniques (which would likely change over time). The course overall goal is to equip students with an understanding of financial data structure at a level such that students would feel comfortable facing future analytical tasks not explicitly covered in class.  Key topics ¿	Financial statement numbers and the articulation structure. ¿	Matrix and graph representations of financial statement data. ¿	Creating and accessing financial statement datasets in tabular and graph forms. ¿	Basic data analysis using financial statement datasets including both descriptive and predictive tasks. ¿	Corporate regulatory filing data and its textual structure ¿	Basic data analysis using regulatory filings datasets including quantifying text complexity, similarity.
+</end course description for 45-900 Business Language Analytics>

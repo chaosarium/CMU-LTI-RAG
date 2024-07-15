@@ -1,0 +1,16 @@
+<start course metadata for 18-874 Spacecraft Design-Build-Fly Laboratory 2>
+Semester: Spring 2024 (aka S24)
+Course Name: Spacecraft Design-Build-Fly Laboratory 2
+Course Number: 18-874
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: 18-873
+Instructors: Brandon Lucia, Zachary Manchester
+Rooms: NSH 1305
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-874 Spacecraft Design-Build-Fly Laboratory 2>
+
+<start course description for 18-874 Spacecraft Design-Build-Fly Laboratory 2>
+Semester: Spring 2024 (aka S24)
+Course Description: (ENROLLMENT IS BY INSTRUCTOR APPROVAL ONLY) This course is a continuation of 16-/18-873, and together these two courses make a sequence culminating in the launch of the satellite designed and built over two consecutive semesters. Spacecraft design is a truly interdisciplinary subject that draws from every branch of engineering. This course integrates broad skillsets from mechanical engineering, electrical and computer engineering, computer science, and robotics toward the goal of designing, building, testing, and flying a small spacecraft over the course of two semesters. In this, the second semester of the two-semester sequence, students will work in subsystem teams to fabricate spacecraft components and finally integrate them into a complete spacecraft by the end of the semester. YES, WE ARE REALLY GOING TO LAUNCH A SATELLITE INTO SPACE AS PART OF THIS COURSE. Practical, hands-on, engineering skills will be emphasized, along with building and testing physical hardware and flight software.
+</end course description for 18-874 Spacecraft Design-Build-Fly Laboratory 2>

@@ -1,0 +1,16 @@
+<start course metadata for 36-050 Study Abroad>
+Semester: Fall 2023 (aka F23)
+Course Name: Study Abroad
+Course Number: 36-050
+Department: Statistics and Data Science
+Number of Units: 0
+Prerequisites: None
+Instructors: Instructor TBA
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 36-050 Study Abroad>
+
+<start course description for 36-050 Study Abroad>
+Semester: Fall 2023 (aka F23)
+Course Description: None
+</end course description for 36-050 Study Abroad>

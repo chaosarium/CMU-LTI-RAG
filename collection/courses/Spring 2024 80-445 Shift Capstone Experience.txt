@@ -1,0 +1,16 @@
+<start course metadata for 80-445 Shift Capstone Experience>
+Semester: Spring 2024 (aka S24)
+Course Name: Shift Capstone Experience
+Course Number: 80-445
+Department: Philosophy
+Number of Units: N/A
+Prerequisites: None
+Instructors: Peter Spirtes
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 80-445 Shift Capstone Experience>
+
+<start course description for 80-445 Shift Capstone Experience>
+Semester: Spring 2024 (aka S24)
+Course Description: The Societal and Human Impacts of Future Technologies capstone experience will be taken in either the fall or spring of the senior year. It is required for all SHIFT minors. The purpose of the capstone experience is for students to demonstrate learning over time within the minor. Key learning experiences include incorporating concepts, ideas, & frameworks from multiple disciplinary perspectives, using disciplinary perspectives in appropriate ways, given their complementary strengths & weaknesses, generating a multidisciplinary ( 2) of some current or near-future technology, collaborating with people of different disciplinary backgrounds, and communicating a single, integrated analysis of the impacts & opportunities of this novel technology (& recommended actions).   SHIFT minors should work with the minor advisor during the Spring of their junior year to design an appropriate capstone experience.
+</end course description for 80-445 Shift Capstone Experience>

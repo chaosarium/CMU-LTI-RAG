@@ -1,0 +1,16 @@
+<start course metadata for 24-492 Department Research Honors>
+Semester: Fall 2023 (aka F23)
+Course Name: Department Research Honors
+Course Number: 24-492
+Department: Mechanical Engineering
+Number of Units: N/A
+Prerequisites: None
+Instructors: Chris Hertz
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-492 Department Research Honors>
+
+<start course description for 24-492 Department Research Honors>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is designed to give students increased exposure to "open-ended" problems and research type projects. It involves doing a project on a research or design topic and writing a thesis describing that project. The project would be conducted under the supervision of a mechanical engineering faculty member (the advisor), and must be approved by the advisor before inception. This course can be taken at any time after the Junior year and before graduation which includes the summer after the Junior year. Completion of 18 units of this course with a grade of B or better is a partial fulfillment of the requirements for Departmental Research Honors.
+</end course description for 24-492 Department Research Honors>

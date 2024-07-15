@@ -1,0 +1,16 @@
+<start course metadata for 36-695 Independent Study>
+Semester: Fall 2023 (aka F23)
+Course Name: Independent Study
+Course Number: 36-695
+Department: Statistics and Data Science
+Number of Units: N/A
+Prerequisites: None
+Instructors: Alexander Reinhart, Brian Junker, Rebecca Nugent
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 36-695 Independent Study>
+
+<start course description for 36-695 Independent Study>
+Semester: Fall 2023 (aka F23)
+Course Description: None
+</end course description for 36-695 Independent Study>

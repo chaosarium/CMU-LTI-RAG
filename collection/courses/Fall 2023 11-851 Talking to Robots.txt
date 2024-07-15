@@ -1,0 +1,16 @@
+<start course metadata for 11-851 Talking to Robots>
+Semester: Fall 2023 (aka F23)
+Course Name: Talking to Robots
+Course Number: 11-851
+Department: Language Technologies Institute
+Number of Units: N/A
+Prerequisites: None
+Instructors: Yonatan Bisk
+Rooms: POS A35
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 11-851 Talking to Robots>
+
+<start course description for 11-851 Talking to Robots>
+Semester: Fall 2023 (aka F23)
+Course Description: Household robots need to move beyond simple programmed tasks like those a roomba, and become full-fledged digital assistants.  A robotic agent that exists (physically) in the world, gains access to rich and personalized knowledge of its environment.  How much do things weigh? What's fragile? Where you store the extra chocolates that you don't want anyone to find because they are just for you.  Building an agent that can accomplish tasks requires the integration of a diverse set of technologies and engineering.  Language models, SLAM, semantic mapping, task planning, understanding affordances, and end effector control.  This course will cover both foundational works in grounding language to action and analyze (or reimplement) state-of-the-art Large Language Model based task planners.
+</end course description for 11-851 Talking to Robots>

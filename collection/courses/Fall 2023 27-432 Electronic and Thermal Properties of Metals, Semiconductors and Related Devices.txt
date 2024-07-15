@@ -1,0 +1,16 @@
+<start course metadata for 27-432 Electronic and Thermal Properties of Metals, Semiconductors and Related Devices>
+Semester: Fall 2023 (aka F23)
+Course Name: Electronic and Thermal Properties of Metals, Semiconductors and Related Devices
+Course Number: 27-432
+Department: Materials Science & Engineering
+Number of Units: 9
+Prerequisites: None
+Instructors: Marek Skowronski
+Rooms: WEH 5302
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 27-432 Electronic and Thermal Properties of Metals, Semiconductors and Related Devices>
+
+<start course description for 27-432 Electronic and Thermal Properties of Metals, Semiconductors and Related Devices>
+Semester: Fall 2023 (aka F23)
+Course Description: Fall odd years: This is Part I of a two-part course (Part II is 27-433) sequence concerned with the electrical, dielectric, magnetic and superconducting properties of materials.  Students taking Part I will develop an in-depth understanding, based on the modern theories of solids, of the electrical, electronic and thermal properties of metals and semiconductors and the principles of operation of selected products and devices made from these materials. Overarching and interrelated topics will include elementary quantum and statistical mechanics, relationships between chemical bonds and energy bands in metals and semiconductors, the roles of phonons and electrons in the thermal conductivity of solids, diffusion and drift of electrons and holes, the important role of junctions in the establishment and control of electronic properties of selected metal- and semiconductor-based devices.  Examples of commercial products will be introduced to demonstrate the application of the information presented in the text and reference books and class presentations.  Additional topics will include microelectro-mechanical systems and nanoelectronics.
+</end course description for 27-432 Electronic and Thermal Properties of Metals, Semiconductors and Related Devices>

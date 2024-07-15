@@ -1,0 +1,16 @@
+<start course metadata for 54-438 Acting IV-Improv>
+Semester: Spring 2024 (aka S24)
+Course Name: Acting IV-Improv
+Course Number: 54-438
+Department: Drama
+Number of Units: 3
+Prerequisites: 54-301 and 54-302
+Instructors: Catherine Mueller
+Rooms: PCA 313
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-438 Acting IV-Improv>
+
+<start course description for 54-438 Acting IV-Improv>
+Semester: Spring 2024 (aka S24)
+Course Description: Introduces students to Comedy Improv performance; gives students an improv vocabulary; increases students freedom on stage; stimulates students sense of play; and increases students awareness of rhythm/timing/build/fall/recovery.
+</end course description for 54-438 Acting IV-Improv>

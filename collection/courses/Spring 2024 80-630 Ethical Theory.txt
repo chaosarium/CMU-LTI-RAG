@@ -1,0 +1,16 @@
+<start course metadata for 80-630 Ethical Theory>
+Semester: Spring 2024 (aka S24)
+Course Name: Ethical Theory
+Course Number: 80-630
+Department: Philosophy
+Number of Units: 12
+Prerequisites: None
+Instructors: Derrick Gray
+Rooms: POS 145
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 80-630 Ethical Theory>
+
+<start course description for 80-630 Ethical Theory>
+Semester: Spring 2024 (aka S24)
+Course Description: Every day, even in very subtle ways, we make judgments of value that shape our lives and our conduct. This course will examine four influential attempts at providing a systematic account of the source and nature of moral value, its relationship to other kinds of value, and the practical implications of different answers to these questions. This focus on the fundamental structure of moral value will frequently engage topics such as the nature of the good, subjectivist and objectivist accounts of value, forms of moral naturalism verses attempts at moral constructivism, and will draw on historical as well as more contemporary  sources. Particular attention will be paid to articulating the specific sources of disagreement that distinguish competing moral theories in order to facilitate our ability to adjudicate between them on a reasoned basis.
+</end course description for 80-630 Ethical Theory>

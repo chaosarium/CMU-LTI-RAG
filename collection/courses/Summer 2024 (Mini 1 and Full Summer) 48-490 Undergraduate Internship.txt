@@ -1,0 +1,16 @@
+<start course metadata for 48-490 Undergraduate Internship>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Undergraduate Internship
+Course Number: 48-490
+Department: Architecture
+Number of Units: 3
+Prerequisites: None
+Instructors: Mary-Lou Arscott
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-490 Undergraduate Internship>
+
+<start course description for 48-490 Undergraduate Internship>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: No course description provided.
+</end course description for 48-490 Undergraduate Internship>

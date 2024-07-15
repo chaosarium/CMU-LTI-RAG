@@ -1,0 +1,16 @@
+<start course metadata for 76-301 Internship>
+Semester: Spring 2024 (aka S24)
+Course Name: Internship
+Course Number: 76-301
+Department: English
+Number of Units: N/A
+Prerequisites: None
+Instructors: Instructor TBA
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 76-301 Internship>
+
+<start course description for 76-301 Internship>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is designed to help you explore possible writing-related careers as you gain workplace experience and earn academic credit. You'll work on- or off-campus as an entry-level professional writer for 8-10 hours per week in a field of interest to you (public relations, journalism, advertising, magazine writing, non-profit, healthcare, etc.). You are responsible for finding an internship. Most of your class time for the course will be completed at your internship site - a minimum of 120 hours (8-10 per week) over the semester for 9 units of credit. As the academic component of the course, you'll keep a reflective journal and meet periodically with the internship coordinator to discuss your internship and related professional issues. You must register for the course before the add/drop deadline of the semester in which you want to do your internship. Before you can register, you must contact the internship instructor listed above to express your interest in the course and to be cleared for registration. Credit for the internship course cannot be retroactively awarded for past internships.
+</end course description for 76-301 Internship>

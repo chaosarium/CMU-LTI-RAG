@@ -1,0 +1,16 @@
+<start course metadata for 11-860 Quantum Computing, Cryptography and Machine Learning Lab>
+Semester: Spring 2024 (aka S24)
+Course Name: Quantum Computing, Cryptography and Machine Learning Lab
+Course Number: 11-860
+Department: Language Technologies Institute
+Number of Units: 12
+Prerequisites: None
+Instructors: Bhiksha Ramakrishnan, Daniel Justice, Rita Singh
+Rooms: DH 1211
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 11-860 Quantum Computing, Cryptography and Machine Learning Lab>
+
+<start course description for 11-860 Quantum Computing, Cryptography and Machine Learning Lab>
+Semester: Spring 2024 (aka S24)
+Course Description: Students will gain familiarity with current universal gate quantum computing tools and technology. Students will also become comfortable with several QC algorithms and their implementation on state of the art quantum computer simulators and hardware. (Taught TR - time to be determined - please see course web page for additional information)
+</end course description for 11-860 Quantum Computing, Cryptography and Machine Learning Lab>

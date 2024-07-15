@@ -1,0 +1,16 @@
+<start course metadata for 80-244 Environmental Ethics>
+Semester: Fall 2023 (aka F23)
+Course Name: Environmental Ethics
+Course Number: 80-244
+Department: Philosophy
+Number of Units: 9
+Prerequisites: None
+Instructors: Derrick Gray
+Rooms: WEH 5403
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 80-244 Environmental Ethics>
+
+<start course description for 80-244 Environmental Ethics>
+Semester: Fall 2023 (aka F23)
+Course Description: In this class, we'll try to figure out what obligations we might have to the natural environment and the non-human living beings within it, as well as what justice requires of us in our use of natural resources given the needs of other human beings. Among other things, we'll spend considerable time on animal ethics: What moral obligations do we have to non-human animals? Is it morally OK to eat them? Does a dog count (morally speaking) as much as a human? Does a factory-farm chicken count as much as a wild endangered tiger? Then, given that many of the most pressing environmental problemslike climate changeare collective action problems, we'll consider why these problems are so sticky, what obligations we have as individuals in dealing with these problems, and what a just collective solution might look like. To that end, we'll examine the processes fueling climate change, we'll look at who is responsible for these processes, and we'll try to determine whether any current proposal to deal with climate change is an effective, just response to the problem.
+</end course description for 80-244 Environmental Ethics>

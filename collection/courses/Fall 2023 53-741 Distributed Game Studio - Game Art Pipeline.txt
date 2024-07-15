@@ -1,0 +1,16 @@
+<start course metadata for 53-741 Distributed Game Studio - Game Art Pipeline>
+Semester: Fall 2023 (aka F23)
+Course Name: Distributed Game Studio - Game Art Pipeline
+Course Number: 53-741
+Department: Entertainment Technology
+Number of Units: 12
+Prerequisites: None
+Instructors: Ricardo Washington, Thomas Corbett
+Rooms: HL 106C
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 53-741 Distributed Game Studio - Game Art Pipeline>
+
+<start course description for 53-741 Distributed Game Studio - Game Art Pipeline>
+Semester: Fall 2023 (aka F23)
+Course Description: Video game development is often performed by specialized studios and departments that are spread out across multiple locations around the world.  This course will replicate this process by teaming up with students from another institution to design and deliver game projects.  Students from Carnegie Mellon will be responsible for developing game art, while students from Howard University will be responsible for programming tasks. Our section of this course will focus on the development and delivery of assets within the game art pipeline, including generation, best practices, and implementation into game engines. Students will learn how to use a game engine and gain experience with basic and intermediate art systems including the 2D & 3D art pipelines, sprite animation, tilemaps and level design and more. This course will also cover remote collaboration techniques, distributed team management, rapid prototyping, iterative design processes, and project management. Course instruction will be delivered across synchronous meetings and pre-recorded lessons, and students will meet and work remotely with team members from other disciplines. This course does not have prerequisites, but a basic understanding of common code concepts is recommended. Prior experience with 2D/3D art software is helpful, but not required.
+</end course description for 53-741 Distributed Game Studio - Game Art Pipeline>

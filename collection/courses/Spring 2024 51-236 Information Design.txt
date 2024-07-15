@@ -1,0 +1,16 @@
+<start course metadata for 51-236 Information Design>
+Semester: Spring 2024 (aka S24)
+Course Name: Information Design
+Course Number: 51-236
+Department: Design
+Number of Units: 9
+Prerequisites: None
+Instructors: Victoria Crowley
+Rooms: HL 106C
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-236 Information Design>
+
+<start course description for 51-236 Information Design>
+Semester: Spring 2024 (aka S24)
+Course Description: This studio course focuses on teaching a basic visual design process from ethnographic research through ideation to finished artifact. Students will work individually and in teams to gain proficiency in applying specific design techniques to information design challenges. Students will attend lectures to gain new perspectives, engage in projects to learn through making, conduct readings to balance theory and practice, participate in critiques to verbalize their views and consider alternate perspectives, join in discussions to develop shared understanding, give presentations to communicate their thinking, and complete tutorials and learn software for additional insight.
+</end course description for 51-236 Information Design>

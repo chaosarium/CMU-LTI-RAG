@@ -1,0 +1,16 @@
+<start course metadata for 04-622 Applied Cryptography>
+Semester: Spring 2024 (aka S24)
+Course Name: Applied Cryptography
+Course Number: 04-622
+Department: Information & Communication Technology
+Number of Units: 6
+Prerequisites: None
+Instructors: Michael Perkins
+Rooms: CMR F203
+Locations: Kigali, Rwanda
+</end course metadata for 04-622 Applied Cryptography>
+
+<start course description for 04-622 Applied Cryptography>
+Semester: Spring 2024 (aka S24)
+Course Description: Cryptography is literally thousands of years old, because it has always been important to secure information in a manner that only the intended recipient can access. Today, cryptography is essential for e-commerce and communication. But cryptography is more than just encrypting data. Cryptographic techniques address other system level problems too, including but not limited to: (1) how do I know I'm talking to the person I think I am? (2) how can I securely verify that the person I'm talking to knows a shared secret? (3) how can I electronically "sign" a document I produce in a way that anyone can verify it came from me, but no one can produce a forgery? (4) how can I securely exchange encryption keys with a friend? In this course, students will learn the foundations of modern cryptography, and how they are used to solve such problems.
+</end course description for 04-622 Applied Cryptography>

@@ -1,0 +1,16 @@
+<start course metadata for 54-335 Auditioning for the Stage>
+Semester: Spring 2024 (aka S24)
+Course Name: Auditioning for the Stage
+Course Number: 54-335
+Department: Drama
+Number of Units: 2
+Prerequisites: None
+Instructors: Andrew Smith
+Rooms: PCA 321
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-335 Auditioning for the Stage>
+
+<start course description for 54-335 Auditioning for the Stage>
+Semester: Spring 2024 (aka S24)
+Course Description: An optional course for Junior Acting and Music Theatre majors.
+</end course description for 54-335 Auditioning for the Stage>

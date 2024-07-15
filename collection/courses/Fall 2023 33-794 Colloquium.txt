@@ -1,0 +1,16 @@
+<start course metadata for 33-794 Colloquium>
+Semester: Fall 2023 (aka F23)
+Course Name: Colloquium
+Course Number: 33-794
+Department: Physics
+Number of Units: 1
+Prerequisites: None
+Instructors: Manfred Paulini
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 33-794 Colloquium>
+
+<start course description for 33-794 Colloquium>
+Semester: Fall 2023 (aka F23)
+Course Description: The Physics Colloquium, held jointly with the University of Pittsburgh Physics Department, provides an opportunity for all physics faculty and students to hear invited lectures and discuss problems of current interest in physics. The talks are intended for physicists from all areas, and thereby constitute a unifying element for the department. Also, on occasion, talks of broad cultural interest are presented for the entire university community. Weekly one-hour lectures alternate between Carnegie Mellon and the University of Pittsburgh.
+</end course description for 33-794 Colloquium>

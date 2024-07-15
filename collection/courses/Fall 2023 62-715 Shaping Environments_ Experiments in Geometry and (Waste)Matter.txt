@@ -1,0 +1,16 @@
+<start course metadata for 62-715 Shaping Environments: Experiments in Geometry and (Waste)Matter>
+Semester: Fall 2023 (aka F23)
+Course Name: Shaping Environments: Experiments in Geometry and (Waste)Matter
+Course Number: 62-715
+Department: CFA Interdisciplinary
+Number of Units: N/A
+Prerequisites: None
+Instructors: Dana Cupkova
+Rooms: MM 321
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 62-715 Shaping Environments: Experiments in Geometry and (Waste)Matter>
+
+<start course description for 62-715 Shaping Environments: Experiments in Geometry and (Waste)Matter>
+Semester: Fall 2023 (aka F23)
+Course Description: Shaping Environments is a design-research seminar that explores alternative material formations beyond our current petrochemical reality. Using digital environments and computational tools, such as photogrammetry, depth-map texture modeling, AI workflows, and 3D printing, we will experiment with shaping new hybrid material systems. Using resources, such as food and/or construction waste, our goal is to propose new material paradigms that embrace ecological thinking and environmental stewardship through physical prototyping.
+</end course description for 62-715 Shaping Environments: Experiments in Geometry and (Waste)Matter>

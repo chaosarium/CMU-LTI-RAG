@@ -1,0 +1,16 @@
+<start course metadata for 67-276 Building Better Web Applications>
+Semester: Fall 2023 (aka F23)
+Course Name: Building Better Web Applications
+Course Number: 67-276
+Department: Information Systems Program
+Number of Units: 3
+Prerequisites: 67-272
+Instructors: Larry Heimann, Shihong Huang
+Rooms: WEH 5403
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 67-276 Building Better Web Applications>
+
+<start course description for 67-276 Building Better Web Applications>
+Semester: Fall 2023 (aka F23)
+Course Description: This class introduces students to new technologies that will help improve web application performance and responsiveness.  Classes will begin with a time of instruction followed by hands-on activities to reinforce learning principles.
+</end course description for 67-276 Building Better Web Applications>

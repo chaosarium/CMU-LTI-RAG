@@ -1,0 +1,16 @@
+<start course metadata for 18-739 Hacking 101>
+Semester: Fall 2023 (aka F23)
+Course Name: Hacking 101
+Course Number: 18-739
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: David Brumley
+Rooms: BH A53
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-739 Hacking 101>
+
+<start course description for 18-739 Hacking 101>
+Semester: Fall 2023 (aka F23)
+Course Description: Please go to the ECE website to view "Special Topics in Security" course descriptions. http://www.ece.cmu.edu/courses/index.html
+</end course description for 18-739 Hacking 101>

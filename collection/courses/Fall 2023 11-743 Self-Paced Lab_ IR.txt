@@ -1,0 +1,16 @@
+<start course metadata for 11-743 Self-Paced Lab: IR>
+Semester: Fall 2023 (aka F23)
+Course Name: Self-Paced Lab: IR
+Course Number: 11-743
+Department: Language Technologies Institute
+Number of Units: 6
+Prerequisites: 11-441 or 11-442 or 11-641 or 11-642 or 11-741
+Instructors: Jamie Callan
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 11-743 Self-Paced Lab: IR>
+
+<start course description for 11-743 Self-Paced Lab: IR>
+Semester: Fall 2023 (aka F23)
+Course Description: Advanced Information Retrieval Seminar and Lab is a seminar that focuses on current research in Information Retrieval. The seminar covers recent research on subjects such as retrieval models, text classification, information gathering, fact extraction, information visualization, summarization, text data mining, information filtering, collaborative filtering, question answering systems, and portable information systems. Other topics are drawn from recent SIGIR, Digital Libraries, TREC, Machine Learning, and AAAI conferences. Course content varies from year to year.  Students not taking the course for credit are welcome to audit or sit in on the course, subject to availability of space.
+</end course description for 11-743 Self-Paced Lab: IR>

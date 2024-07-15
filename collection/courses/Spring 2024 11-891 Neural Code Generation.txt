@@ -1,0 +1,16 @@
+<start course metadata for 11-891 Neural Code Generation>
+Semester: Spring 2024 (aka S24)
+Course Name: Neural Code Generation
+Course Number: 11-891
+Department: Language Technologies Institute
+Number of Units: N/A
+Prerequisites: None
+Instructors: Daniel Fried, Sean Welleck
+Rooms: WEH 4625
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 11-891 Neural Code Generation>
+
+<start course description for 11-891 Neural Code Generation>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is a graduate-level course introducing research topics in neural code generation: modeling and synthesizing programs using deep-learning methods, with an emphasis on neural language models. The course covers (1) foundational advances in neural language models that are relevant to code generation (2) code-specific formal methods for training, inference, and evaluation and (3) research frontiers such as long document lengths, domain adaptation, and downstream interactive and production-ready uses of the final code generation models. The course combines lectures and paper discussions, as well as a final research project for students taking the course for 12 units. This is a graduate course designed primarily for PhD and research master students at LTI, S3D, MLD, CSD, HCII and RI; others, for example (undergraduate) students of CS or from professional master programs, are advised to seek prior permission of the instructors. It is required for students to have taken an introductory ML course or an ML project-based course such as 10-401, 10-601, 10-701, 11-663, 11-441, 11-641, 11-667, 11-741, 11-711, or 11-777. Prior knowledge of deep learning is recommended.
+</end course description for 11-891 Neural Code Generation>

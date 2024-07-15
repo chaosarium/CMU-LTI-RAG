@@ -1,0 +1,16 @@
+<start course metadata for 57-355 Secondary Guided Teaching>
+Semester: Spring 2024 (aka S24)
+Course Name: Secondary Guided Teaching
+Course Number: 57-355
+Department: Music
+Number of Units: 3
+Prerequisites: None
+Instructors: Jeremy Olisar
+Rooms: HOA 224
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-355 Secondary Guided Teaching>
+
+<start course description for 57-355 Secondary Guided Teaching>
+Semester: Spring 2024 (aka S24)
+Course Description: This course enables students to apply instructional strategies in local secondary school music classes. School visits provide opportunities to work with band, choral, & orchestral ensembles and general music classes. Seminar discussions with the cooperating teachers familiarize students with both school-wide and classroom management issues that affect teaching, learning, motivation, and the administration of music programs.
+</end course description for 57-355 Secondary Guided Teaching>

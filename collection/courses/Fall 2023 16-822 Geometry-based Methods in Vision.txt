@@ -1,0 +1,16 @@
+<start course metadata for 16-822 Geometry-based Methods in Vision>
+Semester: Fall 2023 (aka F23)
+Course Name: Geometry-based Methods in Vision
+Course Number: 16-822
+Department: Robotics
+Number of Units: 12
+Prerequisites: 16-385 or 16-720 or 16-820
+Instructors: Shubham Tulsiani
+Rooms: NSH 1305
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 16-822 Geometry-based Methods in Vision>
+
+<start course description for 16-822 Geometry-based Methods in Vision>
+Semester: Fall 2023 (aka F23)
+Course Description: None
+</end course description for 16-822 Geometry-based Methods in Vision>

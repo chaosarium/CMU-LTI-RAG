@@ -1,0 +1,16 @@
+<start course metadata for 54-790 Production Resource Management>
+Semester: Spring 2024 (aka S24)
+Course Name: Production Resource Management
+Course Number: 54-790
+Department: Drama
+Number of Units: 6
+Prerequisites: None
+Instructors: David Holcomb, Sayantee Sahoo
+Rooms: WEH 5202
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-790 Production Resource Management>
+
+<start course description for 54-790 Production Resource Management>
+Semester: Spring 2024 (aka S24)
+Course Description: This course examines the management of resources for the production of live theatrical productions.  We start with analysis of scripts, to find the foundation for resource allocation.  Then we move on to study the allocating two of the largest production resources: time and money.  A significant exploration of the tracking of time and money extends throughout the course, with half of the class sessions taking place in a computer cluster, where we concentrate on advanced application of Excel, Access, and specialized calendar software.
+</end course description for 54-790 Production Resource Management>

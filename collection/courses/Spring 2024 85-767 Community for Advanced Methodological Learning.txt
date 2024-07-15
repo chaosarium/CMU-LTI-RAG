@@ -1,0 +1,16 @@
+<start course metadata for 85-767 Community for Advanced Methodological Learning>
+Semester: Spring 2024 (aka S24)
+Course Name: Community for Advanced Methodological Learning
+Course Number: 85-767
+Department: Psychology
+Number of Units: 3
+Prerequisites: None
+Instructors: Instructor TBA
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 85-767 Community for Advanced Methodological Learning>
+
+<start course description for 85-767 Community for Advanced Methodological Learning>
+Semester: Spring 2024 (aka S24)
+Course Description: This series consists largely of lectures on advanced statistical or methodological topics relevant to psychology. Speakers include graduate students, post-docs, and faculty members from both local and international institutions. The presentations are followed by Q&A; sessions. More information about CAMeL can be found at https://camelstats.andrew.cmu.edu/.
+</end course description for 85-767 Community for Advanced Methodological Learning>

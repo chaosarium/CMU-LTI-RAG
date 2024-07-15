@@ -1,0 +1,16 @@
+<start course metadata for 53-621 Special Project II>
+Semester: Fall 2023 (aka F23)
+Course Name: Special Project II
+Course Number: 53-621
+Department: Entertainment Technology
+Number of Units: 12
+Prerequisites: 53-672
+Instructors: Instructor TBA, Ruth Comley
+Rooms: DNM DNM; PTC 5208
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 53-621 Special Project II>
+
+<start course description for 53-621 Special Project II>
+Semester: Fall 2023 (aka F23)
+Course Description: The Advanced Game Studio is a semester long video game development project.  The objective is to provide students with an opportunity to design and deliver a more fully realized and refined game, and with practical working experience with teammates from different backgrounds and disciplines.   Students will be divided into teams based upon interest and ability, and will take a game through all steps of development from initial concept to final product.  A number of platforms will be available for use, including virtual and augmented reality systems. Section B Introduction Dark Ride Design is intended to give Location Based Entertainment (LBE) students knowledge and experience within the realm of designing a dark ride experience.  The class explores the use of a guided vehicle upon a motion base to travel through a themed journey displayed on a 180 degree projection space and utilizing triggered sound, lighting, and 4D effects to augment the experience.  Students will work within teams on specific theme based projects to explore concepts covered in class.  Suitable for UX Designers, General and Hardware Programmers, 3D Digital Environmental Artists, Sound Designers and Game Designers wanting to explore UX design.
+</end course description for 53-621 Special Project II>

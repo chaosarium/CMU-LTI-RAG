@@ -1,0 +1,16 @@
+<start course metadata for 18-300 Fundamentals of Electromagnetics>
+Semester: Fall 2023 (aka F23)
+Course Name: Fundamentals of Electromagnetics
+Course Number: 18-300
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: 18-220
+Instructors: Maysam Chamanzar
+Rooms: CIC 4105
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-300 Fundamentals of Electromagnetics>
+
+<start course description for 18-300 Fundamentals of Electromagnetics>
+Semester: Fall 2023 (aka F23)
+Course Description: This course introduces electromagnetic principles and describes ways in which those principles are applied in engineering devices and systems. Topics include: vector calculus as a mathematical foundation for field descriptions, Maxwell's equations in integral and differential forms with associated boundary conditions as descriptions of all electromagnetic principles, quasistatic electric fields in free space and in materials, superposition for known charge sources, conduction and polarization, resistance and capacitance, charge relaxation, analytic and numerical methods for electric field boundary value problems, quasistatic magnetic fields in free space and in materials, superposition for known current sources, magnetization, inductance, magnetic diffusion, and analytic and numerical methods for magnetic field boundary value problems. 4 hrs. lec.
+</end course description for 18-300 Fundamentals of Electromagnetics>

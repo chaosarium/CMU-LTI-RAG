@@ -1,0 +1,16 @@
+<start course metadata for 60-223 IDeATe Portal: Introduction to Physical Computing>
+Semester: Fall 2023 (aka F23)
+Course Name: IDeATe Portal: Introduction to Physical Computing
+Course Number: 60-223
+Department: Art
+Number of Units: 10
+Prerequisites: None
+Instructors: Robert Zacharias
+Rooms: HL A10
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 60-223 IDeATe Portal: Introduction to Physical Computing>
+
+<start course description for 60-223 IDeATe Portal: Introduction to Physical Computing>
+Semester: Fall 2023 (aka F23)
+Course Description: This practical project-based course covers the basic technical skills (including electronics, programming, and hardware) needed to build simple interactive objects with embedded behavior using the Arduino microcontroller. A sequence of projects challenge students to apply their technical skills in creative ways. For the final project, the class works with a local group of older people who serve as design clients; students conjure and build them functioning custom interactive assistive devices of a practical or whimsical nature. Sensor inputs covered include an ultrasonic ranger, thermometer, light sensor, and human inputs like buttons and knobs; outputs to affect the world include actuators such as motors, LED lights, speakers, and haptic feedback devices. This introductory portal course has no technical prerequisites. Readings and guest speakers address topics including design, disability, and aging. See courses.ideate.cmu.edu/60-223/s2018/work for examples of prior student projects. Contact rzach@cmu.edu with any questions about the course. Students are encouraged to also take the micro course 99-353 IDeATe CAD and Laser Cutting.
+</end course description for 60-223 IDeATe Portal: Introduction to Physical Computing>

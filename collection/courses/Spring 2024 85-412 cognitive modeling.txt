@@ -1,0 +1,16 @@
+<start course metadata for 85-412 cognitive modeling>
+Semester: Spring 2024 (aka S24)
+Course Name: cognitive modeling
+Course Number: 85-412
+Department: Psychology
+Number of Units: 9
+Prerequisites: 15-122 or 15-150 or 15-251 or 15-210
+Instructors: John Anderson
+Rooms: BH 340A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 85-412 cognitive modeling>
+
+<start course description for 85-412 cognitive modeling>
+Semester: Spring 2024 (aka S24)
+Course Description: This course will be concerned with modeling of agent behavior in a range of applications from laboratory experiments on human cognition, high-performance simulations such as flight simulators, and video game environments. The first half of the course will teach a high-level modeling language for simulating human perception, cognition, and action. The second half of the course will be a project in which students develop a simulated agent or agents for the application of their choice.
+</end course description for 85-412 cognitive modeling>

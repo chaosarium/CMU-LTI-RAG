@@ -1,0 +1,16 @@
+<start course metadata for 12-645 Smart Cities: Growth and Intelligent Transportation Systems>
+Semester: Fall 2023 (aka F23)
+Course Name: Smart Cities: Growth and Intelligent Transportation Systems
+Course Number: 12-645
+Department: Civil & Environmental Engineering
+Number of Units: 6
+Prerequisites: None
+Instructors: Sean Qian
+Rooms: HBH 2008
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 12-645 Smart Cities: Growth and Intelligent Transportation Systems>
+
+<start course description for 12-645 Smart Cities: Growth and Intelligent Transportation Systems>
+Semester: Fall 2023 (aka F23)
+Course Description: Cities all around the world are being built and re-invented as smart cities utilizing information systems and innovative applications of data analytics. One major smart cities component is transportation. The Intelligent Transportation Systems (ITS) industry is expected to grow at a rate of 19% per year and reach $5.5 Billion in annual investment by 2020. This shifting dynamic provides great opportunity for improved transportation safety and efficiency but also poses challenging information systems and public policy challenges. Furthermore, there are new opportunities for professional-school graduates outside of engineering schools for employment in transportation planning and policy. This course is supported by CMU's Traffic21 Initiative and Technologies for Safe and Efficient Transportation (T-SET) University Transportation Center. Classes will feature guest lectures provided by T-SET faculty and industry and government ITS professionals.
+</end course description for 12-645 Smart Cities: Growth and Intelligent Transportation Systems>

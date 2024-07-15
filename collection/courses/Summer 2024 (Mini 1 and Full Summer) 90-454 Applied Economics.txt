@@ -1,0 +1,16 @@
+<start course metadata for 90-454 Applied Economics>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Applied Economics
+Course Number: 90-454
+Department: Public Policy & Mgt:Sch of Pub Pol & Mgt
+Number of Units: 9
+Prerequisites: None
+Instructors: Instructor TBA
+Rooms: HBH 1007
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 90-454 Applied Economics>
+
+<start course description for 90-454 Applied Economics>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: This course will introduce you to the basic concepts and tools of microeconomics and welfare economics, which are used to analyze public policy from an economic perspective.  We will use the economic framework to explain:   1.  the demand and supply components of markets;  2.  when markets are efficient and equitable;  3.  how government policy relates to market failure at the microeconomic level.   The focus of the class will be on public policy and its relation to economics.  In order to apply economic concepts in a practical way, we will use current events as supplied by the textbook and by additional readings.   I hope to help you further develop your critical thinking skills by using economic theory as a foundation for problem analysis.  Examples of issues I hope to cover are:  -Is free trade a good thing?  -Is a minimum wage increase a good goal for society?  -How can the government reduce air and water pollution?  -Why does the government regulate some markets more than
+</end course description for 90-454 Applied Economics>

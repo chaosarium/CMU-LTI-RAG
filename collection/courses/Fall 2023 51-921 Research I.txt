@@ -1,0 +1,16 @@
+<start course metadata for 51-921 Research I>
+Semester: Fall 2023 (aka F23)
+Course Name: Research I
+Course Number: 51-921
+Department: Design
+Number of Units: N/A
+Prerequisites: None
+Instructors: Jonathan Chapman
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-921 Research I>
+
+<start course description for 51-921 Research I>
+Semester: Fall 2023 (aka F23)
+Course Description: The outcome is critically reflective practice documentation of a particular way of designing. The documentation should advance the practice of designing by establishing insights into existing practice and modeling examples of new forms of design practice. The dissertation comprehensively situates the practice in relation to other practices and theories of design. This PhD process is mimicked by the DDes. Research may reflect one of the following models: Design Studies Theory-based, Design Studies Fieldwork-based, Practice-based Research-oriented, Practice-based Practice-oriented
+</end course description for 51-921 Research I>

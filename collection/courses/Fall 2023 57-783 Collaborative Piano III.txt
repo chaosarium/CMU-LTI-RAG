@@ -1,0 +1,16 @@
+<start course metadata for 57-783 Collaborative Piano III>
+Semester: Fall 2023 (aka F23)
+Course Name: Collaborative Piano III
+Course Number: 57-783
+Department: Music
+Number of Units: N/A
+Prerequisites: 57-782
+Instructors: Mark Carver
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-783 Collaborative Piano III>
+
+<start course description for 57-783 Collaborative Piano III>
+Semester: Fall 2023 (aka F23)
+Course Description: Continues 57-782 Accompanying II.
+</end course description for 57-783 Collaborative Piano III>

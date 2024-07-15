@@ -1,0 +1,16 @@
+<start course metadata for 47-954 Human and Algorithmic Bias>
+Semester: Spring 2024 (aka S24)
+Course Name: Human and Algorithmic Bias
+Course Number: 47-954
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Yan Huang
+Rooms: TEP 5222
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 47-954 Human and Algorithmic Bias>
+
+<start course description for 47-954 Human and Algorithmic Bias>
+Semester: Spring 2024 (aka S24)
+Course Description: The purpose of this course is to help students develop an economic perspective on algorithmic bias and related social and policy issues. To this end, we will read and discuss (1) classic economics, psychology and sociology papers on human bias and discrimination, (2) recent papers in the field of computer science/machine learning about the algorithmic bias and fairness, and (3) papers that examine algorithmic bias through an economics lens, with (3) being the focus of this course. By the end of this course, students are expected to have a good understanding of the existing literature on human and algorithmic bias, and be able to develop research ideas around algorithmic bias and articulate their research ideas to an academic audience.
+</end course description for 47-954 Human and Algorithmic Bias>

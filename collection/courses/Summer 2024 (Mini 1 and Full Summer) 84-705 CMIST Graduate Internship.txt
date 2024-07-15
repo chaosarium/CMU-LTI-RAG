@@ -1,0 +1,16 @@
+<start course metadata for 84-705 CMIST Graduate Internship>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: CMIST Graduate Internship
+Course Number: 84-705
+Department: Institute for Politics and Strategy
+Number of Units: N/A
+Prerequisites: None
+Instructors: Mark Gardner
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 84-705 CMIST Graduate Internship>
+
+<start course description for 84-705 CMIST Graduate Internship>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: CMIST graduate students are required to complete a summer internship in a related field between the first and second year of the program.  The internship will allow students to synthesize the program's studies in the context of practical and hands-on experiential learning opportunities.  CMIST has dedicated staff to support students in all aspects of the internship process.
+</end course description for 84-705 CMIST Graduate Internship>

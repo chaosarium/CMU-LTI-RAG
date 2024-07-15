@@ -1,0 +1,16 @@
+<start course metadata for 15-812 Programming Language Semantics>
+Semester: Spring 2024 (aka S24)
+Course Name: Programming Language Semantics
+Course Number: 15-812
+Department: Computer Science
+Number of Units: 12
+Prerequisites: None
+Instructors: Stephen Brookes
+Rooms: PH 126A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-812 Programming Language Semantics>
+
+<start course description for 15-812 Programming Language Semantics>
+Semester: Spring 2024 (aka S24)
+Course Description: This lecture course introduces the foundational concepts and techniques of programming language semantics. The aim is to demonstrate the utility of a scientific approach, based on mathematics and logic, with applications to program analysis, language design, and compiler correctness. We introduce the concepts and techniques associated with the most well established and generally applicable frameworks for semantic description: the denotational, operational, and axiomatic styles of semantic description. We use semantics to analyze program behavior, guide the development of correct programs, prove correctness of a compiler, validate logics for program correctness, and derive general laws of program equivalence. We will discuss a variety of imperative and functional languages, sequential and parallel, as time permits.
+</end course description for 15-812 Programming Language Semantics>

@@ -1,0 +1,16 @@
+<start course metadata for 18-781 Speech Recognition and Understanding>
+Semester: Fall 2023 (aka F23)
+Course Name: Speech Recognition and Understanding
+Course Number: 18-781
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Shinji Watanabe
+Rooms: GHC 4307
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-781 Speech Recognition and Understanding>
+
+<start course description for 18-781 Speech Recognition and Understanding>
+Semester: Fall 2023 (aka F23)
+Course Description: The technology to allow humans to communicate by speech with machines or by which machines can understand when humans communicate with each other is rapidly maturing. This course provides an introduction to the theoretical tools as well as the experimental practice that has made the field what it is today. We will cover theoretical foundations, essential algorithms, major approaches, experimental strategies and current state-of-the-art systems and will introduce the participants to ongoing work in representation, algorithms and interface design. This course is suitable for graduate students with some background in computer science and electrical engineering, as well as for advanced undergraduates. Prerequisites: Sound mathematical background, knowledge of basic statistics, good computing skills. No prior experience with speech recognition is necessary. This course is primarily for graduate students in LTI, CS, Robotics, ECE, Psychology, or Computational Linguistics. Others by prior permission of instructor.
+</end course description for 18-781 Speech Recognition and Understanding>

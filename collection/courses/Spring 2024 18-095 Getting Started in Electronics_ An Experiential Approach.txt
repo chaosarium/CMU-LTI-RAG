@@ -1,0 +1,16 @@
+<start course metadata for 18-095 Getting Started in Electronics: An Experiential Approach>
+Semester: Spring 2024 (aka S24)
+Course Name: Getting Started in Electronics: An Experiential Approach
+Course Number: 18-095
+Department: Electrical & Computer Engineering
+Number of Units: 9
+Prerequisites: None
+Instructors: Tom Zajdel
+Rooms: HH A104
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-095 Getting Started in Electronics: An Experiential Approach>
+
+<start course description for 18-095 Getting Started in Electronics: An Experiential Approach>
+Semester: Spring 2024 (aka S24)
+Course Description: Electronics are ubiquitous and have transformed life many times over. Building circuits as a hobby has been a reliable introduction to a career in engineering for many decades, providing essential context and motivation for the mathematics and analysis techniques developed in the canonical ECE curriculum. For those with little prior knowledge of electronics, building circuits provides useful context and practical skills that lead to success in the rigorous engineering core. For those pursuing other career paths, exploring electronics develops technical literacy than will supplement and enhance their pursuits.  Nowadays, the growth of maker culture has provided a wealth of tools that make electronics more accessible than ever before. This class uses an experiential learning approach to develop skills in circuit design, prototyping, and debugging. Every lecture is integrated with a hands-on laboratory experiment, punctuating each lesson with physical inquiry. The course will be based on two experiential learning texts: Getting Started in Electronics by Forrest Mims III, which has launched many engineering careers since the 1980s, and the modern classic Make: Electronics by Charles Platt. Principles of analog circuits, digital circuits, microcontrollers, and measurement equipment will be explored one experiment at a time, through twice-weekly integrated lecture/circuit builds and once-weekly self-guided builds.
+</end course description for 18-095 Getting Started in Electronics: An Experiential Approach>

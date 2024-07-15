@@ -1,0 +1,6 @@
+Name: Lori Levin
+Title: Research Professor
+Email lsl@cs.cmu.edu
+Phone: 412-268-6193
+Office: 5717 Gates & Hillman Centers
+Interests: Machine Translation, Natural Language Processing and Computational Linguistics, Corpus Annotation and Resources

@@ -1,0 +1,16 @@
+<start course metadata for 21-882 Advanced Optimal Transport>
+Semester: Spring 2024 (aka S24)
+Course Name: Advanced Optimal Transport
+Course Number: 21-882
+Department: Mathematical Sciences
+Number of Units: 12
+Prerequisites: (21-355 or 21-235 or 21-455) and (21-373 or 21-237) and (21-721)
+Instructors: Johannes Wiesel
+Rooms: WEH 5328
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-882 Advanced Optimal Transport>
+
+<start course description for 21-882 Advanced Optimal Transport>
+Semester: Spring 2024 (aka S24)
+Course Description: Content varies.  May be taken more than once if content is sufficiently different.  (Two 80 minute lectures)
+</end course description for 21-882 Advanced Optimal Transport>

@@ -1,0 +1,16 @@
+<start course metadata for 57-989 Advanced Music Studies Studio (Piano Maintenance)>
+Semester: Spring 2024 (aka S24)
+Course Name: Advanced Music Studies Studio (Piano Maintenance)
+Course Number: 57-989
+Department: Music
+Number of Units: 18
+Prerequisites: None
+Instructors: Instructor TBA
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-989 Advanced Music Studies Studio (Piano Maintenance)>
+
+<start course description for 57-989 Advanced Music Studies Studio (Piano Maintenance)>
+Semester: Spring 2024 (aka S24)
+Course Description: tba
+</end course description for 57-989 Advanced Music Studies Studio (Piano Maintenance)>

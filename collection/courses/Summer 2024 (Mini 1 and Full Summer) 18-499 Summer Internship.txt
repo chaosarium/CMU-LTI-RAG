@@ -1,0 +1,16 @@
+<start course metadata for 18-499 Summer Internship>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Summer Internship
+Course Number: 18-499
+Department: Electrical & Computer Engineering
+Number of Units: N/A
+Prerequisites: None
+Instructors: James Bain
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-499 Summer Internship>
+
+<start course description for 18-499 Summer Internship>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: The Department of Electrical and Computer Engineering at Carnegie Mellon considers experiential learning opportunities important educational options for its undergraduate students. One such option is an internship, normally completed during the summer. Students do not need to officially register for an internship unless they want it listed on their official transcripts. ECE students interested in registering their internship for course credit on their transcript may request to be enrolled in this course. The ECE Undergraduate Office will add the course to the student's schedule, and the student will be assessed tuition for 3 units. This process should be used by international students interested in Curricular Practical Training (CPT) or by any other engineering undergraduate wishing to have their internship experience reflected on their official University transcript. International students should also be authorized by the Office of International Education (OIE). More information regarding CPT is available on OIE's website.
+</end course description for 18-499 Summer Internship>

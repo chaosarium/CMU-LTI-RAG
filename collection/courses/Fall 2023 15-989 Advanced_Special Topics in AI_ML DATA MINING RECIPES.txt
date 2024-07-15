@@ -1,0 +1,16 @@
+<start course metadata for 15-989 Advanced/Special Topics in AI/ML DATA MINING RECIPES>
+Semester: Fall 2023 (aka F23)
+Course Name: Advanced/Special Topics in AI/ML DATA MINING RECIPES
+Course Number: 15-989
+Department: Computer Science
+Number of Units: 6
+Prerequisites: None
+Instructors: Christos Faloutsos
+Rooms: WEH 5302
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-989 Advanced/Special Topics in AI/ML DATA MINING RECIPES>
+
+<start course description for 15-989 Advanced/Special Topics in AI/ML DATA MINING RECIPES>
+Semester: Fall 2023 (aka F23)
+Course Description: Given a large dataset (social network, set of time series, set of patient/customer records), how can we find patterns and anomalies? This seminar based course gives a list of time-tested 'recipes' to handle such problems.
+</end course description for 15-989 Advanced/Special Topics in AI/ML DATA MINING RECIPES>

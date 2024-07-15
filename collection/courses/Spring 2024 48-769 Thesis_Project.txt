@@ -1,0 +1,16 @@
+<start course metadata for 48-769 Thesis/Project>
+Semester: Spring 2024 (aka S24)
+Course Name: Thesis/Project
+Course Number: 48-769
+Department: Architecture
+Number of Units: N/A
+Prerequisites: None
+Instructors: Azadeh Sawyer, Dana Cupkova, Daniel Cardoso Llach, Daragh Byrne, Erica Cochran, Joshua Bard, Stefan Gruber, Vernelle Noel, Vivian Loftness
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-769 Thesis/Project>
+
+<start course description for 48-769 Thesis/Project>
+Semester: Spring 2024 (aka S24)
+Course Description: Classes provide both depth and breadth, while the culminating Thesis Project allows students the opportunity to narrow their research focus to a topic of personal and professional interest.
+</end course description for 48-769 Thesis/Project>

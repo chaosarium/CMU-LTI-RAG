@@ -1,0 +1,16 @@
+<start course metadata for 16-737 Special Topic: Research to Startup: creating a startup from robotics research>
+Semester: Spring 2024 (aka S24)
+Course Name: Special Topic: Research to Startup: creating a startup from robotics research
+Course Number: 16-737
+Department: Robotics
+Number of Units: 12
+Prerequisites: None
+Instructors: Jeff Ichnowski
+Rooms: WEH 2302
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 16-737 Special Topic: Research to Startup: creating a startup from robotics research>
+
+<start course description for 16-737 Special Topic: Research to Startup: creating a startup from robotics research>
+Semester: Spring 2024 (aka S24)
+Course Description: (This course is offered only to Ph.D. students in SCS, or with instructor permission.) This course is for Ph.D. students interested in exploring turning their research into a startup. Advances in AI and robotics have opened exciting opportunities for robotics-based startups. But with that comes challenges. In this class, students will form small teams to take an idea based in part on their research and work through the early steps of converting it into a company. This will require taking a dispassionate view of your research as a product or service and assessing its market and value. Each team will work through customer discovery, vetting ideas, creating and communicating a vision and strategy, fundraising, and building a product. We will have guest lectures and discussions where we will learn from the experiences of people who have created startups. We will learn about CMU resources to help with IP and technology transfer and discuss open-source strategies. We will discuss leveraging Ph.D. students' honed research skills to be successful company founders--e.g., related work investigations, presentations, and time management. We will emphasize the difference between research and commercial software and provide tools, technologies, and methodologies for a software development lifecycle. We cannot cover everything you need to know in one semester, but we will expose you to the essential aspects necessary to get started.
+</end course description for 16-737 Special Topic: Research to Startup: creating a startup from robotics research>

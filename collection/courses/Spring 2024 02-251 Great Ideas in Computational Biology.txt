@@ -1,0 +1,16 @@
+<start course metadata for 02-251 Great Ideas in Computational Biology>
+Semester: Spring 2024 (aka S24)
+Course Name: Great Ideas in Computational Biology
+Course Number: 02-251
+Department: Computational Biology
+Number of Units: 12
+Prerequisites: (02-201 or 15-112) and (15-151 or 21-127 or 21-128)
+Instructors: Madhavi Ganapathiraju, Phillip Compeau
+Rooms: CMB 1031; NSH 3002
+Locations: Doha, Qatar; Pittsburgh, Pennsylvania
+</end course metadata for 02-251 Great Ideas in Computational Biology>
+
+<start course description for 02-251 Great Ideas in Computational Biology>
+Semester: Spring 2024 (aka S24)
+Course Description: This 12-unit course provides an introduction to many of the great ideas that have formed the foundation for the recent transformation of life sciences into a fully-fledged computational discipline. Extracting biological understanding from both large and small data sets now requires the use and design of novel algorithms, developed in the field of computational biology. This gateway course is intended as a first exposure to computational biology for first-year undergraduates in the School of Computer Science, although it is open to other computationally minded  6students who are interested in exploring the field. Students will learn fundamental algorithmic and machine learning techniques that are used in modern biological investigations, including algorithms to process string, graph, and image data. They will use these techniques to answer questions such as "How do we reconstruct the sequence of a genome?", "How do we infer evolutionary relationships among many species?", and "How can we predict each gene's biological role?" on biological data. Previous exposure to molecular biology is not required, as the instructors will provide introductory materials as needed. After completion of the course, students will be well equipped to tackle advanced computational challenges in biology.
+</end course description for 02-251 Great Ideas in Computational Biology>

@@ -1,0 +1,16 @@
+<start course metadata for 33-755 Quantum Mechanics I>
+Semester: Fall 2023 (aka F23)
+Course Name: Quantum Mechanics I
+Course Number: 33-755
+Department: Physics
+Number of Units: 12
+Prerequisites: 33-446
+Instructors: Grigory Tarnopolskiy
+Rooms: DH A200; WEH 5312
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 33-755 Quantum Mechanics I>
+
+<start course description for 33-755 Quantum Mechanics I>
+Semester: Fall 2023 (aka F23)
+Course Description: This course introduces fundamental concepts of quantum mechanics.  Applications are made to quantum computing, the harmonic oscillator, the hydrogen atom, electron spin and addition of angular momentum.
+</end course description for 33-755 Quantum Mechanics I>

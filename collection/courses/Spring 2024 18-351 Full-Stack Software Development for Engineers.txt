@@ -1,0 +1,16 @@
+<start course metadata for 18-351 Full-Stack Software Development for Engineers>
+Semester: Spring 2024 (aka S24)
+Course Name: Full-Stack Software Development for Engineers
+Course Number: 18-351
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: 15-122
+Instructors: Hakan Erdogmus
+Rooms: WEH 6423
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-351 Full-Stack Software Development for Engineers>
+
+<start course description for 18-351 Full-Stack Software Development for Engineers>
+Semester: Spring 2024 (aka S24)
+Course Description: This course will introduce the principles, concepts, technologies, and practices of full-stack software development for creating end-to-end web applications using a classical client-server architecture and the model-view-controller pattern. Students will acquire basic front-end and back-end development skills and learn how to apply modern development practices in the context of an individual hands-on project using the plain web stack for the front-end, TypeScript and a NoSQL database layer for the back-end, and other common libraries, light-weight frameworks, and tools as adjuncts. The course will also introduce the fundamental software development concepts including types, objects, multi-paradigm programming (functional and object-oriented), modularity, concurrent and asynchronous computation, basic security, authentication and authorization, dynamic updates, and databases. Students will practice how to version-control the codebase, manage a small project, transform requirements expressed as user stories into working software in an incremental manner, maintain code quality using static analysis tools, build their application on an integration server, and deploy it on the cloud. To enroll in this course, students must already be proficient in imperative programming using multiple languages and familiar with the basics of algorithms and data structures. Each student will need their own laptop computer to use in the course.
+</end course description for 18-351 Full-Stack Software Development for Engineers>

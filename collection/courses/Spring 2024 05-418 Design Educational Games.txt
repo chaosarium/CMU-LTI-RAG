@@ -1,0 +1,16 @@
+<start course metadata for 05-418 Design Educational Games>
+Semester: Spring 2024 (aka S24)
+Course Name: Design Educational Games
+Course Number: 05-418
+Department: Human-Computer Interaction
+Number of Units: 12
+Prerequisites: None
+Instructors: Erik Harpstead
+Rooms: WEH 2302
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 05-418 Design Educational Games>
+
+<start course description for 05-418 Design Educational Games>
+Semester: Spring 2024 (aka S24)
+Course Description: The potential of digital games to improve education is enormous. However, it is a significant challenge to create a game that is both fun and educational. In this course, students will learn to meet this challenge by combining processes and principles from game design and instructional design. Students will also learn to evaluate their games for fun, learning, and the integration of the two. They will be guided by the EDGE framework for the analysis and design educational games. The course will involve a significant hands-on portion, in which students learn a design process to create educational games digital or non-digital. They will also read about existing educational games and discuss game design, instructional design, learning and transfer, and the educational effectiveness of digital games. They will analyze an educational game and present their analysis to the class.
+</end course description for 05-418 Design Educational Games>

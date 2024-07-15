@@ -1,0 +1,16 @@
+<start course metadata for 10-422 Foundations of Learning, Game Theory, and Their Connections>
+Semester: Spring 2024 (aka S24)
+Course Name: Foundations of Learning, Game Theory, and Their Connections
+Course Number: 10-422
+Department: Machine Learning
+Number of Units: 12
+Prerequisites: (36-225 or 36-218 or 36-217 or 15-259 or 21-325 or 36-219) and (15-251 or 10-301 or 10-315 or 10-601) and (21-240 or 21-241 or 21-242)
+Instructors: Maria Balcan
+Rooms: GHC 4211
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 10-422 Foundations of Learning, Game Theory, and Their Connections>
+
+<start course description for 10-422 Foundations of Learning, Game Theory, and Their Connections>
+Semester: Spring 2024 (aka S24)
+Course Description: In the past decades, researchers have discovered a number of important and deep connections between machine learning theory and algorithmic game theory. This course will explore these connections, both introducing fundamental topics in each area and describing how ideas from each area can shed light on the other.
+</end course description for 10-422 Foundations of Learning, Game Theory, and Their Connections>

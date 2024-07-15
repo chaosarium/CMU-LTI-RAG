@@ -1,0 +1,16 @@
+<start course metadata for 88-900 Graduate Research Seminar I>
+Semester: Fall 2023 (aka F23)
+Course Name: Graduate Research Seminar I
+Course Number: 88-900
+Department: Social & Decision Sciences
+Number of Units: 6
+Prerequisites: None
+Instructors: John Miller
+Rooms: PH 223D
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 88-900 Graduate Research Seminar I>
+
+<start course description for 88-900 Graduate Research Seminar I>
+Semester: Fall 2023 (aka F23)
+Course Description: The Graduate Research Seminar 1 is the intake seminar for PhD students entering the Department of Social and Decision Sciences (SDS).  The seminar introduces students to the SDS PhD program, develops key skills in time management and prioritization, writing, and presenting, begins the process of refining and aligning ultimate career goals with program options, and provides a workshop for producing initial drafts of key academic documents such as a vita, research, teaching, and diversity statements.  The seminar also provides a forum for learning about ongoing faculty research, developing novel research ideas, and coordinating additional training in the responsible conduct of research training and teaching skills.
+</end course description for 88-900 Graduate Research Seminar I>

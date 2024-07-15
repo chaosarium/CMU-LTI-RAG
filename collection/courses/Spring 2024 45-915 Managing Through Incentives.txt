@@ -1,0 +1,16 @@
+<start course metadata for 45-915 Managing Through Incentives>
+Semester: Spring 2024 (aka S24)
+Course Name: Managing Through Incentives
+Course Number: 45-915
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Alexey Kushnir
+Rooms: TEP 2118
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-915 Managing Through Incentives>
+
+<start course description for 45-915 Managing Through Incentives>
+Semester: Spring 2024 (aka S24)
+Course Description: We live in the information age when inspiring and motivating employees becomes increasingly important. Aligning the objectives of workers, managers, and owners by providing them with appropriate incentives becomes an emerging paradigm in the modern business world. In this course, we learn how to reason about incentives between managers and employees, between managers and owners, and within a team of co-workers. We cover a broad range of incentive practices and applications including objective and subjective performance measurements, relative performance evaluations, relational contracts, and executive compensation. The course mostly relies on business cases, but also presents some rigorous material based on recent research.
+</end course description for 45-915 Managing Through Incentives>

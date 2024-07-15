@@ -1,0 +1,16 @@
+<start course metadata for 65-412 QSSS Proseminar 2>
+Semester: Spring 2024 (aka S24)
+Course Name: QSSS Proseminar 2
+Course Number: 65-412
+Department: General Dietrich College
+Number of Units: 3
+Prerequisites: None
+Instructors: Mark Patterson
+Rooms: CMU REMOTE
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 65-412 QSSS Proseminar 2>
+
+<start course description for 65-412 QSSS Proseminar 2>
+Semester: Spring 2024 (aka S24)
+Course Description: This is the second semester of the year-long QSSS senior thesis course. Students completing theses will meet weekly to update each other on writing progress, practice oral presentations, and review written work. In addition to the completion of a senior thesis, students are expected to present at the Meeting of the Minds conference in the spring. Enrollment is limited to QSSS students with senior standing.
+</end course description for 65-412 QSSS Proseminar 2>

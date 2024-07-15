@@ -1,0 +1,16 @@
+<start course metadata for 36-462 Special Topics: Statistical Machine Learning>
+Semester: Spring 2024 (aka S24)
+Course Name: Special Topics: Statistical Machine Learning
+Course Number: 36-462
+Department: Statistics and Data Science
+Number of Units: 9
+Prerequisites: 36-401
+Instructors: Jing Lei
+Rooms: MM A14
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 36-462 Special Topics: Statistical Machine Learning>
+
+<start course description for 36-462 Special Topics: Statistical Machine Learning>
+Semester: Spring 2024 (aka S24)
+Course Description: Data mining is the science of discovering patterns and learning structure in large data sets.  Covered topics include information retrieval, clustering, dimension reduction, regression, classification, and decision trees.
+</end course description for 36-462 Special Topics: Statistical Machine Learning>

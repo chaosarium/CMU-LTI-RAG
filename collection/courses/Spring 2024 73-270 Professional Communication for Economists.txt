@@ -1,0 +1,16 @@
+<start course metadata for 73-270 Professional Communication for Economists>
+Semester: Spring 2024 (aka S24)
+Course Name: Professional Communication for Economists
+Course Number: 73-270
+Department: Economics
+Number of Units: 9
+Prerequisites: (76-101 or 76-102 or 76-106 or 76-107 or 76-108) and (73-102 or 73-104) and (73-103)
+Instructors: Carla Bevins
+Rooms: TEP 2702
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 73-270 Professional Communication for Economists>
+
+<start course description for 73-270 Professional Communication for Economists>
+Semester: Spring 2024 (aka S24)
+Course Description: A writing course specifically designed for second-year, and third-year Economics majors and additional majors. Students gain experience with technical writing techniques and skills needed for both their senior thesis and their eventual professional careers. The course emphasizes both individual and group projects. (Seminar, 3 hours). Minimum grade of "C" required in all economics pre-requisite courses.
+</end course description for 73-270 Professional Communication for Economists>

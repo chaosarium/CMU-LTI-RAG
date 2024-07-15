@@ -1,0 +1,16 @@
+<start course metadata for 54-284 Fundamentals of Directing>
+Semester: Fall 2023 (aka F23)
+Course Name: Fundamentals of Directing
+Course Number: 54-284
+Department: Drama
+Number of Units: 6
+Prerequisites: None
+Instructors: Jasmine Roth
+Rooms: PCA 118
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-284 Fundamentals of Directing>
+
+<start course description for 54-284 Fundamentals of Directing>
+Semester: Fall 2023 (aka F23)
+Course Description: Fundamentals of Directing is a fall-semester course for Drama Design and PTM sophomores.  It is an introductory course that examines some of the basic tools of the director. Emphasis is completely on theatrical work although some elements are applicable to television and film.
+</end course description for 54-284 Fundamentals of Directing>

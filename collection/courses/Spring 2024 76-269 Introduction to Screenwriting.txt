@@ -1,0 +1,16 @@
+<start course metadata for 76-269 Introduction to Screenwriting>
+Semester: Spring 2024 (aka S24)
+Course Name: Introduction to Screenwriting
+Course Number: 76-269
+Department: English
+Number of Units: 9
+Prerequisites: (76-101) or (76-102) or (76-106 and 76-107) or (76-106 and 76-108) or (76-107 and 76-108)
+Instructors: Jane Bernstein, Sharon Dilworth
+Rooms: HOA 107; WEH 6423
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 76-269 Introduction to Screenwriting>
+
+<start course description for 76-269 Introduction to Screenwriting>
+Semester: Spring 2024 (aka S24)
+Course Description: This is a course in screenplay narrative. The screenplay has a certain format observed by every screenwriter. Everything in it-- the title of the scene, the description, of the action, the dialogue -- has its designated place. Though there have been certain changes in formatting over the years, for instance scenes used to be numbered, writers used to include camera angles, the basic structure has not changed. It is not so difficult to learn the format. The difficulty is in developing a screen story populated by believable characters, creating an expressive and logical relationship between the scenes by manipulating screen space and screen time, knowing what to omit from the story and what to emphasize, and finally writing dialogue that sounds real, but that does not simply copy everyday speech. These are our goals for the semester.
+</end course description for 76-269 Introduction to Screenwriting>

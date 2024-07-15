@@ -1,0 +1,16 @@
+<start course metadata for 18-320 Microelectronic Circuits>
+Semester: Spring 2024 (aka S24)
+Course Name: Microelectronic Circuits
+Course Number: 18-320
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: 18-220
+Instructors: Marc Dandin
+Rooms: GHC 4307
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-320 Microelectronic Circuits>
+
+<start course description for 18-320 Microelectronic Circuits>
+Semester: Spring 2024 (aka S24)
+Course Description: 18-320 introduces students to the fundamentals of microelectronic circuits. The course will emphasize the analysis and design of basic analog and digital integrated circuits in preparation for further study in analog, digital, mixed-signal, and radio-frequency integrated circuit design. Additionally, students will learn to design and analyze microelectronic circuits using industry standard computer aided design (CAD) software. Topics to be covered include:   MOSFET fabrication and layout   MOSFET models for analog and digital design   Analysis and design of digital CMOS logic gates   Analysis and design of clocked storage elements (e.g., flip-flops, latches, memory cells)   Delay optimization of digital circuits   Circuit topologies for arithmetic and logical functional units   Analysis and design of single-stage MOS amplifiers   Frequency response characteristics of single-stage amplifiers   Differential amplifiers and simple operational amplifiers   Analog filters using operational amplifiers    The course includes a lab component which will give students hands-on experience in the design and implementation of analog and digital circuits. Labs will employ both design using discrete, SSI, and MSI parts, as well as using CAD design tools.
+</end course description for 18-320 Microelectronic Circuits>

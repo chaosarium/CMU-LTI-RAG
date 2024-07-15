@@ -1,0 +1,16 @@
+<start course metadata for 84-721 American Politics Graduate Seminar>
+Semester: Fall 2023 (aka F23)
+Course Name: American Politics Graduate Seminar
+Course Number: 84-721
+Department: Institute for Politics and Strategy
+Number of Units: 12
+Prerequisites: None
+Instructors: Jonathan Cervas
+Rooms: PH 226A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 84-721 American Politics Graduate Seminar>
+
+<start course description for 84-721 American Politics Graduate Seminar>
+Semester: Fall 2023 (aka F23)
+Course Description: This course examines prominent classical and contemporary works in the two major subfields in American politics, political institutions and political behavior. This means the seminar will address topics such as Congress, presidency, bureaucracy, and courts, but also public opinion, elections, campaigns, political parties, and the importance of geography, wealth, ethnicity, gender, and religion in politics. There will be an emphasis on analyzing and appraising the theory, methodology, and contributions of the selected readings, and on discussing their complementarity. Intensive discussions and written essays are key components of the course.
+</end course description for 84-721 American Politics Graduate Seminar>

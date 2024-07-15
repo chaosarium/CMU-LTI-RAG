@@ -1,0 +1,16 @@
+<start course metadata for 60-474 Advanced DP3: Photobook>
+Semester: Spring 2024 (aka S24)
+Course Name: Advanced DP3: Photobook
+Course Number: 60-474
+Department: Art
+Number of Units: 10
+Prerequisites: None
+Instructors: Kimberly Beck
+Rooms: CFA 310
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 60-474 Advanced DP3: Photobook>
+
+<start course description for 60-474 Advanced DP3: Photobook>
+Semester: Spring 2024 (aka S24)
+Course Description: In this course, we will create books that explore visual narrative, sequencing, and sculptural form through the medium of photography. Additionally, we will consider the roles of image and text as well as design, editing, printing and binding. Our work will be informed by the history photobooks and artists' books, including by Ed Ruscha, Sophie Calle, Andres Gonzalez, Tommy Kha and Rinko Kawauchi. Lectures and field trips to book collections will guide our work too.
+</end course description for 60-474 Advanced DP3: Photobook>

@@ -1,0 +1,16 @@
+<start course metadata for 57-392 Keyboard Studies (Music Ed)>
+Semester: Fall 2023 (aka F23)
+Course Name: Keyboard Studies (Music Ed)
+Course Number: 57-392
+Department: Music
+Number of Units: 3
+Prerequisites: 57-391
+Instructors: Carla Larocca
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-392 Keyboard Studies (Music Ed)>
+
+<start course description for 57-392 Keyboard Studies (Music Ed)>
+Semester: Fall 2023 (aka F23)
+Course Description: Continues 57-391 Keyboard Studies V. This course is required for all music education majors.
+</end course description for 57-392 Keyboard Studies (Music Ed)>

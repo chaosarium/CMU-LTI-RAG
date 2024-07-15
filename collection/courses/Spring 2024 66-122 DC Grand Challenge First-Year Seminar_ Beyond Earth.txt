@@ -1,0 +1,16 @@
+<start course metadata for 66-122 DC Grand Challenge First-Year Seminar: Beyond Earth>
+Semester: Spring 2024 (aka S24)
+Course Name: DC Grand Challenge First-Year Seminar: Beyond Earth
+Course Number: 66-122
+Department: Dietrich College Interdisciplinary
+Number of Units: 9
+Prerequisites: None
+Instructors: Cheng Li, Tom Werner
+Rooms: WEH 4625
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 66-122 DC Grand Challenge First-Year Seminar: Beyond Earth>
+
+<start course description for 66-122 DC Grand Challenge First-Year Seminar: Beyond Earth>
+Semester: Spring 2024 (aka S24)
+Course Description: The aim in the course is to foster in students a planetary perspective, to see Earth in its context of the cosmos and to see humans in their relation to real or possible forms of life in the universe. The obsession with outer space is found among scientists, business people and politicians, in deed and story, in film and even computer games. If we are to fully appreciate the potentials of space, we must also consider the search for intelligent life in its scientific and societal aspects, and investigate how we could adapt our systems of communication to reach species across distances that may be physically insurmountable. This interdisciplinary course will be taught by scholars from distinct cultural and linguistic backgrounds. Course materials will be taken from scientific literature, the history of science, and science fiction. We will explore scientific writing and reasoning, the space race between global powers, space travel and colonization, and the promise and pitfalls of interspecies and interspace communication. A planetary perspective, once achieved, can change the way one sees other inhabitants of this planet - as partners in survival in a universe which sets enormous odds against it, or as unwelcome intruders grasping for scant resources within this thin epidermis of soil, air, and water which surrounds Earth and makes our lives possible.
+</end course description for 66-122 DC Grand Challenge First-Year Seminar: Beyond Earth>

@@ -1,0 +1,16 @@
+<start course metadata for 94-888 Tech Strategy for Policy>
+Semester: Spring 2024 (aka S24)
+Course Name: Tech Strategy for Policy
+Course Number: 94-888
+Department: Heinz College Wide Courses
+Number of Units: 6
+Prerequisites: None
+Instructors: Avinash Collis
+Rooms: HBH 1007
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 94-888 Tech Strategy for Policy>
+
+<start course description for 94-888 Tech Strategy for Policy>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is devoted to studying the strategic and policy-relevant aspects of digital platforms and information technologies. It is designed for students who want to manage and compete in technology-intensive businesses and policy-relevant roles governing technology. If "software is eating the world", then a new view of economics is needed to understand how pricing, competition, and markets will change as more of the economy is digitized. We will study information-based industries like digital media, social networks, and online platforms as well as traditional businesses that are being changed by new digital capabilities. There are four broad themes for the course: foundations of IT strategy, the economics of information goods and services, platform-based business models, and emerging technology-related topics, including artificial intelligence, analytics, and experimentation.
+</end course description for 94-888 Tech Strategy for Policy>

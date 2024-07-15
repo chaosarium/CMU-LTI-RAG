@@ -1,0 +1,16 @@
+<start course metadata for 12-781 Special Topics: Applied Python for Engineers>
+Semester: Fall 2023 (aka F23)
+Course Name: Special Topics: Applied Python for Engineers
+Course Number: 12-781
+Department: Civil & Environmental Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Susan Finger
+Rooms: SH 236
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 12-781 Special Topics: Applied Python for Engineers>
+
+<start course description for 12-781 Special Topics: Applied Python for Engineers>
+Semester: Fall 2023 (aka F23)
+Course Description: Description TBD
+</end course description for 12-781 Special Topics: Applied Python for Engineers>

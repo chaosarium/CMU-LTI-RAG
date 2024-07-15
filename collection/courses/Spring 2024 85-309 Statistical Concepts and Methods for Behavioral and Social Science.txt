@@ -1,0 +1,16 @@
+<start course metadata for 85-309 Statistical Concepts and Methods for Behavioral and Social Science>
+Semester: Spring 2024 (aka S24)
+Course Name: Statistical Concepts and Methods for Behavioral and Social Science
+Course Number: 85-309
+Department: Psychology
+Number of Units: 9
+Prerequisites: 36-200 or 36-201
+Instructors: Michael Trujillo
+Rooms: BH 332P
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 85-309 Statistical Concepts and Methods for Behavioral and Social Science>
+
+<start course description for 85-309 Statistical Concepts and Methods for Behavioral and Social Science>
+Semester: Spring 2024 (aka S24)
+Course Description: Research in the Social Sciences is a project of understanding the ways in which people are similar while grappling with the ways in which they are different. Statistical methods are a powerful tool for managing the tension between the two. This course introduces the statistical methods most commonly used in in the social sciences, as well as their implementation in the R programming language. Topics involve exploratory data analysis, sampling and randomization, hypothesis testing, and power analysis.
+</end course description for 85-309 Statistical Concepts and Methods for Behavioral and Social Science>

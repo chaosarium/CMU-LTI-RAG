@@ -1,0 +1,16 @@
+<start course metadata for 14-797 Internship>
+Semester: Spring 2024 (aka S24)
+Course Name: Internship
+Course Number: 14-797
+Department: Information Networking Institute
+Number of Units: 3
+Prerequisites: None
+Instructors: Dena Tsamitis, Sujata Telang
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 14-797 Internship>
+
+<start course description for 14-797 Internship>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is for INI students who are pursuing an internship.  Special permission is required to be enrolled in this course, therefore, eligible students should contact the INI Academic Affairs Office.
+</end course description for 14-797 Internship>

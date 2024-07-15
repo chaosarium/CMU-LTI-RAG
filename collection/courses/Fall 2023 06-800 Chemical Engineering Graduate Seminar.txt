@@ -1,0 +1,16 @@
+<start course metadata for 06-800 Chemical Engineering Graduate Seminar>
+Semester: Fall 2023 (aka F23)
+Course Name: Chemical Engineering Graduate Seminar
+Course Number: 06-800
+Department: Chemical Engineering
+Number of Units: 1
+Prerequisites: None
+Instructors: Carl Laird
+Rooms: PH 100
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 06-800 Chemical Engineering Graduate Seminar>
+
+<start course description for 06-800 Chemical Engineering Graduate Seminar>
+Semester: Fall 2023 (aka F23)
+Course Description: The course consists of research seminars given by external and internal speakers on state of the art research in areas of Chemical Engineering.  It is a required course for all PhD students in the department.
+</end course description for 06-800 Chemical Engineering Graduate Seminar>

@@ -1,0 +1,16 @@
+<start course metadata for 57-420 JIVE - CMU Jazz Choir>
+Semester: Fall 2023 (aka F23)
+Course Name: JIVE - CMU Jazz Choir
+Course Number: 57-420
+Department: Music
+Number of Units: 3
+Prerequisites: 57-420
+Instructors: Elizabeth Lawrence
+Rooms: CFA A2
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-420 JIVE - CMU Jazz Choir>
+
+<start course description for 57-420 JIVE - CMU Jazz Choir>
+Semester: Fall 2023 (aka F23)
+Course Description: None
+</end course description for 57-420 JIVE - CMU Jazz Choir>

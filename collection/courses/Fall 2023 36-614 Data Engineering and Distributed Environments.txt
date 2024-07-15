@@ -1,0 +1,16 @@
+<start course metadata for 36-614 Data Engineering and Distributed Environments>
+Semester: Fall 2023 (aka F23)
+Course Name: Data Engineering and Distributed Environments
+Course Number: 36-614
+Department: Statistics and Data Science
+Number of Units: 6
+Prerequisites: None
+Instructors: Alexander Reinhart
+Rooms: WEH 5421
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 36-614 Data Engineering and Distributed Environments>
+
+<start course description for 36-614 Data Engineering and Distributed Environments>
+Semester: Fall 2023 (aka F23)
+Course Description: Statisticians and data scientists in industry are increasingly expected to work with data from complex sources: not just spreadsheets and CSV files, but relational databases, distributed databases, and streams, often integrating data from dozens of different systems. This course introduces the basic principles of data engineering, beginning with relational databases and continuing to distributed databases in the cloud. Students will learn SQL, practice using Python to query databases, and be introduced to Apache Spark as a tool for distributed data access.  This course is only for students in the Master of Statistical Practice program. Students in this course should have prior experience programming in Python (such as through 36-650), using Git, and working from the command-line shell.  By the end of this course, students will be able to:  -  Design SQL tables to store complex, frequently updated data. -  Write SQL queries to group, aggregate, and summarize data stored in multiple interconnected tables. -  Use Python to execute SQL queries and dynamically act upon stored data. -  Load data into SQL databases and update existing data. -  Develop Python data pipelines that ingest data from multiple sources, load it into a database, and produce automated reports summarizing that data. -  Write PySpark code to manipulate data in Apache Spark. -  Execute code on a cloud platform such as Azure.
+</end course description for 36-614 Data Engineering and Distributed Environments>

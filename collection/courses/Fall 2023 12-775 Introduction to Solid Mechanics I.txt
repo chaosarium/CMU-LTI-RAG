@@ -1,0 +1,16 @@
+<start course metadata for 12-775 Introduction to Solid Mechanics I>
+Semester: Fall 2023 (aka F23)
+Course Name: Introduction to Solid Mechanics I
+Course Number: 12-775
+Department: Civil & Environmental Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Trevor Jones
+Rooms: DH 1112
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 12-775 Introduction to Solid Mechanics I>
+
+<start course description for 12-775 Introduction to Solid Mechanics I>
+Semester: Fall 2023 (aka F23)
+Course Description: This is the first course in a two-part professionally oriented course sequence covering a variety of important problems in solid mechanics. Topics covered typically include torsion of non-circular cross sections, the field equations of elasticity and boundary conditions, and a number of classical plane stress/plane strain solutions in rectangular and polar coordinates. Emphasis is placed on not only elasticity theory and how classical elasticity solutions are derived, but also on their use in constructing and interpreting the results from finite element simulations of applied engineering problems. Where applicable, comparisons are also made between solutions derived via the full theory of elasticity and simplified solutions developed in strength of materials courses. 4 hrs. lec.
+</end course description for 12-775 Introduction to Solid Mechanics I>

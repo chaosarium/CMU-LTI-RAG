@@ -1,0 +1,16 @@
+<start course metadata for 27-217 Phase Relations and Diagrams>
+Semester: Spring 2024 (aka S24)
+Course Name: Phase Relations and Diagrams
+Course Number: 27-217
+Department: Materials Science & Engineering
+Number of Units: 12
+Prerequisites: 27-215 and 27-201
+Instructors: Bryan Webler
+Rooms: HH B103
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 27-217 Phase Relations and Diagrams>
+
+<start course description for 27-217 Phase Relations and Diagrams>
+Semester: Spring 2024 (aka S24)
+Course Description: Stability of structures. Hume-Rothery rules. Free energy-composition curves with applications to binary and ternary phase diagrams. Quantitative concepts of nucleation and growth with examples from solidification. Development of microstructures in various classes of phase diagram under near-equilibrium conditions. Atomic mechanisms of solid state diffusion and approach to equilibrium through diffusion.
+</end course description for 27-217 Phase Relations and Diagrams>

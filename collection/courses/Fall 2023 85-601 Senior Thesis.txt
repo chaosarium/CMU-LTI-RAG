@@ -1,0 +1,16 @@
+<start course metadata for 85-601 Senior Thesis>
+Semester: Fall 2023 (aka F23)
+Course Name: Senior Thesis
+Course Number: 85-601
+Department: Psychology
+Number of Units: N/A
+Prerequisites: None
+Instructors: Erik Thiessen
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 85-601 Senior Thesis>
+
+<start course description for 85-601 Senior Thesis>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is intended for senior Psychology or Cognitive Science majors who wish to conduct a research project under the direction of a faculty advisor.  The project topic is to be selected jointly by the student and the advisor.   The project will culminate in a senior paper which will be presented to the Department Head at the end of Fall Semester.  Prerequisite:  Grade of B or better in a previous research course required to enter, grade of B or better in first semester of senior thesis course required to complete, and permission of instructor.  A formal proposal is required in the first semester.  This course differs from the Honors Thesis sequence (66-501,502) in that it does not require Honors standing in HSS (i.e., there are no QPA requirements).  This course differs from Research in Psychology (85-507,508) in that the student's original contribution to the research is expected to be more substantial, and in that a final written report of the project is to be presented to the Department.
+</end course description for 85-601 Senior Thesis>

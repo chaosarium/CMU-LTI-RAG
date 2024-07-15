@@ -1,0 +1,16 @@
+<start course metadata for 12-749 TBA>
+Semester: Spring 2024 (aka S24)
+Course Name: TBA
+Course Number: 12-749
+Department: Civil & Environmental Engineering
+Number of Units: 6
+Prerequisites: None
+Instructors: Fethiye Ozis
+Rooms: WEH 5421
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 12-749 TBA>
+
+<start course description for 12-749 TBA>
+Semester: Spring 2024 (aka S24)
+Course Description: While the specific timing and magnitude of climate change impacts are uncertain, long-lived civil engineering infrastructure will need to be resilient to these potential impacts. Engineers designing for climate change adaptation require the tools to maximize resiliency and minimize cost for existing and proposed energy, transportation, water, urban and other types of infrastructure. Students successfully completing this course will understand how climate change affects civil infrastructure and how to quantitatively incorporate resilient designs and co-benefits under uncertainty. Students will use open data to examine current adaptation engineering challenges, quantify solutions, and communicate their technical recommendations through policy briefs. Prerequisites: Graduate standing or consent of instructor.
+</end course description for 12-749 TBA>

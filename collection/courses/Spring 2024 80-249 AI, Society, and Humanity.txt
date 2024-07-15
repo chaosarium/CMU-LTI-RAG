@@ -1,0 +1,16 @@
+<start course metadata for 80-249 AI, Society, and Humanity>
+Semester: Spring 2024 (aka S24)
+Course Name: AI, Society, and Humanity
+Course Number: 80-249
+Department: Philosophy
+Number of Units: 9
+Prerequisites: None
+Instructors: Cristian Dimitriu
+Rooms: CMB 2152
+Locations: Doha, Qatar
+</end course metadata for 80-249 AI, Society, and Humanity>
+
+<start course description for 80-249 AI, Society, and Humanity>
+Semester: Spring 2024 (aka S24)
+Course Description: AI and robotic technologies are developing rapidly and are increasingly incorporated into decisions, practices, and activities that impact individual and social interests.  To ensure that these technologies advance meritorious goals without undermining important values or relationships, stakeholders must be able to understand the diverse ways in which new technologies can impact the lives of individuals and communities, the diverse dimensions on which such impacts can be evaluated and measured and where in the lifecycle of product development these various impacts might be anticipated and addressed.  Through a series of case studies of current or near-future AI and robotics technologies students in this course will explore frameworks for assessing, evaluating and regulating novel technologies with the goal of ensuring that they support and advance human interests and social values.
+</end course description for 80-249 AI, Society, and Humanity>

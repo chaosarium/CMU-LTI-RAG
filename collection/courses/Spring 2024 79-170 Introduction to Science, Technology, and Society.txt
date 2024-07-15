@@ -1,0 +1,16 @@
+<start course metadata for 79-170 Introduction to Science, Technology, and Society>
+Semester: Spring 2024 (aka S24)
+Course Name: Introduction to Science, Technology, and Society
+Course Number: 79-170
+Department: History
+Number of Units: 9
+Prerequisites: None
+Instructors: Jay Aronson
+Rooms: BH 235B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 79-170 Introduction to Science, Technology, and Society>
+
+<start course description for 79-170 Introduction to Science, Technology, and Society>
+Semester: Spring 2024 (aka S24)
+Course Description: Science and technology are among the most powerful transformative forces in today's global society. They shape the way we think about ourselves, the world around us, and even what is possible in the future. This course provides an introduction to Science and Technology Studies, a vibrant interdisciplinary field that examines the ways that science and technology interact with contemporary politics, culture, and society. Using theories and methods from history, philosophy, anthropology, sociology, and public policy, we will examine: the nature of scientific and technical knowledge; how facts are produced both inside and outside the laboratory; how politics and societal values impact scientific inquiry and the development of new technologies; whether objectivity is possible; what expertise is and the role that experts play in the world today; how our understanding of science and technology has been enhanced by focusing on issues of race, sex, gender, sexuality, and class; as well as the imperative to make science and technology more equitable and just than they have been in the past. Specific topics covered will include the development of military technologies like radar and the atomic bomb, genetic engineering and cloning, artificial intelligence, social media, transportation infrastructure, racial classification, gender identity, and the Covid-19 pandemic, among others. This course is meant to serve as a foundation for the new Science, Technology, and Society major, but it is open to anyone concerned with the social and political dimensions of science and technology.
+</end course description for 79-170 Introduction to Science, Technology, and Society>

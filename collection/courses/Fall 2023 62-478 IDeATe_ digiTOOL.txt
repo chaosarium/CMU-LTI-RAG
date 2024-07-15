@@ -1,0 +1,16 @@
+<start course metadata for 62-478 IDeATe: digiTOOL>
+Semester: Fall 2023 (aka F23)
+Course Name: IDeATe: digiTOOL
+Course Number: 62-478
+Department: CFA Interdisciplinary
+Number of Units: 9
+Prerequisites: None
+Instructors: Jayla Patton
+Rooms: HL A5
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 62-478 IDeATe: digiTOOL>
+
+<start course description for 62-478 IDeATe: digiTOOL>
+Semester: Fall 2023 (aka F23)
+Course Description: This course serves as an introduction to the fundamental concepts, processes, and procedures to utilize digital and traditional equipment within the IDeATe facilities in Hunt Library. After completion, participating students should leave with a thorough understanding of 3D modeling, 3D printing, laser cutting, engraving, and basic finishing techniques. Students will learn how to operate in a safe, responsible, and efficient manner. This comprehension and experience proves useful for all creative disciplines, and participants are certified for future fabrication equipment access.
+</end course description for 62-478 IDeATe: digiTOOL>

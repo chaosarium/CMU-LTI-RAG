@@ -1,0 +1,16 @@
+<start course metadata for 60-150 Foundations: Drawing>
+Semester: Fall 2023 (aka F23)
+Course Name: Foundations: Drawing
+Course Number: 60-150
+Department: Art
+Number of Units: 10
+Prerequisites: None
+Instructors: Andrew Johnson, Daniel Ferrell, Paul Mullins, Ranee Henderson
+Rooms: CFA 308; CFA 313
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 60-150 Foundations: Drawing>
+
+<start course description for 60-150 Foundations: Drawing>
+Semester: Fall 2023 (aka F23)
+Course Description: Foundations: Drawing is a vital foundation for your interdisciplinary studies in art. This course will concentrate on the traditional elements of drawing and design: structure, line, shape, texture, motif, gesture, value and composition. You will be introduced to figure drawing, portraiture, perspective, and media experimentation. By the end of the semester, you will understand the importance of drawing as a visual language as well as a means of thinking. You will be expected to expand your mindset of what constitutes drawing and apply skills, knowledge and ideas from other studio classes and academic studies to your work.
+</end course description for 60-150 Foundations: Drawing>

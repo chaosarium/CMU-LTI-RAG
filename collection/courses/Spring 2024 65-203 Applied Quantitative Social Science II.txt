@@ -1,0 +1,16 @@
+<start course metadata for 65-203 Applied Quantitative Social Science II>
+Semester: Spring 2024 (aka S24)
+Course Name: Applied Quantitative Social Science II
+Course Number: 65-203
+Department: General Dietrich College
+Number of Units: 9
+Prerequisites: None
+Instructors: Mark Patterson
+Rooms: PH A20
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 65-203 Applied Quantitative Social Science II>
+
+<start course description for 65-203 Applied Quantitative Social Science II>
+Semester: Spring 2024 (aka S24)
+Course Description: Applied Quantitative Social Science II is the second course in the QSSS core sequence.  Conducted in a seminar format, the course will feature guest lectures from a series of faculty at CMU.  Students will discuss ongoing research across the social sciences, and over the course of the semester will develop a research project proposal.  Seminar participation is limited to QSSS students.
+</end course description for 65-203 Applied Quantitative Social Science II>

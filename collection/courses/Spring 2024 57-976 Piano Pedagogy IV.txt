@@ -1,0 +1,16 @@
+<start course metadata for 57-976 Piano Pedagogy IV>
+Semester: Spring 2024 (aka S24)
+Course Name: Piano Pedagogy IV
+Course Number: 57-976
+Department: Music
+Number of Units: 6
+Prerequisites: 57-975
+Instructors: Luz Manriquez
+Rooms: CFA M150
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-976 Piano Pedagogy IV>
+
+<start course description for 57-976 Piano Pedagogy IV>
+Semester: Spring 2024 (aka S24)
+Course Description: This class studies early advanced literature, analysis, teaching and performance.
+</end course description for 57-976 Piano Pedagogy IV>

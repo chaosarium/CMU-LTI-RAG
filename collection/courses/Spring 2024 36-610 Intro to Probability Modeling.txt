@@ -1,0 +1,16 @@
+<start course metadata for 36-610 Intro to Probability Modeling>
+Semester: Spring 2024 (aka S24)
+Course Name: Intro to Probability Modeling
+Course Number: 36-610
+Department: Statistics and Data Science
+Number of Units: 9
+Prerequisites: None
+Instructors: Jiashun Jin
+Rooms: POS 152
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 36-610 Intro to Probability Modeling>
+
+<start course description for 36-610 Intro to Probability Modeling>
+Semester: Spring 2024 (aka S24)
+Course Description: An introductory-level course in stochastic processes. Topics typically include Poisson processes, Markov chains, birth and death processes, random walks, recurrent events, and renewal theory. Examples are drawn from reliability theory, queuing theory, inventory theory, and various applications in the social and physical sciences.
+</end course description for 36-610 Intro to Probability Modeling>

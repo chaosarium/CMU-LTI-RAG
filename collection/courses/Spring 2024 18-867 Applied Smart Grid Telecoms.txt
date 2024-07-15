@@ -1,0 +1,16 @@
+<start course metadata for 18-867 Applied Smart Grid Telecoms>
+Semester: Spring 2024 (aka S24)
+Course Name: Applied Smart Grid Telecoms
+Course Number: 18-867
+Department: Electrical & Computer Engineering
+Number of Units: 6
+Prerequisites: None
+Instructors: Barry Rawn
+Rooms: CMR F309; POS 147
+Locations: Kigali, Rwanda; Pittsburgh, Pennsylvania
+</end course metadata for 18-867 Applied Smart Grid Telecoms>
+
+<start course description for 18-867 Applied Smart Grid Telecoms>
+Semester: Spring 2024 (aka S24)
+Course Description: This course examines applications of standards for communications protocols in smart grids, covering relevant standards such as IEC61850 and DNP3. Participants will complete assignments based on real world examples that explore the implementation and limitations of smart grids telecommunications. Appropriate for communications engineers wanting to understand the power grid, and power engineers wanting to develop their applied knowledge of communications.
+</end course description for 18-867 Applied Smart Grid Telecoms>

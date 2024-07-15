@@ -1,0 +1,16 @@
+<start course metadata for 19-726 Mathematical Modeling of Environmental Quality Systems>
+Semester: Fall 2023 (aka F23)
+Course Name: Mathematical Modeling of Environmental Quality Systems
+Course Number: 19-726
+Department: Engineering & Public Policy
+Number of Units: 12
+Prerequisites: 12-704
+Instructors: Sarah Fakhreddine
+Rooms: WEH 5312
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 19-726 Mathematical Modeling of Environmental Quality Systems>
+
+<start course description for 19-726 Mathematical Modeling of Environmental Quality Systems>
+Semester: Fall 2023 (aka F23)
+Course Description: Development and application of mathematical models for environmental systems. Material balance formulations and their solutions, computer implementation, model validation, uncertainty analysis, and use for projection and policy analysis. Applications to surface water, groundwater, atmospheric transport, indoor air pollution, and human exposure and risk.
+</end course description for 19-726 Mathematical Modeling of Environmental Quality Systems>

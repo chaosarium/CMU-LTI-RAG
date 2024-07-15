@@ -1,0 +1,16 @@
+<start course metadata for 51-268 Environments Studio II: Designing Environments for Interaction>
+Semester: Spring 2024 (aka S24)
+Course Name: Environments Studio II: Designing Environments for Interaction
+Course Number: 51-268
+Department: Design
+Number of Units: 9
+Prerequisites: 51-265
+Instructors: Daniel Rosenberg Munoz
+Rooms: MM 211
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-268 Environments Studio II: Designing Environments for Interaction>
+
+<start course description for 51-268 Environments Studio II: Designing Environments for Interaction>
+Semester: Spring 2024 (aka S24)
+Course Description: Introduce students to the concept of resonant environments that provide meaningful physical and virtual experiences; utilize a range and combination of analog and digital tools for high fidelity output.
+</end course description for 51-268 Environments Studio II: Designing Environments for Interaction>

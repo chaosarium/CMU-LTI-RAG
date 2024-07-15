@@ -1,0 +1,16 @@
+<start course metadata for 84-651 Bias, Objectivity, and the Media's Role in Politics>
+Semester: Fall 2023 (aka F23)
+Course Name: Bias, Objectivity, and the Media's Role in Politics
+Course Number: 84-651
+Department: Institute for Politics and Strategy
+Number of Units: 6
+Prerequisites: None
+Instructors: Nicole Kliewer
+Rooms: GHC 4101
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 84-651 Bias, Objectivity, and the Media's Role in Politics>
+
+<start course description for 84-651 Bias, Objectivity, and the Media's Role in Politics>
+Semester: Fall 2023 (aka F23)
+Course Description: For decades, the pursuit of objectivity has guided media coverage, with organizations striving to present politics in a neutral, unbiased, and balanced manner. However, this modern development in news coverage has not been without its criticisms. This course offers an exploration of the evolution of news media in the United States, spanning from its foundation to the era of objective journalism and beyond. This information is accompanied by a critical examination of contemporary media dynamics. From filter bubbles and echo chambers to bias and slant, this course will delve into the challenges that underpin the media's coverage of politics. What topics get covered by the news, and who is exposed to this information? Is objective media truly unbiased, and what do choices about newsworthy stories signal regarding power in politics? Throughout the course, we will navigate these questions and more as we strive to understand some of the effects of media on politics.
+</end course description for 84-651 Bias, Objectivity, and the Media's Role in Politics>

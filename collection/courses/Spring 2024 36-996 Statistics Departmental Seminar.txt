@@ -1,0 +1,16 @@
+<start course metadata for 36-996 Statistics Departmental Seminar>
+Semester: Spring 2024 (aka S24)
+Course Name: Statistics Departmental Seminar
+Course Number: 36-996
+Department: Statistics and Data Science
+Number of Units: N/A
+Prerequisites: None
+Instructors: Rebecca Nugent
+Rooms: GHC 4307
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 36-996 Statistics Departmental Seminar>
+
+<start course description for 36-996 Statistics Departmental Seminar>
+Semester: Spring 2024 (aka S24)
+Course Description: None
+</end course description for 36-996 Statistics Departmental Seminar>

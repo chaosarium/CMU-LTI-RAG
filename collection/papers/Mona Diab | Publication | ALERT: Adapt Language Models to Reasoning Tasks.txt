@@ -1,0 +1,5 @@
+publication venue: Annual Meeting of the Association for Computational Linguistics
+title: ALERT: Adapt Language Models to Reasoning Tasks
+year: 2023
+tldr: The extensive empirical analysis shows that language models learn more reasoning skills such as textual entailment, abductive reasoning, and analogical reasoning during the finetuning stage compared to pretraining stage, but also finds that when language models are finetuned they tend to overfit to the prompt template, which hurts the robustness of models causing generalization problems.
+authors: Ping Yu, Tianlu Wang, O. Yu. Golovneva, Badr AlKhamissi, Siddharth Verma, Zhijing Jin, Gargi Ghosh, Mona T. Diab, Asli Celikyilmaz

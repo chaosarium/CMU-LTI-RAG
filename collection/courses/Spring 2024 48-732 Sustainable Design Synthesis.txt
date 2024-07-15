@@ -1,0 +1,16 @@
+<start course metadata for 48-732 Sustainable Design Synthesis>
+Semester: Spring 2024 (aka S24)
+Course Name: Sustainable Design Synthesis
+Course Number: 48-732
+Department: Architecture
+Number of Units: N/A
+Prerequisites: None
+Instructors: Dana Cupkova, Louis Suarez
+Rooms: MM 415IW
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-732 Sustainable Design Synthesis>
+
+<start course description for 48-732 Sustainable Design Synthesis>
+Semester: Spring 2024 (aka S24)
+Course Description: Sustainable Design Synthesis is a culminating course of the Master of Science in Sustainable Design (MSSD) program, following the pre-requisite 48731 MSSD Synthesis Prep. The MSSD program is a post- professional research-based graduate program focused on expanding innovative design methodologies that position the built environment as a vehicle of environmental stewardship, centered on architecture's response to climate change. Situated at the intersection of technology, environmental science, advanced manufacturing, computational design, and analysis, the MSSD program leads students to discover new socio-ecological approaches to regenerative, evidence-based design frameworks that operate across scales, while focused on circular economies of landscape systems, production of new materials and more equitable material system assemblies. The Sustainable Design Synthesis course leads students through an independent thesis development, co-advised by wider CMU faculty to develop a complete yearlong design-research project. It is expected that the students establish all precedent work in their area of study, with critical excerpts organized and professionally cited, as well as define their new contributions through field work, simulation, analysis, or prototyping.
+</end course description for 48-732 Sustainable Design Synthesis>

@@ -1,0 +1,16 @@
+<start course metadata for 88-150 Managing Decisions>
+Semester: Fall 2023 (aka F23)
+Course Name: Managing Decisions
+Course Number: 88-150
+Department: Social & Decision Sciences
+Number of Units: 9
+Prerequisites: None
+Instructors: David Rode
+Rooms: PH A18B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 88-150 Managing Decisions>
+
+<start course description for 88-150 Managing Decisions>
+Semester: Fall 2023 (aka F23)
+Course Description: We make decisions constantly, but making good decisions is hard. Future employers will pay handsomely for decisions that are well thought out, defendable, and understandable. How do we decide how to decide? What is a "good" decision? This course will introduce normative decision-making concepts, including how to formulate decision problems and techniques that account for uncertainty and time preference. Students will learn how to place a quantitative value on information. The course will introduce key decision-making concepts using applications from fields such as decision sciences, business and economics, and public policy. Although prior knowledge of Microsoft Excel spreadsheets is not required, prior familiarity with Excel and a general level of numeracy will be useful.
+</end course description for 88-150 Managing Decisions>

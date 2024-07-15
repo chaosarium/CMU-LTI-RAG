@@ -1,0 +1,16 @@
+<start course metadata for 51-451 Fundamentals of Joinery & Furniture Design>
+Semester: Fall 2023 (aka F23)
+Course Name: Fundamentals of Joinery & Furniture Design
+Course Number: 51-451
+Department: Design
+Number of Units: 9
+Prerequisites: 51-350
+Instructors: Matthew Zywica
+Rooms: PH A27B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-451 Fundamentals of Joinery & Furniture Design>
+
+<start course description for 51-451 Fundamentals of Joinery & Furniture Design>
+Semester: Fall 2023 (aka F23)
+Course Description: Intensive introduction to traditional joinery techniques and the properties of wood through the use of textbook studies and lab experiments. Emphasis placed on how these techniques and properties influence design decisions. Students will learn how to set up, sharpen and use traditional hand powered tools. This acquired knowledge will be applied in the design and realization of a piece of wooden furniture. Limited enrollment. Lab fee and material purchases required.
+</end course description for 51-451 Fundamentals of Joinery & Furniture Design>

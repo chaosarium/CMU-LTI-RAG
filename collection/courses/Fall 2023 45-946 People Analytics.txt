@@ -1,0 +1,16 @@
+<start course metadata for 45-946 People Analytics>
+Semester: Fall 2023 (aka F23)
+Course Name: People Analytics
+Course Number: 45-946
+Department: Business Administration
+Number of Units: N/A
+Prerequisites: None
+Instructors: Brandy Aven
+Rooms: TEP 2202
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-946 People Analytics>
+
+<start course description for 45-946 People Analytics>
+Semester: Fall 2023 (aka F23)
+Course Description: to be determined
+</end course description for 45-946 People Analytics>

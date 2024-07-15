@@ -1,0 +1,16 @@
+<start course metadata for 49-605 User Experience Research for Digital and Physical Products>
+Semester: Spring 2024 (aka S24)
+Course Name: User Experience Research for Digital and Physical Products
+Course Number: 49-605
+Department: Integrated Innovation Institute
+Number of Units: 10
+Prerequisites: 49-604
+Instructors: Aradhana Goel
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 49-605 User Experience Research for Digital and Physical Products>
+
+<start course description for 49-605 User Experience Research for Digital and Physical Products>
+Semester: Spring 2024 (aka S24)
+Course Description: MIIPS Online & Certificate Students Only - Methods & Tools for Product Innovation Certificate  This course will teach the basic methods of user research, including one-on-one interviewing and ethnographic techniques. To allow students to master certain skills, the students will dive deeper into one method.  Students apply the basic principles of ethnography in a project as a participant observer in both digital settings and in traditional settings.     Students will plan the research, collect data, analyze and synthesize what was learned and present a research report that identifies not only what was observed but also interpret its meaning and make indications about opportunities to innovate with new offerings. Although the course will focus on qualitative and primary research, the benefits of quantitative and secondary research will also be addressed. The course includes lectures and discussions, along with readings and research assignments.
+</end course description for 49-605 User Experience Research for Digital and Physical Products>

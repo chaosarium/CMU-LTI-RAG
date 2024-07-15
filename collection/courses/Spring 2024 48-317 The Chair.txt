@@ -1,0 +1,16 @@
+<start course metadata for 48-317 The Chair>
+Semester: Spring 2024 (aka S24)
+Course Name: The Chair
+Course Number: 48-317
+Department: Architecture
+Number of Units: 9
+Prerequisites: None
+Instructors: Vicky Achnani
+Rooms: CFA 211
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-317 The Chair>
+
+<start course description for 48-317 The Chair>
+Semester: Spring 2024 (aka S24)
+Course Description: Making entitles to an intimate connection with the site, native atmosphere, building components, and their assemblies, where a designer/maker can operate at local - regional and global levels comprising all the building systems. This sedulous process takes very closer to the materials where a designer/ maker can gather insights into material behavior (both mechanical and visual) and is better placed to alter the effects of architecture through its materials and generating processes. The same can be applied to chair making. The chair no longer remains a chair, as the making process makes it a ground of experimentation and learning to shape the material into the desired object. The reaction with the matter is no more inert, as it tends to provide feedback to the maker while shaping it. This immersive process of learning by doing in entirety, aids students, in improvising their thought process, the judgment of material behavior, use of the right tool to save material, and developing novel ideas for production and assembly. Prototyping and making largely help develop the understanding concept of joinery/material behavior, and properties in relation to form. The exercise allows understanding chair as a piece of furniture, the manner of making that gives qualities to an abstract design or idea, the know-how of handling material, emergence of tacit knowledge in the maker, and tolerance and feedback from the material.
+</end course description for 48-317 The Chair>

@@ -1,0 +1,16 @@
+<start course metadata for 82-789 Guided Research>
+Semester: Spring 2024 (aka S24)
+Course Name: Guided Research
+Course Number: 82-789
+Department: Modern Languages
+Number of Units: N/A
+Prerequisites: None
+Instructors: Bonnie Youngs, David Parker, Instructor TBA, Keiko Koda, Mame-Fatou Niang, Remi Van Compernolle, Seth Wiener
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 82-789 Guided Research>
+
+<start course description for 82-789 Guided Research>
+Semester: Spring 2024 (aka S24)
+Course Description: Individual study/research under the supervision of a faculty member, which provides the student with additional opportunities to conduct research which may lead to a thesis or dissertation.
+</end course description for 82-789 Guided Research>

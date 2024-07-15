@@ -1,0 +1,16 @@
+<start course metadata for 04-801 No/low-code For Electronic Business>
+Semester: Spring 2024 (aka S24)
+Course Name: No/low-code For Electronic Business
+Course Number: 04-801
+Department: Information & Communication Technology
+Number of Units: 6
+Prerequisites: None
+Instructors: Azizuddin Biyabani, Bernhard Ostheimer, Glen Thompson, Mark Kryder
+Rooms: CMR F305; CMR F307
+Locations: Kigali, Rwanda
+</end course metadata for 04-801 No/low-code For Electronic Business>
+
+<start course description for 04-801 No/low-code For Electronic Business>
+Semester: Spring 2024 (aka S24)
+Course Description: Special Topics courses cover a variety of subjects. They are grouped under special topics because a unique course number has not been assigned. The courses may be distinguished from each other by looking at the section letter/number and section title.
+</end course description for 04-801 No/low-code For Electronic Business>

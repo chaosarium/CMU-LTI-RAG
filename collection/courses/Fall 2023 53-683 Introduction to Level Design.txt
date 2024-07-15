@@ -1,0 +1,16 @@
+<start course metadata for 53-683 Introduction to Level Design>
+Semester: Fall 2023 (aka F23)
+Course Name: Introduction to Level Design
+Course Number: 53-683
+Department: Entertainment Technology
+Number of Units: 12
+Prerequisites: None
+Instructors: Heather Kelley
+Rooms: PTC 5208
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 53-683 Introduction to Level Design>
+
+<start course description for 53-683 Introduction to Level Design>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is intended for game creators with serious aspirations toward professional 3D game development, giving practical experience in the tools, techniques, and philosophies of video game Level Design, often called "where the rubber hits the road" in game creation.  Using professional grade tools such as Unreal 5.1, students will individually create game levels using specific design constraints that model real-world professional game development environments and circumstances.  Group critiques of in-development levels will take place throughout the semester, occasionally joined by guest designers from industry studios.  Students will also research beyond the core hands-on curriculum into an area of level design of their choice to share back with their peers.
+</end course description for 53-683 Introduction to Level Design>

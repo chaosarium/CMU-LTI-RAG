@@ -1,0 +1,16 @@
+<start course metadata for 46-899 MSBA Capstone>
+Semester: Spring 2024 (aka S24)
+Course Name: MSBA Capstone
+Course Number: 46-899
+Department: Business Administration
+Number of Units: 12
+Prerequisites: None
+Instructors: Ganesh Mani
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 46-899 MSBA Capstone>
+
+<start course description for 46-899 MSBA Capstone>
+Semester: Spring 2024 (aka S24)
+Course Description: TBD
+</end course description for 46-899 MSBA Capstone>

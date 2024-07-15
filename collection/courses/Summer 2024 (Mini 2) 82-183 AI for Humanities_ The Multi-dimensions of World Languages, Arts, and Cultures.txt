@@ -1,0 +1,16 @@
+<start course metadata for 82-183 AI for Humanities: The Multi-dimensions of World Languages, Arts, and Cultures>
+Semester: Summer Two 2024 (aka M24, M24 Mini 2, Summer 2024 Mini 2)
+Course Name: AI for Humanities: The Multi-dimensions of World Languages, Arts, and Cultures
+Course Number: 82-183
+Department: Modern Languages
+Number of Units: 9
+Prerequisites: None
+Instructors: Ding Zhao, Ting Su
+Rooms: PH 225B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 82-183 AI for Humanities: The Multi-dimensions of World Languages, Arts, and Cultures>
+
+<start course description for 82-183 AI for Humanities: The Multi-dimensions of World Languages, Arts, and Cultures>
+Semester: Summer Two 2024 (aka M24, M24 Mini 2, Summer 2024 Mini 2)
+Course Description: None
+</end course description for 82-183 AI for Humanities: The Multi-dimensions of World Languages, Arts, and Cultures>

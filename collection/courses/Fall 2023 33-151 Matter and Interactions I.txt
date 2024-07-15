@@ -1,0 +1,16 @@
+<start course metadata for 33-151 Matter and Interactions I>
+Semester: Fall 2023 (aka F23)
+Course Name: Matter and Interactions I
+Course Number: 33-151
+Department: Physics
+Number of Units: 12
+Prerequisites: 21-120
+Instructors: Diana Parno
+Rooms: GHC 4215
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 33-151 Matter and Interactions I>
+
+<start course description for 33-151 Matter and Interactions I>
+Semester: Fall 2023 (aka F23)
+Course Description: For students with a strong physics background who are interested in using calculus-based mechanics to learn about topics such as dark matter, particle physics, and quantum phenomena, Matter and Interactions I provides an excellent alternative to Physics for Science Students. This course places great emphasis on constructing and using physical models, with a special focus on computer modeling to solve problems. Throughout the course, both traditional analytics techniques and scientific computing will be used to solve mechanical problems going from planetary systems, spring-based systems and nuclear scattering. Topics covered include Newton's Laws, microscopic models of solids, energy, energy quantization, mass-energy equivalence, multi particle systems, collisions, angular momentum including quantized angular momentum, kinetic theory of gases and statistical mechanics. Students are encouraged to do an optional research project that will be presented at a departmental poster session at the end of the semester. This course has a co-requisite of 21-122.
+</end course description for 33-151 Matter and Interactions I>

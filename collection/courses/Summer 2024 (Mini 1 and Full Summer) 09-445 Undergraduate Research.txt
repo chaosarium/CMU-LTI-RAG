@@ -1,0 +1,16 @@
+<start course metadata for 09-445 Undergraduate Research>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Undergraduate Research
+Course Number: 09-445
+Department: Chemistry
+Number of Units: N/A
+Prerequisites: None
+Instructors: Karen Stump
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 09-445 Undergraduate Research>
+
+<start course description for 09-445 Undergraduate Research>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: Properly qualified students may undertake research projects under the direction of members of the faculty, normally 6 to 12 hrs/week. A written, detailed report describing the project and results is required. Course may be taken only with the consent of a faculty research advisor in chemistry or on occasion in another department provided that the project is chemical in nature and with permission of the Director of Undergraduate Studies. The number of units taken generally corresponds to the actual number of hours the student actually spends in the lab doing research during the week. Maximum number of units taken per semester is 18.
+</end course description for 09-445 Undergraduate Research>

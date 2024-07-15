@@ -1,0 +1,16 @@
+<start course metadata for 15-990 Computer Science Colloquium>
+Semester: Fall 2023 (aka F23)
+Course Name: Computer Science Colloquium
+Course Number: 15-990
+Department: Computer Science
+Number of Units: 0
+Prerequisites: None
+Instructors: Instructor TBA
+Rooms: GHC 4401
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-990 Computer Science Colloquium>
+
+<start course description for 15-990 Computer Science Colloquium>
+Semester: Fall 2023 (aka F23)
+Course Description: No course description provided.
+</end course description for 15-990 Computer Science Colloquium>

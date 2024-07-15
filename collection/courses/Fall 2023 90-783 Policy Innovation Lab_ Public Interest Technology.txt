@@ -1,0 +1,16 @@
+<start course metadata for 90-783 Policy Innovation Lab: Public Interest Technology>
+Semester: Fall 2023 (aka F23)
+Course Name: Policy Innovation Lab: Public Interest Technology
+Course Number: 90-783
+Department: Public Policy & Mgt:Sch of Pub Pol & Mgt
+Number of Units: 6
+Prerequisites: None
+Instructors: Christopher Goranson
+Rooms: HBH 1006
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 90-783 Policy Innovation Lab: Public Interest Technology>
+
+<start course description for 90-783 Policy Innovation Lab: Public Interest Technology>
+Semester: Fall 2023 (aka F23)
+Course Description: The Policy Innovation Lab is a new Public Interest Technology initiative that connects students with real policy challenges and introduces an agile, design-driven framework to rapidly create solutions to those challenges. This course is an experiment in improving public policy by working outside the traditional structures of government. For Fall 2021, the Policy Innovation Lab will be looking at ways to improve Public Interest Tech workforce development and recruitment, with a special lens towards diversity, equity and inclusion.    Students will be working with external partners to investigate real problem spaces and building policy-driven prototypes driven by user research. Students will work to solve pressing challenges by redefining the problem in terms of understanding the affected users of systems, conducting user-centered research, designing solutions, testing those same solutions, and iteratively improving those outcomes. This course is designed to take advantage of recent lessons learned in applied innovation in government entities around the world. The actual outcomes will be heavily dependent on both the needs of the problem sets for each course as well as the skills of the students.  The course will apply some methodologies commonplace in industry like agile, design-thinking, and prototyping to deliver open source products and services that have the potential to live on beyond the course. For public-facing projects, work will be done in a transparent manner where possible in order to encourage external participation. Students will be expected to embrace a culture that expects and encourages rapid iteration, express a willingness to fail early in order to discover a solution that ultimately works, and a flat structure that provides students with an opportunity to deliver for our government partners.
+</end course description for 90-783 Policy Innovation Lab: Public Interest Technology>

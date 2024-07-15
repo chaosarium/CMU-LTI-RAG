@@ -1,0 +1,16 @@
+<start course metadata for 60-250 Intermediate Studio: Painting>
+Semester: Spring 2024 (aka S24)
+Course Name: Intermediate Studio: Painting
+Course Number: 60-250
+Department: Art
+Number of Units: 10
+Prerequisites: 60-150 or 60-157
+Instructors: Sharmistha Ray
+Rooms: CFA 304
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 60-250 Intermediate Studio: Painting>
+
+<start course description for 60-250 Intermediate Studio: Painting>
+Semester: Spring 2024 (aka S24)
+Course Description: This course serves as an introduction to technical, conceptual and historical practices of painting. Through a variety of painting experiences and presentations using oil media, students progress from observational exercises and exposure to materials and techniques to developing personal processes, imagery and ideas. Class sessions include technical demonstrations, illustrated lectures, personal and group critiques.
+</end course description for 60-250 Intermediate Studio: Painting>

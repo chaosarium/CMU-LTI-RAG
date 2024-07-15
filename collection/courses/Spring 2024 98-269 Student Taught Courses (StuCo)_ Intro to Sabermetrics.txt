@@ -1,0 +1,16 @@
+<start course metadata for 98-269 Student Taught Courses (StuCo): Intro to Sabermetrics>
+Semester: Spring 2024 (aka S24)
+Course Name: Student Taught Courses (StuCo): Intro to Sabermetrics
+Course Number: 98-269
+Department: StuCo (Student Led Courses)
+Number of Units: 3
+Prerequisites: None
+Instructors: Joshua Winick
+Rooms: WEH 5304
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 98-269 Student Taught Courses (StuCo): Intro to Sabermetrics>
+
+<start course description for 98-269 Student Taught Courses (StuCo): Intro to Sabermetrics>
+Semester: Spring 2024 (aka S24)
+Course Description: Born in the 1970s and popularized by "Moneyball" as a radical challenge to traditional baseball statistics, sabermetrics has developed into a new way of understanding America's pastime. Its practitioners have created new statistical tools and revised our old ways of thinking about the game, transforming the way fans and Front Offices view and assess players. This introduction to the basics of sabermetrics will explain concepts including standardization, peak versus career performance, linear weights and runs created, as well as popular calculations such as OPS (OnBase plus Slugging), WHIP (Walks and Hits per Inning Pitched), PF (Park Factor), and others increasingly used by members of the sabermetrics community.
+</end course description for 98-269 Student Taught Courses (StuCo): Intro to Sabermetrics>

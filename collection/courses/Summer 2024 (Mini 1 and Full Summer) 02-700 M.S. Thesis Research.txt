@@ -1,0 +1,16 @@
+<start course metadata for 02-700 M.S. Thesis Research>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: M.S. Thesis Research
+Course Number: 02-700
+Department: Computational Biology
+Number of Units: N/A
+Prerequisites: None
+Instructors: Instructor TBA
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 02-700 M.S. Thesis Research>
+
+<start course description for 02-700 M.S. Thesis Research>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: This course is for M.S. students who wish to do supervised research for academic credit with a Computational Biology faculty member. Interested students should first contact the Professor with whom they would like to work. If there is mutual interest, the Professor will direct you to the Academic Programs Coordinator, who will enroll you in the course.
+</end course description for 02-700 M.S. Thesis Research>

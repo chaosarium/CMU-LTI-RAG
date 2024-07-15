@@ -1,0 +1,16 @@
+<start course metadata for 57-241 Acting II>
+Semester: Spring 2024 (aka S24)
+Course Name: Acting II
+Course Number: 57-241
+Department: Music
+Number of Units: 3
+Prerequisites: 57-240
+Instructors: Kelly Trumbull
+Rooms: CFA ACH
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-241 Acting II>
+
+<start course description for 57-241 Acting II>
+Semester: Spring 2024 (aka S24)
+Course Description: Continues 57-240 Acting I.
+</end course description for 57-241 Acting II>

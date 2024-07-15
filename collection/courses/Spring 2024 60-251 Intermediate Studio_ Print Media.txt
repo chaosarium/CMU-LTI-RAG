@@ -1,0 +1,16 @@
+<start course metadata for 60-251 Intermediate Studio: Print Media>
+Semester: Spring 2024 (aka S24)
+Course Name: Intermediate Studio: Print Media
+Course Number: 60-251
+Department: Art
+Number of Units: 10
+Prerequisites: 60-150 or 60-157
+Instructors: Haylee Ebersole
+Rooms: DH C301
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 60-251 Intermediate Studio: Print Media>
+
+<start course description for 60-251 Intermediate Studio: Print Media>
+Semester: Spring 2024 (aka S24)
+Course Description: Printmaking is a process based medium that produces multiples of original artworks.  Students will create four works on paper using the following printmaking approaches: Relief (carved), Intaglio (engraved), Lithography (planographic), and Screen Printing (stencil). Each technique's unique set of materials, processes and aesthetics will be explored. This course focuses on traditional tools and processes, but will include utilization of digital images and sources through a critical lens.  While primarily focused on the learning of fundamental techniques, the class will also also expose students to ways that Print Media can be a tool (physically and conceptually) in contemporary practice. Open to sophomores in the School of Art, or by instructor permission.
+</end course description for 60-251 Intermediate Studio: Print Media>

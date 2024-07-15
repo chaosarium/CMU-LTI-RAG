@@ -1,0 +1,16 @@
+<start course metadata for 17-692 Product Management Essentials>
+Semester: Spring 2024 (aka S24)
+Course Name: Product Management Essentials
+Course Number: 17-692
+Department: Software & Societal Systems
+Number of Units: 6
+Prerequisites: None
+Instructors: Berardone
+Rooms: CMU REMOTE
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 17-692 Product Management Essentials>
+
+<start course description for 17-692 Product Management Essentials>
+Semester: Spring 2024 (aka S24)
+Course Description: This course prepares students to understand and use the essential product management concepts and practices of product innovation. Students will acquire the skills to compose a well-defined, worthwhile customer problem to solve, specify an innovative product solution concept, design, price and quantify a compelling customer value proposition, and set a path for continued product success. These skills are used in the critical, early stages of every new product or service idea. This 6-unit course emphasizes learning-by-doing to achieve the learning objectives. You will work on a hands-on, course-long project focused on a problem space selected by the student and approved by the instructor for course fit. Recitation sessions are remote and optional.
+</end course description for 17-692 Product Management Essentials>

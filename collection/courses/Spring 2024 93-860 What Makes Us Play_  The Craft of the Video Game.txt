@@ -1,0 +1,16 @@
+<start course metadata for 93-860 What Makes Us Play:  The Craft of the Video Game>
+Semester: Spring 2024 (aka S24)
+Course Name: What Makes Us Play:  The Craft of the Video Game
+Course Number: 93-860
+Department: Arts & Entertainment Management
+Number of Units: 4
+Prerequisites: None
+Instructors: Cheryl Platz
+Rooms: DNM DNM
+Locations: Los Angeles, California
+</end course metadata for 93-860 What Makes Us Play:  The Craft of the Video Game>
+
+<start course description for 93-860 What Makes Us Play:  The Craft of the Video Game>
+Semester: Spring 2024 (aka S24)
+Course Description: This course delves deep into the art of creating and shipping video games. We will take students on a journey from an examination of the fundamental principles of game design and the realities of shipping discrete gaming products into the dynamic online marketplace. From there, we'll dive into the broader, harder to define side of the industry - how social gaming manifests in today's market, and what it means to take a game across gaming platforms.  Through lectures, discussion, and practical exercises, students will gain a comprehensive understanding of the craft of gaming. Students will be expected to approach the material with an open mind and spend some time exploring games hands-on outside of class.
+</end course description for 93-860 What Makes Us Play:  The Craft of the Video Game>

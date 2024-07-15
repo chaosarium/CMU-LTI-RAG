@@ -1,0 +1,16 @@
+<start course metadata for 36-765 Writing in Statistics>
+Semester: Fall 2023 (aka F23)
+Course Name: Writing in Statistics
+Course Number: 36-765
+Department: Statistics and Data Science
+Number of Units: 3
+Prerequisites: None
+Instructors: Zachary Branson
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 36-765 Writing in Statistics>
+
+<start course description for 36-765 Writing in Statistics>
+Semester: Fall 2023 (aka F23)
+Course Description: There is no one correct way to write. But there are things you can do that tend to make it difficult for a reader to absorb the ideas you are writing about, or make it easier for the reader. Thus, it is important to focus on the reader, and the constraints and habits of mind that most readers (even in the rarefied population of academics who can understand the technical details of your work) bring to the task of reading what you have written. The goals for students in this course are: to understand that writing requires an intellectual investment similar to the investment that you put into other areas of your research, from developing research questions, data collection, and data analysis, to writing and testing algorithms, and formulating and proving theorems; to understand ways of organizing your writing that make it more likely that the reader will interpret and understand your ideas in the way that you intend; and to gain experience writing with these ideas in mind. The course is most suitable for graduate students in statistics who are engaged in a writing project (ADA paper, journal article, thesis work, etc.).
+</end course description for 36-765 Writing in Statistics>

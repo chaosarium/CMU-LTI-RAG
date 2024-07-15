@@ -1,0 +1,16 @@
+<start course metadata for 17-662 Law of Computer Technology>
+Semester: Fall 2023 (aka F23)
+Course Name: Law of Computer Technology
+Course Number: 17-662
+Department: Software & Societal Systems
+Number of Units: 6
+Prerequisites: None
+Instructors: Michael Shamos
+Rooms: DH A302
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 17-662 Law of Computer Technology>
+
+<start course description for 17-662 Law of Computer Technology>
+Semester: Fall 2023 (aka F23)
+Course Description: This course consists of the first half of the 12-unit course 17-762.  It is both a survey of computer law and an examination of how courts evaluate technological evidence in their decision-making. It deals with the most important and controversial issues in technology law today. The material is divided into six primary subjects: 1. Legal process: how courts operate, how lawsuits are conducted, what happens in appeals, who has to obey the determination of a court, over whom can a court exercise power, and regulatory law. 2. Evidence: what has to be proven to a court and how it is done, rules of evidence, burdens of proof, expert testimony. 3. Business Transactions: software licenses, clickwrap contracts, electronic transactions. 4. Personal Intrusions: social media, libel and defamation, data privacy, position monitoring. 5. Intellectual Property: trade secrets and confidentiality agreements. No legal background is required or assumed. This is not a law school course. Great effort is expended to keep the syllabus current based on breaking legal events. Therefore, the content and ordering of lectures may vary somewhat as the course progresses.
+</end course description for 17-662 Law of Computer Technology>

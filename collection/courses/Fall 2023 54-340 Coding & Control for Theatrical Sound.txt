@@ -1,0 +1,16 @@
+<start course metadata for 54-340 Coding & Control for Theatrical Sound>
+Semester: Fall 2023 (aka F23)
+Course Name: Coding & Control for Theatrical Sound
+Course Number: 54-340
+Department: Drama
+Number of Units: 5
+Prerequisites: 54-267 and 54-166 and 54-389
+Instructors: Stewart Blackwood
+Rooms: PCA 103
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-340 Coding & Control for Theatrical Sound>
+
+<start course description for 54-340 Coding & Control for Theatrical Sound>
+Semester: Fall 2023 (aka F23)
+Course Description: This course will explore coding techniques, show control, networking and software applications within the context of theatrical sound design & engineering. Pre-requisites 54267, 54166 & 54389 (or permission of instructor.
+</end course description for 54-340 Coding & Control for Theatrical Sound>

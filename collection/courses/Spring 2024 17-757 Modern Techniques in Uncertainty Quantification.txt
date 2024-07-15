@@ -1,0 +1,16 @@
+<start course metadata for 17-757 Modern Techniques in Uncertainty Quantification>
+Semester: Spring 2024 (aka S24)
+Course Name: Modern Techniques in Uncertainty Quantification
+Course Number: 17-757
+Department: Software & Societal Systems
+Number of Units: 12
+Prerequisites: None
+Instructors: Steven Wu
+Rooms: WEH 4708
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 17-757 Modern Techniques in Uncertainty Quantification>
+
+<start course description for 17-757 Modern Techniques in Uncertainty Quantification>
+Semester: Spring 2024 (aka S24)
+Course Description: Suppose you go to the hospital, and the doctor tells you "Given what I see here, I predict that your symptoms will last for 6 months." As a curious person, you ask "How sure are you?" The doctor then replies "I am 95% confident that they will last at least 4 months, but no longer 7 months." How should you interpret such a statement? In this special topics course, we aim to understand this type of question by exploring recent methods in machine learning, statistics, and computer science for analyzing the uncertainty in black box forecasts. The primary focus is on the theoretical foundations of these methods. Topics covered include conformal prediction, calibration, multi-calibration, outcome indistinguishability, and techniques to offer empirical coverage guarantees without distributional assumptions. We will also delve into the connections with online learning, boosting, game theory, domain adaptation, and algorithmic fairness.
+</end course description for 17-757 Modern Techniques in Uncertainty Quantification>

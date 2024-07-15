@@ -1,0 +1,16 @@
+<start course metadata for 24-781 Engineering Computation Project>
+Semester: Fall 2023 (aka F23)
+Course Name: Engineering Computation Project
+Course Number: 24-781
+Department: Mechanical Engineering
+Number of Units: N/A
+Prerequisites: None
+Instructors: Chris Hertz, Kenji Shimada
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-781 Engineering Computation Project>
+
+<start course description for 24-781 Engineering Computation Project>
+Semester: Fall 2023 (aka F23)
+Course Description: 24-781 This project course is the first section of the two-semester sequence of Computational Engineering Projects. The course provides the students with hands-on problem-solving experience by using commercial computational tools and/or developing their own custom software.  Each student, individually or along with other students, will work on a project under the guidance of Carnegie Mellon faculty members and/or senior engineers from industry.  Students may select a project topic from those presented by advising faculty members and/or industry engineers.  Alternatively, a student may propose and work on his/her own project topic if he/she can identify a sponsoring faculty member or industry engineer.
+</end course description for 24-781 Engineering Computation Project>

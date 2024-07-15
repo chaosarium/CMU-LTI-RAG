@@ -1,0 +1,16 @@
+<start course metadata for 18-787 Data Analytics>
+Semester: Spring 2024 (aka S24)
+Course Name: Data Analytics
+Course Number: 18-787
+Department: Electrical & Computer Engineering
+Number of Units: 6
+Prerequisites: 18-785
+Instructors: Patrick McSharry
+Rooms: CMU REMOTE; HH 1107
+Locations: Kigali, Rwanda; Pittsburgh, Pennsylvania
+</end course metadata for 18-787 Data Analytics>
+
+<start course description for 18-787 Data Analytics>
+Semester: Spring 2024 (aka S24)
+Course Description: This course will take a practical approach to solving challenges in the public and private sectors using data analytics. A number of different themes will be explored as case studies in order to demonstrate how data-driven decision-making has widespread applications. The course will examine how the question being posed, the available data and the selected modelling approach all come together to arrive at a feasible solution. A range of quantitative techniques, involving both linear and nonlinear methods will be presented for dealing with numerical structured datasets. Substantial emphasis will be placed on the process of delivering data analytics via a dashboard to facilitate decision-making and policy-making. The course content will be structured to provide a roadmap for carrying out the necessary procedures and will be illustrated using case studies, reading material and previously published models. Participants will obtain hands-on experience by working on specific challenges with real-world data through a carefully structured set of assignments.
+</end course description for 18-787 Data Analytics>

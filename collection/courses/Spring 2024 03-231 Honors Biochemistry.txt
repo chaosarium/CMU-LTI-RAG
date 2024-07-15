@@ -1,0 +1,16 @@
+<start course metadata for 03-231 Honors Biochemistry>
+Semester: Spring 2024 (aka S24)
+Course Name: Honors Biochemistry
+Course Number: 03-231
+Department: Biological Sciences
+Number of Units: 9
+Prerequisites: 03-121 or 03-151
+Instructors: Christina Lee
+Rooms: GHC 4215
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 03-231 Honors Biochemistry>
+
+<start course description for 03-231 Honors Biochemistry>
+Semester: Spring 2024 (aka S24)
+Course Description: This course provides an introduction to molecules and processes found in living systems. Amino acids, sugars, lipids and nucleotides and their corresponding higher structures, proteins, polysaccharides, membranes and nucleic acids are studied. Kinetics and mechanisms of enzymes as well as elementary metabolic cycles and the energetics of biological systems are studied with a quantitative approach.
+</end course description for 03-231 Honors Biochemistry>

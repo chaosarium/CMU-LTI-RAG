@@ -1,0 +1,16 @@
+<start course metadata for 94-423 Measuring Social>
+Semester: Spring 2024 (aka S24)
+Course Name: Measuring Social
+Course Number: 94-423
+Department: Heinz College Wide Courses
+Number of Units: 12
+Prerequisites: None
+Instructors: Ari Lightman
+Rooms: HBH 1206
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 94-423 Measuring Social>
+
+<start course description for 94-423 Measuring Social>
+Semester: Spring 2024 (aka S24)
+Course Description: Measuring Social is an experiential learning class for graduate students across Carnegie Mellon.  We bring in 5-7 corporate sponsors each semester (Spring & Fall) & they develop a project for the student teams to work on over the semester.  Each project involves an element of measuring unstructured social data as well as providing recommendations based on its analysis.  The class has been running since 2010 & we have done over 120 projects in the class for close to 100 different unique clients including Marriot, Google, Warner Bros., Sony PlayStation, Nike, Target, Ford,  NYTimes, The Lincoln Center, American Express, The Gap, NBCUniversal, Microsoft, etc.  We welcome graduate students from across CMU including Data Analytics, Public Policy, Entertainment & Arts Management, Business/Tepper, CS/HCI, ECE, English & Design.  We socially engineer teams to add as much diversity as possible.  Projects in the class vary from internal social network analysis to external client & community engagement tactics through analyzing social data from thematic strings, sentiment analysis, community segments etc. As an example, a team working with Marriott used ML models to understand & present benefit with deploying social influencers across different categories associated with brand recognition for their W hotel properties.  Students teams have access to commercially available off the shelf software tools for social listening & social intelligence & we provide in class training. Students have reported many benefits associated with participating in the class including:  Opportunity to work with students from across CMU with different experience/viewpoints, Engaging in a real world consultative project with a brand name company, Development of non-cognitive skills associated with problem solving, & An opportunity to develop & present recommendations/data models that in many cases get implemented by sponsoring organizations.
+</end course description for 94-423 Measuring Social>

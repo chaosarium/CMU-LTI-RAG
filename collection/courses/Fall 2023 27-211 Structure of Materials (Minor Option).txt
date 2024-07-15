@@ -1,0 +1,16 @@
+<start course metadata for 27-211 Structure of Materials (Minor Option)>
+Semester: Fall 2023 (aka F23)
+Course Name: Structure of Materials (Minor Option)
+Course Number: 27-211
+Department: Materials Science & Engineering
+Number of Units: 6
+Prerequisites: None
+Instructors: Vincent Sokalski
+Rooms: WEH 5409
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 27-211 Structure of Materials (Minor Option)>
+
+<start course description for 27-211 Structure of Materials (Minor Option)>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is identical to 27-201, but without the 3-unit lab component.
+</end course description for 27-211 Structure of Materials (Minor Option)>

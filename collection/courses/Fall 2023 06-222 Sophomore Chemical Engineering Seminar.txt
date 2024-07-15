@@ -1,0 +1,16 @@
+<start course metadata for 06-222 Sophomore Chemical Engineering Seminar>
+Semester: Fall 2023 (aka F23)
+Course Name: Sophomore Chemical Engineering Seminar
+Course Number: 06-222
+Department: Chemical Engineering
+Number of Units: 1
+Prerequisites: None
+Instructors: Hamish Gordon
+Rooms: POS 152
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 06-222 Sophomore Chemical Engineering Seminar>
+
+<start course description for 06-222 Sophomore Chemical Engineering Seminar>
+Semester: Fall 2023 (aka F23)
+Course Description: This course provides an overview of the chemical engineering profession. It discusses the rationale for the curriculum, career paths, resume writing, written communication skills, and ethics, and also involves a project on the use and manufacture of chemicals.
+</end course description for 06-222 Sophomore Chemical Engineering Seminar>

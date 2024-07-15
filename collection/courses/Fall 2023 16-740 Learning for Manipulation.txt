@@ -1,0 +1,16 @@
+<start course metadata for 16-740 Learning for Manipulation>
+Semester: Fall 2023 (aka F23)
+Course Name: Learning for Manipulation
+Course Number: 16-740
+Department: Robotics
+Number of Units: 12
+Prerequisites: None
+Instructors: Oliver Kroemer
+Rooms: NSH 3002
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 16-740 Learning for Manipulation>
+
+<start course description for 16-740 Learning for Manipulation>
+Semester: Fall 2023 (aka F23)
+Course Description: Manipulation is the process of changing the state of objects through direct physical interactions. To perform manipulation tasks in unstructured environments, autonomous robots will need to learn about the objects in their surroundings as well as the skills required to manipulate and change the state of these objects. In this course, we explore the use of machine learning and data-driven algorithms for robot manipulation. The course introduces students to the wide variety of challenges posed by manipulation tasks, and how these challenges can be formulated as learning problems. Students are taught how these problems can be solved using machine learning techniques. The types of machine learning methods covered in this course include supervised, unsupervised, active, and reinforcement learning methods. The course includes both lectures and guided paper discussions.
+</end course description for 16-740 Learning for Manipulation>

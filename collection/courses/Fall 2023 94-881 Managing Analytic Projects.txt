@@ -1,0 +1,16 @@
+<start course metadata for 94-881 Managing Analytic Projects>
+Semester: Fall 2023 (aka F23)
+Course Name: Managing Analytic Projects
+Course Number: 94-881
+Department: Heinz College Wide Courses
+Number of Units: 6
+Prerequisites: None
+Instructors: David Steier
+Rooms: HBH 2008
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 94-881 Managing Analytic Projects>
+
+<start course description for 94-881 Managing Analytic Projects>
+Semester: Fall 2023 (aka F23)
+Course Description: With the growing demand for data science and AI skills, there are many options for students to learn fundamentals of data and analytics modeling. There are fewer opportunities to learn how to manage analytics projects, which often involve leading teams with diverse skills and interacting with stakeholders in a variety of roles. Using a decision-driven framework, this course offers students practical guidance and experience around the process of initiating, delivering, and evaluating analytics projects. It will draw on experience from a consulting perspective, talking about analytics with clients and delivering analytics-related engagements. The course will cover the following topics:  Starting the analytics conversation: Identifying needs, understanding constraints  Planning and executing analytics projects: Sizing, staffing, communication  Making choices around data, analytics, visualizations and infrastructure: Sourcing, techniques, technologies, integration, security, pipelines  Analytics in the enterprise: Communications, ethics, organizing talent, strategy
+</end course description for 94-881 Managing Analytic Projects>

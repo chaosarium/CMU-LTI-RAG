@@ -1,0 +1,16 @@
+<start course metadata for 49-791 Software Management Capstone Project>
+Semester: Fall 2023 (aka F23)
+Course Name: Software Management Capstone Project
+Course Number: 49-791
+Department: Integrated Innovation Institute
+Number of Units: N/A
+Prerequisites: None
+Instructors: Gladys Mercier
+Rooms: 
+Locations: San Jose, California
+</end course metadata for 49-791 Software Management Capstone Project>
+
+<start course description for 49-791 Software Management Capstone Project>
+Semester: Fall 2023 (aka F23)
+Course Description: Student teams continue work on their product or business idea. Student teams may refine or rework ideas, or continue to extend the work started in previous semesters. A plan, including milestones and deliverables, which is developed by the team must be submitted to and approved by the faculty advisor at the start of this course. Students must submit a proposal and be accepted into the course being being able to enroll.
+</end course description for 49-791 Software Management Capstone Project>

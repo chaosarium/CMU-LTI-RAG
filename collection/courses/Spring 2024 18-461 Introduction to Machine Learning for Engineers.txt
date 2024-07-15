@@ -1,0 +1,16 @@
+<start course metadata for 18-461 Introduction to Machine Learning for Engineers>
+Semester: Spring 2024 (aka S24)
+Course Name: Introduction to Machine Learning for Engineers
+Course Number: 18-461
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: (18-202) and (21-127) and (15-122) and (21-325 or 36-225 or 36-218 or 36-219)
+Instructors: Carlee Joe-Wong, Gauri Joshi
+Rooms: BH A36
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-461 Introduction to Machine Learning for Engineers>
+
+<start course description for 18-461 Introduction to Machine Learning for Engineers>
+Semester: Spring 2024 (aka S24)
+Course Description: This course provides an introduction to machine learning with a special focus on engineering applications. The course starts with a mathematical background required for machine learning and covers approaches for supervised learning (linear models, kernel methods, decision trees, neural networks) and unsupervised learning (clustering, dimensionality reduction), as well as theoretical foundations of machine learning (learning theory, optimization). Evaluation will consist of mathematical problem sets and programming projects targeting real-world engineering applications.  This course is crosslisted with 18661. Although students in 18461 will share lectures with students in 18661, students in 18461 will receive distinct homework assignments, distinct programming projects, and distinct exams from the ones given to students in 18661. Specifically, the homework assignments, programming projects, and exams that are given to the 18661 students will be more challenging than those given to the 18461 students.
+</end course description for 18-461 Introduction to Machine Learning for Engineers>

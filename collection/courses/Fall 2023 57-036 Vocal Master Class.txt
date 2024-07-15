@@ -1,0 +1,16 @@
+<start course metadata for 57-036 Vocal Master Class>
+Semester: Fall 2023 (aka F23)
+Course Name: Vocal Master Class
+Course Number: 57-036
+Department: Music
+Number of Units: 0
+Prerequisites: None
+Instructors: Daniel Teadt
+Rooms: CFA M160
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-036 Vocal Master Class>
+
+<start course description for 57-036 Vocal Master Class>
+Semester: Fall 2023 (aka F23)
+Course Description: TBA
+</end course description for 57-036 Vocal Master Class>

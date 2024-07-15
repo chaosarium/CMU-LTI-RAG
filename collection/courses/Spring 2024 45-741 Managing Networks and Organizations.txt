@@ -1,0 +1,16 @@
+<start course metadata for 45-741 Managing Networks and Organizations>
+Semester: Spring 2024 (aka S24)
+Course Name: Managing Networks and Organizations
+Course Number: 45-741
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Brandy Aven
+Rooms: TEP 2112
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-741 Managing Networks and Organizations>
+
+<start course description for 45-741 Managing Networks and Organizations>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is designed to improve your effectiveness a manager by introducing you to social network concepts and tools as they apply to organizations. A central objective of the course is understanding organizational structure, behavior, dynamics, and environment. You will develop the skills to understand social networks and learn to recognize key elements of your own and others' social networks that enhance competitive capabilities. Topics to be covered include how social networks affect power and influence, leadership, innovation and the generation of novel ideas, careers, organizational change and competitive advantage. At the conclusion of this course you will have the skills to map out social networks, diagnose features of the networks that either help or hinder the performance of individuals, groups and companies, and be able to manage important features of social networks in organizations. To connect theory with practice, empirical examples will be drawn from both academic articles and cases, covering a wide range of industries.
+</end course description for 45-741 Managing Networks and Organizations>

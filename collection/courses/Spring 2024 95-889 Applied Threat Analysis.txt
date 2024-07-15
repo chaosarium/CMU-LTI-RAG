@@ -1,0 +1,16 @@
+<start course metadata for 95-889 Applied Threat Analysis>
+Semester: Spring 2024 (aka S24)
+Course Name: Applied Threat Analysis
+Course Number: 95-889
+Department: Information Systems:Sch of IS & Mgt
+Number of Units: 6
+Prerequisites: None
+Instructors: Timur Snoke
+Rooms: HBH 1004
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 95-889 Applied Threat Analysis>
+
+<start course description for 95-889 Applied Threat Analysis>
+Semester: Spring 2024 (aka S24)
+Course Description: The role of Cyber Threat Analysts is to aggregate and fuse disparate data sources to provide actionable information to decision makers in industry as well as both the federal and civilian government. More and more these sectors are relying on analysts who have a deep understanding of the ecosystem and the risks contained therein to better understand the cyber threats that they are facing. This course seeks to provide a richer context and a basis for understanding the evolving nature of cyber threats. This class will discuss the relationship between vulnerabilities, exploits, and malware. In addition this class will also explore the value of host based or network indicators and other indicators of compromise. Finally we will discuss the continuum of threat actors and why sometimes the greatest threat is from within.
+</end course description for 95-889 Applied Threat Analysis>

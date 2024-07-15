@@ -1,0 +1,16 @@
+<start course metadata for 80-635 Social and Political Philosophy>
+Semester: Fall 2023 (aka F23)
+Course Name: Social and Political Philosophy
+Course Number: 80-635
+Department: Philosophy
+Number of Units: 12
+Prerequisites: None
+Instructors: Danielle Wenner
+Rooms: BH 235A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 80-635 Social and Political Philosophy>
+
+<start course description for 80-635 Social and Political Philosophy>
+Semester: Fall 2023 (aka F23)
+Course Description: Broadly speaking, political philosophers are interested in whether, and to what extent, government use of coercion can be justified, and how formal social and political institutions should be structured in order to be legitimate. Social philosophy encompasses these political questions, but also looks at how individuals should live together and how individual behaviors can impact not only state institutions but also more informal social norms and institutions.  This is an advanced course in social and political philosophy, aimed at providing students with an in-depth familiarity with classic and contemporary questions both theoretical and applied.
+</end course description for 80-635 Social and Political Philosophy>

@@ -1,0 +1,16 @@
+<start course metadata for 54-378 Technical Direction II>
+Semester: Spring 2024 (aka S24)
+Course Name: Technical Direction II
+Course Number: 54-378
+Department: Drama
+Number of Units: 6
+Prerequisites: 54-273
+Instructors: Kevin Hines
+Rooms: PCA 209
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-378 Technical Direction II>
+
+<start course description for 54-378 Technical Direction II>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is an exploration of techniques and practices of Technical Designers.  The class has four main components: an exploration of the types of strategies used by Technical Designers to arrive at solutions, building an expert vocabulary for discussion of technical design issues, development of actual technical solutions, on paper, in discussion, and in the shop, discussion of any pertinent technical issues for any of the school productions while in development.
+</end course description for 54-378 Technical Direction II>

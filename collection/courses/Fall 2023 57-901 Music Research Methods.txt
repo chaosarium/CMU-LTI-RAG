@@ -1,0 +1,16 @@
+<start course metadata for 57-901 Music Research Methods>
+Semester: Fall 2023 (aka F23)
+Course Name: Music Research Methods
+Course Number: 57-901
+Department: Music
+Number of Units: 3
+Prerequisites: None
+Instructors: Kristin Heath
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-901 Music Research Methods>
+
+<start course description for 57-901 Music Research Methods>
+Semester: Fall 2023 (aka F23)
+Course Description: This course helps music graduate students identify, use and understand basic music reference materials.  It is designed to be helpful to students interested in any aspect of graduate study: performance, theory and composition, history and literature, conducting, education, etc.  Students learn to gather, correctly cite and organize information.  Emphasis is also placed on proper grammar, spelling, and punctuation.  As a final project, students are asked to write program notes.
+</end course description for 57-901 Music Research Methods>

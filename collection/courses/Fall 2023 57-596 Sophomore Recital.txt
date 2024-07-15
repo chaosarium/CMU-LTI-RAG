@@ -1,0 +1,16 @@
+<start course metadata for 57-596 Sophomore Recital>
+Semester: Fall 2023 (aka F23)
+Course Name: Sophomore Recital
+Course Number: 57-596
+Department: Music
+Number of Units: 1
+Prerequisites: None
+Instructors: Andres Cardenes, Anne Williams, Christopher Wu, David Harding, David Premo, Instructor TBA, Micah Howard, William van der Sloot
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-596 Sophomore Recital>
+
+<start course description for 57-596 Sophomore Recital>
+Semester: Fall 2023 (aka F23)
+Course Description: No course description provided.
+</end course description for 57-596 Sophomore Recital>

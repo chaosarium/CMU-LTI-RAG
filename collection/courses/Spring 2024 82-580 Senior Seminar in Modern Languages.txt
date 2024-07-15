@@ -1,0 +1,16 @@
+<start course metadata for 82-580 Senior Seminar in Modern Languages>
+Semester: Spring 2024 (aka S24)
+Course Name: Senior Seminar in Modern Languages
+Course Number: 82-580
+Department: Modern Languages
+Number of Units: 9
+Prerequisites: None
+Instructors: Candace Skibba
+Rooms: PH 226A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 82-580 Senior Seminar in Modern Languages>
+
+<start course description for 82-580 Senior Seminar in Modern Languages>
+Semester: Spring 2024 (aka S24)
+Course Description: This seminar for majors in Modern Languages focuses on general issues in second language learning. It provides an integrative and culminating experience for students as they complete their studies. The course includes consideration of language learning and language maintenance, the role of second languages in American life, issues of linguistic and cultural diversity in the United States today and discussions of multiculturalism throughout the world. The goal of the seminar is for students to reflect upon their language learning experience and to discuss the role that a second language plays in their own lives and in American society today. Corequisite: Open only to Modern Languages majors
+</end course description for 82-580 Senior Seminar in Modern Languages>

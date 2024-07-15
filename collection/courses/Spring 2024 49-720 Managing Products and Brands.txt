@@ -1,0 +1,16 @@
+<start course metadata for 49-720 Managing Products and Brands>
+Semester: Spring 2024 (aka S24)
+Course Name: Managing Products and Brands
+Course Number: 49-720
+Department: Integrated Innovation Institute
+Number of Units: 6
+Prerequisites: None
+Instructors: Lloyd Corder
+Rooms: CA 115
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 49-720 Managing Products and Brands>
+
+<start course description for 49-720 Managing Products and Brands>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is an introduction to the product lifecycle and brand management strategies. Through interactive lectures, case discussions, and assignments, students will learn planning, development and marketing tools to address common challenges across various industries. This course will emphasis the importance of cross-functional leadership for product and brand managers across aspects of marketing, engineering, accounting, and manufacturing. This is a required course in the MIIPS degree program. This course is only open to students in the MIIPS program.
+</end course description for 49-720 Managing Products and Brands>

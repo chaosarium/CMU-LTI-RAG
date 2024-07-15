@@ -1,0 +1,16 @@
+<start course metadata for 57-308 Bagpipe Advanced History>
+Semester: Fall 2023 (aka F23)
+Course Name: Bagpipe Advanced History
+Course Number: 57-308
+Department: Music
+Number of Units: 3
+Prerequisites: None
+Instructors: Andrew Carlisle
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-308 Bagpipe Advanced History>
+
+<start course description for 57-308 Bagpipe Advanced History>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is an in-depth study of the origins of the bagpipe, including the oral tradition, the Hereditary Pipers and their teachings, piping in the military, prominent teachers, and a study of the Tree of Piping dating from MacCrimmon to the present day.
+</end course description for 57-308 Bagpipe Advanced History>

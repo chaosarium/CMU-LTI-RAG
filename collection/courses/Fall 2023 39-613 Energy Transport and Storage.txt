@@ -1,0 +1,16 @@
+<start course metadata for 39-613 Energy Transport and Storage>
+Semester: Fall 2023 (aka F23)
+Course Name: Energy Transport and Storage
+Course Number: 39-613
+Department: CIT Interdisciplinary
+Number of Units: 6
+Prerequisites: None
+Instructors: Katrina Kelly-Pitou
+Rooms: DH 1117
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 39-613 Energy Transport and Storage>
+
+<start course description for 39-613 Energy Transport and Storage>
+Semester: Fall 2023 (aka F23)
+Course Description: The logistics and cost of moving and storing energy vary greatly by energy form and geographic region. This mini begins with a global look at resources and the sources, movements, processing and storage of fossil and nuclear fuels.  Once fuels have been delivered and converted to heat or electricity, the issues of moving and storage re-emerge.  Efficient use of renewable electric power resources is considered, with emphasis on distributed resources and managing variability and intermittency. The technical and economic aspects of electric power transmission, distribution and storage are also evaluated.  Management, regulation and operation of the grid are evaluated, including various SmartGrid and MicroGrid initiatives and technologies in the US and worldwide.
+</end course description for 39-613 Energy Transport and Storage>

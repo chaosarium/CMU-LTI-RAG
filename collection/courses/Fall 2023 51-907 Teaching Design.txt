@@ -1,0 +1,16 @@
+<start course metadata for 51-907 Teaching Design>
+Semester: Fall 2023 (aka F23)
+Course Name: Teaching Design
+Course Number: 51-907
+Department: Design
+Number of Units: 12
+Prerequisites: None
+Instructors: Stacie Rohrbach
+Rooms: MM 121
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-907 Teaching Design>
+
+<start course description for 51-907 Teaching Design>
+Semester: Fall 2023 (aka F23)
+Course Description: "Teaching Design" focuses on planning, conducting, reviewing, and revising learning experiences in academic and professional contexts. Meeting weekly throughout the semester, students and I will study learning theories and instructional design approaches, probing their value to design education. Students will investigate traditional and emergent approaches to instruction through readings and discussions situated in the realm of cognitive studies, neuroscience, learning science, instructional design, and educational pedagogy. Students will discuss challenges that are common to design, which they will use to brainstorm ways of effectively addressing obstacles that they are likely to encounter when teaching. Student will apply their discoveries to the design of learning objectives, outcomes, instructional activities, performance measures, formative assessments, and summative evaluations, to create innovative and effective teaching and learning experiences based on a context they define. The course will culminate in the design of concrete teaching plans that may take the form of syllabi, project briefs, class exercises, assessment tools, and evaluation metrics.
+</end course description for 51-907 Teaching Design>

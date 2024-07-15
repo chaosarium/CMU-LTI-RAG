@@ -1,0 +1,16 @@
+<start course metadata for 48-771 Fabricating Customization: Prototype>
+Semester: Fall 2023 (aka F23)
+Course Name: Fabricating Customization: Prototype
+Course Number: 48-771
+Department: Architecture
+Number of Units: 9
+Prerequisites: None
+Instructors: Jeremy Ficca
+Rooms: MM C4
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-771 Fabricating Customization: Prototype>
+
+<start course description for 48-771 Fabricating Customization: Prototype>
+Semester: Fall 2023 (aka F23)
+Course Description: Architects have long flirted with production and manufacturing. From the early days of the Bauhaus and Walter Gropius' experiments with factory-built housing to Jean Prouve's design and manufacturing of architectural components to Ray and Charles Eames' interest in the social potential of mass production, architecture has long been enamored by the promise of technological advancements in manufacturing. This has been pursued to yield greater affordability and accessibility, customization, and expression, and as of late, more carbon-aware material selection and manufacturing. This course builds upon this rich history and foregrounds architectural component customization to explore prototyping and customization within the context of contemporary practice. It introduces students to a range of prototyping and design for manufacturing frameworks. Through case studies and guest lectures, the course leverages techniques of digital manufacturing and fabrication. It offers students an overview of existing and emerging modes of collaboration between designer and manufacturer in service to the production of a customized building component. The course places great emphasis upon the reciprocity of design and prototyping, challenging students to leverage physical artifacts as tools for thinking and testing. Throughout the semester, students will utilize additive and subtractive fabrication techniques to iterate the design of architectural components. Through this process, students will build proficiency in prototyping to design, test, and refine components of limited scope and scale.
+</end course description for 48-771 Fabricating Customization: Prototype>

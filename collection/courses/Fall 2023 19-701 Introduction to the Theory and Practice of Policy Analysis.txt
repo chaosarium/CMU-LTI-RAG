@@ -1,0 +1,16 @@
+<start course metadata for 19-701 Introduction to the Theory and Practice of Policy Analysis>
+Semester: Fall 2023 (aka F23)
+Course Name: Introduction to the Theory and Practice of Policy Analysis
+Course Number: 19-701
+Department: Engineering & Public Policy
+Number of Units: 12
+Prerequisites: None
+Instructors: M Granger Morgan
+Rooms: WEH 4623
+Locations: Lisbon, Portugal; Pittsburgh, Pennsylvania
+</end course metadata for 19-701 Introduction to the Theory and Practice of Policy Analysis>
+
+<start course description for 19-701 Introduction to the Theory and Practice of Policy Analysis>
+Semester: Fall 2023 (aka F23)
+Course Description: This course reviews and critically examines a set of problems, assumptions and analytical techniques that are common to research and policy analysis in technology and public policy.  Topics covered include the difference between science, trans-science and policy analysis, policy problems formulated in terms of utility maximization, issues in the valuation of intangibles, uncertainty in policy analysis, selected topics in risk analysis, limitations and alternatives to the paradigm of utility maximization, issues in behavioral decision theory, issues related to organizations and multiple agents, and selected topics in policy advice and policy analysis for the federal government.  The objective is to look critically at the strengths, limitations and underlying assumptions of key policy research and analysis tools and problem framing and sensitize students to some of the critical issues of taste, professional responsibility, ethics, and values that are associated with policy analysis and research.
+</end course description for 19-701 Introduction to the Theory and Practice of Policy Analysis>

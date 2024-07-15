@@ -1,0 +1,16 @@
+<start course metadata for 54-497 Directed Study>
+Semester: Fall 2023 (aka F23)
+Course Name: Directed Study
+Course Number: 54-497
+Department: Drama
+Number of Units: N/A
+Prerequisites: None
+Instructors: Joe Pino, Rick Edinger
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-497 Directed Study>
+
+<start course description for 54-497 Directed Study>
+Semester: Fall 2023 (aka F23)
+Course Description: An opportunity to pursue a predefined design project outside of the standard curriculum under the guidance and direction of a School of Drama faculty member. By special permission only.
+</end course description for 54-497 Directed Study>

@@ -1,0 +1,16 @@
+<start course metadata for 45-967 Healthcare Operations>
+Semester: Spring 2024 (aka S24)
+Course Name: Healthcare Operations
+Course Number: 45-967
+Department: Business Administration
+Number of Units: 6
+Prerequisites: 45-760
+Instructors: Mustafa Akan
+Rooms: TEP 2119
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-967 Healthcare Operations>
+
+<start course description for 45-967 Healthcare Operations>
+Semester: Spring 2024 (aka S24)
+Course Description: U.S. healthcare industry promises numerous opportunities for significant operational improvements. This course will identify the main components of the healthcare value chain and explore how they operate in an increasingly complex and dynamic environment. We focus on the analytical techniques and tools in the healthcare environment and emphasize the strategic implementation of operations improvement programs. This integrated approach aims at helping students find ways to improve the management and delivery of healthcare to increase the effectiveness and efficiency of tomorrow's healthcare system. In this course, we will cover a wide variety of models and techniques used by decision makers and decision-support software in the healthcare industry. To support the hands-on approach, we will also examine how these models are actually used in practical healthcare environments through case studies and journal papers.
+</end course description for 45-967 Healthcare Operations>

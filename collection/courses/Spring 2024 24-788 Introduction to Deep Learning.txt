@@ -1,0 +1,16 @@
+<start course metadata for 24-788 Introduction to Deep Learning>
+Semester: Spring 2024 (aka S24)
+Course Name: Introduction to Deep Learning
+Course Number: 24-788
+Department: Mechanical Engineering
+Number of Units: 6
+Prerequisites: 24-787 or 10-601 or 10-701 or 10-715 or 18-611
+Instructors: Amir Barati Farimani, Instructor TBA
+Rooms: GHC 4101; POS 152
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-788 Introduction to Deep Learning>
+
+<start course description for 24-788 Introduction to Deep Learning>
+Semester: Spring 2024 (aka S24)
+Course Description: This course introduces the deep learning methodology. Students will learn about the basics of deep neural networks, and their applications to different tasks in engineering. Students will be able to apply Deep Learning to a variety of artificial intelligence tasks pertinent to different engineering problems. Neural Networks and Convolutional Neural Networks (CNN) and different variations of it will be taught. The fundamental knowledge and mathematics behind backpropagation and automatic differentiation will be discussed. Deep learning libraries such as Pytorch will be taught, and students will learn to use these libraries for developing deep learning models.
+</end course description for 24-788 Introduction to Deep Learning>

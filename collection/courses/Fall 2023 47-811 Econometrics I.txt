@@ -1,0 +1,16 @@
+<start course metadata for 47-811 Econometrics I>
+Semester: Fall 2023 (aka F23)
+Course Name: Econometrics I
+Course Number: 47-811
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Fallaw Sowell
+Rooms: TEP 5219
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 47-811 Econometrics I>
+
+<start course description for 47-811 Econometrics I>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is the first course in the core econometrics sequence of the economics PhD program. It is an introduction to the basic questions, tools and techniques used in empirical social science research. Students will learn to calculate and perform correct inference on parameter estimates. The course focuses on the multivariate linear model. Topics include: consistency and asymptotic normality of the parameter estimates, sampling distributions, hypothesis testing parameter restrictions and specification tests. Students will learn the impact of departures from traditional assumptions in the linear model (e.g. correlated errors, heteroscedastic errors, correlation between the regressors and the errors) and how to address these situations. Students are expected to be familiar with multivariate calculus, linear algebra, and basic probability and statistics. Students will write MATLAB programs on problem sets.
+</end course description for 47-811 Econometrics I>

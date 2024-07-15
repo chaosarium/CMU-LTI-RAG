@@ -1,0 +1,16 @@
+<start course metadata for 98-051 Student Taught Courses (StuCo): Oneirology: The Study of Dream>
+Semester: Spring 2024 (aka S24)
+Course Name: Student Taught Courses (StuCo): Oneirology: The Study of Dream
+Course Number: 98-051
+Department: StuCo (Student Led Courses)
+Number of Units: 3
+Prerequisites: None
+Instructors: Hana Hasna, Maya Salameh
+Rooms: CMB 2147
+Locations: Doha, Qatar
+</end course metadata for 98-051 Student Taught Courses (StuCo): Oneirology: The Study of Dream>
+
+<start course description for 98-051 Student Taught Courses (StuCo): Oneirology: The Study of Dream>
+Semester: Spring 2024 (aka S24)
+Course Description: "Oneirology: The Study of Dreams" serves as a concise introductory course exploring theories related to the universal experience of dreaming. Dreams, in this context, refer to a state of consciousness characterized by sensory, cognitive, and emotional experiences during sleep. Nevertheless, neuroscience research into human consciousness is still ongoing meaning there is much that remains unknown.
+</end course description for 98-051 Student Taught Courses (StuCo): Oneirology: The Study of Dream>

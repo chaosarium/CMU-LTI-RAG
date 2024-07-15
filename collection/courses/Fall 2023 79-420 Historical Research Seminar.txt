@@ -1,0 +1,16 @@
+<start course metadata for 79-420 Historical Research Seminar>
+Semester: Fall 2023 (aka F23)
+Course Name: Historical Research Seminar
+Course Number: 79-420
+Department: History
+Number of Units: 12
+Prerequisites: 79-200
+Instructors: Steven Schlossman
+Rooms: PH A19D
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 79-420 Historical Research Seminar>
+
+<start course description for 79-420 Historical Research Seminar>
+Semester: Fall 2023 (aka F23)
+Course Description: The purpose of this research seminar is to help students conceptualize, design, organize, and execute a substantial research project that embodies and extends the knowledge and skill set they have been developing as History majors at Carnegie Mellon. The identification, collection and interpretation of relevant primary source data are integral parts of this intellectual task. Students will hone written and oral presentation skills, deepen their command of research methodologies and strategies, and sharpen their abilities as a constructive critic of others' research. The seminar seeks to develop these intellectual skills through a combination of in-class, student-led discussions of everyone's research-in-progress, and regular individual consultations with the instructor.
+</end course description for 79-420 Historical Research Seminar>

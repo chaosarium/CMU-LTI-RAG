@@ -1,0 +1,16 @@
+<start course metadata for 95-797 Data Warehousing>
+Semester: Fall 2023 (aka F23)
+Course Name: Data Warehousing
+Course Number: 95-797
+Department: Information Systems:Sch of IS & Mgt
+Number of Units: 6
+Prerequisites: 95-703 or 90-728 or 90-838
+Instructors: Pete Fein
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 95-797 Data Warehousing>
+
+<start course description for 95-797 Data Warehousing>
+Semester: Fall 2023 (aka F23)
+Course Description: Data warehouses are the central component of a modern data stack. They have solved the problem of analyzing massive amounts of structured & semi-structured data and are cost-effective, performant and easy to use. Data warehouses are the foundation for reporting, ad hoc analysis, business intelligence and machine learning, and enable collaboration among a diversity of users and stakeholders across organizations of all sizes.   This class will provide students with the conceptual background and hands on keyboard skills needed to utilize a data warehouse effectively. Throughout the course, students will work on an end-to-end development project, building a working data platform for New York City transit data. Using actual taxi, rideshare, bike share and weather data, students will answer real-world analytics questions, such as "How does location and time of day affect trip length?" and "How does weather affect transit preferences?". By the end, students will be empowered with the tools and techniques needed to take a real-world data project from problem statement to prototype to production.
+</end course description for 95-797 Data Warehousing>

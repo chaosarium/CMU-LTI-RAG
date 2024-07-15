@@ -1,0 +1,16 @@
+<start course metadata for 14-812 Wireless Protocols and Standards for the Internet of Things>
+Semester: Fall 2023 (aka F23)
+Course Name: Wireless Protocols and Standards for the Internet of Things
+Course Number: 14-812
+Department: Information Networking Institute
+Number of Units: 6
+Prerequisites: None
+Instructors: Pedro Bustamante
+Rooms: INI DEC
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 14-812 Wireless Protocols and Standards for the Internet of Things>
+
+<start course description for 14-812 Wireless Protocols and Standards for the Internet of Things>
+Semester: Fall 2023 (aka F23)
+Course Description: One of the key characteristics of the Internet of Things (IoT) is its wide range of use cases, which scale from a single constrained device to massive cross-platform deployments of embedded technologies and systems. This course provides an overview of the protocols and standards enabling the use and development of IoT devices, systems, and applications. It provides students with a better understanding of the IoT-specific layer technology stack by drilling down on specific layers and both, general and industry- specific, protocols and standards. In addition, this course provides the required foundations to benchmark the available technologies for any IoT use case or deployment and apply some of this knowledge and concepts to system projects.
+</end course description for 14-812 Wireless Protocols and Standards for the Internet of Things>

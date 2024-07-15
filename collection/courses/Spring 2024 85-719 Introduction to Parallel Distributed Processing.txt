@@ -1,0 +1,16 @@
+<start course metadata for 85-719 Introduction to Parallel Distributed Processing>
+Semester: Spring 2024 (aka S24)
+Course Name: Introduction to Parallel Distributed Processing
+Course Number: 85-719
+Department: Psychology
+Number of Units: N/A
+Prerequisites: None
+Instructors: David Plaut
+Rooms: BH 336B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 85-719 Introduction to Parallel Distributed Processing>
+
+<start course description for 85-719 Introduction to Parallel Distributed Processing>
+Semester: Spring 2024 (aka S24)
+Course Description: This course provides an overview of Parallel-Distributed-Processing/neural-network models of perception, memory, language, knowledge representation, and learning. The course consists of lectures describing the theory behind the models as well as their implementation, and their application to specific empirical domains.  Students get hands-on experience developing and running simulation models.
+</end course description for 85-719 Introduction to Parallel Distributed Processing>

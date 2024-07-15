@@ -1,0 +1,16 @@
+<start course metadata for 46-751 Accelerate Leadership>
+Semester: Fall 2023 (aka F23)
+Course Name: Accelerate Leadership
+Course Number: 46-751
+Department: Business Administration
+Number of Units: 0
+Prerequisites: None
+Instructors: Instructor TBA
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 46-751 Accelerate Leadership>
+
+<start course description for 46-751 Accelerate Leadership>
+Semester: Fall 2023 (aka F23)
+Course Description: MSPM students are required to participate in leadership training through the Tepper School Accelerate program. The Accelerate Leadership Center offers one-to-one coaching, a series of leadership workshops and Leadership Development Certification for students to create action plans that advance their personal and professional leadership goals. The Accelerate Leadership Center offers a premier leadership development experience and enhances high-performance analytical skills with essential leadership and communication behaviors.
+</end course description for 46-751 Accelerate Leadership>

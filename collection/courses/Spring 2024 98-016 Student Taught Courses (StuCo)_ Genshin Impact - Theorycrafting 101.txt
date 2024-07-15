@@ -1,0 +1,16 @@
+<start course metadata for 98-016 Student Taught Courses (StuCo): Genshin Impact - Theorycrafting 101>
+Semester: Spring 2024 (aka S24)
+Course Name: Student Taught Courses (StuCo): Genshin Impact - Theorycrafting 101
+Course Number: 98-016
+Department: StuCo (Student Led Courses)
+Number of Units: 3
+Prerequisites: None
+Instructors: Allan Lyu, Marina Wang
+Rooms: WEH 5415
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 98-016 Student Taught Courses (StuCo): Genshin Impact - Theorycrafting 101>
+
+<start course description for 98-016 Student Taught Courses (StuCo): Genshin Impact - Theorycrafting 101>
+Semester: Spring 2024 (aka S24)
+Course Description: The purpose of this class is to deepen student's understanding of Genshin Impact's game mechanics with emphasis on numbers-based theorycrafting, the "Iceberg" of game mechanics, and some lore. Students will develop the skills necessary to construct optimized teams, create their own rotations, and clear spiral abyss with ease. We emphasize ease of access, so this class will mostly discuss optimal "Free-To-Play" team options. However, instructors will briefly go over constellation mechanics.
+</end course description for 98-016 Student Taught Courses (StuCo): Genshin Impact - Theorycrafting 101>

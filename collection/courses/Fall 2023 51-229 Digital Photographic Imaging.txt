@@ -1,0 +1,16 @@
+<start course metadata for 51-229 Digital Photographic Imaging>
+Semester: Fall 2023 (aka F23)
+Course Name: Digital Photographic Imaging
+Course Number: 51-229
+Department: Design
+Number of Units: 9
+Prerequisites: None
+Instructors: Dylan Vitone
+Rooms: MM 121
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-229 Digital Photographic Imaging>
+
+<start course description for 51-229 Digital Photographic Imaging>
+Semester: Fall 2023 (aka F23)
+Course Description: The objective of this course is to provide students with a practical, technical and theoretical foundation in digital imaging. The primary software for this course is Adobe Photoshop, with which students will explore construction, combination, manipulation, input, and output of image as a means of narrative creation. Through project critique and other discussion, we will also consider the aesthetic and political implications of the emergence of this and other new electronic imaging technologies.
+</end course description for 51-229 Digital Photographic Imaging>

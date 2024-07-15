@@ -1,0 +1,16 @@
+<start course metadata for 70-122 Introduction to Accounting>
+Semester: Spring 2024 (aka S24)
+Course Name: Introduction to Accounting
+Course Number: 70-122
+Department: Business Administration
+Number of Units: 9
+Prerequisites: None
+Instructors: Erina Ytsma, Gaoqing Zhang, Max Risch
+Rooms: TEP 3801
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 70-122 Introduction to Accounting>
+
+<start course description for 70-122 Introduction to Accounting>
+Semester: Spring 2024 (aka S24)
+Course Description: This course provides the knowledge and skills necessary for the student to understand financial statements and financial records and to make use of the information for management and investment decisions. Topics include: an overview of financial statements and business decisions; the balance sheet, the income statement, and the cash flow statement; sales revenue, receivables, and cash; cost of goods sold and inventory; long-lived assets and depreciation, and amortization; current and long-term liabilities; owners' equity; investments in other corporations; an introduction to financial statement analysis and international issues dealing with financial statements. This course may use third-party course material that is not available for individual purchase from the publisher.   If so, the third-party course material will be secured and provided by the Tepper School to students enrolled in the course, and students enrolled in the course will be required to pay to the University the associated additional course materials fee for the third-party course material provided.   The amount of the course materials fee is dependent on the University's cost of the particular materials provided, and typically ranges from $13 to $75.
+</end course description for 70-122 Introduction to Accounting>

@@ -1,0 +1,16 @@
+<start course metadata for 67-316 Human Computer Interface Design and Testing>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Human Computer Interface Design and Testing
+Course Number: 67-316
+Department: Information Systems Program
+Number of Units: 9
+Prerequisites: None
+Instructors: Divakaran Liginlal
+Rooms: 
+Locations: Doha, Qatar
+</end course metadata for 67-316 Human Computer Interface Design and Testing>
+
+<start course description for 67-316 Human Computer Interface Design and Testing>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: This course emphasizes team-based activities to promote engaged learning and application of user-centered design and usability testing concepts.   Students who complete this course will have a good understanding of designing for user experience. The course emphasizes three themes and contexts for digital design and human-computer interaction (HCI): designing for the web, designing for mobile use, and multimodal interactive design. Students will also be exposed to a variety of usability testing methods with state-of-the-art tools such as Morae and Tobii eyetracker.
+</end course description for 67-316 Human Computer Interface Design and Testing>

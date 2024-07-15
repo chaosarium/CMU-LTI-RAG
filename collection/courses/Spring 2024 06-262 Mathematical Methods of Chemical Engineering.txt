@@ -1,0 +1,16 @@
+<start course metadata for 06-262 Mathematical Methods of Chemical Engineering>
+Semester: Spring 2024 (aka S24)
+Course Name: Mathematical Methods of Chemical Engineering
+Course Number: 06-262
+Department: Chemical Engineering
+Number of Units: 12
+Prerequisites: 06-223 and 21-254
+Instructors: Grigorios Panagakos
+Rooms: DH 1212
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 06-262 Mathematical Methods of Chemical Engineering>
+
+<start course description for 06-262 Mathematical Methods of Chemical Engineering>
+Semester: Spring 2024 (aka S24)
+Course Description: Mathematical techniques are presented as tools for modeling and solving engineering problems. Modeling of steady-state mass and energy balance problems using linear and matrix algebra, including Gaussian elimination, decomposition, and iterative techniques. Modeling of unsteady-state engineering problems using linear and nonlinear differential equations. Analytical techniques, including Laplace transforms, and numerical techniques for the solution of first-and higher-order differential equations and systems of differential equations arising in engineering models. Finally, the modeling of processes affected by chance and subject to experimental error; statistical and regression techniques within the context of experimental design and analysis of experimental data.
+</end course description for 06-262 Mathematical Methods of Chemical Engineering>

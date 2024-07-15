@@ -1,0 +1,16 @@
+<start course metadata for 15-604 Immigration Course>
+Semester: Fall 2023 (aka F23)
+Course Name: Immigration Course
+Course Number: 15-604
+Department: Computer Science
+Number of Units: 3
+Prerequisites: None
+Instructors: David Eckhardt, David O'Hallaron
+Rooms: TEP 1403
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-604 Immigration Course>
+
+<start course description for 15-604 Immigration Course>
+Semester: Fall 2023 (aka F23)
+Course Description: This is a discussion course with enrollment limited to MS in CS students during their first semester in the program. Students explore the scope of graduate education in computer science, the tools and techniques for success, and the resources available to MS in CS students. Students also explore life after graduation, including careers in academia, industry, and other organizations, and plan an academic program that supports their individual goals.
+</end course description for 15-604 Immigration Course>

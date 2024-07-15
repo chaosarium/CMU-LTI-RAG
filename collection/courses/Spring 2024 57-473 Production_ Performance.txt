@@ -1,0 +1,16 @@
+<start course metadata for 57-473 Production: Performance>
+Semester: Spring 2024 (aka S24)
+Course Name: Production: Performance
+Course Number: 57-473
+Department: Music
+Number of Units: 3
+Prerequisites: None
+Instructors: Ellen Rissinger, Thomas Douglas
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-473 Production: Performance>
+
+<start course description for 57-473 Production: Performance>
+Semester: Spring 2024 (aka S24)
+Course Description: TBA
+</end course description for 57-473 Production: Performance>

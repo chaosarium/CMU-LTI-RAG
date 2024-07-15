@@ -1,0 +1,16 @@
+<start course metadata for 90-701 Practicum>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Practicum
+Course Number: 90-701
+Department: Public Policy & Mgt:Sch of Pub Pol & Mgt
+Number of Units: N/A
+Prerequisites: None
+Instructors: Instructor TBA
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 90-701 Practicum>
+
+<start course description for 90-701 Practicum>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: None
+</end course description for 90-701 Practicum>

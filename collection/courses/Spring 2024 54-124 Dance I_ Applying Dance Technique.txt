@@ -1,0 +1,16 @@
+<start course metadata for 54-124 Dance I: Applying Dance Technique>
+Semester: Spring 2024 (aka S24)
+Course Name: Dance I: Applying Dance Technique
+Course Number: 54-124
+Department: Drama
+Number of Units: 5
+Prerequisites: 54-123
+Instructors: James Caton, Judith Conte
+Rooms: PCA 306; PCA 313
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-124 Dance I: Applying Dance Technique>
+
+<start course description for 54-124 Dance I: Applying Dance Technique>
+Semester: Spring 2024 (aka S24)
+Course Description: This course continues Classical technique (Ballet) to build body placement, alignment and muscular strength and flexibility.  Designed to help the student develop a way of learning how to work and train for any dance form.  This technique is the basis of the choreography in American musical theater.      This course is for Music Theatre majors only. Prerequisite: 54-123 and permission of instructor.
+</end course description for 54-124 Dance I: Applying Dance Technique>

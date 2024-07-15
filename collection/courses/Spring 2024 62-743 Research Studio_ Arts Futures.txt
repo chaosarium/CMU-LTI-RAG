@@ -1,0 +1,16 @@
+<start course metadata for 62-743 Research Studio: Arts Futures>
+Semester: Spring 2024 (aka S24)
+Course Name: Research Studio: Arts Futures
+Course Number: 62-743
+Department: CFA Interdisciplinary
+Number of Units: 6
+Prerequisites: 93-703
+Instructors: Brett Crawford
+Rooms: HBH 1208
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 62-743 Research Studio: Arts Futures>
+
+<start course description for 62-743 Research Studio: Arts Futures>
+Semester: Spring 2024 (aka S24)
+Course Description: Research Studio: Arts Management and Technology description forthcoming
+</end course description for 62-743 Research Studio: Arts Futures>

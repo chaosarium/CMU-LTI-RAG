@@ -1,0 +1,16 @@
+<start course metadata for 54-891 Graduate Playwriting III>
+Semester: Fall 2023 (aka F23)
+Course Name: Graduate Playwriting III
+Course Number: 54-891
+Department: Drama
+Number of Units: 18
+Prerequisites: None
+Instructors: Rob Handel
+Rooms: BH 136E; PCA 103
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-891 Graduate Playwriting III>
+
+<start course description for 54-891 Graduate Playwriting III>
+Semester: Fall 2023 (aka F23)
+Course Description: Grad Playwriting is a core curriculum, program-long laboratory for the creation of new plays and the practice of making a life as an artist, exploring the habits and techniques the playwright needs in order to respond quickly and precisely to the artistic and practical challenges of a career. The course investigates musical and nonmusical forms, career development and management, and artistic citizenship. Students will hear from guest faculty working in theater, film, and television who will share their professional experience and introduce new perspectives on form and practice.
+</end course description for 54-891 Graduate Playwriting III>

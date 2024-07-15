@@ -1,0 +1,16 @@
+<start course metadata for 48-793 Ph.D. Thesis>
+Semester: Fall 2023 (aka F23)
+Course Name: Ph.D. Thesis
+Course Number: 48-793
+Department: Architecture
+Number of Units: N/A
+Prerequisites: None
+Instructors: Azadeh Sawyer, Daniel Cardoso Llach, Erica Cochran, Joshua Lee, Khee Poh Lam, Ramesh Krishnamurti, Stephen Lee, Vivian Loftness, Volker Hartkopf
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-793 Ph.D. Thesis>
+
+<start course description for 48-793 Ph.D. Thesis>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is for Ph.D. students who have successfully completed their qualifying exams and are working on their dissertation work.     Instructo(s):  Units: 36
+</end course description for 48-793 Ph.D. Thesis>

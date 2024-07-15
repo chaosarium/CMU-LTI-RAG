@@ -1,0 +1,16 @@
+<start course metadata for 70-391 Finance>
+Semester: Spring 2024 (aka S24)
+Course Name: Finance
+Course Number: 70-391
+Department: Business Administration
+Number of Units: 9
+Prerequisites: (73-102 or 73-100 or 73-104) and (36-218 or 36-207 or 70-207 or 36-200 or 36-225 or 36-201 or 36-217)
+Instructors: Muhammad Farooqi, Simon Mayer
+Rooms: CMB 3178; TEP 2700
+Locations: Doha, Qatar; Pittsburgh, Pennsylvania
+</end course metadata for 70-391 Finance>
+
+<start course description for 70-391 Finance>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is the introductory finance course in the undergraduate business program. The main topics covered in the course are financial markets, net present value, discounted cash flow, portfolio theory, the cost of capital, the capital asset pricing model, the efficient markets hypothesis, corporate capital structure, and business valuation. Upon completing the course a student will be able to consider a large and complex business problem, make some assumptions, structure the firms' cash flows in a spreadsheet, calculate the value of different solutions to the problem, and make an investment decision. This course may use third-party course material that is not available for individual purchase from the publisher. If so, the third-party course material will be secured and provided by the Tepper School to students enrolled in the course, and students enrolled in the course will be required to pay to the University the associated additional course materials fee for the third-party course material provided. The amount of the course materials fee is dependent on the University's cost of the particular materials provided, and typically ranges from $13 to $75.
+</end course description for 70-391 Finance>

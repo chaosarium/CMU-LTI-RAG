@@ -1,0 +1,16 @@
+<start course metadata for 57-183 Solfege III>
+Semester: Fall 2023 (aka F23)
+Course Name: Solfege III
+Course Number: 57-183
+Department: Music
+Number of Units: 3
+Prerequisites: 57-182
+Instructors: Walter Young
+Rooms: CFA A2
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-183 Solfege III>
+
+<start course description for 57-183 Solfege III>
+Semester: Fall 2023 (aka F23)
+Course Description: Continues 57-182 Solfege II. Students are given assignments of classical music written in the treble, bass, soprano, alto, and tenor clefs. Writing consists of two-part contrapuntal dictations.
+</end course description for 57-183 Solfege III>

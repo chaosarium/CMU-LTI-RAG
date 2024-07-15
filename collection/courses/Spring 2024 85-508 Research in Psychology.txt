@@ -1,0 +1,16 @@
+<start course metadata for 85-508 Research in Psychology>
+Semester: Spring 2024 (aka S24)
+Course Name: Research in Psychology
+Course Number: 85-508
+Department: Psychology
+Number of Units: N/A
+Prerequisites: None
+Instructors: Abigail Noyce, Anna Fisher, Barbara Shinn-Cunningham, Bradford Mahon, Brian MacWhinney, Brooke Feeney, Catarina Vales, Chante Cox-Boyd, Danny Oppenheimer, David Plaut, David Rakison, Erik Thiessen, J. David Creswell, Jessica Cantlon, John Anderson, Jonathan Tsay, Kasey Creswell, Kevin Jarbo, Kody Manke-Miller, Laurie Heller, Lori Holt, Marlene Behrmann, Michael Tarr, Michael Trujillo, Phoebe Lam, Roberta Klatzky, Roberto Vargas, Sharon Carver, Timothy Verstynen, Vicki Helgeson
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 85-508 Research in Psychology>
+
+<start course description for 85-508 Research in Psychology>
+Semester: Spring 2024 (aka S24)
+Course Description: This course may include field study, applied work, or laboratory research. The student should have previous training in the basic research skills that will be used in his/her project, especially statistical methods and experimental design.  Independent Research Projects will be supervised by a faculty member and must result in a written paper. It is the students responsibility to make arrangements for independent study courses with individual faculty members. This should be done the semester before a student wishes to register for one of these courses. The course may be taken for any number of units up to 12, depending upon the amount of work to be done.
+</end course description for 85-508 Research in Psychology>

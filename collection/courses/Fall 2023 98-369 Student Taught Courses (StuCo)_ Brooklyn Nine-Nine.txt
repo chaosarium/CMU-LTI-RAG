@@ -1,0 +1,16 @@
+<start course metadata for 98-369 Student Taught Courses (StuCo): Brooklyn Nine-Nine>
+Semester: Fall 2023 (aka F23)
+Course Name: Student Taught Courses (StuCo): Brooklyn Nine-Nine
+Course Number: 98-369
+Department: StuCo (Student Led Courses)
+Number of Units: 3
+Prerequisites: None
+Instructors: Chloe Deng, Sameeksha Garg
+Rooms: PH 126A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 98-369 Student Taught Courses (StuCo): Brooklyn Nine-Nine>
+
+<start course description for 98-369 Student Taught Courses (StuCo): Brooklyn Nine-Nine>
+Semester: Fall 2023 (aka F23)
+Course Description: Brooklyn Nine-Nine is a cop comedy that first aired in 2013 and is continuing to this day. This Emmy, Golden Globe, Critics Choice, and GLAAD Media award-winning show centers around Jake Peralta and the rest of the 99th precinct of the NYPD. Part of Brooklyn Nine-Nines success is due to their skill at balancing a comedic atmosphere while also addressing and discussing current social issues. In this class, you will learn about a social issue each week and then watch an episode that addresses said social issue. Anyone is free to join the noicest StuCo at CMU - no prior knowledge is required!
+</end course description for 98-369 Student Taught Courses (StuCo): Brooklyn Nine-Nine>

@@ -1,0 +1,16 @@
+<start course metadata for 11-411 Natural Language Processing>
+Semester: Spring 2024 (aka S24)
+Course Name: Natural Language Processing
+Course Number: 11-411
+Department: Language Technologies Institute
+Number of Units: 12
+Prerequisites: 15-122
+Instructors: David Mortensen, Emma Strubell, Kemal Oflazer
+Rooms: CMB 2052; POS A35
+Locations: Doha, Qatar; Pittsburgh, Pennsylvania
+</end course metadata for 11-411 Natural Language Processing>
+
+<start course description for 11-411 Natural Language Processing>
+Semester: Spring 2024 (aka S24)
+Course Description: This course on Natural Language Processing is about a variety of ways to represent human languages (like English, French, Arabic, Turkish, Chinese, etc.) for computational purposes, and how to exploit those representations to develop systems that do useful things with text and speech data, like translation, summarization, extracting information, question answer- ing, interfacing to databases, or conversing with human agents, etc., among others. Follow- ing an overview, This course will cover some central ideas such as language models, machine learning techniques (classification, neural networks, sequence labeling, etc.) as applied to language tasks, and will also look a some applications of natural language processing. From a software engineering perspective, there will be an emphasis on rapid prototyping, especially through homework assignments and the course project.
+</end course description for 11-411 Natural Language Processing>

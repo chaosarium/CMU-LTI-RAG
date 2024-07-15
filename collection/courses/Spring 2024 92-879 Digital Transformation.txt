@@ -1,0 +1,16 @@
+<start course metadata for 92-879 Digital Transformation>
+Semester: Spring 2024 (aka S24)
+Course Name: Digital Transformation
+Course Number: 92-879
+Department: Medical Management:Sch of Pub Pol & Mgt
+Number of Units: 8
+Prerequisites: None
+Instructors: Ari Lightman, Sameer Badlani, Shannon Dean
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 92-879 Digital Transformation>
+
+<start course description for 92-879 Digital Transformation>
+Semester: Spring 2024 (aka S24)
+Course Description: N/A
+</end course description for 92-879 Digital Transformation>

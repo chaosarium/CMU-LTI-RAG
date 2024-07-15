@@ -1,0 +1,16 @@
+<start course metadata for 18-862 Control of Grid-Connected Machines & Converters>
+Semester: Fall 2023 (aka F23)
+Course Name: Control of Grid-Connected Machines & Converters
+Course Number: 18-862
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Barry Rawn
+Rooms: CMR F307; CMU REMOTE
+Locations: Kigali, Rwanda; Pittsburgh, Pennsylvania
+</end course metadata for 18-862 Control of Grid-Connected Machines & Converters>
+
+<start course description for 18-862 Control of Grid-Connected Machines & Converters>
+Semester: Fall 2023 (aka F23)
+Course Description: Electric machines are the backbone of power systems, and any production process in the world. However, if uncontrolled or uncoordinated, they cause blackouts. Converters for renewables and electric vehicles are also challenging engineers to revisit and revise electric machine analysis and control. This course offers a classically-based, yet forward looking understanding of electric machines, converters, their operation, control and applications in vehicular technology and distributed generation, as well as their effects at system level.
+</end course description for 18-862 Control of Grid-Connected Machines & Converters>

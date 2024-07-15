@@ -1,0 +1,16 @@
+<start course metadata for 33-448 Introduction to Solid State Physics>
+Semester: Spring 2024 (aka S24)
+Course Name: Introduction to Solid State Physics
+Course Number: 33-448
+Department: Physics
+Number of Units: 9
+Prerequisites: (33-234 or 33-225) and 33-341
+Instructors: Shubhayu Chatterjee
+Rooms: PH A20A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 33-448 Introduction to Solid State Physics>
+
+<start course description for 33-448 Introduction to Solid State Physics>
+Semester: Spring 2024 (aka S24)
+Course Description: This course gives a quantitative description of crystal lattices, common crystal structures obtained by adding a basis of atoms to the lattice, and the definition and properties of the reciprocal lattice. Diffraction measurements are studied as tools to quantify crystal lattices, including Bragg's law and structure factors. Diffraction from amorphous substances and liquids is also introduced. The various types of atomic bonding, e.g., Van der Waals, metallic, ionic, covalent and hydrogen are surveyed. Binding energies of some crystalline structures are calculated. Models of crystal binding are generalized to include dynamics, first for classical lattice vibrations and then for quantized lattice vibrations known as phonons. These concepts are used to calculate the heat capacities of insulating crystals, to introduce the concept of density of states, and to discuss phonon scattering. The band theory of solids is developed, starting with the free electron model of a metal and culminating with the properties of conductors and semiconductors. Magnetic phenomena such as paramagnetism and the mean field theory of ferromagnetism are covered to the extent that time permits.
+</end course description for 33-448 Introduction to Solid State Physics>

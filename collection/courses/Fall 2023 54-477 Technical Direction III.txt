@@ -1,0 +1,16 @@
+<start course metadata for 54-477 Technical Direction III>
+Semester: Fall 2023 (aka F23)
+Course Name: Technical Direction III
+Course Number: 54-477
+Department: Drama
+Number of Units: 6
+Prerequisites: 54-378
+Instructors: David Boevers
+Rooms: PCA 209
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-477 Technical Direction III>
+
+<start course description for 54-477 Technical Direction III>
+Semester: Fall 2023 (aka F23)
+Course Description: Required for all senior undergraduate Technical Direction students. This "capstone" course is the second semester of a sequence requiring application of concepts from earlier courses including Standard Scenery Construction, Production Planning,  Structural Design, Stage Machinery Design and Technical Design 1. This is a project-based course requiring weekly presentation of solutions to various "unusual" technical challenges, drawn from actual production experiences. Thorough documentation (shop drawings, budgets, build schedules, etc.) is a requirement for each project.
+</end course description for 54-477 Technical Direction III>

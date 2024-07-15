@@ -1,0 +1,16 @@
+<start course metadata for 46-752 MSPM Capstone Project>
+Semester: Fall 2023 (aka F23)
+Course Name: MSPM Capstone Project
+Course Number: 46-752
+Department: Business Administration
+Number of Units: 12
+Prerequisites: None
+Instructors: Arun Venkatadri, Brad Eiben
+Rooms: TEP 2111
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 46-752 MSPM Capstone Project>
+
+<start course description for 46-752 MSPM Capstone Project>
+Semester: Fall 2023 (aka F23)
+Course Description: The Capstone project is structured to cover many of the ongoing challenges that product managers, and the companies that employ them, face at any stage of a products lifecycle in partnership with an industry sponsor. Our MSPM graduate students work in teams (minimum 2 students). Paired with faculty mentors and their industry partners, teams produce product requirements, provide customer discovery, discover product/market fit, complete competitive research, create product marketing communications analysis, construct forecasts, generate pricing research and analysis, and other product management activities for an industry partner's existing or new products  This 15-week course runs from August to December and gives each student two educational opportunities:  1. Put into practice the theory and learning from foundational courses 2. Obtain relevant and hands-on experience working on an industry-facing project
+</end course description for 46-752 MSPM Capstone Project>

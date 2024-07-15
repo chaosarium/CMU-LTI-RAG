@@ -1,0 +1,16 @@
+<start course metadata for 45-899 Brazil Capstone>
+Semester: Spring 2024 (aka S24)
+Course Name: Brazil Capstone
+Course Number: 45-899
+Department: Business Administration
+Number of Units: 12
+Prerequisites: None
+Instructors: Oliver Hahl
+Rooms: TEP 2118
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-899 Brazil Capstone>
+
+<start course description for 45-899 Brazil Capstone>
+Semester: Spring 2024 (aka S24)
+Course Description: No course description provided.
+</end course description for 45-899 Brazil Capstone>

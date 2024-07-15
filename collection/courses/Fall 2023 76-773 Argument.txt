@@ -1,0 +1,16 @@
+<start course metadata for 76-773 Argument>
+Semester: Fall 2023 (aka F23)
+Course Name: Argument
+Course Number: 76-773
+Department: English
+Number of Units: N/A
+Prerequisites: None
+Instructors: James Wynn
+Rooms: WEH 6423
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 76-773 Argument>
+
+<start course description for 76-773 Argument>
+Semester: Fall 2023 (aka F23)
+Course Description: This course introduces the fundamentals of argumentation theory and offers guided practice in analyzing and producing arguments. Through analysis, we will learn what an argument is, how to identify one, and what the names and functions of a variety of argument features are. We will also explore the production of argument by pursuing the questions: What are my argumentative goals? How do I build a theory of my audience? What means of persuasion are available for me to achieve my goals? And how should I order the contents of my argument? To answer these questions, we will explore argument in a variety of genres including visuals, op-eds, presidential speeches, and congressional testimonies.
+</end course description for 76-773 Argument>

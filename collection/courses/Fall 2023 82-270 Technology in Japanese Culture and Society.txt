@@ -1,0 +1,16 @@
+<start course metadata for 82-270 Technology in Japanese Culture and Society>
+Semester: Fall 2023 (aka F23)
+Course Name: Technology in Japanese Culture and Society
+Course Number: 82-270
+Department: Modern Languages
+Number of Units: 9
+Prerequisites: None
+Instructors: Yasufumi Iwasaki
+Rooms: WEH 4708
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 82-270 Technology in Japanese Culture and Society>
+
+<start course description for 82-270 Technology in Japanese Culture and Society>
+Semester: Fall 2023 (aka F23)
+Course Description: This course explores various ways technology interacts with Japanese culture and society. On the one hand, technology has greatly changed Japanese culture and society, but on the other hand, the actual use of technology in Japan has been significantly influenced by Japanese culture and society. As an illustrative example, the course takes up robotic technology and examines how it has been imagined in culture (e.g., anime, manga) and implemented to resolve social issues (e.g., shrinking labor force) by Japanese people. It seeks to show how cultural and social contexts dictate the way technology has been put to use to satisfy the material and other desires of people. This course is taught in English and has no prerequisites. No previous knowledge of Japanese language is required. This course can be taken as an elective course for Japanese majors and minors.  The course starts with a vision of society as demonstrated in anime featuring robots (e.g., Astro Boy and Gigantor in the 1960s) and in the Japanese government's robot initiative, Innovation 25, for robotizing Japanese society by 2025. In this vision, people and robots will share a deep emotional bond and live together harmoniously. Then, the course discusses various topics in the vision including a family with a robot, genders of robots, laws of robotics by Asimov and Tezuka governing human-robot interactions, robot rights and human rights, "cyborg-ableism" (disabilities should be overcome by using robotic technology), and a funeral or memorial rite for inoperative robots and a "New Age" Buddhism. Finally, it speculates on the extent to which the Japanese human-robot cohabitation scenario has been realized and the extent to which the scenario remains a product of imagineering (melding science and fantasy to create believable make-believe worlds).
+</end course description for 82-270 Technology in Japanese Culture and Society>

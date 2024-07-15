@@ -1,0 +1,16 @@
+<start course metadata for 05-671 MHCI Project 1>
+Semester: Spring 2024 (aka S24)
+Course Name: MHCI Project 1
+Course Number: 05-671
+Department: Human-Computer Interaction
+Number of Units: 15
+Prerequisites: None
+Instructors: Anthony Levin-Decanini, Derek Wahila, Gin-Ding Tsai, Jessica Hammer, John Beck, Julie Saunders, Laura Vinchesi, Megan Guidi, Skip Shelly
+Rooms: 3SC 172
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 05-671 MHCI Project 1>
+
+<start course description for 05-671 MHCI Project 1>
+Semester: Spring 2024 (aka S24)
+Course Description: The MHCI Project course is an 8-month long capstone project for the Master's of HCI program and integrates everything the students have learned in their coursework into one "end-to-end" experience. Students work in interdisciplinary teams with an industry sponsor to produce a working prototype that serves as a proof of concept of a novel service or product idea. The students come from a variety of backgrounds including Computer Science, Psychology, Design, and other related programs. The industrial client defines the project area and guides its direction. In the first few months of the project (January to April), students conduct user research and brainstorm product ideas. The user research phase begins with students conducting contextual inquiries and background research to understand the nature and needs of the customer/user and tasks relevant to their problem. Based on that understanding, students go through an innovation phase producing product ideas situated to meet the identified needs. With strong sponsor input, they narrow down their ideas and select one or more to pursue further. Then, over the summer, students engage in a prototyping and user-testing phase where they produce prototypes with increasing fidelity and iteratively test them with users to improve the design. They do weekly iteration cycles, so by the end of the summer, product prototypes are well refined and adapted to user needs. The end goal is a working prototype that serves as a proof of concept of the product idea. This course is NOT open to students outside of the MHCI program.
+</end course description for 05-671 MHCI Project 1>

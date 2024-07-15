@@ -1,0 +1,16 @@
+<start course metadata for 09-303 Hooked: The Molecular Basis of Addiction>
+Semester: Fall 2023 (aka F23)
+Course Name: Hooked: The Molecular Basis of Addiction
+Course Number: 09-303
+Department: Chemistry
+Number of Units: 6
+Prerequisites: None
+Instructors: Bruce Armitage
+Rooms: SH 234
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 09-303 Hooked: The Molecular Basis of Addiction>
+
+<start course description for 09-303 Hooked: The Molecular Basis of Addiction>
+Semester: Fall 2023 (aka F23)
+Course Description: What makes us need something so much that it eclipses the most important aspects of our lives, such as family, friends, work, hobbies, health and wellness? There are many different types of addiction; this course will focus on molecular addictions, with an emphasis on those involving members of the opioid class of narcotics. The ongoing epidemic of opioid addiction, arising both from over-prescription of pain killers and recreational use of heroin, has been widely reported and continues to rise at alarming rates, ravaging our urban and rural communities. In this course, we will explore the complicated role of chemistry in this epidemic, including the good (elucidating mechanisms of action, developing clinically useful and safe opioids and non-opioids) and the bad (design and synthesis of increasingly addictive opioids). We will also discuss ethical questions faced by the pharmaceutical industry that develops, markets and sells these drugs, the medical community that prescribes them, the government agencies charged with regulating these activities and law enforcement agencies that attempt to stop the flow of drugs into and within the United States. The second half of the semester will focus on addiction to other drugs, including cocaine, marijuana, amphetamines, alcohol and nicotine. We will also discuss chemical approaches to treating addiction. Students who complete this course will emerge with a broad understanding and perspective on an issue that is of great scientific and societal importance.  The course will be organized in units that begin with a historical/societal "big picture" overview, followed by technical discussions of the underlying chemistry and biochemistry, concluding with consideration of the societal implications of addiction to each particular substance.
+</end course description for 09-303 Hooked: The Molecular Basis of Addiction>

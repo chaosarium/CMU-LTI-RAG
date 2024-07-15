@@ -1,0 +1,16 @@
+<start course metadata for 42-790 Practicum in Biomedical Engineering>
+Semester: Spring 2024 (aka S24)
+Course Name: Practicum in Biomedical Engineering
+Course Number: 42-790
+Department: Biomedical Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Patjanaporn Chalacheva
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 42-790 Practicum in Biomedical Engineering>
+
+<start course description for 42-790 Practicum in Biomedical Engineering>
+Semester: Spring 2024 (aka S24)
+Course Description: Students will work with a faculty member, local biomedically-oriented company or local clinical researcher on a technical research, development or outreach project. A faculty member affiliated with the Department of Biomedical Engineering will either serve as the advisor for an internal project or as a liaison for an external industrial/clinical project. The project will culminate in an internally-archived written report which documents the project and its results. The report will be reviewed by the faculty advisor/liaison; this review, together with feedback from the project manager, will serve as the basis for the assignment of the course grade. Pre-requisite: Students need to receive departmental approval after submitting the Application for BME Practicum Course form.  Graduate standing and consent of faculty advisor/liaison is also required. Variable units. See BME Practicum website (https://www.cmu.edu/bme/Intranet/Graduate%20Portal%20/practicum.html) for details.
+</end course description for 42-790 Practicum in Biomedical Engineering>

@@ -1,0 +1,16 @@
+<start course metadata for 16-694 MSCV Independent Study>
+Semester: Spring 2024 (aka S24)
+Course Name: MSCV Independent Study
+Course Number: 16-694
+Department: Robotics
+Number of Units: N/A
+Prerequisites: None
+Instructors: Michael Kaess
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 16-694 MSCV Independent Study>
+
+<start course description for 16-694 MSCV Independent Study>
+Semester: Spring 2024 (aka S24)
+Course Description: The MSCV independent study course is offered to structure a research plan that enables students to gain in-depth knowledge and experience in a focused area of research.
+</end course description for 16-694 MSCV Independent Study>

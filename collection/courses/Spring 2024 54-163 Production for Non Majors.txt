@@ -1,0 +1,16 @@
+<start course metadata for 54-163 Production for Non Majors>
+Semester: Spring 2024 (aka S24)
+Course Name: Production for Non Majors
+Course Number: 54-163
+Department: Drama
+Number of Units: 6
+Prerequisites: None
+Instructors: David Holcomb, Sayantee Sahoo
+Rooms: PCA 107
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-163 Production for Non Majors>
+
+<start course description for 54-163 Production for Non Majors>
+Semester: Spring 2024 (aka S24)
+Course Description: Non-major involvement in a Schools of Drama production or classroom project.
+</end course description for 54-163 Production for Non Majors>

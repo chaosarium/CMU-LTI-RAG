@@ -1,0 +1,16 @@
+<start course metadata for 45-753 Intoduction to Probability and Statistics>
+Semester: Fall 2023 (aka F23)
+Course Name: Intoduction to Probability and Statistics
+Course Number: 45-753
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Ben Moseley, Instructor TBA
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-753 Intoduction to Probability and Statistics>
+
+<start course description for 45-753 Intoduction to Probability and Statistics>
+Semester: Fall 2023 (aka F23)
+Course Description: TBA
+</end course description for 45-753 Intoduction to Probability and Statistics>

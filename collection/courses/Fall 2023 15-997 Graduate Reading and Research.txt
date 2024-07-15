@@ -1,0 +1,16 @@
+<start course metadata for 15-997 Graduate Reading and Research>
+Semester: Fall 2023 (aka F23)
+Course Name: Graduate Reading and Research
+Course Number: 15-997
+Department: Computer Science
+Number of Units: N/A
+Prerequisites: None
+Instructors: Karl Crary
+Rooms: DNM DNM
+Locations: Lisbon, Portugal; Pittsburgh, Pennsylvania
+</end course metadata for 15-997 Graduate Reading and Research>
+
+<start course description for 15-997 Graduate Reading and Research>
+Semester: Fall 2023 (aka F23)
+Course Description: This course number is used for doctoral students to register the appropriate units for research associated with work toward on or on their dissertation.
+</end course description for 15-997 Graduate Reading and Research>

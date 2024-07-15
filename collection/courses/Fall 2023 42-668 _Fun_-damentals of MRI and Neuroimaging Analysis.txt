@@ -1,0 +1,16 @@
+<start course metadata for 42-668 "Fun"-damentals of MRI and Neuroimaging Analysis>
+Semester: Fall 2023 (aka F23)
+Course Name: "Fun"-damentals of MRI and Neuroimaging Analysis
+Course Number: 42-668
+Department: Biomedical Engineering
+Number of Units: 9
+Prerequisites: None
+Instructors: Sossena Wood
+Rooms: WEH 5415
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 42-668 "Fun"-damentals of MRI and Neuroimaging Analysis>
+
+<start course description for 42-668 "Fun"-damentals of MRI and Neuroimaging Analysis>
+Semester: Fall 2023 (aka F23)
+Course Description: Neuroimaging gives us many ways to learn how the brain operates through various functions and disease states without having to perform any invasive surgery. This course will cover the methodology and analysis of structural magnetic resonance imaging (MRI) and functional MRI in humans and animals. Through lecture, discussion and analysis of sample data, students will understand the (A) history of MRI, (B) physics of MRI, (C) utilization with MRI and other devices used to interpret biological tissue, (D) how to design an fMRI experiment, and (E) analysis techniques in MRI. At the end of the course, students will have strong fundamental MRI and fMRI skillset and gain programming skills in MATLAB and learn other tools like SPM to process MRI and fMRI datasets in appropriate software packaging.
+</end course description for 42-668 "Fun"-damentals of MRI and Neuroimaging Analysis>

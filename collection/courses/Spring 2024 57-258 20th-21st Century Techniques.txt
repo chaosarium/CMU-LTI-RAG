@@ -1,0 +1,16 @@
+<start course metadata for 57-258 20th-21st Century Techniques>
+Semester: Spring 2024 (aka S24)
+Course Name: 20th-21st Century Techniques
+Course Number: 57-258
+Department: Music
+Number of Units: 6
+Prerequisites: 57-151
+Instructors: Alexander Marthaler
+Rooms: HOA 223
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-258 20th-21st Century Techniques>
+
+<start course description for 57-258 20th-21st Century Techniques>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is open to all music majors and required for sophomore composition majors. The most important techniques from Debussy to the present will be reviewed in terms of melody, harmony, and form. Tonality, serialism, and aleatoric devices will be studied. Compositional techniques of the 20th Century are put into perspective and compared with other developments in the arts. The class is conducted as an open forum in which discussions are encouraged.
+</end course description for 57-258 20th-21st Century Techniques>

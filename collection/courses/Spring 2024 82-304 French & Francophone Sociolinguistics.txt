@@ -1,0 +1,16 @@
+<start course metadata for 82-304 French & Francophone Sociolinguistics>
+Semester: Spring 2024 (aka S24)
+Course Name: French & Francophone Sociolinguistics
+Course Number: 82-304
+Department: Modern Languages
+Number of Units: 9
+Prerequisites: 82-202 or 82-204
+Instructors: Sebastien Dubreil
+Rooms: POS 343
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 82-304 French & Francophone Sociolinguistics>
+
+<start course description for 82-304 French & Francophone Sociolinguistics>
+Semester: Spring 2024 (aka S24)
+Course Description: This course examines the French language in relation to the social and cultural lives of the people who use it across the French-speaking world. Students will explore the links between the French language of all francophones, its use, and the expression of national, cultural, community, and individual identities through the study of diverse texts and data sources, including policy/legal documents, films, music, newscasts, digitized corpuses of spoken and written French, and computer/technology-mediated communication. Through readings, discussions, hands-on activities, and project work, students will 1) develop content knowledge with an emphasis on language ideologies, policy, and planning; language contact and multilingualism; and language variation and change; and 2) develop linguistic skills in French with specific focus on advanced spoken and written expression. This course is repeatable with new topics.
+</end course description for 82-304 French & Francophone Sociolinguistics>

@@ -1,0 +1,16 @@
+<start course metadata for 24-354 Mechatronics Applications in Mechanical Engineering>
+Semester: Fall 2023 (aka F23)
+Course Name: Mechatronics Applications in Mechanical Engineering
+Course Number: 24-354
+Department: Mechanical Engineering
+Number of Units: 9
+Prerequisites: 24-352
+Instructors: Vickie Webster-Wood
+Rooms: SH 236
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-354 Mechatronics Applications in Mechanical Engineering>
+
+<start course description for 24-354 Mechatronics Applications in Mechanical Engineering>
+Semester: Fall 2023 (aka F23)
+Course Description: Most modern products contain elements of sensing, actuation, and control.  This course builds on concepts from Dynamic Systems and Control to design simple mechatronic systems.  Topics include modeling and selection of sensors and actuators, measurement systems, digital signal processing, microcontroller architectures, and the basics of state space control methods; these topics are taught in the context of integration with mechanical systems.  This course includes a substantial project component in which students design, build, and test a mechatronic system through a series of subsystem prototypes and systems integration.
+</end course description for 24-354 Mechatronics Applications in Mechanical Engineering>

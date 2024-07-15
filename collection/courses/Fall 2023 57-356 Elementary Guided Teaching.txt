@@ -1,0 +1,16 @@
+<start course metadata for 57-356 Elementary Guided Teaching>
+Semester: Fall 2023 (aka F23)
+Course Name: Elementary Guided Teaching
+Course Number: 57-356
+Department: Music
+Number of Units: 3
+Prerequisites: None
+Instructors: Jane Wall
+Rooms: HOA 224
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-356 Elementary Guided Teaching>
+
+<start course description for 57-356 Elementary Guided Teaching>
+Semester: Fall 2023 (aka F23)
+Course Description: This is the second level of field experience in the public schools.  This course provides for observation and closely supervised teaching experiences with elementary age children in a school setting.
+</end course description for 57-356 Elementary Guided Teaching>

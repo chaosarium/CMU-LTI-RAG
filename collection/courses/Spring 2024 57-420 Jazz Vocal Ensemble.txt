@@ -1,0 +1,16 @@
+<start course metadata for 57-420 Jazz Vocal Ensemble>
+Semester: Spring 2024 (aka S24)
+Course Name: Jazz Vocal Ensemble
+Course Number: 57-420
+Department: Music
+Number of Units: 3
+Prerequisites: 57-420
+Instructors: Elizabeth Lawrence
+Rooms: CFA A2
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-420 Jazz Vocal Ensemble>
+
+<start course description for 57-420 Jazz Vocal Ensemble>
+Semester: Spring 2024 (aka S24)
+Course Description: A highly selective group of mixed voices who perform contemporary jazz and pop vocal arrangements.  Open to all CMU students.  Audition required.
+</end course description for 57-420 Jazz Vocal Ensemble>

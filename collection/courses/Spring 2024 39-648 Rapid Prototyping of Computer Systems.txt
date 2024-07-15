@@ -1,0 +1,16 @@
+<start course metadata for 39-648 Rapid Prototyping of Computer Systems>
+Semester: Spring 2024 (aka S24)
+Course Name: Rapid Prototyping of Computer Systems
+Course Number: 39-648
+Department: CIT Interdisciplinary
+Number of Units: 12
+Prerequisites: None
+Instructors: Asim Smailagic, Nikolas Martelaro
+Rooms: DH A302
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 39-648 Rapid Prototyping of Computer Systems>
+
+<start course description for 39-648 Rapid Prototyping of Computer Systems>
+Semester: Spring 2024 (aka S24)
+Course Description: This course deals with rapid prototyping, manufacture, and applications of a new generation of wearable computers, with head-mounted display. The design of wearable computers is a multidisciplinary process including: Electronic design, mechanical design, software development, and human-computer interaction. Two classes of wearable computers will be further developed: embedded, custom designed VuMan series, and general purpose Navigator series. Electronic design includes the custom designed computer board, electronic interfacing, and power supply. Industrial designers and mechanical engineers team to design and manufacture with in-house facilities a variety of conformable/lightweight housings. A software development environment and user interface builders support software and application development. Current applications include: Global Position Sensing, Hypertext documents, speech recognition, wireless communications, and digital imaging.
+</end course description for 39-648 Rapid Prototyping of Computer Systems>

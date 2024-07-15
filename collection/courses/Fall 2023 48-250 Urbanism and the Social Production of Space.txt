@@ -1,0 +1,16 @@
+<start course metadata for 48-250 Urbanism and the Social Production of Space>
+Semester: Fall 2023 (aka F23)
+Course Name: Urbanism and the Social Production of Space
+Course Number: 48-250
+Department: Architecture
+Number of Units: 9
+Prerequisites: None
+Instructors: Jongwan Kwon
+Rooms: MM 303
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-250 Urbanism and the Social Production of Space>
+
+<start course description for 48-250 Urbanism and the Social Production of Space>
+Semester: Fall 2023 (aka F23)
+Course Description: Formerly titled "Case Studies in Architecture and Cities" (CSE STD ARC CIT).
+</end course description for 48-250 Urbanism and the Social Production of Space>

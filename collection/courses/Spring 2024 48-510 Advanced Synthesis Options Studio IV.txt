@@ -1,0 +1,16 @@
+<start course metadata for 48-510 Advanced Synthesis Options Studio IV>
+Semester: Spring 2024 (aka S24)
+Course Name: Advanced Synthesis Options Studio IV
+Course Number: 48-510
+Department: Architecture
+Number of Units: 18
+Prerequisites: 48-410 or 48-400
+Instructors: Mary-Lou Arscott
+Rooms: MM 103
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-510 Advanced Synthesis Options Studio IV>
+
+<start course description for 48-510 Advanced Synthesis Options Studio IV>
+Semester: Spring 2024 (aka S24)
+Course Description: The vertically-integrated advanced studios encourage interdisciplinary collaboration from arts, technology, research and design. They range from large scale urban and ecological projects, to detailed investigations of materials, and fabrication strategies.
+</end course description for 48-510 Advanced Synthesis Options Studio IV>

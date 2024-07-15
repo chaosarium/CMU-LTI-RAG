@@ -1,0 +1,16 @@
+<start course metadata for 67-404 Blockchain Applications>
+Semester: Fall 2023 (aka F23)
+Course Name: Blockchain Applications
+Course Number: 67-404
+Department: Information Systems Program
+Number of Units: 9
+Prerequisites: None
+Instructors: MOHAMMAD AAZAM
+Rooms: CMB 2035
+Locations: Doha, Qatar
+</end course metadata for 67-404 Blockchain Applications>
+
+<start course description for 67-404 Blockchain Applications>
+Semester: Fall 2023 (aka F23)
+Course Description: In this course, we will dig into the blockchain technology. We will learn from the basic, single-purpose blockchain (such as for Bitcoin) to general purpose blockchain (which includes a range of use-cases). The course will cover a broad spectrum of blockchain technology, different consensus algorithms, its various real-world use-cases - with an eye on developing our own blockchain. We will also understand various challenges with this technology, and a case-study that covers implementation in Python. This would be an interactive course and the students are expected to share ideas and their thoughts.
+</end course description for 67-404 Blockchain Applications>

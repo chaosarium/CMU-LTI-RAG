@@ -1,0 +1,16 @@
+<start course metadata for 16-785 Integrated Intelligence in Robotics: Vision Language Planning>
+Semester: Spring 2024 (aka S24)
+Course Name: Integrated Intelligence in Robotics: Vision Language Planning
+Course Number: 16-785
+Department: Robotics
+Number of Units: 12
+Prerequisites: None
+Instructors: Hyaejin Oh
+Rooms: NSH 3002
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 16-785 Integrated Intelligence in Robotics: Vision Language Planning>
+
+<start course description for 16-785 Integrated Intelligence in Robotics: Vision Language Planning>
+Semester: Spring 2024 (aka S24)
+Course Description: This is a project-oriented course that covers interdisciplinary topics on cognitive intelligence in robotic systems. Cognitive abilities constitute high-level, humanlike intelligence that exhibits reasoning or problem-solving skills. Such abilities as semantic perception, use of language, and task planning can be built on top of low-level robot autonomy. The topics covered generally bridge across multiple technical areas, for example, vision-language intersection and language-action/plan grounding.  The project theme in Spring 2023 is "movie making" that presents various robotics and machine learning challenges ranging from content generation such as scenario generation or scene/video synthesis/editing to robotics automation such as autonomous camera control or autonomous stop-motion control.  This course is composed of 50% lectures and 50% seminar classes. The course objectives will also put a special emphasis on learning research skills, e.g., problem formulation, literature review, ideation, evaluation planning, results analysis, and hypothesis verification. The course is discussion intensive, and thus attendance is required.
+</end course description for 16-785 Integrated Intelligence in Robotics: Vision Language Planning>

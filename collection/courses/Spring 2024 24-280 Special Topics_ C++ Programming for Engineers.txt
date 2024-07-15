@@ -1,0 +1,16 @@
+<start course metadata for 24-280 Special Topics: C++ Programming for Engineers>
+Semester: Spring 2024 (aka S24)
+Course Name: Special Topics: C++ Programming for Engineers
+Course Number: 24-280
+Department: Mechanical Engineering
+Number of Units: 9
+Prerequisites: 15-112 or 15-110
+Instructors: Nestor Gomez
+Rooms: PH A18C
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-280 Special Topics: C++ Programming for Engineers>
+
+<start course description for 24-280 Special Topics: C++ Programming for Engineers>
+Semester: Spring 2024 (aka S24)
+Course Description: Using the C++ programming language as a platform, this course serves as an intermediate-level programming course with a strong emphasis on software requirements for engineering applications. Students will refine and enhance their coding skills while applying their mathematical, analytical and design backgrounds. Topics covered include data structures, algorithm design, numerical computation, modular programming, data modeling, interactive graphics, object-orientation, and user interfaces, all in an engineering-specific domain.
+</end course description for 24-280 Special Topics: C++ Programming for Engineers>

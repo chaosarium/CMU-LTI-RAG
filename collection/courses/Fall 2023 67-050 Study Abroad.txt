@@ -1,0 +1,16 @@
+<start course metadata for 67-050 Study Abroad>
+Semester: Fall 2023 (aka F23)
+Course Name: Study Abroad
+Course Number: 67-050
+Department: Information Systems Program
+Number of Units: 0
+Prerequisites: None
+Instructors: Instructor TBA
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 67-050 Study Abroad>
+
+<start course description for 67-050 Study Abroad>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is for Information Systems study abroad. This is available by special permission.
+</end course description for 67-050 Study Abroad>

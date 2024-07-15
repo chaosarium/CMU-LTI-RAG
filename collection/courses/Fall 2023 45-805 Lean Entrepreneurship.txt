@@ -1,0 +1,16 @@
+<start course metadata for 45-805 Lean Entrepreneurship>
+Semester: Fall 2023 (aka F23)
+Course Name: Lean Entrepreneurship
+Course Number: 45-805
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Stephen Bollinger, William Kaigler
+Rooms: TEP 2111
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-805 Lean Entrepreneurship>
+
+<start course description for 45-805 Lean Entrepreneurship>
+Semester: Fall 2023 (aka F23)
+Course Description: Lean Entrepreneurship (45805) is one of two introductory entrepreneurship course offered to Tepper School of Business students and to graduate students from other CMU schools and colleges, as places are available. [The other introductory course is Entrepreneurial Alternatives (45806) ¿ this course targets entrepreneurial opportunities that include acquisition of businesses, family enterprises, franchises, social ventures and other means by which entrepreneurial principles may be applied].  Each of these two courses serves as a standalone as an introduction to entrepreneurship, and the courses also provide a background for those seeking an entrepreneurship concentration or an in-depth Track immersion.  45805 emphasizes developing an understanding of entrepreneurial thought, mindset, and action, and then progresses thru idea generation, and screening for patterns to predict success, and which underlie entrepreneurial decision making for enterprise creation and growth. The focus is on identification of recognizing the difference between an idea and an opportunity first. Then we progress on how to develop a competitive advantage and a sustainable business model that creates, captures, and delivers value to the market.  High-growth ventures include tech-based ventures, small and medium enterprises (SMEs) with high growth potential, typically ranging from 20% to 50% annually (not ¿lifestyle¿ ventures). The course also incorporates some fundamental aspects of building a team and financing the opportunity, whether it is a technology-based, venture capital financed opportunity or other ventures more suitable for alternative financing vehicles.  These latter two topics are included in more detail in subsequent courses.
+</end course description for 45-805 Lean Entrepreneurship>

@@ -1,0 +1,16 @@
+<start course metadata for 66-221 Topics of Law: Introduction to Intellectual Property Law>
+Semester: Fall 2023 (aka F23)
+Course Name: Topics of Law: Introduction to Intellectual Property Law
+Course Number: 66-221
+Department: Dietrich College Interdisciplinary
+Number of Units: 9
+Prerequisites: None
+Instructors: John Thomas, Samir Patel
+Rooms: CMU REMOTE
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 66-221 Topics of Law: Introduction to Intellectual Property Law>
+
+<start course description for 66-221 Topics of Law: Introduction to Intellectual Property Law>
+Semester: Fall 2023 (aka F23)
+Course Description: This course provides students with an overview of patent, trademark, copyright, and trade secret laws.  Goals for the course include identifying intellectual property (IP) rights and understanding how to take the necessary steps to protect and enforce those rights.  Many recent developments in IP law will also be covered.
+</end course description for 66-221 Topics of Law: Introduction to Intellectual Property Law>

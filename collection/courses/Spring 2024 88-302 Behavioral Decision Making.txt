@@ -1,0 +1,16 @@
+<start course metadata for 88-302 Behavioral Decision Making>
+Semester: Spring 2024 (aka S24)
+Course Name: Behavioral Decision Making
+Course Number: 88-302
+Department: Social & Decision Sciences
+Number of Units: 9
+Prerequisites: (36-200 or 36-201 or 36-207 or 36-211 or 70-207 or 36-220 or 36-225 or 36-247 or 36-217) and (88-120)
+Instructors: Erin Carbone
+Rooms: GHC 4211
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 88-302 Behavioral Decision Making>
+
+<start course description for 88-302 Behavioral Decision Making>
+Semester: Spring 2024 (aka S24)
+Course Description: Behavioral decision making is the study of how people make decisions, in terms that can eventually help them to make better decisions.  It draws together research from psychology, economics, political science, and management, among other fields.  It has applications that range from managing potentially hazardous technologies, to involving patients more fully in the choice of medical procedures, to the design of computer-interactive systems.  The course covers behavioral theories of probabilistic inference, intuitive prediction, preference, and decision making.  Topics include heuristics and biases in inference and prediction, risk perceptions and attitudes, strategies for combining information from different sources and dealing with conflicting objectives, and the roles of group and emotional processes in decision making.  The course emphasizes the mutually reinforcing relationship between theory and application.
+</end course description for 88-302 Behavioral Decision Making>

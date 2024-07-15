@@ -1,0 +1,16 @@
+<start course metadata for 47-896 Seminar in Meso OB>
+Semester: Fall 2023 (aka F23)
+Course Name: Seminar in Meso OB
+Course Number: 47-896
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Brandy Aven
+Rooms: TEP 5219
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 47-896 Seminar in Meso OB>
+
+<start course description for 47-896 Seminar in Meso OB>
+Semester: Fall 2023 (aka F23)
+Course Description: As organizational environments have become more dynamic and unpredictable, many organizations have responded by flattening their structures and deploying teams as a means of increasing flexibility, responsiveness, information gathering and processing capabilities. Traditional work in the area has tended to investigate group dynamics alone, but more contemporary work often investigates group dynamics as influenced by both individual and organizational factors, thus the "meso" (i.e., between the individual "micro" and organizational "macro" levels) flavor of this course.   The purpose of this Ph.D. seminar is to provide the means for you to develop a solid understanding of current issues and debates in the field related to meso-level phenomena. The course will also give you the opportunity to practice crafting your own addition to the field via a research proposal. We will focus mainly on current topics in "meso" level group and team dynamics research. Readings are drawn mainly from applied psychology and management journals.
+</end course description for 47-896 Seminar in Meso OB>

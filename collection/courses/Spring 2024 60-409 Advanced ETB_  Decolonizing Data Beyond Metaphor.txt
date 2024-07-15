@@ -1,0 +1,16 @@
+<start course metadata for 60-409 Advanced ETB:  Decolonizing Data Beyond Metaphor>
+Semester: Spring 2024 (aka S24)
+Course Name: Advanced ETB:  Decolonizing Data Beyond Metaphor
+Course Number: 60-409
+Department: Art
+Number of Units: 10
+Prerequisites: 60-110
+Instructors: Allahyari Morehshin
+Rooms: CMU REMOTE
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 60-409 Advanced ETB:  Decolonizing Data Beyond Metaphor>
+
+<start course description for 60-409 Advanced ETB:  Decolonizing Data Beyond Metaphor>
+Semester: Spring 2024 (aka S24)
+Course Description: In this studio art course combining theory and practice, we will use a non-Western and anti-colonial lens to critically examine and challenge the traditional structures of archives and data collection. We discuss topics in relation to data ownership, information access, digital colonialism, AI libraries, cultural heritage, and alternative radical modes of knowledge production. What do we really mean when we say decolonize? Who should have access to a particular story, digital dataset, or technological legacy? How can we go beyond decolonization as a theory or metaphor and arrive at a tangible practice of dismantling dominant power structures? Students engage in hands-on creative projects that challenge traditional archival practices and produce alternative narratives using moving image based mediums. In addition, we will read and discuss the words and works of thinkers, artists, and designers engaged in such questions, with a major focus on women, BIPOC, non-Western, and queer communities.
+</end course description for 60-409 Advanced ETB:  Decolonizing Data Beyond Metaphor>

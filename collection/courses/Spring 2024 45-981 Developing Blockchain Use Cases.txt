@@ -1,0 +1,16 @@
+<start course metadata for 45-981 Developing Blockchain Use Cases>
+Semester: Spring 2024 (aka S24)
+Course Name: Developing Blockchain Use Cases
+Course Number: 45-981
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Ariel Zetlin-Jones, Runting Shi
+Rooms: TEP 3801
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-981 Developing Blockchain Use Cases>
+
+<start course description for 45-981 Developing Blockchain Use Cases>
+Semester: Spring 2024 (aka S24)
+Course Description: Blockchains, or distributed ledger and consensus technologies, hold tremendous promise for improving markets and organically handling private, secure data. As CMU develops its own blockchain and token---CMU Coin---a central concern is to determine the set of applications that such technology would be most useful for. This course is designed for students to propose and, potentially, develop applications or use cases for a campus blockchain.   The course begins with a brief introduction to blockchain using Bitcoin as an example of a blockchain protocol. We will examine the market failure Bitcoin was intended to resolve as well as the role of cryptography and distributed systems in enabling this new technology to create societal value. The course will go on to discuss the boundaries of the role of cryptography in blockchain. Next, we will use these tools to evaluate existing, real-world blockchain use cases with an eye towards developing our own applications of these emerging technologies. Along the way, we will learn practical development skills in distributed ledger technologies to understand blockchain programming and application development. Finally, students will propose their own blockchain use cases for CMU's own proprietary blockchain.
+</end course description for 45-981 Developing Blockchain Use Cases>

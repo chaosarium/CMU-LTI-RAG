@@ -1,0 +1,16 @@
+<start course metadata for 27-201 Structure of Materials>
+Semester: Fall 2023 (aka F23)
+Course Name: Structure of Materials
+Course Number: 27-201
+Department: Materials Science & Engineering
+Number of Units: 9
+Prerequisites: 21-122
+Instructors: Vincent Sokalski
+Rooms: WEH 5409
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 27-201 Structure of Materials>
+
+<start course description for 27-201 Structure of Materials>
+Semester: Fall 2023 (aka F23)
+Course Description: This course covers the fundamentals of crystallography and diffraction. Topics covered include: the periodic table of the elements, bonding in different classes of materials, Bravais lattices, unit cells, directions and planes, crystal geometry computations, direct and reciprocal space, symmetry operations, point and space groups, nature of x-rays, scattering in periodic solids, Bragg's law, the structure factor, and the interpretation of experimental diffraction patterns. 24 crystal structure types of importance to various branches of materials science and engineering will be introduced. Amorphous materials, composites and polymers are also introduced. This course includes both lectures and laboratory exercises.
+</end course description for 27-201 Structure of Materials>

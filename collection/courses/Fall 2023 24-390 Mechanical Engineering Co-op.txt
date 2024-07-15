@@ -1,0 +1,16 @@
+<start course metadata for 24-390 Mechanical Engineering Co-op>
+Semester: Fall 2023 (aka F23)
+Course Name: Mechanical Engineering Co-op
+Course Number: 24-390
+Department: Mechanical Engineering
+Number of Units: N/A
+Prerequisites: None
+Instructors: Chris Hertz
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-390 Mechanical Engineering Co-op>
+
+<start course description for 24-390 Mechanical Engineering Co-op>
+Semester: Fall 2023 (aka F23)
+Course Description: The Department of Mechanical Engineering at Carnegie Mellon considers practical learning opportunities important educational options for its undergraduate students.  One such option is cooperative education, which provides a student with an extended work experience with a company or government institution.    To participate, students must possess at least junior status and have an overall grade point average of 3.0 or above.  Students must complete a Co-Op Approval Form and submit it for approval.  If the application is approved, the course will be added to the student's schedule and the student will be assessed tuition for 0 units for each semester that the student participates. All co-ops must be approximately 5-8 months in uninterrupted length. Upon completion of the co-op experience, students must submit a 1-2 page report of their work experience, and a 1-2 page evaluation from the company supervisor to the ME Undergraduate Education Committee.  If the reports are approved, a "P" grade will be assigned.  International students should contact their academic advisor for additional information.   Prerequisite:  Special permission required
+</end course description for 24-390 Mechanical Engineering Co-op>

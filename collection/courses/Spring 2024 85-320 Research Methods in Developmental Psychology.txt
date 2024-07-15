@@ -1,0 +1,16 @@
+<start course metadata for 85-320 Research Methods in Developmental Psychology>
+Semester: Spring 2024 (aka S24)
+Course Name: Research Methods in Developmental Psychology
+Course Number: 85-320
+Department: Psychology
+Number of Units: 9
+Prerequisites: (85-309 and 85-221) or (36-309 and 85-221)
+Instructors: Catarina Vales
+Rooms: BH 336A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 85-320 Research Methods in Developmental Psychology>
+
+<start course description for 85-320 Research Methods in Developmental Psychology>
+Semester: Spring 2024 (aka S24)
+Course Description: This is a laboratory course, in which the student will have direct experience working with children, as well as writing research reports and designing and critiquing research in child development. The purpose of the course is to develop research expertise that will assist the student both in carrying out research and in evaluating the research of others. Special emphasis will be given to the unique methodological problems associated with the study of development.  Students must be sure they are also available to attend the Children's School during specific blocks in addition to the class meeting times.  Either MW 8:30-10:30am, TR 8:30-10:30am, MW 12:30-2:15pm or MW 12:30-2:15pm.
+</end course description for 85-320 Research Methods in Developmental Psychology>

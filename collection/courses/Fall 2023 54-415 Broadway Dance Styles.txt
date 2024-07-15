@@ -1,0 +1,16 @@
+<start course metadata for 54-415 Broadway Dance Styles>
+Semester: Fall 2023 (aka F23)
+Course Name: Broadway Dance Styles
+Course Number: 54-415
+Department: Drama
+Number of Units: 5
+Prerequisites: 54-319
+Instructors: Tome' Cousin
+Rooms: PCA 306
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-415 Broadway Dance Styles>
+
+<start course description for 54-415 Broadway Dance Styles>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is designed to provide the student with a practical and historical knowledge of the dance repertoire in American Musical Theater using the original choreography from prominent Broadway choreographers.  Course closed: Only for Music Theatre majors in Drama. Prerequisite: Permission of instructor
+</end course description for 54-415 Broadway Dance Styles>

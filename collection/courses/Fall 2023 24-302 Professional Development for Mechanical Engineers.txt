@@ -1,0 +1,16 @@
+<start course metadata for 24-302 Professional Development for Mechanical Engineers>
+Semester: Fall 2023 (aka F23)
+Course Name: Professional Development for Mechanical Engineers
+Course Number: 24-302
+Department: Mechanical Engineering
+Number of Units: 2
+Prerequisites: None
+Instructors: Joanna Wolfe
+Rooms: POS 151
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-302 Professional Development for Mechanical Engineers>
+
+<start course description for 24-302 Professional Development for Mechanical Engineers>
+Semester: Fall 2023 (aka F23)
+Course Description: This course prepares students to communicate verbally as an engineer. Students will practice and receive feedback on their oral communication in a range of contexts, including formal presentations, elevator pitches, job interview questions, and communicating technical concepts to non-engineers. In addition, students will be introduced to a range of professional topics, including ethical decision-making, communicating in global contexts, negotiation strategies, and strategies for overcoming implicit bias. Student grades will be based upon weekly homework assignments, formal presentations, and class participation.
+</end course description for 24-302 Professional Development for Mechanical Engineers>

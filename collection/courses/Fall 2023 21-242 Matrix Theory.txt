@@ -1,0 +1,16 @@
+<start course metadata for 21-242 Matrix Theory>
+Semester: Fall 2023 (aka F23)
+Course Name: Matrix Theory
+Course Number: 21-242
+Department: Mathematical Sciences
+Number of Units: 11
+Prerequisites: None
+Instructors: Riley Thornton
+Rooms: BH A36
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-242 Matrix Theory>
+
+<start course description for 21-242 Matrix Theory>
+Semester: Fall 2023 (aka F23)
+Course Description: A component of the honors program, 21-242 is a more demanding version of 21-241 (Matrix Algebra and Linear Transformations), of greater scope, with increased emphasis placed on rigorous proofs.    Topics to be covered:  complex numbers, real and complex vectors and matrices, rowspace and columnspace of a matrix, rank and nullity, solving linear systems by row reduction of a matrix, inverse matrices and determinants, change of basis, linear transformations, inner product of vectors, orthonormal bases and the Gram-Schmidt process, eigenvectors and eigenvalues, diagonalization of a matrix, symmetric and orthogonal matrices, hermitian and unitary matrices, quadratic forms. (Three 50 minute lectures, two 50 minute recitations)
+</end course description for 21-242 Matrix Theory>

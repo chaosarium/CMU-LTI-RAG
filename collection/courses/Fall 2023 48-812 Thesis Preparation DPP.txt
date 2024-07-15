@@ -1,0 +1,16 @@
+<start course metadata for 48-812 Thesis Preparation DPP>
+Semester: Fall 2023 (aka F23)
+Course Name: Thesis Preparation DPP
+Course Number: 48-812
+Department: Architecture
+Number of Units: N/A
+Prerequisites: None
+Instructors: Daniel Cardoso Llach, Instructor TBA, Vivian Loftness
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-812 Thesis Preparation DPP>
+
+<start course description for 48-812 Thesis Preparation DPP>
+Semester: Fall 2023 (aka F23)
+Course Description: TBA
+</end course description for 48-812 Thesis Preparation DPP>

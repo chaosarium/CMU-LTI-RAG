@@ -1,0 +1,16 @@
+<start course metadata for 45-925 AI Applications in Business>
+Semester: Spring 2024 (aka S24)
+Course Name: AI Applications in Business
+Course Number: 45-925
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Bryan Routledge
+Rooms: TEP 2110
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-925 AI Applications in Business>
+
+<start course description for 45-925 AI Applications in Business>
+Semester: Spring 2024 (aka S24)
+Course Description: New Course
+</end course description for 45-925 AI Applications in Business>

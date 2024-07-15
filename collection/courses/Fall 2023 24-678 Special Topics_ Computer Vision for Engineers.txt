@@ -1,0 +1,16 @@
+<start course metadata for 24-678 Special Topics: Computer Vision for Engineers>
+Semester: Fall 2023 (aka F23)
+Course Name: Special Topics: Computer Vision for Engineers
+Course Number: 24-678
+Department: Mechanical Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Kenji Shimada
+Rooms: POS 153
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-678 Special Topics: Computer Vision for Engineers>
+
+<start course description for 24-678 Special Topics: Computer Vision for Engineers>
+Semester: Fall 2023 (aka F23)
+Course Description: Special Topics: Computer Vision for Engineers
+</end course description for 24-678 Special Topics: Computer Vision for Engineers>

@@ -1,0 +1,16 @@
+<start course metadata for 57-517 Major Studio (Trombone)>
+Semester: Fall 2023 (aka F23)
+Course Name: Major Studio (Trombone)
+Course Number: 57-517
+Department: Music
+Number of Units: 9
+Prerequisites: None
+Instructors: Jeffrey Dee, Katherine Shields, Peter Sullivan, Rebecca Cherian
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-517 Major Studio (Trombone)>
+
+<start course description for 57-517 Major Studio (Trombone)>
+Semester: Fall 2023 (aka F23)
+Course Description: A one hour private lesson per week for all music majors.
+</end course description for 57-517 Major Studio (Trombone)>

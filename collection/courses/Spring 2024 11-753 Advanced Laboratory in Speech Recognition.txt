@@ -1,0 +1,16 @@
+<start course metadata for 11-753 Advanced Laboratory in Speech Recognition>
+Semester: Spring 2024 (aka S24)
+Course Name: Advanced Laboratory in Speech Recognition
+Course Number: 11-753
+Department: Language Technologies Institute
+Number of Units: 6
+Prerequisites: None
+Instructors: Instructor TBA
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 11-753 Advanced Laboratory in Speech Recognition>
+
+<start course description for 11-753 Advanced Laboratory in Speech Recognition>
+Semester: Spring 2024 (aka S24)
+Course Description: The technology to allow humans to communicate by speech with machines or by which machines can understand when humans communicate with each other is rapidly maturing. While the 11-751 speech course focussed on an introduction to the theoretical foundations, essential algorithms, major approaches, and strategies for current state-of-the-art systems, the 11-753 speech lab complements the education by concentrating on the experimental practice in developing speech recognition and understanding speech-based systems, and by getting hands-on experience on relevant research questions using state-of-the art tools. Possible problem sets include both core speech recognition technology, and the integration of speech-based components into multi-modal, semantic, learning, or otherwise complex systems and interfaces.
+</end course description for 11-753 Advanced Laboratory in Speech Recognition>

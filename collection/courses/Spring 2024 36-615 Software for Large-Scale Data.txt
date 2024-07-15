@@ -1,0 +1,16 @@
+<start course metadata for 36-615 Software for Large-Scale Data>
+Semester: Spring 2024 (aka S24)
+Course Name: Software for Large-Scale Data
+Course Number: 36-615
+Department: Statistics and Data Science
+Number of Units: 6
+Prerequisites: None
+Instructors: Alexander Reinhart
+Rooms: WEH 4708
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 36-615 Software for Large-Scale Data>
+
+<start course description for 36-615 Software for Large-Scale Data>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is for Master of Statistical Practice (MSP) students only.  In this course, we'll begin working with two software systems designed to conduct statistical modeling of large and complex datasets. We will introduce PyTorch as a framework for deep learning, exploring different neural network architectures and computational techniques. We will return to Apache Spark, using its machine learning library to fit various ML models to distributed datasets. All examples and assignments will be written in Python. This course is primarily for students in the Master of Statistical Practice program. Students in this course should have prior experience programming in Python (such as through 36-650), using Git, and working from the command-line shell.
+</end course description for 36-615 Software for Large-Scale Data>

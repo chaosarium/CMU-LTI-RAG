@@ -1,0 +1,16 @@
+<start course metadata for 93-872 Music Supervision>
+Semester: Fall 2023 (aka F23)
+Course Name: Music Supervision
+Course Number: 93-872
+Department: Arts & Entertainment Management
+Number of Units: 3
+Prerequisites: None
+Instructors: Bonnie Greenberg
+Rooms: 
+Locations: Los Angeles, California
+</end course metadata for 93-872 Music Supervision>
+
+<start course description for 93-872 Music Supervision>
+Semester: Fall 2023 (aka F23)
+Course Description: The course defines the role of the music supervisor, who draws on combined resources of the film and music communities to marry music and moving images. The course is intended to lead students to a better understanding and appreciation of the use of music in the filmmaking process. Lectures, assignments, presentations and discussions with guest speakers present the principles and procedures of music supervision.
+</end course description for 93-872 Music Supervision>

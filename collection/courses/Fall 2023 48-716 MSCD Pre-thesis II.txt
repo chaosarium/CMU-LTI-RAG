@@ -1,0 +1,16 @@
+<start course metadata for 48-716 MSCD Pre-thesis II>
+Semester: Fall 2023 (aka F23)
+Course Name: MSCD Pre-thesis II
+Course Number: 48-716
+Department: Architecture
+Number of Units: 6
+Prerequisites: None
+Instructors: Emek Erdolu, Vernelle Noel
+Rooms: MM 307
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-716 MSCD Pre-thesis II>
+
+<start course description for 48-716 MSCD Pre-thesis II>
+Semester: Fall 2023 (aka F23)
+Course Description: With the notion of "critical technical practice" as a touchstone, this graduate-level seminar draws from across design, media, and science and technology studies to cultivate an awareness of the discursive and political dimensions of technology in design, and to guide participants in the formulation of a graduate thesis in computational design. Through readings, discussions, written assignments, and presentations participants develop the skills to identify and refine a research question, situate it within a wider scholarly conversation  paying attention to ethical citational practices  argue for its relevance, and creatively engage with conceptual and methodological research challenges. As a final deliverable, participants produce a thesis proposal and present it to faculty and students.
+</end course description for 48-716 MSCD Pre-thesis II>

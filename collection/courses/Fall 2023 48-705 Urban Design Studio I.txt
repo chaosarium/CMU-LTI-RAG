@@ -1,0 +1,16 @@
+<start course metadata for 48-705 Urban Design Studio I>
+Semester: Fall 2023 (aka F23)
+Course Name: Urban Design Studio I
+Course Number: 48-705
+Department: Architecture
+Number of Units: 18
+Prerequisites: None
+Instructors: Christine Mondor
+Rooms: MM 312
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-705 Urban Design Studio I>
+
+<start course description for 48-705 Urban Design Studio I>
+Semester: Fall 2023 (aka F23)
+Course Description: Description to be provided by the department
+</end course description for 48-705 Urban Design Studio I>

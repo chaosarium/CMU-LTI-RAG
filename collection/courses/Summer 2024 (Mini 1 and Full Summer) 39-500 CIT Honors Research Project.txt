@@ -1,0 +1,16 @@
+<start course metadata for 39-500 CIT Honors Research Project>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: CIT Honors Research Project
+Course Number: 39-500
+Department: CIT Interdisciplinary
+Number of Units: N/A
+Prerequisites: None
+Instructors: Kurt Larsen
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 39-500 CIT Honors Research Project>
+
+<start course description for 39-500 CIT Honors Research Project>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: Juniors who have an accumulated QPA of at least 3.5 receive an invitation to participate in the program.       This course, open by invitation only, will provide the opportunity for close interaction with a faculty member through independent honors research in a number of disciplinary and interdisciplinary areas, as part of the CIT Honors Research Program. Students will work on their projects during their senior year, earning the equivalent of 18-24 units. Students are required to register for CIT Honor Research Project 39-500. To receive CIT College Honors, a student must complete at least 18 units in 39-500 on the same research topic. Students are also required to participate in the CIT poster competition at the Undergraduate Research Symposium, "Meeting of the Minds," a university-wide celebration of undergraduate research.
+</end course description for 39-500 CIT Honors Research Project>

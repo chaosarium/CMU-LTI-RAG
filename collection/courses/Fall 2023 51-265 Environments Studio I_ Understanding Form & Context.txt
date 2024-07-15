@@ -1,0 +1,16 @@
+<start course metadata for 51-265 Environments Studio I: Understanding Form & Context>
+Semester: Fall 2023 (aka F23)
+Course Name: Environments Studio I: Understanding Form & Context
+Course Number: 51-265
+Department: Design
+Number of Units: 4
+Prerequisites: 51-102
+Instructors: Haeyoung Kim
+Rooms: MM 211
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-265 Environments Studio I: Understanding Form & Context>
+
+<start course description for 51-265 Environments Studio I: Understanding Form & Context>
+Semester: Fall 2023 (aka F23)
+Course Description: This mini course will teach you the elemental strategies for designing meaningful, narrative-driven spaces and experiences. Through projects looking at the world as it is today and speculatively 10 years in the future, you will develop your ability to think through the relationship between time, space, scale, materials, and technology. You will use what you learn in 51-267 (Prototyping Lab 1: Environments) to develop both analog and digital high-fidelity artifacts that communicate the interactive experiences you have designed.  This course is a requirement for Design students who wish to study Environments during their time at SoD.
+</end course description for 51-265 Environments Studio I: Understanding Form & Context>

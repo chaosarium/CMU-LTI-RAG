@@ -1,0 +1,16 @@
+<start course metadata for 14-832 Cyber Forensics Capstone>
+Semester: Fall 2023 (aka F23)
+Course Name: Cyber Forensics Capstone
+Course Number: 14-832
+Department: Information Networking Institute
+Number of Units: 12
+Prerequisites: 14-761 and 14-822 and 14-823
+Instructors: Nektarios Leontiadis
+Rooms: CMU REMOTE
+Locations: Pittsburgh, Pennsylvania; San Jose, California
+</end course metadata for 14-832 Cyber Forensics Capstone>
+
+<start course description for 14-832 Cyber Forensics Capstone>
+Semester: Fall 2023 (aka F23)
+Course Description: The CyFIR concentration capstone course challenges students by placing them in the middle of a realistic hands-on investigation taking place immediately after a crime. Over the course of the semester students will work together in groups to take the case through every phase of an investigation, from active incident response to post mortem investigation, and even to prosecution. Students will do their best to represent their client's interests, both by finding evidence to exonerate their client, as well as to implicate the guilty parties. Instructors will teach students to utilize advanced event correlation and reconstruction techniques as well as emerging data collection and analysis approaches to best convey their findings to different types of target audiences. Using both host-based and network-based forensics techniques, students will learn to effectively synthesize data, utilize problem solving skills to draw investigative conclusions, and document their analysis. Additionally, students will be required to follow sound forensic methodologies to protect and prepare digital evidence throughout their mock investigations. Furthermore, students will learn to effectively summarize and communicate their forensic analysis through technical report writing and communication best practices. Upon completion of this course, students will be prepared to participate in and guide enterprise cyber security, security incident response, and forensic operations for large organizations.
+</end course description for 14-832 Cyber Forensics Capstone>

@@ -1,0 +1,16 @@
+<start course metadata for 27-202 Defects in Materials>
+Semester: Spring 2024 (aka S24)
+Course Name: Defects in Materials
+Course Number: 27-202
+Department: Materials Science & Engineering
+Number of Units: 9
+Prerequisites: 27-201 or 27-215 or 21-122 or 21-120
+Instructors: Paul Salvador
+Rooms: HH B103
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 27-202 Defects in Materials>
+
+<start course description for 27-202 Defects in Materials>
+Semester: Spring 2024 (aka S24)
+Course Description: Defects have a fundamental influence on the properties of materials, including deformation, electrical, magnetic, optical, and chemical properties, as well as the rates of diffusion in solids. As such, by the controlling the population of intrinsic and extrinsic defects, one can tailor the properties of materials towards specific engineering applications. The objective of this course, which includes classroom and laboratory sessions, is to define approaches to quantifying the populations and properties of defects in crystals. The course will be divided into three sections: point defects, dislocations, and planar defects. The formation of point defects and their influence on diffusion, electrical, and magnetic properties will be considered. The properties and characteristics of dislocations and dislocation reactions will be presented, with a focus on the role of dislocations in deformation. The crystallography and energetics of planar defects and interfaces will also be described, with a focus on microstructural evolution at high temperatures. Time permitting, volume defects or other special topics are also discussed.
+</end course description for 27-202 Defects in Materials>

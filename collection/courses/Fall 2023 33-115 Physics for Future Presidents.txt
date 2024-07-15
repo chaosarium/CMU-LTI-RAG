@@ -1,0 +1,16 @@
+<start course metadata for 33-115 Physics for Future Presidents>
+Semester: Fall 2023 (aka F23)
+Course Name: Physics for Future Presidents
+Course Number: 33-115
+Department: Physics
+Number of Units: 9
+Prerequisites: None
+Instructors: Mohamed Zayed
+Rooms: CMB 1190
+Locations: Doha, Qatar
+</end course metadata for 33-115 Physics for Future Presidents>
+
+<start course description for 33-115 Physics for Future Presidents>
+Semester: Fall 2023 (aka F23)
+Course Description: Countless topics of social and political importance are intimately related to science in general and physics in particular. Examples include energy production, global warming, radioactivity, terrorism, and space travel. This course aims to provide key bits of knowledge based on which such issues can be discussed in a meaningful way, i.e., on the level of arguments and not just vague beliefs. We will cover an unusually wide range of topics, including energy, heat, gravity, atoms, radioactivity, chain reactions, electricity, magnetism, waves, light, weather, and climate. The course is open for all students at CMU.
+</end course description for 33-115 Physics for Future Presidents>

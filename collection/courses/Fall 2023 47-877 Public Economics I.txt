@@ -1,0 +1,16 @@
+<start course metadata for 47-877 Public Economics I>
+Semester: Fall 2023 (aka F23)
+Course Name: Public Economics I
+Course Number: 47-877
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Ali Shourideh
+Rooms: TEP 5222
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 47-877 Public Economics I>
+
+<start course description for 47-877 Public Economics I>
+Semester: Fall 2023 (aka F23)
+Course Description: This is an advanced graduate course in public economics with a focus on the design of government policies and inequality. We will start with models of optimal taxation and shed light on how the government should design its various tax instruments: taxes on consumption, income, wealth, etc. We will then focus on sources of inequality: gender and racial inequality as well as their effect of economic inequality. We will discuss models of race and gender discrimination and the policies that can be implemented to address such issues. Students are required to participate in class discussions, and develop their own research ideas by the end of the class.
+</end course description for 47-877 Public Economics I>

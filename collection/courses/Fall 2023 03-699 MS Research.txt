@@ -1,0 +1,16 @@
+<start course metadata for 03-699 MS Research>
+Semester: Fall 2023 (aka F23)
+Course Name: MS Research
+Course Number: 03-699
+Department: Biological Sciences
+Number of Units: N/A
+Prerequisites: None
+Instructors: Daniel Brasier
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 03-699 MS Research>
+
+<start course description for 03-699 MS Research>
+Semester: Fall 2023 (aka F23)
+Course Description: A student enrolled in this course conducts an independent investigation on a project in a faculty advisor's lab. The project is selected from a major area of research study with the advice and approval of the faculty advisor. Students who are writing an honors thesis should enroll in 03-700 instead.
+</end course description for 03-699 MS Research>

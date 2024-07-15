@@ -1,0 +1,16 @@
+<start course metadata for 51-101 Studio: Survey of Design>
+Semester: Fall 2023 (aka F23)
+Course Name: Studio: Survey of Design
+Course Number: 51-101
+Department: Design
+Number of Units: 10
+Prerequisites: None
+Instructors: Kristin Hughes, Mark Baskinger
+Rooms: MM A6
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-101 Studio: Survey of Design>
+
+<start course description for 51-101 Studio: Survey of Design>
+Semester: Fall 2023 (aka F23)
+Course Description: Students will conduct activities that will help them notice design in the world, investigate how it works, and describe their thinking about design, through photography, video capture, sketching, note-taking and modeling. They will work through projects in various ways as a means of 'testing-out' and reflecting on command design approaches. This course is for undergraduate design majors only.
+</end course description for 51-101 Studio: Survey of Design>

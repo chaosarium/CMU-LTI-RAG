@@ -1,0 +1,16 @@
+<start course metadata for 42-101 Introduction to Biomedical Engineering>
+Semester: Spring 2024 (aka S24)
+Course Name: Introduction to Biomedical Engineering
+Course Number: 42-101
+Department: Biomedical Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Steven Chase
+Rooms: BH A51
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 42-101 Introduction to Biomedical Engineering>
+
+<start course description for 42-101 Introduction to Biomedical Engineering>
+Semester: Spring 2024 (aka S24)
+Course Description: This course will provide exposure to basic biology and engineering problems associated with living systems and health care delivery. Examples will be used to illustrate how basic concepts and tools of science & engineering can be brought to bear in understanding, mimicking and utilizing biological processes. The course will focus on four areas:  biotechnology, biomechanics, biomaterials and tissue engineering and biosignal and image processing and will introduce the basic life sciences and engineering concepts associated with these topics. Pre-requisite OR co-requisite:  03-121 Modern Biology.
+</end course description for 42-101 Introduction to Biomedical Engineering>

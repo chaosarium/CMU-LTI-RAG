@@ -1,0 +1,16 @@
+<start course metadata for 03-435 Cancer Biology>
+Semester: Spring 2024 (aka S24)
+Course Name: Cancer Biology
+Course Number: 03-435
+Department: Biological Sciences
+Number of Units: 9
+Prerequisites: 03-330 or 03-220 or 03-221
+Instructors: Yongxin Zhao
+Rooms: PH A22
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 03-435 Cancer Biology>
+
+<start course description for 03-435 Cancer Biology>
+Semester: Spring 2024 (aka S24)
+Course Description: Cancer affects roughly 1 in 3 people worldwide, and originates from both hereditary as well as environmental causes. Its prevalence makes it practically inescapable. Its of great relevance from both scientific and sociocultural perspectives. This course aims to examine various hallmarks of the biology of cancer while exploring novel concepts that challenge our understanding of cell biology. From the perspective of a cancer cell, we will learn about basic concepts of cell division, DNA replication, cell signaling, cell cycle control, cell metabolism, the regulation of gene expression in human cells, oncogenes, tumor suppressor genes, mutations, the process of metastasis, cancer diagnosis, cancer treatments and ethical questions surrounding treating patients, the epidemiology of cancer including prevalence and historical trends in diagnosis, as well as social impacts of a cancer diagnosis. Students will also explore the primary literature and scientific review articles to better understand research and methods of investigation into the cellular and molecular processes of tumorigenesis. This course will include interactive lectures, guest speakers, and in class discussion exercises aimed at building class participation and association, as well as confidence in public speaking about the sciences. Given the well-documented link between stress and cancer, there will also be a small component aimed at making students aware of health and wellness, such as reducing stress and anxiety.
+</end course description for 03-435 Cancer Biology>

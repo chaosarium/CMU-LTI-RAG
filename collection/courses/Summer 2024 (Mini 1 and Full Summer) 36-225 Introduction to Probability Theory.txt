@@ -1,0 +1,16 @@
+<start course metadata for 36-225 Introduction to Probability Theory>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Introduction to Probability Theory
+Course Number: 36-225
+Department: Statistics and Data Science
+Number of Units: 9
+Prerequisites: (21-112 and 21-111) or (21-120) or (21-256) or (21-259)
+Instructors: Instructor TBA
+Rooms: BH A36
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 36-225 Introduction to Probability Theory>
+
+<start course description for 36-225 Introduction to Probability Theory>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: This course is the first half of a year long course which provides an introduction to probability and mathematical statistics for students in economics, mathematics and statistics. The use of probability theory is illustrated with examples drawn from engineering, the sciences, and management. Topics include elementary probability theory, conditional probability and independence, random variables, distribution functions, joint and conditional distributions, law of large numbers, and the central limit theorem.  A grade of C or better is required in order to advance to 36-226 and 36-410.  Not open to students who have received credit for 36-217 or 36-625.
+</end course description for 36-225 Introduction to Probability Theory>

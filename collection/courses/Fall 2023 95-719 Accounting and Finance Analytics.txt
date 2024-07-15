@@ -1,0 +1,16 @@
+<start course metadata for 95-719 Accounting and Finance Analytics>
+Semester: Fall 2023 (aka F23)
+Course Name: Accounting and Finance Analytics
+Course Number: 95-719
+Department: Information Systems:Sch of IS & Mgt
+Number of Units: 6
+Prerequisites: None
+Instructors: Jillian Stephenson, William Gogolak
+Rooms: HBH 1005; HBH 1006; HBH 1202; HBH 1204; HBH 2008
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 95-719 Accounting and Finance Analytics>
+
+<start course description for 95-719 Accounting and Finance Analytics>
+Semester: Fall 2023 (aka F23)
+Course Description: The main objective of this course is to gain expertise in analyzing an organization's financial statements and related disclosures, in order to evaluate its performance. Students will learn about the key components of financial statements and then apply ratio and variance analysis to determine the financial position of a company. By extracting data and analyzing financial statements, students will improve their ability to make informed decisions about an organization's financial health. Toward the end of the course, students will also learn about capital investment decisions and discounted cash flow analysis, which can be used to support management decisions in various businesses.
+</end course description for 95-719 Accounting and Finance Analytics>

@@ -1,0 +1,16 @@
+<start course metadata for 16-991 TBA>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: TBA
+Course Number: 16-991
+Department: Robotics
+Number of Units: N/A
+Prerequisites: None
+Instructors: Instructor TBA, John Dolan, Michael Kaess
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 16-991 TBA>
+
+<start course description for 16-991 TBA>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: Summer internship for MS students in Professional Degree programs. MRSD students should register for section A; MSCV students should register for section B.
+</end course description for 16-991 TBA>

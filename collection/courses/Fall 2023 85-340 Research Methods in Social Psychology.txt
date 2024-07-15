@@ -1,0 +1,16 @@
+<start course metadata for 85-340 Research Methods in Social Psychology>
+Semester: Fall 2023 (aka F23)
+Course Name: Research Methods in Social Psychology
+Course Number: 85-340
+Department: Psychology
+Number of Units: 9
+Prerequisites: (36-309 and 85-251) or (36-309 and 85-241) or (85-309 and 85-241) or (85-309 and 85-241)
+Instructors: J. David Creswell
+Rooms: BH 340A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 85-340 Research Methods in Social Psychology>
+
+<start course description for 85-340 Research Methods in Social Psychology>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is designed to provide students with the necessary knowledge to evaluate research, make transitions between theory and the operations that test the theory, and to design and carry out original research. Topics will include the nature of proof and causal inference, manipulation of indepen-dent variables, measurement of dependent variables, questionnaire design, experimental ,and quasi-experimental, design and ethical issues involved in doing research. Survey, observational and experimental techniques as applied in both field and laboratory settings will be covered. Students will be expected to criticize completed research. They are also expected to design measures and complete their own original studies. During the course of the semester students will also be expected to design and carry out an original research project as well.
+</end course description for 85-340 Research Methods in Social Psychology>

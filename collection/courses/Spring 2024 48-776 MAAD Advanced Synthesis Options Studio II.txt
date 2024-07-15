@@ -1,0 +1,16 @@
+<start course metadata for 48-776 MAAD Advanced Synthesis Options Studio II>
+Semester: Spring 2024 (aka S24)
+Course Name: MAAD Advanced Synthesis Options Studio II
+Course Number: 48-776
+Department: Architecture
+Number of Units: 18
+Prerequisites: None
+Instructors: Jeremy Ficca
+Rooms: MM 312
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-776 MAAD Advanced Synthesis Options Studio II>
+
+<start course description for 48-776 MAAD Advanced Synthesis Options Studio II>
+Semester: Spring 2024 (aka S24)
+Course Description: The vertically-integrated advanced studios encourage interdisciplinary collaboration from arts, technology, research and design. They range from large scale urban and ecological projects, to detailed investigations of materials, and fabrication strategies.
+</end course description for 48-776 MAAD Advanced Synthesis Options Studio II>

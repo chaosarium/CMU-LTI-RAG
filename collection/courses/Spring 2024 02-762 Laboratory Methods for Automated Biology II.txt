@@ -1,0 +1,16 @@
+<start course metadata for 02-762 Laboratory Methods for Automated Biology II>
+Semester: Spring 2024 (aka S24)
+Course Name: Laboratory Methods for Automated Biology II
+Course Number: 02-762
+Department: Computational Biology
+Number of Units: 12
+Prerequisites: 02-761
+Instructors: Joshua Kangas
+Rooms: WEH 5312
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 02-762 Laboratory Methods for Automated Biology II>
+
+<start course description for 02-762 Laboratory Methods for Automated Biology II>
+Semester: Spring 2024 (aka S24)
+Course Description: This laboratory course provides a continuation and extension of experiences in 02-761. Instruction will consist of lectures and laboratory experience using multi-purpose laboratory robotics.  During weekly laboratory time, students will complete and integrate parts of two larger projects.  The first project will be focused on the execution of a molecular biology experiment requiring nucleic acid extraction, library preparation for sequencing, and quality control.  The second project will be focused on the implementation and execution of automated methods using active learning techniques to direct the learning of a predictive model for a large experimental space (such as learning the effects of many possible drugs on many possible targets).  Grading will be based on lab and project completion and quality.
+</end course description for 02-762 Laboratory Methods for Automated Biology II>

@@ -1,0 +1,16 @@
+<start course metadata for 33-444 Introduction to Nuclear and Particle Physics>
+Semester: Spring 2024 (aka S24)
+Course Name: Introduction to Nuclear and Particle Physics
+Course Number: 33-444
+Department: Physics
+Number of Units: 9
+Prerequisites: 33-234 and 33-338
+Instructors: Valentina Dutta
+Rooms: WEH 4709
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 33-444 Introduction to Nuclear and Particle Physics>
+
+<start course description for 33-444 Introduction to Nuclear and Particle Physics>
+Semester: Spring 2024 (aka S24)
+Course Description: Description of our understanding of nuclei, elementary particles, and quarks, with equal emphasis on the nuclear and particle aspects of sub-atomic matter. We discuss the physics of accelerators, and how particle interactions with matter lead to various kinds of detector instrumentation. Then we discuss methods for measuring sub-atomic structure, symmetries and conservation laws, and the electromagnetic, weak, and strong interactions. We examine the quark model of the mesons and baryons, as well as several models of the atomic nucleus.
+</end course description for 33-444 Introduction to Nuclear and Particle Physics>

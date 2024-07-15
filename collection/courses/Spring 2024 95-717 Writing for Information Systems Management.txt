@@ -1,0 +1,16 @@
+<start course metadata for 95-717 Writing for Information Systems Management>
+Semester: Spring 2024 (aka S24)
+Course Name: Writing for Information Systems Management
+Course Number: 95-717
+Department: Information Systems:Sch of IS & Mgt
+Number of Units: 6
+Prerequisites: None
+Instructors: Haylee Massaro, Rebekah Fitzsimmons
+Rooms: HBH 1004; HBH 1006; HBH 1007; HBH 2003
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 95-717 Writing for Information Systems Management>
+
+<start course description for 95-717 Writing for Information Systems Management>
+Semester: Spring 2024 (aka S24)
+Course Description: Communication in written form is an essential element of management. Writing for business-focused, industry-specific contexts differs from academic writing. Accordingly, this course focuses on teaching transferable, career-enhancing writing skills: developing essential and persuasive content, applying logic, organizing information, targeting diverse audiences with varying levels of expertise and roles, addressing feasibility, ensuring clarity, controlling tone, maintaining format norms and designing documents for readability. The course challenges students to meet readers' needs by conveying critical thinking via anticipating the perspectives of stakeholders in professional situations. Coursework emphasizes precise, concise phrasing in actionable communications. Digital tips and strategies for collaborative writing will be discussed. Writing resources and sample documents will be provided.
+</end course description for 95-717 Writing for Information Systems Management>

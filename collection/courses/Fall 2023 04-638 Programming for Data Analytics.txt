@@ -1,0 +1,16 @@
+<start course metadata for 04-638 Programming for Data Analytics>
+Semester: Fall 2023 (aka F23)
+Course Name: Programming for Data Analytics
+Course Number: 04-638
+Department: Information & Communication Technology
+Number of Units: 12
+Prerequisites: None
+Instructors: George Okeyo
+Rooms: CMR F205
+Locations: Kigali, Rwanda
+</end course metadata for 04-638 Programming for Data Analytics>
+
+<start course description for 04-638 Programming for Data Analytics>
+Semester: Fall 2023 (aka F23)
+Course Description: The course explores knowledge and programming skills necessary for solving data analytics problems.   The topics cover fundamentals of programming such as variables and primitive data types; operations, conditions, and control flow; in-built data structures; functions and modules, third party packages and installation; files and data including file input, saving, exploring, and plotting data; object orientation with classes and objects; and error and exception handling. The course also explores popular frameworks for the selected programming language. In all topics, emphasis will be put on developing good problem solving and programming habits.  The programming and problem solving will involve developing solutions to data analytics problems from problem formulation, data pre-processing; data analysis including exploratory data analysis and analytics pipelines; model development; model evaluation using relevant performance metrics; and model selection including hyperparameter tuning. Under model development, the course will cover models for supervised, unsupervised, reinforcement learning, and deep learning. The course will cover visualizations as both a means for analytics as well as communicating the analytics insights. Furthermore, the course will cover model deployment and automation of analytics processes.  Overall, the course provides students with practical skills in programming, problem-solving, analytics, and analytics communication through programming assignments and reporting.
+</end course description for 04-638 Programming for Data Analytics>

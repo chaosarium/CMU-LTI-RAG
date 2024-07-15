@@ -1,0 +1,16 @@
+<start course metadata for 11-601 Coding Boot Camp>
+Semester: Fall 2023 (aka F23)
+Course Name: Coding Boot Camp
+Course Number: 11-601
+Department: Language Technologies Institute
+Number of Units: 12
+Prerequisites: None
+Instructors: Ralf Brown
+Rooms: DH 2315
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 11-601 Coding Boot Camp>
+
+<start course description for 11-601 Coding Boot Camp>
+Semester: Fall 2023 (aka F23)
+Course Description: This course has one goal: To ingrain as deep a mastery of fundamental algorithm and coding skills as possible in the timeframe of this course. We will seek to specifically to maximize your chances of superior performance in any coding interview, improving your ability to form structured thoughts with respect to algorithmic problem solving, improve your ability to describe and plan solutions to problems, and develop further your ability to translate your thoughts into code intuitively and explain that code to others.
+</end course description for 11-601 Coding Boot Camp>

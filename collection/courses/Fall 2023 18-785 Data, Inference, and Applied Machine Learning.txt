@@ -1,0 +1,16 @@
+<start course metadata for 18-785 Data, Inference, and Applied Machine Learning>
+Semester: Fall 2023 (aka F23)
+Course Name: Data, Inference, and Applied Machine Learning
+Course Number: 18-785
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Patrick McSharry
+Rooms: CMU REMOTE; HOA 160
+Locations: Kigali, Rwanda; Pittsburgh, Pennsylvania
+</end course metadata for 18-785 Data, Inference, and Applied Machine Learning>
+
+<start course description for 18-785 Data, Inference, and Applied Machine Learning>
+Semester: Fall 2023 (aka F23)
+Course Description: This course will provide the methods and skills required to utilize data and quantitative models to automate predictive analytics and make improved decisions. From descriptive statistics to data analysis to machine learning the course will demonstrate the process of collecting, cleaning, interpreting, transforming, exploring, analyzing and modeling data with the goal of extracting information, communicating insights and supporting decision-making. The advantages and disadvantages of linear, nonlinear, parametric, nonparametric and ensemble methods will be discussed while exploring the challenges of both supervised and unsupervised learning. The importance of quantifying uncertainty, statistical hypothesis testing and communicating confidence in model results will be emphasized. The advantages of using visualization techniques to explore the data and communicate the outcomes will be highlighted throughout. Applications will include visualization, clustering, ranking, pattern recognition, anomaly detection, data mining, classification, regression, forecasting and risk analysis. Participants will obtain hands-on experience during project assignments that utilize publicly available datasets and address practical challenges.
+</end course description for 18-785 Data, Inference, and Applied Machine Learning>

@@ -1,0 +1,16 @@
+<start course metadata for 51-831 Design Center: Methodology of Visualization>
+Semester: Spring 2024 (aka S24)
+Course Name: Design Center: Methodology of Visualization
+Course Number: 51-831
+Department: Design
+Number of Units: 12
+Prerequisites: None
+Instructors: Matthew Zywica
+Rooms: MM 107
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-831 Design Center: Methodology of Visualization>
+
+<start course description for 51-831 Design Center: Methodology of Visualization>
+Semester: Spring 2024 (aka S24)
+Course Description: This course emphasizes drawing exploration through methods of sketching, notation, and rapid visualization in context.  Students will progress through a sequence of projects and exercises that apply healthy drawing practices of interpretation, expression and effect, perspective drawing, form development, and narrative.  Throughout the semester, a variety of drawing and rendering techniques will be introduced to study and communicate subject matter.  The drawing output within a project combines personal sketchbook studies with display pieces to share for critique.  This course is intended for Masters students in HCII in the fall,and Masters students in Design in the spring; all other students by permission of the instructor.
+</end course description for 51-831 Design Center: Methodology of Visualization>

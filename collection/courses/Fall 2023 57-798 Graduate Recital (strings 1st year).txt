@@ -1,0 +1,16 @@
+<start course metadata for 57-798 Graduate Recital (strings 1st year)>
+Semester: Fall 2023 (aka F23)
+Course Name: Graduate Recital (strings 1st year)
+Course Number: 57-798
+Department: Music
+Number of Units: 1
+Prerequisites: None
+Instructors: Andres Cardenes, Anne Williams, Christopher Wu, David Harding, Gretchen Van Hoesen, Micah Howard, William van der Sloot
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-798 Graduate Recital (strings 1st year)>
+
+<start course description for 57-798 Graduate Recital (strings 1st year)>
+Semester: Fall 2023 (aka F23)
+Course Description: TBA
+</end course description for 57-798 Graduate Recital (strings 1st year)>

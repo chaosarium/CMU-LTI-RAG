@@ -1,0 +1,16 @@
+<start course metadata for 51-679 Spatial Computing Design>
+Semester: Fall 2023 (aka F23)
+Course Name: Spatial Computing Design
+Course Number: 51-679
+Department: Design
+Number of Units: 12
+Prerequisites: None
+Instructors: Daniel Rosenberg Munoz
+Rooms: MM 112
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-679 Spatial Computing Design>
+
+<start course description for 51-679 Spatial Computing Design>
+Semester: Fall 2023 (aka F23)
+Course Description: In this class, we will use Motion Tracking and Spatialized Outputs to design spatial computing experiences-collective, distributed, and localized interactions in a physical environment. We will work in a classroom instrumented with infrared cameras, digital projectors, and Sound Hologram technology (Wave Field Synthesis). In Unity 3D and using a digital twin of this classroom, we will program the interactions (in C#) to be tested in the physical space. Although some of these technologies relate to AR and VR systems, we will create experiences in the physical world without the interference of screens, headphones, and/or headset devices.  This project-based class focuses on advancing research through prototyping and testing working implementations. The class sessions are structured around tutorials, short lectures, working sessions, and reviews.
+</end course description for 51-679 Spatial Computing Design>

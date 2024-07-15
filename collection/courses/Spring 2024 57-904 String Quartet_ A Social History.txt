@@ -1,0 +1,16 @@
+<start course metadata for 57-904 String Quartet: A Social History>
+Semester: Spring 2024 (aka S24)
+Course Name: String Quartet: A Social History
+Course Number: 57-904
+Department: Music
+Number of Units: 9
+Prerequisites: None
+Instructors: Franco Sciannameo
+Rooms: HOA 225
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-904 String Quartet: A Social History>
+
+<start course description for 57-904 String Quartet: A Social History>
+Semester: Spring 2024 (aka S24)
+Course Description: The string quartet is at once a medium and a genre, even a form which for more than two hundred years has had a special, unparalleled place in Western music.  This course examines the development of the string quartet -  from its function as an intimate and conversational social setting for amateurs, to its role as a secret repository of composers' most daring thoughts.  The string quartet repertoire under discussion spans the first attempts at string quartet writing in the 17th Century, to serialism and microtonal disintegration in the 1960's, to contemporary Pop-Rock fusion experiments.  This course also deals with the social and personal histories of four individuals who freed themselves from hegemonic orchestral rules in favor of an instrumental democratic microcosm.
+</end course description for 57-904 String Quartet: A Social History>

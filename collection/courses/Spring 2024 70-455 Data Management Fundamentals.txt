@@ -1,0 +1,16 @@
+<start course metadata for 70-455 Data Management Fundamentals>
+Semester: Spring 2024 (aka S24)
+Course Name: Data Management Fundamentals
+Course Number: 70-455
+Department: Business Administration
+Number of Units: 9
+Prerequisites: 15-110 or 70-110 or 15-112 or 15-104
+Instructors: Robert Monroe
+Rooms: TEP 2701
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 70-455 Data Management Fundamentals>
+
+<start course description for 70-455 Data Management Fundamentals>
+Semester: Spring 2024 (aka S24)
+Course Description: Students completing this course will develop a solid conceptual understanding of modern approaches to corporate data management, as well as developing hands-on skills with a variety of commonly used data management and analysis tools.   More specifically, by the end of the course students should be able to do the following: o Write SQL queries to retrieve data from a relational database o Setup, connect to, and retrieve data from, database servers in the cloud via Amazon Web Services (AWS) o Use data wrangling tools such as Tableau Data Prep to profile, clean, and transform datasets  o Improve the quality of a given dataset through data transformation, cleaning, and wrangling techniques  o Explore, analyze, and visualize data with Tableau or a similar data visualization toolset o Present the results of your data exploration and analysis to others in a concise and compelling way. This course may use third-party course material that is not available for individual purchase from the publisher. If so, the third-party course material will be secured and provided by the Tepper School to students enrolled in the course, and students enrolled in the course will be required to pay to the University the associated additional course materials fee for the third-party course material provided. The amount of the course materials fee is dependent on the University's cost of the particular materials provided, and typically ranges from $13 to $75.
+</end course description for 70-455 Data Management Fundamentals>

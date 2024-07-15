@@ -1,0 +1,16 @@
+<start course metadata for 49-771 Process and Project Management>
+Semester: Spring 2024 (aka S24)
+Course Name: Process and Project Management
+Course Number: 49-771
+Department: Integrated Innovation Institute
+Number of Units: 12
+Prerequisites: None
+Instructors: Gladys Mercier
+Rooms: B23 109; B23 118
+Locations: San Jose, California
+</end course metadata for 49-771 Process and Project Management>
+
+<start course description for 49-771 Process and Project Management>
+Semester: Spring 2024 (aka S24)
+Course Description: Students learn about existing philosophies and methods surrounding software development and study the dimensions of effective management for software projects. Working in teams, students define an optimal software development and project management approach for a given software project context by identifying an appropriate set of practices from Agile, Lean, and other industry proven approaches which are tailored to the project's specific needs. Students develop project estimates and multilevel plans based on their approach. Professional writing and presentation skills are emphasized.
+</end course description for 49-771 Process and Project Management>

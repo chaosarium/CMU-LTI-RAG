@@ -1,0 +1,16 @@
+<start course metadata for 54-159 TBA>
+Semester: Fall 2023 (aka F23)
+Course Name: TBA
+Course Number: 54-159
+Department: Drama
+Number of Units: 6
+Prerequisites: None
+Instructors: David Holcomb, Sayantee Sahoo
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-159 TBA>
+
+<start course description for 54-159 TBA>
+Semester: Fall 2023 (aka F23)
+Course Description: Hands on experience in most aspects of installing and running a production.
+</end course description for 54-159 TBA>

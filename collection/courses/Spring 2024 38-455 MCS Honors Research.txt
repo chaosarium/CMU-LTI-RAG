@@ -1,0 +1,16 @@
+<start course metadata for 38-455 MCS Honors Research>
+Semester: Spring 2024 (aka S24)
+Course Name: MCS Honors Research
+Course Number: 38-455
+Department: MCS Interdisciplinary
+Number of Units: N/A
+Prerequisites: None
+Instructors: Maggie Braun
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 38-455 MCS Honors Research>
+
+<start course description for 38-455 MCS Honors Research>
+Semester: Spring 2024 (aka S24)
+Course Description: Students pursuing a student-defined major or a general studies major within MCS who wish to earn MCS College Honors may do so through this course (among other avenues). A written thesis describing an original research project and a successful oral defense of the thesis topic in a public venue are required to pass the course.
+</end course description for 38-455 MCS Honors Research>

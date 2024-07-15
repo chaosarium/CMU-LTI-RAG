@@ -1,0 +1,16 @@
+<start course metadata for 38-801 Evidence Based Teaching in STEM>
+Semester: Spring 2024 (aka S24)
+Course Name: Evidence Based Teaching in STEM
+Course Number: 38-801
+Department: MCS Interdisciplinary
+Number of Units: 7
+Prerequisites: None
+Instructors: Emily Weiss
+Rooms: TEP 1309
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 38-801 Evidence Based Teaching in STEM>
+
+<start course description for 38-801 Evidence Based Teaching in STEM>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is designed to prepare PhD students from science disciplines to: (1) teach effectively and efficiently as future faculty members; (2) critically read and apply peer-reviewed, STEM-based educational research; and (3) adapt approaches from the Scholarship of Teaching and Learning (SoTL) to formatively assess student learning and iteratively improve teaching and course design.  Together, we will explore the research on teaching and student learning, identifying and challenging our assumptions regarding how college students learn best in science disciplines.  Participants will leverage this research to cultivate a diverse toolkit of evidence-based, student-centered strategies for teaching and course design that may be applied to face-to-face, blended, or online courses, both within and across STEM disciplines.  Prior teaching experience is not required, but students must have completed their first year of PhD study to enroll.  This course will not prepare or license participants to teach K-12 students in Pennsylvania or elsewhere.
+</end course description for 38-801 Evidence Based Teaching in STEM>

@@ -1,0 +1,16 @@
+<start course metadata for 18-224 Intro to Open-Source FPGA and ASIC Chip Design>
+Semester: Spring 2024 (aka S24)
+Course Name: Intro to Open-Source FPGA and ASIC Chip Design
+Course Number: 18-224
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: William Nace
+Rooms: PH A21A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-224 Intro to Open-Source FPGA and ASIC Chip Design>
+
+<start course description for 18-224 Intro to Open-Source FPGA and ASIC Chip Design>
+Semester: Spring 2024 (aka S24)
+Course Description: Please refer to the ECE website for descriptions of each topic: https://courses.ece.cmu.edu/
+</end course description for 18-224 Intro to Open-Source FPGA and ASIC Chip Design>

@@ -1,0 +1,16 @@
+<start course metadata for 45-924 Debt Markets>
+Semester: Spring 2024 (aka S24)
+Course Name: Debt Markets
+Course Number: 45-924
+Department: Business Administration
+Number of Units: 6
+Prerequisites: 45-720 and 45-820
+Instructors: Chester Spatt
+Rooms: TEP 2202
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-924 Debt Markets>
+
+<start course description for 45-924 Debt Markets>
+Semester: Spring 2024 (aka S24)
+Course Description: Modern valuation methods will be used to analyze financial claims whose value depends upon interest rate movements and credit issues.  Instruments such as bonds (both callable and noncallable), mortgages, interest rate swaps and bond options will be examined.  We will use and discuss features of different instruments from the perspective of both borrowers & lenders, the implications for the structure of their cash flows and associated valuation and hedging of the instruments. We will use basic bond mathematics and discounting, broad valuation principles, risk management concepts such as duration and convexity, and specific parametric models of interest rate dynamics.   A variety of alternative interest rate models will be developed in the course, along with robust methods based solely upon the absence of arbitrage.  The power of convexity and duration and the importance of optionality upon risk management and valuation will be explored. Using various numerical methods, such as computer-based simulation and backwards recursion, the comparative riskiness and valuations of alternative instruments and the precision of the estimated valuations will be examined . We will address nominal vs. real interest rates, the role of monetary policy, the pricing of high-yield debt, hedging of credit risk, liquidity and short-term funding, nature of runs, the role of credit default swaps and the management of counter-party risk in derivatives trading.  We will look at issues from a variety of business situations including those of borrower (both corporate and mortgage), lender, portfolio manager, arbitrageur and loan servicer and also use a range of modeling styles and techniques. The course will have a series of problem sets and a final exam.
+</end course description for 45-924 Debt Markets>

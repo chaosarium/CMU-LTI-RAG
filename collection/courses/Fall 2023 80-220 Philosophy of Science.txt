@@ -1,0 +1,16 @@
+<start course metadata for 80-220 Philosophy of Science>
+Semester: Fall 2023 (aka F23)
+Course Name: Philosophy of Science
+Course Number: 80-220
+Department: Philosophy
+Number of Units: 9
+Prerequisites: None
+Instructors: Kevin Kelly
+Rooms: POS 145
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 80-220 Philosophy of Science>
+
+<start course description for 80-220 Philosophy of Science>
+Semester: Fall 2023 (aka F23)
+Course Description: In this course, we will examine some historical case studies (e.g., the Copernican revolution in astronomy) against which we will assess views pertaining to the significance, justification, and production of scientific knowledge. For example, should scientific theories be understood literally or as computational devices for deriving new predictions? How can universal conclusions ever be justified by a finite data set? Does explanation contribute to a theory's confirmation by the evidence? Does science aim to find the truth? Is probability in the world or only in our minds? Is explanation a matter of finding causes or are causes whatever it is that explains? Is scientific rationality objective or culture-relative?
+</end course description for 80-220 Philosophy of Science>

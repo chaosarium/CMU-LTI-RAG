@@ -1,0 +1,16 @@
+<start course metadata for 03-871 Structural Biophysics>
+Semester: Fall 2023 (aka F23)
+Course Name: Structural Biophysics
+Course Number: 03-871
+Department: Biological Sciences
+Number of Units: 12
+Prerequisites: (03-231 or 03-232) and (09-214 or 09-344) and (21-120 or 21-122)
+Instructors: Frederick Lanni
+Rooms: OFF CAMPUS
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 03-871 Structural Biophysics>
+
+<start course description for 03-871 Structural Biophysics>
+Semester: Fall 2023 (aka F23)
+Course Description: This course (MB-1) is the first-semester core course for the joint CMU-Pitt graduate program in Molecular Biophysics and Structural Biology (MBSB). The physical properties of biological macromolecules and the methods used to analyze their structure and function are discussed in in-depth lectures. Topics covered include: protein architecture and folding; nucleic acid structures and energetics; structure determination by X-ray crystallography and NMR; optical spectroscopy with emphasis on absorption and fluorescence, NMR spectroscopic methods; other methods to characterize proteins and protein-ligand interactions, such as mass spectrometry, calorimetry, single-molecule manipulation and measurements, and surface plasmon resonance. Sufficient detail is given to allow the student to critically evaluate the current literature.
+</end course description for 03-871 Structural Biophysics>

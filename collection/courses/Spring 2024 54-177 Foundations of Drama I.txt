@@ -1,0 +1,16 @@
+<start course metadata for 54-177 Foundations of Drama I>
+Semester: Spring 2024 (aka S24)
+Course Name: Foundations of Drama I
+Course Number: 54-177
+Department: Drama
+Number of Units: 6
+Prerequisites: None
+Instructors: Ryan Prendergast
+Rooms: CFA 102; PCA 103
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-177 Foundations of Drama I>
+
+<start course description for 54-177 Foundations of Drama I>
+Semester: Spring 2024 (aka S24)
+Course Description: In this course, students receive training in the basic analysis of scripts to determine key elements of structure, plot, characterization, thematic content, theatricality, and aesthetics. In addition, the course provides training in dramaturgical research and writing. Registration for this course is limited to Drama majors and minors.
+</end course description for 54-177 Foundations of Drama I>

@@ -1,0 +1,16 @@
+<start course metadata for 05-630 Programming Usable Interfaces>
+Semester: Fall 2023 (aka F23)
+Course Name: Programming Usable Interfaces
+Course Number: 05-630
+Department: Human-Computer Interaction
+Number of Units: 15
+Prerequisites: 15-100 or 15-112 or 15-127
+Instructors: Alexandra Ion, Anthony Levin-Decanini
+Rooms: TEP 1403
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 05-630 Programming Usable Interfaces>
+
+<start course description for 05-630 Programming Usable Interfaces>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is combines lecture, and an intensive programming lab and design studio. It is for those who want to express their interactive ideas in working prototypes. It will cover the importance of human-computer interaction/interface design, iterative design, input/output techniques, how to design and evaluate interfaces, and research topics that will impact user interfaces in the future. In lab, you will learn how to design and program effective graphical user interfaces, and how to perform user tests. We will cover a number of prototyping tools and require prototypes to be constructed in each, ranging from animated mock-ups to fully functional programs. Assignments will require implementing UIs, testing that interface with users, and then modifying the interface based on findings. Some class sessions will feature design reviews of student work. This course is for HCII Masters students and HCI dual majors with a minimal programming background. Students will often not be professional programmers, but will need to interact with programmers.   RECITATION SELECTION: Students taking this course can sign up for either Prototyping Lab recitation.  PREREQUISITES:  Proficiency in a programming language, program structure, algorithm analysis, and data abstraction. Normally met through an introductory programming course using C, C++, Pascal or Java, such as 15100, 15112, 15127 or equivalent. Students entering this course should be able to independently write a 300-line program in 48 hours. This course is NOT open to students outside of the MHCI program.
+</end course description for 05-630 Programming Usable Interfaces>

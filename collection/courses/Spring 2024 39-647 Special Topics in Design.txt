@@ -1,0 +1,16 @@
+<start course metadata for 39-647 Special Topics in Design>
+Semester: Spring 2024 (aka S24)
+Course Name: Special Topics in Design
+Course Number: 39-647
+Department: CIT Interdisciplinary
+Number of Units: N/A
+Prerequisites: None
+Instructors: Instructor TBA
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 39-647 Special Topics in Design>
+
+<start course description for 39-647 Special Topics in Design>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is to be use for Interdisciplinary Engineering Design Independent Study. It can be added by permission only through collaboration with the student, Independent Study project advisor, and the CIT Dean's Office.
+</end course description for 39-647 Special Topics in Design>

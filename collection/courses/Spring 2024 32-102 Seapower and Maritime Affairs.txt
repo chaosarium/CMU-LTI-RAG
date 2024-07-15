@@ -1,0 +1,16 @@
+<start course metadata for 32-102 Seapower and Maritime Affairs>
+Semester: Spring 2024 (aka S24)
+Course Name: Seapower and Maritime Affairs
+Course Number: 32-102
+Department: Naval Science - ROTC
+Number of Units: 6
+Prerequisites: None
+Instructors: Joshua Oberley
+Rooms: HBH 1006
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 32-102 Seapower and Maritime Affairs>
+
+<start course description for 32-102 Seapower and Maritime Affairs>
+Semester: Spring 2024 (aka S24)
+Course Description: This course surveys US naval history from its European origins to the present with emphasis on major developments and the geopolitical forces shaping these developments. Also included is discussion of the theories and writings of naval historian and strategist Alfred Thayer Mahan. The course will finish by covering present day concerns in seapower and maritime affairs including the economic and political issues of merchant marine commerce, the law of the sea, the navy and merchant marine of the former Soviet Union (FSU), and a comparison of US and FSU maritime strategies to include the rise and decline of the Soviet Navy.
+</end course description for 32-102 Seapower and Maritime Affairs>

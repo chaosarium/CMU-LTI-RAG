@@ -1,0 +1,16 @@
+<start course metadata for 48-467 Design Build Elective>
+Semester: Spring 2024 (aka S24)
+Course Name: Design Build Elective
+Course Number: 48-467
+Department: Architecture
+Number of Units: N/A
+Prerequisites: None
+Instructors: Stephen Lee
+Rooms: CFA 200
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-467 Design Build Elective>
+
+<start course description for 48-467 Design Build Elective>
+Semester: Spring 2024 (aka S24)
+Course Description: In this course, students will work on an interdisciplinary, design-build project to improve the quality of life through design interventions on campus. The semester will begin with a review of design proposals developed during the Fall semester, and through a collaborative process the class will determine what can be built given budgetary and workforce constraints. Students will complete construction documents, de­velop project management plans, build full scale prototypes, procure materials, and construct the designs.
+</end course description for 48-467 Design Build Elective>

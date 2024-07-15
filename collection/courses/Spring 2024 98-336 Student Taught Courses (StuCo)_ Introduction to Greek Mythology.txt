@@ -1,0 +1,16 @@
+<start course metadata for 98-336 Student Taught Courses (StuCo): Introduction to Greek Mythology>
+Semester: Spring 2024 (aka S24)
+Course Name: Student Taught Courses (StuCo): Introduction to Greek Mythology
+Course Number: 98-336
+Department: StuCo (Student Led Courses)
+Number of Units: 3
+Prerequisites: None
+Instructors: Tarana Laroia
+Rooms: GHC 5222
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 98-336 Student Taught Courses (StuCo): Introduction to Greek Mythology>
+
+<start course description for 98-336 Student Taught Courses (StuCo): Introduction to Greek Mythology>
+Semester: Spring 2024 (aka S24)
+Course Description: Greek myths have continued to inspire and capture the imagination for thousands of years. This course presents a basic introduction to Greek mythology and the concepts that are essential to understanding mythology. Students in this course will gain an understanding of Greek mythology and the Olympian gods and goddesses through readings and discussions of these ancient stories, both in the context of history and through the lens of modern media.
+</end course description for 98-336 Student Taught Courses (StuCo): Introduction to Greek Mythology>

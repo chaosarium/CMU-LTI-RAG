@@ -1,0 +1,16 @@
+<start course metadata for 21-112 Integral Calculus>
+Semester: Spring 2024 (aka S24)
+Course Name: Integral Calculus
+Course Number: 21-112
+Department: Mathematical Sciences
+Number of Units: 10
+Prerequisites: 21-111
+Instructors: Richard Statman
+Rooms: WEH 5409
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-112 Integral Calculus>
+
+<start course description for 21-112 Integral Calculus>
+Semester: Spring 2024 (aka S24)
+Course Description: Definite and indefinite integrals, and hyperbolic functions;  applications of integration, integration by substitution and by parts. Successful completion of 21-111 and 21-112 entitles a student to enroll in any mathematics course for which 21-120 is a prerequisite. (Three 50 minute lectures, two 50 minute recitations)
+</end course description for 21-112 Integral Calculus>

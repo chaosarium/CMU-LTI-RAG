@@ -1,0 +1,16 @@
+<start course metadata for 76-870 Professional and Technical Writing>
+Semester: Fall 2023 (aka F23)
+Course Name: Professional and Technical Writing
+Course Number: 76-870
+Department: English
+Number of Units: N/A
+Prerequisites: None
+Instructors: Jeremy Rosselot-Merritt
+Rooms: WEH 8427
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 76-870 Professional and Technical Writing>
+
+<start course description for 76-870 Professional and Technical Writing>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is an introduction to the theory, research, and practice of professional and technical communication as a discipline. Through readings, discussions, projects, and writing workshops, you will develop a rhetorically-grounded approach to analyzing communications problems and producing a range of effective and situation-specific professional documents. This user-centered approach views professional documents as means to accomplish specific, well-defined purposes: getting funding or support for a project (proposals), supporting managerial decision-making (reports), communicating effectively within organizations (email, correspondence), guiding action (instructional writing), getting a job or internship (resumes and application letters), or making choices among various medical treatments (science writing for general audiences). Because writers need a range of skills that go well beyond the actual inscribing of words on a page, you also gain practice in how to test documents on actual users, edit and revise your own work and that of other writers, and participate in and manage collaborative writing projects. The course features three major writing assignments. Core course for MAPW students.
+</end course description for 76-870 Professional and Technical Writing>

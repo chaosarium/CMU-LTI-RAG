@@ -1,0 +1,16 @@
+<start course metadata for 99-735 Proseminar in Entrepreneurial Leadership>
+Semester: Fall 2023 (aka F23)
+Course Name: Proseminar in Entrepreneurial Leadership
+Course Number: 99-735
+Department: Carnegie Mellon University-Wide Studies
+Number of Units: 1
+Prerequisites: None
+Instructors: David Mawhinney
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 99-735 Proseminar in Entrepreneurial Leadership>
+
+<start course description for 99-735 Proseminar in Entrepreneurial Leadership>
+Semester: Fall 2023 (aka F23)
+Course Description: The course is a required, one-unit weekly seminar for James R. Swartz Entrepreneurial Fellows and, if appropriate, other students such as undergraduate Innovation Scholars who are interested in entrepreneurship.  This course will be held in the Swartz Center for Entrepreneurship's -Taiwan Board Room
+</end course description for 99-735 Proseminar in Entrepreneurial Leadership>

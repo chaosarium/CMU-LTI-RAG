@@ -1,0 +1,16 @@
+<start course metadata for 48-400 Architecture Design Studio: Praxis Studio 3>
+Semester: Fall 2023 (aka F23)
+Course Name: Architecture Design Studio: Praxis Studio 3
+Course Number: 48-400
+Department: Architecture
+Number of Units: 18
+Prerequisites: 48-305
+Instructors: Gerard Damiani
+Rooms: MM 103
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-400 Architecture Design Studio: Praxis Studio 3>
+
+<start course description for 48-400 Architecture Design Studio: Praxis Studio 3>
+Semester: Fall 2023 (aka F23)
+Course Description: This studio is the capstone of your undergraduate education and is an opportunity for you to integrate the various technical aspects of your professional degree to date. Each student will have the opportunity to select from one of three proposed building typologies and project scales. As a requirement of this studio, students will participate in student teams developing each project to a high level of technical development.  The objective of this studio is to go beyond the typical studio project and to demonstrate the necessary integration within the structural system, building envelope, environmental control systems and life safety system while providing the measurable outcomes of building performance as part of the design process (NAAB student criteria 6).  Consultant engineers play an active role in the studio process providing expertise and discussions resembling professional practice. This semester the three studio instructors will be Professors Gerard Damiani, Erica Cochran Hameen and Stephen Lee.
+</end course description for 48-400 Architecture Design Studio: Praxis Studio 3>

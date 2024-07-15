@@ -1,0 +1,16 @@
+<start course metadata for 05-685 Prototyping Algorithmic Experiences>
+Semester: Fall 2023 (aka F23)
+Course Name: Prototyping Algorithmic Experiences
+Course Number: 05-685
+Department: Human-Computer Interaction
+Number of Units: 15
+Prerequisites: (15-112) and (15-121 or 15-122 or 15-150 or 15-210) and (05-610 or 05-891) and (05-651 or 05-650 or 05-652 or 05-670 or 05-617 or 05-660 or 05-692)
+Instructors: Kenneth Holstein
+Rooms: GHC 4301
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 05-685 Prototyping Algorithmic Experiences>
+
+<start course description for 05-685 Prototyping Algorithmic Experiences>
+Semester: Fall 2023 (aka F23)
+Course Description: This project-based course provides an overview and hands-on introduction to iterative prototyping methods in HCI, with an emphasis on current and emerging technologies such as data-driven algorithmic systems, AI and machine learning, spatial computing, and IoT. Students will learn and implement approaches for creating and using prototypes to iteratively inform the creation of new technologies. The course will help students learn to strategically evaluate whether a given prototyping approach is a good fit for a given design or research question. In addition to HCI undergraduate majors, the course is open to undergraduate and graduate level students with proficiency in programming and prior courses or experience in user-centered research, design, and/or evaluation. Some exceptions to the course prerequisites will be granted with the permission of the instructor.
+</end course description for 05-685 Prototyping Algorithmic Experiences>

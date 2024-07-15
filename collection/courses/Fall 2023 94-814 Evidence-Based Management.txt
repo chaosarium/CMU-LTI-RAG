@@ -1,0 +1,16 @@
+<start course metadata for 94-814 Evidence-Based Management>
+Semester: Fall 2023 (aka F23)
+Course Name: Evidence-Based Management
+Course Number: 94-814
+Department: Heinz College Wide Courses
+Number of Units: 6
+Prerequisites: None
+Instructors: Denise Rousseau
+Rooms: HBH 1204
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 94-814 Evidence-Based Management>
+
+<start course description for 94-814 Evidence-Based Management>
+Semester: Fall 2023 (aka F23)
+Course Description: None
+</end course description for 94-814 Evidence-Based Management>

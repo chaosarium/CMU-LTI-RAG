@@ -1,0 +1,16 @@
+<start course metadata for 60-200 Sophomore Review>
+Semester: Spring 2024 (aka S24)
+Course Name: Sophomore Review
+Course Number: 60-200
+Department: Art
+Number of Units: 0
+Prerequisites: None
+Instructors: Keni Jefferson, Mark Cato
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 60-200 Sophomore Review>
+
+<start course description for 60-200 Sophomore Review>
+Semester: Spring 2024 (aka S24)
+Course Description: Students present their work and their ideas about their work to a faculty committee.  A successful review is required for advancement to the junior year.  Although this is a non-credit course, it is required of all Art (BFA, BHA, BSA, and BCSA) sophomores.
+</end course description for 60-200 Sophomore Review>

@@ -1,0 +1,16 @@
+<start course metadata for 49-769 Special Topics: Principles of Enterprise Flexibility>
+Semester: Spring 2024 (aka S24)
+Course Name: Special Topics: Principles of Enterprise Flexibility
+Course Number: 49-769
+Department: Integrated Innovation Institute
+Number of Units: 6
+Prerequisites: None
+Instructors: Stuart Evans
+Rooms: B23 118
+Locations: San Jose, California
+</end course metadata for 49-769 Special Topics: Principles of Enterprise Flexibility>
+
+<start course description for 49-769 Special Topics: Principles of Enterprise Flexibility>
+Semester: Spring 2024 (aka S24)
+Course Description: Students will learn about the concept of strategic flexibility. With the raft of new technologies currently unfolding, such as the GenAI, Sky Computing, 6G and the Internet of Things, the students will comprehend the shift underway in the very nature of the "enterprise."   If the old game was about predicting and planning for the future, the new game is about "surfing a fluid, ever changing reality." Software and IT professionals need to enable  real-time adaptation, and need innovative rules for this "new" game. These principles of enterprise flexibility are inherent in Silicon Vally scaling startups are they grow to become large enterprises.  Now every enterprise is a software company and needs to be flexible and nimble to be able to adapt to the rapid pace of, often kaleidoscopic, change.
+</end course description for 49-769 Special Topics: Principles of Enterprise Flexibility>

@@ -1,0 +1,16 @@
+<start course metadata for 66-506 Senior Capstone>
+Semester: Spring 2024 (aka S24)
+Course Name: Senior Capstone
+Course Number: 66-506
+Department: Dietrich College Interdisciplinary
+Number of Units: 9
+Prerequisites: None
+Instructors: Abigail Owen
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 66-506 Senior Capstone>
+
+<start course description for 66-506 Senior Capstone>
+Semester: Spring 2024 (aka S24)
+Course Description: Dietrich College student-defined majors (primary or additional) must complete a senior capstone project for at least 9 units (in one semester), or 18 units usually spread across both semesters of the senior year.  The capstone project culminates in an original independent research or creative project that draws on all of the strands of the student's particular student-defined program. This course (66-506) is a one-semester option for student-defined majors who propose a 9-unit/one-semester capstone project; it is also an 18-unit/one-semester alternative to the two-semester Senior Capstone sequence (66-504/66-505) for Dietrich College student-defined majors who choose the 18-unit capstone option, but who are unable to spread these units across both semesters of the senior year.  The course is open only to seniors who have been admitted to the Dietrich College Student-Defined Program as either a primary or additional major.  Projects and unit values are proposed by eligible students, and must be approved by a member of the faculty who agrees to be the project's primary advisor, as well as by the Dietrich College Student-Defined Program Director.  These approvals must be secured no later than registration week of the semester prior to the start of the student's senior year.  NOTE: For Dietrich College student-defined majors (primary or additional) who are accepted into the Dietrich College Senior Honors Program and who successfully complete a senior honors thesis, the senior honors thesis fulfills the student-defined major capstone requirement.
+</end course description for 66-506 Senior Capstone>

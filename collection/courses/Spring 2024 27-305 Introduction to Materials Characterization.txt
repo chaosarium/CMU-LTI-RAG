@@ -1,0 +1,16 @@
+<start course metadata for 27-305 Introduction to Materials Characterization>
+Semester: Spring 2024 (aka S24)
+Course Name: Introduction to Materials Characterization
+Course Number: 27-305
+Department: Materials Science & Engineering
+Number of Units: 6
+Prerequisites: 27-301
+Instructors: Marc Degraef
+Rooms: HH B131
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 27-305 Introduction to Materials Characterization>
+
+<start course description for 27-305 Introduction to Materials Characterization>
+Semester: Spring 2024 (aka S24)
+Course Description: The course introduces the modern methods of materials characterization, including characterization of microstructure and microchemistry of materials. A classroom component of the course will introduce the wide array of methods and applications of characterization techniques. Basic theory will be introduced where needed. Students will then be instructed in the use of several instruments such as AFM, SEM, and EDS, using a hands-on approach. All instruments are part of the existing lab facilities within MSE and CIT. The methods learned in this course will serve the student during several other higher level courses, such as the Senior level MSE Capstone Course (27-401).
+</end course description for 27-305 Introduction to Materials Characterization>

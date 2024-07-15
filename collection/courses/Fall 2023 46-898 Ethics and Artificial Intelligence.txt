@@ -1,0 +1,16 @@
+<start course metadata for 46-898 Ethics and Artificial Intelligence>
+Semester: Fall 2023 (aka F23)
+Course Name: Ethics and Artificial Intelligence
+Course Number: 46-898
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Derek Leben
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 46-898 Ethics and Artificial Intelligence>
+
+<start course description for 46-898 Ethics and Artificial Intelligence>
+Semester: Fall 2023 (aka F23)
+Course Description: This course will explore the ethical challenges that businesses face when making use of AI, map out policies which have been proposed as solutions to these challenges, and analyze the normative arguments behind these policies. The goal of the course is to acquire the skills necessary to understand the ethical challenges which emerge from AI, and develop responsible corporate practices around these technologies. The course is organized around seven core principles for the responsible use of AI: (1) Autonomy, (2) Explainability, (3) Benefit, (4) Responsibility/Control, (5) Non-Discrimination, (6) Fairness, and (7) Dignity. We will focus on a different domain of use to illustrate each principle, including cases from transportation, healthcare, media, lending, and marketing.
+</end course description for 46-898 Ethics and Artificial Intelligence>

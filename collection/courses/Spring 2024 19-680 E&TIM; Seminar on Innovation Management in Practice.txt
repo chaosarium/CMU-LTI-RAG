@@ -1,0 +1,16 @@
+<start course metadata for 19-680 E&TIM; Seminar on Innovation Management in Practice>
+Semester: Spring 2024 (aka S24)
+Course Name: E&TIM; Seminar on Innovation Management in Practice
+Course Number: 19-680
+Department: Engineering & Public Policy
+Number of Units: 6
+Prerequisites: None
+Instructors: Phillip Yu
+Rooms: POS 153
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 19-680 E&TIM; Seminar on Innovation Management in Practice>
+
+<start course description for 19-680 E&TIM; Seminar on Innovation Management in Practice>
+Semester: Spring 2024 (aka S24)
+Course Description: A definition of innovation is the combination of technology and commercialization to deliver social and economic value.  Corporations utilize innovation to establish a competitive advantage and to differentiate in the marketplace.  Public policy makers view innovation as a critical driver for economic development. This course will cover the fundamentals of innovation, and the many challenges associated with it. How are opportunities identified? What are the strategies used, and how can they then be implemented? What roles are played by processes, technologies, and the business environment, as well as by individuals in organizations? This course will include active classroom discussions and readings from the innovation literature to reinforce concepts, develop critical thinking and hone analysis skills.
+</end course description for 19-680 E&TIM; Seminar on Innovation Management in Practice>

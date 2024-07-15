@@ -1,0 +1,16 @@
+<start course metadata for 79-350 Early Christianity>
+Semester: Fall 2023 (aka F23)
+Course Name: Early Christianity
+Course Number: 79-350
+Department: History
+Number of Units: 9
+Prerequisites: None
+Instructors: Allyson Creasman
+Rooms: PH 226C
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 79-350 Early Christianity>
+
+<start course description for 79-350 Early Christianity>
+Semester: Fall 2023 (aka F23)
+Course Description: This course examines the origins of Christianity in historical perspective. Using both Christian and non-Christian sources from the period, we will examine how and why Christianity assumed the form that it did by analyzing its background in the Jewish community of Palestine, its place in the classical world, and its relationship to other religious and philosophical traditions of the time. We will also examine historically how the earliest Christians understood the life and message of Jesus, the debates about belief and practice that arose among them, and the factors influencing the extraordinary spread of the movement in its earliest centuries. This course satisfies one of the elective requirements for the Religious Studies minor.
+</end course description for 79-350 Early Christianity>

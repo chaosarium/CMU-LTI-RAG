@@ -1,0 +1,16 @@
+<start course metadata for 06-625 Chemical and Reactive Systems>
+Semester: Spring 2024 (aka S24)
+Course Name: Chemical and Reactive Systems
+Course Number: 06-625
+Department: Chemical Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Hamish Gordon
+Rooms: DH 1212
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 06-625 Chemical and Reactive Systems>
+
+<start course description for 06-625 Chemical and Reactive Systems>
+Semester: Spring 2024 (aka S24)
+Course Description: In this course process simulation software will be used to develop models of chemical and reactive systems. The models will be used to predict the performance of the system, as well as to probe how process modifications, e.g. process conditions, reactor types or sequences, etc. affect system performance. The effects of the underlying thermodynamic and kinetic databases of chemical properties on the performance predictions will be explored. Methods to incorporate new thermodynamic and kinetic data into chemical and reactive system simulations will be examined. Thermochemical and kinetic data for reactions will be estimated for use in process simulation software.    Primary Software Package(s): Molecular modeling and process simulation software.
+</end course description for 06-625 Chemical and Reactive Systems>

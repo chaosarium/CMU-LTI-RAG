@@ -1,0 +1,6 @@
+Name: Graham Neubig
+Title: Associate Professor
+Email gneubig@cs.cmu.edu
+Phone: 
+Office: 5409 Gates & Hillman Centers
+Interests: Machine Translation, Natural Language Processing, Spoken Language Processing, Machine Learning

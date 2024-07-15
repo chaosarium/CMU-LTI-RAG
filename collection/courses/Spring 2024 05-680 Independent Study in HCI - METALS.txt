@@ -1,0 +1,16 @@
+<start course metadata for 05-680 Independent Study in HCI - METALS>
+Semester: Spring 2024 (aka S24)
+Course Name: Independent Study in HCI - METALS
+Course Number: 05-680
+Department: Human-Computer Interaction
+Number of Units: N/A
+Prerequisites: None
+Instructors: Jo Bodnar, Michael Bett
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 05-680 Independent Study in HCI - METALS>
+
+<start course description for 05-680 Independent Study in HCI - METALS>
+Semester: Spring 2024 (aka S24)
+Course Description: With the permission of the professor, students may engage in independent project work on any number of innovative research projects sponsored by faculty. Students must complete an Independent Study Proposal, negotiate the number of units to be earned, submit a contract, and present a tangible deliverable.  The Program Advisor's signature is required for the METALS Independent Study course.
+</end course description for 05-680 Independent Study in HCI - METALS>

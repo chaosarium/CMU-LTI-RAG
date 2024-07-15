@@ -1,0 +1,16 @@
+<start course metadata for 06-707 Advanced Transport Phenomena>
+Semester: Spring 2024 (aka S24)
+Course Name: Advanced Transport Phenomena
+Course Number: 06-707
+Department: Chemical Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Neil Donahue
+Rooms: DH 4201
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 06-707 Advanced Transport Phenomena>
+
+<start course description for 06-707 Advanced Transport Phenomena>
+Semester: Spring 2024 (aka S24)
+Course Description: An introduction to foundational concepts in mass, momentum, and energy transport. The governing equations for such transport phenomena in flowing fluids will be derived and then analyzed in a variety of scenarios, including unidirectional flows, lubrication theory, Stokes flow, and forced convection heat and mass transfer. The focus will be on problem formulation and solution using applied mathematical techniques. Throughout, the importance of developing a physical intuition for transport phenomena will be emphasized.
+</end course description for 06-707 Advanced Transport Phenomena>

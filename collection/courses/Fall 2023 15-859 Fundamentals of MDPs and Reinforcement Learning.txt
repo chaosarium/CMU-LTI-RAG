@@ -1,0 +1,16 @@
+<start course metadata for 15-859 Fundamentals of MDPs and Reinforcement Learning>
+Semester: Fall 2023 (aka F23)
+Course Name: Fundamentals of MDPs and Reinforcement Learning
+Course Number: 15-859
+Department: Computer Science
+Number of Units: 12
+Prerequisites: None
+Instructors: Weina Wang
+Rooms: GHC 4211
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-859 Fundamentals of MDPs and Reinforcement Learning>
+
+<start course description for 15-859 Fundamentals of MDPs and Reinforcement Learning>
+Semester: Fall 2023 (aka F23)
+Course Description: This advanced graduate-level course provides a deep dive into the mathematical foundations and algorithms of Markov Decision Processes (MDPs) and Reinforcement Learning (RL). Students will explore key topics such as stochastic approximation, TD-learning, Q-learning, policy gradient methods, actor-critic methods, multi-armed bandits, and online RL. The course emphasizes rigorous mathematical proofs and derivations. It is ideal for students with strong mathematical maturity and interested in developing a deep understanding of the mathematical foundation underpinning RL algorithms.
+</end course description for 15-859 Fundamentals of MDPs and Reinforcement Learning>

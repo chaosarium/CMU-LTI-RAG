@@ -1,0 +1,16 @@
+<start course metadata for 19-351 Applied Methods for Technology-Policy Analysis>
+Semester: Spring 2024 (aka S24)
+Course Name: Applied Methods for Technology-Policy Analysis
+Course Number: 19-351
+Department: Engineering & Public Policy
+Number of Units: 9
+Prerequisites: None
+Instructors: Deanna Matthews
+Rooms: POS 145
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 19-351 Applied Methods for Technology-Policy Analysis>
+
+<start course description for 19-351 Applied Methods for Technology-Policy Analysis>
+Semester: Spring 2024 (aka S24)
+Course Description: This course synthesizes concepts from economics, statistics, decision analysis, and other humanities and social science areas as they relate to analysis of technology and public policy issues. Students will focus on applying skills, tools, and techniques of social science to critically examine issues of current importance to society that have engineering systems at the core, and how public policy can be informed by the results of these analyses. Students will discover the relationship between formulating research questions considering a wide range of perspectives (e.g., political, ethical, social, economic, and legal aspects) and implementing the appropriate research methods for answering them. The course will emphasize interpretation and communication of analysis results in written and oral presentation, especially to non-technical audiences. As a precursor to the EPP Project courses, the course also prepares EPP juniors for structuring real-world problems into a feasible work plan, and to deal with revising work plans as work proceeds.
+</end course description for 19-351 Applied Methods for Technology-Policy Analysis>

@@ -1,0 +1,16 @@
+<start course metadata for 48-706 Urban Design Studio II: Urban Systems>
+Semester: Spring 2024 (aka S24)
+Course Name: Urban Design Studio II: Urban Systems
+Course Number: 48-706
+Department: Architecture
+Number of Units: 18
+Prerequisites: None
+Instructors: Ginger Brooks Takahashi, Nida Rehman
+Rooms: MM 320
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-706 Urban Design Studio II: Urban Systems>
+
+<start course description for 48-706 Urban Design Studio II: Urban Systems>
+Semester: Spring 2024 (aka S24)
+Course Description: Optimistic assessments about Pittsburgh's livability mask a complicated reality where prospects for health and well-being are starkly differentiated along lines of race, class, and gender. Environmental harms, underpinned by the ongoing legacies of industrial production, extraction, and segregative planning, create a toxic combination adversely impacting human health, ecology, and community futures. These challenges necessitate multidisciplinary, collaborative, and emancipatory approaches to knowing the built environment, and community-centered methods in urban design that attend to the local histories, embodied knowledges, and political ecologies of life in toxic systems.  This studio will expand on MUD students' understanding of neighborhood-scaled urban design through the examination of urban systems and systemic processes, focusing on the infrastructures of toxicity, and modes of local action against them. It will be anchored in an ongoing collaboration with North Braddock Residents For Our Future, a grassroots organization which has led the opposition to unconventional gas drilling and environmental injustice in Braddock and North Braddock and surrounding communities.
+</end course description for 48-706 Urban Design Studio II: Urban Systems>

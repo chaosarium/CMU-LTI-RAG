@@ -1,0 +1,16 @@
+<start course metadata for 19-051 Study Abroad>
+Semester: Fall 2023 (aka F23)
+Course Name: Study Abroad
+Course Number: 19-051
+Department: Engineering & Public Policy
+Number of Units: 0
+Prerequisites: None
+Instructors: Deanna Matthews
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 19-051 Study Abroad>
+
+<start course description for 19-051 Study Abroad>
+Semester: Fall 2023 (aka F23)
+Course Description: Study abroad, undergraduate level.
+</end course description for 19-051 Study Abroad>

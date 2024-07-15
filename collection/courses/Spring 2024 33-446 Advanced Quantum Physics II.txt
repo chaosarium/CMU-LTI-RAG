@@ -1,0 +1,16 @@
+<start course metadata for 33-446 Advanced Quantum Physics II>
+Semester: Spring 2024 (aka S24)
+Course Name: Advanced Quantum Physics II
+Course Number: 33-446
+Department: Physics
+Number of Units: 9
+Prerequisites: 33-445
+Instructors: Hael Collins
+Rooms: BH 237B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 33-446 Advanced Quantum Physics II>
+
+<start course description for 33-446 Advanced Quantum Physics II>
+Semester: Spring 2024 (aka S24)
+Course Description: Classical symmetries; quantum symmetries; rotations and angular momentum; spin; addition of angular momentum; the hydrogen atom; quantum "paradoxes" and Bell's theorem; applications.
+</end course description for 33-446 Advanced Quantum Physics II>

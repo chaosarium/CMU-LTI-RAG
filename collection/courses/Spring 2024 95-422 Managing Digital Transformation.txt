@@ -1,0 +1,16 @@
+<start course metadata for 95-422 Managing Digital Transformation>
+Semester: Spring 2024 (aka S24)
+Course Name: Managing Digital Transformation
+Course Number: 95-422
+Department: Information Systems:Sch of IS & Mgt
+Number of Units: 9
+Prerequisites: None
+Instructors: Uttara Madurai Ananthakrishnan
+Rooms: HBH 1004
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 95-422 Managing Digital Transformation>
+
+<start course description for 95-422 Managing Digital Transformation>
+Semester: Spring 2024 (aka S24)
+Course Description: The goal of this course is to analyze and understand how technological change impacts firms, markets, supply chains, and regulatory/policy structures. Information and communication technologies play multiple roles within businesses, organizations, industries, and societies:   From a technological perspective, they define the information and communication infrastructure of the entity and they enable new ways to digitize processes.  From a managerial perspective, they facilitate new coordination and communication processes within and across entities, enable new organizational forms, change the information environment underlying the business, and permit new incentive and monitoring structures.  From a policy perspective, these new coordination and communication processes, new organizational forms, new modes of cross-organizational interaction, and new incentive and monitor structures frequently challenge established policy and regulatory structures.
+</end course description for 95-422 Managing Digital Transformation>

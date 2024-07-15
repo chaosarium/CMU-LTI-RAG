@@ -1,0 +1,16 @@
+<start course metadata for 38-100 CATALYST - MCS First-Year Seminar>
+Semester: Spring 2024 (aka S24)
+Course Name: CATALYST - MCS First-Year Seminar
+Course Number: 38-100
+Department: MCS Interdisciplinary
+Number of Units: 3
+Prerequisites: None
+Instructors: Abigail Pinnow, Ken Hovis
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 38-100 CATALYST - MCS First-Year Seminar>
+
+<start course description for 38-100 CATALYST - MCS First-Year Seminar>
+Semester: Spring 2024 (aka S24)
+Course Description: The CATALYST seminar will equip transfer students to MCS, as well as those students who did not successfully complete the EUREKA seminar, with foundational knowledge, skills and perspectives that will support their development as emerging scientists and scholars.  During the seminar, students will be presented with opportunities and experiences designed to help them frame how the MCS curriculum aspires to shape their evolving identities in the areas of scholar, person, professional and citizen, while also engendering a sense of excitement about science and scientific inquiry.  The seminar will offer information and strategies that are employed both by successful students and by successful scientists in optimizing their approach to work and life, with a key focus on areas such as cognitive learning skills, research, teamwork, goal setting, time management, community engagement, ethics, resources and assessment.  Additionally, the seminar will introduce students to the learning outcomes and requirements associated with the MCS core curriculum, with a particular emphasis on the self-directed ENGAGE courses and the role of the MyCORE e-portfolio system in documenting and framing student growth and development. Please note that this course WILL MEET TWICE over the course of the semester. These course meetings will be scheduled around the schedules of enrolled students.
+</end course description for 38-100 CATALYST - MCS First-Year Seminar>

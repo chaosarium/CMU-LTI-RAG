@@ -1,0 +1,16 @@
+<start course metadata for 24-292 Renewable Energy Engineering>
+Semester: Spring 2024 (aka S24)
+Course Name: Renewable Energy Engineering
+Course Number: 24-292
+Department: Mechanical Engineering
+Number of Units: 9
+Prerequisites: 33-106 or 33-141
+Instructors: Albert Presto
+Rooms: POS 145
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-292 Renewable Energy Engineering>
+
+<start course description for 24-292 Renewable Energy Engineering>
+Semester: Spring 2024 (aka S24)
+Course Description: Introduction to engineering principles of various renewable energy systems, including the following topics: background on climate change and carbon sequestration, engineering analysis of renewable energy systems such as solar photovoltaic, (solar thermal), wind power, hydropower, wave energy, bio mass energy, geothermal energy, and hydrogen based fuel cells.  In addition, transitional energy systems such as nuclear power and advanced combined cycles will be introduced.  Both engineering performance and present state of development will be discussed.  Students will review and present their progress on various subjects, which will be selected based on personal interest.
+</end course description for 24-292 Renewable Energy Engineering>

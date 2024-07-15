@@ -1,0 +1,16 @@
+<start course metadata for 94-812 Applications of NL(X) and LLM>
+Semester: Spring 2024 (aka S24)
+Course Name: Applications of NL(X) and LLM
+Course Number: 94-812
+Department: Heinz College Wide Courses
+Number of Units: 6
+Prerequisites: 90-819 or 95-888
+Instructors: Anand Rao
+Rooms: HBH 1007
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 94-812 Applications of NL(X) and LLM>
+
+<start course description for 94-812 Applications of NL(X) and LLM>
+Semester: Spring 2024 (aka S24)
+Course Description: pre-reqs PPM-side students, 90-803 as a prerequisite MISM-side students,95-828 as a prerequisite or corequisite  With the rapid rise in popularity and adoption of Generative AI, the world of NLP has expanded beyond traditional boundaries, offering unprecedented opportunities in business and industry. This comprehensive course is meticulously designed to provide an in-depth understanding of the vast landscape of Natural Language (NL) processing, understanding, generation, reasoning, planning, and optimization (X-for processing, understanding etc.,). Our course covers the evolution of NLP and delves into the intricacies of deep learning, transformer models, and the applications of large language models.  The course introduces the foundational concepts of NL-X, diving deep into techniques for sentiment analysis, named entity recognition, and question answering. As the course progresses, students will explore the world of chatbots, conversational AI, word embeddings, vector databases, and the revolutionary transformer models like BERT. The latter part of the course delves into the capabilities and applications of large language models, emphasizing their role in tasks like retrieval augmented generation and their use as generative agents for reasoning, planning, and optimization.  Several hands-on examples and exercises are integrated throughout the course, offering students practical experience in applying the learned techniques. Guest lectures and practical LLM applications in healthcare and financial services will demonstrate how enterprises are building and using these modern technologies. The course culminates in a final project presentation, allowing students to showcase their mastery of the content. This course is an invaluable resource for those aspiring to delve deep into the world of NL-X and Generative AI, offering practical insights and knowledge that can be immediately applied in the real world.
+</end course description for 94-812 Applications of NL(X) and LLM>

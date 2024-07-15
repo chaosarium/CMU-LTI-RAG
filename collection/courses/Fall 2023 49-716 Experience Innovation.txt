@@ -1,0 +1,16 @@
+<start course metadata for 49-716 Experience Innovation>
+Semester: Fall 2023 (aka F23)
+Course Name: Experience Innovation
+Course Number: 49-716
+Department: Integrated Innovation Institute
+Number of Units: 12
+Prerequisites: None
+Instructors: Megan Guidi
+Rooms: CA 115
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 49-716 Experience Innovation>
+
+<start course description for 49-716 Experience Innovation>
+Semester: Fall 2023 (aka F23)
+Course Description: In this course, students spend the first half of the semester studying the nature of experience from a theoretical perspective. At the same time, students investigate and propose an experience-based project they plan to explore, in self-selected teams, for the rest of the semester. Service and experience design frameworks are used as a means to analyze current offerings as well as to propose innovative new human experiences. Students learn to speak articulately about offerings that are made up of systems of products, services and other components and may be working in familiar and unfamiliar forms such as events, spaces, activities, scripts, processes, and software.
+</end course description for 49-716 Experience Innovation>

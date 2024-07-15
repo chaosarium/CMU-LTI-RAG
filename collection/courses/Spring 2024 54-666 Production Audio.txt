@@ -1,0 +1,16 @@
+<start course metadata for 54-666 Production Audio>
+Semester: Spring 2024 (aka S24)
+Course Name: Production Audio
+Course Number: 54-666
+Department: Drama
+Number of Units: N/A
+Prerequisites: None
+Instructors: Joe Pino
+Rooms: PCA 103
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-666 Production Audio>
+
+<start course description for 54-666 Production Audio>
+Semester: Spring 2024 (aka S24)
+Course Description: Introduction to the theories and technologies used in sound system design for theater and live entertainment. Sound Majors: Register for Section A, 6 Units Non-Majors: Register for Section B, 4 Units
+</end course description for 54-666 Production Audio>

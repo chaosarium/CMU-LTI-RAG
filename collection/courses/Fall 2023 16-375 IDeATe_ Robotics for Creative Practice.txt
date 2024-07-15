@@ -1,0 +1,16 @@
+<start course metadata for 16-375 IDeATe: Robotics for Creative Practice>
+Semester: Fall 2023 (aka F23)
+Course Name: IDeATe: Robotics for Creative Practice
+Course Number: 16-375
+Department: Robotics
+Number of Units: 10
+Prerequisites: 15-104 or 15-110 or 15-112 or 99-361 or 60-212 or 60-210
+Instructors: Garth Zeglin
+Rooms: HL A10
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 16-375 IDeATe: Robotics for Creative Practice>
+
+<start course description for 16-375 IDeATe: Robotics for Creative Practice>
+Semester: Fall 2023 (aka F23)
+Course Description: Robots come in all shapes and sizes: it is the integration of software and hardware that can make any machine surprisingly animate.  This  project-oriented course brings art and engineering together to build performance systems using embodied behavior as a creative medium.  Students learn skills for designing, constructing and programming automated systems for storytelling and human interaction, then explore  the results through exhibition and performance.  Technical topics include closed-loop motion control, expressive physical and  computational behavior, machine choreography, and performance conceptualization.  Discussion topics include both contemporary kinetic  sculpture and robotics research.  This interdisciplinary course is part of IDeATe Physical Computing but is open to any student.
+</end course description for 16-375 IDeATe: Robotics for Creative Practice>

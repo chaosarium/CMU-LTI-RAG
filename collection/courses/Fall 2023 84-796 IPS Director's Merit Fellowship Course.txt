@@ -1,0 +1,16 @@
+<start course metadata for 84-796 IPS Director's Merit Fellowship Course>
+Semester: Fall 2023 (aka F23)
+Course Name: IPS Director's Merit Fellowship Course
+Course Number: 84-796
+Department: Institute for Politics and Strategy
+Number of Units: 1
+Prerequisites: None
+Instructors: Mark Gardner
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 84-796 IPS Director's Merit Fellowship Course>
+
+<start course description for 84-796 IPS Director's Merit Fellowship Course>
+Semester: Fall 2023 (aka F23)
+Course Description: This 1-unit P/NP course is required for IPS Graduate Students who received a Director's Merit Fellowship upon admission to their program. Fellows are assigned either a Teaching Assistant or Research Assistant each semester of graduate enrollment and should prepare to work 10 hours/week towards their assignment. Fellows are expected to participate in a half-day orientation workshop at the beginning of their fellowship and then coordinate expectations and deliverables with their faculty supervisors each semester.  Faculty will assign mid-term and final grades; fellowships for the following semester will be re-assessed if a "NP" grade is issued.
+</end course description for 84-796 IPS Director's Merit Fellowship Course>

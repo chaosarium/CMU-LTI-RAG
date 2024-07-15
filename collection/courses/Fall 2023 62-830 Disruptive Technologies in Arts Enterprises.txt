@@ -1,0 +1,16 @@
+<start course metadata for 62-830 Disruptive Technologies in Arts Enterprises>
+Semester: Fall 2023 (aka F23)
+Course Name: Disruptive Technologies in Arts Enterprises
+Course Number: 62-830
+Department: CFA Interdisciplinary
+Number of Units: 6
+Prerequisites: None
+Instructors: Brett Crawford
+Rooms: HBH 1202
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 62-830 Disruptive Technologies in Arts Enterprises>
+
+<start course description for 62-830 Disruptive Technologies in Arts Enterprises>
+Semester: Fall 2023 (aka F23)
+Course Description: The world is undergoing monumental change. Much of this is fueled by the aftermath of the introduction of the World Wide Web in the mid-1990s and the entry of the personal computer to the mass marketplace. These actions opened up opportunities for computing and creativity using modern technology akin to the industrial revolution. Richard Florida identified and coined the term creative economy. Some have also coined this time as the second renaissance noting that this era is changing our core frameworks for civilization. As in the age of the renaissance, creativity and the arts are often at the cutting edge for creating and incorporating technologies in the world even though some nonprofit institutions seem slow to adapt. This seminar course provides students with multiple perspectives on how emerging technologies are disrupting arts enterprises, including arts-making, audience engagement, and arts management. From the Internet of Things to Virtual Reality, students will investigate what is happening in the field and what's on the fringe and about to break into the marketplace. Through readings, hands-on activities, and individualized research the course provides a breadth of understanding of multiple technologies for students overall while each individual student pursues deeper expertise in one or two technologies of their choice. The material submitted for assignments may be recommended to be included in the content created for AMT Lab (www.amt-lab.org) Readers for the platform are arts management professionals working in the field. Approximately 3000 individuals from around the world read the content monthly. The process for publication is provided on Canvas.
+</end course description for 62-830 Disruptive Technologies in Arts Enterprises>

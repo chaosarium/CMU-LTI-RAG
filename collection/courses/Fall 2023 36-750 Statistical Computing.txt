@@ -1,0 +1,16 @@
+<start course metadata for 36-750 Statistical Computing>
+Semester: Fall 2023 (aka F23)
+Course Name: Statistical Computing
+Course Number: 36-750
+Department: Statistics and Data Science
+Number of Units: 9
+Prerequisites: None
+Instructors: Christopher Genovese
+Rooms: PH 226B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 36-750 Statistical Computing>
+
+<start course description for 36-750 Statistical Computing>
+Semester: Fall 2023 (aka F23)
+Course Description: A detailed introduction to elements of computing relating to statistical modeling, targeted to PhD students and masters students in Statistics & Data Science. Topics include important data structures and algorithms; numerical methods; databases; parallelism and concurrency; and coding practices, program design, and testing. Multiple programming languages will be supported (e.g., C, R, Python, etc.). Those with no previous programming experience are welcome but will be required to learn the basics of at least one language via self-study.
+</end course description for 36-750 Statistical Computing>

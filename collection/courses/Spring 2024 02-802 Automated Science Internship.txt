@@ -1,0 +1,16 @@
+<start course metadata for 02-802 Automated Science Internship>
+Semester: Spring 2024 (aka S24)
+Course Name: Automated Science Internship
+Course Number: 02-802
+Department: Computational Biology
+Number of Units: N/A
+Prerequisites: None
+Instructors: Joshua Kangas
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 02-802 Automated Science Internship>
+
+<start course description for 02-802 Automated Science Internship>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is for MSAS students interested in taking an internship for credit.  This must be approved through the MSAS Directors.
+</end course description for 02-802 Automated Science Internship>

@@ -1,0 +1,16 @@
+<start course metadata for 03-121 Modern Biology>
+Semester: Fall 2023 (aka F23)
+Course Name: Modern Biology
+Course Number: 03-121
+Department: Biological Sciences
+Number of Units: 9
+Prerequisites: None
+Instructors: Adam Linstedt, Brett Wisniewski, Gordon Rule, Nesrine Affara
+Rooms: CMB 3046; DH 2315
+Locations: Doha, Qatar; Pittsburgh, Pennsylvania
+</end course metadata for 03-121 Modern Biology>
+
+<start course description for 03-121 Modern Biology>
+Semester: Fall 2023 (aka F23)
+Course Description: This is an introductory course that provides the basis for further studies in biochemistry, cell biology, genetics and molecular biology.  This course emphasizes the chemical principles underlying biological processes and cell structures as well as the analysis of genetics and heredity from a molecular perspective. This is the introductory biology course for all science and non-science majors.
+</end course description for 03-121 Modern Biology>

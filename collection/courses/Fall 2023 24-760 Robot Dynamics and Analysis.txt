@@ -1,0 +1,16 @@
+<start course metadata for 24-760 Robot Dynamics and Analysis>
+Semester: Fall 2023 (aka F23)
+Course Name: Robot Dynamics and Analysis
+Course Number: 24-760
+Department: Mechanical Engineering
+Number of Units: 12
+Prerequisites: 24-351 or 16-711
+Instructors: Aaron Johnson
+Rooms: DH 2302
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-760 Robot Dynamics and Analysis>
+
+<start course description for 24-760 Robot Dynamics and Analysis>
+Semester: Fall 2023 (aka F23)
+Course Description: This course covers the dynamics of robotic systems with a focus on the mathematical structure of the dynamics and numerical analysis. Topics will start by reintroducing basic kinematics and dynamics in a more formal mathematical framework before moving on to contact conditions, friction, hybrid dynamical systems, simulation, and trajectory optimization. After the course students will be able to write simulation and optimization methods for analyzing robotic systems. Students should have taken a prior course in dynamics, and be comfortable with linear algebra, multivariable calculus, and programming in Matlab.
+</end course description for 24-760 Robot Dynamics and Analysis>

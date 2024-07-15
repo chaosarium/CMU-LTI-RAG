@@ -1,0 +1,16 @@
+<start course metadata for 76-700 Professional Seminar>
+Semester: Fall 2023 (aka F23)
+Course Name: Professional Seminar
+Course Number: 76-700
+Department: English
+Number of Units: 3
+Prerequisites: None
+Instructors: Suguru Ishizaki
+Rooms: CMU REMOTE
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 76-700 Professional Seminar>
+
+<start course description for 76-700 Professional Seminar>
+Semester: Fall 2023 (aka F23)
+Course Description: This weekly, 3-unit seminar is designed to give professional and technical writing majors an overview of possible career and internship options and ways to pursue their professional interests. Each session will feature guest presenters who are professionals working in diverse communications-related fields such as web design, journalism, public relations, corporate and media relations, technical writing, medical communications, and working for non-profits. The visiting professionals talk about their own and related careers, show samples of their work, and answer student questions. The course is required for first-year MAPW students and is open to all English undergraduates, who are urged to participate in their sophomore or junior years to explore options for internships and careers.
+</end course description for 76-700 Professional Seminar>

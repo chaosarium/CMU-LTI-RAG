@@ -1,0 +1,16 @@
+<start course metadata for 94-842 Programming R for Analytics>
+Semester: Fall 2023 (aka F23)
+Course Name: Programming R for Analytics
+Course Number: 94-842
+Department: Heinz College Wide Courses
+Number of Units: 6
+Prerequisites: 91-801 or 90-711 or 90-707 or 95-796 or 90-777
+Instructors: Michael Simko
+Rooms: HBH 2009
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 94-842 Programming R for Analytics>
+
+<start course description for 94-842 Programming R for Analytics>
+Semester: Fall 2023 (aka F23)
+Course Description: An introduction to R, a widely used statistical programming language. Students will learn to import, export and manipulate different data types, analyze datasets using common statistical methods, design, construct and interpret statistical models, produce a variety of different customized graphical outputs, create scripts and generate reproducible reports. There will be a focus on using this experience to apply these skills in public policy areas.  Prerequisites: 91-801 Statistical Methods for Managers, or 95-796 Statistics for IT Managers  A good knowledge of statistics is preferred, but this course is focused on anyone wanting to learn the basics of the R language and how to use the tools R offers to be able to do basic data analysis, statistical calculations, create graphical output and generate reproduceable reports using R Markdown.
+</end course description for 94-842 Programming R for Analytics>

@@ -1,0 +1,16 @@
+<start course metadata for 33-122 Physics II for Biological Sciences and Chemistry Students>
+Semester: Spring 2024 (aka S24)
+Course Name: Physics II for Biological Sciences and Chemistry Students
+Course Number: 33-122
+Department: Physics
+Number of Units: 9
+Prerequisites: (21-120 and 33-121) or (33-151) or (33-141) or (21-120 and 33-111) or (33-131) or (33-106)
+Instructors: Mohamed Zayed, Stephen Garoff
+Rooms: CMB 1190; DH A301D
+Locations: Doha, Qatar; Pittsburgh, Pennsylvania
+</end course metadata for 33-122 Physics II for Biological Sciences and Chemistry Students>
+
+<start course description for 33-122 Physics II for Biological Sciences and Chemistry Students>
+Semester: Spring 2024 (aka S24)
+Course Description: This is the second course in the introductory physics sequence for chemistry and biological science majors. The course will consist of eight portions covering (1) electrostatics and dynamics, (2) electrical circuits, (3) magnetism, (4) waves, (5) optics, (6) diffusive motion, and (7) hydrostatic forces and flow. Emphasis will be put on the application of the underlying physical principles in the study of biology and chemistry. This course has a co-requisite of 21-122.
+</end course description for 33-122 Physics II for Biological Sciences and Chemistry Students>

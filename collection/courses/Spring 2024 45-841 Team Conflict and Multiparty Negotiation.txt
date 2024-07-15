@@ -1,0 +1,16 @@
+<start course metadata for 45-841 Team Conflict and Multiparty Negotiation>
+Semester: Spring 2024 (aka S24)
+Course Name: Team Conflict and Multiparty Negotiation
+Course Number: 45-841
+Department: Business Administration
+Number of Units: 6
+Prerequisites: 45-840
+Instructors: Laurie Weingart
+Rooms: TEP 2111
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-841 Team Conflict and Multiparty Negotiation>
+
+<start course description for 45-841 Team Conflict and Multiparty Negotiation>
+Semester: Spring 2024 (aka S24)
+Course Description: 45-840 ( Negotiations) is a Pre-Req for this course. This course focuses on conflict in teams and how to use negotiation skills to resolve conflicts and negotiate complex agreements involving multiple parties. It is an advanced negotiation course, designed for students who have already completed an introductory negotiation course. The course will include both experiential exercises and cases focusing on, but not limited to the following topics:      1) task conflict in interdisciplinary teams       2) interpersonal, emotional conflict: how to deal with it as a disputant and as a team lead       3) multi-party negotiation       4) team on team negotiation       5) negotiations that occur over time
+</end course description for 45-841 Team Conflict and Multiparty Negotiation>

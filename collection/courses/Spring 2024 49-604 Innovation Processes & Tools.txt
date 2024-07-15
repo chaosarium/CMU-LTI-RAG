@@ -1,0 +1,16 @@
+<start course metadata for 49-604 Innovation Processes & Tools>
+Semester: Spring 2024 (aka S24)
+Course Name: Innovation Processes & Tools
+Course Number: 49-604
+Department: Integrated Innovation Institute
+Number of Units: 10
+Prerequisites: None
+Instructors: Sarah Laiwala
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 49-604 Innovation Processes & Tools>
+
+<start course description for 49-604 Innovation Processes & Tools>
+Semester: Spring 2024 (aka S24)
+Course Description: MIIPS Online & Certificate Students Only - Methods & Tools for Product Innovation Certificate  This course covers early stages of a product innovation process: identifying, understanding, and then conceptualizing a product opportunity.  The course presents fundamental tools to assess trends, identify opportunities, identify and uncover the value proposition of key stakeholders, articulate the value proposition, define product requirements and conceptualize solutions.  Because innovation insights and ideas are new and can be abstract without additional effort, it is important that students learn how to make ideas more concrete via visual communication techniques.  As such, communication of work and findings are core to this course.  We will cover the following:  1. Industrial Design Sketching, 2. Information visualization & dashboards, 3. Graphic User interface design, 4. Executive Summary and Pitch Decks, 5. Visual Brand Language, Templates and Styling 6. Visual Explanations, and 7. Storyboarding and making simple videos.  Weekly visual communication assignments will allow students to develop their communication skills throughout the course. The course will revolve around opportunities for product innovation.   Students will implement the innovation process that they learn in projects, leading to a final deliverable of a product concept that they communicate with both text and visual techniques.
+</end course description for 49-604 Innovation Processes & Tools>

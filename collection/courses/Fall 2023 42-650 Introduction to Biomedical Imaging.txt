@@ -1,0 +1,16 @@
+<start course metadata for 42-650 Introduction to Biomedical Imaging>
+Semester: Fall 2023 (aka F23)
+Course Name: Introduction to Biomedical Imaging
+Course Number: 42-650
+Department: Biomedical Engineering
+Number of Units: 9
+Prerequisites: None
+Instructors: Jana Kainerstorfer
+Rooms: WEH 5403
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 42-650 Introduction to Biomedical Imaging>
+
+<start course description for 42-650 Introduction to Biomedical Imaging>
+Semester: Fall 2023 (aka F23)
+Course Description: The field of medical imaging describes methods of seeing the interior of the human body, as well as visual representation of tissue and organ function. The materials covered in this course will give an overview of existing medical imaging devices used in a clinical and pre-clinical setting. The course presents the principles of medical imaging technologies, explaining the mathematical and physical principles, as well as describing the fundamental aspects of instrumentation design. Students will gain a thorough understanding of how these methods are used to image morphological and physiological features. Imaging methods will include Ultrasound, X-ray, computed tomography (CT), and magnetic resonance imaging (MRI), as well as optical methods. For each method, the fundamental imaging principles will be discussed, and examples of clinical applications will be presented. No prior knowledge of imaging methods is required.
+</end course description for 42-650 Introduction to Biomedical Imaging>

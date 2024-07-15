@@ -1,0 +1,16 @@
+<start course metadata for 95-828 Machine Learning for Problem Solving>
+Semester: Spring 2024 (aka S24)
+Course Name: Machine Learning for Problem Solving
+Course Number: 95-828
+Department: Information Systems:Sch of IS & Mgt
+Number of Units: 12
+Prerequisites: None
+Instructors: Leman Akoglu
+Rooms: HBH A301
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 95-828 Machine Learning for Problem Solving>
+
+<start course description for 95-828 Machine Learning for Problem Solving>
+Semester: Spring 2024 (aka S24)
+Course Description: The main premise of the course is to equip students with the intuitive understanding of machine learning concepts grounded in real-world applications. The course is designed to deliver the practical knowledge and experience necessary for recognizing and formulating machine learning problems in the real world, as well as of the best practices and tools for effectively applying machine learning in practice. The emphasis will be on learning and practicing the machine learning process, involving the cycle of feature design, modeling, and evaluation.  Visit the Heinz College website for a more detailed description of the course.  Students are expected to have the following background: - Basic knowledge of probability  - Basic knowledge of linear algebra  - Working knowledge of basic computing principles - Basic programming skills at a level sufficient to write a reasonably non-trivial computer program in Python
+</end course description for 95-828 Machine Learning for Problem Solving>

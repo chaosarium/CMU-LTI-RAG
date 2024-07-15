@@ -1,0 +1,16 @@
+<start course metadata for 70-409 Innovation and Entrepreneurship in Emerging Markets>
+Semester: Spring 2024 (aka S24)
+Course Name: Innovation and Entrepreneurship in Emerging Markets
+Course Number: 70-409
+Department: Business Administration
+Number of Units: 9
+Prerequisites: None
+Instructors: Maher Hakim
+Rooms: CMB 1031
+Locations: Doha, Qatar
+</end course metadata for 70-409 Innovation and Entrepreneurship in Emerging Markets>
+
+<start course description for 70-409 Innovation and Entrepreneurship in Emerging Markets>
+Semester: Spring 2024 (aka S24)
+Course Description: This course focuses on the role that innovation-driven entrepreneurship and market-creating innovation play in the development of economies in emerging markets. The course will explore the potential economic development opportunities brought forward by market-creation innovations in emerging markets and will seek to understand the unique challenges and opportunities of innovation which face entrepreneurs in emerging markets.
+</end course description for 70-409 Innovation and Entrepreneurship in Emerging Markets>

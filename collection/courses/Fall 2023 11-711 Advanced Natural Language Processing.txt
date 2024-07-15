@@ -1,0 +1,16 @@
+<start course metadata for 11-711 Advanced Natural Language Processing>
+Semester: Fall 2023 (aka F23)
+Course Name: Advanced Natural Language Processing
+Course Number: 11-711
+Department: Language Technologies Institute
+Number of Units: 12
+Prerequisites: None
+Instructors: Daniel Fried, Robert Frederking
+Rooms: TEP 1403
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 11-711 Advanced Natural Language Processing>
+
+<start course description for 11-711 Advanced Natural Language Processing>
+Semester: Fall 2023 (aka F23)
+Course Description: Advanced natural language processing is an introductory graduate-level course on natural language processing aimed at students who are interested in doing cutting-edge research in the field. In it, we describe fundamental tasks in natural language processing such as syntactic, semantic, and discourse analysis, as well as methods to solve these tasks. The course focuses on modern methods using neural networks, and covers the basic modeling and learning algorithms required therefore. The class culminates in a project in which students attempt to reimplement and improve upon a research paper in a topic of their choosing.
+</end course description for 11-711 Advanced Natural Language Processing>

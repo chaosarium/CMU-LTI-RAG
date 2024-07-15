@@ -1,0 +1,16 @@
+<start course metadata for 15-750 Algorithms in the Real World>
+Semester: Fall 2023 (aka F23)
+Course Name: Algorithms in the Real World
+Course Number: 15-750
+Department: Computer Science
+Number of Units: 12
+Prerequisites: None
+Instructors: Rashmi Korlakai Vinayak
+Rooms: DH 1211; GHC 4303
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-750 Algorithms in the Real World>
+
+<start course description for 15-750 Algorithms in the Real World>
+Semester: Fall 2023 (aka F23)
+Course Description: The course covers a broad set of topics in algorithms design and analysis. The goal is to cover tools and algorithms that give students the ability to (a) recognize which tool or method to apply to problems, (b) to become reasonably proficient at using these tools, and (c) to be able to reason about the correctness and performance of the resulting algorithms. The course webpage for this semester will list the tentative list of topics to be covered; these will include basic graph algorithms, randomized algorithms, hashing and streaming, flows and linear programming, convex optimization, and linear algebraic algorithms. Please refer to https://www.cs.cmu.edu/~csd-grad/courseschedules22.html for the most recent schedule updates.
+</end course description for 15-750 Algorithms in the Real World>

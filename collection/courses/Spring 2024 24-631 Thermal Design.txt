@@ -1,0 +1,16 @@
+<start course metadata for 24-631 Thermal Design>
+Semester: Spring 2024 (aka S24)
+Course Name: Thermal Design
+Course Number: 24-631
+Department: Mechanical Engineering
+Number of Units: 12
+Prerequisites: 24-322
+Instructors: Yoed Rabin
+Rooms: PH A22
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-631 Thermal Design>
+
+<start course description for 24-631 Thermal Design>
+Semester: Spring 2024 (aka S24)
+Course Description: This course guides students through the design process of a practical thermal system. The course plan assumes a mastery of the fundamentals of thermodynamics, fluid mechanics and heat transfer at the undergraduate level. Lectures aim at design aspects and analysis techniques commonly used in the development of thermal systems. Lecture topics include heat sinks, heat pipes, compact heat exchangers, sensors and instrumentation, thermoelectric devices, and special topics closely related to the theme of the design activity for the semester. Design activity is conducted in teams and includes several cycles of oral presentations, class discussions, and a final written report. System design and analysis of performance are heavily based on computer-added design tools and simulation means. Student performance in this course is evaluated based on individual homework assignments on the various topics presented in class and on a team design project.
+</end course description for 24-631 Thermal Design>

@@ -1,0 +1,16 @@
+<start course metadata for 85-435 Biologically intelligent exploration>
+Semester: Fall 2023 (aka F23)
+Course Name: Biologically intelligent exploration
+Course Number: 85-435
+Department: Psychology
+Number of Units: 9
+Prerequisites: (85-213 or 85-211) and (21-111 or 21-120 or 21-115)
+Instructors: Timothy Verstynen
+Rooms: BH 336B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 85-435 Biologically intelligent exploration>
+
+<start course description for 85-435 Biologically intelligent exploration>
+Semester: Fall 2023 (aka F23)
+Course Description: Humans and other mammals exhibit a high degree of control when selecting actions in noisy contexts, quickly adapting to unexpected outcomes in order to better exploit opportunities arising in the future. This course will explore both the cognitive and neurobiological systems of adaptive decision-making, through a mixture of readings, lectures, and hands-on modeling projects (in Python and Matlab).
+</end course description for 85-435 Biologically intelligent exploration>

@@ -1,0 +1,16 @@
+<start course metadata for 45-830 Marketing Research>
+Semester: Spring 2024 (aka S24)
+Course Name: Marketing Research
+Course Number: 45-830
+Department: Business Administration
+Number of Units: 6
+Prerequisites: 45-730
+Instructors: Jeffrey Galak
+Rooms: TEP 2112
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-830 Marketing Research>
+
+<start course description for 45-830 Marketing Research>
+Semester: Spring 2024 (aka S24)
+Course Description: The course will be taught in a pseudo-flipped format.  For some of the allocated course time, you will NOT be required to attend class, but, rather, that class time will be "returned to you" to complete some asynchronous learning. Of the 13 course sessions, no more than 6 will be allocated to asynchronous content, specific timing and organization of the course will be made available on Canvas. COURSE OVERVIEW This course is aimed at the manager who is the ultimate user of marketing research and the one responsible for determining the scope and direction of research activities. The techniques of research design, data collection and data analysis occupy an important role in the work of a marketing manager. The course focuses on helping managers recognize the role of systematic information gathering and analysis in making marketing decisions. The aim is to develop an appreciation for the potential contributions and limitations of marketing research. While the emphasis of the course will be on the interpretation and application of the results for use in making real life marketing decisions, a substantial amount of time will also be devoted to understanding and using the key methodologies underlying modern marketing research. Students will get hands-on analytical experience by using the software package SPSS.
+</end course description for 45-830 Marketing Research>

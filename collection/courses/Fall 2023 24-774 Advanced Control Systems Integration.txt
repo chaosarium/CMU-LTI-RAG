@@ -1,0 +1,16 @@
+<start course metadata for 24-774 Advanced Control Systems Integration>
+Semester: Fall 2023 (aka F23)
+Course Name: Advanced Control Systems Integration
+Course Number: 24-774
+Department: Mechanical Engineering
+Number of Units: 12
+Prerequisites: (24-677) or (24-771)
+Instructors: Mark Bedillion
+Rooms: WEH 5415
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-774 Advanced Control Systems Integration>
+
+<start course description for 24-774 Advanced Control Systems Integration>
+Semester: Fall 2023 (aka F23)
+Course Description: This course focuses on the practical implementation of feedback / feedforward controllers.  The entire controller design process is presented, including system modeling and identification, compensator design, simulation, and hardware prototyping.  This is a project-based course in which students complete the controller design process on a nonlinear, MIMO hardware system.  The goal is train students on the system integration skills necessary for success in industry or experimental laboratory work.
+</end course description for 24-774 Advanced Control Systems Integration>

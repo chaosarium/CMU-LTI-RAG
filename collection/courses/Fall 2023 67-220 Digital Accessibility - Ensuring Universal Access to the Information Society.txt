@@ -1,0 +1,16 @@
+<start course metadata for 67-220 Digital Accessibility - Ensuring Universal Access to the Information Society>
+Semester: Fall 2023 (aka F23)
+Course Name: Digital Accessibility - Ensuring Universal Access to the Information Society
+Course Number: 67-220
+Department: Information Systems Program
+Number of Units: 9
+Prerequisites: None
+Instructors: Divakaran Liginlal
+Rooms: WEH 8427
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 67-220 Digital Accessibility - Ensuring Universal Access to the Information Society>
+
+<start course description for 67-220 Digital Accessibility - Ensuring Universal Access to the Information Society>
+Semester: Fall 2023 (aka F23)
+Course Description: Digital accessibility addresses a user's ability to easily access an electronic document, a website, or a computer application unhindered by visual, auditory, motor or cognitive impairments or temporal disabilities arising from age, illness etc. Students who takes this course will gain a deep understanding of the diverse problems faced by people with disabilities in their interactions in a digital space and how the use of assistive technologies help them surmount the related accessibility barriers (CT1 and CT3). They will learn about inclusive design principles and how to author content with consideration of design decisions that impact digital accessibility. Besides gaining an understanding of user-centered design principles, the students will learn how to apply Web Content Accessibility Guidelines (WCAG) to design and develop a website (CT2). To cap it, students will learn how to test, evaluate and report conformance of a website with usability principles and accessibility standards. (CT3)
+</end course description for 67-220 Digital Accessibility - Ensuring Universal Access to the Information Society>

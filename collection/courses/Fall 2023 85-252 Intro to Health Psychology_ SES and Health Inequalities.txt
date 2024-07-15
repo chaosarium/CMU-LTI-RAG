@@ -1,0 +1,16 @@
+<start course metadata for 85-252 Intro to Health Psychology: SES and Health Inequalities>
+Semester: Fall 2023 (aka F23)
+Course Name: Intro to Health Psychology: SES and Health Inequalities
+Course Number: 85-252
+Department: Psychology
+Number of Units: 3
+Prerequisites: None
+Instructors: Chante Cox-Boyd
+Rooms: CMB 1031
+Locations: Doha, Qatar
+</end course metadata for 85-252 Intro to Health Psychology: SES and Health Inequalities>
+
+<start course description for 85-252 Intro to Health Psychology: SES and Health Inequalities>
+Semester: Fall 2023 (aka F23)
+Course Description: Health Disparities exist in many countries around the world. For years researchers have sought to determine the root cause of these disparities and to explain why some people live significantly longer, healthier lives than others. Both mortality and morbidity rates can be related to ones' place in society and one's interactions with others. This course is designed to critically examine the social factors research has found to impact individual and population health experiences. We will focus specifically on those factors that comprise one's socioeconomic status. Students in the course will learn how money and access to health services are not the only factors that matters when it comes to one's health.
+</end course description for 85-252 Intro to Health Psychology: SES and Health Inequalities>

@@ -1,0 +1,16 @@
+<start course metadata for 57-192 Keyboard Studies>
+Semester: Fall 2023 (aka F23)
+Course Name: Keyboard Studies
+Course Number: 57-192
+Department: Music
+Number of Units: 3
+Prerequisites: 57-191
+Instructors: Carla Larocca
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-192 Keyboard Studies>
+
+<start course description for 57-192 Keyboard Studies>
+Semester: Fall 2023 (aka F23)
+Course Description: All undergraduate music students are required to take four semesters of keyboard studies during their freshman and sophomore years. The emphasis of this course is to develop a practical keyboard facility, which includes keyboard theory and technique, sightreading, solo and ensemble repertoire, transposition, and a variety of creative activities such as harmonization and improvisation.
+</end course description for 57-192 Keyboard Studies>

@@ -1,0 +1,16 @@
+<start course metadata for 51-239 Prototyping Lab II: Communications>
+Semester: Spring 2024 (aka S24)
+Course Name: Prototyping Lab II: Communications
+Course Number: 51-239
+Department: Design
+Number of Units: 9
+Prerequisites: 51-227
+Instructors: Andrew Twigg
+Rooms: MM 211
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-239 Prototyping Lab II: Communications>
+
+<start course description for 51-239 Prototyping Lab II: Communications>
+Semester: Spring 2024 (aka S24)
+Course Description: Program simple websites as a means of learning basic HTML 5.0 and CSS; prepare documents for digital and print production using Adobe InDesign, Illustrator, Acrobat; learn basics of UX prototyping
+</end course description for 51-239 Prototyping Lab II: Communications>

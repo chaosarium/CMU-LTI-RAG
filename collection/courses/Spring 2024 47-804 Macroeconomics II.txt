@@ -1,0 +1,16 @@
+<start course metadata for 47-804 Macroeconomics II>
+Semester: Spring 2024 (aka S24)
+Course Name: Macroeconomics II
+Course Number: 47-804
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Liyan Shi
+Rooms: TEP 5219
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 47-804 Macroeconomics II>
+
+<start course description for 47-804 Macroeconomics II>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is the second course in the core macro sequence of the economics PhD program. The course expands on the topics discussed in macroeconomics 1. Mainly the course focuses on macroeconomic models that involve heterogeneity. The topics covered in the class are unemployment, sources of income and consumption inequality, international trade and its interactions with inequality.
+</end course description for 47-804 Macroeconomics II>

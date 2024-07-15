@@ -1,0 +1,16 @@
+<start course metadata for 54-336 Musical Theater History>
+Semester: Spring 2024 (aka S24)
+Course Name: Musical Theater History
+Course Number: 54-336
+Department: Drama
+Number of Units: 6
+Prerequisites: None
+Instructors: Amanda Olmstead
+Rooms: WEH 5312
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-336 Musical Theater History>
+
+<start course description for 54-336 Musical Theater History>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is a survey of musical comedy and musical theatre performances throughout history. Often considered a quintessential American theatrical form, we will also consider what "musical theatre" or "musical drama" means beyond the borders of the United States. The course will primarily focus in the time frame of 1860-present. We will examine the historical background, development and evolution of form, as well as impact and proliferation of this performance style. The course will involve lecture-based, discussion-based, and project-based styles of engagement.   **No previous knowledge of or practice of "musical theatre" is necessary to succeed in this course. Open to non-majors.
+</end course description for 54-336 Musical Theater History>

@@ -1,0 +1,16 @@
+<start course metadata for 45-923 Financial Regulation>
+Semester: Fall 2023 (aka F23)
+Course Name: Financial Regulation
+Course Number: 45-923
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Chester Spatt
+Rooms: TEP 2118
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-923 Financial Regulation>
+
+<start course description for 45-923 Financial Regulation>
+Semester: Fall 2023 (aka F23)
+Course Description: Both the financial crisis (2008-2009) and COVID-19 (2020-  ) as well as the digitalization of our financial markets (e.g., the prevalence of "big data," digital assets and electronic algorithms, products and platforms) have focused enhanced attention to the role of regulation for our financial system (and associated property rights) and the broader economy. The course will address the foundations of regulation ("why regulate?") from various perspectives within the context of a market economy, highlighting the sources of "market failure" (such as externalities, adverse selection, incentive conflicts, and natural monopoly) and potential remedies (such as taxes and fees, price regulation, disclosures, guarantees, and bans).  The conflicting goals among regulators (and why we have multiple regulators) and their impact on the meaning of regulation will be considered along with regulatory competition/arbitrage.
+</end course description for 45-923 Financial Regulation>

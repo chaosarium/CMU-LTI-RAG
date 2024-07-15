@@ -1,0 +1,16 @@
+<start course metadata for 17-607 Privacy by Design Practicum>
+Semester: Spring 2024 (aka S24)
+Course Name: Privacy by Design Practicum
+Course Number: 17-607
+Department: Software & Societal Systems
+Number of Units: N/A
+Prerequisites: None
+Instructors: Lorrie Cranor
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 17-607 Privacy by Design Practicum>
+
+<start course description for 17-607 Privacy by Design Practicum>
+Semester: Spring 2024 (aka S24)
+Course Description: Students in this course will work in small teams on a large semester-long Privacy By Design project for a project sponsor. Students will be expected to deliver a final report and project presentation at the end of the semester. This course is for students in the MSIT-Privacy Engineering program or by permission of the instructor.
+</end course description for 17-607 Privacy by Design Practicum>

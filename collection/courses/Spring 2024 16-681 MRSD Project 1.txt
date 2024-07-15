@@ -1,0 +1,16 @@
+<start course metadata for 16-681 MRSD Project 1>
+Semester: Spring 2024 (aka S24)
+Course Name: MRSD Project 1
+Course Number: 16-681
+Department: Robotics
+Number of Units: 15
+Prerequisites: None
+Instructors: John Dolan
+Rooms: NSH 3002
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 16-681 MRSD Project 1>
+
+<start course description for 16-681 MRSD Project 1>
+Semester: Spring 2024 (aka S24)
+Course Description: (Required core course for MRSD first-year students.) Students will be required to participate in a two-semester on-campus lecture- and laboratory-style project course. The project course requires students to form small project teams to work on a hands-on robotics / automation topic proposed by the instructor(s) and of interest to the robotics / automation industry at large. The project is intended to allow students to acquire hands-on experience and apply concepts and methods taught in class. Class lectures will emphasize practical application and cover relevant topics including robotic design methodologies, system modeling, mechanical components, sensor and I/O interfacing, motor control, microcontroller and embedded control basics, basic software development methodologies, and troubleshooting. The setting will consist of a mix of targeted technology instruction / lectures and hands-on work in the laboratory. Students will learn the interconnection of theory and practice and understand the challenges of real-world application. The course will provide opportunities to apply principles from other MRSD courses, especially the Systems Engineering course, as well as those from the Intro to Robotics Business course. Students will be taught the project / technology development process from developing performance-requirements/system-specifications through test-plan development, the technology development cycle, and results analysis and reporting. The outcome of this two-semester course will be a working robot, a public demonstration, and a final project report.
+</end course description for 16-681 MRSD Project 1>

@@ -1,0 +1,16 @@
+<start course metadata for 14-684 Cyber Law and Ethics>
+Semester: Spring 2024 (aka S24)
+Course Name: Cyber Law and Ethics
+Course Number: 14-684
+Department: Information Networking Institute
+Number of Units: 6
+Prerequisites: None
+Instructors: Joanne Peca
+Rooms: INI DEC
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 14-684 Cyber Law and Ethics>
+
+<start course description for 14-684 Cyber Law and Ethics>
+Semester: Spring 2024 (aka S24)
+Course Description: In this course, students learn about US and international laws they must comply with while working as cyber operations professionals. Learn how to stay on the right side of the law! Starting with international law, we cover the formation of the United Nations, plus the Hague and Geneva Conventions. We study sources of US law including the three branches of government, the Constitution, and relevant case law in privacy. We address statutory laws that apply generally to computer professionals like the Computer Fraud and Abuse act and other Title 18 crimes, as well as laws specific to military applications like Titles 10 and 50. Woven throughout, we consider ethics and social responsibility, then conclude with specific issues around ethical hacking.
+</end course description for 14-684 Cyber Law and Ethics>

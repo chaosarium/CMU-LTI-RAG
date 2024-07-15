@@ -1,0 +1,16 @@
+<start course metadata for 54-859 Production Management Workshop>
+Semester: Spring 2024 (aka S24)
+Course Name: Production Management Workshop
+Course Number: 54-859
+Department: Drama
+Number of Units: 3
+Prerequisites: None
+Instructors: David Holcomb
+Rooms: PCA 307
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-859 Production Management Workshop>
+
+<start course description for 54-859 Production Management Workshop>
+Semester: Spring 2024 (aka S24)
+Course Description: Investigates the organization, planning and interpersonal skills required to  successfully manage a live theatrical production.  Topics covered include:  Budgeting, Scheduling, Communication, Job Descriptions, Reporting and  Project Management.    Permission of instructor required.
+</end course description for 54-859 Production Management Workshop>

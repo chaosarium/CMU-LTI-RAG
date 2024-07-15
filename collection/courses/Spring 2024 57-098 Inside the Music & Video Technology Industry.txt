@@ -1,0 +1,16 @@
+<start course metadata for 57-098 Inside the Music & Video Technology Industry>
+Semester: Spring 2024 (aka S24)
+Course Name: Inside the Music & Video Technology Industry
+Course Number: 57-098
+Department: Music
+Number of Units: 1
+Prerequisites: None
+Instructors: Jay LeBoeuf
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-098 Inside the Music & Video Technology Industry>
+
+<start course description for 57-098 Inside the Music & Video Technology Industry>
+Semester: Spring 2024 (aka S24)
+Course Description: Inside the Music and Video Technology Industry explores how leading audio, music, and video technology companies, such as Sonos, Adobe, Pandora, Avid, Dolby, and iZotope bring products from idea to market. We examine best practices, roles, day-to-­day responsibilities, desired skill sets, and department/team function. Students are introduced to full time and internship roles available for College of Fine Arts and Engineering students in this amazing industry, such as marketing, product management, software and hardware engineering, design, and more.
+</end course description for 57-098 Inside the Music & Video Technology Industry>

@@ -1,0 +1,16 @@
+<start course metadata for 15-210 Parallel and Sequential Data Structures and Algorithms>
+Semester: Fall 2023 (aka F23)
+Course Name: Parallel and Sequential Data Structures and Algorithms
+Course Number: 15-210
+Department: Computer Science
+Number of Units: 12
+Prerequisites: 15-122 and 15-150
+Instructors: Charles Garrod, Guy Blelloch
+Rooms: DNM DNM; GHC 4401
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-210 Parallel and Sequential Data Structures and Algorithms>
+
+<start course description for 15-210 Parallel and Sequential Data Structures and Algorithms>
+Semester: Fall 2023 (aka F23)
+Course Description: Teaches students about how to design, analyze, and program algorithms and data structures.  The course emphasizes parallel algorithms and analysis, and how sequential algorithms can be considered a special case.  The course goes into more theoretical content on algorithm analysis than 15-122 and 15-150 while still including a significant programming component and covering a variety of practical applications such as problems in data analysis, graphics, text processing, and the computational sciences.  NOTE: students must achieve a C or better in order to use this course to satisfy the pre-requisite for any subsequent Computer  Science course. Register for Lecture 1.  All students will be waitlisted for Lecture 2 until Lecture 1 is full.
+</end course description for 15-210 Parallel and Sequential Data Structures and Algorithms>

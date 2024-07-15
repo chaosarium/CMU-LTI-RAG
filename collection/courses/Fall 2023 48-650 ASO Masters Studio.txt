@@ -1,0 +1,16 @@
+<start course metadata for 48-650 ASO Masters Studio>
+Semester: Fall 2023 (aka F23)
+Course Name: ASO Masters Studio
+Course Number: 48-650
+Department: Architecture
+Number of Units: 18
+Prerequisites: None
+Instructors: Anne Chen, Daragh Byrne, Instructor TBA, Jeremy Ficca, Mary-Lou Arscott, Tommy Yang
+Rooms: MM 312
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-650 ASO Masters Studio>
+
+<start course description for 48-650 ASO Masters Studio>
+Semester: Fall 2023 (aka F23)
+Course Description: TBA
+</end course description for 48-650 ASO Masters Studio>

@@ -1,0 +1,16 @@
+<start course metadata for 18-641 Design Patterns for Smartphone Development>
+Semester: Spring 2024 (aka S24)
+Course Name: Design Patterns for Smartphone Development
+Course Number: 18-641
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Eric Umuhoza
+Rooms: CMR F309
+Locations: Kigali, Rwanda
+</end course metadata for 18-641 Design Patterns for Smartphone Development>
+
+<start course description for 18-641 Design Patterns for Smartphone Development>
+Semester: Spring 2024 (aka S24)
+Course Description: This course provides an intensive exploration of computer programming by reviewing the basics of Object-Orientated programming and moving quickly to advanced programming using design patterns and a multi-tiered architecture. As part of the course work, students will learn smartphone development and how to apply the learned programming techniques to create extensible, reusable and quality software. It is intended for master's students who have had some prior, but perhaps limited, programming experience in Java or another object-oriented programming language; it is not intended as a first course in programming.
+</end course description for 18-641 Design Patterns for Smartphone Development>

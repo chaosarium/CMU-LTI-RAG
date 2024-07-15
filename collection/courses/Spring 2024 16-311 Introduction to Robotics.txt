@@ -1,0 +1,16 @@
+<start course metadata for 16-311 Introduction to Robotics>
+Semester: Spring 2024 (aka S24)
+Course Name: Introduction to Robotics
+Course Number: 16-311
+Department: Robotics
+Number of Units: 12
+Prerequisites: 24-311 or 21-260 or 18-202 or 21-241 or 21-240
+Instructors: Ananya Rao, Howie Choset
+Rooms: GHC 4215; GHC 4307
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 16-311 Introduction to Robotics>
+
+<start course description for 16-311 Introduction to Robotics>
+Semester: Spring 2024 (aka S24)
+Course Description: This course presents an overview of robotics in practice and research with topics including vision, machine learning, motion planning, mobile mechanisms, kinematics, inverse kinematics, and sensors. In course projects, students construct LEGO robots which are driven by a microcontroller, with each project reinforcing the basic principles developed in lectures. Students usually work in teams of three: an electrical engineer, a mechanical engineer, and a computer scientist. Groups are typically self-formed except for the first lab.  This course will also expose students to some of the contemporary happenings in robotics, including current robotics research, applications, robot contests and robots in the news.  Students registering for this course must register for both Mon/Wed mornings and Tuesday afternoon sections.
+</end course description for 16-311 Introduction to Robotics>

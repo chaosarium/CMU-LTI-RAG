@@ -1,0 +1,16 @@
+<start course metadata for 76-390 Style>
+Semester: Fall 2023 (aka F23)
+Course Name: Style
+Course Number: 76-390
+Department: English
+Number of Units: 9
+Prerequisites: (76-101) or (76-102) or (76-106 and 76-107) or (76-107 and 76-108) or (76-106 and 76-108)
+Instructors: John Oddo, Kira Dreher
+Rooms: CMB 3178; WEH 6423
+Locations: Doha, Qatar; Pittsburgh, Pennsylvania
+</end course metadata for 76-390 Style>
+
+<start course description for 76-390 Style>
+Semester: Fall 2023 (aka F23)
+Course Description: This course teaches you how to write clearly. Specifically, the principles you learn in this course will help you 1) to clearly represent actions and the characters responsible for them; 2) to make your paragraphs coherent and cohesive; 3) to write sentences that stress important information; 4) to cut unnecessary prose; and 5) to reshape lengthy sentences so as not to perplex your reader.
+</end course description for 76-390 Style>

@@ -1,0 +1,16 @@
+<start course metadata for 73-427 Sustainability, Energy, and Environmental Economics>
+Semester: Fall 2023 (aka F23)
+Course Name: Sustainability, Energy, and Environmental Economics
+Course Number: 73-427
+Department: Economics
+Number of Units: 9
+Prerequisites: (73-102 or 73-100 or 73-104) and (70-207 or 36-217 or 36-220 or 36-225 or 36-202 or 36-200 or 36-207)
+Instructors: Nicholas Muller
+Rooms: TEP 2612
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 73-427 Sustainability, Energy, and Environmental Economics>
+
+<start course description for 73-427 Sustainability, Energy, and Environmental Economics>
+Semester: Fall 2023 (aka F23)
+Course Description: Topics related to sustainability and the environment are increasingly important to businesses, policymakers, and the general public. This course applies the tools of economic analysis to the problems of environmental protection, natural resource management, and energy production and use. The course will begin by introducing students to how an economist approaches problems of market failure commonly found in environmental contexts. Next, we will explore models that characterize solutions to such environmental issues. We will then address questions regarding measurement, policy design, and, finally, we will apply the tools that we have developed during the semester to the problems of climate change, and the optimal management of non-renewable resources. (Lecture, 3 hours). Minimum grade of "C" required in all economics pre-requisite courses.
+</end course description for 73-427 Sustainability, Energy, and Environmental Economics>

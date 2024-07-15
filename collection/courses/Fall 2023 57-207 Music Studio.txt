@@ -1,0 +1,16 @@
+<start course metadata for 57-207 Music Studio>
+Semester: Fall 2023 (aka F23)
+Course Name: Music Studio
+Course Number: 57-207
+Department: Music
+Number of Units: N/A
+Prerequisites: None
+Instructors: Cynthia Dealmeida, David Harding, Frederic Chiu, Instructor TBA, John Marcinizyn, William van der Sloot
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-207 Music Studio>
+
+<start course description for 57-207 Music Studio>
+Semester: Fall 2023 (aka F23)
+Course Description: Provides the opportunity for students to pursue study in a second instrument or area.  By special permission only.
+</end course description for 57-207 Music Studio>

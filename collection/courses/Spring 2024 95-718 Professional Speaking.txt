@@ -1,0 +1,16 @@
+<start course metadata for 95-718 Professional Speaking>
+Semester: Spring 2024 (aka S24)
+Course Name: Professional Speaking
+Course Number: 95-718
+Department: Information Systems:Sch of IS & Mgt
+Number of Units: 6
+Prerequisites: None
+Instructors: Haylee Massaro, Rebekah Fitzsimmons, Stacy Rosenberg, Stefan Labash
+Rooms: HBH 1004; HBH 1006; HBH 1007; HBH 1208; HBH 2003; HBH 2011
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 95-718 Professional Speaking>
+
+<start course description for 95-718 Professional Speaking>
+Semester: Spring 2024 (aka S24)
+Course Description: Professional Speaking provides practical instruction for preparing and delivering professional presentations and communicating in professional situations. Activities and assignments include: developing targeted, strategic messages; structuring content; creating cohesive and meaningful visuals; exploring new technologies; working collaboratively in a group presentation; and, speaking extemporaneously. Students engage specific audiences using a communication style (both verbal and nonverbal) suitable for workplace environments. Overall, the course helps students develop confidence and apply effective techniques when speaking in a public setting.
+</end course description for 95-718 Professional Speaking>

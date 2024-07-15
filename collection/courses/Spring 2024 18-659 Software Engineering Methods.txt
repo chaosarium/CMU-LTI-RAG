@@ -1,0 +1,16 @@
+<start course metadata for 18-659 Software Engineering Methods>
+Semester: Spring 2024 (aka S24)
+Course Name: Software Engineering Methods
+Course Number: 18-659
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: 18-652
+Instructors: Cecile Peraire
+Rooms: B23 109
+Locations: San Jose, California
+</end course metadata for 18-659 Software Engineering Methods>
+
+<start course description for 18-659 Software Engineering Methods>
+Semester: Spring 2024 (aka S24)
+Course Description: The course exposes students to the challenges of real-world software development. Indeed, industry software systems are often complex and developed by large and distributed teams that need to continuously adapt to ever-changing circumstances. Students learn to tackle this challenge from both theoretical and practical perspectives in the context of a semester-long project where the entire class works together as a team of teams. They define the optimal software development method for their project aimed at evolving an existing software system. They build new system increments by applying their own method. They practice collective code ownership while balancing feature development with refactoring to avoid technical debt. They measure the quality of their product, the productivity of their team, and the predictability of their process. Students also reflect on the effectiveness of their approach and adapt their way of working via continuous improvement.  This course is intended for ECE master students with a concentration in Software Engineering and will satisfy the "Systems" course area requirement.  Registration in the course is by invitation only: Instructors will extend invitations to students based on their performance in 18652 and potentially other courses.
+</end course description for 18-659 Software Engineering Methods>

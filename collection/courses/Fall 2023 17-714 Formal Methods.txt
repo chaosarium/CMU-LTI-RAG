@@ -1,0 +1,16 @@
+<start course metadata for 17-714 Formal Methods>
+Semester: Fall 2023 (aka F23)
+Course Name: Formal Methods
+Course Number: 17-714
+Department: Software & Societal Systems
+Number of Units: 6
+Prerequisites: None
+Instructors: Garlan, Kang
+Rooms: 3SC 265
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 17-714 Formal Methods>
+
+<start course description for 17-714 Formal Methods>
+Semester: Fall 2023 (aka F23)
+Course Description: Scientific foundations for software engineering depend on the use of precise, abstract models for describing and reasoning about properties of software systems. This course considers a variety of standard models for representing sequential and concurrent systems, such as state machines, algebras, and traces. It shows how different logics can be used to specify properties of systems, such as functional correctness, deadlock freedom, and internal consistency. Concepts such as compositionality, abstraction, invariants, non-determinism, and inductive definitions are recurrent themes throughout the course. After completing this course, students will: 1. Understand the strengths and weaknesses of certain models and logics including state machines, algebraic and process models, and temporal logic; 2. Be able to select and describe appropriate abstract formal models for certain classes of systems, describe abstraction relations between different levels of description, and reason about the correctness of refinements; 3. Be able to prove elementary properties about systems described by the models introduced in the course; and 4. Understand some of the strengths and weakness of formal automated reasoning tools. Prerequisites: Undergraduate discrete math including first-order logic, sets, functions, relations, and simple proof techniques such as induction.
+</end course description for 17-714 Formal Methods>

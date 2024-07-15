@@ -1,0 +1,16 @@
+<start course metadata for 73-230 Intermediate Microeconomics>
+Semester: Fall 2023 (aka F23)
+Course Name: Intermediate Microeconomics
+Course Number: 73-230
+Department: Economics
+Number of Units: 9
+Prerequisites: (21-259 or 21-256 or 21-269 or 21-268) and (73-100 or 73-102 or 73-104)
+Instructors: Selman Erol
+Rooms: TEP 2611; TEP 2700
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 73-230 Intermediate Microeconomics>
+
+<start course description for 73-230 Intermediate Microeconomics>
+Semester: Fall 2023 (aka F23)
+Course Description: This course builds on the Principles of Economics course. It focuses on the following topics: theory of the consumer, theory of the producer, perfectly competitive market equilibrium, imperfect competition, and market failures due to asymmetric information such as adverse selection and moral hazard.  (Lecture, 3 hours; Recitation, 1 hour).
+</end course description for 73-230 Intermediate Microeconomics>

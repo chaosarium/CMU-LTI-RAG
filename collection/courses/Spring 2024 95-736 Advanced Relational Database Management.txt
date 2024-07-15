@@ -1,0 +1,16 @@
+<start course metadata for 95-736 Advanced Relational Database Management>
+Semester: Spring 2024 (aka S24)
+Course Name: Advanced Relational Database Management
+Course Number: 95-736
+Department: Information Systems:Sch of IS & Mgt
+Number of Units: 6
+Prerequisites: 95-813 or 95-703 or 90-838
+Instructors: Randy Trzeciak
+Rooms: HBH 1002
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 95-736 Advanced Relational Database Management>
+
+<start course description for 95-736 Advanced Relational Database Management>
+Semester: Spring 2024 (aka S24)
+Course Description: This course will review and identify the advanced technology requirements of relational database management systems.  It is expected that students have a strong foundation of RDBMs knowledge, skills, and abilities, including relational algebra, the relational model, normalization, and structure query language.  This course will have a technology component and an advanced topics component. Within the technology component, the student will learn and use several products: Oracle Data Modeler for database modeling, PL/SQL for creating program units that use SQL, and Oracle Enterprise Manager and/or Tool for Oracle Application Developers (TOAD) for managing and Oracle RDBMS and program units.   Within the advanced topics component, we will use some of our class sessions to review and discuss readings in topics like RDBMS -vs- NoSQL databases, database security, database administration, distributed databases, object-oriented databases, data mining and warehousing, grid computing, introduction to New SQL databases, OLTP, and database uses for the web.
+</end course description for 95-736 Advanced Relational Database Management>

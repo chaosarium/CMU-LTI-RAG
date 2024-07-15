@@ -1,0 +1,16 @@
+<start course metadata for 03-124 Modern Biology Laboratory>
+Semester: Spring 2024 (aka S24)
+Course Name: Modern Biology Laboratory
+Course Number: 03-124
+Department: Biological Sciences
+Number of Units: 9
+Prerequisites: None
+Instructors: Amber Laperuta, Lynley Doonan
+Rooms: WEH 5421
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 03-124 Modern Biology Laboratory>
+
+<start course description for 03-124 Modern Biology Laboratory>
+Semester: Spring 2024 (aka S24)
+Course Description: This laboratory is designed to introduce students to modern concepts in the biological sciences. The experiments illustrate many of the principles covered in 03-121 and 03-230. Experimentation using living organisms and/or their tissues, cells or molecules is an essential component of this course.
+</end course description for 03-124 Modern Biology Laboratory>

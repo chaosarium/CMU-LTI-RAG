@@ -1,0 +1,16 @@
+<start course metadata for 51-249 Prototyping Lab II: Products>
+Semester: Spring 2024 (aka S24)
+Course Name: Prototyping Lab II: Products
+Course Number: 51-249
+Department: Design
+Number of Units: 9
+Prerequisites: 51-247
+Instructors: Josiah Stadelmeier
+Rooms: PH A27B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-249 Prototyping Lab II: Products>
+
+<start course description for 51-249 Prototyping Lab II: Products>
+Semester: Spring 2024 (aka S24)
+Course Description: This course introduces students to high fidelity modeling techniques through a series of machines, processes, and or methods to simulate desired form, scale, and proportions.
+</end course description for 51-249 Prototyping Lab II: Products>

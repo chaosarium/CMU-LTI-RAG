@@ -1,0 +1,16 @@
+<start course metadata for 57-993 Artist Diploma Recital>
+Semester: Fall 2023 (aka F23)
+Course Name: Artist Diploma Recital
+Course Number: 57-993
+Department: Music
+Number of Units: 1
+Prerequisites: None
+Instructors: Instructor TBA
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-993 Artist Diploma Recital>
+
+<start course description for 57-993 Artist Diploma Recital>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is for undergraduate students who have completed Advanced Solfege IV and for graduate students with similar preparation.  It will help the student cope with the melodic, harmonic, and rhythmic problems, presented in dictation, encountered in twentieth century music.  This is a mini-course which meets during the second half of the semester.
+</end course description for 57-993 Artist Diploma Recital>

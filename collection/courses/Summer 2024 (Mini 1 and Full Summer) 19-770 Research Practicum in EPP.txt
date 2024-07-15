@@ -1,0 +1,16 @@
+<start course metadata for 19-770 Research Practicum in EPP>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Research Practicum in EPP
+Course Number: 19-770
+Department: Engineering & Public Policy
+Number of Units: N/A
+Prerequisites: None
+Instructors: Deanna Matthews, Nicholas Muller
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 19-770 Research Practicum in EPP>
+
+<start course description for 19-770 Research Practicum in EPP>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: Research Practicum in EPP
+</end course description for 19-770 Research Practicum in EPP>

@@ -1,0 +1,16 @@
+<start course metadata for 57-340 Acting IV>
+Semester: Spring 2024 (aka S24)
+Course Name: Acting IV
+Course Number: 57-340
+Department: Music
+Number of Units: 6
+Prerequisites: 57-339
+Instructors: Kelly Trumbull
+Rooms: CFA ACH
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-340 Acting IV>
+
+<start course description for 57-340 Acting IV>
+Semester: Spring 2024 (aka S24)
+Course Description: Continues 57-339 Acting III.
+</end course description for 57-340 Acting IV>

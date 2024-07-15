@@ -1,0 +1,16 @@
+<start course metadata for 16-848 Hands: Design and Control for Dexterous Manipulation>
+Semester: Spring 2024 (aka S24)
+Course Name: Hands: Design and Control for Dexterous Manipulation
+Course Number: 16-848
+Department: Robotics
+Number of Units: 12
+Prerequisites: None
+Instructors: Nancy Pollard
+Rooms: PH A18B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 16-848 Hands: Design and Control for Dexterous Manipulation>
+
+<start course description for 16-848 Hands: Design and Control for Dexterous Manipulation>
+Semester: Spring 2024 (aka S24)
+Course Description: Research related to hands has increased dramatically over the past decade.  Robot hand innovation may be at an all time high, with new materials and manufacturing techniques promoting an explosion of ideas.   Hands have become a priority in virtual reality and telepresence.    Even the study of how people use their hands is seeing the growth of new ideas and themes.   With all of this attention on hands, are we close to a breakthrough in dexterity, or are we still missing some things needed for truly dexterous manipulation?    In this course, we will survey robotic hands and learn about the human hand with the goal of pushing the frontiers on hand design and control for dexterous manipulation. We will consider the necessary kinematics and dynamics for dexterity, what sensors are required to carry out dexterous interactions, the importance of reflexes and compliance, the role of machine learning in grasping and manipulation, and the challenge of uncertainty.  We will explore state of the art manufacturing and design techniques, including innovations in soft robotics and embedded sensing.  We will examine the human hand: its structure, sensing capabilities, human grasp choice and control strategies for inspiration and benchmarking. Students will be asked to present one or two research papers, participate in discussions and short research or design exercises, and carry out a final project.
+</end course description for 16-848 Hands: Design and Control for Dexterous Manipulation>

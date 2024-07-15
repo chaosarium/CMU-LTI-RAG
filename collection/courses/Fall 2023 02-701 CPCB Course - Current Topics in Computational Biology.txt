@@ -1,0 +1,16 @@
+<start course metadata for 02-701 CPCB Course - Current Topics in Computational Biology>
+Semester: Fall 2023 (aka F23)
+Course Name: CPCB Course - Current Topics in Computational Biology
+Course Number: 02-701
+Department: Computational Biology
+Number of Units: 3
+Prerequisites: None
+Instructors: Jian Ma
+Rooms: WEH 5403
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 02-701 CPCB Course - Current Topics in Computational Biology>
+
+<start course description for 02-701 CPCB Course - Current Topics in Computational Biology>
+Semester: Fall 2023 (aka F23)
+Course Description: The course consists of weekly presentations by students and faculty on current topics in computational biology. Fall semester is held at CMU, spring semester is held at PITT. This course is ONLY for CPCB PhD Students  Students taking the Journal Club version of this course should enroll in section A. For Research Presentation, please enroll in section B. See Course Goals for more details.
+</end course description for 02-701 CPCB Course - Current Topics in Computational Biology>

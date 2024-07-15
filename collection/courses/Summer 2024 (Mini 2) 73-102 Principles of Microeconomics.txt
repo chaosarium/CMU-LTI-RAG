@@ -1,0 +1,16 @@
+<start course metadata for 73-102 Principles of Microeconomics>
+Semester: Summer Two 2024 (aka M24, M24 Mini 2, Summer 2024 Mini 2)
+Course Name: Principles of Microeconomics
+Course Number: 73-102
+Department: Economics
+Number of Units: 9
+Prerequisites: None
+Instructors: Xiaonan Hong
+Rooms: TEP 2612
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 73-102 Principles of Microeconomics>
+
+<start course description for 73-102 Principles of Microeconomics>
+Semester: Summer Two 2024 (aka M24, M24 Mini 2, Summer 2024 Mini 2)
+Course Description: None
+</end course description for 73-102 Principles of Microeconomics>

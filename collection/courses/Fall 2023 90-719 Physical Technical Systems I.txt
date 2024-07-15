@@ -1,0 +1,16 @@
+<start course metadata for 90-719 Physical Technical Systems I>
+Semester: Fall 2023 (aka F23)
+Course Name: Physical Technical Systems I
+Course Number: 90-719
+Department: Public Policy & Mgt:Sch of Pub Pol & Mgt
+Number of Units: 12
+Prerequisites: None
+Instructors: Deanna Matthews, John Miller
+Rooms: BH 235B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 90-719 Physical Technical Systems I>
+
+<start course description for 90-719 Physical Technical Systems I>
+Semester: Fall 2023 (aka F23)
+Course Description: Information:  May be taken to fulfill Systems Synthesis requirement (second year only)    Physical Technical Systems introduces students of public management to important technological issues which they will face in their professional careers.    The course focuses on research and presentation of formal oral and written reports.    Students learn how to identify a problem structure and analyze the problem and generate conclusions and recommendations in much the same way that they would as policy analysts or managers. Students work with a client or decision maker.    In addition to building research and problem-solving skills students gain practice in working as part of a professional team operating in a research environment that addresses technical social and political issues.  For this reason, Physical Technical Systems courses are undertaken jointly with the Heinz School, the Department of Engineering and Public Policy, and Department of Social and Decision Sciences.  Every Physical Technical Systems course addresses a different real-world problem, often for a real client.  To learn the topic(s) for next semester, as well as topics from the last few years, see http://www.cmu.edu/epp/prospective/undergraduate/epp-project-courses
+</end course description for 90-719 Physical Technical Systems I>

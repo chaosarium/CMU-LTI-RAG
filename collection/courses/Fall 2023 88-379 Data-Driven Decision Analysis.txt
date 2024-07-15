@@ -1,0 +1,16 @@
+<start course metadata for 88-379 Data-Driven Decision Analysis>
+Semester: Fall 2023 (aka F23)
+Course Name: Data-Driven Decision Analysis
+Course Number: 88-379
+Department: Social & Decision Sciences
+Number of Units: 9
+Prerequisites: (36-200 or 36-207 or 70-207 or 36-225) and (88-223 or 19-301 or 19-351 or 70-257)
+Instructors: David Rode
+Rooms: WEH 5310
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 88-379 Data-Driven Decision Analysis>
+
+<start course description for 88-379 Data-Driven Decision Analysis>
+Semester: Fall 2023 (aka F23)
+Course Description: Business managers and public policymakers who make good decisions are in high demand and are richly rewarded. Increasingly, that decision making must occur in dynamic, data-rich environments. In those environments, having an extensive analytical toolkit is essential for success. Building on the foundations laid by prior coursework, we will cover advanced analytical topics from the decision sciences, such as utility function elicitation, optimal decision making under uncertainty and imperfect information, valuing flexibility with real options, portfolio theory, artificial intelligence (AI) and evolutionary computation methods, robust decision making, and Monte Carlo simulation and variance reduction methods.  The focus of this course is normative, rather than descriptive decision making. The course will make extensive use of Microsoft Excel and students are expected to possess a high level of numeracy upon enrollment. Although we will touch on the theoretical foundations of the material, our primary focus will be on getting our hands dirty by using the techniques covered. The material covered in this class will be taught using real-world problems and place a high value on using messy, often-incomplete real-world data where the strengths and weaknesses of various tools can be evaluated. Assignments in the course will be "case" style, and include applications to subjects such as climate change, corporate investment, energy policy, geoengineering, and health policy risks. Students will evaluate various decision problems in each case and present and defend their analyses.
+</end course description for 88-379 Data-Driven Decision Analysis>

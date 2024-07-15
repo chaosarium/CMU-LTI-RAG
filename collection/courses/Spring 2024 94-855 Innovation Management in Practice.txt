@@ -1,0 +1,16 @@
+<start course metadata for 94-855 Innovation Management in Practice>
+Semester: Spring 2024 (aka S24)
+Course Name: Innovation Management in Practice
+Course Number: 94-855
+Department: Heinz College Wide Courses
+Number of Units: 6
+Prerequisites: None
+Instructors: Phillip Yu
+Rooms: POS 153
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 94-855 Innovation Management in Practice>
+
+<start course description for 94-855 Innovation Management in Practice>
+Semester: Spring 2024 (aka S24)
+Course Description: A definition of innovation is the combination of technology, commercialization, and customer experience to deliver social and economic value. Corporations utilize innovation to establish a competitive advantage and to differentiate in the marketplace. Public policy makers view innovation as a critical driver for economic development. This course will cover the fundamentals of innovation, and the many challenges associated with it. How are opportunities identified? What are the strategies used, and how can they then be implemented? What roles are played by processes, technologies, and the business environment, as well as by individuals in organizations? In this course, we will learn about the fundamentals of innovation principles and practices.  The course will utilize current examples of markets, products, and innovation practices to emphasize learning objectives, where the students are expected to critically think and analyze information for their assignments.
+</end course description for 94-855 Innovation Management in Practice>

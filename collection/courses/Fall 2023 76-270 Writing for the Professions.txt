@@ -1,0 +1,16 @@
+<start course metadata for 76-270 Writing for the Professions>
+Semester: Fall 2023 (aka F23)
+Course Name: Writing for the Professions
+Course Number: 76-270
+Department: English
+Number of Units: 9
+Prerequisites: (76-101) or (76-102) or (76-106 and 76-107) or (76-106 and 76-108) or (76-107 and 76-108)
+Instructors: Alan Kohler, Andrew Gordon, Barbara George, Cody Januszko, Courtney Novosat, Jeremy Rosselot-Merritt, Rebecca Wigginton, Seth Strickland, Thomas Mitchell, Yishan Wang
+Rooms: CFA 102; CMB 2147; DH 1117; DH 2122; PH A20; PH A20A; PH A21; PH A21A; WEH 5316
+Locations: Doha, Qatar; Pittsburgh, Pennsylvania
+</end course metadata for 76-270 Writing for the Professions>
+
+<start course description for 76-270 Writing for the Professions>
+Semester: Fall 2023 (aka F23)
+Course Description: Writing in the Professions is a writing course specifically designed for mainly sophomores and juniors (although it is relevant for some freshmen and seniors) in all majors other than English. The course is appropriate for upper-level students in all CMU colleges and assumes that you may not have had much college-level writing instruction past your first year. The basic idea of the course is to give you experience in developing the writing skills you will be expected to have as you make the transition from student to professional. The course will cover some foundational principles of designing multimodal writing and communication within a variety of tasks including resume and cover letter writing, proposal writing and writing instructions. Students will discern the difference between writing for general and specific audiences, and analysis of visual aids in various texts. The course requires that students work both independently and in groups.
+</end course description for 76-270 Writing for the Professions>

@@ -1,0 +1,16 @@
+<start course metadata for 79-275 Introduction to Global Studies>
+Semester: Spring 2024 (aka S24)
+Course Name: Introduction to Global Studies
+Course Number: 79-275
+Department: History
+Number of Units: 9
+Prerequisites: None
+Instructors: Paul Eiss
+Rooms: PH 225B; WEH 5320
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 79-275 Introduction to Global Studies>
+
+<start course description for 79-275 Introduction to Global Studies>
+Semester: Spring 2024 (aka S24)
+Course Description: We live in an increasingly interconnected world, one in which our everyday actions have repercussions across vast distances. To understand this ever-denser web of connections,  we must think beyond simplistic accounts of globalization as a uniformly positive, negative,  or homogenizing process. Economic crisis, impoverishment, rising inequality,  environmental degradation, pandemic disease, and irredentist movements are just as much a part of the story as are technological innovation, digital communication, global supply chains, cultural exchange, the promotion of human rights, and the rise of cosmopolitan values.  This course aims to equip you with an interdisciplinary toolkit for thinking critically about the many dimensions of globalization (economic, social, political, cultural) and for engaging thoughtfully with differing experiences of them. By examining how globalization connects and shapes the everyday lives of people around the world, including our own, we will establish a foundation both for your advanced coursework in Global Studies and for your lifelong education as a globally aware professional and citizen.  This course fulfills Dietrich College's "Intercultural and Global Inquiry" general education requirement.
+</end course description for 79-275 Introduction to Global Studies>

@@ -1,0 +1,16 @@
+<start course metadata for 19-403 Policies of Wireless Systems>
+Semester: Fall 2023 (aka F23)
+Course Name: Policies of Wireless Systems
+Course Number: 19-403
+Department: Engineering & Public Policy
+Number of Units: 12
+Prerequisites: None
+Instructors: Jon Peha
+Rooms: MM A14
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 19-403 Policies of Wireless Systems>
+
+<start course description for 19-403 Policies of Wireless Systems>
+Semester: Fall 2023 (aka F23)
+Course Description: This course will address public policy issues related to wireless systems.  It investigates policies related to a wide variety of emerging wireless systems and technologies, including current and next-generation cellular systems, wifi and white space devices, emerging methods of accessing spectrum, communications systems for emergency responders (firefighters, police, emergency medical services), current and next-generation television, and satellite communications. This can include the government role in facilitating the creation of infrastructure, in advancing competition among broadcasters and communications service providers, in using scarce spectrum efficiently, in promoting public safety and homeland security, and in protecting privacy and security. Because these are inherently interdisciplinary issues, the course will include detailed discussions of technology, economics, and law, with no prerequisites in any of these areas.  Senior or graduate standing required.
+</end course description for 19-403 Policies of Wireless Systems>

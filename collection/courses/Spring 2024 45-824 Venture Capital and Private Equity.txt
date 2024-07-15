@@ -1,0 +1,16 @@
+<start course metadata for 45-824 Venture Capital and Private Equity>
+Semester: Spring 2024 (aka S24)
+Course Name: Venture Capital and Private Equity
+Course Number: 45-824
+Department: Business Administration
+Number of Units: 6
+Prerequisites: 45-720
+Instructors: Matthew Denes
+Rooms: TEP 2202
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-824 Venture Capital and Private Equity>
+
+<start course description for 45-824 Venture Capital and Private Equity>
+Semester: Spring 2024 (aka S24)
+Course Description: Venture capital plays an important role in the financing and development of high-growth entrepreneurial firms. This course presents the tools and quantitative methods used by venture capital funds to evaluate, value, and structure their investments. These are particularly critical to understand if you intend to work for or receive funds from venture capital funds.
+</end course description for 45-824 Venture Capital and Private Equity>

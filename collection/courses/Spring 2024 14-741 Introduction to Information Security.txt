@@ -1,0 +1,16 @@
+<start course metadata for 14-741 Introduction to Information Security>
+Semester: Spring 2024 (aka S24)
+Course Name: Introduction to Information Security
+Course Number: 14-741
+Department: Information Networking Institute
+Number of Units: 12
+Prerequisites: None
+Instructors: Hanan Hibshi
+Rooms: CIC 1201
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 14-741 Introduction to Information Security>
+
+<start course description for 14-741 Introduction to Information Security>
+Semester: Spring 2024 (aka S24)
+Course Description: Fall: 12 units. The growing importance of information systems, and their use to support safety-critical applications, has made information security a central issue for modern systems. The course introduces the technical and policy foundations of information security. The main objective of the course is to enable students to reason about information systems from a security engineering perspective. Topics covered in the course include elementary cryptography; access control; common software vulnerabilities; common network vulnerabilities; digital rights management; policy and export control law; privacy; management and assurance; and special topics in information security. Prerequisites: The course assumes a basic working knowledge of computers, networks, C and UNIX programming, as well as an elementary mathematics background, but does not assume any prior exposure to topics in computer or communications security.
+</end course description for 14-741 Introduction to Information Security>

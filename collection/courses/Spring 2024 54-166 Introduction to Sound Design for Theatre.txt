@@ -1,0 +1,16 @@
+<start course metadata for 54-166 Introduction to Sound Design for Theatre>
+Semester: Spring 2024 (aka S24)
+Course Name: Introduction to Sound Design for Theatre
+Course Number: 54-166
+Department: Drama
+Number of Units: 6
+Prerequisites: 54-232 and 54-231 and 54-171 and 54-172
+Instructors: Stewart Blackwood
+Rooms: PCA 231
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-166 Introduction to Sound Design for Theatre>
+
+<start course description for 54-166 Introduction to Sound Design for Theatre>
+Semester: Spring 2024 (aka S24)
+Course Description: Students explore the basic principles and theories of sound design from technical, psychological and aesthetic standpoints. Course work includes instruction in the controllable properties of sound, practical planning of sound plots, cue creation, and the design process.   Prerequisites: Basic Design and Design For The Stage. Drama majors have priority, however this course is also open to Music Technology majors and minors, or with permission of instructor.
+</end course description for 54-166 Introduction to Sound Design for Theatre>

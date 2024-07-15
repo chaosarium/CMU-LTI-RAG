@@ -1,0 +1,16 @@
+<start course metadata for 57-384 Collaborative Piano IV>
+Semester: Fall 2023 (aka F23)
+Course Name: Collaborative Piano IV
+Course Number: 57-384
+Department: Music
+Number of Units: N/A
+Prerequisites: 57-383
+Instructors: Mark Carver
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-384 Collaborative Piano IV>
+
+<start course description for 57-384 Collaborative Piano IV>
+Semester: Fall 2023 (aka F23)
+Course Description: Continues 57-383 Accompanying III.
+</end course description for 57-384 Collaborative Piano IV>

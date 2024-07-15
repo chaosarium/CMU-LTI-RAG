@@ -1,0 +1,16 @@
+<start course metadata for 57-930 Baroque Ensemble>
+Semester: Fall 2023 (aka F23)
+Course Name: Baroque Ensemble
+Course Number: 57-930
+Department: Music
+Number of Units: 3
+Prerequisites: None
+Instructors: Stephen Schultz
+Rooms: CFA ACH
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-930 Baroque Ensemble>
+
+<start course description for 57-930 Baroque Ensemble>
+Semester: Fall 2023 (aka F23)
+Course Description: CMU Baroque is a performance ensemble exploring the interpretation and performance of Baroque music on modern instruments, with a focus on the instrumental and vocal works of Bach, Telemann, Haydn and Mozart.  It is open to all interested graduate instrumentalists and singers; undergraduate instrumentalists and singers by instructor permission.
+</end course description for 57-930 Baroque Ensemble>

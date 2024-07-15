@@ -1,0 +1,16 @@
+<start course metadata for 82-104 Elementary French II Online>
+Semester: Fall 2023 (aka F23)
+Course Name: Elementary French II Online
+Course Number: 82-104
+Department: Modern Languages
+Number of Units: 12
+Prerequisites: 82-101 or 82-103
+Instructors: Ezzohra Moufid
+Rooms: CMB 1032
+Locations: Doha, Qatar
+</end course metadata for 82-104 Elementary French II Online>
+
+<start course description for 82-104 Elementary French II Online>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is designed for students who need a more flexible approach to language learning than that offered in a standard classroom course. Students will learn more useful and complex expressions and sentence structures necessary for use in everyday life. Students will continue building their skills in listening, speaking, reading, and writing for everyday communication. Additionally, course materials and assignments are designed to improve students' understanding of French and francophone cultures and societies. Materials are web-based with extensive use of Internet technologies for listening, reading, and communication. During regular semesters, this course is offered in a hybrid mode requiring one 80-minute class per week in addition to weekly 20-minute individual meetings with the instructor or a peer speaking  assistant. There is a materials fee for taking this course which is paid by credit card on first log-in to the course website. A student with prior experience in French must take the placement exam.
+</end course description for 82-104 Elementary French II Online>

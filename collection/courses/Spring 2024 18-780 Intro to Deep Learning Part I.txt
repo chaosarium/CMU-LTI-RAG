@@ -1,0 +1,16 @@
+<start course metadata for 18-780 Intro to Deep Learning Part I>
+Semester: Spring 2024 (aka S24)
+Course Name: Intro to Deep Learning Part I
+Course Number: 18-780
+Department: Electrical & Computer Engineering
+Number of Units: 6
+Prerequisites: None
+Instructors: Aswin Sankaranarayanan, Yuejie Chi
+Rooms: BH A51; HOA 160
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-780 Intro to Deep Learning Part I>
+
+<start course description for 18-780 Intro to Deep Learning Part I>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is a first mini in which we introduce the basic concepts of deep learning for engineers. It is intended as an alternative to the full-term Introduction to Deep Learning course, 18786. ***Students may not switch between 18786 and 18780 after the Add Deadline***  Neural networks have increasingly taken over various AI/ML tasks, and currently produce the state of the art in many tasks ranging from computer vision and planning for self-driving cars to playing computer games. Basic knowledge of NNs, known currently in the popular literature as "deep learning, familiarity with various formalisms, and knowledge of tools, is now an essential requirement for any researcher or developer in most AI and NLP fields. This course is a broad introduction to the field of neural networks and their "deep" learning formalisms.  This mini focuses on the development of neural network theory and design through time, and the basic ideas underlying them including network  architectures, loss functions, and optimization techniques. Students will complete two assignments and one pre-set project.
+</end course description for 18-780 Intro to Deep Learning Part I>

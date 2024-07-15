@@ -1,0 +1,16 @@
+<start course metadata for 19-713 Policies of Wireless Systems>
+Semester: Fall 2023 (aka F23)
+Course Name: Policies of Wireless Systems
+Course Number: 19-713
+Department: Engineering & Public Policy
+Number of Units: 12
+Prerequisites: None
+Instructors: Jon Peha
+Rooms: MM A14
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 19-713 Policies of Wireless Systems>
+
+<start course description for 19-713 Policies of Wireless Systems>
+Semester: Fall 2023 (aka F23)
+Course Description: This course will address public policy issues related to wireless systems, and to the Internet.  It begins by  investigating policies related to a wide variety of emerging wireless systems and technologies, including wifi computer networks, broadband to the home, broadcast radio and television, and satellite communications.  This can include the government role in facilitating the creation of infrastructure, in advancing competition among broadcasters and communications service providers, in managing spectrum, and in protecting privacy and security.  The course will then address Internet policy issues, which can include Internet governance and the domain name system, taxation, privacy and security, and intellectual property.  Because these are inherently interdisciplinary issues, the course will include detailed discussions of technology, economics, and law, with no prerequisites in any of these areas.  Note: ECE students must take this course under #18-650 only
+</end course description for 19-713 Policies of Wireless Systems>

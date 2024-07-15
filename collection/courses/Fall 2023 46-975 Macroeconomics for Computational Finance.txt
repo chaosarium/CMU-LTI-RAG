@@ -1,0 +1,16 @@
+<start course metadata for 46-975 Macroeconomics for Computational Finance>
+Semester: Fall 2023 (aka F23)
+Course Name: Macroeconomics for Computational Finance
+Course Number: 46-975
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Nicholas Pretnar
+Rooms: BRD 507; TCS 250
+Locations: New York, New York; Pittsburgh, Pennsylvania
+</end course metadata for 46-975 Macroeconomics for Computational Finance>
+
+<start course description for 46-975 Macroeconomics for Computational Finance>
+Semester: Fall 2023 (aka F23)
+Course Description: This class is designed to give students an understanding of the functioning of the US economy and how it relates to the global economy. This knowledge will enable students to grasp the enormous differences in economic environments faced by businesses around the world; The course will utilize analysis of economic environments through the lenses of open-economy macroeconomics. This is the field of economics concerned with how national performance and economic policies are affected by the presence of trade and international capital flows. The course will  use this approach to study issues such as economic indicators and forecasting (where are we headed?); economic growth (why are some countries more productive than others?); business cycles (why do we have booms and recessions?); fiscal and monetary policy (how does policy affect labor and credit markets?); international trade, capital flows and foreign exchange rates.  Non-MSCF students may not take this course without written permission from the instructor. To be eligible, you must be a BSCF student or a graduate student enrolled in an MSCF participating college (Dietrich, Heinz, Tepper or Mellon). PhD students with relevant research may be eligible with permission from the instructor.
+</end course description for 46-975 Macroeconomics for Computational Finance>

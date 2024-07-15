@@ -1,0 +1,16 @@
+<start course metadata for 49-781 Introduction to Machine Learning>
+Semester: Spring 2024 (aka S24)
+Course Name: Introduction to Machine Learning
+Course Number: 49-781
+Department: Integrated Innovation Institute
+Number of Units: 6
+Prerequisites: None
+Instructors: Karimulla Shaikh
+Rooms: B23 118
+Locations: San Jose, California
+</end course metadata for 49-781 Introduction to Machine Learning>
+
+<start course description for 49-781 Introduction to Machine Learning>
+Semester: Spring 2024 (aka S24)
+Course Description: The landscape of software products has changed over the last couple of decade with the advent of data science as an interdisciplinary field, and its broad and deep applicability has created opportunities for delivering interesting and innovative capabilities based on deep understanding of data. This course helps current and future product managers understand the distinction between data-driven and conventional products and learn to identify new product capabilities made possible by quantitative data analysis and modeling. Regular hands-on exercises will expose them to techniques for analyzing data, developing insights, building models, and turning the outcomes from models into end-user value. The course project will require students to go through the life cycle of a data-product and showcase their insight as a product feature. Some class sessions in this course will be offered using a Flipped Classroom model where lectures will be distributed as videos for viewing offline, and class sessions are dedicated to clarifications, content review, and course assignments. Priority registration given to III students. Note: the R section of this course is specifically reserved for students in the Part-Time Remote MSSM program.
+</end course description for 49-781 Introduction to Machine Learning>

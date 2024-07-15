@@ -1,0 +1,16 @@
+<start course metadata for 48-634 Architectural Theory & Contemporary Issues>
+Semester: Fall 2023 (aka F23)
+Course Name: Architectural Theory & Contemporary Issues
+Course Number: 48-634
+Department: Architecture
+Number of Units: N/A
+Prerequisites: None
+Instructors: Kai Gutschow
+Rooms: CFA 214
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-634 Architectural Theory & Contemporary Issues>
+
+<start course description for 48-634 Architectural Theory & Contemporary Issues>
+Semester: Fall 2023 (aka F23)
+Course Description: This graduate seminar explores important writings and ideas being discussed in architecture today in relation to "Design Ethics," one of the central pedagogies of the SoA and the M.Arch program. Theory is framed not primarily as design principle, but as a critical framing device to investigate the dominant forces and paradigms engaging architecture today, in the academy, the profession, and the community. Architecture is considered as both material technology and social agenda, a driver of inequality but also potentially a social justice machine, a high-tech, economic, ecological, and political change-agent. The focus is on current discourses, processes, and contexts rather than on the history of theory, or the latest buildings or architects.   The seminar examines a different theme each week, with topics that vary annually to acknowledge the dynamic nature of the profession, environment, and global contexts. The work of the seminar will focus on readings, weekly presentations and discussions about the sources. For additional units, students may elect to do a research paper on a theoretical aspect of architecture that connects to the co-requisite course "Situating Research" and might lead to a thesis or grant proposal.
+</end course description for 48-634 Architectural Theory & Contemporary Issues>

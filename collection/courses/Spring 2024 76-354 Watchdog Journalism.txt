@@ -1,0 +1,16 @@
+<start course metadata for 76-354 Watchdog Journalism>
+Semester: Spring 2024 (aka S24)
+Course Name: Watchdog Journalism
+Course Number: 76-354
+Department: English
+Number of Units: 9
+Prerequisites: (76-101) or (76-102) or (76-106 and 76-107) or (76-106 and 76-108) or (76-107 and 76-108)
+Instructors: Steve Twedt
+Rooms: PH 125D
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 76-354 Watchdog Journalism>
+
+<start course description for 76-354 Watchdog Journalism>
+Semester: Spring 2024 (aka S24)
+Course Description: The practice of journalism involves covering the news of the day. Investigative journalism uncovers it, digging through public records and data to expose corruption or correct social injustices. The process takes patience and persistence, as well as familiarity with right-to-know laws, to find that gold nugget of information that exposes secrets or becomes the missing piece to a larger puzzle. In this course, students will learn investigative techniques that make the powerful accountable, using government documents, financial filings and databases to spot undetected crime patterns, an unfair housing policy or perhaps questionable spending by a non-profit charity. Investigative journalism has a storied history of exposing wrongdoing and today many of the tools historically used to tell those stories are available to everyone. This course will help budding journalists, researchers and anyone else interested in addressing societal problems find those tools and learn how to use them. This course meets the Dietrich College Deciding Gen Ed requirement.
+</end course description for 76-354 Watchdog Journalism>

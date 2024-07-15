@@ -1,0 +1,16 @@
+<start course metadata for 84-389 Terrorism and Insurgency>
+Semester: Spring 2024 (aka S24)
+Course Name: Terrorism and Insurgency
+Course Number: 84-389
+Department: Institute for Politics and Strategy
+Number of Units: 9
+Prerequisites: None
+Instructors: Mark Toukan
+Rooms: WEH 5312
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 84-389 Terrorism and Insurgency>
+
+<start course description for 84-389 Terrorism and Insurgency>
+Semester: Spring 2024 (aka S24)
+Course Description: This course provides an introduction to terrorism, insurgency, and civil war, covering the causes, dynamics, consequences, and policy responses to these forms of political violence. Insurgent and terrorist groups are some of the most important actors behind security challenges across the world. Definition of these phenomena can be as contentious as the question of which policies are most appropriate to prevent, manage, and resolve the conflicts in which they take part. The course will cover the historical evolution of these forms of violence as well as recent trends. The course will also focus on groups, methods, ideologies, and organizational structures, and will address the effectiveness of different policies over time at preventing and managing these forms of violence, and the role that these policies play in overall national strategy.
+</end course description for 84-389 Terrorism and Insurgency>

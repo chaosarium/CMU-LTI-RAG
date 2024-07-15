@@ -1,0 +1,16 @@
+<start course metadata for 24-753 Special Topics: Robotic Materials: Designs, Principles & Mechanics>
+Semester: Fall 2023 (aka F23)
+Course Name: Special Topics: Robotic Materials: Designs, Principles & Mechanics
+Course Number: 24-753
+Department: Mechanical Engineering
+Number of Units: 12
+Prerequisites: 24-751
+Instructors: Carmel Majidi
+Rooms: BH 235A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-753 Special Topics: Robotic Materials: Designs, Principles & Mechanics>
+
+<start course description for 24-753 Special Topics: Robotic Materials: Designs, Principles & Mechanics>
+Semester: Fall 2023 (aka F23)
+Course Description: This is an interdisciplinary course focused on principles, theoretical models, and material architectures relevant to applications of condensed soft matter to problems in engineering.  Special attention will be given to the design of soft, elastically-deformable machines and electronics that are primarily composed of elastomers, gels, fluids, gas, and other non-rigid matter.  Specific topics will include the mechanics of hyperelastic solids, statistical mechanics of polymers and polymer composites, energy-based modeling techniques derived from the Laws of Thermodynamics, and their applications in modeling soft multifunctional material systems.  Additionally, we will explore emerging paradigms in soft robotics, wearable computing, and human machine interaction, including material architectures for artificial muscles, stretchable electronics, and sensorized robotic skin.  This course will include extensive reading with problem set assignments, a take-home exam, and final report.  Students need familiarity with undergraduate-level solid mechanics, vector mechanics, thermodynamics, and ODEs
+</end course description for 24-753 Special Topics: Robotic Materials: Designs, Principles & Mechanics>

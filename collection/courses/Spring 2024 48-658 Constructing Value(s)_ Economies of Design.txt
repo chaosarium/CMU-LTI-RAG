@@ -1,0 +1,16 @@
+<start course metadata for 48-658 Constructing Value(s): Economies of Design>
+Semester: Spring 2024 (aka S24)
+Course Name: Constructing Value(s): Economies of Design
+Course Number: 48-658
+Department: Architecture
+Number of Units: N/A
+Prerequisites: None
+Instructors: Asli Selay Darga Ozutemiz
+Rooms: CFA 214
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-658 Constructing Value(s): Economies of Design>
+
+<start course description for 48-658 Constructing Value(s): Economies of Design>
+Semester: Spring 2024 (aka S24)
+Course Description: This course explores the systems of economic, political, social, and regulatory forces driving the production of contemporary architectural projects. It critiques these systems, examines alternatives, and tests interventions in pursuit of value propositions outside of the bottom-line driven norms of late capitalism. What do design economies driven by equity, circularity, ecology, pluriversality look like? Through lecture and discussion, real world case studies in both for-profit and non-profit sectors, both locally and internationally, students explore the process of project development from multiple perspectives and gain insight into dynamics that determine if, how, and when projects are realized as well as relationships among various stakeholders, including architects, developers, and communities.
+</end course description for 48-658 Constructing Value(s): Economies of Design>

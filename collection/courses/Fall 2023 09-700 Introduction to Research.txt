@@ -1,0 +1,16 @@
+<start course metadata for 09-700 Introduction to Research>
+Semester: Fall 2023 (aka F23)
+Course Name: Introduction to Research
+Course Number: 09-700
+Department: Chemistry
+Number of Units: 3
+Prerequisites: None
+Instructors: Bruce Armitage
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 09-700 Introduction to Research>
+
+<start course description for 09-700 Introduction to Research>
+Semester: Fall 2023 (aka F23)
+Course Description: A survey of the areas of research and problems currently being investigated by the faculty of the Department of Chemistry. Fundamental concepts in Transition Metal Chemistry are reviewed in this course followed by presentations of results obtained in current research that is based on these concepts. The class covers coordination numbers and stereochemistry, electronic structure, physical properties, and aspects of chemical reactivity of transition elements and their complexes. In lectures and class discussions, we identify general problems pursued in transition metal chemistry, discuss the choice and relevance of the questions posed by researchers, present modern methods and techniques used to answer the questions and the type of information that can be obtained using these methods. Special emphasis is given to examples drawn from supramolecular chemistry, molecular materials, and mineralogy. 1.5 hrs. lec.
+</end course description for 09-700 Introduction to Research>

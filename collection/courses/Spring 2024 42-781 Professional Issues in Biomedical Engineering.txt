@@ -1,0 +1,16 @@
+<start course metadata for 42-781 Professional Issues in Biomedical Engineering>
+Semester: Spring 2024 (aka S24)
+Course Name: Professional Issues in Biomedical Engineering
+Course Number: 42-781
+Department: Biomedical Engineering
+Number of Units: 3
+Prerequisites: None
+Instructors: Keith Cook
+Rooms: HOA 160
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 42-781 Professional Issues in Biomedical Engineering>
+
+<start course description for 42-781 Professional Issues in Biomedical Engineering>
+Semester: Spring 2024 (aka S24)
+Course Description: This course exposes students to many of the issues that biomedical engineers face.  It provides an overview of professional topics including bioethics, regulatory issues, communication skills, teamwork, and other contemporary issues.  Outside speakers and case studies will describe real world problems and professional issues in biotechnology and bioengineering, and progress toward their solution.  A term paper describing on how the topics in class are applicable to a specific biomedical industry is required as well.
+</end course description for 42-781 Professional Issues in Biomedical Engineering>

@@ -1,0 +1,16 @@
+<start course metadata for 95-705 Telecommunications Management>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Telecommunications Management
+Course Number: 95-705
+Department: Information Systems:Sch of IS & Mgt
+Number of Units: 12
+Prerequisites: None
+Instructors: Sakir Yucel
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 95-705 Telecommunications Management>
+
+<start course description for 95-705 Telecommunications Management>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: The purpose of this course is to provide an understanding of the key technical, managerial and policy issues in the effective development and use of telecommunication solutions by organizations. Discussion of technology and technology trends will be set in the context of applications. Topics covered will include basic concepts of telecommunication technologies, Internet and intranet technologies, issues related to the operational and strategic use of the technology, digital disruption and digital transformation happening in the markets, economics and policy aspects of telecommunication, the changing structure of the telecommunications industry, software defined networks, virtualization, cloud computing, content delivery networks, wireless, broadband, broadband policies, network neutrality, various applications of telecom. A number of case studies will be included in the curriculum providing students the opportunity to apply the concepts to real world situations.
+</end course description for 95-705 Telecommunications Management>

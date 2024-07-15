@@ -1,0 +1,16 @@
+<start course metadata for 51-121 Visualizing>
+Semester: Fall 2023 (aka F23)
+Course Name: Visualizing
+Course Number: 51-121
+Department: Design
+Number of Units: 10
+Prerequisites: None
+Instructors: Matthew Zywica, Sunki Hong
+Rooms: MM A6
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-121 Visualizing>
+
+<start course description for 51-121 Visualizing>
+Semester: Fall 2023 (aka F23)
+Course Description: This course introduces basic drawing and sketching techniques including figure-ground translation, 2 pt perspective construction, storyboarding for explanation, diagramming for clarification, field notation for recording through guided exercises, demonstrations, and short projects.
+</end course description for 51-121 Visualizing>

@@ -1,0 +1,16 @@
+<start course metadata for 39-603 Additive Manufacturing Laboratory>
+Semester: Spring 2024 (aka S24)
+Course Name: Additive Manufacturing Laboratory
+Course Number: 39-603
+Department: CIT Interdisciplinary
+Number of Units: 12
+Prerequisites: 39-601 or 27-765 or 39-602 or 24-632 or 27-503
+Instructors: Sneha Narra
+Rooms: PH A22
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 39-603 Additive Manufacturing Laboratory>
+
+<start course description for 39-603 Additive Manufacturing Laboratory>
+Semester: Spring 2024 (aka S24)
+Course Description: Hands-on laboratory projects will teach students about all aspects of metals additive manufacturing (AM). Students will learn how to use SOLIDWORKS for part design, create and transfer design files to the AM machines, run the machines to build parts, perform post-processing operations, and characterize AM parts. Student will work in teams and complete three separate lab projects, each utilizing a different material system, part design, AM process/machine, post-processing steps and characterization methods. A major lab report and presentation will be required for each of the three lab projects. The course includes weekly lectures to complement the laboratory component. Priority for enrollment will be given to students who have declared the Additive Manufacturing Minor.
+</end course description for 39-603 Additive Manufacturing Laboratory>

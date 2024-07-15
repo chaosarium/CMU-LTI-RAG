@@ -1,0 +1,16 @@
+<start course metadata for 57-422 Singers>
+Semester: Fall 2023 (aka F23)
+Course Name: Singers
+Course Number: 57-422
+Department: Music
+Number of Units: 3
+Prerequisites: None
+Instructors: Thomas Douglas
+Rooms: MM 119
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-422 Singers>
+
+<start course description for 57-422 Singers>
+Semester: Fall 2023 (aka F23)
+Course Description: The CMU Singers is a specialized group of 12-16 singers, who are also members of the CMU Chorus, who perform music written especially for a small vocal ensemble.  These students must demonstrate an advanced level of vocal ability and musicianship to handle the most challenging of vocal repertory suitable for young singers.  Membership will be determined by the CMU Chorus audition.
+</end course description for 57-422 Singers>

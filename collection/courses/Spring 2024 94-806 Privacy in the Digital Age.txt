@@ -1,0 +1,16 @@
+<start course metadata for 94-806 Privacy in the Digital Age>
+Semester: Spring 2024 (aka S24)
+Course Name: Privacy in the Digital Age
+Course Number: 94-806
+Department: Heinz College Wide Courses
+Number of Units: 6
+Prerequisites: None
+Instructors: Alessandro Acquisti
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 94-806 Privacy in the Digital Age>
+
+<start course description for 94-806 Privacy in the Digital Age>
+Semester: Spring 2024 (aka S24)
+Course Description: Privacy is a complex and multi-faceted concept. This course combines technical, economic, legal, psychological, ethical, and policy perspectives to present a holistic view of its role and function in the digital age.  The reduction of the cost of storing and manipulating information has led organizations to capture increasing amounts of information about individual behavior. New trade-offs have emerged for parties involved with privacy-enhancing or intrusive technologies: individuals want to avoid the misuse of the information they pass along to others, but they also want to share enough information to achieve satisfactory interactions; organizations want to know more about the parties with whom they interact, but they do not want to alienate them with policies deemed as intrusive. Is there a "sweet" spot that satisfies the interests of all parties? Is there a combination of technological solutions, economic incentives, and legal safeguards that is acceptable for the individual and beneficial to society? This course tries to address the above questions.
+</end course description for 94-806 Privacy in the Digital Age>

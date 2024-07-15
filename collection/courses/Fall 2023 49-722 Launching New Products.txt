@@ -1,0 +1,16 @@
+<start course metadata for 49-722 Launching New Products>
+Semester: Fall 2023 (aka F23)
+Course Name: Launching New Products
+Course Number: 49-722
+Department: Integrated Innovation Institute
+Number of Units: 6
+Prerequisites: None
+Instructors: Melissa Murphy
+Rooms: CA 108
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 49-722 Launching New Products>
+
+<start course description for 49-722 Launching New Products>
+Semester: Fall 2023 (aka F23)
+Course Description: This course focuses on the strategies and methods for building, leveraging, defending, and sustaining inspired new products and brands.  During the course we will focus primarily on established consumer products and brands.  Although, we will address how our learnings apply to B2B and entrepreneurial product launches.  We will also discuss the actions required to bring a product to market, including understanding your target audiences' needs, values and lifestyles and the key elements of a launch plan.
+</end course description for 49-722 Launching New Products>

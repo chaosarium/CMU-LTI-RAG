@@ -1,0 +1,16 @@
+<start course metadata for 90-985 Applied Microeconomics Seminar>
+Semester: Spring 2024 (aka S24)
+Course Name: Applied Microeconomics Seminar
+Course Number: 90-985
+Department: Public Policy & Mgt:Sch of Pub Pol & Mgt
+Number of Units: 0
+Prerequisites: None
+Instructors: Akshaya Jha
+Rooms: HBH 2003
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 90-985 Applied Microeconomics Seminar>
+
+<start course description for 90-985 Applied Microeconomics Seminar>
+Semester: Spring 2024 (aka S24)
+Course Description: None
+</end course description for 90-985 Applied Microeconomics Seminar>

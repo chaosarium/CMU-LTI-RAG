@@ -1,0 +1,16 @@
+<start course metadata for 19-658 Special Topics: Corporate Venturing & Innovation>
+Semester: Fall 2023 (aka F23)
+Course Name: Special Topics: Corporate Venturing & Innovation
+Course Number: 19-658
+Department: Engineering & Public Policy
+Number of Units: 6
+Prerequisites: None
+Instructors: Robert Wasson
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 19-658 Special Topics: Corporate Venturing & Innovation>
+
+<start course description for 19-658 Special Topics: Corporate Venturing & Innovation>
+Semester: Fall 2023 (aka F23)
+Course Description: : Startups aren't the only career destination for aspiring and experienced entrepreneurs - large, established companies need entrepreneurs more than ever to help them avoid the risk of being disrupted. The future survival of many large companies is in the hands of entrepreneurs who understand both technology and business - learn the skills you will need to engage corporate executives on the topic of corporate venturing. This course is created to help entrepreneurs design corporate venturing programs for large companies who want to avoid being disrupted by innovative and more nimble startups *How can you convince corporate executives to invest in corporate venturing capabilities? *How can you be successful as an entrepreneur inside a large company that is set on its ways? *How can a large company compete with faster and more nimble startups by building their own?
+</end course description for 19-658 Special Topics: Corporate Venturing & Innovation>

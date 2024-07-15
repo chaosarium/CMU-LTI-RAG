@@ -1,0 +1,16 @@
+<start course metadata for 11-741 Machine Learning with Graphs>
+Semester: Spring 2024 (aka S24)
+Course Name: Machine Learning with Graphs
+Course Number: 11-741
+Department: Language Technologies Institute
+Number of Units: 12
+Prerequisites: None
+Instructors: Yiming Yang
+Rooms: NSH 1305
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 11-741 Machine Learning with Graphs>
+
+<start course description for 11-741 Machine Learning with Graphs>
+Semester: Spring 2024 (aka S24)
+Course Description: Graphs offer a natural way to represent complex relationships among objects of all kinds. Neural network learning with graphs has become important in both academic research and industrial applications. This course (for graduate and undergraduate students who meet the prerequisites) offers a mixture of fundamental concepts, algorithms, basic and advanced models, and applications ranging from social popularity analysis and knowledge graph reasoning to deep learning for solving NP-complete problems
+</end course description for 11-741 Machine Learning with Graphs>

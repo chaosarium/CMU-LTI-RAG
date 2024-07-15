@@ -1,0 +1,16 @@
+<start course metadata for 24-300 Maker Series: Intro to CNC Machining>
+Semester: Fall 2023 (aka F23)
+Course Name: Maker Series: Intro to CNC Machining
+Course Number: 24-300
+Department: Mechanical Engineering
+Number of Units: 2
+Prerequisites: 24-200
+Instructors: Edward Wojciechowski
+Rooms: HH C110
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-300 Maker Series: Intro to CNC Machining>
+
+<start course description for 24-300 Maker Series: Intro to CNC Machining>
+Semester: Fall 2023 (aka F23)
+Course Description: This course teaches safe operation of CNC machining equipment through structured hands-on activities.  A significant portion of the course is dedicated to learning CAM software for fabrication of 2D and 3D parts.  The skills learned in this course can be applied to fabricate durable components for design projects, research equipment, and extracurricular activities.  2-unit mini (7-weeks)
+</end course description for 24-300 Maker Series: Intro to CNC Machining>

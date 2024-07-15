@@ -1,0 +1,16 @@
+<start course metadata for 93-873 Film Exhibition>
+Semester: Spring 2024 (aka S24)
+Course Name: Film Exhibition
+Course Number: 93-873
+Department: Arts & Entertainment Management
+Number of Units: 3
+Prerequisites: None
+Instructors: Alberto Alcaraz Aguilar, Daniel Green
+Rooms: DNM DNM
+Locations: Los Angeles, California
+</end course metadata for 93-873 Film Exhibition>
+
+<start course description for 93-873 Film Exhibition>
+Semester: Spring 2024 (aka S24)
+Course Description: This course will focus on understanding how the Film Exhibition Industry is key to conceptualize, create and launch content. The economic rationale is the driver behind the films, which maintain industry profitability and hence-forth guarantee the sustainability of the sector over time. At the end of the course, students will be able to understand and identify the critical factors in the success of film exhibition management in order to make the best decisions based on the economic rationale. In addition, the course will allow students to contribute value to any of the three perspectives of the film industry´s value chain: production, distribution or exhibition.
+</end course description for 93-873 Film Exhibition>

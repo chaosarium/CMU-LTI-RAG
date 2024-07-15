@@ -1,0 +1,16 @@
+<start course metadata for 36-735 Statistical Analysis Mini - TBA>
+Semester: Spring 2024 (aka S24)
+Course Name: Statistical Analysis Mini - TBA
+Course Number: 36-735
+Department: Statistics and Data Science
+Number of Units: 6
+Prerequisites: None
+Instructors: Instructor TBA
+Rooms: WEH 5304
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 36-735 Statistical Analysis Mini - TBA>
+
+<start course description for 36-735 Statistical Analysis Mini - TBA>
+Semester: Spring 2024 (aka S24)
+Course Description: TBD
+</end course description for 36-735 Statistical Analysis Mini - TBA>

@@ -1,0 +1,16 @@
+<start course metadata for 57-209 The Beatles>
+Semester: Fall 2023 (aka F23)
+Course Name: The Beatles
+Course Number: 57-209
+Department: Music
+Number of Units: 9
+Prerequisites: None
+Instructors: Stephen Schultz
+Rooms: SH 105
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-209 The Beatles>
+
+<start course description for 57-209 The Beatles>
+Semester: Fall 2023 (aka F23)
+Course Description: This course will focus on the phenomenon of the Beatles.  Their songs will be studied, with analysis of the musical and lyrical content and structural elements.  What musical styles do the songs address? What were their musical influences?  In what ways did their music change over the years?    Also, the music's social context will be studied.  Why were the Beatles so popular and influential?  What exactly caused Beatlemania?  How did the group form, grow, and end?  The Beatles are the most famous rock group in history; the reasons for this are as much cultural as musical, and we'll study the two elements simultaneously.    Open to all undergraduate students.
+</end course description for 57-209 The Beatles>

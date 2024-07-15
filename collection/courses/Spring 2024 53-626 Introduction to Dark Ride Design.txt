@@ -1,0 +1,16 @@
+<start course metadata for 53-626 Introduction to Dark Ride Design>
+Semester: Spring 2024 (aka S24)
+Course Name: Introduction to Dark Ride Design
+Course Number: 53-626
+Department: Entertainment Technology
+Number of Units: 12
+Prerequisites: None
+Instructors: Ruth Comley
+Rooms: PTC 2306
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 53-626 Introduction to Dark Ride Design>
+
+<start course description for 53-626 Introduction to Dark Ride Design>
+Semester: Spring 2024 (aka S24)
+Course Description: Introduction Dark Ride Design is intended to give Location Based Entertainment (LBE) students knowledge and experience within the realm of designing a dark ride experience. The class explores the use of a guided vehicle upon a motion base to travel through a themed journey displayed on a 180 degree projection space and utilizing triggered sound, lighting, and 4D effects to augment the experience. Students will work within teams on specific theme based projects to explore concepts covered in class. Suitable for UX Designers, General and Hardware Programmers, 3D Digital Environmental Artists, Sound Designers and Game Designers wanting to explore UX design.
+</end course description for 53-626 Introduction to Dark Ride Design>

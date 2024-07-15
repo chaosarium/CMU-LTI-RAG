@@ -1,0 +1,16 @@
+<start course metadata for 67-393 Guided Research in Information Systems>
+Semester: Fall 2023 (aka F23)
+Course Name: Guided Research in Information Systems
+Course Number: 67-393
+Department: Information Systems Program
+Number of Units: N/A
+Prerequisites: None
+Instructors: Divakaran Liginlal, Instructor TBA, Jeria Quesenberry, Joseph Mertz, Julia Poepping, Larry Heimann, Raja Sooriamurthi, Sara Moussawi, Susan Hagan, Xiaoying Tu
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 67-393 Guided Research in Information Systems>
+
+<start course description for 67-393 Guided Research in Information Systems>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is for team-based research with an IS faculty member.  Upon prior approval by the faculty member, students may enroll for 3, 6, 9, or 12 units.
+</end course description for 67-393 Guided Research in Information Systems>

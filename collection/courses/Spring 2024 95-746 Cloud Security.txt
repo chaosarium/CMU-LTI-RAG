@@ -1,0 +1,16 @@
+<start course metadata for 95-746 Cloud Security>
+Semester: Spring 2024 (aka S24)
+Course Name: Cloud Security
+Course Number: 95-746
+Department: Information Systems:Sch of IS & Mgt
+Number of Units: 6
+Prerequisites: None
+Instructors: George Werbacher
+Rooms: HBH 1002
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 95-746 Cloud Security>
+
+<start course description for 95-746 Cloud Security>
+Semester: Spring 2024 (aka S24)
+Course Description: In the age of disruption, digitally transformed products and services have enabled more significant innovation, faster go-to-market, and reduced capital expenditure. Behind a majority of these technological advancements is the cloud. As a 260 billion dollar industry, with growth expected to rise 14% by 2025, organizations are adopting the public cloud at increasing rates. This increased adoption of cloud computing has adversely affected security practices that are not fully transferable from on-premise security programs.   This course will provide a foundational understanding of what is required to secure a cloud ecosystem, regardless of the vendor. The concepts and principles that will be discussed will help bridge the gaps between traditional and cloud architectures while accounting for the shifting thought patterns involving enterprise risk management. Students that successfully complete this course will be able to enter into any organization that is utilizing the cloud and immediately bring value to the infrastructure and security teams.
+</end course description for 95-746 Cloud Security>

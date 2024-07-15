@@ -1,0 +1,16 @@
+<start course metadata for 80-251 Modern Philosophy>
+Semester: Spring 2024 (aka S24)
+Course Name: Modern Philosophy
+Course Number: 80-251
+Department: Philosophy
+Number of Units: 9
+Prerequisites: None
+Instructors: Derrick Gray
+Rooms: WEH 4625
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 80-251 Modern Philosophy>
+
+<start course description for 80-251 Modern Philosophy>
+Semester: Spring 2024 (aka S24)
+Course Description: This class will focus on the history of Western philosophy in the modern period, with special emphasis on the "early modern" era of roughly 1600-1800. Massive upheavals and conflicts in science, politics, and religion fueled attempts to find new ways of making sense of the world, and we will try to situate our philosophers within this rapidly evolving intellectual context. In particular, we will examine the impact of these changes on two subfields of philosophy: metaphysics (the study of the nature of reality, distinguishing it from mere appearance), and epistemology (roughly, the study of knowledge itself). We will ask, and attempt answers for, questions like: What is knowledge, can we achieve it, and if so, to what extent? To what extent, if any, can our most basic scientific instruments, the human senses, lead us to the true nature of the world? These questions will unavoidably send us down paths into other subfields, like philosophies of mind, of free will, of ethics, and of religion. After reading early modern philosophers like René Descartes, Princess Elizabeth of Bohemia, John Locke, David Hume, and Immanuel Kant, we will turn to some more recent work in the modern and contemporary eras to see what lessons (if any) were learned, and what new approaches (if any) have been taken in the quest for knowledge and reality.
+</end course description for 80-251 Modern Philosophy>

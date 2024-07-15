@@ -1,0 +1,16 @@
+<start course metadata for 88-499 Advanced Undergraduate Research>
+Semester: Fall 2023 (aka F23)
+Course Name: Advanced Undergraduate Research
+Course Number: 88-499
+Department: Social & Decision Sciences
+Number of Units: N/A
+Prerequisites: None
+Instructors: Danny Oppenheimer, Julie Downs, Mark Patterson
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 88-499 Advanced Undergraduate Research>
+
+<start course description for 88-499 Advanced Undergraduate Research>
+Semester: Fall 2023 (aka F23)
+Course Description: Students conduct research at an advanced level under the supervision of a Social & Decision Sciences faculty member. Students who wish to engage in advanced research should seek out a faculty member whose interests are appropriate to the research. Students must also complete an "Independent Study/Research for Credit" form, available from the SDS Advisors in Porter 208A and 208G.
+</end course description for 88-499 Advanced Undergraduate Research>

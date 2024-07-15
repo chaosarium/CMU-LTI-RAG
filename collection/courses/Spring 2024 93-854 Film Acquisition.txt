@@ -1,0 +1,16 @@
+<start course metadata for 93-854 Film Acquisition>
+Semester: Spring 2024 (aka S24)
+Course Name: Film Acquisition
+Course Number: 93-854
+Department: Arts & Entertainment Management
+Number of Units: 3
+Prerequisites: None
+Instructors: Lakshmi Iyengar
+Rooms: DNM DNM
+Locations: Los Angeles, California
+</end course metadata for 93-854 Film Acquisition>
+
+<start course description for 93-854 Film Acquisition>
+Semester: Spring 2024 (aka S24)
+Course Description: None
+</end course description for 93-854 Film Acquisition>

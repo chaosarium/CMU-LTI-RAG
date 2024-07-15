@@ -1,0 +1,16 @@
+<start course metadata for 82-222 Intermediate German II>
+Semester: Fall 2023 (aka F23)
+Course Name: Intermediate German II
+Course Number: 82-222
+Department: Modern Languages
+Number of Units: 9
+Prerequisites: 82-221
+Instructors: Martina Wells
+Rooms: POS 235
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 82-222 Intermediate German II>
+
+<start course description for 82-222 Intermediate German II>
+Semester: Fall 2023 (aka F23)
+Course Description: This course aims to increase your proficiency in all four language skills: reading, writing, speaking, and listening comprehension. You will get practice in speaking and listening through classroom discussions of the readings as well as group discussions of general topics. In addition to this, we will have a thorough grammar review. Overall, there will be a pronounced emphasis on increasing your awareness of different worldviews. We will contrast and compare different German-speaking countries with one another and the diverse cultures that they harbor, as well as your own countries with their cultural and historical idiosyncrasies. Last but not least, we will explore and analyze the cultural context within which various institutions exist and within which cultural norms are constructed.
+</end course description for 82-222 Intermediate German II>

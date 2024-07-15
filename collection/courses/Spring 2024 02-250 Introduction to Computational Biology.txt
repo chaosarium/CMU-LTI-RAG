@@ -1,0 +1,16 @@
+<start course metadata for 02-250 Introduction to Computational Biology>
+Semester: Spring 2024 (aka S24)
+Course Name: Introduction to Computational Biology
+Course Number: 02-250
+Department: Computational Biology
+Number of Units: 12
+Prerequisites: (15-112 or 15-110 or 02-201) and (03-121 or 03-131 or 03-151)
+Instructors: Dan DeBlasio, Madhavi Ganapathiraju
+Rooms: CMB 1031; DH 1212
+Locations: Doha, Qatar; Pittsburgh, Pennsylvania
+</end course metadata for 02-250 Introduction to Computational Biology>
+
+<start course description for 02-250 Introduction to Computational Biology>
+Semester: Spring 2024 (aka S24)
+Course Description: This class provides a general introduction to computational tools for biology. The course is divided into two halves. The first half covers computational molecular biology and genomics. It examines important sources of biological data, how they are archived and made available to researchers, and what computational tools are available to use them effectively in research. In the process, it covers basic concepts in statistics, mathematics, and computer science needed to effectively use these resources and understand their results. Specific topics covered include sequence data, searching and alignment, structural data, genome sequencing, genome analysis, genetic variation, gene and protein expression, and biological networks and pathways. The second half covers computational cell biology, including biological modeling and image analysis. It includes homework requiring modification of scripts to perform computational analyses. The modeling component includes computer models of population dynamics, biochemical kinetics, cell pathways, and neuron behavior. The imaging component includes the basics of machine vision, morphological image analysis, image classification and image-derived models. The course is taught under two different numbers.  The lectures are the same for both but recitations and examinations are separate. 02-250 is intended primarily for computational biology, computer science, statistics or engineering majors at the undergraduate or graduate level who have had prior experience with computer science or programming. 03-250 is intended primarily for biological sciences or biomedical engineering majors who have had limited prior experience with computer science or programming. Students may not take both 02-250 and 03-250 for credit. Prerequisite: (02-201 or 15-110 or 15-112), or permission of the instructors.
+</end course description for 02-250 Introduction to Computational Biology>

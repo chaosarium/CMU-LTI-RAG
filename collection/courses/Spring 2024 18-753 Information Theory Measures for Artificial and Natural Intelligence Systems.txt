@@ -1,0 +1,16 @@
+<start course metadata for 18-753 Information Theory Measures for Artificial and Natural Intelligence Systems>
+Semester: Spring 2024 (aka S24)
+Course Name: Information Theory Measures for Artificial and Natural Intelligence Systems
+Course Number: 18-753
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: 36-219
+Instructors: Pulkit Grover
+Rooms: PH A18C; WEH 5421
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-753 Information Theory Measures for Artificial and Natural Intelligence Systems>
+
+<start course description for 18-753 Information Theory Measures for Artificial and Natural Intelligence Systems>
+Semester: Spring 2024 (aka S24)
+Course Description: We will discuss how, through examples, counterexamples, thought experiments, and desirable properties, one can systematically arrive at new measures of information relevant in Fairness, Accountability, Transparency, and Explainability (FATE) of machine learning. We will use data and examples from the real world to explore and understand these issues. The focus will be on defining measures -- classic and novel -- as well as the interplay between causality and information that is increasingly important when deciding whether and how to intervene on a decision-making system.  The course introduces the measures of entropy, mutual information, partial information decomposition, causal inference, and their operational meaning. We will also discuss examples of how causal inference and existing measures come together. The course will discuss FATE of ML, information flow and interventions in neuroengineering and neuroscience, and making inferences in computational/dynamical systems (e.g. those in AI and neuroscience), and will engage with hands-on data analyses and real world examples.
+</end course description for 18-753 Information Theory Measures for Artificial and Natural Intelligence Systems>

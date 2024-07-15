@@ -1,0 +1,16 @@
+<start course metadata for 09-435 Independent Study Chemistry>
+Semester: Summer Two 2024 (aka M24, M24 Mini 2, Summer 2024 Mini 2)
+Course Name: Independent Study Chemistry
+Course Number: 09-435
+Department: Chemistry
+Number of Units: N/A
+Prerequisites: None
+Instructors: Karen Stump
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 09-435 Independent Study Chemistry>
+
+<start course description for 09-435 Independent Study Chemistry>
+Semester: Summer Two 2024 (aka M24, M24 Mini 2, Summer 2024 Mini 2)
+Course Description: The course allows students to earn academic credit for concentrated study in a topic area developed in conjunction with and monitored by a faculty member in the Department of Chemistry.  These topics are distinct from projects that would rise to the level of undergraduate research either because they are in unrelated areas distinct from the faculty member's research interests or may constitute the investigation and compilation of existing information from a variety of resources and may not be expected to result in the generation of new information as is a reasonable expected outcome in undergraduate research (likely is not publishable).
+</end course description for 09-435 Independent Study Chemistry>

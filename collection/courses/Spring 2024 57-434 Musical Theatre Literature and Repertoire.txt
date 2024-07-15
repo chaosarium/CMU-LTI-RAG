@@ -1,0 +1,16 @@
+<start course metadata for 57-434 Musical Theatre Literature and Repertoire>
+Semester: Spring 2024 (aka S24)
+Course Name: Musical Theatre Literature and Repertoire
+Course Number: 57-434
+Department: Music
+Number of Units: 3
+Prerequisites: 57-433
+Instructors: Roseanna Irwin, Thomas Douglas
+Rooms: CFA M157
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-434 Musical Theatre Literature and Repertoire>
+
+<start course description for 57-434 Musical Theatre Literature and Repertoire>
+Semester: Spring 2024 (aka S24)
+Course Description: Continues 57-433 Musical Theatre Literature and Repertoire.
+</end course description for 57-434 Musical Theatre Literature and Repertoire>

@@ -1,0 +1,16 @@
+<start course metadata for 45-822 Corporate Finance>
+Semester: Spring 2024 (aka S24)
+Course Name: Corporate Finance
+Course Number: 45-822
+Department: Business Administration
+Number of Units: 6
+Prerequisites: 45-720 and 45-820
+Instructors: Brent Glover
+Rooms: TEP 2119
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-822 Corporate Finance>
+
+<start course description for 45-822 Corporate Finance>
+Semester: Spring 2024 (aka S24)
+Course Description: Corporate Finance (45-822) is a case-based elective course that covers topics in capital budgeting, corporate valuation, payout policy, capital structure, and real options. The aim of the course is to highlight the value of financial theory in solving practical problems facing financial managers. Students have the opportunity to develop their problem solving and communication skills with presentations and critical discussions of real-world case studies.
+</end course description for 45-822 Corporate Finance>

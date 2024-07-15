@@ -1,0 +1,16 @@
+<start course metadata for 76-365 Poetry Workshop>
+Semester: Spring 2024 (aka S24)
+Course Name: Poetry Workshop
+Course Number: 76-365
+Department: English
+Number of Units: 9
+Prerequisites: (76-102 or 76-101 or 76-106 or 76-107 or 76-108) and (76-265)
+Instructors: Camille Rankine
+Rooms: PH 125D
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 76-365 Poetry Workshop>
+
+<start course description for 76-365 Poetry Workshop>
+Semester: Spring 2024 (aka S24)
+Course Description: In this course, we'll explore the manner in which a poem's form and craft can affect the way it tells a story, and the way it makes us feel. We'll examine how a poem's shape can communicate, how its music can stir, and how the space of its page can speak. Students will read work by contemporary poets and consider what their work teaches us as they write their own poems and respond to the work of their peers. Through readings, discussions, and writing exercises, we'll experiment with different methods of employing the line, the line break, white space, rhythm, breath, music, sound and silence to build the sensory world of a poem.
+</end course description for 76-365 Poetry Workshop>

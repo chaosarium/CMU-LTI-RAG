@@ -1,0 +1,16 @@
+<start course metadata for 27-570 Polymeric Biomaterials>
+Semester: Spring 2024 (aka S24)
+Course Name: Polymeric Biomaterials
+Course Number: 27-570
+Department: Materials Science & Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Adam Feinberg
+Rooms: BH A36
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 27-570 Polymeric Biomaterials>
+
+<start course description for 27-570 Polymeric Biomaterials>
+Semester: Spring 2024 (aka S24)
+Course Description: This course will cover aspects of polymeric biomaterials in medicine from molecular principles to device scale design and fabrication. Topics include the chemistry, characterization, and processing of synthetic polymeric materials; cell-biomaterials interactions including interfacial phenomena, tissue responses, and biodegradation mechanisms; aspects of polymeric micro-systems design and fabrication for applications in medical devices. Recent advances in these topics will also be discussed.
+</end course description for 27-570 Polymeric Biomaterials>

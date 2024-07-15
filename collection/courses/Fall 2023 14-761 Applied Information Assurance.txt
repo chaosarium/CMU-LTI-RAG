@@ -1,0 +1,16 @@
+<start course metadata for 14-761 Applied Information Assurance>
+Semester: Fall 2023 (aka F23)
+Course Name: Applied Information Assurance
+Course Number: 14-761
+Department: Information Networking Institute
+Number of Units: 12
+Prerequisites: None
+Instructors: Christopher Herr, Matthew Kaar
+Rooms: B23 211; INI DEC
+Locations: Pittsburgh, Pennsylvania; San Jose, California
+</end course metadata for 14-761 Applied Information Assurance>
+
+<start course description for 14-761 Applied Information Assurance>
+Semester: Fall 2023 (aka F23)
+Course Description: This course focuses on practical applications of Information Assurance (IA) policies and technologies in enterprise network environments.  The course will include lecture and demonstrations, but is designed around a virtual lab environment and scenario that provides for robust and realistic hands-on experiences in dealing with a range of information assurance topic areas.  Students will be provided numerous practical opportunities to apply information security practices and technologies to solve real-world IA problems.
+</end course description for 14-761 Applied Information Assurance>

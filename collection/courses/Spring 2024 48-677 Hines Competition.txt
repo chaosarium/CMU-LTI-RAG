@@ -1,0 +1,16 @@
+<start course metadata for 48-677 Hines Competition>
+Semester: Spring 2024 (aka S24)
+Course Name: Hines Competition
+Course Number: 48-677
+Department: Architecture
+Number of Units: 3
+Prerequisites: None
+Instructors: Stefani Danes
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-677 Hines Competition>
+
+<start course description for 48-677 Hines Competition>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is for graduate students participating in the prestigious national Urban Land Institute (ULI) Hines competition. This is an intensive real estate and urban design competition that will take place January 9 - January 23rd. Optional pre-competition preparation workshop sessions will be offered the week prior to January 9th. The course itself includes delivering and sharing competition entries and completing a post-competition survey.  The purpose of the competition and companion course is for cross-disciplinary teams of graduate students to work collaboratively to create a complex urban design and real estate proposal on a real site in North America. Competition entries include a narrative, drawings and financial analysis. Each team will select and work with a design faculty advisor(s). This course is typically required for Masters of Urban Design (MUD) students.  Previous real estate course work or knowledge is preferred. All registrants will be wait-listed until their teams have been registered with ULI (deadline December 9th). Please contact the coordinator Valentina Vavasis to participate.
+</end course description for 48-677 Hines Competition>

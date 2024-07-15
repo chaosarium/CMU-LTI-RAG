@@ -1,0 +1,16 @@
+<start course metadata for 54-952 Dance Lighting Design 1>
+Semester: Fall 2023 (aka F23)
+Course Name: Dance Lighting Design 1
+Course Number: 54-952
+Department: Drama
+Number of Units: 3
+Prerequisites: None
+Instructors: Robert Thomson
+Rooms: PCA 211
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-952 Dance Lighting Design 1>
+
+<start course description for 54-952 Dance Lighting Design 1>
+Semester: Fall 2023 (aka F23)
+Course Description: Through hands-on exploration, lecture and discussion, students will develop a design process for lighting dance. Topics will include: historical background of dance roots, approaches to lighting ballet and modern dance, designing a dance rep plot, and dance lighting techniques.
+</end course description for 54-952 Dance Lighting Design 1>

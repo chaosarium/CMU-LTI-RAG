@@ -1,0 +1,16 @@
+<start course metadata for 04-980 MSIT Independent study>
+Semester: Spring 2024 (aka S24)
+Course Name: MSIT Independent study
+Course Number: 04-980
+Department: Information & Communication Technology
+Number of Units: N/A
+Prerequisites: None
+Instructors: George Okeyo, Instructor TBA
+Rooms: DNM DNM
+Locations: Kigali, Rwanda
+</end course metadata for 04-980 MSIT Independent study>
+
+<start course description for 04-980 MSIT Independent study>
+Semester: Spring 2024 (aka S24)
+Course Description: The MSIT independent study is an independent project approved and supervised by a CMU-R faculty member.  The number of units reflects the amount of work to be done during the semester, with one unit corresponding to average of approximately one hour of work per week.  The faculty member supervising the project defines the project in collaboration with the student and specifies the criteria for grading the project.  MSIT independent study can address any area related to the development and application of information and communication technology.
+</end course description for 04-980 MSIT Independent study>

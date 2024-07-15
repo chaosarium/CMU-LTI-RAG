@@ -1,0 +1,16 @@
+<start course metadata for 18-746 Storage Systems>
+Semester: Fall 2023 (aka F23)
+Course Name: Storage Systems
+Course Number: 18-746
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: 18-213 or 15-213 or 14-513 or 15-513 or 18-600 or 18-613
+Instructors: George Amvrosiadis, Gregory Ganger
+Rooms: DH 2210
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-746 Storage Systems>
+
+<start course description for 18-746 Storage Systems>
+Semester: Fall 2023 (aka F23)
+Course Description: This course covers the design, implementation, and use of storage systems, from the characteristics and operation of individual storage devices through the OS, database, and networking approaches involved in tying them together and making them useful to key applications' demands and technology trends. Topics to be covered include: network-attached storage, disk arrays, storage networking, storage management, advanced file systems, disk performance enhancement, wide-area data sharing, and storage security. 3 hrs. lec. The class will continue to be like previous years, with the same advanced content and high-level expectations.
+</end course description for 18-746 Storage Systems>

@@ -1,0 +1,16 @@
+<start course metadata for 51-452 Furniture Design II>
+Semester: Spring 2024 (aka S24)
+Course Name: Furniture Design II
+Course Number: 51-452
+Department: Design
+Number of Units: 9
+Prerequisites: 51-451
+Instructors: Matthew Zywica
+Rooms: PH A27
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-452 Furniture Design II>
+
+<start course description for 51-452 Furniture Design II>
+Semester: Spring 2024 (aka S24)
+Course Description: A continuation of 51-451, this course explores a much broader range of issues related to furniture design. Students will identify and define in a proposal the area of furniture design they intend to investigate and then produce one or more furniture pieces developed from their findings. Materials and processes applied to the project are limited only by the resources the student can bring to bear. Assigned readings and a series of in-class discussions will focus on the influence of workmanship in design, and on how the behavior of the user is influenced by the form or esthetic language of the artifact. Lab fee & material purchases required.
+</end course description for 51-452 Furniture Design II>

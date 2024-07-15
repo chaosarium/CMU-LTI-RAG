@@ -1,0 +1,16 @@
+<start course metadata for 18-726 Projects in Integrated Circuit Design: First Silicon>
+Semester: Fall 2023 (aka F23)
+Course Name: Projects in Integrated Circuit Design: First Silicon
+Course Number: 18-726
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: 18-725 or 18-525
+Instructors: Kenneth Mai
+Rooms: WEH 4709
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-726 Projects in Integrated Circuit Design: First Silicon>
+
+<start course description for 18-726 Projects in Integrated Circuit Design: First Silicon>
+Semester: Fall 2023 (aka F23)
+Course Description: Students who have fabricated a testchip in 18-725 or as part of their research learn how to design and implement testing infrastructure for their chip, write test vectors, and perform in lab testing of the chips. This includes chip packaging specification; test PCB design, fabrication, and population; test vector creation and test coverage evaluation; lab instrument automation; and in lab test and debug of the fabricated chips. Recommended for PhD students that plan to design chips for their thesis or MS students interested in careers in VLSI design.
+</end course description for 18-726 Projects in Integrated Circuit Design: First Silicon>

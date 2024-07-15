@@ -1,0 +1,16 @@
+<start course metadata for 36-727 Modern Experimental Design>
+Semester: Spring 2024 (aka S24)
+Course Name: Modern Experimental Design
+Course Number: 36-727
+Department: Statistics and Data Science
+Number of Units: 6
+Prerequisites: None
+Instructors: Alexander Reinhart
+Rooms: POS 146
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 36-727 Modern Experimental Design>
+
+<start course description for 36-727 Modern Experimental Design>
+Semester: Spring 2024 (aka S24)
+Course Description: Designed experiments are crucial to draw causal conclusions with minimum expense and maximum precision. This course introduces the basic principles and theory of experimental design, including randomized designs, blocking, analysis of covariance, factorial designs, and power analysis, with an emphasis on recent techniques often applied to the online experiments frequently used by tech companies. We will emphasize the importance of critical thinking about the goals and context of an experiment to choose the best design, and practice these skills through a course project. Coursework will primarily use R for the analysis of experimental data. This course requires prior experience in linear regression analysis, linear algebra, and statistical inference.
+</end course description for 36-727 Modern Experimental Design>

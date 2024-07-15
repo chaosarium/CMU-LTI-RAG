@@ -1,0 +1,16 @@
+<start course metadata for 57-693 Graduate Vocal Coaching>
+Semester: Spring 2024 (aka S24)
+Course Name: Graduate Vocal Coaching
+Course Number: 57-693
+Department: Music
+Number of Units: 2
+Prerequisites: None
+Instructors: Ellen Rissinger, Jocelyn Dueck, Katherine Shields, Mark Carver, Roseanna Irwin
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-693 Graduate Vocal Coaching>
+
+<start course description for 57-693 Graduate Vocal Coaching>
+Semester: Spring 2024 (aka S24)
+Course Description: TBA
+</end course description for 57-693 Graduate Vocal Coaching>

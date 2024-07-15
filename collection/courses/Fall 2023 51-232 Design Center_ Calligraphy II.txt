@@ -1,0 +1,16 @@
+<start course metadata for 51-232 Design Center: Calligraphy II>
+Semester: Fall 2023 (aka F23)
+Course Name: Design Center: Calligraphy II
+Course Number: 51-232
+Department: Design
+Number of Units: 9
+Prerequisites: 51-231
+Instructors: Myrna Rosen
+Rooms: MM 203
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-232 Design Center: Calligraphy II>
+
+<start course description for 51-232 Design Center: Calligraphy II>
+Semester: Fall 2023 (aka F23)
+Course Description: This course serves as a continuation and deeper investigation of topics explored in Calligraphy I, where students tackle advanced problems in calligraphy and lettering. The introduction of new hands is to be decided by the student and instructor.  Prerequisites: 51231
+</end course description for 51-232 Design Center: Calligraphy II>

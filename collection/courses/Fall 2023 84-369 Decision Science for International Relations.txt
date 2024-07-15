@@ -1,0 +1,16 @@
+<start course metadata for 84-369 Decision Science for International Relations>
+Semester: Fall 2023 (aka F23)
+Course Name: Decision Science for International Relations
+Course Number: 84-369
+Department: Institute for Politics and Strategy
+Number of Units: 9
+Prerequisites: 36-201 or 36-200 or 19-250
+Instructors: Baruch Fischhoff
+Rooms: GHC 4211
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 84-369 Decision Science for International Relations>
+
+<start course description for 84-369 Decision Science for International Relations>
+Semester: Fall 2023 (aka F23)
+Course Description: Decision Science looks at choices from three interrelated perspectives: analysis, characterizing decision makers' options, in terms of expected effects on outcomes that they value; description, characterizing decision makers' beliefs and preferences; and interventions, helping decision makers to choose among the options available to them or create better ones.  The course integrates foundational research in Decision Science with applications to international relations and politics.
+</end course description for 84-369 Decision Science for International Relations>

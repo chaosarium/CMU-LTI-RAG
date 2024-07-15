@@ -1,0 +1,16 @@
+<start course metadata for 36-719 Topics in Experimental Design and Data Analysis for Neuroscience>
+Semester: Fall 2023 (aka F23)
+Course Name: Topics in Experimental Design and Data Analysis for Neuroscience
+Course Number: 36-719
+Department: Statistics and Data Science
+Number of Units: 3
+Prerequisites: None
+Instructors: Robert Kass
+Rooms: BH 229A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 36-719 Topics in Experimental Design and Data Analysis for Neuroscience>
+
+<start course description for 36-719 Topics in Experimental Design and Data Analysis for Neuroscience>
+Semester: Fall 2023 (aka F23)
+Course Description: This new course will include (a) fundamental statistical issues that arise frequently, and (b) timely response concerning issues raised from student research and lab meetings. The first, (a), will involve particular topics, with assigned reading. Prior to class, students will be required to post (on a course discussion board) a comment or question, and these will furnish the basis for class discussion. For (b), students will also have the opportunity to ask questions about anything that has come up in their reading and research. Examples of topics in part (a) are the following: Ten simple rules for effective statistical practice. What we mean by "random."  The often-overlooked yet crucial statistical assumption of independence. The reason the normal distribution is so important (it's not about data). The enduring lessons of statistical theory. How bias can invalidate conclusions, while sometimes being helpful. The most common difficulty with reported p-values, and why many concerns about p-values are largely misplaced. The fundamental distinction between effects of causes and causes of effects. The ways that correlation is more subtle than is usually appreciated. Why regression is the most important method in statistics. The situations in which regression can be treacherous. What Bayesian methods can and can not achieve. The goals, successes, and perils of machine learning.
+</end course description for 36-719 Topics in Experimental Design and Data Analysis for Neuroscience>

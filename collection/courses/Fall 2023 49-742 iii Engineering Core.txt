@@ -1,0 +1,16 @@
+<start course metadata for 49-742 iii Engineering Core>
+Semester: Fall 2023 (aka F23)
+Course Name: iii Engineering Core
+Course Number: 49-742
+Department: Integrated Innovation Institute
+Number of Units: 6
+Prerequisites: None
+Instructors: Brandon Bodily
+Rooms: CA 108
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 49-742 iii Engineering Core>
+
+<start course description for 49-742 iii Engineering Core>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is for the engineer and non-engineer alike who work on collaborative teams and need to understand each others professional language, perspectives, processes, and requirements for bringing products and services to fruition. With an engineering forward focus, the class will expose non-engineers to the often complex and safety critical ways engineers approach decision making. Likewise, those with an engineering background will have opportunities to more deeply apply what they know, educate less experienced teammates, and push their thinking with difficult real-world problems.
+</end course description for 49-742 iii Engineering Core>

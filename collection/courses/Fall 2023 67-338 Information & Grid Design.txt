@@ -1,0 +1,16 @@
+<start course metadata for 67-338 Information & Grid Design>
+Semester: Fall 2023 (aka F23)
+Course Name: Information & Grid Design
+Course Number: 67-338
+Department: Information Systems Program
+Number of Units: 9
+Prerequisites: None
+Instructors: Susan Hagan
+Rooms: POS 145
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 67-338 Information & Grid Design>
+
+<start course description for 67-338 Information & Grid Design>
+Semester: Fall 2023 (aka F23)
+Course Description: Whether you create, oversee, or want practice solving problems through grid systems for websites, responsive applications, slide presentations, or data visualizations, this course provides the skills and perspective needed to communicate in grid environments: a synthesis of content, structure, and interaction.   Grids emerged to address content/structure needs linked to print production, leaving opportunities to fully explore how they can better help stakeholders in interactive environments. As we explore this space, specific skillsets will include:   developing a better understanding of visual composition through the grid,   using the vocabulary of communication and information design in critique,   manipulating typographic variables to create readable documents,   learning approaches to invention using image, text, & typography,   creating simple to complex grid structures,   developing skills in Illustrator, Photoshop, and Adobe XD,   adapting simple prototypes to HTML/CSS through basic Bootstrap.
+</end course description for 67-338 Information & Grid Design>

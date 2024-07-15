@@ -1,0 +1,16 @@
+<start course metadata for 18-755 Networks in the Real World>
+Semester: Fall 2023 (aka F23)
+Course Name: Networks in the Real World
+Course Number: 18-755
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Osman Yagan
+Rooms: B23 227; DH 1211
+Locations: Pittsburgh, Pennsylvania; San Jose, California
+</end course metadata for 18-755 Networks in the Real World>
+
+<start course description for 18-755 Networks in the Real World>
+Semester: Fall 2023 (aka F23)
+Course Description: 18-755 is a graduate-level course that focuses on networks and their applications to various natural and technological systems. Specifically, this class delves into the new science behind networks and their concrete applications technological, biological, and social systems, as well as various design synergies that exist when looking at these systems from a cyber-physical perspective. By scope and contents, this is not just another class on "networks." Want to know how complex networks dominate our world? How communities arise in social networks? How group behavior dominates Twitter? How swarms of bacteria can navigate inside the human body?  How patterns of interaction can be identified in hardware and software systems? Want to work on cutting edge projects involving systems and synthetic biology? Or social networks? Or networks-on-chip and internet-of-things? Then this class is for you!  Course requirements consist of a few homework assignments, a semester-long project, and in-class presentations of relevant papers. By structure and contents, this class targets primarily the computer engineering and computer science students, but it also provides a valuable foundation for interdisciplinary research to students in related disciplines.    Senior or graduate standing standing is required to take this course.
+</end course description for 18-755 Networks in the Real World>

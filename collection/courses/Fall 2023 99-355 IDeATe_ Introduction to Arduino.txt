@@ -1,0 +1,16 @@
+<start course metadata for 99-355 IDeATe: Introduction to Arduino>
+Semester: Fall 2023 (aka F23)
+Course Name: IDeATe: Introduction to Arduino
+Course Number: 99-355
+Department: Carnegie Mellon University-Wide Studies
+Number of Units: 1
+Prerequisites: None
+Instructors: Robert Zacharias
+Rooms: HL A10
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 99-355 IDeATe: Introduction to Arduino>
+
+<start course description for 99-355 IDeATe: Introduction to Arduino>
+Semester: Fall 2023 (aka F23)
+Course Description: PLEASE NOTE: The specific meeting dates for the A1 section of this micro course are Sep 22, Sep 29, Oct 6. The specific meeting dates for the A2 section of this micro course are Oct 29, Nov 5, Nov 12. This workshop aims to demystify the Arduino microcontroller through hands-on work in the lab creating simple machines with embodied behaviors. The Arduino is a versatile resource for physical projects for students in all disciplines. This course brings students over the beginner's threshold to a basic understanding of the use, terminology, and potential of the Arduino. The skills and concepts taught in this course are presented from an interdisciplinary approach which merges practices in arts and technology. The first portion will teach the essential skills for creating a simple sensor-driven physical computing system, and the second portion will reinforce those skills by making a simple interactive project. The course has no technical prerequisites, although uses a little bit of algebra-level math. Undergraduate students, graduate students, faculty and staff interested in learning new skills in an interdisciplinary environment are welcome!
+</end course description for 99-355 IDeATe: Introduction to Arduino>

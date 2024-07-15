@@ -1,0 +1,16 @@
+<start course metadata for 21-122 Integration and Approximation>
+Semester: Spring 2024 (aka S24)
+Course Name: Integration and Approximation
+Course Number: 21-122
+Department: Mathematical Sciences
+Number of Units: 10
+Prerequisites: 21-112 or 21-120
+Instructors: Amzi Jeffs, Jason Howell, Marta Pavelka
+Rooms: PH 100; POS A35
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-122 Integration and Approximation>
+
+<start course description for 21-122 Integration and Approximation>
+Semester: Spring 2024 (aka S24)
+Course Description: Integration by trigonometric substitution and partial fractions; arclength; improper integrals; Simpson's and Trapezoidal Rules for numerical integration; separable differential equations, Newton's method, Euler's method, Taylor's Theorem including a discussion of the remainder, sequences, series, power series. Parametric curves, polar coordinates, vectors, dot product. (Three 50 minute lectures, two 50 minute recitations)
+</end course description for 21-122 Integration and Approximation>

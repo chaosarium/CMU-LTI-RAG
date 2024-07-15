@@ -1,0 +1,16 @@
+<start course metadata for 82-347 Spanish for Heritage Speakers>
+Semester: Spring 2024 (aka S24)
+Course Name: Spanish for Heritage Speakers
+Course Number: 82-347
+Department: Modern Languages
+Number of Units: 6
+Prerequisites: None
+Instructors: Mercedes Dollard
+Rooms: PH A19D
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 82-347 Spanish for Heritage Speakers>
+
+<start course description for 82-347 Spanish for Heritage Speakers>
+Semester: Spring 2024 (aka S24)
+Course Description: This Spanish Heritage Speaker mini course is offered to students who grew up speaking Spanish at home, but never formally studied the language. The course focuses on refining both written and spoken language skills, exploring grammar, expanding vocabulary, and addressing challenges that are unique to heritage speakers, such as code-switching and cultural-nuance maneuvering. Through the use of literary texts, music, and films, the course facilitates an understanding of Hispanic cultures, while also encouraging self-reflection on cultural identity. Upon completion of the course, students will not only reach a heightened language proficiency, but also a deeper appreciation both for the rich diversity within the Spanish-speaking world and for their own place in it."
+</end course description for 82-347 Spanish for Heritage Speakers>

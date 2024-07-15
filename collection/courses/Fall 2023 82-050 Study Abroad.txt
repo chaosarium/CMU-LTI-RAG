@@ -1,0 +1,16 @@
+<start course metadata for 82-050 Study Abroad>
+Semester: Fall 2023 (aka F23)
+Course Name: Study Abroad
+Course Number: 82-050
+Department: Modern Languages
+Number of Units: 0
+Prerequisites: None
+Instructors: Instructor TBA
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 82-050 Study Abroad>
+
+<start course description for 82-050 Study Abroad>
+Semester: Fall 2023 (aka F23)
+Course Description: This course number and title serve as a placeholder for Carnegie Mellon undergraduate students who study abroad.  Once students define clearly their program of study abroad and obtain their Carnegie Mellon advisor's approval, this course is replaced by the appropriate specific classes and units of their curriculum.
+</end course description for 82-050 Study Abroad>

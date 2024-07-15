@@ -1,0 +1,16 @@
+<start course metadata for 76-887 Information Architecture & Content Strategy>
+Semester: Spring 2024 (aka S24)
+Course Name: Information Architecture & Content Strategy
+Course Number: 76-887
+Department: English
+Number of Units: N/A
+Prerequisites: 76-870 and (51-761 or 51-762)
+Instructors: Suguru Ishizaki
+Rooms: PH A19C
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 76-887 Information Architecture & Content Strategy>
+
+<start course description for 76-887 Information Architecture & Content Strategy>
+Semester: Spring 2024 (aka S24)
+Course Description: In the digital age, the vast amount of information available online can be overwhelming, and even individual websites often struggle to present their content in a user-friendly manner. In this course, students will immerse themselves in a semester-long real-world project with practical exercises designed to address this challenge.  This course equips students with the skills necessary to develop user-centered information architecture and content strategy/design, enabling them to create user-friendly websites that align with user expectations and industry best practices. Throughout the course, students will adopt a user-centered approach, utilizing essential usability methods to gain insights into the information needs, behaviors, and preferences of users. They will develop the ability to identify and rectify usability issues on websites.  Additionally, students will delve into the principles of online information design, encompassing topics such as information architecture, navigation, and effective labeling. In the required lab section of the course, students will gain hands-on experience with core web technologies, including HTML and CSS, to shape and style web content. They will also gain an understanding of JavaScript and APIs, which play a pivotal role in integrating data and services into websites.
+</end course description for 76-887 Information Architecture & Content Strategy>

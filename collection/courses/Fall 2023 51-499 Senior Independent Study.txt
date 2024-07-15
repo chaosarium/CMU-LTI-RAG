@@ -1,0 +1,16 @@
+<start course metadata for 51-499 Senior Independent Study>
+Semester: Fall 2023 (aka F23)
+Course Name: Senior Independent Study
+Course Number: 51-499
+Department: Design
+Number of Units: N/A
+Prerequisites: None
+Instructors: Dylan Vitone, Esther Kang, Instructor TBA, Kelsey Elder
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-499 Senior Independent Study>
+
+<start course description for 51-499 Senior Independent Study>
+Semester: Fall 2023 (aka F23)
+Course Description: Proposal forms are available on the Design Intranet.  Proposals must be approved by faculty before pre-registration.
+</end course description for 51-499 Senior Independent Study>

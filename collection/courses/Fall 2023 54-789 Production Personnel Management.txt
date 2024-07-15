@@ -1,0 +1,16 @@
+<start course metadata for 54-789 Production Personnel Management>
+Semester: Fall 2023 (aka F23)
+Course Name: Production Personnel Management
+Course Number: 54-789
+Department: Drama
+Number of Units: 6
+Prerequisites: None
+Instructors: Miso Wei
+Rooms: WEH 4707
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-789 Production Personnel Management>
+
+<start course description for 54-789 Production Personnel Management>
+Semester: Fall 2023 (aka F23)
+Course Description: Study of the management of production personnel for live theatrical productions.  In depth analysis of union contracts from a management perspective: AEA, IATSE, USA.  Projects in scheduling and budgeting based on those contracts.  Study of hiring, evaluating, and retaining a quality staff.  Examination of the role of safety protocols in production.  The Course concentrates on the relationship between the Production Manager and all of the personnel that one comes in contact with. For 2nd year PTM or with instructor permission only.
+</end course description for 54-789 Production Personnel Management>

@@ -1,0 +1,16 @@
+<start course metadata for 54-702 Music Reading for Production>
+Semester: Fall 2023 (aka F23)
+Course Name: Music Reading for Production
+Course Number: 54-702
+Department: Drama
+Number of Units: 3
+Prerequisites: None
+Instructors: Deana Muro
+Rooms: PCA 118
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-702 Music Reading for Production>
+
+<start course description for 54-702 Music Reading for Production>
+Semester: Fall 2023 (aka F23)
+Course Description: This class gives the basics of music theory, musical terminology and score reading.  Students focus on the difference in various musical scores, ie. piano/vocal, full, hand written scores.  Students are guided in classroom listening which a wide variety of music including, opera, musical theatre, ballet, and choral/orchestra works.
+</end course description for 54-702 Music Reading for Production>

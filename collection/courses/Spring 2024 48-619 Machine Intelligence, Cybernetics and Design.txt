@@ -1,0 +1,16 @@
+<start course metadata for 48-619 Machine Intelligence, Cybernetics and Design>
+Semester: Spring 2024 (aka S24)
+Course Name: Machine Intelligence, Cybernetics and Design
+Course Number: 48-619
+Department: Architecture
+Number of Units: 9
+Prerequisites: None
+Instructors: Ensar Temizel, Paul Pangaro
+Rooms: MM 307
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-619 Machine Intelligence, Cybernetics and Design>
+
+<start course description for 48-619 Machine Intelligence, Cybernetics and Design>
+Semester: Spring 2024 (aka S24)
+Course Description: The course brings forward cybernetic epistemology, concepts, and models that bridge machine intelligence and the evolution of 21st-century architectural/design practice. The dominance of ¿artificial intelligence¿, especially with the substitution of machine learning for the broader meanings of AI and more so for ¿machine intelligence¿, has created a severely limited view of what computation can afford architecture/design, as well as the rapidly evolving techno-culture, and no less society and culture more broadly.
+</end course description for 48-619 Machine Intelligence, Cybernetics and Design>

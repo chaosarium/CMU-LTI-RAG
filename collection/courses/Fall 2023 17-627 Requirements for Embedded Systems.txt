@@ -1,0 +1,16 @@
+<start course metadata for 17-627 Requirements for Embedded Systems>
+Semester: Fall 2023 (aka F23)
+Course Name: Requirements for Embedded Systems
+Course Number: 17-627
+Department: Software & Societal Systems
+Number of Units: 6
+Prerequisites: 17-614
+Instructors: Pavetti
+Rooms: CMU REMOTE
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 17-627 Requirements for Embedded Systems>
+
+<start course description for 17-627 Requirements for Embedded Systems>
+Semester: Fall 2023 (aka F23)
+Course Description: Software engineering requires understanding the problem, before identifying solutions. In this course, students study ways to elicit and analyze problem statements for real-time systems along multiple dimensions, including concurrency, dependability and safety.
+</end course description for 17-627 Requirements for Embedded Systems>

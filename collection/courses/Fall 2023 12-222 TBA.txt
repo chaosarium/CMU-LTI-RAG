@@ -1,0 +1,16 @@
+<start course metadata for 12-222 TBA>
+Semester: Fall 2023 (aka F23)
+Course Name: TBA
+Course Number: 12-222
+Department: Civil & Environmental Engineering
+Number of Units: 3
+Prerequisites: None
+Instructors: Gregory Lowry
+Rooms: PH 107E
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 12-222 TBA>
+
+<start course description for 12-222 TBA>
+Semester: Fall 2023 (aka F23)
+Course Description: Students learn to conduct lab and field experiments relevant to environmental engineering and the understanding of natural and engineered systems. Exercises involve the collection and analysis of data from major domains of the environment (air, water, soil, sediments). Students learn to use state-of- the-art environmental analytical techniques. Students develop collaborative skills through team-based laboratory exercises and practice skills in written communication of laboratory results.
+</end course description for 12-222 TBA>

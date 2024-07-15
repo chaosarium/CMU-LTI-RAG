@@ -1,0 +1,16 @@
+<start course metadata for 27-565 Nanostructured Materials>
+Semester: Spring 2024 (aka S24)
+Course Name: Nanostructured Materials
+Course Number: 27-565
+Department: Materials Science & Engineering
+Number of Units: 9
+Prerequisites: None
+Instructors: Mohammad Islam
+Rooms: WEH 4708
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 27-565 Nanostructured Materials>
+
+<start course description for 27-565 Nanostructured Materials>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is an introduction to nanostructured materials or nanomaterials. Nanomaterials are objects with sizes larger than the atomic or molecular length scales but smaller than microstructures with at least one dimension in the range of 1-100 nm. The physical and chemical properties of these materials are often distinctively different from bulk materials. For example, gold nanoparticles with diameters ~15 nm are red and ~40 nm gold nanoparticles are purple whereas bulk gold has a golden color.  The course starts with a discussion of top-down and bottom-up fabrication methods for making nanostructures as well as how to image and characterize nanomaterials including scanning probe microscopies. Emerging nanomaterials such as fullerenes, graphene, carbon nanotubes, quantum dots and nanocomposites are also discussed. The course then focuses on applications of nanomaterials to microelectronics, particularly nanoscale devices and the emerging field of molecular-scale electronics. The miniaturization of integrated systems that sense mechanical or chemical changes and produce as electrical signal is presented. The principles and applications of the quantum confinement effects on optical properties are discussed, mainly as sensors. The last part of the course is a discussion of nanoscale mechanisms in biomimetic systems and how these phenomena are applied in new technologies including molecular motors.
+</end course description for 27-565 Nanostructured Materials>

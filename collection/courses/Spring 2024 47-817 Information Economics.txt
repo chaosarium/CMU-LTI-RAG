@@ -1,0 +1,16 @@
+<start course metadata for 47-817 Information Economics>
+Semester: Spring 2024 (aka S24)
+Course Name: Information Economics
+Course Number: 47-817
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: James Best
+Rooms: TEP 4219
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 47-817 Information Economics>
+
+<start course description for 47-817 Information Economics>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is an advanced class on information, learning and communication. Topics include but are not limited to basic underpinnings of modeling information in economic decisions, including measuring the value of information and information design. These frameworks are used to study markets for information, including how a platform prices and sells information in an online market, how to design rating systems to incentivize a firm to produce a high quality product, and how a firm provides personalized product recommendations to consumers.
+</end course description for 47-817 Information Economics>

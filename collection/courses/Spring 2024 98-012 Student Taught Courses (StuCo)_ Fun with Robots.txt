@@ -1,0 +1,16 @@
+<start course metadata for 98-012 Student Taught Courses (StuCo): Fun with Robots>
+Semester: Spring 2024 (aka S24)
+Course Name: Student Taught Courses (StuCo): Fun with Robots
+Course Number: 98-012
+Department: StuCo (Student Led Courses)
+Number of Units: 3
+Prerequisites: None
+Instructors: Charlotte Wang, Kevin Song
+Rooms: WEH 5202
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 98-012 Student Taught Courses (StuCo): Fun with Robots>
+
+<start course description for 98-012 Student Taught Courses (StuCo): Fun with Robots>
+Semester: Spring 2024 (aka S24)
+Course Description: In this course students will learn the basics of programming, sensors, motors, and controls. Students will learn how to program a Romi robot, as well as build a basic breadboard circuit to use real sensor data to navigate.  The course lecture format will include instructional slides at the beginning of each lecture, along with a brief explanation on how what we do in class connects to "real-world" robotics. This is then followed by supervised programming time where the instructors will answer questions and advise students working on labs.  Assignments are very hands-on, encouraging students to learn in a practical and iterative process. Each lab is accompanied by a short lecture at the start of class to ensure everyone has the same base knowledge beforehand. There is a $10 lab fee. If your financial situation makes this fee an obstacle to your participation in the class, please talk to the instructors.
+</end course description for 98-012 Student Taught Courses (StuCo): Fun with Robots>

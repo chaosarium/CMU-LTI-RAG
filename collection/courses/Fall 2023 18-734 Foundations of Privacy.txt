@@ -1,0 +1,16 @@
+<start course metadata for 18-734 Foundations of Privacy>
+Semester: Fall 2023 (aka F23)
+Course Name: Foundations of Privacy
+Course Number: 18-734
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: 18-665
+Instructors: Giulia Fanti, Steven Wu
+Rooms: B23 211; BH A53
+Locations: Pittsburgh, Pennsylvania; San Jose, California
+</end course metadata for 18-734 Foundations of Privacy>
+
+<start course description for 18-734 Foundations of Privacy>
+Semester: Fall 2023 (aka F23)
+Course Description: Privacy is a significant concern in modern society. Individuals share personal information with many different organizations - healthcare, financial and educational institutions, the census bureau, web services providers and online social networks - often in electronic form. Privacy violations occur when such personal information is inappropriately collected, shared or used. We will study privacy in a few settings where rigorous definitions and enforcement mechanisms are being developed - statistical disclosure limitation (as may be used by the census bureau in releasing statistics), semantics and logical specification of privacy policies that constrain information flow and use (e.g., by privacy regulations such as the HIPAA Privacy Rule and the Gramm-Leach-Bliley Act), principled audit and accountability mechanisms for enforcing privacy policies, anonymous communication protocols - and other settings in which privacy concerns have prompted much research, such as in social networks, location privacy and Web privacy (in particular, online tracking & targeted advertising).
+</end course description for 18-734 Foundations of Privacy>

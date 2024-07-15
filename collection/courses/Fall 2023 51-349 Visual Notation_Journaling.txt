@@ -1,0 +1,16 @@
+<start course metadata for 51-349 Visual Notation/Journaling>
+Semester: Fall 2023 (aka F23)
+Course Name: Visual Notation/Journaling
+Course Number: 51-349
+Department: Design
+Number of Units: 9
+Prerequisites: None
+Instructors: Mark Mentzer
+Rooms: MM A11
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-349 Visual Notation/Journaling>
+
+<start course description for 51-349 Visual Notation/Journaling>
+Semester: Fall 2023 (aka F23)
+Course Description: Visual notation is the graphic equivalent of taking written notes. While the camera is a valuable and at times indispensible tool for recording what we see, the camera cannot make visible mental concepts. Nor can it discover and display underlying structures, create hierarchies, explain organizational schema or concepts that are not easily seen or understood. This course is about making visual notes in order to become fluent in your abilities to observe, record and interperate. Through daily entries in a journal you will work in several content areas i.e. mapping, natural and built environments and systems to name a few. A good portion of the work in this class will be conducted in the field using the resources available to us such as the museum, zoo and architectural sites. You will also be challenged to incorporate your notes as tools for communicating design concepts, implementing project development and presentations. The course will rely on the use of a variety of simple drawing tools and electronic media. Several visualization methods will be introduced and the work will build on the drawing experiences from First Year drawing. This course is intended for Junior and Senior Design Majors.
+</end course description for 51-349 Visual Notation/Journaling>

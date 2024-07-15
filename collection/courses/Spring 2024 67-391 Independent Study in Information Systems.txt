@@ -1,0 +1,16 @@
+<start course metadata for 67-391 Independent Study in Information Systems>
+Semester: Spring 2024 (aka S24)
+Course Name: Independent Study in Information Systems
+Course Number: 67-391
+Department: Information Systems Program
+Number of Units: N/A
+Prerequisites: None
+Instructors: Divakaran Liginlal, Instructor TBA, Jeria Quesenberry, Joseph Mertz, Julia Poepping, Larry Heimann, Raja Sooriamurthi, Randy Weinberg, Samuel Perl, Sara Moussawi
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 67-391 Independent Study in Information Systems>
+
+<start course description for 67-391 Independent Study in Information Systems>
+Semester: Spring 2024 (aka S24)
+Course Description: Independent studies are opportunities to engage in research with an IS faculty member to advance your learning in certain areas of interest. Information Systems students may enroll in independent study for 3, 6, 9, 12 units of academic credit by obtaining an IS faculty sponsor who will oversee the academic component of the coursework, monitor progress, and assign a final grade.
+</end course description for 67-391 Independent Study in Information Systems>

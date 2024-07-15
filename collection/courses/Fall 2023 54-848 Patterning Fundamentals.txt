@@ -1,0 +1,16 @@
+<start course metadata for 54-848 Patterning Fundamentals>
+Semester: Fall 2023 (aka F23)
+Course Name: Patterning Fundamentals
+Course Number: 54-848
+Department: Drama
+Number of Units: 6
+Prerequisites: None
+Instructors: Hugh Hanson
+Rooms: PCA 308
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-848 Patterning Fundamentals>
+
+<start course description for 54-848 Patterning Fundamentals>
+Semester: Fall 2023 (aka F23)
+Course Description: Patterning Fundamentals is a half-semester introduction to various systems of drafting garment patterns for the performing arts.  At the start of the course, the history of the flat pattern, custom and commercial, is examined. The early sessions focus on how to utilize body measurements in combination with the formulas for garments, to draft patterns and the techniques for manipulating those base patterns to other applications such as changing the fit, style or design.  Building on that, the class next explores using scale patterns found in books: considering those found in historical sources, lifted from extant garments, and developed for stage and screen costumes.  This introduction to the scale pattern will be the foundation for work realized in Advanced Draping for the Costume Artisan.  To conclude the course, the unique methods tailors evolved to share their pattern-making techniques with their contemporaries and future generations of tailors are demonstrated and applied.  This initiation to tailor drafting procedures will be expanded on in Tailoring I and II.
+</end course description for 54-848 Patterning Fundamentals>

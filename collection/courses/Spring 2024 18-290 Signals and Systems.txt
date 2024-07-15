@@ -1,0 +1,16 @@
+<start course metadata for 18-290 Signals and Systems>
+Semester: Spring 2024 (aka S24)
+Course Name: Signals and Systems
+Course Number: 18-290
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Thomas Sullivan, Vijayakumar Bhagavatula
+Rooms: POS A35
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-290 Signals and Systems>
+
+<start course description for 18-290 Signals and Systems>
+Semester: Spring 2024 (aka S24)
+Course Description: This course develops the mathematical foundation and computational tools for processing continuous-time and discrete-time signals in both time and frequency domain. Key concepts and tools introduced and discussed in this class include linear time-invariant systems, impulse response, frequency response, convolution, filtering, sampling, and Fourier transform. Efficient algorithms like the fast Fourier transform (FFT) will be covered. The course provides background to a wide range of applications including speech, image, and multimedia processing, bio and medical imaging, sensor networks, communication systems, and control systems. This course serves as entry and prerequisite for any higher level course in the fields of signal processing, communications, and control.
+</end course description for 18-290 Signals and Systems>

@@ -1,0 +1,16 @@
+<start course metadata for 19-760 EPP Internship in University Teaching>
+Semester: Fall 2023 (aka F23)
+Course Name: EPP Internship in University Teaching
+Course Number: 19-760
+Department: Engineering & Public Policy
+Number of Units: N/A
+Prerequisites: None
+Instructors: Deanna Matthews, Nicholas Muller
+Rooms: 
+Locations: Lisbon, Portugal; Pittsburgh, Pennsylvania
+</end course metadata for 19-760 EPP Internship in University Teaching>
+
+<start course description for 19-760 EPP Internship in University Teaching>
+Semester: Fall 2023 (aka F23)
+Course Description: EPP Internship in University Teaching
+</end course description for 19-760 EPP Internship in University Teaching>

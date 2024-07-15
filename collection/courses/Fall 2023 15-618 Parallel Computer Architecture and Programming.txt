@@ -1,0 +1,16 @@
+<start course metadata for 15-618 Parallel Computer Architecture and Programming>
+Semester: Fall 2023 (aka F23)
+Course Name: Parallel Computer Architecture and Programming
+Course Number: 15-618
+Department: Computer Science
+Number of Units: 12
+Prerequisites: None
+Instructors: Dimitrios Skarlatos, Zhihao Jia
+Rooms: PH 100
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-618 Parallel Computer Architecture and Programming>
+
+<start course description for 15-618 Parallel Computer Architecture and Programming>
+Semester: Fall 2023 (aka F23)
+Course Description: The fundamental principles and engineering tradeoffs involved in designing modern parallel computers, as well as the programming techniques to effectively utilize these machines. Topics include naming shared data, synchronizing threads, and the latency and bandwidth associated with communication. Case studies on shared-memory, message-passing, data-parallel and dataflow machines will be used to illustrate these techniques and tradeoffs. Programming assignments will be performed on one or more commercial multiprocessors, and there will be a significant course project.
+</end course description for 15-618 Parallel Computer Architecture and Programming>

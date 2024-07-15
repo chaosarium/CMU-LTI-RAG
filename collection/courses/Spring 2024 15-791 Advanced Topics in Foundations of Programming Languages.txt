@@ -1,0 +1,16 @@
+<start course metadata for 15-791 Advanced Topics in Foundations of Programming Languages>
+Semester: Spring 2024 (aka S24)
+Course Name: Advanced Topics in Foundations of Programming Languages
+Course Number: 15-791
+Department: Computer Science
+Number of Units: 12
+Prerequisites: None
+Instructors: Robert Harper
+Rooms: GHC 4303
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-791 Advanced Topics in Foundations of Programming Languages>
+
+<start course description for 15-791 Advanced Topics in Foundations of Programming Languages>
+Semester: Spring 2024 (aka S24)
+Course Description: An advanced follow-on to 15-312 developing further ideas and results in the theory of programming languages.
+</end course description for 15-791 Advanced Topics in Foundations of Programming Languages>

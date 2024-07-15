@@ -1,0 +1,16 @@
+<start course metadata for 18-021 Introduction to Printed Circuit Boards Fabrication>
+Semester: Fall 2023 (aka F23)
+Course Name: Introduction to Printed Circuit Boards Fabrication
+Course Number: 18-021
+Department: Electrical & Computer Engineering
+Number of Units: 3
+Prerequisites: None
+Instructors: James Bain
+Rooms: ANS B10
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-021 Introduction to Printed Circuit Boards Fabrication>
+
+<start course description for 18-021 Introduction to Printed Circuit Boards Fabrication>
+Semester: Fall 2023 (aka F23)
+Course Description: This course will introduce students to the process of designing, laying out, and ordering a printed circuit board from a commercial vendor using commercial layout tools. Boards will be laid out to accommodate circuit schematics provided to the students (with possible modifications made by students). Students will order circuit components and populate the fabricated board when it is returned from the vendor. The final stage of the course will involve testing the completed board for functionality.
+</end course description for 18-021 Introduction to Printed Circuit Boards Fabrication>

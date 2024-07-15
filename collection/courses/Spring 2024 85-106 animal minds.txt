@@ -1,0 +1,16 @@
+<start course metadata for 85-106 animal minds>
+Semester: Spring 2024 (aka S24)
+Course Name: animal minds
+Course Number: 85-106
+Department: Psychology
+Number of Units: 9
+Prerequisites: None
+Instructors: Jessica Cantlon
+Rooms: HH B103
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 85-106 animal minds>
+
+<start course description for 85-106 animal minds>
+Semester: Spring 2024 (aka S24)
+Course Description: With intricate cultures, impressive technology, and layered social lives, humans seem to stand apart from their animal kin.  However, humans and non-human animals share many aspects of their mental lives, and, upon closer inspection, some animals even reveal cognitive abilities far beyond the capacities of humans.  Through comparing and contrasting human and non-human cognition, we can learn about human psychological uniqueness and its evolutionary origins, and fundamental properties of cognitive processes in general
+</end course description for 85-106 animal minds>

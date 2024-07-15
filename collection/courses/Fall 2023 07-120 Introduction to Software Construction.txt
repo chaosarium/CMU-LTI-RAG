@@ -1,0 +1,16 @@
+<start course metadata for 07-120 Introduction to Software Construction>
+Semester: Fall 2023 (aka F23)
+Course Name: Introduction to Software Construction
+Course Number: 07-120
+Department: SCS Interdisciplinary
+Number of Units: 6
+Prerequisites: 15-112
+Instructors: Mayank Goel, Michael Hilton
+Rooms: DH 2105
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 07-120 Introduction to Software Construction>
+
+<start course description for 07-120 Introduction to Software Construction>
+Semester: Fall 2023 (aka F23)
+Course Description: Writing software can be very challenging.  While software is often written to solve difficult problems, or implement complex algorithms, there are also challenges in the writing of software itself.  In this course, students will learn the software construction skills that will help them throughout their career, both as students, and beyond.  Students should expect to learn how to decompose an assignment/problem into subtasks, how to track their progress using milestones, evaluating sub regions of code for correctness, as well as finding and fixing faults in code.  Students should expect to participate in a variety of in class activities, as well as work on a project implementing the skills they are learning in class.
+</end course description for 07-120 Introduction to Software Construction>

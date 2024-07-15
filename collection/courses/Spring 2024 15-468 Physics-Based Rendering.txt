@@ -1,0 +1,16 @@
+<start course metadata for 15-468 Physics-Based Rendering>
+Semester: Spring 2024 (aka S24)
+Course Name: Physics-Based Rendering
+Course Number: 15-468
+Department: Computer Science
+Number of Units: 12
+Prerequisites: 15-462 or 16-385 or 16-720
+Instructors: Ioannis Gkioulekas
+Rooms: SH 236
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-468 Physics-Based Rendering>
+
+<start course description for 15-468 Physics-Based Rendering>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is an introduction to physics-based rendering at the advanced undergraduate and introductory graduate level. During the course, we will cover fundamentals of light transport, including topics such as the rendering and radiative transfer equation, light transport operators, path integral formulations, and approximations such as diffusion and single scattering. Additionally, we will discuss state-of-the-art models for illumination, surface and volumetric scattering, and sensors. Finally, we will use these theoretical foundations to develop Monte Carlo algorithms and sampling techniques for efficiently simulating physically-accurate images. Towards the end of the course, we will look at advanced topics such as rendering wave optics, neural rendering, and differentiable rendering.  The course has a strong programming component, during which students will develop their own working implementation of a physics-based renderer, including support for a variety of rendering algorithms, materials, illumination sources, and sensors. The project also includes a final project, during which students will select and implement some advanced rendering technique, and use their implementation to produce an image that is both technically and artistically compelling. The course will conclude with a rendering competition, where students submit their rendered images to win prizes.  Cross-listing: This is both an advanced undergraduate and introductory graduate course, and it is cross-listed as 15-468 (for undergraduate students), 15-668 (for Master's students), and 15-868 (for PhD students). Please make sure to register for the section of the class that matches your current enrollment status.
+</end course description for 15-468 Physics-Based Rendering>

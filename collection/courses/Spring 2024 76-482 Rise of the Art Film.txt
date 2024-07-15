@@ -1,0 +1,16 @@
+<start course metadata for 76-482 Rise of the Art Film>
+Semester: Spring 2024 (aka S24)
+Course Name: Rise of the Art Film
+Course Number: 76-482
+Department: English
+Number of Units: 9
+Prerequisites: (76-101) or (76-102) or (76-106 and 76-107) or (76-106 and 76-108) or (76-107 and 76-108)
+Instructors: Jeffrey Hinkelman
+Rooms: POS 145
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 76-482 Rise of the Art Film>
+
+<start course description for 76-482 Rise of the Art Film>
+Semester: Spring 2024 (aka S24)
+Course Description: The years between 1945 and 1970 saw an explosion of filmmaking talent around the world. Directors such as Vittorio De Sica, Jean-Luc Godard, Agnes Varda, Akira Kurosawa, Ingmar Bergman and Satyajit Ray completely changed the way narratives looked on screen. Just as important, however, was the fact that American audiences used to the standards and storytelling strategies of the Hollywood studio system were suddenly presented with a variety of international cinemas which collectively came to be known as "art films." This class will examine a broad cross section of such films while also scrutinizing the impact of the "art film" on Hollywood narrative strategies, domestic distribution networks, film criticism and American culture.
+</end course description for 76-482 Rise of the Art Film>

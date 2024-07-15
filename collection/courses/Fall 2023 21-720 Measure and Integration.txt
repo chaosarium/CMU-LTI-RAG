@@ -1,0 +1,16 @@
+<start course metadata for 21-720 Measure and Integration>
+Semester: Fall 2023 (aka F23)
+Course Name: Measure and Integration
+Course Number: 21-720
+Department: Mathematical Sciences
+Number of Units: 12
+Prerequisites: (21-355 or 21-235 or 21-455) and (21-373 or 21-237)
+Instructors: Irene Fonseca
+Rooms: WEH 7218
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-720 Measure and Integration>
+
+<start course description for 21-720 Measure and Integration>
+Semester: Fall 2023 (aka F23)
+Course Description: The Lebesgue integral, absolute continuity, signed measures and the Radon-Nikodym Theorem, Lp spaces and the Riesz Representation Theorem, product measures and Fubini's Theorem.  (Three 50 minute lectures)
+</end course description for 21-720 Measure and Integration>

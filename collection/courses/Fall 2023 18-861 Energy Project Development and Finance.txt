@@ -1,0 +1,16 @@
+<start course metadata for 18-861 Energy Project Development and Finance>
+Semester: Fall 2023 (aka F23)
+Course Name: Energy Project Development and Finance
+Course Number: 18-861
+Department: Electrical & Computer Engineering
+Number of Units: 6
+Prerequisites: None
+Instructors: Barry Rawn
+Rooms: CMR F307; CMU REMOTE
+Locations: Kigali, Rwanda; Pittsburgh, Pennsylvania
+</end course metadata for 18-861 Energy Project Development and Finance>
+
+<start course description for 18-861 Energy Project Development and Finance>
+Semester: Fall 2023 (aka F23)
+Course Description: This course will introduce concepts and tools for the development and analysis of energy-sector or energy-enabled projects. Students will learn about the project development processes through cases studies in the African context. They will also develop the ability to perform basic technical and economic feasibility assessments through directed projects. Topics to be discussed include financial modeling, technical performance estimation, social and environmental impact assessment and regulatory/policy analysis.
+</end course description for 18-861 Energy Project Development and Finance>

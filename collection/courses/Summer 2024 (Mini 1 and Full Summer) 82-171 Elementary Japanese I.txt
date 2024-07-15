@@ -1,0 +1,16 @@
+<start course metadata for 82-171 Elementary Japanese I>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Elementary Japanese I
+Course Number: 82-171
+Department: Modern Languages
+Number of Units: 12
+Prerequisites: None
+Instructors: Bo Zhan
+Rooms: CMU REMOTE
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 82-171 Elementary Japanese I>
+
+<start course description for 82-171 Elementary Japanese I>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: This course is the first part of a two-semester course sequence (82-171, 82-172) for students with no prior experience in Japanese. It emphasizes the development of communicative language proficiency through oral practice, aural comprehension, reading, writing, and the study of cultural aspects of Japanese society. Regular homework, quizzes, tests, presentations, and class participation are mandatory (four in-class hours per week). The elementary level is also designed to help students learn to reflect and draw upon strategies used by good language learners in their second language study. A student with prior experience in Japanese must take the placement exam.
+</end course description for 82-171 Elementary Japanese I>

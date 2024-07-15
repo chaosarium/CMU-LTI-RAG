@@ -1,0 +1,16 @@
+<start course metadata for 91-601 Quantitative Methods II>
+Semester: Spring 2024 (aka S24)
+Course Name: Quantitative Methods II
+Course Number: 91-601
+Department: Public Management:Sch of Pub Pol & Mgt
+Number of Units: 0
+Prerequisites: None
+Instructors: Instructor TBA
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 91-601 Quantitative Methods II>
+
+<start course description for 91-601 Quantitative Methods II>
+Semester: Spring 2024 (aka S24)
+Course Description: The objective of the Quantitative Methods II course is to review mathematical concepts, concentrating primarily on an algebraic and statistical foundation, so as to prepare candidates with an improved, practice-based, applicable understanding of such concepts before applying them within the statistics course that is required as part of their program's academic core.   Upon completion of this course, the candidate will be able to:  1. Illustrate fundamental statistical concepts  2. Solve and interpret statistical operations 3. Define and apply basic statistical theory 4. Understand and explain applications of statistical analysis These objectives will be assessed via assignments and a final examination.
+</end course description for 91-601 Quantitative Methods II>

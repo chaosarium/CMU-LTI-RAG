@@ -1,0 +1,16 @@
+<start course metadata for 95-568 Data Management and Security>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Data Management and Security
+Course Number: 95-568
+Department: Information Systems:Sch of IS & Mgt
+Number of Units: 9
+Prerequisites: None
+Instructors: Raja Sooriamurthi
+Rooms: HBH 1004
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 95-568 Data Management and Security>
+
+<start course description for 95-568 Data Management and Security>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: Data plays a fundamental part in the functioning of the modern world. As custodians of this data, databases affect almost every aspect of our lives: education, employment, entertainment, tax, medical, commercial, to name a few. In the broader picture of information security, database security is a critical facet.  In this course, we will study how to work with and protect a database. What are the assets of an organization?  Traditionally one would consider people, equipment, intellectual property, infrastructure, land, and cash to be amongst the assets of an organization.  Over the past couple of decades, we have emerged into a data driven age with data becoming a pivotal asset. As the new cyber-currency, the successful operation of modern organizations relies on the effective use of data to drive sales and to enhance customer experience. Data collected and used by an organization can be broadly divided into two types (i) line of business or operational data and (ii) customer behavior or analytical data.  In the past, data management focused on line of business data.  For example, when a ride request is made to a ride sourcing company like Uber or Lyft, what data is needed to meet that request? When a purchase is made in a grocery store what is the flow of data during that transaction?  Line of business data is used to support the core business processes of the organization. Alternatively, based on the purchase patterns of a shopper or the volume or location of ride requests how can a grocery store or a ride sourcing company make their operation more effective? The answer to these questions is based on customer behavior data.  Whatever type of data it may be, operational or analytical, some fundamental questions are the same. How do you gather, organize, curate, process, and protect data to help run the organization and extract actionable information to increase effectiveness?
+</end course description for 95-568 Data Management and Security>

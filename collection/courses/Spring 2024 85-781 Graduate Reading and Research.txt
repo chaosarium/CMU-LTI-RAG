@@ -1,0 +1,16 @@
+<start course metadata for 85-781 Graduate Reading and Research>
+Semester: Spring 2024 (aka S24)
+Course Name: Graduate Reading and Research
+Course Number: 85-781
+Department: Psychology
+Number of Units: N/A
+Prerequisites: None
+Instructors: Vicki Helgeson
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 85-781 Graduate Reading and Research>
+
+<start course description for 85-781 Graduate Reading and Research>
+Semester: Spring 2024 (aka S24)
+Course Description: None
+</end course description for 85-781 Graduate Reading and Research>

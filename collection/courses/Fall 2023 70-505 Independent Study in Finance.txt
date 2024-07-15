@@ -1,0 +1,16 @@
+<start course metadata for 70-505 Independent Study in Finance>
+Semester: Fall 2023 (aka F23)
+Course Name: Independent Study in Finance
+Course Number: 70-505
+Department: Business Administration
+Number of Units: N/A
+Prerequisites: None
+Instructors: George Burton Hollifield, Muhammad Farooqi
+Rooms: DNM DNM
+Locations: Doha, Qatar; Pittsburgh, Pennsylvania
+</end course metadata for 70-505 Independent Study in Finance>
+
+<start course description for 70-505 Independent Study in Finance>
+Semester: Fall 2023 (aka F23)
+Course Description: Students with a special interest in Finance not covered by a formal Business course may develop an Independent Study Course in that area.  Readings and work to be completed are by agreement between the student and an individual faculty member.  Enrollment by permission of the BA Program.
+</end course description for 70-505 Independent Study in Finance>

@@ -1,0 +1,16 @@
+<start course metadata for 67-380 Information Systems Security>
+Semester: Spring 2024 (aka S24)
+Course Name: Information Systems Security
+Course Number: 67-380
+Department: Information Systems Program
+Number of Units: 9
+Prerequisites: None
+Instructors: Daniel Phelps
+Rooms: CMB 2147
+Locations: Doha, Qatar
+</end course metadata for 67-380 Information Systems Security>
+
+<start course description for 67-380 Information Systems Security>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is an introduction to information systems security for the IS student.  The course will introduce the student to fundamental concepts in information system security, including operational issues, planning, and design.  Topics will include confidentiality, integrity, and availability; risk; access controls and access control frameworks; security policies; authentication strategies and issues; auditing; using cryptography; security design issues; controlling information flows; malicious logic; and applying security principles
+</end course description for 67-380 Information Systems Security>

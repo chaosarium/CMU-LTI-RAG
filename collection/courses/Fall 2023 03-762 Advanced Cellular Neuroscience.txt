@@ -1,0 +1,16 @@
+<start course metadata for 03-762 Advanced Cellular Neuroscience>
+Semester: Fall 2023 (aka F23)
+Course Name: Advanced Cellular Neuroscience
+Course Number: 03-762
+Department: Biological Sciences
+Number of Units: 12
+Prerequisites: None
+Instructors: Aryn Gittis
+Rooms: HH B131
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 03-762 Advanced Cellular Neuroscience>
+
+<start course description for 03-762 Advanced Cellular Neuroscience>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is an introductory graduate course in cellular neuroscience.  As such it will assume little or no background but will rapidly progress to discussions of papers from the primarily literature.  The structure of the course will be about half lectures and half discussions of new and classic papers from the primary literature.  These discussions will be substantially led by students in the course.  Topics covered will include ion channels and excitability, synaptic transmission and plasticity, molecular understanding of brain disease and cell biology of neurons.  Assessment will be based on class participation, including performance on in-class presentations and a writing assignment.
+</end course description for 03-762 Advanced Cellular Neuroscience>

@@ -1,0 +1,16 @@
+<start course metadata for 45-705 Fundamentals of Business>
+Semester: Fall 2023 (aka F23)
+Course Name: Fundamentals of Business
+Course Number: 45-705
+Department: Business Administration
+Number of Units: 12
+Prerequisites: None
+Instructors: Jeffrey Galak
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-705 Fundamentals of Business>
+
+<start course description for 45-705 Fundamentals of Business>
+Semester: Fall 2023 (aka F23)
+Course Description: tbd
+</end course description for 45-705 Fundamentals of Business>

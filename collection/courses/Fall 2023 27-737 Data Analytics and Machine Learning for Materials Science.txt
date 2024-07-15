@@ -1,0 +1,16 @@
+<start course metadata for 27-737 Data Analytics and Machine Learning for Materials Science>
+Semester: Fall 2023 (aka F23)
+Course Name: Data Analytics and Machine Learning for Materials Science
+Course Number: 27-737
+Department: Materials Science & Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: S. Mohadeseh Taheri-Mousavi
+Rooms: GHC 4101
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 27-737 Data Analytics and Machine Learning for Materials Science>
+
+<start course description for 27-737 Data Analytics and Machine Learning for Materials Science>
+Semester: Fall 2023 (aka F23)
+Course Description: Materials Science and Engineering has traditionally been taught by emphasizing the development and application of technology. This course will present an alternative approach that combines data analytics and machine learning with material fundamentals (i.e. materials informatics).
+</end course description for 27-737 Data Analytics and Machine Learning for Materials Science>

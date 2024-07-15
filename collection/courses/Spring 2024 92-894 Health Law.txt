@@ -1,0 +1,16 @@
+<start course metadata for 92-894 Health Law>
+Semester: Spring 2024 (aka S24)
+Course Name: Health Law
+Course Number: 92-894
+Department: Medical Management:Sch of Pub Pol & Mgt
+Number of Units: 4
+Prerequisites: None
+Instructors: Henry Casale
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 92-894 Health Law>
+
+<start course description for 92-894 Health Law>
+Semester: Spring 2024 (aka S24)
+Course Description: No course description provided.
+</end course description for 92-894 Health Law>

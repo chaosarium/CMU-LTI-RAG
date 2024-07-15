@@ -1,0 +1,16 @@
+<start course metadata for 85-480 Internship in Clinical Psychology>
+Semester: Spring 2024 (aka S24)
+Course Name: Internship in Clinical Psychology
+Course Number: 85-480
+Department: Psychology
+Number of Units: N/A
+Prerequisites: 85-104 or 85-261
+Instructors: Kasey Creswell
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 85-480 Internship in Clinical Psychology>
+
+<start course description for 85-480 Internship in Clinical Psychology>
+Semester: Spring 2024 (aka S24)
+Course Description: This course allows students to gain applied clinical experience in a mental health setting. Students will work alongside psychology professionals at designated field placements. This course is designed to help students apply and expand their knowledge of clinical psychology and to develop appropriate professional work standards. Students will spend the majority of their time (8 hours per week) in an applied clinical setting, with a one hour per week supervision meeting with Crista Crittenden ccritten@andrew.cmu.edu. Students must be currently enrolled in 85-422 (Clinical Psychology: Science and Practice) or have already taken this course. Instructor permission is required.
+</end course description for 85-480 Internship in Clinical Psychology>

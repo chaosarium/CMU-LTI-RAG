@@ -1,0 +1,16 @@
+<start course metadata for 39-245 Rapid Prototype Design>
+Semester: Spring 2024 (aka S24)
+Course Name: Rapid Prototype Design
+Course Number: 39-245
+Department: CIT Interdisciplinary
+Number of Units: 9
+Prerequisites: None
+Instructors: Susan Finger
+Rooms: HL A5
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 39-245 Rapid Prototype Design>
+
+<start course description for 39-245 Rapid Prototype Design>
+Semester: Spring 2024 (aka S24)
+Course Description: This course provides an introduction to rapid design through virtual and physical prototyping. The class covers the engineering design process, problem solving methods, interdisciplinary team work, current industrial practice, and manufacturing process capabilities. The course emphasizes hands on learning.    Sophomores have priority while registering for this course. Juniors and seniors will be put on the waitlist, then released once sophomores have registered.
+</end course description for 39-245 Rapid Prototype Design>

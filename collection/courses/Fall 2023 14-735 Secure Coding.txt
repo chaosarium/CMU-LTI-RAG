@@ -1,0 +1,16 @@
+<start course metadata for 14-735 Secure Coding>
+Semester: Fall 2023 (aka F23)
+Course Name: Secure Coding
+Course Number: 14-735
+Department: Information Networking Institute
+Number of Units: 12
+Prerequisites: 14-513 or 15-513 or 18-613 or 15-213 or 18-213
+Instructors: Hanan Hibshi, Instructor TBA
+Rooms: B23 227; CMU REMOTE; INI DEC
+Locations: Kigali, Rwanda; Pittsburgh, Pennsylvania; San Jose, California
+</end course metadata for 14-735 Secure Coding>
+
+<start course description for 14-735 Secure Coding>
+Semester: Fall 2023 (aka F23)
+Course Description: This course will enable students to understand how software coding defects lead to software vulnerabilities, develop secure software, and manage teams that develop secure software. This course provides a detailed explanation of common programming errors in C and C++ and describes how these errors can lead to code that is vulnerable to exploitation. The course covers secure software development tools and processes while focusing on low-level technical security issues intrinsic to the C and C++ programming languages and associated libraries.   The course relies on "learning-by-doing", where students practice hands-on sophisticated secure coding concepts through continuous debugging and creative approaches. Many aspects of the assignments mimic the challenges developers face in a real-world software system. Some assignments will introduce students to a programming language that they might have never seen before such as JavaScript and Rust.
+</end course description for 14-735 Secure Coding>

@@ -1,0 +1,16 @@
+<start course metadata for 11-699 MSAII Program Capstone>
+Semester: Spring 2024 (aka S24)
+Course Name: MSAII Program Capstone
+Course Number: 11-699
+Department: Language Technologies Institute
+Number of Units: 36
+Prerequisites: None
+Instructors: Michael Shamos
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 11-699 MSAII Program Capstone>
+
+<start course description for 11-699 MSAII Program Capstone>
+Semester: Spring 2024 (aka S24)
+Course Description: The final term will integrate all of the acquired learning in the program towards the development of a formal business plan and software product beta. The effort involved in the capstone project is quite intense and will consist of approximately three months of full time work for each student. The expected deliverables (features to be developed, business plan, technical documentation, etc.) must be agreed to by the course instructor at the outset of the course. The capstone can either encompass the development of an industry sponsored software project or a software product intended for entrepreneurial startup. Students are expected to showcase their business and software projects and elicit feedback from academics, industry professionals, investors, and business executives. This phase also acts as an incubation period for companies that will be launched from the program.   This Course is for MSAII students only!
+</end course description for 11-699 MSAII Program Capstone>

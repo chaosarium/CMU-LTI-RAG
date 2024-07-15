@@ -1,0 +1,16 @@
+<start course metadata for 57-764 Eurhythmics IV>
+Semester: Spring 2024 (aka S24)
+Course Name: Eurhythmics IV
+Course Number: 57-764
+Department: Music
+Number of Units: 3
+Prerequisites: 57-763
+Instructors: Stephen Neely
+Rooms: MM 119
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-764 Eurhythmics IV>
+
+<start course description for 57-764 Eurhythmics IV>
+Semester: Spring 2024 (aka S24)
+Course Description: Continues 57-763 Eurhythmics III.           Eurhythmics IV focuses on changing metric units within a composition, polymeter, and asymmetric rhythmic augmentation/ diminution based on Messiaen techniques.
+</end course description for 57-764 Eurhythmics IV>

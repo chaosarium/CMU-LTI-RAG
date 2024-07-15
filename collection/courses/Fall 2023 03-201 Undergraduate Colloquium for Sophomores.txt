@@ -1,0 +1,16 @@
+<start course metadata for 03-201 Undergraduate Colloquium for Sophomores>
+Semester: Fall 2023 (aka F23)
+Course Name: Undergraduate Colloquium for Sophomores
+Course Number: 03-201
+Department: Biological Sciences
+Number of Units: N/A
+Prerequisites: None
+Instructors: Amanda Willard, Ihab Younis
+Rooms: CMB 2147; GHC 4307
+Locations: Doha, Qatar; Pittsburgh, Pennsylvania
+</end course metadata for 03-201 Undergraduate Colloquium for Sophomores>
+
+<start course description for 03-201 Undergraduate Colloquium for Sophomores>
+Semester: Fall 2023 (aka F23)
+Course Description: The purpose of this seminar series is to update biology undergraduates about university and departmental functions, seminars, etc. that are pertinent or useful. In addition, research talks by faculty and undergraduates will be used to introduce students to the research being conducted in faculty laboratories. Additional topics may include graduate and medical school applications, career options, topics in the press, and important scientific discoveries.
+</end course description for 03-201 Undergraduate Colloquium for Sophomores>

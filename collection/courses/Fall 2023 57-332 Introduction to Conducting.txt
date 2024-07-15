@@ -1,0 +1,16 @@
+<start course metadata for 57-332 Introduction to Conducting>
+Semester: Fall 2023 (aka F23)
+Course Name: Introduction to Conducting
+Course Number: 57-332
+Department: Music
+Number of Units: 6
+Prerequisites: None
+Instructors: Stephen Story
+Rooms: HOA 226
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-332 Introduction to Conducting>
+
+<start course description for 57-332 Introduction to Conducting>
+Semester: Fall 2023 (aka F23)
+Course Description: This course develops the basic skills needed to conduct instrumental ensembles or a small orchestra. It is primarily focused on conducting technique, body language and body coordination and communication. It also deals with learning and translating an instrumental or orchestral score into actual music. The goal is to achieve a clear and communicative technique upon which an artistic interpretation can be built. The student works periodically with a pianist or a small chamber ensemble.
+</end course description for 57-332 Introduction to Conducting>

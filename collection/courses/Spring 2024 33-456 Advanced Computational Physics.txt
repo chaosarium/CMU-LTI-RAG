@@ -1,0 +1,16 @@
+<start course metadata for 33-456 Advanced Computational Physics>
+Semester: Spring 2024 (aka S24)
+Course Name: Advanced Computational Physics
+Course Number: 33-456
+Department: Physics
+Number of Units: 9
+Prerequisites: 33-241
+Instructors: John Urbanic Jr
+Rooms: DH A301D
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 33-456 Advanced Computational Physics>
+
+<start course description for 33-456 Advanced Computational Physics>
+Semester: Spring 2024 (aka S24)
+Course Description: This course uses techniques covered in Introduction to Computational Physics as a foundation. Major topics in the course will be Data Science, Parallel Computing and Machine Learning with applications from astrophysics, thermodynamics, orbital mechanics and other domains. The course will introduce professional practices such as compiling and optimizing code, using software development environments and software engineering. Students will gain a practical knowledge of current computing hardware design, the C computer language, the TensorFlow deep learning framework and the Spark big data platform, while using a Linux supercomputing environment.
+</end course description for 33-456 Advanced Computational Physics>

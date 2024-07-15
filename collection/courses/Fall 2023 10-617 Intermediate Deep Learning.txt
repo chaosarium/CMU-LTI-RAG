@@ -1,0 +1,16 @@
+<start course metadata for 10-617 Intermediate Deep Learning>
+Semester: Fall 2023 (aka F23)
+Course Name: Intermediate Deep Learning
+Course Number: 10-617
+Department: Machine Learning
+Number of Units: 12
+Prerequisites: 10-301 or 10-315 or 10-701 or 10-601 or 10-715
+Instructors: Ruslan Salakhutdinov, Yuanzhi Li
+Rooms: DH 2210
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 10-617 Intermediate Deep Learning>
+
+<start course description for 10-617 Intermediate Deep Learning>
+Semester: Fall 2023 (aka F23)
+Course Description: Building intelligent machines that are capable of extracting meaningful representations from data lies at the core of solving many AI related tasks. In the past decade, researchers across many communities, from applied statistics to engineering, computer science and neuroscience, have developed deep models that are composed of several layers of nonlinear processing. An important property of these models is that they can learn useful representations by re-using and combining intermediate concepts, allowing these models to be successfully applied in a wide variety of domains, including visual object recognition, information retrieval, natural language processing, and speech perception.   The goal of this course is to introduce students to both the foundational ideas and the recent advances in deep learning. The first part of the course will focus on supervised learning, including neural networks, back-propagation algorithm, convolutional models, recurrent neural networks, and  their extensions with applications to image recognition, video analysis, and language modelling. The second part of the course will cover unsupervised learning, including variational autoencoders, sparse-coding, Boltzmann machines, and generative adversarial networks. This course will assume a reasonable degree of mathematical maturity and will require strong programming skills.
+</end course description for 10-617 Intermediate Deep Learning>

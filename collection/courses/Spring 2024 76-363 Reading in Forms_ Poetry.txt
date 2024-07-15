@@ -1,0 +1,16 @@
+<start course metadata for 76-363 Reading in Forms: Poetry>
+Semester: Spring 2024 (aka S24)
+Course Name: Reading in Forms: Poetry
+Course Number: 76-363
+Department: English
+Number of Units: 9
+Prerequisites: (76-101) or (76-102) or (76-106 and 76-107) or (76-106 and 76-108) or (76-107 and 76-108)
+Instructors: Camille Rankine
+Rooms: PH 125D
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 76-363 Reading in Forms: Poetry>
+
+<start course description for 76-363 Reading in Forms: Poetry>
+Semester: Spring 2024 (aka S24)
+Course Description: How do poets tell their truth? And what is truth in poetry, a genre that is neither fiction nor nonfiction? In this course, we will explore different approaches to truth in poetry, from confession to erasure, history to allegory, looking at how poets write about both themselves and the world by acting as witness, record keeper, and inventor. Through reading, discussion, and our own creative work, we'll consider how the angle of approach¿be it slant or straight on¿positions us to take in the truth poets tell, and ask ourselves what truth we hope for from what we read.
+</end course description for 76-363 Reading in Forms: Poetry>

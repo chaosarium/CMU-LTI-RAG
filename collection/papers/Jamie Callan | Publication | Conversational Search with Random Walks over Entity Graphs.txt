@@ -1,0 +1,6 @@
+publication venue: International Conference on the Theory of Information Retrieval
+title: Conversational Search with Random Walks over Entity Graphs
+authors: Gustavo Gonçalves, João Magalhães, Jamie Callan
+year: 2023
+tldr: Experiments show that using random walks to estimate entity centrality on conversation entity graphs improves top precision answer passage ranking over competitive transformer-based baselines.
+abstract: The entities that emerge during a conversation can be used to model topics, but not all entities are equally useful for this task. Modeling the conversation with entity graphs and predicting each entity's centrality in the conversation provides additional information that improves the retrieval of answer passages for the current question. Experiments show that using random walks to estimate entity centrality on conversation entity graphs improves top precision answer passage ranking over competitive transformer-based baselines.

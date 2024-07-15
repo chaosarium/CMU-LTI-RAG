@@ -1,0 +1,16 @@
+<start course metadata for 76-241 Introduction to Gender Studies>
+Semester: Spring 2024 (aka S24)
+Course Name: Introduction to Gender Studies
+Course Number: 76-241
+Department: English
+Number of Units: 9
+Prerequisites: (76-101) or (76-102) or (76-106 and 76-107) or (76-106 and 76-108) or (76-107 and 76-108)
+Instructors: Atesede Makonnen, Robyn Rowley
+Rooms: CFA 102; PH A19C
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 76-241 Introduction to Gender Studies>
+
+<start course description for 76-241 Introduction to Gender Studies>
+Semester: Spring 2024 (aka S24)
+Course Description: Section A: This course offers an introduction to the study of gender, how we are gendered, and how systems of gendering form the architecture of the social world. With interdisciplinary readings both foundational and contemporary, the class will combine theory, literature, and film with legal texts, public policies, and media representations. We will take an intersectional approach, examining how gender converges with factors like race, class, sexual orientation, and disability to create distinct positions and multiple axes of oppression. Through reading, graded assignments, and class discussions, students will develop the ability to think critically about gender across disciplines and textual forms; to argue persuasively; and to express ideas clearly.
+</end course description for 76-241 Introduction to Gender Studies>

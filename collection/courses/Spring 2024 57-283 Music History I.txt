@@ -1,0 +1,16 @@
+<start course metadata for 57-283 Music History I>
+Semester: Spring 2024 (aka S24)
+Course Name: Music History I
+Course Number: 57-283
+Department: Music
+Number of Units: 9
+Prerequisites: None
+Instructors: Christopher Lynch
+Rooms: CFA A2
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-283 Music History I>
+
+<start course description for 57-283 Music History I>
+Semester: Spring 2024 (aka S24)
+Course Description: This class will be an in-depth analytical study of music of the Medieval, Renaissance, and Baroque Periods. It will emphasize selected genres and forms by representative composers in order to trace the evolution of musical style and to clarify the main characteristics of these periods, to set the musical developments in broader cultural contexts, and to apply this knowledge to practical decisions made by today's musician.
+</end course description for 57-283 Music History I>

@@ -1,0 +1,16 @@
+<start course metadata for 82-112 Elementary Arabic II>
+Semester: Spring 2024 (aka S24)
+Course Name: Elementary Arabic II
+Course Number: 82-112
+Department: Modern Languages
+Number of Units: 12
+Prerequisites: 82-111
+Instructors: Nevine Abraham
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 82-112 Elementary Arabic II>
+
+<start course description for 82-112 Elementary Arabic II>
+Semester: Spring 2024 (aka S24)
+Course Description: This course builds on Elementary Arabic I to continue introducing students to Modern Standard Arabic (MSA) to achieve communicative competence at the Novice-High/Intermediate-Low level in all language skills (listening, speaking, reading, and writing). To this end, the course follows a proficiency-oriented approach to language teaching. In addition to MSA, the course continues to introduce students to one of the popular spoken dialects in the Arab world such as Egyptian, Levantine, or Moroccan (depending upon the instructor's background/expertise). Students will continue to explore various cultural aspects of the Arab world through written, audio-visual and online materials.
+</end course description for 82-112 Elementary Arabic II>

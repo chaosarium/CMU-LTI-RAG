@@ -1,0 +1,16 @@
+<start course metadata for 98-272 Student Taught Courses (StuCo): Financial Literacy for Beginners>
+Semester: Fall 2023 (aka F23)
+Course Name: Student Taught Courses (StuCo): Financial Literacy for Beginners
+Course Number: 98-272
+Department: StuCo (Student Led Courses)
+Number of Units: 3
+Prerequisites: None
+Instructors: Marilyn Zhang
+Rooms: HH B103
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 98-272 Student Taught Courses (StuCo): Financial Literacy for Beginners>
+
+<start course description for 98-272 Student Taught Courses (StuCo): Financial Literacy for Beginners>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is an introductory class designed to provide an overview of financial literacy. This course will break down ways for each student to think about their own spending habits and come up with ways to make better financial decisions. We will start off with basic knowledge about budgeting, spending psychology, banking, credit/debit cards, and go into some of the basic investing and economic information you should know when handling any money. This course will also integrate simple monetary biases that people have, and how to tackle and handle those situations. Students should be able to balance their finances and have a financial goal for the future by the end of this course.  - Learn basic knowledge about budgeting, banking, credit/debit cards  - Understand simple monetary biases that people have, and how to tackle and handle those situations  - Balance finances and have financial goals for the future, including investment priorities.
+</end course description for 98-272 Student Taught Courses (StuCo): Financial Literacy for Beginners>

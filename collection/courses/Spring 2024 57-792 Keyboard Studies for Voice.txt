@@ -1,0 +1,16 @@
+<start course metadata for 57-792 Keyboard Studies for Voice>
+Semester: Spring 2024 (aka S24)
+Course Name: Keyboard Studies for Voice
+Course Number: 57-792
+Department: Music
+Number of Units: N/A
+Prerequisites: 57-791
+Instructors: Carla Larocca
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-792 Keyboard Studies for Voice>
+
+<start course description for 57-792 Keyboard Studies for Voice>
+Semester: Spring 2024 (aka S24)
+Course Description: Prerequisites: 57791
+</end course description for 57-792 Keyboard Studies for Voice>

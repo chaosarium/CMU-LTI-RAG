@@ -1,0 +1,16 @@
+<start course metadata for 16-762 Mobile Manipulation>
+Semester: Spring 2024 (aka S24)
+Course Name: Mobile Manipulation
+Course Number: 16-762
+Department: Robotics
+Number of Units: 12
+Prerequisites: None
+Instructors: Zackory Erickson
+Rooms: NSH 3002
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 16-762 Mobile Manipulation>
+
+<start course description for 16-762 Mobile Manipulation>
+Semester: Spring 2024 (aka S24)
+Course Description: In this project-based course, you'll learn about mobile manipulation through hands-on experience working with real mobile manipulators. You'll gain experience with teleoperation, autonomy, perception, navigation, manipulation, and human-robot interaction, all within the context of mobile manipulators. You'll also learn about robot design, collaborative research, and applications for mobile manipulators.
+</end course description for 16-762 Mobile Manipulation>

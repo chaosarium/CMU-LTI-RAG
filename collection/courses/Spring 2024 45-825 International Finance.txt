@@ -1,0 +1,16 @@
+<start course metadata for 45-825 International Finance>
+Semester: Spring 2024 (aka S24)
+Course Name: International Finance
+Course Number: 45-825
+Department: Business Administration
+Number of Units: 6
+Prerequisites: 45-720 and 45-820
+Instructors: Zeigham Khokher
+Rooms: TEP 2118
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-825 International Finance>
+
+<start course description for 45-825 International Finance>
+Semester: Spring 2024 (aka S24)
+Course Description: "This course will cover issues related to both international financial markets and the financial operations of a firm within the international environment.  Topics will include the structure and functioning of the international currency and money markets; identification, measurement, and management of the impact of exchange rate changes on the firm; financing choices in a global market and international investments.  While the course discusses theoretical basis on these various issues, it also mixes in empirical evidence and discussion of firms and investors actual behaviors.  The course is ideally suited for those pursuing careers in corporations with operations abroad or careers in the investment banks or consulting firms that advise these corporations."(EO 11-14)
+</end course description for 45-825 International Finance>

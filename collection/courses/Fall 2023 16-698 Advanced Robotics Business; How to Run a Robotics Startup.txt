@@ -1,0 +1,16 @@
+<start course metadata for 16-698 Advanced Robotics Business; How to Run a Robotics Startup>
+Semester: Fall 2023 (aka F23)
+Course Name: Advanced Robotics Business; How to Run a Robotics Startup
+Course Number: 16-698
+Department: Robotics
+Number of Units: 9
+Prerequisites: 16-697
+Instructors: Parag Batavia
+Rooms: NSH 3002
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 16-698 Advanced Robotics Business; How to Run a Robotics Startup>
+
+<start course description for 16-698 Advanced Robotics Business; How to Run a Robotics Startup>
+Semester: Fall 2023 (aka F23)
+Course Description: "This course is only for current Robotics MRSD program participants."  This is a required core course for MRSD second year students, and is a follow-up course to 16-697 (Robotics Business / "How to Start a Robotics Company"). In this course, we focus on all the topics related to running an early-stage robotics startup. This includes topics around funding (how VCs work and how to raise money), accounting, intellectual property, leadership and operations, negotiation, and company exits. In addition, as in 16-697, there are a series of guest speakers drawn from the local robotics entrepreneurship ecosystem. Graded class assignments are all group assignments, and centered around analyzing existing small and mid-sized robotics companies in terms of their primary technology, markets, business model, traction, and competition. Your objective is to create a "pro" or "con" argument as to the long-term viability of the company. We do this in four specific robotics industry verticals: mobility, field robotics, logistics, and personal robotics. At the end of 16-697 / 16-698, you should have a solid understanding of key issues in robotics entrepreneurship, in order to either understand whether this is a path you'd want to follow, or to help you be successful in your future career at an early or mid-stage robotics company.
+</end course description for 16-698 Advanced Robotics Business; How to Run a Robotics Startup>

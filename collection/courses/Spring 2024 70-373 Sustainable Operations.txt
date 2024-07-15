@@ -1,0 +1,16 @@
+<start course metadata for 70-373 Sustainable Operations>
+Semester: Spring 2024 (aka S24)
+Course Name: Sustainable Operations
+Course Number: 70-373
+Department: Business Administration
+Number of Units: 9
+Prerequisites: 70-106 or 70-100
+Instructors: Alan Scheller-Wolf
+Rooms: TEP 2613
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 70-373 Sustainable Operations>
+
+<start course description for 70-373 Sustainable Operations>
+Semester: Spring 2024 (aka S24)
+Course Description: This course explores and defines sustainability in general, and sustainable operations in particular. The course investigates how companies can evaluate and implement sustainability measures, and different motivations for firms to engage or invest in sustainable efforts. Sustainable operations is approached from the value chain perspective, by identifying opportunities for sustainable actions and policies at different phases in the product life cycle. These phases range from research and development to the point where products are discarded by the consumer, for potential reuse or recycling. Quantitative operations models and techniques will be used to analyze and evaluate the viability of these sustainable opportunities. This course may use third-party course material that is not available for individual purchase from the publisher. If so, the third-party course material will be secured and provided by the Tepper School to students enrolled in the course, and students enrolled in the course will be required to pay to the University the associated additional course materials fee for the third-party course material provided. The amount of the course materials fee is dependent on the University's cost of the particular materials provided, and typically ranges from $13 to $75.
+</end course description for 70-373 Sustainable Operations>

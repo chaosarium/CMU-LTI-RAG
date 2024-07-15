@@ -1,0 +1,16 @@
+<start course metadata for 21-455 Intermediate Real Analysis I>
+Semester: Fall 2023 (aka F23)
+Course Name: Intermediate Real Analysis I
+Course Number: 21-455
+Department: Mathematical Sciences
+Number of Units: 12
+Prerequisites: 21-268 or 21-269
+Instructors: Giovanni Leoni
+Rooms: WEH 7218
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-455 Intermediate Real Analysis I>
+
+<start course description for 21-455 Intermediate Real Analysis I>
+Semester: Fall 2023 (aka F23)
+Course Description: This course provides a rigorous and proof-based treatment of the general theory of functions on metric spaces.  The course serves as a more advanced version of 21-355 Principles of Real Analysis and is primarily intended for students who have taken 21-269.  Topics include: Metric spaces: Completeness, density, separability, compactness, connectedness.  Baire theorem and applications. Contraction maps: fixed points, applications, inverse, and implicit  function theorems.  Spaces of functions: uniform and pointwise convergence, Stone-Weierstrass theorem, Arzela-Ascoli theorem.  (Three 50 minute lectures, one 50 minute recitation)
+</end course description for 21-455 Intermediate Real Analysis I>

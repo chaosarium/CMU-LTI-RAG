@@ -1,0 +1,16 @@
+<start course metadata for 98-099 Problem Solving through Solving Problems>
+Semester: Fall 2023 (aka F23)
+Course Name: Problem Solving through Solving Problems
+Course Number: 98-099
+Department: StuCo (Student Led Courses)
+Number of Units: 3
+Prerequisites: None
+Instructors: John Ternullo, Michael Duncan
+Rooms: BH 140A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 98-099 Problem Solving through Solving Problems>
+
+<start course description for 98-099 Problem Solving through Solving Problems>
+Semester: Fall 2023 (aka F23)
+Course Description: Do you want to gain strong problem-solving skills? Increase your confidence when approaching problems? Learn cool strategies and ideas? Or even shove pigeons into holes? Then this course is for you! Step inside the wonderful world of problem solving, where we will tackle enthralling problems, such as: How do ants behave when walking toward their neighbor? How many grandpas can there be if each student shares one? How many guards do we need to make a bank impenetrable? And the most challenging question of all, how can math be fun? Along the way, we will even become skillful enough to tackle some very challenging problems, from competitions such as the IMO and Putnam!
+</end course description for 98-099 Problem Solving through Solving Problems>

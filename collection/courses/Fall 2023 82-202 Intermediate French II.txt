@@ -1,0 +1,16 @@
+<start course metadata for 82-202 Intermediate French II>
+Semester: Fall 2023 (aka F23)
+Course Name: Intermediate French II
+Course Number: 82-202
+Department: Modern Languages
+Number of Units: 9
+Prerequisites: 82-201 or 82-203
+Instructors: Ester Hoogstaden, Ezzohra Moufid
+Rooms: BH 136E; CMB 1032
+Locations: Doha, Qatar; Pittsburgh, Pennsylvania
+</end course metadata for 82-202 Intermediate French II>
+
+<start course description for 82-202 Intermediate French II>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is a one-semester intermediate language course intended to give students exciting and fast-paced instruction in French language and culture. Introducing vocabulary sets, core grammatical concepts through cultural texts and strategic interaction, this class will focus on developing academic literacy as well as socio-pragmatic competence (that is to say, what to say to whom, and how) in an interculturally responsive way. To this end, we will incorporate a broad range of learning activities that emphasize a student's active participation. Emphasis will be placed on developing stronger listening and oral communication skills as well as reinforcing reading ability and acquiring greater facility in written proficiency. Consequently, this syllabus is constructed to permit a fair amount of self-instruction through the accompanying grammar reference book and self-guided exploration.  F22: The course is an exploration of French language and culture through a nesting of two experiences: (1) playing and analyzing games together as a class and (2) designing games with the objectives of them being used (or usable) by French students/teachers in the classroom (complete with rules and pedagogical guides).   This semester, we are trying a new thing, which is to have both advanced students (such as yourself) and intermediate-level students in the same class to try and form a true Community of Practice in which the students will be socialized into a (mostly) French-speaking community of gamers and game designers. This is why the meeting times are 6 hours, more hands-on work, with less independent homework.
+</end course description for 82-202 Intermediate French II>

@@ -1,0 +1,16 @@
+<start course metadata for 84-267 Data Science for Political Science>
+Semester: Spring 2024 (aka S24)
+Course Name: Data Science for Political Science
+Course Number: 84-267
+Department: Institute for Politics and Strategy
+Number of Units: 9
+Prerequisites: 36-200
+Instructors: Hanzhang Liu
+Rooms: BH 235B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 84-267 Data Science for Political Science>
+
+<start course description for 84-267 Data Science for Political Science>
+Semester: Spring 2024 (aka S24)
+Course Description: This course develops foundational skills in data science and quantitative analysis. The course provides students with hands-on experience in using and analyzing data to answer questions in international relations and political science. Students will learn how to wrangle, clean, or create data to test hypotheses, and how to summarize and visualize data effectively. They will also learn the fundamentals of applied bivariate and multivariate regression analysis, including model specification, estimation, and overall fit assessment, as well as the assumptions of regression analysis and their implications.
+</end course description for 84-267 Data Science for Political Science>

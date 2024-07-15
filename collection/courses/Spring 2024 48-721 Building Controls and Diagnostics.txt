@@ -1,0 +1,16 @@
+<start course metadata for 48-721 Building Controls and Diagnostics>
+Semester: Spring 2024 (aka S24)
+Course Name: Building Controls and Diagnostics
+Course Number: 48-721
+Department: Architecture
+Number of Units: 12
+Prerequisites: None
+Instructors: Tiancheng Zhao
+Rooms: GHC 4101
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-721 Building Controls and Diagnostics>
+
+<start course description for 48-721 Building Controls and Diagnostics>
+Semester: Spring 2024 (aka S24)
+Course Description: The course will introduce students to collecting and processing data acquired from building systems and evaluating their performance. It will discuss the basics about control systems, including both traditional control logics, like rule-based control and model predictive control, and advanced control logics like reinforcement learning based control.  Proficiency in Python and maturity in mathematics is required. Knowledge of website design and reinforcement learning is recommended.
+</end course description for 48-721 Building Controls and Diagnostics>

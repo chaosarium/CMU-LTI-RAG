@@ -1,0 +1,16 @@
+<start course metadata for 95-722 Digital Transformation>
+Semester: Fall 2023 (aka F23)
+Course Name: Digital Transformation
+Course Number: 95-722
+Department: Information Systems:Sch of IS & Mgt
+Number of Units: 6
+Prerequisites: None
+Instructors: James Riel
+Rooms: HBH 1204; HBH 1206
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 95-722 Digital Transformation>
+
+<start course description for 95-722 Digital Transformation>
+Semester: Fall 2023 (aka F23)
+Course Description: This course serves as the capstone course for the MISM program. As a capstone, the goal is to integrate technological and managerial aspects of information technology. Information and communication technologies play multiple roles within businesses, organizations, industries, and societies:  -    From a technological perspective, they define the information and communication infrastructure of the entity and they enable new ways to digitize processes. -    From a managerial perspective, they facilitate new coordination and communication processes within and across entities, enable new organizational forms, change the information environment underlying the business, and permit new incentive and monitoring structures.
+</end course description for 95-722 Digital Transformation>

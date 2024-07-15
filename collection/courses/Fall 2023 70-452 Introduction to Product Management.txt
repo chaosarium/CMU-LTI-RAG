@@ -1,0 +1,16 @@
+<start course metadata for 70-452 Introduction to Product Management>
+Semester: Fall 2023 (aka F23)
+Course Name: Introduction to Product Management
+Course Number: 70-452
+Department: Business Administration
+Number of Units: 9
+Prerequisites: None
+Instructors: Robert Monroe
+Rooms: TEP 2610
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 70-452 Introduction to Product Management>
+
+<start course description for 70-452 Introduction to Product Management>
+Semester: Fall 2023 (aka F23)
+Course Description: This course introduces the role and responsibilities of the Product Manager in a technology-intensive product or services company. The over-arching goal of the course is to give you the knowledge and tools you need to make good product decisions so that your team can ship the right product, to the right customers, through the right channels, at the right price. To that end, you will learn to apply tools and techniques for building and managing a product roadmap, prioritizing development requests, evaluating tradeoffs, and modeling the financial implications of different business models, operating models, pricing, and packaging options. Along the way, we will look at many of the core activities and tasks that an effective Product Manager needs to master, including:Understanding value propositions and customer priorities, Identifying and selecting customer and market segments, Packaging and bundling capabilities and benefits into a cohesive set of offerings, Selecting pricing models and setting specific prices, Estimating the likely benefits and costs of proposed product enhancements, Modeling and evaluating the financial implications of product choices, Managing the full product life cycle, from conception to sunsetting. This course may use third-party course material that is not available for individual purchase from the publisher. If so, the third-party course material will be secured and provided by the Tepper School to students enrolled in the course, and students enrolled in the course will be required to pay to the University the associated additional course materials fee for the third-party course material provided. The amount of the course materials fee is dependent on the University's cost of the particular materials provided, and typically ranges from $13 to $75.
+</end course description for 70-452 Introduction to Product Management>

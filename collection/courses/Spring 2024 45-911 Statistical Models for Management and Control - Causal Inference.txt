@@ -1,0 +1,16 @@
+<start course metadata for 45-911 Statistical Models for Management and Control - Causal Inference>
+Semester: Spring 2024 (aka S24)
+Course Name: Statistical Models for Management and Control - Causal Inference
+Course Number: 45-911
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Fallaw Sowell
+Rooms: TEP 2118
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-911 Statistical Models for Management and Control - Causal Inference>
+
+<start course description for 45-911 Statistical Models for Management and Control - Causal Inference>
+Semester: Spring 2024 (aka S24)
+Course Description: "The course focuses on estimating models to guide management decisions to control a system or an organization.  Statistical and machine learning methods are used to estimate regression and classification models.  The distinction between correlation and causality is emphasized, and causality will be paramount.  Specific topics will include Randomized Control Trials, multi-arm bandits, directed acyclic graphs (DAGs), propensity score modeling for observational studies, personalized marketing, and  personalized medicine."
+</end course description for 45-911 Statistical Models for Management and Control - Causal Inference>

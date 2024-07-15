@@ -1,0 +1,16 @@
+<start course metadata for 39-447 CIT Undergraduate Interdisciplinary Design Project>
+Semester: Fall 2023 (aka F23)
+Course Name: CIT Undergraduate Interdisciplinary Design Project
+Course Number: 39-447
+Department: CIT Interdisciplinary
+Number of Units: N/A
+Prerequisites: None
+Instructors: Instructor TBA
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 39-447 CIT Undergraduate Interdisciplinary Design Project>
+
+<start course description for 39-447 CIT Undergraduate Interdisciplinary Design Project>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is to be used for undergraduate research projects involving a significant interdisciplinary design component. It can be added by permission only through collaboration with the student, project advisor, and the CIT Dean's Office. For projects that are not interdisciplinary in nature, students should refer to the research number specific to the department in which the research is being completed.
+</end course description for 39-447 CIT Undergraduate Interdisciplinary Design Project>

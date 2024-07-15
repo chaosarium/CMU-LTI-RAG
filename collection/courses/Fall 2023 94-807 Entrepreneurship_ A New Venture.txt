@@ -1,0 +1,16 @@
+<start course metadata for 94-807 Entrepreneurship: A New Venture>
+Semester: Fall 2023 (aka F23)
+Course Name: Entrepreneurship: A New Venture
+Course Number: 94-807
+Department: Heinz College Wide Courses
+Number of Units: 6
+Prerequisites: None
+Instructors: John Ciccone
+Rooms: HBH 1204
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 94-807 Entrepreneurship: A New Venture>
+
+<start course description for 94-807 Entrepreneurship: A New Venture>
+Semester: Fall 2023 (aka F23)
+Course Description: Entrepreneurship: A New Venture provides real world, experience-based learning on what it is like to identify, start and develop a new venture, either within an existing organization or as a new startup company. The purpose of the course is to explore the many dimensions of new venture development, working through issues of problem-assessment, market analysis, viability assessment, competitive positioning, team-building, product life-cycle planning, marketing and sales channel analysis, financial and business modeling and negotiation. We will explore opportunity mapping and the practical steps of building organizational structure associated with forming a brand-new venture. We will address strategic considerations for creating organizations that can qucikly define and seize (commercial) opportunity within new categories, with principles that also apply to entrepreneurship in corporate settings and to non-profit entrepreneurship.
+</end course description for 94-807 Entrepreneurship: A New Venture>

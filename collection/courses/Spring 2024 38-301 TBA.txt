@@ -1,0 +1,16 @@
+<start course metadata for 38-301 TBA>
+Semester: Spring 2024 (aka S24)
+Course Name: TBA
+Course Number: 38-301
+Department: MCS Interdisciplinary
+Number of Units: 6
+Prerequisites: None
+Instructors: Chadi Aoun, Mohamed Bouaouina
+Rooms: CMB 1190
+Locations: Doha, Qatar
+</end course metadata for 38-301 TBA>
+
+<start course description for 38-301 TBA>
+Semester: Spring 2024 (aka S24)
+Course Description: PROPEL: Preparation, Readiness, and Optimization for Professional Excellence in Life - is a 6-unit seminar course that MCS students will enroll in the spring of their junior year. The course will leverage students' deepening disciplinary perspective in service of the development of competencies, skills and perspectives that are necessary to achieve professional excellence in today's society. The course will use traditional career development activities, such as interviewing, resume writing and networking, as a starting point for students to begin the process of reflecting on, and preparing for, their impending transitions into professional life. From there, the course will seek to expand students' conceptualization of the scientific workplace by exploring the interplay of science, innovation, public policy, entrepreneurism and business in professional settings today. The seminar will also equip students with significant insight into the ways in which global policy, societal and political forces, environmental issues and ethical considerations shape and influence the activity and research of working scientists. The course will offer additional experiences for students to refine their multidisciplinary teamwork and communication skills via small group projects focusing on the aforementioned course themes. Finally, "PROPEL" will include a formal academic advising component to ensure that all students are well positioned to complete the MCS core requirements and departmental requirements in the following year.  THIS COURSE IS FOR QBS JUNIORS ONLY.
+</end course description for 38-301 TBA>

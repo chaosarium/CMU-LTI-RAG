@@ -1,0 +1,16 @@
+<start course metadata for 39-646 Independent Study Interaction Design Studio>
+Semester: Spring 2024 (aka S24)
+Course Name: Independent Study Interaction Design Studio
+Course Number: 39-646
+Department: CIT Interdisciplinary
+Number of Units: N/A
+Prerequisites: None
+Instructors: Instructor TBA
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 39-646 Independent Study Interaction Design Studio>
+
+<start course description for 39-646 Independent Study Interaction Design Studio>
+Semester: Spring 2024 (aka S24)
+Course Description: None
+</end course description for 39-646 Independent Study Interaction Design Studio>

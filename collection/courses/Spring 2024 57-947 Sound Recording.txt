@@ -1,0 +1,16 @@
+<start course metadata for 57-947 Sound Recording>
+Semester: Spring 2024 (aka S24)
+Course Name: Sound Recording
+Course Number: 57-947
+Department: Music
+Number of Units: 6
+Prerequisites: None
+Instructors: Riccardo Schulz
+Rooms: CFA A6
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-947 Sound Recording>
+
+<start course description for 57-947 Sound Recording>
+Semester: Spring 2024 (aka S24)
+Course Description: Sound Recording (57337, 57947) centers around the Vlahakis Recording Studio in the College of Fine Arts: how the studio works, and how to record various types of music. The method of instruction is to learn by doing, and the goal is to achieve professional-sounding results.   Equipment includes a complete 24-track Pro-Tools system, professionally designed control room that can accommodate up to 24 people, outboard preamps and other gear, and an interesting array of microphones. All recording is direct to hard disc. Grading is based on recording projects, class attendance, mastering studio hardware and software, and several quizzes.
+</end course description for 57-947 Sound Recording>

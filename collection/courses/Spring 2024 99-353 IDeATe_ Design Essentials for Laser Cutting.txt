@@ -1,0 +1,16 @@
+<start course metadata for 99-353 IDeATe: Design Essentials for Laser Cutting>
+Semester: Spring 2024 (aka S24)
+Course Name: IDeATe: Design Essentials for Laser Cutting
+Course Number: 99-353
+Department: Carnegie Mellon University-Wide Studies
+Number of Units: 1
+Prerequisites: None
+Instructors: James Knopf
+Rooms: HL A5
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 99-353 IDeATe: Design Essentials for Laser Cutting>
+
+<start course description for 99-353 IDeATe: Design Essentials for Laser Cutting>
+Semester: Spring 2024 (aka S24)
+Course Description: PLEASE NOTE: The specific meeting dates for the A3 section of this micro course are Jan 21, Jan 28, Feb 4. The specific meeting dates for the B3 section of this micro course are Feb 10, Feb 17, Feb 24. This mini course is designed to get students ready to use a laser cutter. We will cover essential design considerations unique to lasercutting, material tolerances, available methods of assembly and finishing techniques, but the bulk of the class time is spent hands-on learning to design and create a lasercutter ready vector file. The primary software we use is Adobe Illustrator, with some time also spent in Photoshop for learning how to integrate raster images like photos and drawings into lasercut objects. Over the three classes, we will also discuss 2D, 2.5D & 3D design basics, how to create tight joinery by understanding kerf, how to improve your photo engravings, and when switching software will save you a lot of time. Students who complete this course will be able to use the IDeATe facility's laser cutters on their own for future course work or personal projects.
+</end course description for 99-353 IDeATe: Design Essentials for Laser Cutting>

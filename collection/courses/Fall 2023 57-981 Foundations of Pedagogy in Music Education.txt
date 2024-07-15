@@ -1,0 +1,16 @@
+<start course metadata for 57-981 Foundations of Pedagogy in Music Education>
+Semester: Fall 2023 (aka F23)
+Course Name: Foundations of Pedagogy in Music Education
+Course Number: 57-981
+Department: Music
+Number of Units: 9
+Prerequisites: None
+Instructors: Susan Raponi
+Rooms: CFA M160
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-981 Foundations of Pedagogy in Music Education>
+
+<start course description for 57-981 Foundations of Pedagogy in Music Education>
+Semester: Fall 2023 (aka F23)
+Course Description: A survey of current and historical issues in education that inform effective classroom and rehearsal instruction in terms of course content, delivery strategies, and assessment options. Topics include the nature of education and teaching, best practices pedagogy, music as an aesthetic experience, and developmental & social psychology issues in music education.
+</end course description for 57-981 Foundations of Pedagogy in Music Education>

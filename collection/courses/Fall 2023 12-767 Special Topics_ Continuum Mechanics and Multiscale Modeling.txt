@@ -1,0 +1,16 @@
+<start course metadata for 12-767 Special Topics: Continuum Mechanics and Multiscale Modeling>
+Semester: Fall 2023 (aka F23)
+Course Name: Special Topics: Continuum Mechanics and Multiscale Modeling
+Course Number: 12-767
+Department: Civil & Environmental Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Kaushik Dayal
+Rooms: PH A7F
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 12-767 Special Topics: Continuum Mechanics and Multiscale Modeling>
+
+<start course description for 12-767 Special Topics: Continuum Mechanics and Multiscale Modeling>
+Semester: Fall 2023 (aka F23)
+Course Description: This course will begin with the foundations of continuum mechanics, introducing tensors, and then discussing kinematics, balance laws, and constitutive modeling. Building on those foundations, the class will survey advanced topics in multiscale modeling. These topics will include a selection from composites and homogenization; wave propagation and metamaterials; electromechanics and chemomechanics; mechanics of polymers; fracture mechanics; phase-field modeling; and relevant topics in mathematics. Selected topics may be discussed in depth based on student interest.
+</end course description for 12-767 Special Topics: Continuum Mechanics and Multiscale Modeling>

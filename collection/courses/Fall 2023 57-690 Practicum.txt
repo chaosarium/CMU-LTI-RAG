@@ -1,0 +1,16 @@
+<start course metadata for 57-690 Practicum>
+Semester: Fall 2023 (aka F23)
+Course Name: Practicum
+Course Number: 57-690
+Department: Music
+Number of Units: N/A
+Prerequisites: None
+Instructors: Sharon Johnston
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-690 Practicum>
+
+<start course description for 57-690 Practicum>
+Semester: Fall 2023 (aka F23)
+Course Description: This practicum is offered to improve the performance skills of performance majors who are international students by providing them orchestral or vocal performance experience in a professional ensemble through the Curricular Practical Training program.  Practical experience is essential for the career development of the professional musician.
+</end course description for 57-690 Practicum>

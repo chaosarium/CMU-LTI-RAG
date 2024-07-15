@@ -1,0 +1,16 @@
+<start course metadata for 54-251 Automated Lighting Maintenance>
+Semester: Spring 2024 (aka S24)
+Course Name: Automated Lighting Maintenance
+Course Number: 54-251
+Department: Drama
+Number of Units: 2
+Prerequisites: None
+Instructors: C. Todd Brown
+Rooms: PCA 115
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-251 Automated Lighting Maintenance>
+
+<start course description for 54-251 Automated Lighting Maintenance>
+Semester: Spring 2024 (aka S24)
+Course Description: Hands-on exploration of the operation and maintenance of equipment that falls into the category of automated lighting.
+</end course description for 54-251 Automated Lighting Maintenance>

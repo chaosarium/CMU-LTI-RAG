@@ -1,0 +1,16 @@
+<start course metadata for 12-772 Inelasticity>
+Semester: Spring 2024 (aka S24)
+Course Name: Inelasticity
+Course Number: 12-772
+Department: Civil & Environmental Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Amit Acharya
+Rooms: DH 2122
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 12-772 Inelasticity>
+
+<start course description for 12-772 Inelasticity>
+Semester: Spring 2024 (aka S24)
+Course Description: The first part of the course focuses on a theoretical framework for describing the macroscopic inelastic response of common materials like metals and polymers. The second part deals with computational approximation of such a framework within the finite element method.  Topics: Theory ? Physical origin of plasticity, stress?strain curve, yielding, work?hardening. Small and Finite?deformation theory ? constitutive structure, normality; Hill?s ?method of principal axes?, work?conjugate stress measures corresponding to arbitrary strain measures, formulation of the boundary value problem of incremental equilibrium and analysis of uniqueness for rate? (in)dependent materials. Computational Algorithms ? isotropic hyperelasticity and hypoelasticity; rate?(in)dependent plasticity within the additive and multiplicative decompositions; linear and nonlinear viscoelasticity ? material updates with exact/second?order accurate linearizations; incremental objectivity for hypoelasticity and finite plasticity under additive decomposition; element formulation to deal with near incompressibility.  Exposure to graduate level introductory solid mechanics, finite element method, and continuum mechanics is desirable.
+</end course description for 12-772 Inelasticity>

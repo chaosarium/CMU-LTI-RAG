@@ -1,0 +1,16 @@
+<start course metadata for 15-356 Introduction to Cryptography>
+Semester: Spring 2024 (aka S24)
+Course Name: Introduction to Cryptography
+Course Number: 15-356
+Department: Computer Science
+Number of Units: 12
+Prerequisites: (15-251) or (21-228)
+Instructors: Christos Kapoutsis
+Rooms: CMB 2049
+Locations: Doha, Qatar
+</end course metadata for 15-356 Introduction to Cryptography>
+
+<start course description for 15-356 Introduction to Cryptography>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is aimed as an introduction to modern cryptography. This course will be a mix of applied and theoretical cryptography. We will cover popular primitives such as: pseudorandom functions, encryption, signatures, zero-knowledge proofs, multi-party computation, and Blockchains. In addition, we will cover the necessary number-theoretic background. We will cover formal definitions of security, as well as constructions based on well established assumptions like factoring. Please see the course webpage for a detailed list of topics.
+</end course description for 15-356 Introduction to Cryptography>

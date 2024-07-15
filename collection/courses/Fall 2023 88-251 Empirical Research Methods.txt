@@ -1,0 +1,16 @@
+<start course metadata for 88-251 Empirical Research Methods>
+Semester: Fall 2023 (aka F23)
+Course Name: Empirical Research Methods
+Course Number: 88-251
+Department: Social & Decision Sciences
+Number of Units: 9
+Prerequisites: 36-200 or 36-201 or 36-247 or 36-207
+Instructors: Erin Carbone
+Rooms: POS A35
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 88-251 Empirical Research Methods>
+
+<start course description for 88-251 Empirical Research Methods>
+Semester: Fall 2023 (aka F23)
+Course Description: This course teaches students how to evaluate and conduct original research regarding human behavior, whether it be in economic, social, or political settings. The course gives students practical experience in many of the most commonly used research techniques, including surveys, experiments, and quasi-experimental analysis. Although the course focuses primarily on the relationship between formulating research questions and implementing the appropriate methods to answer them, students can expect regularly to apply the statistical techniques learned in the course prerequisites, including regression.
+</end course description for 88-251 Empirical Research Methods>

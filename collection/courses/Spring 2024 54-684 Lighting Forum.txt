@@ -1,0 +1,16 @@
+<start course metadata for 54-684 Lighting Forum>
+Semester: Spring 2024 (aka S24)
+Course Name: Lighting Forum
+Course Number: 54-684
+Department: Drama
+Number of Units: 1
+Prerequisites: None
+Instructors: Mary Stebbins, Robert Thomson
+Rooms: PCA 103
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-684 Lighting Forum>
+
+<start course description for 54-684 Lighting Forum>
+Semester: Spring 2024 (aka S24)
+Course Description: A weekly meeting of all Lighting students and faculty to discuss issues of importance to the community; opportunities for guest visits or presentations; sharing of current production design process or post mortem; and professional preparation & career advice.
+</end course description for 54-684 Lighting Forum>

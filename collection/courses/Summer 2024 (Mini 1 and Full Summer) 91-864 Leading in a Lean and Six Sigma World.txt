@@ -1,0 +1,16 @@
+<start course metadata for 91-864 Leading in a Lean and Six Sigma World>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Leading in a Lean and Six Sigma World
+Course Number: 91-864
+Department: Public Management:Sch of Pub Pol & Mgt
+Number of Units: 12
+Prerequisites: None
+Instructors: Joseph Balestreire
+Rooms: HBH 1004
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 91-864 Leading in a Lean and Six Sigma World>
+
+<start course description for 91-864 Leading in a Lean and Six Sigma World>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: This course provides participants with an understanding of the principles and methods associated with leading in a Lean and Six Sigma world.  The skills and tools associated with Lean and Six Sigma to reduce cost and drive customer and employee engagement are a key component of the course.  Students will have the opportunity to learn and experiment with the Lean and Six Sigma methods along with the leadership skills associated with customer and employee and engagement, product and service quality, while formulating personal approaches to their application in the work environment.  No prior familiarity with the theory or practice of Lean and Six Sigma, customer and employee engagement or quality management/improvement are required as a prerequisite for this course; students who have been exposed to these principles and practices will benefit from the opportunity to place these experiences into an integrated context.  The course is designed to be intellectually stimulating and professionally useful for students at any phase of their career development.
+</end course description for 91-864 Leading in a Lean and Six Sigma World>

@@ -1,0 +1,16 @@
+<start course metadata for 15-898 Quantum Computing Systems>
+Semester: Fall 2023 (aka F23)
+Course Name: Quantum Computing Systems
+Course Number: 15-898
+Department: Computer Science
+Number of Units: 12
+Prerequisites: None
+Instructors: Umut Acar
+Rooms: PH 226A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-898 Quantum Computing Systems>
+
+<start course description for 15-898 Quantum Computing Systems>
+Semester: Fall 2023 (aka F23)
+Course Description: Quantum computing has been developing into an important field cross-cutting several disciplines, including computer science, physics, and mathematics. Over the past several decades, there has been much work on the theory front, including advances in quantum algorithms. In recent years, this work is starting to become practically relevant.
+</end course description for 15-898 Quantum Computing Systems>

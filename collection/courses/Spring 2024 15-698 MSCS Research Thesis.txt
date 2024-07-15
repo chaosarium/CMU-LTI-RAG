@@ -1,0 +1,16 @@
+<start course metadata for 15-698 MSCS Research Thesis>
+Semester: Spring 2024 (aka S24)
+Course Name: MSCS Research Thesis
+Course Number: 15-698
+Department: Computer Science
+Number of Units: N/A
+Prerequisites: None
+Instructors: David Eckhardt, David O'Hallaron
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-698 MSCS Research Thesis>
+
+<start course description for 15-698 MSCS Research Thesis>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is for students in the "MSCS" course-based Computer Science master's program who are participating in the thesis option.  Students will be automatically wait-listed pending program approval of a thesis proposal (contact your academic advisor for details).
+</end course description for 15-698 MSCS Research Thesis>

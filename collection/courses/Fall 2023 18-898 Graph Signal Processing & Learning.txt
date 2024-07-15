@@ -1,0 +1,16 @@
+<start course metadata for 18-898 Graph Signal Processing & Learning>
+Semester: Fall 2023 (aka F23)
+Course Name: Graph Signal Processing & Learning
+Course Number: 18-898
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Jose Moura
+Rooms: WEH 5421
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-898 Graph Signal Processing & Learning>
+
+<start course description for 18-898 Graph Signal Processing & Learning>
+Semester: Fall 2023 (aka F23)
+Course Description: Please refer to the ECE website for descriptions of each topic: https://courses.ece.cmu.edu/
+</end course description for 18-898 Graph Signal Processing & Learning>

@@ -1,0 +1,16 @@
+<start course metadata for 48-310 Prototyping Stories: Experimental Children's Book and Vis Dev as An Architectura>
+Semester: Fall 2023 (aka F23)
+Course Name: Prototyping Stories: Experimental Children's Book and Vis Dev as An Architectura
+Course Number: 48-310
+Department: Architecture
+Number of Units: 9
+Prerequisites: None
+Instructors: Tommy Yang
+Rooms: CFA 211
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-310 Prototyping Stories: Experimental Children's Book and Vis Dev as An Architectura>
+
+<start course description for 48-310 Prototyping Stories: Experimental Children's Book and Vis Dev as An Architectura>
+Semester: Fall 2023 (aka F23)
+Course Description: This design research course explores the current developments in hybrid, multi-platform design and communication mediums to prototype new ways of creative storytelling in architecture, visual development, and concept design. Research methods around oral storytelling, ethno-ecology, radical mapping, and the children's book can allow for the exploration of subjects in ways not available to typical architectural and urban research conventions.  Throughout the Fall '23 Term designers will be tasked to use Pittsburgh, PA as a laboratory to develop a research project, from initial concept to an extensive script, including design elements, character development, as well as an urban critique of the city. Frameworks around composition, color, mapping, modeling, the parallel projection, and techniques in painting that are used in architecture, visual development, and concept design will ask how storylines translate and transform in the creation of a comprehensive project using industry techniques.   To curate the explorations, we will explore innovative ideas in visual storytelling using techniques of interactivity in children's book design, experimenting with new forms of narrative strategies. The experimentations will result in a final exhibition at the end of Fall 2023.
+</end course description for 48-310 Prototyping Stories: Experimental Children's Book and Vis Dev as An Architectura>

@@ -1,0 +1,16 @@
+<start course metadata for 36-226 Introduction to Statistical Inference>
+Semester: Summer Two 2024 (aka M24, M24 Mini 2, Summer 2024 Mini 2)
+Course Name: Introduction to Statistical Inference
+Course Number: 36-226
+Department: Statistics and Data Science
+Number of Units: 9
+Prerequisites: 36-225 or 36-219 or 21-325 or 36-218 or 15-259 or 36-217
+Instructors: Instructor TBA
+Rooms: WEH 5415
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 36-226 Introduction to Statistical Inference>
+
+<start course description for 36-226 Introduction to Statistical Inference>
+Semester: Summer Two 2024 (aka M24, M24 Mini 2, Summer 2024 Mini 2)
+Course Description: None
+</end course description for 36-226 Introduction to Statistical Inference>

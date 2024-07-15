@@ -1,0 +1,16 @@
+<start course metadata for 54-327 Auditioning for TV/Film>
+Semester: Fall 2023 (aka F23)
+Course Name: Auditioning for TV/Film
+Course Number: 54-327
+Department: Drama
+Number of Units: 2
+Prerequisites: 54-202
+Instructors: Andrew Smith
+Rooms: PCA 321
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-327 Auditioning for TV/Film>
+
+<start course description for 54-327 Auditioning for TV/Film>
+Semester: Fall 2023 (aka F23)
+Course Description: An optional course for Junior Acting and Music Theatre majors.
+</end course description for 54-327 Auditioning for TV/Film>

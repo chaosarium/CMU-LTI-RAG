@@ -1,0 +1,16 @@
+<start course metadata for 95-818 Privacy, Policy, Law And Technology>
+Semester: Fall 2023 (aka F23)
+Course Name: Privacy, Policy, Law And Technology
+Course Number: 95-818
+Department: Information Systems:Sch of IS & Mgt
+Number of Units: 12
+Prerequisites: None
+Instructors: Lujo Bauer
+Rooms: SH 236
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 95-818 Privacy, Policy, Law And Technology>
+
+<start course description for 95-818 Privacy, Policy, Law And Technology>
+Semester: Fall 2023 (aka F23)
+Course Description: This course focuses on policy issues related to privacy from the perspectives of governments, organizations, and individuals. We will begin with a historical and philosophical study of privacy and then explore recent public policy issues. We will examine the privacy protections provided by laws and regulations, as well as the way technology can be used to protect privacy. We will emphasize technology-related privacy concerns and mitigation, for example: social networks, smartphones, behavioral advertising (and tools to prevent targeted advertising and tracking), anonymous communication systems, big data, and drones.   This course is part of a three-course series of privacy courses offered as part of the MSIT-Privacy Engineering masters program. These courses may be taken in any order or simultaneously. Foundations of Privacy (offered in the Fall semester) offers more indepth coverage of technologies and algorithms used to reason about and protect privacy. Engineering Privacy in Software (offered in the Spring semester) focuses on the methods and tools needed to design systems for privacy.
+</end course description for 95-818 Privacy, Policy, Law And Technology>

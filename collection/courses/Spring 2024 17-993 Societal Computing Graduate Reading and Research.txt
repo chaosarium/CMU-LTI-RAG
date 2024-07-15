@@ -1,0 +1,16 @@
+<start course metadata for 17-993 Societal Computing Graduate Reading and Research>
+Semester: Spring 2024 (aka S24)
+Course Name: Societal Computing Graduate Reading and Research
+Course Number: 17-993
+Department: Software & Societal Systems
+Number of Units: N/A
+Prerequisites: None
+Instructors: Nicolas Christin
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 17-993 Societal Computing Graduate Reading and Research>
+
+<start course description for 17-993 Societal Computing Graduate Reading and Research>
+Semester: Spring 2024 (aka S24)
+Course Description: Societal Computing PhD Students only sign up for Reading & Research.
+</end course description for 17-993 Societal Computing Graduate Reading and Research>

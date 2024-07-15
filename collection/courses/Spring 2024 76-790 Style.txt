@@ -1,0 +1,16 @@
+<start course metadata for 76-790 Style>
+Semester: Spring 2024 (aka S24)
+Course Name: Style
+Course Number: 76-790
+Department: English
+Number of Units: N/A
+Prerequisites: None
+Instructors: Sarah Idzik
+Rooms: WEH 5328
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 76-790 Style>
+
+<start course description for 76-790 Style>
+Semester: Spring 2024 (aka S24)
+Course Description: Some people think of style as individual panachea graceful facility with language that is as distinctive to a given writer as his or her fingerprint. According to this theory, style is a possessiona genetic talent that can be cultivated by one but never duplicated by another. Those who lack this innate stylistic flair often look for ways to compensate. Unable to achieve aesthetic beauty, they strive to be grammatically correctto follow the rules of writing. In this class, we will not treat style as an innate gift that writers possess and carry with them from situation to situation. Nor will we treat style as a set of rules that one can "live by." Instead, we will think of style as a set of strategic choices that one considers and selects from depending on the writing context. Certain stylistic choices appropriate to one context may not be appropriate to another. We cannotand will notlook at all possible writing contexts in this class. Instead, we will focus our attention on professional writing contexts in which the goal (presumably) is to communicate clearly and coherently in texts composed of sentences and paragraphs.
+</end course description for 76-790 Style>

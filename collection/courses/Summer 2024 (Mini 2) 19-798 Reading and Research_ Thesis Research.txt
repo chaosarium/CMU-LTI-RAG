@@ -1,0 +1,16 @@
+<start course metadata for 19-798 Reading and Research: Thesis Research>
+Semester: Summer Two 2024 (aka M24, M24 Mini 2, Summer 2024 Mini 2)
+Course Name: Reading and Research: Thesis Research
+Course Number: 19-798
+Department: Engineering & Public Policy
+Number of Units: N/A
+Prerequisites: None
+Instructors: Deanna Matthews, Nicholas Muller
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 19-798 Reading and Research: Thesis Research>
+
+<start course description for 19-798 Reading and Research: Thesis Research>
+Semester: Summer Two 2024 (aka M24, M24 Mini 2, Summer 2024 Mini 2)
+Course Description: Thesis research
+</end course description for 19-798 Reading and Research: Thesis Research>

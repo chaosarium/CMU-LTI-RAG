@@ -1,0 +1,16 @@
+<start course metadata for 19-702 Quantitative Methods for Policy Analysis>
+Semester: Spring 2024 (aka S24)
+Course Name: Quantitative Methods for Policy Analysis
+Course Number: 19-702
+Department: Engineering & Public Policy
+Number of Units: 12
+Prerequisites: None
+Instructors: Nicolas Christin
+Rooms: BH 237B; BH 255A
+Locations: Lisbon, Portugal; Pittsburgh, Pennsylvania
+</end course metadata for 19-702 Quantitative Methods for Policy Analysis>
+
+<start course description for 19-702 Quantitative Methods for Policy Analysis>
+Semester: Spring 2024 (aka S24)
+Course Description: Economic framework for identifying and analyzing investment and operation options facing agencies and firms, (both in theory and in practice); economic efficiency, utilization, pricing, and investment; and multi-objective evaluation.
+</end course description for 19-702 Quantitative Methods for Policy Analysis>

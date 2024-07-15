@@ -1,0 +1,16 @@
+<start course metadata for 80-381 Meaning in Language>
+Semester: Fall 2023 (aka F23)
+Course Name: Meaning in Language
+Course Number: 80-381
+Department: Philosophy
+Number of Units: 9
+Prerequisites: 80-180
+Instructors: Tom Werner
+Rooms: PH 125B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 80-381 Meaning in Language>
+
+<start course description for 80-381 Meaning in Language>
+Semester: Fall 2023 (aka F23)
+Course Description: One of the more elusive topics in the linguistics of natural language is meaning. This is the field of semantics. A key question to answer in semantics is what meaning even is. In this course, we will give an answer to this question, starting with the meaning of basic sentences. These are sentences that describe what is the case. From there, we break sentence meaning into the meaning of words. In the other direction, we consider the meaning of non-basic sentences such as questions and imperatives. We also consider the meaning of complex sentences and sentences that express irrealis. That starts with the subject of negation, with sentences that describe what is not the case. From there we move to sentences used to talk about what could be the case, what will be the case, what could've been the case, and what could never have been the case. A peculiarity of semantics is that the abstract questions we ask yield answers that are highly concrete and practical. But that only makes sense given that language permeates every human activity and it really matters what we mean by what we say.
+</end course description for 80-381 Meaning in Language>

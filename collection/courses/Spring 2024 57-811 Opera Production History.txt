@@ -1,0 +1,16 @@
+<start course metadata for 57-811 Opera Production History>
+Semester: Spring 2024 (aka S24)
+Course Name: Opera Production History
+Course Number: 57-811
+Department: Music
+Number of Units: 9
+Prerequisites: None
+Instructors: Ryan Prendergast
+Rooms: HOA 225
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-811 Opera Production History>
+
+<start course description for 57-811 Opera Production History>
+Semester: Spring 2024 (aka S24)
+Course Description: This course offers an interdisciplinary exploration of opera as theater, focusing on the historical development of production practices, staging interpretations, and artistic agency from the early modern period to the present. Topics include opera dramaturgy, historiography, archival research, opera and media, creative labor in opera production, opera production in the time of COVID-19, and social justice in opera production in the twenty-first century. Course assignments will culminate in a formal research paper and presentation whose topic will be decided in consultation with the instructor. For Music majors and Drama majors.
+</end course description for 57-811 Opera Production History>

@@ -1,0 +1,16 @@
+<start course metadata for 10-735 Responsible AI>
+Semester: Spring 2024 (aka S24)
+Course Name: Responsible AI
+Course Number: 10-735
+Department: Machine Learning
+Number of Units: 12
+Prerequisites: (15-122) and (21-127 or 15-151 or 21-128) and (36-218 or 36-217 or 15-259 or 36-235 or 36-225 or 15-359 or 21-325 or 36-219)
+Instructors: Alex London, Hoda Heidari
+Rooms: POS 151
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 10-735 Responsible AI>
+
+<start course description for 10-735 Responsible AI>
+Semester: Spring 2024 (aka S24)
+Course Description: The development and deployment of artificial intelligence (AI) systems increasingly involves choices that impact people's lives and society at large. The responsible development and use of AI requires the integration of ethical, societal, and policy considerations into the use of AI tools and the development of AI systems in high-stakes domains, such as employment, education, lending, criminal justice, medicine, and beyond. We will discuss:  (1) the pathways through which AI can lead to or amplify problematic decision-making practices (e.g., discrimination, inscrutability, invasion of privacy, and beyond);  (2) recent technological methods and remedies to capture and alleviate these concerns; and  (3) the scope of applicability and limitations of technological remedies in the context of several contemporary application domains.  The course's primary goals are: (a) to raise awareness about the social, ethical, and policy implications of AI, and (b) to prepare students to critically analyze these issues as they emerge in the ever-expanding use of AI in socially consequential domains.
+</end course description for 10-735 Responsible AI>

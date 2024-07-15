@@ -1,0 +1,16 @@
+<start course metadata for 51-665 Creative Technology Sprints>
+Semester: Fall 2023 (aka F23)
+Course Name: Creative Technology Sprints
+Course Number: 51-665
+Department: Design
+Number of Units: 12
+Prerequisites: None
+Instructors: Joshua Horowitz
+Rooms: MM 121
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-665 Creative Technology Sprints>
+
+<start course description for 51-665 Creative Technology Sprints>
+Semester: Fall 2023 (aka F23)
+Course Description: In this course, we will take computational approaches to explore information design in space. Students will consider the interactivity and readability of information when creating data-driven systems. They will learn Javascript programming and use P5.js for their interactive systems. There will be three projects: 1) Speech-responsive Kiosk;  2) Immersive Space using Projection; and 3) Data Visualization using Holo Lens. There is no prerequisite for this course, but basic understanding of typography and information design is expected.
+</end course description for 51-665 Creative Technology Sprints>

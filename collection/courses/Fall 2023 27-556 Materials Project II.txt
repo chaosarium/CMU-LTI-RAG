@@ -1,0 +1,16 @@
+<start course metadata for 27-556 Materials Project II>
+Semester: Fall 2023 (aka F23)
+Course Name: Materials Project II
+Course Number: 27-556
+Department: Materials Science & Engineering
+Number of Units: N/A
+Prerequisites: None
+Instructors: Paige Houser
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 27-556 Materials Project II>
+
+<start course description for 27-556 Materials Project II>
+Semester: Fall 2023 (aka F23)
+Course Description: Second semester of Materials Project.  This course is designed to give experience in individualized research under the guidance of a faculty member.  The topic is selected by mutual agreement, and will give the student a chance to study the literature, design experiments, interpret the results and present the conclusions orally and in writing.
+</end course description for 27-556 Materials Project II>

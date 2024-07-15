@@ -1,0 +1,16 @@
+<start course metadata for 99-359 IDeATe: 3D Modeling and 3D Printing>
+Semester: Spring 2024 (aka S24)
+Course Name: IDeATe: 3D Modeling and 3D Printing
+Course Number: 99-359
+Department: Carnegie Mellon University-Wide Studies
+Number of Units: 1
+Prerequisites: None
+Instructors: Jayla Patton
+Rooms: HL A5
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 99-359 IDeATe: 3D Modeling and 3D Printing>
+
+<start course description for 99-359 IDeATe: 3D Modeling and 3D Printing>
+Semester: Spring 2024 (aka S24)
+Course Description: NOTE: The specific meeting dates for the A3 section of this micro course are Jan 20, Jan 27, Feb 3. The specific meeting dates for the B3 section of this micro course are Feb 11, Feb 18, Feb 25. This workshop is a hands-on introduction to the expansive world of 3D printing. 3D printing is a popular and versatile technology for quickly prototyping ideas. Students learn prototyping basics and software to create their own unique projects.  Computer-controlled manufacturing process is driven by CAD design. The class time will explore the capabilities of 3D modeling and their transformation into a printable format. No technical experience is required, although basic knowledge of digital media creation, such as vector drawings, is helpful.
+</end course description for 99-359 IDeATe: 3D Modeling and 3D Printing>

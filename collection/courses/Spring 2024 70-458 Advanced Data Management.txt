@@ -1,0 +1,16 @@
+<start course metadata for 70-458 Advanced Data Management>
+Semester: Spring 2024 (aka S24)
+Course Name: Advanced Data Management
+Course Number: 70-458
+Department: Business Administration
+Number of Units: 9
+Prerequisites: 70-455
+Instructors: Robert Monroe
+Rooms: TEP 2701
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 70-458 Advanced Data Management>
+
+<start course description for 70-458 Advanced Data Management>
+Semester: Spring 2024 (aka S24)
+Course Description: None
+</end course description for 70-458 Advanced Data Management>

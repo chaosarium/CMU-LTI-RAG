@@ -1,0 +1,16 @@
+<start course metadata for 24-052 Internship in Mechanical Engineering>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Internship in Mechanical Engineering
+Course Number: 24-052
+Department: Mechanical Engineering
+Number of Units: 3
+Prerequisites: None
+Instructors: Chris Hertz
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-052 Internship in Mechanical Engineering>
+
+<start course description for 24-052 Internship in Mechanical Engineering>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: The Department of Mechanical Engineering at Carnegie Mellon considers experiential learning opportunities important educational options for its undergraduate students. One such option is an internship, normally completed during the summer. Students do not need to officially register for an internship unless they want it listed on their official transcripts. The Mechanical Engineering Department will add the course to the student's schedule, and the student will be assessed tuition for 3 units. Upon completion of the internship, students must submit a 1-2 page report of their work experience, and a 1-2 page evaluation from the company supervisor to the Academic Advisor's Office. After the reports have been reviewed and approved, a "P" grade will be assigned. This process should be used by international students interested in Curricular Practical Training (CPT) International students should also be authorized by the Office of International Education (OIE). More information regarding CPT is available on OIE's website.
+</end course description for 24-052 Internship in Mechanical Engineering>

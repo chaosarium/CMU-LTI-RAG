@@ -1,0 +1,16 @@
+<start course metadata for 12-351 Environmental Engineering>
+Semester: Spring 2024 (aka S24)
+Course Name: Environmental Engineering
+Course Number: 12-351
+Department: Civil & Environmental Engineering
+Number of Units: 9
+Prerequisites: 09-105 or 09-111
+Instructors: Andrea Francioni Rooney, Joe Moore
+Rooms: WEH 5409
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 12-351 Environmental Engineering>
+
+<start course description for 12-351 Environmental Engineering>
+Semester: Spring 2024 (aka S24)
+Course Description: Environmental engineering applies sustainability science, engineering principles, and systems approaches to protect the environment and human health. This includes protecting natural ecosystems and enhancing the quality of human life through environment-related policy development and technological innovation, and assessing the environmental impacts or benefits of infrastructure projects.  This course provides a scientific and engineering basis for understanding and developing sustainable solutions for challenges in environmental and public health protection, especially in relation to urban water systems, with links to energy and climate.  Topics covered include:  sustainability; basic principles of water chemistry and microbiology; mass and energy balances; reactor theory and models; physical-chemical and biological processes; drinking water treatment; wastewater treatment; rivers, lakes, and ecosystems.   Students will develop quantitative problem-solving skills for environmental engineering challenges.  Students will also learn about and analyze current environmental and public health issues.
+</end course description for 12-351 Environmental Engineering>

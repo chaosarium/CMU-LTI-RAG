@@ -1,0 +1,16 @@
+<start course metadata for 80-283 It Matters How You Say It>
+Semester: Spring 2024 (aka S24)
+Course Name: It Matters How You Say It
+Course Number: 80-283
+Department: Philosophy
+Number of Units: 9
+Prerequisites: None
+Instructors: Mandy Simons
+Rooms: PH 226A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 80-283 It Matters How You Say It>
+
+<start course description for 80-283 It Matters How You Say It>
+Semester: Spring 2024 (aka S24)
+Course Description: Why do languages give us multiple ways to say the same thing? Given that in English we can say "My dog ate my homework," why do we sometimes prefer "My homework got eaten by my dog"? Why do we sometimes choose to refer to someone with just a pronoun ("he"), and sometimes choose their full name ("Charles Dickens")? What's the difference between telling someone: "This expensive coffee is tasteless," or telling them: "This tasteless coffee was expensive"?  This course is about the choices that languages give us for conveying a particular message, and the communicative effects of those choices. We will see that it is both the words you use and the way you put them together that determines the total communicative effect of your utterance. While the course will focus on English,  students will have an opportunity to work on another language of interest in their final project.
+</end course description for 80-283 It Matters How You Say It>

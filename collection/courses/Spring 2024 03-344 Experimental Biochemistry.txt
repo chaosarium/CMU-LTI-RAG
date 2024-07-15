@@ -1,0 +1,16 @@
+<start course metadata for 03-344 Experimental Biochemistry>
+Semester: Spring 2024 (aka S24)
+Course Name: Experimental Biochemistry
+Course Number: 03-344
+Department: Biological Sciences
+Number of Units: 12
+Prerequisites: (03-231 or 03-232) and 03-343
+Instructors: Adviti Naik, Annette Vincent, Carrie Doonan
+Rooms: CMB 3044; MI 328
+Locations: Doha, Qatar; Pittsburgh, Pennsylvania
+</end course metadata for 03-344 Experimental Biochemistry>
+
+<start course description for 03-344 Experimental Biochemistry>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is designed to be taken as a sequel to 03-343. Experiments cover a variety of methods for investigating the structure and function of biological molecules. Experimental methods with proteins, enzyme kinetics, lipids, spectroscopy, and isolation and quantization of biological molecules are covered. During several experiments, students design their own projects. Experimentation using living organisms and/or their tissues, cells or molecules is an essential component of this course.
+</end course description for 03-344 Experimental Biochemistry>

@@ -1,0 +1,16 @@
+<start course metadata for 33-779 Introduction to Nuclear and Particle Physics>
+Semester: Fall 2023 (aka F23)
+Course Name: Introduction to Nuclear and Particle Physics
+Course Number: 33-779
+Department: Physics
+Number of Units: 12
+Prerequisites: None
+Instructors: Matteo Cremonesi
+Rooms: DH 2122
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 33-779 Introduction to Nuclear and Particle Physics>
+
+<start course description for 33-779 Introduction to Nuclear and Particle Physics>
+Semester: Fall 2023 (aka F23)
+Course Description: An introduction to the physics of atomic nuclei and elementary particles. This course is suitable as a one-semester course for students not specializing in this area and also provides an introduction to further work in 33-780, 33-78l. Topics included are symmetry principles of strong and weak interactions, quark model, classification of particles and nuclear forces.
+</end course description for 33-779 Introduction to Nuclear and Particle Physics>

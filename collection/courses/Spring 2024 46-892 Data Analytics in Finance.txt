@@ -1,0 +1,16 @@
+<start course metadata for 46-892 Data Analytics in Finance>
+Semester: Spring 2024 (aka S24)
+Course Name: Data Analytics in Finance
+Course Number: 46-892
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Zeigham Khokher
+Rooms: TEP 2111
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 46-892 Data Analytics in Finance>
+
+<start course description for 46-892 Data Analytics in Finance>
+Semester: Spring 2024 (aka S24)
+Course Description: TBD
+</end course description for 46-892 Data Analytics in Finance>

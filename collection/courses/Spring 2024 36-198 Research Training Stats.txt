@@ -1,0 +1,16 @@
+<start course metadata for 36-198 Research Training Stats>
+Semester: Spring 2024 (aka S24)
+Course Name: Research Training Stats
+Course Number: 36-198
+Department: Statistics and Data Science
+Number of Units: N/A
+Prerequisites: 36-200
+Instructors: Alexander Reinhart, David Brown, Gordon Weinberg
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 36-198 Research Training Stats>
+
+<start course description for 36-198 Research Training Stats>
+Semester: Spring 2024 (aka S24)
+Course Description: TBD
+</end course description for 36-198 Research Training Stats>

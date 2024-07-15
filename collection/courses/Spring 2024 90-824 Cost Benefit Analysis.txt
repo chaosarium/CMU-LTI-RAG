@@ -1,0 +1,16 @@
+<start course metadata for 90-824 Cost Benefit Analysis>
+Semester: Spring 2024 (aka S24)
+Course Name: Cost Benefit Analysis
+Course Number: 90-824
+Department: Public Policy & Mgt:Sch of Pub Pol & Mgt
+Number of Units: 6
+Prerequisites: None
+Instructors: Anthony Cheesebrough
+Rooms: 
+Locations: Washington, District of Columbia
+</end course metadata for 90-824 Cost Benefit Analysis>
+
+<start course description for 90-824 Cost Benefit Analysis>
+Semester: Spring 2024 (aka S24)
+Course Description: Individuals and organizations are frequently presented with decisions about how best to allocate limited resources.  Public organizations in particular have an obligation to use consistent and transparent analytic tools to inform tradeoffs among competing policy priorities such as the environment, health, safety, and security.  Economics provides a theoretical foundation for the allocation of scarce resources, but in practice, there are a variety of challenges in measuring benefits and costs in quantitative and monetary terms.  Such challenges include determining how to value benefits and costs experienced in the future, reductions in the risk of premature death and injury, and the distribution of these impacts among affected populations, as well as appropriately characterizing uncertainty.  The ability to assess key assumptions and limitations is critical for both producers and consumers of cost-benefit analysis.  Learning Objectives  Through lectures, discussions, readings, problem sets, written assignments, and presentations, students will develop knowledge and skills that will enable them to:   Apply the analytic tools and techniques of cost-benefit analysis and microeconomics in the formulation and assessment of real-world policies.   Contribute to the development of defensible and transparent cost-benefit analyses.  Understand and identify the assumptions and limitations of cost-benefit analyses.  Critically assess cost-benefit analyses conducted by others.  Evaluate and compare alternative policies using the tools of cost-benefit analysis and microeconomics.  Communicate the results of the cost-benefit analysis to stakeholders in such a way as to facilitate political or administrative processes.  Prerequisites  Students must have completed EITHER 90-709 Intermediate Economic Analysis OR 90-710 Applied Economic Analysis, as well as 90-711 Empirical Methods.
+</end course description for 90-824 Cost Benefit Analysis>

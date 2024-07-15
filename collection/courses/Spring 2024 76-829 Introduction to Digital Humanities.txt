@@ -1,0 +1,16 @@
+<start course metadata for 76-829 Introduction to Digital Humanities>
+Semester: Spring 2024 (aka S24)
+Course Name: Introduction to Digital Humanities
+Course Number: 76-829
+Department: English
+Number of Units: N/A
+Prerequisites: None
+Instructors: Christopher Warren
+Rooms: PH 125C
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 76-829 Introduction to Digital Humanities>
+
+<start course description for 76-829 Introduction to Digital Humanities>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is a "learn by doing" introduction to questions and methods in digital humanities, with special emphases on common tasks in digital history, digital literary studies, library science, and cultural analytics. Students will likely partner with a national humanities organization to tackle real-world humanities problems while developing core computational competencies such as those required for gathering data (text mining, APIs), transforming data (OCR, regular expressions, natural language processing, image magick), file management (shell commands), data visualization (matplotlib, arcGIS), and more.
+</end course description for 76-829 Introduction to Digital Humanities>

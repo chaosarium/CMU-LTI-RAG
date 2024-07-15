@@ -1,0 +1,16 @@
+<start course metadata for 05-795 Applications of Cognitive Science>
+Semester: Spring 2024 (aka S24)
+Course Name: Applications of Cognitive Science
+Course Number: 05-795
+Department: Human-Computer Interaction
+Number of Units: 12
+Prerequisites: None
+Instructors: Roberta Klatzky
+Rooms: BH 336B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 05-795 Applications of Cognitive Science>
+
+<start course description for 05-795 Applications of Cognitive Science>
+Semester: Spring 2024 (aka S24)
+Course Description: The goal of this course is to examine cases where basic research on cognitive science, including cognitive neuroscience, has made its way into application, in order to understand how science gets applied more generally.  The course focuses on applications that are sufficiently advanced as to have made an impact outside of the research field per se; for example, as a product,  a change in practice, or a legal statute.  Examples are virtual reality (in vision, hearing, and touch), cognitive tutors, phonologically based reading programs, latent semantic analysis applications to writing assessment, and measures of consumers' implicit attitudes. The course will use a case-study approach that considers a set of applications in detail, while building a general understanding of what it means to move research into the applied setting.  The questions to be considered include:  What makes a body of theoretically based research applicable?  What is the pathway from laboratory to practice?  What are the barriers - economic, legal, entrenched belief or practice?  The format will emphasize analysis and discussion by students.  They should bring to the course an interest in application; extensive prior experience in cognitive science is not necessary.  The course will include tutorials on basic topics in cognitive science such as perception, memory, and spatial cognition.  These should provide sufficient grounding to discuss the applications.
+</end course description for 05-795 Applications of Cognitive Science>

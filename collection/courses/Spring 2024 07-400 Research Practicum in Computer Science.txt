@@ -1,0 +1,16 @@
+<start course metadata for 07-400 Research Practicum in Computer Science>
+Semester: Spring 2024 (aka S24)
+Course Name: Research Practicum in Computer Science
+Course Number: 07-400
+Department: SCS Interdisciplinary
+Number of Units: 12
+Prerequisites: 15-300 or 07-300
+Instructors: Ruben Martins
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 07-400 Research Practicum in Computer Science>
+
+<start course description for 07-400 Research Practicum in Computer Science>
+Semester: Spring 2024 (aka S24)
+Course Description: This Spring course is the second part of a two-course sequence that is designed to help prepare students to invent the future state-of-the-art in the field of computer science.  Building directly upon 15-300 (the prerequisite for this course), students will conduct a semester-long independent research project, under the guidance of both the course staff and a faculty project mentor.  The course does not meet for lecture or recitations.  Instead, the students will spend their time working on their research projects, and will also meet with course staff on a bi-weekly basis to discuss their progress.  Students will prepare a written report and a poster presentation at the end of the semester to describe what they have accomplished.
+</end course description for 07-400 Research Practicum in Computer Science>

@@ -1,0 +1,16 @@
+<start course metadata for 99-352 IDeATe: Soft Fabrication Skills>
+Semester: Fall 2023 (aka F23)
+Course Name: IDeATe: Soft Fabrication Skills
+Course Number: 99-352
+Department: Carnegie Mellon University-Wide Studies
+Number of Units: 1
+Prerequisites: None
+Instructors: Natalya Pinchuk
+Rooms: HL 106B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 99-352 IDeATe: Soft Fabrication Skills>
+
+<start course description for 99-352 IDeATe: Soft Fabrication Skills>
+Semester: Fall 2023 (aka F23)
+Course Description: PLEASE NOTE: The specific meeting dates for the A1 section of this micro course are Sep 16, Sep 23, Sep 30. Textiles are a ubiquitous part of our everyday tactile experience. This workshop series aims to introduce textile techniques to participants with diverse backgrounds across the CMU campus. The fabrication skills and concepts that will be covered in this course will be taught from an interdisciplinary approach to merge practices in arts and technology. Students will learn methods of working with fabric such as hand and machine sewing, felting and knitting, along with merging aspects of digital fabrication and physical computing using flexible materials. Through discussions and demos, participants will have the opportunity to explore new methods of fabrication to integrate into their own practice.
+</end course description for 99-352 IDeATe: Soft Fabrication Skills>

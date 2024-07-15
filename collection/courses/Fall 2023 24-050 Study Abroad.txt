@@ -1,0 +1,16 @@
+<start course metadata for 24-050 Study Abroad>
+Semester: Fall 2023 (aka F23)
+Course Name: Study Abroad
+Course Number: 24-050
+Department: Mechanical Engineering
+Number of Units: 0
+Prerequisites: None
+Instructors: Chris Hertz
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-050 Study Abroad>
+
+<start course description for 24-050 Study Abroad>
+Semester: Fall 2023 (aka F23)
+Course Description: Mechanical Engineering students studying abroad through other institutions are registered for this zero-unit place holder "course."  Prior to being enrolled for study abroad, the student must have completed an Office of International Education "Study Abroad Transfer Credit (SATC) Form," which must be signed by their academic advisor in Mechanical Engineering.
+</end course description for 24-050 Study Abroad>

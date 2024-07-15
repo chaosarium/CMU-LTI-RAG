@@ -1,0 +1,16 @@
+<start course metadata for 90-723 Financial Statements and Analysis of Companies>
+Semester: Fall 2023 (aka F23)
+Course Name: Financial Statements and Analysis of Companies
+Course Number: 90-723
+Department: Public Policy & Mgt:Sch of Pub Pol & Mgt
+Number of Units: 6
+Prerequisites: None
+Instructors: William Gogolak
+Rooms: HBH 2008
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 90-723 Financial Statements and Analysis of Companies>
+
+<start course description for 90-723 Financial Statements and Analysis of Companies>
+Semester: Fall 2023 (aka F23)
+Course Description: This course provides an overview of how managers, investors, creditors and other parties use financial information to make decisions.  The course will begin by gaining an understanding of the financial reporting process and the organizations that govern financial accounting.  We will learn what financial reports are required for publicly traded companies and begin our analysis by understanding key accounts and the flow of data on the Balance Sheet and the Income Statement.   Continuing our financial statement analysis, we will focus on the importance of cash flows from operations and further understand the Statement of Cash Flows.  Expanding on our financial analysis we will cover capital budgeting through computations of payback period, net present value and internal rate of return.
+</end course description for 90-723 Financial Statements and Analysis of Companies>

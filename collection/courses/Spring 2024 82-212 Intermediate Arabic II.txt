@@ -1,0 +1,16 @@
+<start course metadata for 82-212 Intermediate Arabic II>
+Semester: Spring 2024 (aka S24)
+Course Name: Intermediate Arabic II
+Course Number: 82-212
+Department: Modern Languages
+Number of Units: 12
+Prerequisites: 82-211
+Instructors: Khaled Al Masaeed
+Rooms: POS 235
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 82-212 Intermediate Arabic II>
+
+<start course description for 82-212 Intermediate Arabic II>
+Semester: Spring 2024 (aka S24)
+Course Description: This course follows Intermediate Arabic I. It continues to build students' communicative competence at the Intermediate Mid-High level in Modern Standard Arabic in all four skills (listening, reading, speaking, and writing) following a proficiency-oriented teaching approach. The course also continues to 1) integrate a spoken dialect to enrich students' background in oral communication; 2) educate students about various aspects of Arab culture through written and audio-visual materials; and 3) engage in conversation with native speakers through the Natakallam program, virtual sessions, and guest speakers from City of Asylum and other institutions, in order to build their cultural literacy.
+</end course description for 82-212 Intermediate Arabic II>

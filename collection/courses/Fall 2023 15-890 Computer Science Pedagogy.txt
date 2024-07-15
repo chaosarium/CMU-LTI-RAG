@@ -1,0 +1,16 @@
+<start course metadata for 15-890 Computer Science Pedagogy>
+Semester: Fall 2023 (aka F23)
+Course Name: Computer Science Pedagogy
+Course Number: 15-890
+Department: Computer Science
+Number of Units: 12
+Prerequisites: None
+Instructors: Franceska Xhakaj, Michael Hilton
+Rooms: WEH 2302
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-890 Computer Science Pedagogy>
+
+<start course description for 15-890 Computer Science Pedagogy>
+Semester: Fall 2023 (aka F23)
+Course Description: A broad introduction to Computer Science Pedagogy.  Although the course focus is on CS pedagogy and developing curricular content, students will learn some fundamentals of modern mobile application programming.
+</end course description for 15-890 Computer Science Pedagogy>

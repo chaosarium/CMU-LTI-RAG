@@ -1,0 +1,16 @@
+<start course metadata for 67-352 Electronic Business and Design Thinking>
+Semester: Fall 2023 (aka F23)
+Course Name: Electronic Business and Design Thinking
+Course Number: 67-352
+Department: Information Systems Program
+Number of Units: 9
+Prerequisites: 67-250 or 70-110
+Instructors: Savanid  Nui Vatanasakdakul
+Rooms: CMB 3048
+Locations: Doha, Qatar
+</end course metadata for 67-352 Electronic Business and Design Thinking>
+
+<start course description for 67-352 Electronic Business and Design Thinking>
+Semester: Fall 2023 (aka F23)
+Course Description: The objective of this course is to give students a good understanding on how e-business is conducted and managed including opportunities, limitations, issues, and risks. E-business applications require certain technological infrastructures and other support mechanism in areas of business-to-consumer, business-to-business, and consumer-to-consumer. Topics will cover the technologies, skills and business concepts that surround the emergence of electronic business and the impacts of applying these information technologies to different commercial processes from both an operational and strategic perspective. The course will also explore the problems surrounding electronic business such as security, privacy, intellectual property rights, legal liabilities and global issues.  The course provides a contemporary exposure to concepts and practices associated with a new and dynamic digital environment in the real business world. The information technologies associated with the delivery of Internet sites as well as internal operations will be discussed. After completion of this course, students are expected to have appropriate level of knowledge, skills, and concept of the digital operations in a modern business world.
+</end course description for 67-352 Electronic Business and Design Thinking>

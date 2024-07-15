@@ -1,0 +1,16 @@
+<start course metadata for 33-152 Matter and Interactions II>
+Semester: Spring 2024 (aka S24)
+Course Name: Matter and Interactions II
+Course Number: 33-152
+Department: Physics
+Number of Units: 12
+Prerequisites: (33-151 and 21-122) or (21-122 and 33-131)
+Instructors: Rachel Mandelbaum
+Rooms: GHC 5222
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 33-152 Matter and Interactions II>
+
+<start course description for 33-152 Matter and Interactions II>
+Semester: Spring 2024 (aka S24)
+Course Description: A more challenging alternative to 33-142, Physics II for Engineering and Physics Students. There is an emphasis on atomic-level description and analysis of matter and its electric and magnetic interactions.  Topics include: Coulomb's law, polarization, electric field, plasmas, field of charge distributions, microscopic analysis of resistor and capacitor circuits, potential, macroscopic analysis of circuits, Gauss' law, magnetic field, atomic model of magnetism, Ampere's law, magnetic force, relativistic issues, magnetic induction with emphasis on non-Coulomb electric field, Maxwell's equations, electromagnetic radiation including its production and its effects on matter, re-radiation, interference.  There will also be computer modeling, visualization and desktop experiments.
+</end course description for 33-152 Matter and Interactions II>

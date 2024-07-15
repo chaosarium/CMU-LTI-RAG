@@ -1,0 +1,16 @@
+<start course metadata for 94-819 Data Analytics with Tableau>
+Semester: Spring 2024 (aka S24)
+Course Name: Data Analytics with Tableau
+Course Number: 94-819
+Department: Heinz College Wide Courses
+Number of Units: 6
+Prerequisites: None
+Instructors: Gabriela Gongora-Svartzman
+Rooms: HBH 2009
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 94-819 Data Analytics with Tableau>
+
+<start course description for 94-819 Data Analytics with Tableau>
+Semester: Spring 2024 (aka S24)
+Course Description: After the successful completion of this course, students will have a basic understanding of how to solve problems using data analytics techniques in Tableau. This course will cover the basics of how to use Tableau Prep to clean and prepare datasets. Students will also learn to leverage Tableau Desktop to visualize and analyze data effectively and create compelling dashboards and data stories. This course will not go into mathematical details behind analytics techniques but rather their applications and how to leverage insights for decision-makers from them.  This course will face students with real examples and real-world data, as an increasing number of organizations nowadays collect data to support their decision-making process.
+</end course description for 94-819 Data Analytics with Tableau>

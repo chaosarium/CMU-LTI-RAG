@@ -1,0 +1,16 @@
+<start course metadata for 94-829 Advanced AI and Business Strategy>
+Semester: Spring 2024 (aka S24)
+Course Name: Advanced AI and Business Strategy
+Course Number: 94-829
+Department: Heinz College Wide Courses
+Number of Units: 6
+Prerequisites: None
+Instructors: Beibei Li
+Rooms: HBH 1204
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 94-829 Advanced AI and Business Strategy>
+
+<start course description for 94-829 Advanced AI and Business Strategy>
+Semester: Spring 2024 (aka S24)
+Course Description: This course explores the dynamic intersection of leading-edge Artificial Intelligence (AI) technologies and business strategy, equipping students with the knowledge and skills to harness the transformative potential of advanced AI for organizational success. In an era characterized by data-driven decision-making, AI-driven innovation, and evolving market landscapes, businesses need strategic leaders who can navigate the complexities of AI adoption effectively.   This course draws upon the most recent development of AI technologies (such as Natural Language Processing, Deep Learning, Generative AI, Temporal-Spatial Big Data Analytics, etc.) and discuss the corresponding strategic applications for today's business and policy decision making.  This course is designed for students with a background in technology, business, policy, management, or related fields who aspire to become strategic leaders in organizations leveraging AI. We will combine lectures, case studies, group discussions, hands-on projects, and industry guest speakers to provide with a holistic understanding of AI's role in shaping business strategy.
+</end course description for 94-829 Advanced AI and Business Strategy>

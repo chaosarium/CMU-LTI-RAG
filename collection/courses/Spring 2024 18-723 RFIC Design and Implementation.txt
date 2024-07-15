@@ -1,0 +1,16 @@
+<start course metadata for 18-723 RFIC Design and Implementation>
+Semester: Spring 2024 (aka S24)
+Course Name: RFIC Design and Implementation
+Course Number: 18-723
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: 18-623 or 18-320 or 18-421
+Instructors: David Allstot, Vanessa Chen
+Rooms: GHC 4211; GHC 4215
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-723 RFIC Design and Implementation>
+
+<start course description for 18-723 RFIC Design and Implementation>
+Semester: Spring 2024 (aka S24)
+Course Description: This course covers the design and analysis of radio-frequency integrated systems at the transistor level using state of the art CMOS and bipolar technologies. It focuses on system-level trade-offs in transceiver design, practical RF circuit techniques, and physical understanding for device parasitics. Accurate models for active devices, passive components, and interconnect parasitics are critical for predicting high-frequency analog circuit behavior and will be examined in detail. The course will start with fundamental concepts in wireless system design and their impact on design trade-offs in different transceiver architectures. Following that, RF transistor model, passive matching networks will be discussed. Noise analysis and low-noise amplifier design are studied next. The effects of nonlinearity are treated along with mixer design techniques. Practical bias circuit for RF design will be illustrated. Then, the importance of phase noise and VCO design will be considered together. The course will conclude with a brief study of frequency synthesizer and power amplifier design. Senior or graduate standing required.
+</end course description for 18-723 RFIC Design and Implementation>

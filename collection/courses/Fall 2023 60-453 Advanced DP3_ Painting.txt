@@ -1,0 +1,16 @@
+<start course metadata for 60-453 Advanced DP3: Painting>
+Semester: Fall 2023 (aka F23)
+Course Name: Advanced DP3: Painting
+Course Number: 60-453
+Department: Art
+Number of Units: 10
+Prerequisites: 60-250
+Instructors: Daniel Ferrell
+Rooms: CFA 415
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 60-453 Advanced DP3: Painting>
+
+<start course description for 60-453 Advanced DP3: Painting>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is designed to help promote a painter's development, both conceptually and technically. It encourages students to expand their ideas through a diverse set of projects.Through research and studio experimentation, students will explore issues of scale, surface, materiality, process and performativity in painting. They will also consider notions of the "picturesque" and how non-artistic disciplines can inform painting.  Lectures and assignments are designed to enrich the painter's conceptual and technical base and to promote creative growth.
+</end course description for 60-453 Advanced DP3: Painting>

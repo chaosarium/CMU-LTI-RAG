@@ -1,0 +1,16 @@
+<start course metadata for 54-220 Acting A Song>
+Semester: Spring 2024 (aka S24)
+Course Name: Acting A Song
+Course Number: 54-220
+Department: Drama
+Number of Units: 4
+Prerequisites: 54-500
+Instructors: Gary Kline
+Rooms: PCA 313
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-220 Acting A Song>
+
+<start course description for 54-220 Acting A Song>
+Semester: Spring 2024 (aka S24)
+Course Description: This class is for Music Theatre majors only.  This class explores the personal relationships between performer and song. Exercises include Class Interrogation, Story Telling, and Text Analysis.  Based primarily on the personal experience the actor brings to the text, rather than technical aspects.  Acting a Song is the prerequisite for Cabaret class.
+</end course description for 54-220 Acting A Song>

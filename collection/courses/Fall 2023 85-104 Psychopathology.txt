@@ -1,0 +1,16 @@
+<start course metadata for 85-104 Psychopathology>
+Semester: Fall 2023 (aka F23)
+Course Name: Psychopathology
+Course Number: 85-104
+Department: Psychology
+Number of Units: 9
+Prerequisites: None
+Instructors: Kasey Creswell
+Rooms: HH B131
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 85-104 Psychopathology>
+
+<start course description for 85-104 Psychopathology>
+Semester: Fall 2023 (aka F23)
+Course Description: This course provides an introduction to the science and practice of psychopathology. Students will examine definitions of psychopathology in a historical and contemporary context, explore issues relevant to diagnosis and patient care, and be introduced to various diagnostic categories for psychological disorders. Students will also learn about potential determinants of and treatments for psychological disorders in the context of major theories and empirical findings in the field. Emphasis will be placed on three major paradigms in psychopathology: genetics, neuroscience, and cognitive behavioral. An assigned memoir, case studies, and short video clips will be used to illustrate the human side of mental illness.
+</end course description for 85-104 Psychopathology>

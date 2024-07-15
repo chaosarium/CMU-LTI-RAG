@@ -1,0 +1,16 @@
+<start course metadata for 54-231 Design for the Stage>
+Semester: Fall 2023 (aka F23)
+Course Name: Design for the Stage
+Course Number: 54-231
+Department: Drama
+Number of Units: 6
+Prerequisites: 54-171 and 54-172 and 54-169 and 54-170
+Instructors: Dick Block, Mindy Eshelman
+Rooms: PCA 305; PCA 307
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-231 Design for the Stage>
+
+<start course description for 54-231 Design for the Stage>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is divided into four minis to introduce the student to the design process for costumes, lighting, scenery and sound.  For Drama majors only, or instructor permission
+</end course description for 54-231 Design for the Stage>

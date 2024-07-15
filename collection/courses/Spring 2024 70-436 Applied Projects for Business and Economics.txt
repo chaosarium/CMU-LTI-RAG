@@ -1,0 +1,16 @@
+<start course metadata for 70-436 Applied Projects for Business and Economics>
+Semester: Spring 2024 (aka S24)
+Course Name: Applied Projects for Business and Economics
+Course Number: 70-436
+Department: Business Administration
+Number of Units: 9
+Prerequisites: None
+Instructors: Vaibhav Keshav
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 70-436 Applied Projects for Business and Economics>
+
+<start course description for 70-436 Applied Projects for Business and Economics>
+Semester: Spring 2024 (aka S24)
+Course Description: The Jewish Healthcare Foundation strives to make aging a joyful experience. With this vision in mind, a team of students will aim to conduct a market analysis in order to provide a report and presentation to the Foundation on areas such as policy, technology and/or infrastructure that counter aging mobility as a limiting factor. This exercise may cover a review of what exists in the aging space globally and/or specifically in the Pittsburgh community. Of note, in this project mobility may be defined broadly including areas such as transportation, physical limitations, use of technology etc.
+</end course description for 70-436 Applied Projects for Business and Economics>

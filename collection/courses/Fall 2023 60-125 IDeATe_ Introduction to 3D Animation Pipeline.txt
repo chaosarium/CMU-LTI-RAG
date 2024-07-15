@@ -1,0 +1,16 @@
+<start course metadata for 60-125 IDeATe: Introduction to 3D Animation Pipeline>
+Semester: Fall 2023 (aka F23)
+Course Name: IDeATe: Introduction to 3D Animation Pipeline
+Course Number: 60-125
+Department: Art
+Number of Units: 12
+Prerequisites: None
+Instructors: Moshe Mahler
+Rooms: CYH 100A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 60-125 IDeATe: Introduction to 3D Animation Pipeline>
+
+<start course description for 60-125 IDeATe: Introduction to 3D Animation Pipeline>
+Semester: Fall 2023 (aka F23)
+Course Description: This class will explore computer animation as it pertains to a professional animation production pipeline. The course is designed to give students exposure to key job descriptions that align to the animation industry. Topics covered include: character design, world building, storyboarding, digital sculpture, look development, rigging, layout, animation, cinematography, lighting, and rendering.  These topics are taught in 2-4 week sprints that allow a student to learn the fundamentals of each craft. In a mixture of class lectures, critiques, and training workshops,  students will become acquainted with the necessary skills needed to create their own characters and animations. By completion of the course, students will be familiar with industry-standard best practices and ready to take advanced courses related to animation, vfx, and video game related pipelines. This course specifically offers insight on how the craft of animation is always evolving at top studios such as Walt Disney Animation Studios, Pixar, and Industrial Light and Magic.
+</end course description for 60-125 IDeATe: Introduction to 3D Animation Pipeline>

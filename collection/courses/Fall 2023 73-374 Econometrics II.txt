@@ -1,0 +1,16 @@
+<start course metadata for 73-374 Econometrics II>
+Semester: Fall 2023 (aka F23)
+Course Name: Econometrics II
+Course Number: 73-374
+Department: Economics
+Number of Units: 9
+Prerequisites: (21-256 or 21-259 or 21-268 or 21-269) and (73-230) and (73-274)
+Instructors: Vaibhav Keshav
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 73-374 Econometrics II>
+
+<start course description for 73-374 Econometrics II>
+Semester: Fall 2023 (aka F23)
+Course Description: The material covered in this course extends from the material covered in Econometrics I (73-274).  The course will include both the theory behind the methods and a hands-on analysis of actual data, providing students the tools for both research and industry jobs. Theories and methodologies covered will include:   nonlinear regression models, qualitative response regression models, panel data estimators, simultaneous-equation models, and time series.  (Lecture, 3 hours; Recitation, 1 hour). Minimum grade of "C" required in all economics and statistics pre-requisite courses.
+</end course description for 73-374 Econometrics II>

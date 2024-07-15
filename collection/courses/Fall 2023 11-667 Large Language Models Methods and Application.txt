@@ -1,0 +1,16 @@
+<start course metadata for 11-667 Large Language Models Methods and Application>
+Semester: Fall 2023 (aka F23)
+Course Name: Large Language Models Methods and Application
+Course Number: 11-667
+Department: Language Technologies Institute
+Number of Units: 12
+Prerequisites: 10-601 or 10-701 or 11-685 or 11-785 or 11-711
+Instructors: Chenyan Xiong, Daphne Ippolito
+Rooms: BH A51
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 11-667 Large Language Models Methods and Application>
+
+<start course description for 11-667 Large Language Models Methods and Application>
+Semester: Fall 2023 (aka F23)
+Course Description: This course provides a broad foundation for understanding, working with, and adapting existing tools and technologies in the area of Large Language Models like BERT, T5, GPT, and others.  It begins with a short history of the area of language models and quickly transitions to a broad survey of the area, offering exposure to the gamut of topics including systems, data, data filtering, training objectives, RLHF/instruction tuning, ethics, policy, evaluation, and other human facing issues. Students will delve into Transformer architectures more broadly and how they work, as well as exploring the reasons why they are better than LSTM-based seq2seq, decoding strategies, etc. Students will learn through readings and hands-on assignments where they will explore techniques for pretraining, attention, prompting, etc. They will then apply these skills in a semester-long course project, making use of locally sourced model instances that offer the opportunity to explore behind the curtain of commercial APIs.
+</end course description for 11-667 Large Language Models Methods and Application>

@@ -1,0 +1,16 @@
+<start course metadata for 84-317 Defense PPBE in the Age of Emerging Technologies>
+Semester: Spring 2024 (aka S24)
+Course Name: Defense PPBE in the Age of Emerging Technologies
+Course Number: 84-317
+Department: Institute for Politics and Strategy
+Number of Units: 6
+Prerequisites: None
+Instructors: Daniel Zisa
+Rooms: WEH 5328
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 84-317 Defense PPBE in the Age of Emerging Technologies>
+
+<start course description for 84-317 Defense PPBE in the Age of Emerging Technologies>
+Semester: Spring 2024 (aka S24)
+Course Description: This course offers a comprehensive, strategic inquiry into the Department of Defense Planning, Programming, Budgeting, and Execution (PPBE) Policy. Focusing on the critical intersection of emerging technologies and the future of warfare, students will undertake a thorough evaluation of the existing PPBE framework. The course aims to unpack the system's viability, vulnerabilities, and adaptive capacity in a rapidly evolving technological landscape. Students will not only assess how well the PPBE process responds to current challenges but also evaluate its efficacy in proactively preparing the nation and its military for the future of warfare. Through a blend of critical analysis and strategic thinking, this course provides an invaluable perspective on the adaptability of defense planning mechanisms to technological advancements and emerging threats.
+</end course description for 84-317 Defense PPBE in the Age of Emerging Technologies>

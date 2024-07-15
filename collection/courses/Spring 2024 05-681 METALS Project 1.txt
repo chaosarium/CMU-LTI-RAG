@@ -1,0 +1,16 @@
+<start course metadata for 05-681 METALS Project 1>
+Semester: Spring 2024 (aka S24)
+Course Name: METALS Project 1
+Course Number: 05-681
+Department: Human-Computer Interaction
+Number of Units: 12
+Prerequisites: 05-823 and 85-738 and 05-840 and 05-392
+Instructors: Bruce McLaren, Kenneth Koedinger
+Rooms: TEP 1308
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 05-681 METALS Project 1>
+
+<start course description for 05-681 METALS Project 1>
+Semester: Spring 2024 (aka S24)
+Course Description: Metals Project 1
+</end course description for 05-681 METALS Project 1>

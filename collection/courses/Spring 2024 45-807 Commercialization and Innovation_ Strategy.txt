@@ -1,0 +1,16 @@
+<start course metadata for 45-807 Commercialization and Innovation: Strategy>
+Semester: Spring 2024 (aka S24)
+Course Name: Commercialization and Innovation: Strategy
+Course Number: 45-807
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Craig Markovitz, Jim Jen
+Rooms: TEP 2110
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-807 Commercialization and Innovation: Strategy>
+
+<start course description for 45-807 Commercialization and Innovation: Strategy>
+Semester: Spring 2024 (aka S24)
+Course Description: Commercialization and Innovation, Strategy (45-807) focuses on innovation (transformational or disruptive innovations and by sustained innovations) and on the development of open innovation business models and market strategies required to introduce these innovations into the market, grow thru market share capture, and to establish dominant market positions.  Students will gain a perspective of various current theories and models of innovation, how innovations are brought to the market and positioned for successful launch and subsequent growth.  Students study and discuss both successful and unsuccessful attempts to bring innovations to the market via a series of lectures, readings, and case discussions.  The first mini course focuses on the upfront strategic market thinking that must be the basis of a proactive and potent business plan to introduce innovations to the marketplace.  It is the result of intense understanding of the SET factors (social, economic, and technology) and industry dynamics into which the opportunity will be introduced.  It is strategic because of rapid changes in the marketplace and the competitive-set which the opportunity must confront for execution in the emerging marketplace (emergent strategy or agile approach).  Student teams are expected to take on a project determined by the team (with faculty approval) or framed by an outside organization (within or external to CMU).  The goal of the project in Mini 1 is to understand the industry dynamics and competitive set, to identify a market based on use of an "agile needs-driven innovation" methodology (job + job executor + context defines the market), and to segment the market based on identification of "jobs to be done" by the job executors. These are the drivers for identification of a successful Minimum Viable Product (MVP), a market entry point, and development of a differentiating strategy and self-sustained growth strategy.
+</end course description for 45-807 Commercialization and Innovation: Strategy>

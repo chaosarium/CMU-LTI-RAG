@@ -1,0 +1,16 @@
+<start course metadata for 15-795 Topics of Algorithmic Problem Solving>
+Semester: Fall 2023 (aka F23)
+Course Name: Topics of Algorithmic Problem Solving
+Course Number: 15-795
+Department: Computer Science
+Number of Units: 12
+Prerequisites: None
+Instructors: Yang Peng
+Rooms: DH 1212
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-795 Topics of Algorithmic Problem Solving>
+
+<start course description for 15-795 Topics of Algorithmic Problem Solving>
+Semester: Fall 2023 (aka F23)
+Course Description: This course aims to give implementation motivated perspectives on some algorithmic ideas that fall outside of the scopes of most courses. It is intended for graduate students, as well as undergraduate students who have high grades in 15-210, 15-251, 15-259 (and preferably 15-451). Evaluation will consist of about 30 auto-graded coding tasks, plus either participation in the East Central NA ICPC Regional Contest, or presentations of problem-solving reports from the Chinese IOI Team Selection Camp. The first half of the course will discuss floating point precision, numerical approximation schemes, heuristic search, usage of optimization packages, and vectorization. The second half will provide high-level surveys of 2-D range update & query data structures, proactive propagation, palindromic automata, automated recurrence finding, and maximum adjacency search.
+</end course description for 15-795 Topics of Algorithmic Problem Solving>

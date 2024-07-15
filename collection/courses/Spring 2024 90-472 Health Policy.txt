@@ -1,0 +1,16 @@
+<start course metadata for 90-472 Health Policy>
+Semester: Spring 2024 (aka S24)
+Course Name: Health Policy
+Course Number: 90-472
+Department: Public Policy & Mgt:Sch of Pub Pol & Mgt
+Number of Units: 6
+Prerequisites: 90-436
+Instructors: David Dausey
+Rooms: HBH 1005
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 90-472 Health Policy>
+
+<start course description for 90-472 Health Policy>
+Semester: Spring 2024 (aka S24)
+Course Description: This course introduces students to the concepts, theories, and tools of health policy. The aims of this course are to provide students with (1) the ability to identify key problems facing the United States health system, (2) increase the appreciation for and understanding of health policy as an important and useful tool for enhancing population health, and (3) mechanisms to address a current health policy issue from legal, economic, behavioral, and political perspectives. In addition, students will be introduced to a cross-national comparison of health systems.
+</end course description for 90-472 Health Policy>

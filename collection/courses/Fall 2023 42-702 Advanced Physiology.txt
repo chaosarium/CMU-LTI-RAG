@@ -1,0 +1,16 @@
+<start course metadata for 42-702 Advanced Physiology>
+Semester: Fall 2023 (aka F23)
+Course Name: Advanced Physiology
+Course Number: 42-702
+Department: Biomedical Engineering
+Number of Units: 12
+Prerequisites: 03-121
+Instructors: Phil Campbell
+Rooms: DH 1212
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 42-702 Advanced Physiology>
+
+<start course description for 42-702 Advanced Physiology>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is an introduction to human physiology and includes units on all major organ systems.  Particular emphasis is given to the musculoskeletal, cardiovascular, respiratory, digestive, excretory, and endocrine systems.  Modules on molecular physiology tissue engineering and physiological modeling are also included.  Due to the close interrelationship between structure and function in biological systems, each functional topic will be introduced through a brief exploration of anatomical structure.  Basic physical laws and principles will be explored as they relate to physiologic function.  Prerequisite:  03-121 Modern Biology, or permission of instructor.
+</end course description for 42-702 Advanced Physiology>

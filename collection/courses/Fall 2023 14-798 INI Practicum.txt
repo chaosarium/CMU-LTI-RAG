@@ -1,0 +1,16 @@
+<start course metadata for 14-798 INI Practicum>
+Semester: Fall 2023 (aka F23)
+Course Name: INI Practicum
+Course Number: 14-798
+Department: Information Networking Institute
+Number of Units: 24
+Prerequisites: None
+Instructors: Cynthia Kuo, Sujata Telang
+Rooms: B23 227; INI DEC
+Locations: Pittsburgh, Pennsylvania; San Jose, California
+</end course metadata for 14-798 INI Practicum>
+
+<start course description for 14-798 INI Practicum>
+Semester: Fall 2023 (aka F23)
+Course Description: Fall: 24 units. This course provides the opportunity to consolidate and apply the skills and knowledge developed in previous coursework in a team-based approach to a real problem. A team of students works with a real-world client on a real-world problem of value to the client. Most important, this is an opportunity to apply the team's advanced engineering and management skills, including the specialized knowledge and skills needed to solve a real problem. In particular, team members must learn to work effectively with clients, quickly understand their problem, negotiate deliverables, and then select, adapt, and apply just the right amount of process and documentation to meet clients' needs and effectively manage the project. Prerequisites: Graduate standing and instructor's permission.
+</end course description for 14-798 INI Practicum>

@@ -1,0 +1,6 @@
+Name: Lei Li
+Title: Assistant Professor
+Email  leili@andrew.cmu.edu
+Phone: 412-268-6355
+Office: 
+Interests: Machine Learning, Machine Translation, Large Language Models, AI Drug Discovery

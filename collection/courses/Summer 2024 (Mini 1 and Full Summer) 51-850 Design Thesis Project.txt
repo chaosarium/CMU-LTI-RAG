@@ -1,0 +1,16 @@
+<start course metadata for 51-850 Design Thesis Project>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Design Thesis Project
+Course Number: 51-850
+Department: Design
+Number of Units: N/A
+Prerequisites: None
+Instructors: Stacie Rohrbach
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-850 Design Thesis Project>
+
+<start course description for 51-850 Design Thesis Project>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: Student defined project in the culmination of the Master of Design program. Instructor permission only.
+</end course description for 51-850 Design Thesis Project>

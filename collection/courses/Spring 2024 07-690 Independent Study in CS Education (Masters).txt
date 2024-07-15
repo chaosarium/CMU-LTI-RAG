@@ -1,0 +1,16 @@
+<start course metadata for 07-690 Independent Study in CS Education (Masters)>
+Semester: Spring 2024 (aka S24)
+Course Name: Independent Study in CS Education (Masters)
+Course Number: 07-690
+Department: SCS Interdisciplinary
+Number of Units: N/A
+Prerequisites: None
+Instructors: Charles Garrod, Thomas Cortina
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 07-690 Independent Study in CS Education (Masters)>
+
+<start course description for 07-690 Independent Study in CS Education (Masters)>
+Semester: Spring 2024 (aka S24)
+Course Description: Description: An independent study course to allow motivated students to work on CS education projects under the supervision of a faculty advisor. Includes the development of a pedagogical study, reading of research papers or texts on CS education, or other suitable activities to learn about the teaching of computer science. Presentation of research or study results required. Independent studies are usually one semester in duration and require prior approval from the faculty advisor and the School of Computer Science.
+</end course description for 07-690 Independent Study in CS Education (Masters)>

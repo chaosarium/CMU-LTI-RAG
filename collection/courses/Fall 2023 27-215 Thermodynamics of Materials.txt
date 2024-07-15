@@ -1,0 +1,16 @@
+<start course metadata for 27-215 Thermodynamics of Materials>
+Semester: Fall 2023 (aka F23)
+Course Name: Thermodynamics of Materials
+Course Number: 27-215
+Department: Materials Science & Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: P. Chris Pistorius
+Rooms: POS 146; WEH 5409
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 27-215 Thermodynamics of Materials>
+
+<start course description for 27-215 Thermodynamics of Materials>
+Semester: Fall 2023 (aka F23)
+Course Description: The first half of the course will focus on the laws of thermodynamics and the inter-relations between heat, work and energy.  The concept of an equilibrium state of a system will be introduced and conditions which must be satisfied for a system to be at equilibrium will be established and discussed and the concepts of activity and chemical potential introduced.   The second half of the course will focus on chemical reactions, liquid and solid solutions, and relationships between the thermodynamics of solutions and binary phase diagrams.
+</end course description for 27-215 Thermodynamics of Materials>

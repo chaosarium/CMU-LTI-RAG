@@ -1,0 +1,16 @@
+<start course metadata for 85-417 Multilingual Minds and the Brain>
+Semester: Fall 2023 (aka F23)
+Course Name: Multilingual Minds and the Brain
+Course Number: 85-417
+Department: Psychology
+Number of Units: 9
+Prerequisites: 36-309 or 85-309 or 85-310 or 85-330 or 85-320 or 85-340
+Instructors: Emilia Ezrina
+Rooms: BH 340A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 85-417 Multilingual Minds and the Brain>
+
+<start course description for 85-417 Multilingual Minds and the Brain>
+Semester: Fall 2023 (aka F23)
+Course Description: Does multilingualism change your mind, literally and figuratively? In this course, we will examine several topics related to the differences between mono- and multilinguals. First, how juggling several languages in one brain may "train" certain skills so the multilingual mind processes information differently, even when that information is not language related. Second, how patterns of neural activation may also differ in mono- and multilinguals, changing language processing at that level. Third, how contexts of use and acquisition of different languages may affect how we process information in each one, changing how one makes decisions in each language they speak. We will use original sources to try and answer that initial question. Further, we will analyze published research and propose ways of developing it further.
+</end course description for 85-417 Multilingual Minds and the Brain>

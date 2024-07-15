@@ -1,0 +1,16 @@
+<start course metadata for 84-266 Research Design for Political Science>
+Semester: Fall 2023 (aka F23)
+Course Name: Research Design for Political Science
+Course Number: 84-266
+Department: Institute for Politics and Strategy
+Number of Units: 9
+Prerequisites: None
+Instructors: Hanzhang Liu
+Rooms: BH 235B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 84-266 Research Design for Political Science>
+
+<start course description for 84-266 Research Design for Political Science>
+Semester: Fall 2023 (aka F23)
+Course Description: This course develops foundational skills in causal inference and research design in political science. It prepares students to read, interpret, and critique research effectively, and helps them begin the process of learning how to conduct original empirical research in political science. Students will learn how to formulate research questions, generate hypotheses, and design appropriate tests of those hypotheses. They will also gain exposure to different analytical methods in the field, including case studies, surveys, interviews, natural experiments, field experiments, and game theory.
+</end course description for 84-266 Research Design for Political Science>

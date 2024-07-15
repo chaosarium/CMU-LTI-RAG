@@ -1,0 +1,16 @@
+<start course metadata for 88-230 Human Intelligence and Human Stupidity>
+Semester: Fall 2023 (aka F23)
+Course Name: Human Intelligence and Human Stupidity
+Course Number: 88-230
+Department: Social & Decision Sciences
+Number of Units: 9
+Prerequisites: None
+Instructors: Danny Oppenheimer
+Rooms: BH A36; POS 152
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 88-230 Human Intelligence and Human Stupidity>
+
+<start course description for 88-230 Human Intelligence and Human Stupidity>
+Semester: Fall 2023 (aka F23)
+Course Description: By some standards, humans are an incredibly intelligent species. We have set foot on the moon, split the atom, and produced extraordinary works of art and literature (including the complete works of Shakespeare, which, despite theoretical accounts to the contrary, no amount of monkeys on typewriters has ever been able to duplicate). And yet. we are also the species that has brought about the Darwin Awards, spent $125 million sending a probe to Mars which was unable to function because engineers failed to convert inches to centimeters, and produced cringe-worthy works of art and literature (including the 1964 movie "Santa Claus Conquers the Martians" which no amount of monkeys on typewriters would ever want to duplicate.). What is intelligence and how does it vary across individuals and over our lifespans? What are we good at, and what are we bad at, and why? Are there things that that make us dumber? Are there things we can do to make ourselves smarter? How should what we know about the range of human intellectual abilities guide policy, education, law, medicine, and business; what implications does this have regarding the tasks/jobs that humans should be doing and the tasks/jobs that machines ought to do? Using cutting edge research from psychology and decision science, this course will explore the strange contradiction that defines the human experience: How are we simultaneously so smart and so dumb?
+</end course description for 88-230 Human Intelligence and Human Stupidity>

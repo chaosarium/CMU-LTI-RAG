@@ -1,0 +1,16 @@
+<start course metadata for 15-513 Introduction to Computer Systems>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Introduction to Computer Systems
+Course Number: 15-513
+Department: Computer Science
+Number of Units: N/A
+Prerequisites: None
+Instructors: Brian Railing
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-513 Introduction to Computer Systems>
+
+<start course description for 15-513 Introduction to Computer Systems>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: This course provides a programmer's view of how computer systems execute programs, store information, and communicate. It enables students to become more effective programmers, especially in dealing with issues of performance, portability and robustness. It also serves as a foundation for courses on compilers, networks, operating systems, and computer architecture, where a deeper understanding of systems-level issues is required. Topics covered include: machine-level code and its generation by optimizing compilers, performance evaluation and optimization, computer arithmetic, memory organization and management, networking technology and protocols, and supporting concurrent computation. **This course is not available to undergraduates.**
+</end course description for 15-513 Introduction to Computer Systems>

@@ -1,0 +1,16 @@
+<start course metadata for 16-597 Undergraduate Reading and Research>
+Semester: Fall 2023 (aka F23)
+Course Name: Undergraduate Reading and Research
+Course Number: 16-597
+Department: Robotics
+Number of Units: N/A
+Prerequisites: None
+Instructors: Cameron Riviere
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 16-597 Undergraduate Reading and Research>
+
+<start course description for 16-597 Undergraduate Reading and Research>
+Semester: Fall 2023 (aka F23)
+Course Description: Undergraduate Reading and Research enables students to gain academic credits for conducing independent studies in robotics.  Students must work with a robotics faculty advisor to devise a specific objective, activities (such as reading, evaluating, designing, coding, building, or testing robotic systems) and metrics for evaluation of their performance by their advisor.
+</end course description for 16-597 Undergraduate Reading and Research>

@@ -1,0 +1,16 @@
+<start course metadata for 51-824 Basic 3D Prototyping>
+Semester: Fall 2023 (aka F23)
+Course Name: Basic 3D Prototyping
+Course Number: 51-824
+Department: Design
+Number of Units: 6
+Prerequisites: None
+Instructors: Josiah Stadelmeier
+Rooms: PH A27
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-824 Basic 3D Prototyping>
+
+<start course description for 51-824 Basic 3D Prototyping>
+Semester: Fall 2023 (aka F23)
+Course Description: A half-semester laboratory mini-course introducing a range of materials, methods, and workshop techniques by which designers prototype designs in three dimensions. Basic competence in 3D Lab (shop) techniques is established by bringing to realization a series of simple artifacts. Studio and model shop tools are required. Lab fee. Instructor permission required for non-Design grad students.
+</end course description for 51-824 Basic 3D Prototyping>

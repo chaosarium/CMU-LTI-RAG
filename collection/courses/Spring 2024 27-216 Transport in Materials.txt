@@ -1,0 +1,16 @@
+<start course metadata for 27-216 Transport in Materials>
+Semester: Spring 2024 (aka S24)
+Course Name: Transport in Materials
+Course Number: 27-216
+Department: Materials Science & Engineering
+Number of Units: 9
+Prerequisites: 27-215 and 27-210
+Instructors: Elias Towe, P. Chris Pistorius
+Rooms: BH 140B; BH A53
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 27-216 Transport in Materials>
+
+<start course description for 27-216 Transport in Materials>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is designed to allow the student to become familiar with the fundamental principles of heat flow, fluid flow, mass transport and reaction kinetics. In addition, the student will develop the skills and methodologies necessary to apply these principles to problems related to materials manufacture and processing. Topics will include thermal conductivity, convection, heat transfer equations, an introduction to fluid phenomena viscosity, etc., Newtons and Stokes Laws, mass momentum balances in fluids, boundary layer theory, diffusion and absolute reaction rate theory. Where appropriate, examples will be taken from problems related to the design of components and the processing of materials.
+</end course description for 27-216 Transport in Materials>

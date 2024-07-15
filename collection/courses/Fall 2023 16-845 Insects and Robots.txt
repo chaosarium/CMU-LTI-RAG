@@ -1,0 +1,16 @@
+<start course metadata for 16-845 Insects and Robots>
+Semester: Fall 2023 (aka F23)
+Course Name: Insects and Robots
+Course Number: 16-845
+Department: Robotics
+Number of Units: 12
+Prerequisites: None
+Instructors: Zeynep Temel
+Rooms: NSH 3002
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 16-845 Insects and Robots>
+
+<start course description for 16-845 Insects and Robots>
+Semester: Fall 2023 (aka F23)
+Course Description: This course will cover all facets of modeling, design, fabrication, and analysis of robots operating on the insect scale, with a microrobotics perspective. Insects can perform different tasks, such as manipulation or locomotion, with their small scale bodies varying from 200m to 16cm length. Similarly, we can define a micro-robotic system as an autonomous or semi-autonomous device with features on the micron scale or that make use of micron-scale physics for mobility or manipulation of objects. Due to their small size scales, microrobots will encounter difficulties unlike their macro-scale counterparts, in terms of fabrication and autonomy. In this project-based course, our aim will be on learning the physics of scaling, fabrication paradigms, actuation and sensing strategies, with numerous case studies, and to build an insect-inspired robotic system. We will also discuss multiple applications such as surgical robotics, mobile microrobots, multi-agent systems, and micro/nano manipulation.
+</end course description for 16-845 Insects and Robots>

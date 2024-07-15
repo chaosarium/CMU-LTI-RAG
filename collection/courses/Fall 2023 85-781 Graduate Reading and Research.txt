@@ -1,0 +1,16 @@
+<start course metadata for 85-781 Graduate Reading and Research>
+Semester: Fall 2023 (aka F23)
+Course Name: Graduate Reading and Research
+Course Number: 85-781
+Department: Psychology
+Number of Units: N/A
+Prerequisites: None
+Instructors: Vicki Helgeson
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 85-781 Graduate Reading and Research>
+
+<start course description for 85-781 Graduate Reading and Research>
+Semester: Fall 2023 (aka F23)
+Course Description: This research-based course provides an intellectual foundation for the student to critically evaluate research, to generate ideas for research, to conduct research, and to disseminate research findings. Students engage in these activities with mentorship from their advisor and committee members. To this end, it is recommended that students meet with their advisor weekly toward the beginning of their graduate career and on an ?as needed basis? toward the end of their graduate career.
+</end course description for 85-781 Graduate Reading and Research>

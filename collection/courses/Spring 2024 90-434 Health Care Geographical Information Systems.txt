@@ -1,0 +1,16 @@
+<start course metadata for 90-434 Health Care Geographical Information Systems>
+Semester: Spring 2024 (aka S24)
+Course Name: Health Care Geographical Information Systems
+Course Number: 90-434
+Department: Public Policy & Mgt:Sch of Pub Pol & Mgt
+Number of Units: 12
+Prerequisites: 91-802 or 90-838 or 90-728 or 67-262
+Instructors: Kristen Kurland
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 90-434 Health Care Geographical Information Systems>
+
+<start course description for 90-434 Health Care Geographical Information Systems>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is taught with asynchronous video lectures and readings with in-person and remote office hours. A geographic information system (GIS) provides an effective way to visualize, organize and manage a wide variety of information including administrative and medical record data, environmental health, social services, and other location data. Public health departments, hospitals, and medical research agencies are using GIS to map health-related events, identify disease clusters, investigate environmental health problems, and understand the spread of disease. This course uses a unique approach for teaching GIS in health care. It involves learning how to use GIS software in the context of carrying out projects for visualizing and analyzing health-related data. Each week includes lectures and computer labs that focus on a health, technical, or policy issue which use Esri's ArcGIS Pro and Platform technologies to analyze data or solve a problem. Students learn to create Story Maps and Dashboards to convey their maps and associated text to the public and decision makers. Through assignments and projects students will not only learn how to use the software but will also learn the many distinctive advantages of using GIS for health care policy making and planning. By the end of the course, students will have sufficient background so that they can become expert users of GIS in health organizations - building, managing, and using GIS maps and health data. Prerequisites: 90-728 Introduction to Database Management, 91-802 Information Systems for Managers or permission of instructor.
+</end course description for 90-434 Health Care Geographical Information Systems>

@@ -1,0 +1,16 @@
+<start course metadata for 09-001 Chemistry Elective>
+Semester: Summer Two 2024 (aka M24, M24 Mini 2, Summer 2024 Mini 2)
+Course Name: Chemistry Elective
+Course Number: 09-001
+Department: Chemistry
+Number of Units: N/A
+Prerequisites: None
+Instructors: Karen Stump
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 09-001 Chemistry Elective>
+
+<start course description for 09-001 Chemistry Elective>
+Semester: Summer Two 2024 (aka M24, M24 Mini 2, Summer 2024 Mini 2)
+Course Description: No course description provided.
+</end course description for 09-001 Chemistry Elective>

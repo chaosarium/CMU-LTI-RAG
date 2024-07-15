@@ -1,0 +1,16 @@
+<start course metadata for 98-165 Student Taught Courses (StuCo): The Ultimate Heavy Metal Class>
+Semester: Spring 2024 (aka S24)
+Course Name: Student Taught Courses (StuCo): The Ultimate Heavy Metal Class
+Course Number: 98-165
+Department: StuCo (Student Led Courses)
+Number of Units: 3
+Prerequisites: None
+Instructors: Fred Wang
+Rooms: GHC 4211
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 98-165 Student Taught Courses (StuCo): The Ultimate Heavy Metal Class>
+
+<start course description for 98-165 Student Taught Courses (StuCo): The Ultimate Heavy Metal Class>
+Semester: Spring 2024 (aka S24)
+Course Description: An introduction to the Heavy Metal music genre that includes its history, culture, and subgenres.
+</end course description for 98-165 Student Taught Courses (StuCo): The Ultimate Heavy Metal Class>

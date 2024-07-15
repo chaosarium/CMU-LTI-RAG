@@ -1,0 +1,16 @@
+<start course metadata for 57-995 Music Education Thesis>
+Semester: Spring 2024 (aka S24)
+Course Name: Music Education Thesis
+Course Number: 57-995
+Department: Music
+Number of Units: N/A
+Prerequisites: None
+Instructors: Susan Raponi
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-995 Music Education Thesis>
+
+<start course description for 57-995 Music Education Thesis>
+Semester: Spring 2024 (aka S24)
+Course Description: TBA
+</end course description for 57-995 Music Education Thesis>

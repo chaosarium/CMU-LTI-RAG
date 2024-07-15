@@ -1,0 +1,16 @@
+<start course metadata for 57-020 Flute Studio Performance Class>
+Semester: Spring 2024 (aka S24)
+Course Name: Flute Studio Performance Class
+Course Number: 57-020
+Department: Music
+Number of Units: 0
+Prerequisites: None
+Instructors: Alberto Almarza, Lorna McGhee
+Rooms: MM 119
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-020 Flute Studio Performance Class>
+
+<start course description for 57-020 Flute Studio Performance Class>
+Semester: Spring 2024 (aka S24)
+Course Description: TBA
+</end course description for 57-020 Flute Studio Performance Class>

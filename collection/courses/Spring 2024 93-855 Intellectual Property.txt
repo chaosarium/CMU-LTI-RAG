@@ -1,0 +1,16 @@
+<start course metadata for 93-855 Intellectual Property>
+Semester: Spring 2024 (aka S24)
+Course Name: Intellectual Property
+Course Number: 93-855
+Department: Arts & Entertainment Management
+Number of Units: 6
+Prerequisites: None
+Instructors: Adam Hime
+Rooms: DNM DNM
+Locations: Los Angeles, California
+</end course metadata for 93-855 Intellectual Property>
+
+<start course description for 93-855 Intellectual Property>
+Semester: Spring 2024 (aka S24)
+Course Description: The objective of this course is to provide students with a practical understanding of the underlying legal principles of intellectual property laws regulating the creation and exhibition of entertainment content. The class covers the basic legal concepts of intellectual property law, including case study, but is aimed at non-lawyers and non-law students.
+</end course description for 93-855 Intellectual Property>

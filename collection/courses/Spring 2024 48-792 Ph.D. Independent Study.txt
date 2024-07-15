@@ -1,0 +1,16 @@
+<start course metadata for 48-792 Ph.D. Independent Study>
+Semester: Spring 2024 (aka S24)
+Course Name: Ph.D. Independent Study
+Course Number: 48-792
+Department: Architecture
+Number of Units: N/A
+Prerequisites: None
+Instructors: Azadeh Sawyer, Dana Cupkova, Daniel Cardoso Llach, Daragh Byrne, Diane Shaw, Douglas Cooper, Erica Cochran, Gerard Damiani, Instructor TBA, Joshua Bard, Joshua Lee, Kai Gutschow, Man Kim, Nida Rehman, Nina Baird, Ramesh Krishnamurti, Stefan Gruber, Vivian Loftness
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-792 Ph.D. Independent Study>
+
+<start course description for 48-792 Ph.D. Independent Study>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is for students who wish to pursue work independent of all other courses offered, but consistent with the direction of the Ph.D. Programs.     Prerequisites: Written proposal for work by a faculty member teaching in the Ph.D. Program, and his/her agreement to advise the student. Both student and faculty must be in residence.      Instructor(s):  Units: 36
+</end course description for 48-792 Ph.D. Independent Study>

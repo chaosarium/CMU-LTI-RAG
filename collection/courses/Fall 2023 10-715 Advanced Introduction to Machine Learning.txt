@@ -1,0 +1,16 @@
+<start course metadata for 10-715 Advanced Introduction to Machine Learning>
+Semester: Fall 2023 (aka F23)
+Course Name: Advanced Introduction to Machine Learning
+Course Number: 10-715
+Department: Machine Learning
+Number of Units: 12
+Prerequisites: (15-122) and (21-128 or 21-127 or 15-151) and (15-259 or 15-359 or 36-225 or 36-217 or 21-325 or 36-218)
+Instructors: Nihar Shah
+Rooms: POS 152
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 10-715 Advanced Introduction to Machine Learning>
+
+<start course description for 10-715 Advanced Introduction to Machine Learning>
+Semester: Fall 2023 (aka F23)
+Course Description: Machine Learning is the primary pillar that Artificial Intelligence is built upon. This course is designed for Ph.D. students whose primary field of study is machine learning, and who intend to make machine learning methodological research a main focus of their thesis. It will give students a thorough grounding in the algorithms, mathematics, theories, and insights needed to do in-depth research and applications in machine learning. The topics of this course will in part parallel those covered in the general PhD-level machine learning course (10-701), but with a greater emphasis on depth in theory. Students entering the class are expected to have a pre-existing strong working knowledge of linear algebra, probability, statistics, and algorithms. The course will also involve programming in Python. If you are interested in this topic, but do not have the required background or are not planning to work on a PhD thesis with machine learning as the main focus, you might consider the general PhD-level Machine Learning course (10-701) or the Masters-level Machine Learning course (10-601). You can find a webpage to the Intro to ML course comparison page, which includes a self-assessment exam to help you choose which Intro to ML course to take, in the Course URL field.
+</end course description for 10-715 Advanced Introduction to Machine Learning>

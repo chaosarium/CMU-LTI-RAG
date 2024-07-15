@@ -1,0 +1,16 @@
+<start course metadata for 57-146 Elective Studio (Electronic and Computer Music)>
+Semester: Fall 2023 (aka F23)
+Course Name: Elective Studio (Electronic and Computer Music)
+Course Number: 57-146
+Department: Music
+Number of Units: N/A
+Prerequisites: None
+Instructors: Nomi Marcus
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-146 Elective Studio (Electronic and Computer Music)>
+
+<start course description for 57-146 Elective Studio (Electronic and Computer Music)>
+Semester: Fall 2023 (aka F23)
+Course Description: No course description provided.
+</end course description for 57-146 Elective Studio (Electronic and Computer Music)>

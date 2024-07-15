@@ -1,0 +1,16 @@
+<start course metadata for 18-370 Fundamentals of Control>
+Semester: Fall 2023 (aka F23)
+Course Name: Fundamentals of Control
+Course Number: 18-370
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: 24-352 or 18-290
+Instructors: Yorie Nakahira
+Rooms: MM 103
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-370 Fundamentals of Control>
+
+<start course description for 18-370 Fundamentals of Control>
+Semester: Fall 2023 (aka F23)
+Course Description: This junior/senior-level undergraduate course introduces the fundamental principles and methodologies of classical feedback control of linear systems and its applications. Emphasis is on understanding physical principles in feedback systems, practical problem formulation and the analysis and synthesis of feedback control systems using frequency and time domain techniques. The covered material provides a foundation for further studies toward careers in motion control, automation, control electronics, robotics, systems science and engineering. The practical knowledge in this course represents necessary tools to design a broad variety of systems such as robots, servo and tracking systems, feedback circuits, phase-locked loops, and microelectromechanical systems.  Topics include analytical, graphical and computer-aided techniques (MATLAB/Simulink) for analyzing, designing and realizing of feedback control systems; Laplace transforms and associated transfer function modeling; root-locus and frequency response (Bode plot) design; pole-zero synthesis techniques; analysis of trade-offs in performance: stability, transient response, steady-state error, disturbance rejection, and robustness; design and implementation of PID, lead-lag, and loop shaping compensators. If time permits, the course will include a cursory introduction to state space modeling, systems with delay and computer control systems.
+</end course description for 18-370 Fundamentals of Control>

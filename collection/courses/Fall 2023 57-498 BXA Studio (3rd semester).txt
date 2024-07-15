@@ -1,0 +1,16 @@
+<start course metadata for 57-498 BXA Studio (3rd semester)>
+Semester: Fall 2023 (aka F23)
+Course Name: BXA Studio (3rd semester)
+Course Number: 57-498
+Department: Music
+Number of Units: 9
+Prerequisites: 57-497
+Instructors: Alberto Almarza, Alexandra Gruber, Andres Cardenes, Andrew Carlisle, Anne Williams, Christopher Allen, Christopher Wu, Craig Knox, Cynthia Dealmeida, Daniel Teadt, David Harding, David Premo, Eric Defade, Frederic Chiu, George Vosburgh, Gretchen Van Hoesen, Instructor TBA, James Ferla, James Houlik, Jason Kush, Jeffrey Dee, Jennifer Aylmer, Jeremy Branson, Katherine Shields, Lance Laduke, Lorna McGhee, Maria Spacagna, Micah Howard, Michael Rusinek, Nancy Galbraith, Nancy Goeres, Neal Berntsen, Paul Evans, Peter Sullivan, R. James Whipple, Rebecca Cherian, Sergey Schepkin, Stephen Kostyniak, Thomas Thompson, William Caballero, William van der Sloot
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-498 BXA Studio (3rd semester)>
+
+<start course description for 57-498 BXA Studio (3rd semester)>
+Semester: Fall 2023 (aka F23)
+Course Description: TBA
+</end course description for 57-498 BXA Studio (3rd semester)>

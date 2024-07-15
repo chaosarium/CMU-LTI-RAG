@@ -1,0 +1,16 @@
+<start course metadata for 57-665 History of the Piano>
+Semester: Spring 2024 (aka S24)
+Course Name: History of the Piano
+Course Number: 57-665
+Department: Music
+Number of Units: 3
+Prerequisites: None
+Instructors: Peter Stumpf
+Rooms: HOA 224
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-665 History of the Piano>
+
+<start course description for 57-665 History of the Piano>
+Semester: Spring 2024 (aka S24)
+Course Description: None
+</end course description for 57-665 History of the Piano>

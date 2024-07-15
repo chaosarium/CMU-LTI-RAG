@@ -1,0 +1,16 @@
+<start course metadata for 82-881 Research Methods in Second Language Acquisition>
+Semester: Spring 2024 (aka S24)
+Course Name: Research Methods in Second Language Acquisition
+Course Number: 82-881
+Department: Modern Languages
+Number of Units: 9
+Prerequisites: None
+Instructors: Keiko Koda
+Rooms: POS 235
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 82-881 Research Methods in Second Language Acquisition>
+
+<start course description for 82-881 Research Methods in Second Language Acquisition>
+Semester: Spring 2024 (aka S24)
+Course Description: The course introduces students to research methodology as it applies to  language learning and language teaching. It provides an examination of  different approaches currently used in Second Language Acquisition (SLA)  research ranging from experimental studies to survey investigations. The  goal is to develop an ability to critically evaluate, design and implement  sound SLA research.
+</end course description for 82-881 Research Methods in Second Language Acquisition>

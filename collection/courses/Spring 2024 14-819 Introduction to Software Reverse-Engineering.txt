@@ -1,0 +1,16 @@
+<start course metadata for 14-819 Introduction to Software Reverse-Engineering>
+Semester: Spring 2024 (aka S24)
+Course Name: Introduction to Software Reverse-Engineering
+Course Number: 14-819
+Department: Information Networking Institute
+Number of Units: 12
+Prerequisites: (18-240) and (15-513 or 18-213)
+Instructors: David Belasco, Jeffrey Gennari
+Rooms: CMU REMOTE; INI DEC
+Locations: Pittsburgh, Pennsylvania; San Jose, California
+</end course metadata for 14-819 Introduction to Software Reverse-Engineering>
+
+<start course description for 14-819 Introduction to Software Reverse-Engineering>
+Semester: Spring 2024 (aka S24)
+Course Description: The course is intended to provide an insight into the art and science of software and firmware reverse-engineering. It covers a variety of topics on how to approach complex problems of analyzing malicious code for the purpose of understanding its internals. By steadily advancing into the science of reverse-engineering, students will observe how a seemingly insurmountable problem of malware binary analysis gradually breaks down into tractable components that can be easily studied, interpreted and documented. The anatomy, behavior and manifestation of malware will be discussed. Students will receive hands-on experience with techniques analyzing, disassembling, debugging and monitoring malware in a controlled environment.
+</end course description for 14-819 Introduction to Software Reverse-Engineering>

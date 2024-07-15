@@ -1,0 +1,16 @@
+<start course metadata for 21-237 Mathematical Studies Algebra I>
+Semester: Fall 2023 (aka F23)
+Course Name: Mathematical Studies Algebra I
+Course Number: 21-237
+Department: Mathematical Sciences
+Number of Units: 12
+Prerequisites: (21-128 or 21-127 or 15-151) and (21-269 or 21-268) and (21-242 or 21-241)
+Instructors: Clinton Conley
+Rooms: GHC 4301
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-237 Mathematical Studies Algebra I>
+
+<start course description for 21-237 Mathematical Studies Algebra I>
+Semester: Fall 2023 (aka F23)
+Course Description: A component of the honors program, 21-237 is a more demanding version of 21-373 (Algebraic Structures) of greater scope.    Abstract algebra is the study of algebraic systems by the axiomatic method, and it is one of the core areas of modern mathematics. This course is a rigorous and fast-paced introduction to the basic objects in abstract algebra, focusing on groups and rings. Group-theoretic topics to be covered include:  homomorphisms, subgroups, cosets, Lagrange's theorem, conjugation, normal subgroups, quotient groups, isomorphism theorems, automorphism groups, characteristic subgroups, group actions, Cauchy's theorem, Sylow's theorem, normalisers, centralisers, class equation, finite p-groups, permutation and alternating groups, direct and semidirect products, simple groups, subnormal series, the Jordan-Holder theorem.  Ring-theoretic topics include: subrings, ideals, quotient rings, isomorphism theorems, polynomial rings, Zorn's Lemma, prime and maximal ideals, prime and irreducible elements, factorization, PIDs and UFDs, Noetherian domains, the Hilbert Basis Theorem, Gauss' lemma and the Eisenstein criterion for irreducibility, fields of fractions, properties of polynomial rings over fields and UFDs, finite fields and applications.  The prerequisite sequence of 21-128, 21-242, 21-269 is particularly recommended.  (Three 50 minute lectures, one 50 minute recitation)
+</end course description for 21-237 Mathematical Studies Algebra I>

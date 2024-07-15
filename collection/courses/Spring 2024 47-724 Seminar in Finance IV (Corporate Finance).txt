@@ -1,0 +1,16 @@
+<start course metadata for 47-724 Seminar in Finance IV (Corporate Finance)>
+Semester: Spring 2024 (aka S24)
+Course Name: Seminar in Finance IV (Corporate Finance)
+Course Number: 47-724
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Simon Mayer
+Rooms: TEP 4219
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 47-724 Seminar in Finance IV (Corporate Finance)>
+
+<start course description for 47-724 Seminar in Finance IV (Corporate Finance)>
+Semester: Spring 2024 (aka S24)
+Course Description: This is a PhD course intended for doctoral students in finance, economics, and accounting. We will study dynamic quantitative models of corporate investment, financing, and related decisions. While the topics will be primarily in the area of corporate finance, broadly defined, we will venture into some related areas of asset pricing and financial intermediation. The course will focus around two main objectives: First, to develop the tools necessary to solve and estimate dynamic quantitative models; second, to understand the issues, debates, and methods of research in this area. The tools we develop will, ideally, form a basis for producing original research on these topics.
+</end course description for 47-724 Seminar in Finance IV (Corporate Finance)>

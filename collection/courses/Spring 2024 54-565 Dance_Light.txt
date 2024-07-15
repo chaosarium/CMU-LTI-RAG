@@ -1,0 +1,16 @@
+<start course metadata for 54-565 Dance/Light>
+Semester: Spring 2024 (aka S24)
+Course Name: Dance/Light
+Course Number: 54-565
+Department: Drama
+Number of Units: 3
+Prerequisites: 54-524
+Instructors: Robert Thomson
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-565 Dance/Light>
+
+<start course description for 54-565 Dance/Light>
+Semester: Spring 2024 (aka S24)
+Course Description: A practical application of the knowledge and skills learned in Dance Lighting Design 1+2. The class shares the experience of each student creating the lighting for at least one dance performance piece in the Dance/Light Concert.
+</end course description for 54-565 Dance/Light>

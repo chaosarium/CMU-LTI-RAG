@@ -1,0 +1,16 @@
+<start course metadata for 90-901 Ph.D. Seminar I>
+Semester: Fall 2023 (aka F23)
+Course Name: Ph.D. Seminar I
+Course Number: 90-901
+Department: Public Policy & Mgt:Sch of Pub Pol & Mgt
+Number of Units: 12
+Prerequisites: None
+Instructors: Daniel Nagin
+Rooms: HBH 1006
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 90-901 Ph.D. Seminar I>
+
+<start course description for 90-901 Ph.D. Seminar I>
+Semester: Fall 2023 (aka F23)
+Course Description: This seminar is intended for all first-year PhD students in the Heinz College to introduce the research process and bring first-year students into the intellectual community at Heinz.  The seminar includes presentations by Heinz College faculty, student presentations of existing research, and presentations from second-year Heinz College students.  Through these experiences, students will - Become familiar with the kinds of research being done at Heinz - Find faculty and students with similar research interests - Understand the unseen steps (and missteps) along the way to a published paper - Experience presenting technical research to a diverse audience - Learn to provide helpful feedback on research presentations
+</end course description for 90-901 Ph.D. Seminar I>

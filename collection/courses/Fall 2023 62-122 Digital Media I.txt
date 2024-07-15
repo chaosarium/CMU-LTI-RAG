@@ -1,0 +1,16 @@
+<start course metadata for 62-122 Digital Media I>
+Semester: Fall 2023 (aka F23)
+Course Name: Digital Media I
+Course Number: 62-122
+Department: CFA Interdisciplinary
+Number of Units: 6
+Prerequisites: None
+Instructors: Matthew Huber
+Rooms: CFA 214
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 62-122 Digital Media I>
+
+<start course description for 62-122 Digital Media I>
+Semester: Fall 2023 (aka F23)
+Course Description: This course will engage in an overview of foundational workflows in digital media regarding two-dimensional representation techniques for spatial design processes. The course is divided into two topics with one assignment each: Technical Drawing and 2D Graphics. Students are required to submit work at the end of each class, in addition to self-guided work outside of class times: satisfactory completions of the two assignments, specific Lynda tutorials, final project, and final portfolio are required for the successful completion of the course. Through these deliverables, the course will inquire issues of 2D representation as it pertains to the effective communication of technical and conceptual information in spatial design processes. With digital media, designers now have an arsenal of tools that can subvert and augment traditional means of representation with exponentially greater fidelity and efficiency. Students will have an opportunity to practice these values and favor hybrid approaches that strive to blur the boundaries of analog and digital media, so as to learn how to be versatile in leveraging all forms of media for the design task at hand. Students are required to bring their own laptop computers with AutoCAD, Photoshop, Illustrator, and InDesign installed.
+</end course description for 62-122 Digital Media I>

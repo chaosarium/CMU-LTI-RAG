@@ -1,0 +1,16 @@
+<start course metadata for 57-197 Collaborative Piano Skills II>
+Semester: Spring 2024 (aka S24)
+Course Name: Collaborative Piano Skills II
+Course Number: 57-197
+Department: Music
+Number of Units: 3
+Prerequisites: 57-196
+Instructors: Mark Carver
+Rooms: CFA M160
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-197 Collaborative Piano Skills II>
+
+<start course description for 57-197 Collaborative Piano Skills II>
+Semester: Spring 2024 (aka S24)
+Course Description: No course description provided.
+</end course description for 57-197 Collaborative Piano Skills II>

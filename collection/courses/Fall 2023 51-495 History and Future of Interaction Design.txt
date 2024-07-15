@@ -1,0 +1,16 @@
+<start course metadata for 51-495 History and Future of Interaction Design>
+Semester: Fall 2023 (aka F23)
+Course Name: History and Future of Interaction Design
+Course Number: 51-495
+Department: Design
+Number of Units: 9
+Prerequisites: None
+Instructors: Paul Pangaro
+Rooms: MM 107
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-495 History and Future of Interaction Design>
+
+<start course description for 51-495 History and Future of Interaction Design>
+Semester: Fall 2023 (aka F23)
+Course Description: The history of Interaction Design is far richer than what is commonly known among students and teachers, practicing designers and entrepreneurs. Understanding IxD's origins and evolution helps us realize the promises and possibly avoid some of the pitfalls of IxD's future. This course blends readings, lectures, discussions, and prototyping as a means for students to experience this history as if first-hand. Students become immersed in pragmatic yet mind-expanding examples of person-machine interactions -- such as MEMEX, Musicolour, Hypertext, Dynabook, Fun Palace, Colloquy of Mobiles, Architecture Machine, THOUGHTSTICKER, Architrainer, and Hypercard. Through period articles and subsequent perspectives, students research a handful of historical innovationsand then prototype key concepts from that history, forefronting what has been lost in modern commercial implementations. This offers students a hands-on experience of the history of IxD. To explore IxDs future, students are invited to invent it -- to prototype their individual future vision of interactive experiences. The course is especially suitable for students with interest or background in interaction design, computational design, responsive architecture, and interactive media.
+</end course description for 51-495 History and Future of Interaction Design>

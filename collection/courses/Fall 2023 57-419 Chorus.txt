@@ -1,0 +1,16 @@
+<start course metadata for 57-419 Chorus>
+Semester: Fall 2023 (aka F23)
+Course Name: Chorus
+Course Number: 57-419
+Department: Music
+Number of Units: 6
+Prerequisites: None
+Instructors: Thomas Douglas
+Rooms: MM 119
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-419 Chorus>
+
+<start course description for 57-419 Chorus>
+Semester: Fall 2023 (aka F23)
+Course Description: The CMU Chorus is a SATB group of all freshman and sophomore voice majors, other music majors, and University students from other schools on campus. The Chorus performs two concerts with the CMU Philharmonic as the Festival Chorus which includes junior and senior voice majors:  the holiday concert and the winter oratorio concert with a prominent guest conductor.  The Chorus also performs a spring concert. Recently, it was a concert of opera choruses and the live soundtrack for the showing of the silent film, The Passion of Joan of Arc.  Membership is by audition.
+</end course description for 57-419 Chorus>

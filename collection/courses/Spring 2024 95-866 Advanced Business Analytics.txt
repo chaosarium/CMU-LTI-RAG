@@ -1,0 +1,16 @@
+<start course metadata for 95-866 Advanced Business Analytics>
+Semester: Spring 2024 (aka S24)
+Course Name: Advanced Business Analytics
+Course Number: 95-866
+Department: Information Systems:Sch of IS & Mgt
+Number of Units: 6
+Prerequisites: None
+Instructors: Rahul Telang
+Rooms: HBH 1002; HBH 1204
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 95-866 Advanced Business Analytics>
+
+<start course description for 95-866 Advanced Business Analytics>
+Semester: Spring 2024 (aka S24)
+Course Description: Growth in Web 2.0 coincides with the growth in firms¿ ability to collect large customer data. Firms know micro level data about customer transactions and have an ability to correlate such data with other datasets. In this course, we will learn powerful but simple probability/statistical models that can be applied to fit these data to generate useful predictions. The course will go beyond pattern detections, clustering, or correlation in data to build models of plausible consumer behavior that generates the data. Thus the goal is to build a ¿model¿ of consumer behavior and apply this model to data to test how accurate this model is and tweak it if necessary. Most importantly, with such a model in hand, we want to predict how outcomes will change if the firm changed its strategy. Thus a key goal of the course is to teach students a model based approach to prediction.
+</end course description for 95-866 Advanced Business Analytics>

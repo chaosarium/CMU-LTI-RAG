@@ -1,0 +1,16 @@
+<start course metadata for 95-844 Introduction to Cyber Intelligence>
+Semester: Fall 2023 (aka F23)
+Course Name: Introduction to Cyber Intelligence
+Course Number: 95-844
+Department: Information Systems:Sch of IS & Mgt
+Number of Units: 6
+Prerequisites: None
+Instructors: Thomas Scanlon
+Rooms: HBH 1004
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 95-844 Introduction to Cyber Intelligence>
+
+<start course description for 95-844 Introduction to Cyber Intelligence>
+Semester: Fall 2023 (aka F23)
+Course Description: Cyber intelligence; a phrase often used, but interpreted by government agencies, private companies, and the general public in many different ways. For the purpose of this course, cyber intelligence is the acquisition and analysis of information to identify, track, and predict cyber capabilities, intentions, and activities to offer courses of action that enhance decision making. Students will explore different aspects of the definition to develop an analytic framework capable of discerning the interdependencies of and external influences on cyber intelligence, as it relates to an organization's environment, data gathering, functional analysis, strategic analysis, and decision making. Cyber intelligence will be explored within the context of threat modeling and the cyber kill chain.  Students will learn how traditional intelligence practices and emerging technologies influence cyber intelligence; empowering students to assess the likelihood of cyber threat actors executing attacks, the impact attacks have on an organization's business, and the risk threats pose because of an organization's known vulnerabilities.
+</end course description for 95-844 Introduction to Cyber Intelligence>

@@ -1,0 +1,16 @@
+<start course metadata for 60-201 Intermediate Studio: Social Practice>
+Semester: Fall 2023 (aka F23)
+Course Name: Intermediate Studio: Social Practice
+Course Number: 60-201
+Department: Art
+Number of Units: 10
+Prerequisites: None
+Instructors: Jon Rubin
+Rooms: CFA 303
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 60-201 Intermediate Studio: Social Practice>
+
+<start course description for 60-201 Intermediate Studio: Social Practice>
+Semester: Fall 2023 (aka F23)
+Course Description: In recent years, socially-engaged art projects that invite exchange, imagine new social relationships, and provoke individual and collective action have gained increasing prominence. These projects can double as a barter network, a walking tour, a residency program, a protest, or even a post-natural history museum. Rather than being the result of a solitary artist working within an isolated studio, social practice projects are driven by the desire to connect, to look outside oneself in meaningful and tangible ways, and to impact daily life within specific communities. Through the production of work that intersects with a variety of publics, students in this class will use their art practice as a means for directly engaging with the world around them.
+</end course description for 60-201 Intermediate Studio: Social Practice>

@@ -1,0 +1,16 @@
+<start course metadata for 76-259 Film History>
+Semester: Fall 2023 (aka F23)
+Course Name: Film History
+Course Number: 76-259
+Department: English
+Number of Units: 9
+Prerequisites: 76-239
+Instructors: David Shumway
+Rooms: BH 255B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 76-259 Film History>
+
+<start course description for 76-259 Film History>
+Semester: Fall 2023 (aka F23)
+Course Description: This introductory course will focus on the history of the American film industry, 1930-1980. On most weeks, we will screen two films that reflect the most important genres and most enduring achievements of the era. We will be concerned with understanding how the studio system produced and marketed these works, and how that system changed significantly from the 1950s-1970s. By focusing on individual studios (for example, MGM and Warner Bros.) as "test cases," the class will also examine how particular companies produced films of a certain type in terms of such parameters as genre, theme, player, class address, and/or style. Readings will deal with the history of Hollywood, the various films, stars and/or filmmakers considered, as well theoretical/critical issues such as authorship, reception, and high vs. low culture. Students will learn important skills for film history, including reception study, archival research, and contextual analysis. Grades will be based on three papers that require different kinds of historical research, a midterm, and a final.
+</end course description for 76-259 Film History>

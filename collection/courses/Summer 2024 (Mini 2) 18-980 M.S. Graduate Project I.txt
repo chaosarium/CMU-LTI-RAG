@@ -1,0 +1,16 @@
+<start course metadata for 18-980 M.S. Graduate Project I>
+Semester: Summer Two 2024 (aka M24, M24 Mini 2, Summer 2024 Mini 2)
+Course Name: M.S. Graduate Project I
+Course Number: 18-980
+Department: Electrical & Computer Engineering
+Number of Units: N/A
+Prerequisites: None
+Instructors: James Bain
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-980 M.S. Graduate Project I>
+
+<start course description for 18-980 M.S. Graduate Project I>
+Semester: Summer Two 2024 (aka M24, M24 Mini 2, Summer 2024 Mini 2)
+Course Description: The Department of Electrical and Computer Engineering at Carnegie Mellon considers experiential learning opportunities to be important educational options for its graduate students. One such option is conducting a graduate-level project with a faculty member. An ECE graduate student working on a project for their program may request to be enrolled in this course for units. To enroll, the student should first complete the online application for their project on the ECE Student Project Tracker website. Once the application has been submitted and approved by the faculty member on whose project the student will be working, the ECE Advising Team will add the appropriate units to the student's schedule. Typically, credit is granted such that one hour of research per week is equal to one unit of credit.
+</end course description for 18-980 M.S. Graduate Project I>

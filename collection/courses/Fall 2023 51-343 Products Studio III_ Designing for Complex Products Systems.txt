@@ -1,0 +1,16 @@
+<start course metadata for 51-343 Products Studio III: Designing for Complex Products Systems>
+Semester: Fall 2023 (aka F23)
+Course Name: Products Studio III: Designing for Complex Products Systems
+Course Number: 51-343
+Department: Design
+Number of Units: 10
+Prerequisites: 51-245 and 51-248
+Instructors: Stephen Stadelmeier
+Rooms: PH A27B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-343 Products Studio III: Designing for Complex Products Systems>
+
+<start course description for 51-343 Products Studio III: Designing for Complex Products Systems>
+Semester: Fall 2023 (aka F23)
+Course Description: This course provides a framework for understanding core practices of the product design profession by placing it in relation to other disciplines and their influences on mass manufacture of goods; students will use a design process to identify problem/s, map a process in which tangible artifacts are made to learn more about the interaction between object, person, space, and context Prerequisites: 51-245 and 51-248
+</end course description for 51-343 Products Studio III: Designing for Complex Products Systems>

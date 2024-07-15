@@ -1,0 +1,16 @@
+<start course metadata for 79-492 Faculty Research Assistant>
+Semester: Spring 2024 (aka S24)
+Course Name: Faculty Research Assistant
+Course Number: 79-492
+Department: History
+Number of Units: 9
+Prerequisites: None
+Instructors: John Soluri
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 79-492 Faculty Research Assistant>
+
+<start course description for 79-492 Faculty Research Assistant>
+Semester: Spring 2024 (aka S24)
+Course Description: A Faculty Research Assistant is meant for students with a special interest in supporting a faculty member's research in an area not covered by a formal history course. Research duties and other work are negotiated between the student and an individual faculty member.
+</end course description for 79-492 Faculty Research Assistant>

@@ -1,0 +1,16 @@
+<start course metadata for 51-247 Prototyping Lab I: Products>
+Semester: Fall 2023 (aka F23)
+Course Name: Prototyping Lab I: Products
+Course Number: 51-247
+Department: Design
+Number of Units: 4
+Prerequisites: None
+Instructors: Matthew Sass
+Rooms: CFA 317
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-247 Prototyping Lab I: Products>
+
+<start course description for 51-247 Prototyping Lab I: Products>
+Semester: Fall 2023 (aka F23)
+Course Description: The course will consist of introductions, demonstrations and solutions to introductory aspects of SolidWorks. Forming foundation skills in CAD-based communication and problem solving will be emphasized.
+</end course description for 51-247 Prototyping Lab I: Products>

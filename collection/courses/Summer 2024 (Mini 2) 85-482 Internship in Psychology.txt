@@ -1,0 +1,16 @@
+<start course metadata for 85-482 Internship in Psychology>
+Semester: Summer Two 2024 (aka M24, M24 Mini 2, Summer 2024 Mini 2)
+Course Name: Internship in Psychology
+Course Number: 85-482
+Department: Psychology
+Number of Units: N/A
+Prerequisites: None
+Instructors: Erik Thiessen
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 85-482 Internship in Psychology>
+
+<start course description for 85-482 Internship in Psychology>
+Semester: Summer Two 2024 (aka M24, M24 Mini 2, Summer 2024 Mini 2)
+Course Description: The Internship in Psychology is designed to enable students to gain experience in professional settings related to their studies in Psychology and earn credit for the intellectual work involved.  It is the students responsibility to locate an internship site and on-site supervisor, as well as to identify a CMU faculty sponsor. The student registers for the internship by submitting a completed internship form to Theresa Kurutz in Baker Hall 343.
+</end course description for 85-482 Internship in Psychology>

@@ -1,0 +1,6 @@
+Name: Richard Stern
+Title: Professor
+Email rms@cs.cmu.edu
+Phone: 412-268-2535
+Office: B24 Baker-Porter Hall
+Interests: 

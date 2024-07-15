@@ -1,0 +1,16 @@
+<start course metadata for 95-810 Blockchain Fundamentals>
+Semester: Fall 2023 (aka F23)
+Course Name: Blockchain Fundamentals
+Course Number: 95-810
+Department: Information Systems:Sch of IS & Mgt
+Number of Units: 6
+Prerequisites: None
+Instructors: Samuel Perl
+Rooms: HBH 2003
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 95-810 Blockchain Fundamentals>
+
+<start course description for 95-810 Blockchain Fundamentals>
+Semester: Fall 2023 (aka F23)
+Course Description: This class will be a deep-dive into blockchain technology. We will discuss the fundamental cryptographic under-pinnings of the technology as well as different consensus mechanisms currently available. We'll discuss both single-purpose blockchains such as Bitcoin as well as general-purpose implementations. We'll discuss govern-ance of blockchain technology and related challenges, as well as legal challenges and concerns. This course will also provide an overview of blockchain programming, highlighting both existing challenges and specific nu-ances in blockchain programming. Students should leave the class with a better understanding of what block-chain technology is, what types of problems are best suited for blockchain-based solutions, as well as a more thorough understanding of the impact that blockchain technology is having across the board.
+</end course description for 95-810 Blockchain Fundamentals>

@@ -1,0 +1,16 @@
+<start course metadata for 21-260 Differential Equations>
+Semester: Fall 2023 (aka F23)
+Course Name: Differential Equations
+Course Number: 21-260
+Department: Mathematical Sciences
+Number of Units: 9
+Prerequisites: 21-122
+Instructors: Alan Lew, David Handron, Junichi Koganemaru
+Rooms: DH 1212
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-260 Differential Equations>
+
+<start course description for 21-260 Differential Equations>
+Semester: Fall 2023 (aka F23)
+Course Description: Ordinary differential equations: first and second order equations, applications, Laplace transforms; partial differential equations: partial derivatives, separation of variables, Fourier series; systems of ordinary differential equations; applications. 21-259 or 21-268 or 21-269 are recommended. (Three 50 minute lectures, one 50 minute recitation)
+</end course description for 21-260 Differential Equations>

@@ -1,0 +1,16 @@
+<start course metadata for 48-638 Structural Design 2: Materials and Analysis>
+Semester: Spring 2024 (aka S24)
+Course Name: Structural Design 2: Materials and Analysis
+Course Number: 48-638
+Department: Architecture
+Number of Units: 9
+Prerequisites: None
+Instructors: Juney Lee
+Rooms: WEH 4707
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-638 Structural Design 2: Materials and Analysis>
+
+<start course description for 48-638 Structural Design 2: Materials and Analysis>
+Semester: Spring 2024 (aka S24)
+Course Description: This course introduces fundamentals of strength of materials, computational modeling of structures and basic Finite Element (FE) analysis. This is a hands-on, skill-building course about learning how to translate a conceptual design intent into a computational structural model, then apply material and boundary condition constraints to analyze and understand structural behavior. These learning goals are achieved through three components: lab exercises, workshops and group design projects. Through a series of lab exercises, the students will learn the fundamental structural properties of standard construction materials (masonry, steel, concrete and timber), and learn how to perform basic calculations to understand the behavior of simple structures made of those materials under various loading conditions. Lab exercises are accompanied by hands-on workshops, where the students learn a specific computational tool or skill that will enable them to translate the lessons learned from the lab exercises into a computational design environment. The knowledge learned from the labs, together with the skills gained from the workshops, are then synthesized into group projects where the students will have an opportunity to apply and test what they have learned. Basic knowledge of statics and structural design is expected, and the students are assumed to have taken Structural Design 1 at CMU or an equivalent, introductory structural design course from another institute. Structural Design 2 is the second of three courses of the Structural Design curriculum offered at Carnegie Mellon Architecture.
+</end course description for 48-638 Structural Design 2: Materials and Analysis>

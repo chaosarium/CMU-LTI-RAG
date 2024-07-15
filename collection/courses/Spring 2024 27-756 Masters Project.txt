@@ -1,0 +1,16 @@
+<start course metadata for 27-756 Masters Project>
+Semester: Spring 2024 (aka S24)
+Course Name: Masters Project
+Course Number: 27-756
+Department: Materials Science & Engineering
+Number of Units: N/A
+Prerequisites: None
+Instructors: Adam Feinberg, Amir Barati Farimani, Anthony Rollett, Bryan Webler, Christopher Bettinger, Elias Towe, Elizabeth Dickey, Elizabeth Holm, Gregory Rohrer, Itzhaq Cohen-Karni, Jay Whitacre, Lisa Porter, Marc Degraef, Marek Skowronski, Michael Bockstaller, Michael Mchenry, Mohammad Islam, Noa Marom, P. Chris Pistorius, Paige Houser, Paul Salvador, Rachel Kurchin, Thomas O'Connor, Vincent Sokalski
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 27-756 Masters Project>
+
+<start course description for 27-756 Masters Project>
+Semester: Spring 2024 (aka S24)
+Course Description: Individual research project, including laboratory, theroetical, library or design work followed by a written or oral report on the work accomplished.
+</end course description for 27-756 Masters Project>

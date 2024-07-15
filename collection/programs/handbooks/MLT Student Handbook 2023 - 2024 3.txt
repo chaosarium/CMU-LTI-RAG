@@ -1,0 +1,221 @@
+MLT Student Handbook 2023 - 2024
+4 MLT Degree Attainment  
+4.1 Course Requirements  
+In order to  complete the Master of Language Technologies degree, the student must pass 120 
+or more course units of senior- to-graduate courses, and meet the following criteria:  
+• within those 120 units, at least 72 units of “LTI” courses and 24 units of “SCS” courses, 
+• within those 72 units, 11 -711, 11- 791 (or an equivalent , see below ), and one ``Task 
+Orientation Focus'' class, and  
+• within those 72 units, at least one of the following:  
+o an LTI lab course,  
+o 11-792, or  
+o project -oriented Masters ’ thesis;  
+• Of the remaining 24 unit s, 12 must be 11- 910 Directed Research ; 
+• The final 12 units are an Open Elective.  
+The student must also complete two summers of full -time directed research, attend the LTI 
+Colloquium (11 -700) each semester, and satisfy the Research Speaking Requirement desc ribed 
+elsewhere.  
+Since 11 -791 is not being offered currently, the faculty have defined a list of acceptable 
+substitute courses:  
+• 11-727: Computational Semantics for NLP ( only if the course project was done as a 
+group project)   
+• 11-731: Machine Translation  
+• 11-747: Neural Networks for NLP  
+• 11-751:  Speech Recognition  
+• 11-775:  Large -Scale Multimedia  
+• 11-776: Multimodal Affective Computing  
+• 11-777: Multimodal Machine Learning  
+• 11-785:  Deep Learning  
+• 11-797: Question Answering  
+ 
+Students may request to have other  LTI course s with a group engineering project component to 
+be added to this list.   
+For definitions of quoted terms, see the section on “Definitions of LTI Terminology .” 
+Unless approved by the Program Director in advance, t he course requirements must be 
+satisfied by actual classroom courses, not credit given for research or independent study.  
+MLT Graduate Student Handbook  Page 14 
+ Note that a Masters ’ Thesis is not required in general, although a thesis project may be used to 
+satisfy the “lab” requirement.  
+ 
+4.1.1 Grade Requirements  
+Students must demonstrate their mastery of material taught in courses and their success in 
+applying their skills in directed study by satisfying the following grade requirements:  
+1. Minimum grade:  Only courses with a grade of C (2.0) or higher are counted as satisfying a degree requirement.  
+2. Pass/fail:   Pass/fail grades are not permitted for courses and projects used to satisfy a 
+degr ee requirement.  
+4.1.2 Research Speaking Requirement  
+To emphasize student research, improve public speaking skills , and increase internal awareness 
+of LTI work, all MLT students must complete an oral presentation in their second year (by the 
+end of May). The presentation should consist of a 20 -minute talk plus time for discussion. It 
+must be advertised to the LTI mailing lists at least one week before your presentation, and the 
+public will be invited.  
+At least two CMU faculty members will attend the presentation, including the research advisor. 
+After the presentation, these faculty members will convene and provide written feedback to both the student and the chair of graduate programs (the form for this is available on the LTI website). This feedback will help the student refine speaking skills with respect to talk structure, content, and delivery.  
+4.1.3 Withdrawal of a Degree  
+The University reserves the right to withdraw a degree even though it has been granted should 
+there be discovery that the work upon which it was based or the academic records in support of 
+it had been falsified. In such a case, withdrawal of the degree will occur promptly upon discovery of the falsification. The complete reference to this University policy is available at https://www.cmu.edu/policies/student-and-student- life/withdrawal- of-a-degree.html
+.  
+4.2 Advising  
+Each student has a faculty advisor charged with guiding the education and monitoring the 
+progress of the student through the program. The advisor also supervises the student's directed 
+study projects. This personal student- advisor relationship ensures that every student receives 
+the necessary faculty mentoring. The advisor also provides the student with career advice.  
+MLT Graduate Student Handbook  Page 15 
+ How and when the advisor is selected: the Marriage Process:  Advisors are selected during the 
+first month of the program. Students are expected to attend the LTI's Orientation (“Immigration 
+Course ,” or IC) lectures, in which faculty describe their interests and areas of expertise, and to 
+be proactive about meeting individually with potential advisors. After meeting with several 
+potential advisors, each student will be asked to indicate a firs t, second, and third choice for 
+advisor. Meanwhile, the potential advisors determine how many new students they can take, 
+and indicate their preferences. Finally, the  entire LTI faculty meets as a “ Marriage Committee ” 
+to determine the best set of matches.  
+Some entering MLT students are prefunded, meaning they have received and accepted a funding letter from a faculty member before the Marriage Process. (Even students who are prefunded must attend the research talks, to become acquainted with the LTI’s rese arch 
+projects.) Even self -supporting MLT students are expected to perform research with a faculty 
+advisor, since research experience is an important part of our graduate programs. Until a student finds a specific advisor, the chair of the LTI graduate prog rams serves as the advisor.  
+How to change advisors:  The initial advisor selection should be made carefully. However, it is 
+possible to change advisors. To do so, the student should find another faculty member willing 
+to serve as an advisor, and then make a  request to the Program Director to switch advisors. The 
+LTI follows the long -standing SCS policy that both the new and old advisors need to agree to the 
+change; typically, this is not a problem ( assuming the new advisor has agreed in advance, as 
+described  here ). It is to the student's advantage to avoid switching advisors, especially late in 
+their graduate studies, because forging a strong student- advisor relationship takes time.  
+4.3 Optional Masters’  Thesis  
+MLT students may optionally  elect to complete a Masters’ Thesis; it is not  required. Students 
+who intend to apply for the PhD program should consider the MLT Thesis as one of several 
+ways to demonstrate their research potential. Other possibilities include innovative research in a research project or class project work.  
+The MLT Thesis must be completed according to the following guidelines. Note in particular the October 31 proposal deadline!  
+• There are two course components required for students who elect to complete the M.S. Thesis: 11 -928 – Masters ’ Thesis I (with the chosen thesis advisor, typically for 12 units, 
+typically in the Fall of their second year) and 11 -929 – Masters ’ Thesis II in the following 
+Spring.  
+• Each of these two courses counts towards 6 units of MLT -level LTI course credit; if the 
+student goes on to an LTI PhD, the second course (11 -929) counts towards one PhD lab 
+requirement.   
+• The MLT thesis may focus on either a significant research result or a significant implementation of a new technology. The student should work with their adv isor to 
+define an interesting but bounded thesis research project. The MLT thesis culminates in 
+MLT Graduate Student Handbook  Page 16 
+ a publication -quality paper that clearly describes the work in terms of its research 
+significance.  
+• The MLT thesis committee will be composed of a thesis advisor  and two additional 
+readers, to be chosen by the student in consultation with the advisor, during the Fall 
+Masters ’ Thesis I course. At least 2  of the 3 committee members must be SCS faculty 
+working in Language Technologies.  
+• To receive a final grade for the first semester's course, the student must have prepared a written proposal of at least five pages, describing the scientific thesis to be investigated, any relevant research already completed by the student, a comparison 
+with related work by others, and a detailed description of the work to be done in the 
+next semester. The proposal MUST be accepted by the committee by the end of 
+October , or the student will not be allowed to enroll in 11 -929 – Masters ’ Thesis II!  
+• Sometime d uring the semester when the student enrolls in 11 -929 – Masters ’ Thesis II 
+(typically, their final semester), the student will distribute a draft of the thesis to the committee for initial review. This should be done as early as feasible, to avoid last -
+minute surprises that could delay final approval of the thesis.  
+• The thesis work culminates in submission of the final version of the thesis document, followed by a public presentation of the work in an LTI seminar (or other suitable public forum). Since the defense is public, the LTI graduate program administrator must receive all the information required for a public announcement at least one week before the defense. The Masters ’ Thesis presentation is somewhat less rigorous than a PhD 
+thesis defense. The pre sentation must communicate the research work done, similar to 
+a conference paper presentation. The committee will observe the presentation, and then decide whether the thesis and presentation were acceptable, or whether further 
+work is required. Unlike a P hD defense, only a simple majority vote of the committee is 
+required for approval.  
+• Although students are required to enroll in the appropriate course sequence of two Masters ’ Thesis courses, it is not required that students finish the thesis by the end of 
+that second semester. If a student requires more time to revise the thesis to the committee's satisfaction, and adequately present the work, an incomplete grade will be assessed in the Masters ’ Thesis course, until such time as the work and presentation ar e 
+accepted. The student will still be allowed to walk in Spring Commencement, if all other requirements for the MLT degree have been completed. Students should note that any financial support beyond the end of the semester will be on a case -by-case basis, and 
+must be arranged in advance with the project supporting them. Students are strongly encouraged to finish the thesis work within one (1) year following the semester they enroll for the first Masters ’ Thesis course.  
+ 
+ 
+  
+MLT Graduate Student Handbook  Page 17 
+ 4.4 Definitions of LTI Terminology  
+We define here some of the terms as used in this handbook:  
+• An “LTI course” is any 12 -unit course with a number of 11 -XXX; a 6 -unit course with an 
+11-XXX counts as 1/2 of an LTI course. Unless otherwise specified, "course" means an 
+actual classroom course, not  credit given for research or independent study. Note that 
+we will allow any one MLD (10 -xxx) graduate- level course to count as an “LTI course.”  
+• An “SCS course” is any 12 -unit course with a course number indicating a unit of the 
+School of Computer Science (including LTI); a 6 -unit course with such a number counts 
+as 1/2 of an SCS course. Unless otherwise specified, "course" means an actual classroom 
+course, not credit given for research or independent study. Note: Recommended 
+electives that are technically outside  of the SCS now count towards this requirement; for 
+example, Dig ital Signal Processing in ECE. Please see the Program Director for approval 
+of electives as “SCS .” 
+• “LTI Focus Areas” are sets of courses defined on the LTI course webpage under “Course Categories .” If a student believes a new course should be added to a Focus Area, they 
+should notify the Chair of the LTI Graduate Programs. He will decide, with advice from faculty in the appropriate area, whether it should be in the Focus Area, and if approved it will be added to the LTI Focus Area webpage.  
+o A “Task -Orientation Focus Course” is simply a course belonging to that LTI Focus 
+Area, as listed on the “Course Categories” webpage.  
+• An LTI “lab course” is simply a course in the list of lab courses def ined in the LTI “Course 
+Categories” webpage.  
+4.5 Recommended Electives outside of SCS  
+Students are free to take elective courses outside the SCS, at Carnegie Mellon or cross -
+registered at the University of Pittsburgh, as long as the student fulfills the requi rements of 
+their program as described above. The student should discuss any such electives in advance with their advisor; typical choices might include ECE courses for Speech students, Pitt Linguistics courses, or Statistics courses.  
+Note: recommended electives outside of the SCS count towards the “SCS” course requirement. Please see the Program Director for approval of electives as “SCS. ” 
+Note also that students need advance approval for any courses not covered by their normal tuition (e.g., summer courses ). The grading of outside courses is the responsibility of the 
+department offering the course; however , the LTI's Minimum Course Grade Policy described 
+above still applies (“ B-” is the minimu m for PhD, “ C” for MLT).  
+ 
+MLT Graduate Student Handbook  Page 18 
+ 4.6 LTI Orientation  
+At the beginning of each  Fall semester, the LTI provides a set  of lectures and talks to help 
+students learn about the work done by CMU faculty and to provide an opportunity for advisors 
+to recruit new students.  Students are expected to attend them and treat them  seriously, 
+because they provide a good introduction to the broad range of research done at the LTI.  
+Students do not register for the LTI Orientation, nor do they receive  a grade;  however , the 
+department is serious about its expectation that new students will attend these talks.  
+For many years, these talks were called "the Immigration Course (IC)" , which caused confusion.  
+The older name has been retired;  however , people who have been at CMU a long time may 
+occasionally use the older name.    
+4.7 End of Semester  Evaluation 
+Near the end of the spring and fall  semester s, the student must prepare a statement that 
+describes their  achievements in the current semester, and plans for the next semester. At the 
+end of the semester, the faculty evaluates each student's academic progress. The student's advisor serves as the student's advocate in this process. The result of the evaluation is a letter from the faculty to the student that indicates whether the student is making satisfactory progress  towards completing the degre e. 
+A good letter  typically indicates that the student is making satisfactory progress. If the student 
+is doing exceptionally good work, a stronger adjective such as excellent  might be used, but this 
+is unusual.  
+If a student seems to be having trouble, the faculty determines whether it believes that the student can finish the degree, and if so, what needs to be accomplished to get back on track. This type of letter should be considered a serious warning. It is not a permanent “black mark”  
+on the student's record; if the student begins making satisfactory progress again, there is no official record of the letter in the student's transcript.  
+In the most serious cases, the faculty gives the student an N- 1 letter that specifies a list of 
+conditions that the student must satisfy by specific deadlines. Failure to meet all of the 
+specified conditions may result in the student's termination from the program.  
+4.8 Enrollment Verification  
+Enrollment Services is the only University office that can provide an official letter of enrollment, 
+official transcript and enrollment verification.  Enrollment verification can be requested online through The HUB at:   http://www.cmu.edu/hub/transcripts/verifications/enrollment.html
+.  
+MLT Graduate Student Handbook  Page 19 
+ 4.9 University Policies on Grades and Grading  
+4.9.1 University Policy on Grades  
+ww.cmu.edu/policies/documents/Grades.html  
+This policy offers details concerning university grading principles for students taking courses 
+and covers the speci fics of assigning and changing grades, grading options, drop/withdrawals, 
+and course repeats.  It also defines the undergraduate and graduate grading standards.  
+4.9.2 University Policy on Grades for Transfer Courses  
+www.cmu.edu/policies/documents/TransferCredit.html   
+Carnegie Mellon University offers students the opportunity to take courses for credit through a cross- registration program (see Pittsburgh Council on Higher Education (PCHE) and Cross -
+registration below) and through the receipt of transfer credit from other accredited institutions. The Carnegie Mellon University transcript will include information on such courses as follows: Carnegie Mellon courses and courses taken through the university's cross -registration program 
+will have grades recorded on the transcript and be factored into the QPA. All other courses will be recorded on this transcript indicating where the course was taken, but without grade. Such courses will not be taken into account for academic actions, honors , or QPA calculations. (Note: 
+Suspended students may take courses elsewhere; however, they may receive transfer credit only if their college’s and department's policies allow this.)  
+4.10 Academic Integrity  
+Please review the University Policy on Academic Integrity:  
+https://www.cmu.edu/policies/student-and-student- life/academic -integrity.html  
+The policy includes the University expectations around academic integrity and provides definitions of cheating, plagiarism, and unauthorized assistance.  
+A review of the University’s Academic Disciplinary Actions procedures is also recommended. These procedures outline the process for investigating, reporting, and adjudicating violations of the University Policy on Academic Integrity. The procedures also outline the appeals process.  
+https://www.cmu.edu/policies/student-and-student- life/academic -integrity.html
+ 
+In the midst of self- exploration, the high demands o f a challenging academic environment can 
+create situations where some students have difficulty exercising good judgment. Academic challenges can provide many opportunities for high standards to evolve if students actively reflect on these challenges and if the community supports discussions to aid in this process. It is 
+the responsibility of the entire community to establish and maintain the integrity of our 
+university. 
+ Carnegie Mellon University educates its students to become professionals who will serve 
+society with integrity. The university also creates and disseminates new knowledge and expressions of knowledge in ways that benefit society. Carnegie Mellon strives to serve the changing needs of society through the three primary goals outlined in its mission statement: to 
+create and disseminate knowledge and art through research and artistic expression, teaching 
+and learning and transfer to society;  to serve students by teaching them leadership, problem-
+solving skills, and the values of quality, ethical behavior, responsibility to society and 
+commitments to work; and to pursue the advantages provided by a diverse community, open 
+to the exchange of ideas, where discovery and artistic creativity can flourish.  
+In any presentation, creative, artistic or research, it is the ethical responsibility of each student 
+to identify the conceptual sources of the work submitted. Failure to do so is dishonest and is the basis for a charge of cheating or plagiarism, which is subject to disciplinary action.  
+ The university has a very clear and specific protocol for responding to alleged violations of 
+academic integrity. Carnegie Mellon's Academic Disciplinary Actions Overview for Graduate 
+Students describes procedures for disciplinary actions against graduate students in case s of 
+alleged violations of academic regulations and the appeal process.  Please see https://www.cmu.edu/student- affairs/theword/academic -discipline/
+ for more information.  
+Important note:   The LTI implements the above policy’s option of “conven[ing] a disciplinary 
+hearing according to the procedures of the department/program.”  Our procedure is as follows: 
+a first violation is grounds for dismiss al from the graduate program. If we decide not to 
+immediately dismiss, the first violation will result in the student being on disciplinary probation. 
+If a student commits a second violation while on probation, the penalty is dismissal from the 
+graduate program.  

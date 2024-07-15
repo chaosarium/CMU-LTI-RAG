@@ -1,0 +1,16 @@
+<start course metadata for 76-714 Data Stories>
+Semester: Fall 2023 (aka F23)
+Course Name: Data Stories
+Course Number: 76-714
+Department: English
+Number of Units: N/A
+Prerequisites: None
+Instructors: Christopher Warren
+Rooms: BH 255B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 76-714 Data Stories>
+
+<start course description for 76-714 Data Stories>
+Semester: Fall 2023 (aka F23)
+Course Description: Every dataset has a story. In the age of big data, it is vital to understand the unlikely casts of algorithms, data miners, researchers, data janitors, pirates, data brokers, financiers, etc. whose activities shape culture. This course will feature a range of "farm to table" data stories, some going back hundreds of years, and introduce students to resources and strategies for contextual research. It will explore cases such as the London cholera epidemic, Google Books, Netflix, the Oxford English Dictionary, the Strava map, and the Queen Nefertiti scan alongside several pieces of art and fiction that capture aspects of data stories typically obscured elsewhere. Research methods introduced will include book history, media archeology, history of information, infrastructure studies, ethnography, narratology, and digital forensics. Students will read scholarly articles, novels, journalism, and popular non-fiction; they will test algorithms; and they will develop individualized long-form research and writing projects informed by computational methods in data studies, journalism, and art.
+</end course description for 76-714 Data Stories>

@@ -1,0 +1,16 @@
+<start course metadata for 18-622 Digital Integrated Circuit Design>
+Semester: Fall 2023 (aka F23)
+Course Name: Digital Integrated Circuit Design
+Course Number: 18-622
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: 18-320 and 18-240
+Instructors: Kenneth Mai
+Rooms: GHC 4307
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-622 Digital Integrated Circuit Design>
+
+<start course description for 18-622 Digital Integrated Circuit Design>
+Semester: Fall 2023 (aka F23)
+Course Description: This course covers the design and implementation of digital circuits in a modern VLSI process technology. Topics will include logic gate design, functional unit design, latch/flip-flop design, system clocking, memory design, clock distribution, power supply distribution, design for test, and design for manufacturing. The lab component of the course will focus on using modern computer aided design (CAD) software to design, simulate, and lay out digital circuits. The final project for the course involves the design and implementation to the layout level of a small microprocessor.  18-240 and 18-320 or equivalent background material with permission of the instructor.  Although students in 18-422 and 18-622 will share lectures, labs, and recitations, students in 18-422 and 18-622 will receive different homework assignments, design projects, and exams, and in some cases 18-622 students will also have different or additional lab sessions.
+</end course description for 18-622 Digital Integrated Circuit Design>

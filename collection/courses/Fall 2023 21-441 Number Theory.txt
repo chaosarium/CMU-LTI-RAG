@@ -1,0 +1,16 @@
+<start course metadata for 21-441 Number Theory>
+Semester: Fall 2023 (aka F23)
+Course Name: Number Theory
+Course Number: 21-441
+Department: Mathematical Sciences
+Number of Units: 9
+Prerequisites: (21-241 or 21-242) and (21-373)
+Instructors: Elisa Bellah
+Rooms: PH 226A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-441 Number Theory>
+
+<start course description for 21-441 Number Theory>
+Semester: Fall 2023 (aka F23)
+Course Description: Number theory deals with the integers, the most basic structures of mathematics. It is one of the most ancient, beautiful, and well-studied branches of mathematics, and has recently found surprising new applications in communications and cryptography. Course contents: Structure of the integers, greatest common divisors, prime factorization. Modular arithmetic, Fermat's Theorem, Chinese Remainder Theorem. Number theoretic functions, e.g. Euler's function, Mobius functions, and identities. Diophantine equations, Pell's Equation, continued fractions. Modular polynomial equations, quadratic reciprocity. (Three 50 minute lectures)
+</end course description for 21-441 Number Theory>

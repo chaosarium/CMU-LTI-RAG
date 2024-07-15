@@ -1,0 +1,16 @@
+<start course metadata for 18-864 Power System Expansion>
+Semester: Spring 2024 (aka S24)
+Course Name: Power System Expansion
+Course Number: 18-864
+Department: Electrical & Computer Engineering
+Number of Units: 6
+Prerequisites: None
+Instructors: Barry Rawn
+Rooms: CMR F309; HH 1107
+Locations: Kigali, Rwanda; Pittsburgh, Pennsylvania
+</end course metadata for 18-864 Power System Expansion>
+
+<start course description for 18-864 Power System Expansion>
+Semester: Spring 2024 (aka S24)
+Course Description: This course will examine how the growth of electricity infrastructure is planned, evaluated, and sustained. Case studies will be selected from the spectrum of microgrids, rural grid extension, national reinforcement, and international tie-lines.  Students will gain an overview of the delivery processes of electrification: planning, design, construction, maintenance, and economics. They will learn about the growth of electricity demand, cost aspects of generation and network planning, and how these impact reliability. They will also study the capabilities of available equipment for generation and transport.  After completing this course, students will be able to contribute to developing the rationale, finance, technical design, and operational frameworks of new and growing power systems.
+</end course description for 18-864 Power System Expansion>

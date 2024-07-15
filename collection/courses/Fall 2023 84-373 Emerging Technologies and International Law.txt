@@ -1,0 +1,16 @@
+<start course metadata for 84-373 Emerging Technologies and International Law>
+Semester: Fall 2023 (aka F23)
+Course Name: Emerging Technologies and International Law
+Course Number: 84-373
+Department: Institute for Politics and Strategy
+Number of Units: 9
+Prerequisites: None
+Instructors: Justin Canfil
+Rooms: PH 125B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 84-373 Emerging Technologies and International Law>
+
+<start course description for 84-373 Emerging Technologies and International Law>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is a study on the complicated relationship between politics, technology, and international law. While the efficacy of international law is often debated, countries generally depend on it to help regularize the world. Today, however, a proliferation of new technologies - including drones and autonomous weapons systems, cyber threats, hypersonics, space privatization, and more - may profoundly disrupt that world. By surveying historical, contemporary, and horizon technology cases, we will discuss how countries sometimes design technologies to exploit legal loopholes, at other times attempt to engineer against creativity by "future-proofing" or adapting international law to emergent threats, and how equilibrium is restored when these efforts fail. Notwithstanding the relevance of international law for many domains of social activity, the focus of this course will be on the maintenance of international/human security, including arms control, the laws of war, and public international law governing security practices.
+</end course description for 84-373 Emerging Technologies and International Law>

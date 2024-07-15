@@ -1,0 +1,16 @@
+<start course metadata for 54-172 Basic Design 2>
+Semester: Spring 2024 (aka S24)
+Course Name: Basic Design 2
+Course Number: 54-172
+Department: Drama
+Number of Units: 6
+Prerequisites: 54-171
+Instructors: Olivera Gajic
+Rooms: PCA 304
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-172 Basic Design 2>
+
+<start course description for 54-172 Basic Design 2>
+Semester: Spring 2024 (aka S24)
+Course Description: A year-long studio course that explores the principles and elements of design utilizing discreet exercises and projects first semester. Research and reports expose the students to designers, theatres and artists of note in the world. Second semester focuses on the semiotics of the visual and aural aspects of theatrical design. Projects fold in each of the disciplines of scene, costume, lighting, sound and media design. PRE-REQUISITE: Declared Design/PTM focus in the School of Drama.   FOR: Second Semester Design/PTM Undergraduate Students only
+</end course description for 54-172 Basic Design 2>

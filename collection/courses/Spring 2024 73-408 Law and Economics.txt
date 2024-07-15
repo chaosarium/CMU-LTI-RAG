@@ -1,0 +1,16 @@
+<start course metadata for 73-408 Law and Economics>
+Semester: Spring 2024 (aka S24)
+Course Name: Law and Economics
+Course Number: 73-408
+Department: Economics
+Number of Units: 9
+Prerequisites: (21-120) and (73-102 or 73-104)
+Instructors: Karen Clay
+Rooms: TEP 2613
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 73-408 Law and Economics>
+
+<start course description for 73-408 Law and Economics>
+Semester: Spring 2024 (aka S24)
+Course Description: This course will provide a broad overview of the scholarly field known as "law and economics."  The focus will be on how legal rules and institutions can correct market failures.  We will discuss the economic function of contracts and, when contracts fail or are not feasible, the role of legal remedies to resolve disputes.  We will also discuss at some length the choice between encouraging private parties to initiate legal actions to correct externalities and governmental actors, such aas regulatory authorities.  Extensive attention will be given to the economics of litigation, and to how private incentives to bring lawsuits differ from the social value of litigation.  The economic motive to commit crimes, and the optimal governmental response to crime, will be studied in depth.  Specific topics within the preceding broad themes include: the Coase Theorem; the tradeoff between the certainty and severity of punishment; the choice between ex ante and ex post sanctions; negligence versus strict liability; property rules; remedies for breach of contract; and the American rule versus the English rule for allocating litigation costs. (Lecture, 3 hours). Minimum grade of "C" required in all economics pre-requisite courses.
+</end course description for 73-408 Law and Economics>

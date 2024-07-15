@@ -1,0 +1,16 @@
+<start course metadata for 76-323 Text to Screen>
+Semester: Fall 2023 (aka F23)
+Course Name: Text to Screen
+Course Number: 76-323
+Department: English
+Number of Units: 9
+Prerequisites: 76-269
+Instructors: Melissa Martin
+Rooms: PH A19
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 76-323 Text to Screen>
+
+<start course description for 76-323 Text to Screen>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is an introduction to the fundamentals of narrative filmmaking and the attendant creative processes.  Students will explore the symbiosis between film literature, visual storytelling, team building and the practical planning essentials universal to making film.
+</end course description for 76-323 Text to Screen>

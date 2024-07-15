@@ -1,0 +1,16 @@
+<start course metadata for 60-590 Internship>
+Semester: Fall 2023 (aka F23)
+Course Name: Internship
+Course Number: 60-590
+Department: Art
+Number of Units: N/A
+Prerequisites: None
+Instructors: Mark Cato
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 60-590 Internship>
+
+<start course description for 60-590 Internship>
+Semester: Fall 2023 (aka F23)
+Course Description: Art Internships are open to all BFA, BHA, BSA and BCSA Art students. Internships may take place with appropriate individuals or organizations within or outside of Carnegie Mellon University. The requirements for an internship are in the School of Art Handbook (available at the School of Art website). Prior to being enrolled for an internship, students must complete an Internship Proposal Form, which defines the goals of the internship. This form must be signed by their site supervisor and approved by the Assistant Head of the School of Art. Forms are available in the bins on the 3rd floor of CFA.  Junior and Senior Art majors only.
+</end course description for 60-590 Internship>

@@ -1,0 +1,16 @@
+<start course metadata for 60-224 Intermediate Game Studio: Interactivity>
+Semester: Spring 2024 (aka S24)
+Course Name: Intermediate Game Studio: Interactivity
+Course Number: 60-224
+Department: Art
+Number of Units: 10
+Prerequisites: None
+Instructors: Paolo Pedercini
+Rooms: CFA 303
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 60-224 Intermediate Game Studio: Interactivity>
+
+<start course description for 60-224 Intermediate Game Studio: Interactivity>
+Semester: Spring 2024 (aka S24)
+Course Description: Game Studio: Interactivity is a hands-on intermediate course focused on innovative and expressive forms of play, game design, and interactive storytelling. Structured as a series of short assignments, the class will involve the radical transformation of ordinary games into meaningful, original, or even impossible artworks, as well as the creation of narrative experiences at the boundaries of gaming. The course will cover basic elements of game design, common programming patterns in game development, and code-less game-making tools. Students will mostly work individually. No programming experience is required.
+</end course description for 60-224 Intermediate Game Studio: Interactivity>

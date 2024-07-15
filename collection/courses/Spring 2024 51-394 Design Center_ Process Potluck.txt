@@ -1,0 +1,16 @@
+<start course metadata for 51-394 Design Center: Process Potluck>
+Semester: Spring 2024 (aka S24)
+Course Name: Design Center: Process Potluck
+Course Number: 51-394
+Department: Design
+Number of Units: 9
+Prerequisites: None
+Instructors: Kelsey Dusenka
+Rooms: MM 121
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-394 Design Center: Process Potluck>
+
+<start course description for 51-394 Design Center: Process Potluck>
+Semester: Spring 2024 (aka S24)
+Course Description: Potluck (noun): whatever is offered or available in given circumstances or at a given time. How can we learn to work with what we already have? What's possible when we leverage our attention and curiosity? How can we find joy and meaning in the act of making? This course invites students to discover (new) ways of generating form and content, with emphasis on affordances and accessibility of tools and materials. We will explore a breadth of conceptual and technical processes; working quickly, slowly, individually, and collaboratively. Prompts will explore two-dimensional analog and digital outcomes, beginning as instructor-prescribed and expanding into student-defined as the semester progresses. True to the title, this course is process-oriented: meaning prompts will not have defined "solutions," and conversations will center on how work was made, rather than the work itself. Through a collection of critically playful process investigations, this elective aims to equip students with the ability to form their own fruitful methodologies to adopt within their individual practices.
+</end course description for 51-394 Design Center: Process Potluck>

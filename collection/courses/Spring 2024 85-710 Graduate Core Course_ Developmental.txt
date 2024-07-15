@@ -1,0 +1,16 @@
+<start course metadata for 85-710 Graduate Core Course: Developmental>
+Semester: Spring 2024 (aka S24)
+Course Name: Graduate Core Course: Developmental
+Course Number: 85-710
+Department: Psychology
+Number of Units: 9
+Prerequisites: None
+Instructors: Erik Thiessen
+Rooms: BH 336A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 85-710 Graduate Core Course: Developmental>
+
+<start course description for 85-710 Graduate Core Course: Developmental>
+Semester: Spring 2024 (aka S24)
+Course Description: This course provides an introduction to central issues in the study of development, especially cognitive development. The two main goals are: 1) to convey to students the issues that are at the heart of the field, and various theories that address those issues; and 2) to familiarize students with key empirical findings in a number of areas in the field.  Students are expected to participate actively in class discussions and to read all assigned readings prior to class and to be prepared to intelligently discuss all of them, as well as some of the optional ones. GRADUATE STUDENTS ONLY.
+</end course description for 85-710 Graduate Core Course: Developmental>

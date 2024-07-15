@@ -1,0 +1,16 @@
+<start course metadata for 60-232 Intermediate Studio: Interactive Objects>
+Semester: Fall 2023 (aka F23)
+Course Name: Intermediate Studio: Interactive Objects
+Course Number: 60-232
+Department: Art
+Number of Units: 10
+Prerequisites: None
+Instructors: Jenna Boyles
+Rooms: DH B305
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 60-232 Intermediate Studio: Interactive Objects>
+
+<start course description for 60-232 Intermediate Studio: Interactive Objects>
+Semester: Fall 2023 (aka F23)
+Course Description: Interactive Objects is an intermediate sculpture course that explores the concepts, techniques, and tools behind making interactive, responsive, or kinetic art works using physical computing and basic robotics. This studio course introduces students to building circuits, programming with arduino and processing, and integrating human-computer and human-object interaction into sculptures and installations. Through technical demonstrations, assignments, and hands-on explorations, students will build circuits, experiment with various sensors and actuators, program microcontrollers, re-wire existing electronics, and better understand electrical current and conductivity in order to harness it to create responsive elements and motion. Students in this course will be given priority access to the tools and equipment in our physical computing lab, as well as learn how to integrate these tools with our other digital fabrication facilities, including laser cutters and 3D printers, as well as our soft sculpture lab. Students will be expected to do technical assignments as well as individually-motivated self-driven projects based on research and ideas they find personally interesting and compelling. Our research, experiments, and projects will prompt us to consider the relationship between the digital and the physical; as well as the relationships between objects, bodies, technologies, spaces, cultures, and societies. No prior knowledge or experience in the field is required to take this course.
+</end course description for 60-232 Intermediate Studio: Interactive Objects>

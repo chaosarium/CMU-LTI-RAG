@@ -1,0 +1,16 @@
+<start course metadata for 21-605 Teaching Mathematics>
+Semester: Fall 2023 (aka F23)
+Course Name: Teaching Mathematics
+Course Number: 21-605
+Department: Mathematical Sciences
+Number of Units: 2
+Prerequisites: None
+Instructors: Clive Newstead
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-605 Teaching Mathematics>
+
+<start course description for 21-605 Teaching Mathematics>
+Semester: Fall 2023 (aka F23)
+Course Description: This seminar is required of first-time teaching assistants.  Topics discussed are: getting started the first day, how to help students learn, lecturing, and grading.  Each new teaching assistant is videotaped, and her or his performance is reviewed.
+</end course description for 21-605 Teaching Mathematics>

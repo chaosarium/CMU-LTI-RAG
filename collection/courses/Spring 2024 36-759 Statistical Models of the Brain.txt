@@ -1,0 +1,16 @@
+<start course metadata for 36-759 Statistical Models of the Brain>
+Semester: Spring 2024 (aka S24)
+Course Name: Statistical Models of the Brain
+Course Number: 36-759
+Department: Statistics and Data Science
+Number of Units: 12
+Prerequisites: None
+Instructors: Robert Kass, Xaq Pitkow
+Rooms: MI 115; MI 130
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 36-759 Statistical Models of the Brain>
+
+<start course description for 36-759 Statistical Models of the Brain>
+Semester: Spring 2024 (aka S24)
+Course Description: A - This course provides a series of case studies on the role of stochastic models in scientific investigation. Many contemporary theories of neural system behavior are built with statistical models. For example, integrate-and-fire neurons are often assumed to be driven in part by stochastic noise; spike timing involves the distinction between Poisson and non-Poisson neurons; oscillations are characterized by decomposing variation into frequency-based components. In the visual system, V1 simple cells are often described using linear-nonlinear Poisson models. In the motor system, neural response may involve direction tuning and CA1 hippocampal receptive field plasticity has been characterized using dynamic place models. It has also been proposed that perceptions, decisions, and actions result from optimal (Bayesian) combination of sensory input with previously-learned regularities. Some investigators report new insights from viewing whole-brain pattern responses as analogous to statistical classifiers. In the field of statistics, models incorporating random "noise'' components are used for data analysis. In neuroscience, the models also help form a conceptual framework for understanding neural function. We examine some of the most important methods and claims coming from applied statistical thinking. B - Understanding the brain requires sophisticated theories to make sense of the collective actions of billions of neurons and trillions of synapses. Word theories are not enough; we need mathematical theories. This course introduces the mathematical theories of learning and computation by neural systems. These theories use concepts from dynamical systems and concepts from statistics to relate the dynamics and function of neural networks. We apply them to sensory computation, learning and memory, and motor control. Our learning objective is for you to formalize and mathematically answer questions about neural computations
+</end course description for 36-759 Statistical Models of the Brain>

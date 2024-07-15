@@ -1,0 +1,16 @@
+<start course metadata for 70-503 Independent Study in Marketing>
+Semester: Spring 2024 (aka S24)
+Course Name: Independent Study in Marketing
+Course Number: 70-503
+Department: Business Administration
+Number of Units: N/A
+Prerequisites: None
+Instructors: George Burton Hollifield, Muhammad Farooqi
+Rooms: DNM DNM
+Locations: Doha, Qatar; Pittsburgh, Pennsylvania
+</end course metadata for 70-503 Independent Study in Marketing>
+
+<start course description for 70-503 Independent Study in Marketing>
+Semester: Spring 2024 (aka S24)
+Course Description: Students with a special interest in Marketing not covered by a formal Business course may develop an Independent Study Course in that area.  Readings and work to be completed are by agreement between the student and an individual faculty member.  Enrollment by permission of the BA Program.
+</end course description for 70-503 Independent Study in Marketing>

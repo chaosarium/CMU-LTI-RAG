@@ -1,0 +1,16 @@
+<start course metadata for 32-411 Naval Operations and Seamanship>
+Semester: Fall 2023 (aka F23)
+Course Name: Naval Operations and Seamanship
+Course Number: 32-411
+Department: Naval Science - ROTC
+Number of Units: 9
+Prerequisites: None
+Instructors: Natalie Boerio
+Rooms: FRB 210
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 32-411 Naval Operations and Seamanship>
+
+<start course description for 32-411 Naval Operations and Seamanship>
+Semester: Fall 2023 (aka F23)
+Course Description: Designed as an introduction to naval operations and shipboard evolutions, vessel behavior and characteristics in maneuvering, applied aspects of ship handling, and afloat communications.  This course builds upon the information presented in Navigation 32-212, Engineering 32-311, and Weapons Systems 32-312.  An understanding of the nautical rules of the road, relative motion and vector analysis are utilized in discussion regarding the conduct of naval operation to include formation tactics and ship employment.  The student will also be introduced to the various components of naval warfare and their role in sea control and power projection missions within naval and joint operations.
+</end course description for 32-411 Naval Operations and Seamanship>

@@ -1,0 +1,16 @@
+<start course metadata for 16-765 Special Topics: Robotics & AI for Agriculture>
+Semester: Spring 2024 (aka S24)
+Course Name: Special Topics: Robotics & AI for Agriculture
+Course Number: 16-765
+Department: Robotics
+Number of Units: 12
+Prerequisites: None
+Instructors: Abhisesh Silwal, Francisco Yandun
+Rooms: DH 2122
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 16-765 Special Topics: Robotics & AI for Agriculture>
+
+<start course description for 16-765 Special Topics: Robotics & AI for Agriculture>
+Semester: Spring 2024 (aka S24)
+Course Description: Robotics and artificial intelligence technologies have the potential to increase the efficiency, long-term sustainability, and profitability of agricultural production methods. This class will introduce common aspects of agricultural systems, the AI/Robotics tools that are being used to address them, and key research challenges looking forward. Technical topics include IoT sensor networks, in-field computer vision, 3D crop mapping and modeling, mobile robot navigation, and robotic manipulation of plants. Course sessions will be split evenly between lectures by the instructor and student-led discussion of relevant papers from the contemporary research literature.
+</end course description for 16-765 Special Topics: Robotics & AI for Agriculture>

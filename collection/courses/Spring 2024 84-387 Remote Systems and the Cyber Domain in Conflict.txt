@@ -1,0 +1,16 @@
+<start course metadata for 84-387 Remote Systems and the Cyber Domain in Conflict>
+Semester: Spring 2024 (aka S24)
+Course Name: Remote Systems and the Cyber Domain in Conflict
+Course Number: 84-387
+Department: Institute for Politics and Strategy
+Number of Units: 9
+Prerequisites: None
+Instructors: Joshua Schwartz
+Rooms: WEH 5403
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 84-387 Remote Systems and the Cyber Domain in Conflict>
+
+<start course description for 84-387 Remote Systems and the Cyber Domain in Conflict>
+Semester: Spring 2024 (aka S24)
+Course Description: This course analyzes the impact of remote systems and the cyber domain on national security. We will study the development of these technologies, how and why they have been used by state and non-state actors in conflict, their impact on the battlefield, and potential future developments. Some of the questions we will explore in this class include: Are drones revolutionizing warfare between states?  Does the use of drones by state actors increase or decrease terrorism, and how are terrorist groups utilizing drones to achieve their goals? How does support for retaliation and escalation in response to cyber attacks differ from more traditional, kinetic attacks? How have remote systems and cyber capabilities been utilized in the Russia-Ukraine War?
+</end course description for 84-387 Remote Systems and the Cyber Domain in Conflict>

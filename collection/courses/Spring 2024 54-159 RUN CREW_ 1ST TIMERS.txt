@@ -1,0 +1,16 @@
+<start course metadata for 54-159 RUN CREW: 1ST TIMERS>
+Semester: Spring 2024 (aka S24)
+Course Name: RUN CREW: 1ST TIMERS
+Course Number: 54-159
+Department: Drama
+Number of Units: 6
+Prerequisites: None
+Instructors: David Holcomb, Sayantee Sahoo
+Rooms: PCA 107
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-159 RUN CREW: 1ST TIMERS>
+
+<start course description for 54-159 RUN CREW: 1ST TIMERS>
+Semester: Spring 2024 (aka S24)
+Course Description: Hands on experience in most aspects of building and running a production.
+</end course description for 54-159 RUN CREW: 1ST TIMERS>

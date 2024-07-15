@@ -1,0 +1,16 @@
+<start course metadata for 60-051 Study Abroad>
+Semester: Spring 2024 (aka S24)
+Course Name: Study Abroad
+Course Number: 60-051
+Department: Art
+Number of Units: 0
+Prerequisites: None
+Instructors: Instructor TBA
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 60-051 Study Abroad>
+
+<start course description for 60-051 Study Abroad>
+Semester: Spring 2024 (aka S24)
+Course Description: Art students studying abroad through other institutions are registered for this zero-unit "course." Registration for 60-051 suspends Carnegie Mellon University tuition. Prior to being enrolled for study abroad, the student must have completed an Office of International Education "Study Abroad Transfer Credit (SATC) Form," which must be signed by the Assistant Head of the School of Art.
+</end course description for 60-051 Study Abroad>

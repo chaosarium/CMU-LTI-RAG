@@ -1,0 +1,16 @@
+<start course metadata for 60-415 Advanced ETB: Animation Studio>
+Semester: Fall 2023 (aka F23)
+Course Name: Advanced ETB: Animation Studio
+Course Number: 60-415
+Department: Art
+Number of Units: 10
+Prerequisites: 60-110 or 60-220 or 60-333 or 60-125
+Instructors: James Duesing
+Rooms: CYH 100A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 60-415 Advanced ETB: Animation Studio>
+
+<start course description for 60-415 Advanced ETB: Animation Studio>
+Semester: Fall 2023 (aka F23)
+Course Description: This is an open animation studio for students who want to improve existing animation skills and develop a personal animated short. The class will introduce a variety of techniques and concepts for animation production. Using both 2D and 3D tools, animation will be explored through short assignments designed to develop diverse skills and ideas. Each student will develop and produce a short animation. The class will engage in discussion and critique of each other's work along with examples of historic and contemporary animation.
+</end course description for 60-415 Advanced ETB: Animation Studio>

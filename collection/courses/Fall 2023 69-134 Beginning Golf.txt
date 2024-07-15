@@ -1,0 +1,16 @@
+<start course metadata for 69-134 Beginning Golf>
+Semester: Fall 2023 (aka F23)
+Course Name: Beginning Golf
+Course Number: 69-134
+Department: Physical Education
+Number of Units: 3
+Prerequisites: None
+Instructors: Daniel Rodgers
+Rooms: CUC 151
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 69-134 Beginning Golf>
+
+<start course description for 69-134 Beginning Golf>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is designed to give the student all the skills necessary to play a satisfactory game of golf. The long game, the short game and putting are covered. It is a leisure time sport that is challenging and can be used by the student for the rest of his/her life.
+</end course description for 69-134 Beginning Golf>

@@ -1,0 +1,16 @@
+<start course metadata for 57-103 Elective Studio (Beginning Piano Class)>
+Semester: Fall 2023 (aka F23)
+Course Name: Elective Studio (Beginning Piano Class)
+Course Number: 57-103
+Department: Music
+Number of Units: 3
+Prerequisites: None
+Instructors: Carla Larocca
+Rooms: HOA A10
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-103 Elective Studio (Beginning Piano Class)>
+
+<start course description for 57-103 Elective Studio (Beginning Piano Class)>
+Semester: Fall 2023 (aka F23)
+Course Description: TBA
+</end course description for 57-103 Elective Studio (Beginning Piano Class)>

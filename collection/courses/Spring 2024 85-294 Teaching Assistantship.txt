@@ -1,0 +1,16 @@
+<start course metadata for 85-294 Teaching Assistantship>
+Semester: Spring 2024 (aka S24)
+Course Name: Teaching Assistantship
+Course Number: 85-294
+Department: Psychology
+Number of Units: N/A
+Prerequisites: None
+Instructors: Erik Thiessen
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 85-294 Teaching Assistantship>
+
+<start course description for 85-294 Teaching Assistantship>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is designed to provide students with an apprenticeship in the practice of teaching through one-on-one interaction with a faculty member in the design, administration, and teaching of a course.  The student should have previous coursework in the topic domain of the course to ensure that they have the basic skills and background necessary to contribute to the course.  The Teaching Assistantship will be supervised by a faculty member, and should result in a concrete, measurable contribution to a course (such as the design of assignments or exams) and/or a reflection on the practical and pedagogical considerations of course design (such as a paper).  It is the student's responsibility to make independent arrangement for independent course study courses with individual faculty members.  This should be done the semester before a student wishes to register for one of these courses.  The course may be taken for any number of units up to 9, depending on the amount of work done.
+</end course description for 85-294 Teaching Assistantship>

@@ -1,0 +1,16 @@
+<start course metadata for 57-870 Stage Direction>
+Semester: Spring 2024 (aka S24)
+Course Name: Stage Direction
+Course Number: 57-870
+Department: Music
+Number of Units: 3
+Prerequisites: None
+Instructors: Susan Raponi
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-870 Stage Direction>
+
+<start course description for 57-870 Stage Direction>
+Semester: Spring 2024 (aka S24)
+Course Description: This course provides an internship working with a middle or high school music theater production.  Students may participate in coaching, direction, and choreography.  In addition, they keep a journal of their experience and submit a final paper describing what they have learned from working with the teachers or professional directors who were responsible for the production.  It is suggested that this course be taken during the spring semester when most music theater productions are scheduled.
+</end course description for 57-870 Stage Direction>

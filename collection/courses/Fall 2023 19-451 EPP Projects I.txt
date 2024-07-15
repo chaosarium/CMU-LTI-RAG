@@ -1,0 +1,16 @@
+<start course metadata for 19-451 EPP Projects I>
+Semester: Fall 2023 (aka F23)
+Course Name: EPP Projects I
+Course Number: 19-451
+Department: Engineering & Public Policy
+Number of Units: 12
+Prerequisites: None
+Instructors: Deanna Matthews, John Miller
+Rooms: PH A18B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 19-451 EPP Projects I>
+
+<start course description for 19-451 EPP Projects I>
+Semester: Fall 2023 (aka F23)
+Course Description: Students work in multidisciplinary teams (engineers and scientists, humanities and social scientists, public policy and management graduates) on a cutting edge project topic with very little in the way of pre-digested analysis or solutions. Topics include both technical and social dimensions, multiple constraints on the solutions, and require multi-dimensional analyses.  Students are given a general goal, and are expected to discover existing knowledge on the topic, and to research existing technologies and relevant policies. Using this background and their technical and social analysis education as appropriate, students then create new knowledge on the subject and analyzing technology impacts, policy alternatives, or other relevant options as topics necessitate. This knowledge is communicated to an external advisory panel, selected from experts and constituencies of importance to the issue through formal presentations and a written report.   #19451 is the first of two EPP Projects course experiences for EPP additional majors, students taking EPP Projects I are learning how to use their skills from prior EPP courses in solving complex, unstructured problems and developing skills for effective project completion.
+</end course description for 19-451 EPP Projects I>

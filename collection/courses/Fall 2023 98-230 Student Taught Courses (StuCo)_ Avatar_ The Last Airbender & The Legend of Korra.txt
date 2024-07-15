@@ -1,0 +1,16 @@
+<start course metadata for 98-230 Student Taught Courses (StuCo): Avatar: The Last Airbender & The Legend of Korra>
+Semester: Fall 2023 (aka F23)
+Course Name: Student Taught Courses (StuCo): Avatar: The Last Airbender & The Legend of Korra
+Course Number: 98-230
+Department: StuCo (Student Led Courses)
+Number of Units: 3
+Prerequisites: None
+Instructors: Chris Crawford, Steven Aceti
+Rooms: PH A18A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 98-230 Student Taught Courses (StuCo): Avatar: The Last Airbender & The Legend of Korra>
+
+<start course description for 98-230 Student Taught Courses (StuCo): Avatar: The Last Airbender & The Legend of Korra>
+Semester: Fall 2023 (aka F23)
+Course Description: This class will offer an opportunity for fans of Avatar: The Last Airbender and The Legend of Korra to engage in discussion of the two shows' themes, characters, storyline, animation, and the many cultural influences on the shows' creation, particularly East and South Asian cultures. A typical class will begin with a presentation on the topic(s) of the week with ample opportunity for class discussion, before watching an episode of Avatar: The Last Airbender or The Legend of Korra.
+</end course description for 98-230 Student Taught Courses (StuCo): Avatar: The Last Airbender & The Legend of Korra>

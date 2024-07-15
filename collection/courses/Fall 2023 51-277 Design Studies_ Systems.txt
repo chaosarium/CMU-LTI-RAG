@@ -1,0 +1,16 @@
+<start course metadata for 51-277 Design Studies: Systems>
+Semester: Fall 2023 (aka F23)
+Course Name: Design Studies: Systems
+Course Number: 51-277
+Department: Design
+Number of Units: 5
+Prerequisites: None
+Instructors: Adam Cowart, Paul Pangaro
+Rooms: MM A11
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-277 Design Studies: Systems>
+
+<start course description for 51-277 Design Studies: Systems>
+Semester: Fall 2023 (aka F23)
+Course Description: "Systems" prepares you to design for, and within, complex systems. You will make use of systems theory and experiment with systems-thinking techniques to interpret and illustrate how ecological, social, and cultural systems operate at different levels of scale. You will also learn to identify leverage points within a system, and design ways to intervene that creates openings for norms, behaviors, attitudes, and habits. Coursework includes exposure to theoretical frameworks, analysis of case studies, and complexity mapping projects to analyze and represent the world from scalar and systemic perspectives.
+</end course description for 51-277 Design Studies: Systems>

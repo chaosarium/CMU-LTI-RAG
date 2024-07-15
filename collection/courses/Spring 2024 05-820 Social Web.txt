@@ -1,0 +1,16 @@
+<start course metadata for 05-820 Social Web>
+Semester: Spring 2024 (aka S24)
+Course Name: Social Web
+Course Number: 05-820
+Department: Human-Computer Interaction
+Number of Units: 12
+Prerequisites: None
+Instructors: Hirokazu Shirado
+Rooms: 3SC 172
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 05-820 Social Web>
+
+<start course description for 05-820 Social Web>
+Semester: Spring 2024 (aka S24)
+Course Description: With the growth of online environments like MySpace, Second Life, World of Warcraft, Wikipedia, blogs, online support groups, and open source development communities, the web is no longer just about information. This course, jointly taught by a computer scientist and a behavioral scientist, will examine a sampling of the social, technical and business challenges social web sites must solve to be successful, teach students how to use high-level tools to analyze, design or build online communities, and help them understand the social impact of spending at least part of their lives online.    This class is open to advanced undergraduates and graduate students with either technical or non-technical backgrounds. Course work will include lectures and class discussion, homework, class presentations, and a group research or design project.
+</end course description for 05-820 Social Web>

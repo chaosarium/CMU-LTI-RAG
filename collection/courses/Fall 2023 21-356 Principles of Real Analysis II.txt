@@ -1,0 +1,16 @@
+<start course metadata for 21-356 Principles of Real Analysis II>
+Semester: Fall 2023 (aka F23)
+Course Name: Principles of Real Analysis II
+Course Number: 21-356
+Department: Mathematical Sciences
+Number of Units: 9
+Prerequisites: (21-259 or 21-268 or 21-269) and (21-241 or 21-242) and (21-355 or 21-455)
+Instructors: Reinaldo Resende
+Rooms: POS 145
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-356 Principles of Real Analysis II>
+
+<start course description for 21-356 Principles of Real Analysis II>
+Semester: Fall 2023 (aka F23)
+Course Description: This course provides a rigorous and proof-based treatment of functions of several real variables. The course presumes some mathematical sophistication including the ability to recognize, read, and write proofs. Topics include: Metric spaces. Differential calculus in Euclidean spaces: continuity, differentiability, partial derivatives, gradients, differentiation rules, implicit and inverse function theorems. Multiple integrals. Integration on curves and hypersurfaces: arclength, and generalized area. The divergence theorem and the 3D Stokes theorem. Regarding prerequisites, 21-268 or 21-269 are strongly recommended rather than 21-259. (Three 50 minute lectures)
+</end course description for 21-356 Principles of Real Analysis II>

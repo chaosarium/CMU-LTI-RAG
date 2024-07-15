@@ -1,0 +1,16 @@
+<start course metadata for 02-614 String Algorithms>
+Semester: Fall 2023 (aka F23)
+Course Name: String Algorithms
+Course Number: 02-614
+Department: Computational Biology
+Number of Units: 12
+Prerequisites: 15-127 or 15-151 or 21-128
+Instructors: Carl Kingsford
+Rooms: CFA 102
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 02-614 String Algorithms>
+
+<start course description for 02-614 String Algorithms>
+Semester: Fall 2023 (aka F23)
+Course Description: Provides an in-depth look at modern algorithms used to process string data, particularly those relevant to genomics. The course will cover the design and analysis of efficient algorithms for processing enormous amounts of collections of strings. Topics will include string search; inexact matching; string compression; string data structures such as suffix trees, suffix arrays, and searchable compressed indices; and the Borrows-Wheeler transform. Applications of these techniques in genomics will be presented, including genome assembly, transcript assembly, whole-genome alignment, gene expression quantification, read mapping, and search of large sequence databases.
+</end course description for 02-614 String Algorithms>

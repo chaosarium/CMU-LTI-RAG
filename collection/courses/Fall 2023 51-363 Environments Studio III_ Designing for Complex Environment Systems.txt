@@ -1,0 +1,16 @@
+<start course metadata for 51-363 Environments Studio III: Designing for Complex Environment Systems>
+Semester: Fall 2023 (aka F23)
+Course Name: Environments Studio III: Designing for Complex Environment Systems
+Course Number: 51-363
+Department: Design
+Number of Units: 10
+Prerequisites: 51-265 and 51-268
+Instructors: Haeyoung Kim
+Rooms: MM 211
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-363 Environments Studio III: Designing for Complex Environment Systems>
+
+<start course description for 51-363 Environments Studio III: Designing for Complex Environment Systems>
+Semester: Fall 2023 (aka F23)
+Course Description: Provide a framework and tools for designing for environments using experience design methods as a means to address the plurality of digital/physical hybrid environments
+</end course description for 51-363 Environments Studio III: Designing for Complex Environment Systems>

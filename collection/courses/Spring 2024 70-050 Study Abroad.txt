@@ -1,0 +1,16 @@
+<start course metadata for 70-050 Study Abroad>
+Semester: Spring 2024 (aka S24)
+Course Name: Study Abroad
+Course Number: 70-050
+Department: Business Administration
+Number of Units: N/A
+Prerequisites: None
+Instructors: Muhammad Farooqi
+Rooms: DNM DNM
+Locations: Doha, Qatar
+</end course metadata for 70-050 Study Abroad>
+
+<start course description for 70-050 Study Abroad>
+Semester: Spring 2024 (aka S24)
+Course Description: This course serve as a Fall semester placeholder for undergraduate Business Administration students who study abroad full-time. No course credit and no letter grade is associated with it. Special permission is required for this course to be used.
+</end course description for 70-050 Study Abroad>

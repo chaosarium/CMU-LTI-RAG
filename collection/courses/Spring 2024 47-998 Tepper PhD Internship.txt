@@ -1,0 +1,16 @@
+<start course metadata for 47-998 Tepper PhD Internship>
+Semester: Spring 2024 (aka S24)
+Course Name: Tepper PhD Internship
+Course Number: 47-998
+Department: Business Administration
+Number of Units: N/A
+Prerequisites: None
+Instructors: Alan Montgomery
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 47-998 Tepper PhD Internship>
+
+<start course description for 47-998 Tepper PhD Internship>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is for Tepper PhD students only, to take external internships for credit.
+</end course description for 47-998 Tepper PhD Internship>

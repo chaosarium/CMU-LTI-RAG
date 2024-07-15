@@ -1,0 +1,16 @@
+<start course metadata for 76-386 Language & Culture>
+Semester: Fall 2023 (aka F23)
+Course Name: Language & Culture
+Course Number: 76-386
+Department: English
+Number of Units: 9
+Prerequisites: (76-101) or (76-102) or (76-106 and 76-107) or (76-107 and 76-108) or (76-106 and 76-108)
+Instructors: Silvia Pessoa, Thomas Mitchell
+Rooms: CMB 3044
+Locations: Doha, Qatar
+</end course metadata for 76-386 Language & Culture>
+
+<start course description for 76-386 Language & Culture>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is an introduction into the scholarship surrounding the nature of language and the question of how language shapes and is shaped by social, cultural and political contexts. We will begin by studying important literature in linguistics and language theory, both to introduce us to how scholars think about language and to give us a shared vocabulary to use for the rest of the semester. We will then move into case studies and theoretical works exploring the intersections of language use, individual and group identities, and the exercise of power, in its many forms. In particular, we will focus on the relationship between language and culture by asking, in what ways does language influence and constitute social change? How is social change reflected by changes in the way we use language? Over the course of the semester, you will work on applying the knowledge and theoretical tools you gain to your own analysis of a linguistic artifact that you choose.
+</end course description for 76-386 Language & Culture>

@@ -1,0 +1,16 @@
+<start course metadata for 90-939 Independent Study>
+Semester: Spring 2024 (aka S24)
+Course Name: Independent Study
+Course Number: 90-939
+Department: Public Policy & Mgt:Sch of Pub Pol & Mgt
+Number of Units: N/A
+Prerequisites: None
+Instructors: Matthew Gormley
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 90-939 Independent Study>
+
+<start course description for 90-939 Independent Study>
+Semester: Spring 2024 (aka S24)
+Course Description: None
+</end course description for 90-939 Independent Study>

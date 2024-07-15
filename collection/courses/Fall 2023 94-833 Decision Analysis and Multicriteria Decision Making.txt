@@ -1,0 +1,16 @@
+<start course metadata for 94-833 Decision Analysis and Multicriteria Decision Making>
+Semester: Fall 2023 (aka F23)
+Course Name: Decision Analysis and Multicriteria Decision Making
+Course Number: 94-833
+Department: Heinz College Wide Courses
+Number of Units: 6
+Prerequisites: None
+Instructors: Jonathan Caulkins
+Rooms: HBH 1007
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 94-833 Decision Analysis and Multicriteria Decision Making>
+
+<start course description for 94-833 Decision Analysis and Multicriteria Decision Making>
+Semester: Fall 2023 (aka F23)
+Course Description: This course complements and extends both 95-760 Decision Making under Uncertainty and the two mini sequence in Management Science (90-722 & 90-760). Management Science I: Optimization) by addressing three additional topics in managerial decision making:  -    MCDM (Multi-Criteria Decision Making) -    Decision Analysis -    Decision processes               MCDM is a collection of methods for trading-off different alternatives' performance on multiple conflicting objectives; methods discussed include weighted sum scoring models, swing weights, TOPSIS, DEA, AHP, and rank-based methods.              Decision Analysis is the prescriptive model for rationally maximizing subjective expected utility in the face of uncertainty; it is particularly powerful for dealing with sequential decisions, quantifying the value of information, assessing and incorporating subjective probabilities, and doing Bayesian updates of probabilities as new information becomes available.              Decision process considerations go beyond the paradigm of a single well-defined decision maker and mathematical method.  Potential topics we could cover include industrial analytics, auctions, composite indicators ("US News & World Report" style ratings), balanced scorecards, "dashboards" of key performance indicators, group processes, and matching a decision method to the circumstances at hand.
+</end course description for 94-833 Decision Analysis and Multicriteria Decision Making>

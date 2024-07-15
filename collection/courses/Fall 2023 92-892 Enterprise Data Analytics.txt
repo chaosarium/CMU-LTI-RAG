@@ -1,0 +1,16 @@
+<start course metadata for 92-892 Enterprise Data Analytics>
+Semester: Fall 2023 (aka F23)
+Course Name: Enterprise Data Analytics
+Course Number: 92-892
+Department: Medical Management:Sch of Pub Pol & Mgt
+Number of Units: 4
+Prerequisites: None
+Instructors: Kristen Kurland
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 92-892 Enterprise Data Analytics>
+
+<start course description for 92-892 Enterprise Data Analytics>
+Semester: Fall 2023 (aka F23)
+Course Description: N/A
+</end course description for 92-892 Enterprise Data Analytics>

@@ -1,0 +1,16 @@
+<start course metadata for 11-590 LTI Minor Project - Advanced>
+Semester: Fall 2023 (aka F23)
+Course Name: LTI Minor Project - Advanced
+Course Number: 11-590
+Department: Language Technologies Institute
+Number of Units: 12
+Prerequisites: None
+Instructors: Instructor TBA
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 11-590 LTI Minor Project - Advanced>
+
+<start course description for 11-590 LTI Minor Project - Advanced>
+Semester: Fall 2023 (aka F23)
+Course Description: No course description provided.
+</end course description for 11-590 LTI Minor Project - Advanced>

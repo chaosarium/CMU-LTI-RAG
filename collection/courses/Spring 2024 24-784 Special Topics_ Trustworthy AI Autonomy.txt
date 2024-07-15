@@ -1,0 +1,16 @@
+<start course metadata for 24-784 Special Topics: Trustworthy AI Autonomy>
+Semester: Spring 2024 (aka S24)
+Course Name: Special Topics: Trustworthy AI Autonomy
+Course Number: 24-784
+Department: Mechanical Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Ding Zhao
+Rooms: PH 100
+Locations: Kigali, Rwanda; Pittsburgh, Pennsylvania
+</end course metadata for 24-784 Special Topics: Trustworthy AI Autonomy>
+
+<start course description for 24-784 Special Topics: Trustworthy AI Autonomy>
+Semester: Spring 2024 (aka S24)
+Course Description: Innovations driven by recent progress in artificial intelligence such as deep learning and reinforcement learning, have shown human-competitive performance. However, as research expands to real-world cyber-physical autonomy, the question of safety is becoming a crux for the transition from theories to practice. This course will first review fundamental knowledge for trustworthy AI autonomy, including adversarial attack/defend, generative models, hierarchical Bayesian models, safe reinforcement learning, rare-event/few-shot learning, and robust evaluation. Then from the research perspective, students will explore the novelty and potential extension of various state-of-the-art trustworthy AI research and their implementation through a series of readings. Students will develop the ability to conduct research in teams. Knowledge and research skills learned in this course can be applied to self-driving, healthcare devices, assistant robots, and intelligent manufacturing. This course is devised for research-focused students who have backgrounds and interests in statistical machine learning, robotics and control, and human-machine interaction. Other interested students should contact the instructor to determine if it is a good fit for them.
+</end course description for 24-784 Special Topics: Trustworthy AI Autonomy>

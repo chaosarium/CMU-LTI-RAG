@@ -1,0 +1,16 @@
+<start course metadata for 48-772 MAAD Advanced Synthesis Options Studio I>
+Semester: Fall 2023 (aka F23)
+Course Name: MAAD Advanced Synthesis Options Studio I
+Course Number: 48-772
+Department: Architecture
+Number of Units: 18
+Prerequisites: None
+Instructors: Instructor TBA
+Rooms: MM 312
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-772 MAAD Advanced Synthesis Options Studio I>
+
+<start course description for 48-772 MAAD Advanced Synthesis Options Studio I>
+Semester: Fall 2023 (aka F23)
+Course Description: TBD
+</end course description for 48-772 MAAD Advanced Synthesis Options Studio I>

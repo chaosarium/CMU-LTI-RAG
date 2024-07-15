@@ -1,0 +1,16 @@
+<start course metadata for 48-234 Introduction to Structures>
+Semester: Spring 2024 (aka S24)
+Course Name: Introduction to Structures
+Course Number: 48-234
+Department: Architecture
+Number of Units: 3
+Prerequisites: 48-105
+Instructors: Edward Segal
+Rooms: MM 303
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-234 Introduction to Structures>
+
+<start course description for 48-234 Introduction to Structures>
+Semester: Spring 2024 (aka S24)
+Course Description: This course introduces structural systems and the materials and elements that make up those systems. Students will study historical and contemporary examples of bridges, long-span roofs, and tall buildings from technical, social, and symbolic perspectives. Through these built works, students will become familiar with structural engineering terminology and the behavior of different structural systems. They will also learn how materials, construction, and non-technical factors influence structural form. Additionally, students will evaluate the aesthetics of large-scale structures and discuss the relationship between engineers and architects. As they learn about structures, students will develop their problem solving skills and ability to communicate ideas by practicing using equations, drawing, and writing.
+</end course description for 48-234 Introduction to Structures>

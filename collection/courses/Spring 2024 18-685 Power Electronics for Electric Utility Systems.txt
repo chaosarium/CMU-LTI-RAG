@@ -1,0 +1,16 @@
+<start course metadata for 18-685 Power Electronics for Electric Utility Systems>
+Semester: Spring 2024 (aka S24)
+Course Name: Power Electronics for Electric Utility Systems
+Course Number: 18-685
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Sarath Tennakoon
+Rooms: CMR F309; CMU REMOTE
+Locations: Kigali, Rwanda; Pittsburgh, Pennsylvania
+</end course metadata for 18-685 Power Electronics for Electric Utility Systems>
+
+<start course description for 18-685 Power Electronics for Electric Utility Systems>
+Semester: Spring 2024 (aka S24)
+Course Description: With the advent of power electronics, control and communication systems and internet technologies, the grid connected and stand-alone electricity supply systems can be made smart and flexible by the application of power electronics. This is particularly relevant for the increasing penetration of embedded generation due to the proliferation of renewable energy systems based on solar, wind, mini and micro hydro and wave in addition to the Diesel and gas generators. This course is designed to produce engineers equipped with the necessary knowledge and skills to design, commission and operate such systems. Content includes: high voltage switches, both thyristor and IGBT based; reactive power compensation: thyristor-controlled reactor (TCR), thyristor switched capacitor (TSC), static var compensator (SVC), STATCOM, series and shunt compensation; high voltage DC transmission (HVDC): HVDC converters (both thyristor-based and voltage source converter-based), multiterminal HVDC, DC grids; grid integration of renewable energy sources: wind power on shore and off shore, solar, energy storage, application to weak systems, black start; stand-alone grid systems: PV and hydro based, energy storage, rural electrification and city applications, business models.  Completion of a previous course in power electronics is recommended.
+</end course description for 18-685 Power Electronics for Electric Utility Systems>

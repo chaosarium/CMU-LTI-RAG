@@ -1,0 +1,16 @@
+<start course metadata for 90-918 Ph.D. Seminar III>
+Semester: Fall 2023 (aka F23)
+Course Name: Ph.D. Seminar III
+Course Number: 90-918
+Department: Public Policy & Mgt:Sch of Pub Pol & Mgt
+Number of Units: 12
+Prerequisites: 90-901
+Instructors: Felix Koenig
+Rooms: HBH 1006
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 90-918 Ph.D. Seminar III>
+
+<start course description for 90-918 Ph.D. Seminar III>
+Semester: Fall 2023 (aka F23)
+Course Description: Students will work with their faculty advisor(s) to develop a draft of their First Research Paper and present that paper to the PhD Seminar I for feedback on its quality.
+</end course description for 90-918 Ph.D. Seminar III>

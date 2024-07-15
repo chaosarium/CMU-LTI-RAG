@@ -1,0 +1,16 @@
+<start course metadata for 57-773 Production: Performance>
+Semester: Fall 2023 (aka F23)
+Course Name: Production: Performance
+Course Number: 57-773
+Department: Music
+Number of Units: 3
+Prerequisites: None
+Instructors: Ellen Rissinger, Thomas Douglas
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-773 Production: Performance>
+
+<start course description for 57-773 Production: Performance>
+Semester: Fall 2023 (aka F23)
+Course Description: TBA
+</end course description for 57-773 Production: Performance>

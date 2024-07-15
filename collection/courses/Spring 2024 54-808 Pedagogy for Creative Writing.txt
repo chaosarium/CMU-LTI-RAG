@@ -1,0 +1,16 @@
+<start course metadata for 54-808 Pedagogy for Creative Writing>
+Semester: Spring 2024 (aka S24)
+Course Name: Pedagogy for Creative Writing
+Course Number: 54-808
+Department: Drama
+Number of Units: 6
+Prerequisites: None
+Instructors: Rob Handel
+Rooms: PCA A41
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-808 Pedagogy for Creative Writing>
+
+<start course description for 54-808 Pedagogy for Creative Writing>
+Semester: Spring 2024 (aka S24)
+Course Description: Intended primarily for graduate students in dramatic writing, Pedagogy for Creative Writing provides training and preparation for teaching a writing class. Pedagogy for Creative Writing should be taken in the first year of the MFA for those who wish to participate in Teaching Practicum in the second year.
+</end course description for 54-808 Pedagogy for Creative Writing>

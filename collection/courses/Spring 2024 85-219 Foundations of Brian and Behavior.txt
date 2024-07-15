@@ -1,0 +1,16 @@
+<start course metadata for 85-219 Foundations of Brian and Behavior>
+Semester: Spring 2024 (aka S24)
+Course Name: Foundations of Brian and Behavior
+Course Number: 85-219
+Department: Psychology
+Number of Units: 9
+Prerequisites: None
+Instructors: Erik Thiessen
+Rooms: SH 234
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 85-219 Foundations of Brian and Behavior>
+
+<start course description for 85-219 Foundations of Brian and Behavior>
+Semester: Spring 2024 (aka S24)
+Course Description: This course will provide students with a general introduction to the  underlying biological principles and mechanisms which give rise to complex  human cognitive, perceptual and emotional behavior. Topics to be covered  include: the anatomical structure of nerve cells and how they communicate, properties of brain organization and function, processing in sensory and motor systems, biological characteristics of human cognition, and neural and hormonal  influences on health and emotion. This course will focus on how emerging  methods and approaches are beginning to make it possible for psychologists,  computer scientists, and biologists to gain an integrated understanding  of complex behavior.
+</end course description for 85-219 Foundations of Brian and Behavior>

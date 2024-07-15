@@ -1,0 +1,16 @@
+<start course metadata for 57-463 Consumer Driven Composition for Contemporary Media>
+Semester: Spring 2024 (aka S24)
+Course Name: Consumer Driven Composition for Contemporary Media
+Course Number: 57-463
+Department: Music
+Number of Units: 3
+Prerequisites: None
+Instructors: Nathan Blume
+Rooms: HOA A10
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-463 Consumer Driven Composition for Contemporary Media>
+
+<start course description for 57-463 Consumer Driven Composition for Contemporary Media>
+Semester: Spring 2024 (aka S24)
+Course Description: This course aims to augment each student's compositional skill set with technological skills and industry-specific knowledge that will provide them the flexibility and confidence to interface with consumers and more readily monetize their music.  This course is intended to be part lecture to allow for quick and concise transfer of information, and part seminar to allow all class participants the ability to learn from each other as they pitch ideas, receive feedback, and evaluate the success of their peers' work.  The course is for Sophomore, Junior, Senior, and Graduate Composition Majors.  For undergraduate students, the only required prerequisite is 57-101 Introduction to Music Technology.
+</end course description for 57-463 Consumer Driven Composition for Contemporary Media>

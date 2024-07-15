@@ -1,0 +1,16 @@
+<start course metadata for 19-101 Introduction to Engineering and Public Policy>
+Semester: Fall 2023 (aka F23)
+Course Name: Introduction to Engineering and Public Policy
+Course Number: 19-101
+Department: Engineering & Public Policy
+Number of Units: 12
+Prerequisites: None
+Instructors: Deanna Matthews
+Rooms: POS 152
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 19-101 Introduction to Engineering and Public Policy>
+
+<start course description for 19-101 Introduction to Engineering and Public Policy>
+Semester: Fall 2023 (aka F23)
+Course Description: This course examines interactions between technology and society, and the related processes of public and private decision-making. Classes involve a mix of lecture, discussion, and hands-on activities where students tackle interdisciplinary issues with both quantitative and qualitative methods. Students complete individual and group assignments that build skills in analysis and communication relevant for future careers. Past project topics include: using drone imaging to assess algal blooms in Lake Erie, incorporating renewable electricity generation on campus, reducing credit card fraud through data analytics, and creating standards for additive manufacturing of critical airplane parts.
+</end course description for 19-101 Introduction to Engineering and Public Policy>

@@ -1,0 +1,16 @@
+<start course metadata for 82-313 Topics in Modern Arabic Language, Literature and Culture>
+Semester: Fall 2023 (aka F23)
+Course Name: Topics in Modern Arabic Language, Literature and Culture
+Course Number: 82-313
+Department: Modern Languages
+Number of Units: 9
+Prerequisites: None
+Instructors: Lama Nassif
+Rooms: CMB 3044
+Locations: Doha, Qatar
+</end course metadata for 82-313 Topics in Modern Arabic Language, Literature and Culture>
+
+<start course description for 82-313 Topics in Modern Arabic Language, Literature and Culture>
+Semester: Fall 2023 (aka F23)
+Course Description: This course explores definitions of culture and analyzes the dynamic role of language in culture, and culture in language, with an aim to foster cross-cultural awareness and self-realization while developing proficiency in Arabic. Using an integrated approach to the study of the Arabic language, literature, and culture through close readings of current media sources (press, news, magazines, as appropriate), and literary and cultural readings. Additionally, this course is designed to strengthen listening, speaking, reading and writing, within the context of an evolving Arabic culture.
+</end course description for 82-313 Topics in Modern Arabic Language, Literature and Culture>

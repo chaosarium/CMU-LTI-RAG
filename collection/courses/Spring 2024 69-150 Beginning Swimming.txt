@@ -1,0 +1,16 @@
+<start course metadata for 69-150 Beginning Swimming>
+Semester: Spring 2024 (aka S24)
+Course Name: Beginning Swimming
+Course Number: 69-150
+Department: Physical Education
+Number of Units: 3
+Prerequisites: None
+Instructors: Arli Tilves, Sara Gauntner
+Rooms: CUC POOL
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 69-150 Beginning Swimming>
+
+<start course description for 69-150 Beginning Swimming>
+Semester: Spring 2024 (aka S24)
+Course Description: This basic course is designed to equip the non-swimmer with fundamental skills and knowledge to assure reasonable safety in, on or about the water. Areas covered include the basic swimming strokes, basic diving, safe and efficient entry into the water, and some elementary forms of rescue.
+</end course description for 69-150 Beginning Swimming>

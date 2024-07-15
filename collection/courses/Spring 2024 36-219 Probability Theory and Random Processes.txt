@@ -1,0 +1,16 @@
+<start course metadata for 36-219 Probability Theory and Random Processes>
+Semester: Spring 2024 (aka S24)
+Course Name: Probability Theory and Random Processes
+Course Number: 36-219
+Department: Statistics and Data Science
+Number of Units: 9
+Prerequisites: (21-111 and 21-112) or (21-120) or (21-256) or (21-259)
+Instructors: Frederick Koerner
+Rooms: DH A302
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 36-219 Probability Theory and Random Processes>
+
+<start course description for 36-219 Probability Theory and Random Processes>
+Semester: Spring 2024 (aka S24)
+Course Description: This course provides an introduction to probability theory. It is designed for students in electrical and computer engineering. Topics include elementary probability theory, conditional probability and independence, random variables, distribution functions, joint and conditional distributions, limit theorems, and an introduction to random processes. Some elementary ideas in spectral analysis and information theory will be given.   A grade of C or better is required in order to use this course as a pre-requisite for 36-226 and 36-410.
+</end course description for 36-219 Probability Theory and Random Processes>

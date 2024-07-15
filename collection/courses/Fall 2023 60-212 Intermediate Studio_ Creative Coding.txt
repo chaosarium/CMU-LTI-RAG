@@ -1,0 +1,16 @@
+<start course metadata for 60-212 Intermediate Studio: Creative Coding>
+Semester: Fall 2023 (aka F23)
+Course Name: Intermediate Studio: Creative Coding
+Course Number: 60-212
+Department: Art
+Number of Units: 12
+Prerequisites: None
+Instructors: Golan Levin
+Rooms: CFA 303
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 60-212 Intermediate Studio: Creative Coding>
+
+<start course description for 60-212 Intermediate Studio: Creative Coding>
+Semester: Fall 2023 (aka F23)
+Course Description: This is an intermediate level course in "creative coding": the use of programming and computation within the context of the arts. Ideal as a second course for students who have already had one semester of elementary programming (in any language), this course is for you if you'd like to use code to create art -- AND you're already familiar with the basics of programming, such as for() loops, if() statements, objects, and arrays. Students will develop or deepen the skills and confidence to produce interactive, generative, and computational artworks; discuss their work in relation to current and historic praxes of computer art; and engage new technologies critically. Through rigorous programming exercises, students will develop mastery over the basic vocabulary of constructs that govern static, dynamic, and interactive form, with the aim of applying these skills to problems in creative explorations of transmediality, connectivity, generativity, and immersivity.
+</end course description for 60-212 Intermediate Studio: Creative Coding>

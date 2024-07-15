@@ -1,0 +1,16 @@
+<start course metadata for 70-201 Professional and Service Projects>
+Semester: Spring 2024 (aka S24)
+Course Name: Professional and Service Projects
+Course Number: 70-201
+Department: Business Administration
+Number of Units: 9
+Prerequisites: None
+Instructors: Muhammad Farooqi
+Rooms: DNM DNM
+Locations: Doha, Qatar
+</end course metadata for 70-201 Professional and Service Projects>
+
+<start course description for 70-201 Professional and Service Projects>
+Semester: Spring 2024 (aka S24)
+Course Description: Professional service is important in career development because it creates opportunities to use skills and knowledge, develop leadership abilities, develop professional networks, and to learn the importance of community involvement and social values in business practice.  Students complete a variety of activities with these objectives over a period of up to four semesters to satisfy this course requirement.
+</end course description for 70-201 Professional and Service Projects>

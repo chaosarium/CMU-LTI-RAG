@@ -1,0 +1,16 @@
+<start course metadata for 66-142 DC 1st Year Seminar: The Mirror of Technology: Biases in Computation & Cognition>
+Semester: Spring 2024 (aka S24)
+Course Name: DC 1st Year Seminar: The Mirror of Technology: Biases in Computation & Cognition
+Course Number: 66-142
+Department: Dietrich College Interdisciplinary
+Number of Units: 9
+Prerequisites: None
+Instructors: Wayne Wu
+Rooms: WEH 5310
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 66-142 DC 1st Year Seminar: The Mirror of Technology: Biases in Computation & Cognition>
+
+<start course description for 66-142 DC 1st Year Seminar: The Mirror of Technology: Biases in Computation & Cognition>
+Semester: Spring 2024 (aka S24)
+Course Description: The title of the show, Black Mirror, refers to the blank screens of tech devices that reflect back an image of the human user. The image captures some parts of us, say our facial expression, while deemphasizing, distorting or missing others, say the color of our eyes or skin. Further, the reflection is silent about what goes on under the surface in our heads, what we feel, think and value. At the same time, the screen presents a cover for a computational device which, when activated, is massively interconnected with local and global structures around us and with our minds in ways that we do not notice. Can we understand and explain this increasingly symbiotic relation, sometimes healthy, sometimes not? Through active discussion, group work, engaging with local and national experts, and argument and analysis in written work, we will explore the ways in which recent technologies mirror our minds as well as how our minds are impacted by and come to mirror those technologies. We will focus on the idea of bias and a type of informational selectivity we capture as attention. Topics will include: the nature of meaning, thinking and understanding in animals and machines, tests for cognition in artificial systems with focus on recent large language models such as CHAT GPT, biases in cognition and attention in humans and biases in algorithms and the impacts of these on society, the attention economy and the manipulation of our attention therein, and the symbiosis between mind and machine where machines extend our minds. These topics span philosophy, cognitive science and computer science. Our goal will be to acquire the analytical skills needed to help critically engage with and transform this symbiotic relation between mind and machine, moving it systematically towards a virtuous and healthy state.
+</end course description for 66-142 DC 1st Year Seminar: The Mirror of Technology: Biases in Computation & Cognition>

@@ -1,0 +1,16 @@
+<start course metadata for 15-614 Bug Catching: Automated Program Verification>
+Semester: Spring 2024 (aka S24)
+Course Name: Bug Catching: Automated Program Verification
+Course Number: 15-614
+Department: Computer Science
+Number of Units: 9
+Prerequisites: None
+Instructors: Ruben Martins
+Rooms: HH B131
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-614 Bug Catching: Automated Program Verification>
+
+<start course description for 15-614 Bug Catching: Automated Program Verification>
+Semester: Spring 2024 (aka S24)
+Course Description: Many CS and ECE students will be developing software and hardware that must be ultra reliable at some point in their careers. Logical errors in such designs can be costly, even life threatening. There have already been a number of well publicized errors like the Intel Pentium floating point error and the Arian 5 crash. In this course we will study tools for finding and preventing logical errors. Three types of tools will be studied: automated theorem proving, state exploration techniques like model checking and tools based on static program analysis. Although students will learn the theoretical basis for such tools, the emphasis will be on actually using them on real examples.  This course can be used to satisfy the Logic & Languages requirement for the Computer Science major.
+</end course description for 15-614 Bug Catching: Automated Program Verification>

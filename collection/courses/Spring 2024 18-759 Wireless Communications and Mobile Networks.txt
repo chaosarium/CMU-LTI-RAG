@@ -1,0 +1,16 @@
+<start course metadata for 18-759 Wireless Communications and Mobile Networks>
+Semester: Spring 2024 (aka S24)
+Course Name: Wireless Communications and Mobile Networks
+Course Number: 18-759
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: (15-441 or 18-345) and (18-391)
+Instructors: Edwin Mugume
+Rooms: CMR F305; CMR F307
+Locations: Kigali, Rwanda
+</end course metadata for 18-759 Wireless Communications and Mobile Networks>
+
+<start course description for 18-759 Wireless Communications and Mobile Networks>
+Semester: Spring 2024 (aka S24)
+Course Description: This course introduces fundamental concepts of wireless networks and systems to help students understand any type of wireless application or technology. It covers the theory of wireless propagation and the associated path loss phenomena. The course focuses on understanding the effects of the channel on signal propagation for broadcast and line-of-sight wireless systems. It covers mobile cellular networks and satellite systems in detail. The course explains recent advances in wireless technologies in the context of recent trends, for instance the technologies that are applied in 5G networks. Students will appreciate recent directions such as mmWave propagation, UAV-based cellular networks, distributed antenna systems, etc. Students are assessed through labs, homework, an exam, and a final group project.
+</end course description for 18-759 Wireless Communications and Mobile Networks>

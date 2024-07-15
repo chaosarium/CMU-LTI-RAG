@@ -1,0 +1,16 @@
+<start course metadata for 12-790 Teaching Workshop>
+Semester: Fall 2023 (aka F23)
+Course Name: Teaching Workshop
+Course Number: 12-790
+Department: Civil & Environmental Engineering
+Number of Units: 0
+Prerequisites: None
+Instructors: Burcu Akinci
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 12-790 Teaching Workshop>
+
+<start course description for 12-790 Teaching Workshop>
+Semester: Fall 2023 (aka F23)
+Course Description: Four one-hour workshops will be conducted on the topics of grading, tutoring, and conducting review sessions, along with a follow-up evaluation session. Required of all graduate assistants in their first year.
+</end course description for 12-790 Teaching Workshop>

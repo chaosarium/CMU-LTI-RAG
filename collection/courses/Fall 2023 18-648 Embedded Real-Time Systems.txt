@@ -1,0 +1,16 @@
+<start course metadata for 18-648 Embedded Real-Time Systems>
+Semester: Fall 2023 (aka F23)
+Course Name: Embedded Real-Time Systems
+Course Number: 18-648
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: (15-213 or 18-213) and (18-447)
+Instructors: Ragunathan Rajkumar
+Rooms: BH A53; WEH 5409
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-648 Embedded Real-Time Systems>
+
+<start course description for 18-648 Embedded Real-Time Systems>
+Semester: Fall 2023 (aka F23)
+Course Description: Real-time embedded systems pervade many aspects of modern life ranging from household appliances, transportation and motion control systems, medical systems and devices, robotics, multimedia and mobile communications, video-games, energy generation/distribution/management, to aerospace and defense systems. This course has three complementary goals. One, it will cover the core concepts and principles underlying these systems, including resource management, scheduling, dependability and safety. Implications to multi-core platforms, SoCs, networks and communication buses will also be discussed. Mathematical models and analysis techniques will be presented. Two, the course will offer hands-on experience with implementing real-time embedded systems on realistic platforms. This will be facilitated by detailed discussions of hardware-software interfaces, concurrency and communications. Finally, application-level concepts such as signal processing, image processing, computer vision, sensor fusion and feedback control will complete an overview of the breadth and depth of real-time embedded systems. Knowledge of the C programming language, basic computer architecture and an assembly language will be assumed.
+</end course description for 18-648 Embedded Real-Time Systems>

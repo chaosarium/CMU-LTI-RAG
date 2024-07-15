@@ -1,0 +1,16 @@
+<start course metadata for 12-774 Foundations of Intelligent Infrastructure Systems>
+Semester: Spring 2024 (aka S24)
+Course Name: Foundations of Intelligent Infrastructure Systems
+Course Number: 12-774
+Department: Civil & Environmental Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Katherine Flanigan
+Rooms: PH 225B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 12-774 Foundations of Intelligent Infrastructure Systems>
+
+<start course description for 12-774 Foundations of Intelligent Infrastructure Systems>
+Semester: Spring 2024 (aka S24)
+Course Description: The proliferation of low-cost and high-performing sensors, advancements in wireless communication, and ubiquitous access to cloud computing services have led to the emergence of "intelligent" infrastructure systems.  Intelligent infrastructure systems are those systems in which civil and environmental engineering professionals combine sensing, computing, and actuation to enhance the performance, resilience, accessibility, and sustainability of infrastructure systems.  These infrastructure systems are often of significant economic importance, dynamic (with a time basis to their behavior), and comprise complex interactions between cyber, physical, natural, and social components.  This course conveys recent advancements enabling intelligent infrastructure systems and serves as a rigorous introduction to the fundamentals of dynamic systems theory applied to infrastructure systems.  The systems science introduced in this course emphasizes modeling dynamic systems as continuous and discrete-time systems (Laplace domain and Z-domain system models, respectively), transformation methods between the time and frequency domains, feedback control of dynamic systems, and state space system models.  Coursework and examples will be drawn from applications in modeling, monitoring, and controlling structural, transportation, hydraulic, and electrical systems.
+</end course description for 12-774 Foundations of Intelligent Infrastructure Systems>

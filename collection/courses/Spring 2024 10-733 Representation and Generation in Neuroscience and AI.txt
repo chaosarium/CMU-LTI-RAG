@@ -1,0 +1,16 @@
+<start course metadata for 10-733 Representation and Generation in Neuroscience and AI>
+Semester: Spring 2024 (aka S24)
+Course Name: Representation and Generation in Neuroscience and AI
+Course Number: 10-733
+Department: Machine Learning
+Number of Units: 12
+Prerequisites: 10-301 or 10-315 or 10-601 or 10-701 or 10-715 or 10-707 or 10-417 or 10-617 or 10-414 or 10-714
+Instructors: Leila Wehbe
+Rooms: GHC 4102
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 10-733 Representation and Generation in Neuroscience and AI>
+
+<start course description for 10-733 Representation and Generation in Neuroscience and AI>
+Semester: Spring 2024 (aka S24)
+Course Description: This PhD level course explores the intersection of Neuroscience and AI. It evaluates the use of new AI methods as models for the brain, and the utility of inspirations from the brain for building better AI. The course has two main components: (a) a critical look at the current practice of computational neuroscience through lectures, readings and discussions and (b) an active, practical component (though homework and projects) that allows students to form their opinions based not only on readings and ideas imposed upon them, but also through their own experience and understanding. Specifically, the class has a project component which is expected to be substantial enough that the work could lead to a publication if successful.  The focus of the class will be on representations in the brain and in AI models, specifically in the areas of language and vision (and their intersection). Students will learn the most recent approaches for using AI models as models of the brain, along with the arguments for and against these types of approaches. The course will also touch upon generation in both AI models and in the brain, and discuss possibilities of integrating them.
+</end course description for 10-733 Representation and Generation in Neuroscience and AI>

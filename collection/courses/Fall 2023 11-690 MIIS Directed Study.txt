@@ -1,0 +1,16 @@
+<start course metadata for 11-690 MIIS Directed Study>
+Semester: Fall 2023 (aka F23)
+Course Name: MIIS Directed Study
+Course Number: 11-690
+Department: Language Technologies Institute
+Number of Units: N/A
+Prerequisites: None
+Instructors: Teruko Mitamura
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 11-690 MIIS Directed Study>
+
+<start course description for 11-690 MIIS Directed Study>
+Semester: Fall 2023 (aka F23)
+Course Description: to be determined by the department
+</end course description for 11-690 MIIS Directed Study>

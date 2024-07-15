@@ -1,0 +1,16 @@
+<start course metadata for 90-840 The Media & American Politics>
+Semester: Spring 2024 (aka S24)
+Course Name: The Media & American Politics
+Course Number: 90-840
+Department: Public Policy & Mgt:Sch of Pub Pol & Mgt
+Number of Units: 6
+Prerequisites: None
+Instructors: Nicole Kliewer
+Rooms: HBH 1006
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 90-840 The Media & American Politics>
+
+<start course description for 90-840 The Media & American Politics>
+Semester: Spring 2024 (aka S24)
+Course Description: This course explores the intricate relationship between media and politics in contemporary America and grapples with the influence of mass and social media on Americans' political attitudes, beliefs, and behaviors. We will consider the power of media to persuade, the extent to which media outlets are ideologically slanted, and the role of new information technologies. We will further consider how the media's stewardship of American democracy evolved over time. The media is ever-changing, and as such, this course is designed to raise questions that may not have clear or easy answers. However, students should leave this course equipped with the knowledge and tools to develop their own nuanced understanding of the complex relationship between the media and politics.
+</end course description for 90-840 The Media & American Politics>

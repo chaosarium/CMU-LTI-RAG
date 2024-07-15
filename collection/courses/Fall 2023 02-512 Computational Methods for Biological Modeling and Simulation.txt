@@ -1,0 +1,16 @@
+<start course metadata for 02-512 Computational Methods for Biological Modeling and Simulation>
+Semester: Fall 2023 (aka F23)
+Course Name: Computational Methods for Biological Modeling and Simulation
+Course Number: 02-512
+Department: Computational Biology
+Number of Units: 9
+Prerequisites: 15-110 or 15-112 or 02-201
+Instructors: Oana Carja, Russell Schwartz
+Rooms: HH B131
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 02-512 Computational Methods for Biological Modeling and Simulation>
+
+<start course description for 02-512 Computational Methods for Biological Modeling and Simulation>
+Semester: Fall 2023 (aka F23)
+Course Description: This course covers a variety of computational methods important for modeling and simulation of biological systems. It is intended for graduates and advanced undergraduates with either biological or computational backgrounds who are interested in developing computer models and simulations of biological systems. The course will emphasize practical algorithms and algorithm design methods drawn from various disciplines of computer science and applied mathematics that are useful in biological applications. The general topics covered will be models for optimization problems, simulation and sampling, and parameter tuning. Course work will include problem sets with significant programming components and independent or group final projects.
+</end course description for 02-512 Computational Methods for Biological Modeling and Simulation>

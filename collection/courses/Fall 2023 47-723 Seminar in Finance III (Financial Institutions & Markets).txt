@@ -1,0 +1,16 @@
+<start course metadata for 47-723 Seminar in Finance III (Financial Institutions & Markets)>
+Semester: Fall 2023 (aka F23)
+Course Name: Seminar in Finance III (Financial Institutions & Markets)
+Course Number: 47-723
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Chester Spatt
+Rooms: TEP 5222
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 47-723 Seminar in Finance III (Financial Institutions & Markets)>
+
+<start course description for 47-723 Seminar in Finance III (Financial Institutions & Markets)>
+Semester: Fall 2023 (aka F23)
+Course Description: This course will focus on trading and market structure issues, and also attention to credit rating agencies, arbitrage and taxes.
+</end course description for 47-723 Seminar in Finance III (Financial Institutions & Markets)>

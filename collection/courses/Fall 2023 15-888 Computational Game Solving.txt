@@ -1,0 +1,16 @@
+<start course metadata for 15-888 Computational Game Solving>
+Semester: Fall 2023 (aka F23)
+Course Name: Computational Game Solving
+Course Number: 15-888
+Department: Computer Science
+Number of Units: 12
+Prerequisites: None
+Instructors: Stephen McAleer, Tuomas Sandholm
+Rooms: WEH 4625
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-888 Computational Game Solving>
+
+<start course description for 15-888 Computational Game Solving>
+Semester: Fall 2023 (aka F23)
+Course Description: The course will focus on multi-step imperfect-information games because most real-world strategic settings are such games. Such games beget additional issues beyond perfect-information games like chess and Go, such as signaling, deception, and understanding deception by others. There has been tremendous progress in the AI community on solving such games since around 2003. This course covers the fundamentals and the state of the art of solving such games.
+</end course description for 15-888 Computational Game Solving>

@@ -1,0 +1,16 @@
+<start course metadata for 49-744 Visual Communication for Innovators>
+Semester: Fall 2023 (aka F23)
+Course Name: Visual Communication for Innovators
+Course Number: 49-744
+Department: Integrated Innovation Institute
+Number of Units: 6
+Prerequisites: None
+Instructors: Anna Abovyan, Megan Guidi
+Rooms: CA 108; CA 115
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 49-744 Visual Communication for Innovators>
+
+<start course description for 49-744 Visual Communication for Innovators>
+Semester: Fall 2023 (aka F23)
+Course Description: This course will introduce students to the fundamentals of visual communication theory, help them make intentional design choices in various mediums, and develop hands-on skills through practice. Students will learn the basics of typography, color theory, layout, composition, and data visualization, and practice expressing their ideas by sketching, whiteboarding, and using modern digital design tools. Students will also learn to question the design choices as well as seek and provide effective feedback through design critiques. Other topics may include storyboarding, fundamentals of user interface design, design systems, and physical product prototyping. Students will create a variety of artifacts: concept posters, communication flyers, digital advertisement banners, data visualizations, brand identities, video storyboards, etc. This is a required course in the MIIPS degree program. All other students must contact the instructor for permission.
+</end course description for 49-744 Visual Communication for Innovators>

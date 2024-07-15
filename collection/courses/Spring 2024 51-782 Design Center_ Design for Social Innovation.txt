@@ -1,0 +1,16 @@
+<start course metadata for 51-782 Design Center: Design for Social Innovation>
+Semester: Spring 2024 (aka S24)
+Course Name: Design Center: Design for Social Innovation
+Course Number: 51-782
+Department: Design
+Number of Units: 12
+Prerequisites: None
+Instructors: Lakshmi Krishnaswami
+Rooms: MM 121
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-782 Design Center: Design for Social Innovation>
+
+<start course description for 51-782 Design Center: Design for Social Innovation>
+Semester: Spring 2024 (aka S24)
+Course Description: Design for social innovation is a seminar that traces the history and application of design methods to solving social problems. The course will weaver together themes from readings in design, business, public policy, technology, social service, international relations and current events. The course will review examples of successful and failed social innovations from local, regional, national and international contexts. Students will learn the role of governments, technology, funding, infrastructure, mindset, emotion, and cultural factors in addressing problems in the social sector. The course will include a real-world problem-solving component where students (in teams or individually) will write a paper, design an artifact or intervention, propose a project or conduct a short design research study that addresses a real-world problem that impacts a local community.
+</end course description for 51-782 Design Center: Design for Social Innovation>

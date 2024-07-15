@@ -1,0 +1,16 @@
+<start course metadata for 15-816 Advanced Topics in Logic: Automated Reasoning and Satisfiability>
+Semester: Fall 2023 (aka F23)
+Course Name: Advanced Topics in Logic: Automated Reasoning and Satisfiability
+Course Number: 15-816
+Department: Computer Science
+Number of Units: 12
+Prerequisites: None
+Instructors: Marijn Heule
+Rooms: GHC 4101
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-816 Advanced Topics in Logic: Automated Reasoning and Satisfiability>
+
+<start course description for 15-816 Advanced Topics in Logic: Automated Reasoning and Satisfiability>
+Semester: Fall 2023 (aka F23)
+Course Description: Automated reasoning has become a powerful technology with applications ranging from verification of hardware and software to solving long-standing open problems in mathematics. This course covers several state-of-the-art automated reasoning techniques and provides hands-on experience with research questions in this area.
+</end course description for 15-816 Advanced Topics in Logic: Automated Reasoning and Satisfiability>

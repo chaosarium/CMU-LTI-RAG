@@ -1,0 +1,16 @@
+<start course metadata for 45-952 End-to-End Business Analytics>
+Semester: Fall 2023 (aka F23)
+Course Name: End-to-End Business Analytics
+Course Number: 45-952
+Department: Business Administration
+Number of Units: 6
+Prerequisites: 45-751
+Instructors: R. Ravi
+Rooms: TEP 2118
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-952 End-to-End Business Analytics>
+
+<start course description for 45-952 End-to-End Business Analytics>
+Semester: Fall 2023 (aka F23)
+Course Description: Deriving value from business data is an integrative process. It requires putting together the virtuous pipeline of using the data to derive descriptive and diagnostic inferences, building explainable predictive models and incorporating them in prescriptive decision making. This course charts this process end-to-end by describing and integrating common tools from statistics, machine learning, and optimization in the context of common applications from finance, marketing and operations. The homework is based on a data-driven case that will have students analyzing data from real business applications to derive their own insights, predictions and decisions and communicating them effectively. The course will prepare students for careers in consulting and any form of business data analysis in any functional area.
+</end course description for 45-952 End-to-End Business Analytics>

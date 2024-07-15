@@ -1,0 +1,16 @@
+<start course metadata for 11-920 Independent Study: Breadth>
+Semester: Fall 2023 (aka F23)
+Course Name: Independent Study: Breadth
+Course Number: 11-920
+Department: Language Technologies Institute
+Number of Units: N/A
+Prerequisites: None
+Instructors: Chenyan Xiong, Daniel Fried, David Mortensen, Emma Strubell, Graham Neubig, Instructor TBA, Louis-Philippe Morency, Sherry Tongshua Wu, Shinji Watanabe, Yonatan Bisk
+Rooms: DNM DNM
+Locations: Lisbon, Portugal; Pittsburgh, Pennsylvania
+</end course metadata for 11-920 Independent Study: Breadth>
+
+<start course description for 11-920 Independent Study: Breadth>
+Semester: Fall 2023 (aka F23)
+Course Description: This course number is intended for individual study with faculty other than a student's intended thesis advisor.
+</end course description for 11-920 Independent Study: Breadth>

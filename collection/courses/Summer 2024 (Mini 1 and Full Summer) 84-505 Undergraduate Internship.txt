@@ -1,0 +1,16 @@
+<start course metadata for 84-505 Undergraduate Internship>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Undergraduate Internship
+Course Number: 84-505
+Department: Institute for Politics and Strategy
+Number of Units: N/A
+Prerequisites: None
+Instructors: Emily Half
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 84-505 Undergraduate Internship>
+
+<start course description for 84-505 Undergraduate Internship>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: An internship is an approved and monitored work experience than can be related to an academic field of study through active reflection and specific learning goals. Students will be in regular contact with a faculty member in CMIST, who will assign and evaluate academic work. Internships are available for 3, 6, or 9 units, depending on the type and amount of academic work produced. Students are responsible for finding their own internships and faculty sponsors, although assistance is available through the Deputy Director.
+</end course description for 84-505 Undergraduate Internship>

@@ -1,0 +1,16 @@
+<start course metadata for 15-593 Independent Study in Computer Science>
+Semester: Spring 2024 (aka S24)
+Course Name: Independent Study in Computer Science
+Course Number: 15-593
+Department: Computer Science
+Number of Units: N/A
+Prerequisites: None
+Instructors: Mark Stehlik
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-593 Independent Study in Computer Science>
+
+<start course description for 15-593 Independent Study in Computer Science>
+Semester: Spring 2024 (aka S24)
+Course Description: The School of Computer Science offers Independent Study courses, which allow motivated students to work on projects under the supervision of a faculty advisor while receiving academic credit. Independent studies are usually one semester in duration and require prior approval from the faculty member and the School of Computer Science.
+</end course description for 15-593 Independent Study in Computer Science>

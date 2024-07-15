@@ -1,0 +1,16 @@
+<start course metadata for 45-970 Strategies in Information Markets>
+Semester: Spring 2024 (aka S24)
+Course Name: Strategies in Information Markets
+Course Number: 45-970
+Department: Business Administration
+Number of Units: 6
+Prerequisites: 45-770
+Instructors: Ali Shourideh
+Rooms: TEP 2202
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-970 Strategies in Information Markets>
+
+<start course description for 45-970 Strategies in Information Markets>
+Semester: Spring 2024 (aka S24)
+Course Description: Description: This course studies the role of information in markets, with a focus on e-commerce and technology industries. We will explore how information enhances the scope for trade, including how firms collect and aggregate information about consumers' preferences to price discriminate and tailor product recommendations, how designing rating systems that facilitate communication between consumers can overcome moral hazard and improve trade, and how information affects firms' abilities to compete and collude with each other. We will also discuss the unique features of information goods -- for example, online content, music or data about consumer behavior -- including how to produce, price and sell information. Material will be a combination of economic concepts and case studies of specific firms or industries, including Amazon, Yelp, Airbnb and Dropbox. The goal is to identify distinct features of technology and e-commerce industries and provide a solid economic understanding of the key forces underlying these markets.
+</end course description for 45-970 Strategies in Information Markets>

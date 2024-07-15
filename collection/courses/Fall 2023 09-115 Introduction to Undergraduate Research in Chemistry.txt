@@ -1,0 +1,16 @@
+<start course metadata for 09-115 Introduction to Undergraduate Research in Chemistry>
+Semester: Fall 2023 (aka F23)
+Course Name: Introduction to Undergraduate Research in Chemistry
+Course Number: 09-115
+Department: Chemistry
+Number of Units: 2
+Prerequisites: None
+Instructors: Linda Peteanu
+Rooms: WEH 5312
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 09-115 Introduction to Undergraduate Research in Chemistry>
+
+<start course description for 09-115 Introduction to Undergraduate Research in Chemistry>
+Semester: Fall 2023 (aka F23)
+Course Description: Undergraduate research is an important activity in the training of undergraduate chemistry majors.  This course is intended for students who are planning to declare a major in chemistry who are novices to research at the university level and have an interest in being better informed about strategies and skills that contribute to success.  It is intended that this course will lead to an opportunity to participate in a series of shadowing opportunities through a second course in the spring semester where students will be mentored by upperclass students or PhD candidates in faculty laboratories. Spaces will be reserved for MCS students.  Students from other colleges with a strong interest in a chemistry major or additional major should contact the Director of Undergraduate Studies in the Chemistry Department.
+</end course description for 09-115 Introduction to Undergraduate Research in Chemistry>

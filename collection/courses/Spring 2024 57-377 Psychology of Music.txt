@@ -1,0 +1,16 @@
+<start course metadata for 57-377 Psychology of Music>
+Semester: Spring 2024 (aka S24)
+Course Name: Psychology of Music
+Course Number: 57-377
+Department: Music
+Number of Units: 9
+Prerequisites: None
+Instructors: Richard Randall
+Rooms: CFA 102
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-377 Psychology of Music>
+
+<start course description for 57-377 Psychology of Music>
+Semester: Spring 2024 (aka S24)
+Course Description: Music cognition is an interdisciplinary approach to understanding the mental processes that support musical behaviors, including perception, comprehension, memory, attention, and performance. Like language, music is a uniquely human capacity that arguably played a central role in the origins of human cognition.  This course is a survey of current approaches to and theories about the perception and cognition of music. Topics covered include psychoacoustics; the cognitive neuroscience of music; relationships between music and language; the nature of musical knowledge; and debates about aesthetics, evolutionary psychology, and musical universals.  At the end of this course a student should be able to identify key theories and hypotheses in music cognition as they relate to memory, emotion, physiology, neurology, acoustics, language, and evolution.  They will be able to comparatively evaluate hypotheses and place them in an intellectual context.  These objectives will be achieved though critical reading, discussions, and written exercises.  There are no prerequisites for this course. It will be helpful for you to know some basic elements of music theory (such as the names for chords, Roman numerals, and so on), but some extra help will be available to cover these topics.  Some notational basics will be covered in the first lecture.
+</end course description for 57-377 Psychology of Music>

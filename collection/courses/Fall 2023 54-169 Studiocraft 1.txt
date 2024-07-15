@@ -1,0 +1,16 @@
+<start course metadata for 54-169 Studiocraft 1>
+Semester: Fall 2023 (aka F23)
+Course Name: Studiocraft 1
+Course Number: 54-169
+Department: Drama
+Number of Units: 13
+Prerequisites: None
+Instructors: Beth Zamborsky, Dick Block
+Rooms: PCA 304
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-169 Studiocraft 1>
+
+<start course description for 54-169 Studiocraft 1>
+Semester: Fall 2023 (aka F23)
+Course Description: The studiocraft course provides beginning level instruction in Drawing, Hand Drafting, and CAD Drafting.
+</end course description for 54-169 Studiocraft 1>

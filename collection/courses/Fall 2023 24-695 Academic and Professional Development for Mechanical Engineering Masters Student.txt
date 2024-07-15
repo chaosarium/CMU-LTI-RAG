@@ -1,0 +1,16 @@
+<start course metadata for 24-695 Academic and Professional Development for Mechanical Engineering Masters Student>
+Semester: Fall 2023 (aka F23)
+Course Name: Academic and Professional Development for Mechanical Engineering Masters Student
+Course Number: 24-695
+Department: Mechanical Engineering
+Number of Units: 1
+Prerequisites: None
+Instructors: Melissa Brown
+Rooms: HOA 160
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-695 Academic and Professional Development for Mechanical Engineering Masters Student>
+
+<start course description for 24-695 Academic and Professional Development for Mechanical Engineering Masters Student>
+Semester: Fall 2023 (aka F23)
+Course Description: This course, required for all first-year masters students in the Department of Mechanical Engineering, will cover fundamental and practical topics for their academic and professional development.  The course offers ten one-hour workshop sessions throughout the fall semester.  A short assignment will be given after each session.   The sessions will cover three categories of topics: (1) career planning, (2) graduate study, and (3) social issues.  The first category covers alumni panels, Ph.D. panels, and employer information.  The second category covers time management and group dynamics.  The third category covers diversity, equity and inclusion, ethics, and academic integrity.  Assessment Structure: Attendance and assignments
+</end course description for 24-695 Academic and Professional Development for Mechanical Engineering Masters Student>

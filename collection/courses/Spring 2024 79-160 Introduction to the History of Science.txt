@@ -1,0 +1,16 @@
+<start course metadata for 79-160 Introduction to the History of Science>
+Semester: Spring 2024 (aka S24)
+Course Name: Introduction to the History of Science
+Course Number: 79-160
+Department: History
+Number of Units: 9
+Prerequisites: None
+Instructors: Christopher Phillips
+Rooms: PH 100
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 79-160 Introduction to the History of Science>
+
+<start course description for 79-160 Introduction to the History of Science>
+Semester: Spring 2024 (aka S24)
+Course Description: This course provides an introduction to the history of modern science in Europe and North America, from the Enlightenment to the mid-twentieth century. Our goal is to understand scientific theories and practices on their own terms and as products of their own contexts, rather than as a progression of developments moving inevitably toward the present. The course seeks to explore both how and why science has become the dominant way of knowing about the natural world, as well as how scientific activity intersects with the history of religion, war, commerce, and the state. The course also introduces students to the history of science as a standalone discipline, and in particular to the similarities and differences with other objects of historical inquiry (art, politics, etc.).  This course fulfills Dietrich College's "Humanities" general education requirement.
+</end course description for 79-160 Introduction to the History of Science>

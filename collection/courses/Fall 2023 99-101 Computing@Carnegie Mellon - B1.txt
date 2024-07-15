@@ -1,0 +1,16 @@
+<start course metadata for 99-101 Computing@Carnegie Mellon - B1>
+Semester: Fall 2023 (aka F23)
+Course Name: Computing@Carnegie Mellon - B1
+Course Number: 99-101
+Department: Carnegie Mellon University-Wide Studies
+Number of Units: 3
+Prerequisites: None
+Instructors: April Rupp, Khalid Warraich, Mariamma Thomas, Reya Saliba
+Rooms: BH 140B; CMB 2163; CYH 100A; DNM DNM; WEH 5201; WEH 5202
+Locations: Doha, Qatar; Pittsburgh, Pennsylvania
+</end course metadata for 99-101 Computing@Carnegie Mellon - B1>
+
+<start course description for 99-101 Computing@Carnegie Mellon - B1>
+Semester: Fall 2023 (aka F23)
+Course Description: Computing@Carnegie Mellon (C@CM) is a 3-unit, pass/fail mini course that will help you develop foundational computing and information literacy skills, focusing on the tools and technologies that are specific to Carnegie Mellon so you can be successful in your other academic courses. All undergraduate students are required to take the course.  C@CM is offered in a hybrid format through the Open Learning Initiative's (OLI) online course environment; meaning that you'll complete your coursework online and attend a face-to-face recitation session for review and supplemental instruction.
+</end course description for 99-101 Computing@Carnegie Mellon - B1>

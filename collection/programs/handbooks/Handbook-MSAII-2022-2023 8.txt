@@ -1,0 +1,25 @@
+Handbook-MSAII-2022-2023
+9 The Language Technologies Institute 
+9.1 Working Space for MS Students 
+Except for restrictions due to COVID, full-time students in the LTI’s MS degree programs on the 
+Pittsburgh campus have access to a shared working space to create a sense of community and 
+provide space for working when on campus. 
+9.2 Photocopies and Printers 
+Mailboxes, printers, copiers, and other departmental resources are located in GHC 5404 
+The use of a photocopier requires only a CMU ID card.  The School of Computer Science 
+provides a number of black-and-white and color printers for use by students.  The SCS 
+Computer Facilities publishes a list of printers online at https://computing.cs.cmu.edu/desktop/printing.  When you send a file to  the print queue, you 
+may go to any of the listed printers, swipe yo ur CMU ID, and the file will be printed on that 
+printer. 
+9.3 Computers for MS Students 
+Students are expected to provide their own laptop computers that can be used to access 
+university resources and complete course assignments.  Laptops running  Windows, MacOS, and 
+Linux software are all acceptable. 
+MS students will be given a CS user id.  A CS us er id is required to use the LTI computer cluster, 
+department printers, and other SC S services.  The School of Computer Science has a Help 
+Center located at 4203 GHC.  They can be contacted at help@cs.cmu.edu , extension 8-4231 from 
+a campus phone, or 412-268-4 231 from an outside line. 
+MS students will be given access to the LTI’s computer cluster on an as-needed basis, to be used 
+for course assignments, directed study projects, and/or the capstone project.  The LTI cluster 
+provides storage and computation for projects  involving large datasets and/or lengthy 
+computation.  

@@ -1,0 +1,16 @@
+<start course metadata for 45-831 Pricing Strategy>
+Semester: Spring 2024 (aka S24)
+Course Name: Pricing Strategy
+Course Number: 45-831
+Department: Business Administration
+Number of Units: 6
+Prerequisites: 45-730
+Instructors: Joy Lu
+Rooms: TEP 2110
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-831 Pricing Strategy>
+
+<start course description for 45-831 Pricing Strategy>
+Semester: Spring 2024 (aka S24)
+Course Description: Course Prerequisites:  Marketing Management and Probability & Statistics or their equivalents are required.    Determining the price of a product or service is one of the most important marketing decisions. It is also one of the most complex and least understood aspects of marketing. While many marketing activities are geared toward creating value for the customer, sound pricing decisions are the fundamental tool for businesses to capture the value they create. In today's hypercompetitive environment, even slight errors in determining the best price can lead to large financial losses. This course draws on the fundamental disciplines of microeconomics, statistics and psychology to shed light on good pricing practice. It surveys some popular pricing practices, explores their pitfalls, and identifies the fallacies they are based on. The first part of the course discusses the foundations for sound pricing decisions: costs, customer and competition. It then moves on to current pricing strategies, tactics and their applications: pricing over the product life cycle; product line pricing; pricing through the marketing channel; price discrimination; two-part tariffs and nonlinear pricing; price bundling; perceived value pricing; and competitive pricing. The course objectives are (1) to build the right pricing philosophy that guides everyday marketing activities, (2) to introduce a framework, based on concepts drawn from cognitive psychology, economics and industrial organization, to study pricing decisions, and (3) to master some concrete analytical and numerical tools for its successful creation, utilization, and management of sound pricing decisions
+</end course description for 45-831 Pricing Strategy>

@@ -1,0 +1,16 @@
+<start course metadata for 57-520 Major Studio (Percussion)>
+Semester: Spring 2024 (aka S24)
+Course Name: Major Studio (Percussion)
+Course Number: 57-520
+Department: Music
+Number of Units: 9
+Prerequisites: None
+Instructors: Christopher Allen, Jeremy Branson, Paul Evans
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-520 Major Studio (Percussion)>
+
+<start course description for 57-520 Major Studio (Percussion)>
+Semester: Spring 2024 (aka S24)
+Course Description: A one hour private lesson per week for all music majors.
+</end course description for 57-520 Major Studio (Percussion)>

@@ -1,0 +1,6 @@
+Name: Scott Fahlman
+Title: Research Professor Emeritus
+Email sef@cs.cmu.edu
+Phone: 412-268-2575
+Office: 6417 Gates & Hillman Centers
+Interests: AI, Knowledge Representation and Reasoning, Natural Language Understanding

@@ -1,0 +1,16 @@
+<start course metadata for 57-393 Keyboard Studies Test (Music Ed)>
+Semester: Spring 2024 (aka S24)
+Course Name: Keyboard Studies Test (Music Ed)
+Course Number: 57-393
+Department: Music
+Number of Units: 0
+Prerequisites: None
+Instructors: Carla Larocca
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-393 Keyboard Studies Test (Music Ed)>
+
+<start course description for 57-393 Keyboard Studies Test (Music Ed)>
+Semester: Spring 2024 (aka S24)
+Course Description: This is the keyboard proficiency test which is a requirement for all undergraduate music majors who are music education minors.
+</end course description for 57-393 Keyboard Studies Test (Music Ed)>

@@ -1,0 +1,16 @@
+<start course metadata for 18-310 Fundamentals of Semiconductor Devices>
+Semester: Spring 2024 (aka S24)
+Course Name: Fundamentals of Semiconductor Devices
+Course Number: 18-310
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: 18-220
+Instructors: Jian-Gang Zhu, Xu Zhang
+Rooms: POS 151; SH 236
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-310 Fundamentals of Semiconductor Devices>
+
+<start course description for 18-310 Fundamentals of Semiconductor Devices>
+Semester: Spring 2024 (aka S24)
+Course Description: This course replaced 18311 in Spring 2005.  In this course you will receive an introduction to the operation and fabrication of the most important semiconductor devices used in integrated circuit technology together with device design and layout. At the end of the course you will have a basic understanding of pn diodes, bipolar transistors, and MOSFETs as well as some light emitting and light detecting devices such as photodiodes, LEDs and solar cells. You will also receive an introduction to the fundamental concepts of semiconductor physics such as doping, electron and hole transport, and band diagrams. In the laboratory you will learn how to lay out both bipolar and MOS devices and you will design small (2-3 transistor) circuits. The laboratory portion of the course emphasizes the relation between device design and layout and circuit performance. You will also experimentally evaluate the operation of amplifier and gate circuits fabricated with discrete devices. This course will give you an excellent understanding of the operation and fabrication of the devices which is necessary for high-performance analog and digital circuit design.     3 hrs. lec.     (Note: the prerequisite is typically waived for MSE students who intend to pursue the Electronic Materials Minor.)
+</end course description for 18-310 Fundamentals of Semiconductor Devices>

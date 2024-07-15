@@ -1,0 +1,16 @@
+<start course metadata for 19-550 Undergraduate Research>
+Semester: Fall 2023 (aka F23)
+Course Name: Undergraduate Research
+Course Number: 19-550
+Department: Engineering & Public Policy
+Number of Units: N/A
+Prerequisites: None
+Instructors: Deanna Matthews
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 19-550 Undergraduate Research>
+
+<start course description for 19-550 Undergraduate Research>
+Semester: Fall 2023 (aka F23)
+Course Description: Students may do undergraduate research as one course for EPP technical elective credit, with an EPP faculty member, or on an approved project with a faculty member from another department. The research credits must be pre-approved by your advisor, and should result in a written product, one copy of which should be sent to EPP.
+</end course description for 19-550 Undergraduate Research>

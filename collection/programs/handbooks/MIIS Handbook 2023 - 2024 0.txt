@@ -1,0 +1,151 @@
+MIIS Handbook_2023 - 2024
+1 Welcome  
+Welcome to the Language Technologies Institute. While this handbook (and your college 
+graduate student handbook) is specific to your academic experience in the LTI, there are 
+several other resources and offices that graduate students are encouraged to consult during 
+their tenure at Carnegie Mellon University. Information about The Word, the student 
+handbook, the Office of Graduate and Postdoc Affairs, the Office of the Dean of Student Affairs, and others, are included in Appendix A of this  handbook.
+ 
+1.1 Vision  
+Carnegie Mellon University will have a transformative impact on society through continual  
+innovation in education, research, creativity, and entrepreneurship.  
+1.2 Mission  
+To create a transformative educational  experience for students focused on deep disciplinary  
+knowledge; problem solving; leadership, communication, and interpersonal skills; and personal  health and well -being.  
+ To cultivate a transformative university  community committed to (a) attracting and retaining  
+diverse, world -class talent; (b) creating a collaborative environment open to the free exchange 
+of ideas, where research, creativity, innovation, and entrepreneurship can flourish; and (c) 
+ensuring  individuals can achieve their full potential.  
+ 
+To impact society in a transformative way  — regionally, nationally, and globally —  by engaging  
+with partners outside the traditional borders of the university campus.  
+1.3 The MIIS Degree  
+The Master of Science in Intelligent Information Systems (MIIS) is a professional degree 
+offered by the Language Technologies Institute (LTI), a graduate department in the School of 
+Computer Science at Carnegie Mellon University.  The MIIS degree provides advanced study 
+and practical experience in areas of Computer Science focused on the processing and analysis 
+of unstructured and semi -structured information, for example, text, image, video, speech, and 
+audio information. It is a practice -oriented professional degree designed for students who 
+want to rapidly master advanced content -analysis, mining, and intelligent information 
+technologies prior to beginning or resuming leadership careers in industry and government.  
+There are significant differences between CMU's different departments and degree programs 
+in philosophical approach, procedures, policies,  and regulations. Each department issues a 
+MIIS Graduate Student Handbook  Page 7 
+ handbook that informs graduate students of their program requirements and procedures and 
+ensures that students have written access to the standard information outlined below. This 
+handbook describes the policies, procedures, and requirements for the Master  of Science in 
+Intelligent Information Systems (MIIS) degree.  
+While this handbook is specific to your academic experience in the department, there are several other resources and offices graduate students are encouraged to consult during their 
+tenure at Carnegie Mellon University.  Information about The Word, the Student Handbook , 
+the Office of Graduate and Postdoc Affairs , the Office of the Dean of Student Affairs and others 
+are included in Appendix A of this handbook.  
+All policies not explicitly described in this document conform to School of Computer Science 
+(SCS) policies and university policies described in The Word, the Student Handbook  and at 
+the University Policies website .  It is the responsibility of each member of the Carnegie Mellon 
+community to be familiar with university policies and guidelines.  
+1.4 MIIS Contact Information  
+The people responsible for administering the MIIS degree are:  
+ Brianna Eriksen     Teruko Mitamura  
+ Academic Program Manager    Program Director, MIIS  
+ GHC 6415      Professor, LTI   
+ 412-268-4277     GHC 6711 
+ bfreema2@andrew.cmu.edu     412-268-6596  
+        teruko@andrew.cmu.edu  
+  
+Kate Schaich      Robert Frederking  
+Administrative Manager    Chair of Graduate Programs, LTI  
+GHC 6415      Principal Systems Scientist  
+412-268-4788      412-268-6656  
+kschaich@andrew.cmu.edu   ref@cs.cmu.edu
+ 
+  
+ 
+Mona Diab  
+     Director, LTI  
+     GHC 5415  
+     412-268-3669  
+     mdiab@andrew.cmu.edu  
+ 
+In addition, students may confer with the Graduate Education Office 
+(graded@andrew.cmu.edu ) regarding issues of process or other concerns as they navigate 
+conflicts.  
+MIIS Graduate Student Handbook  Page 8 
+ The Language Technologies Institute is located primarily on the 5th and 6th floors of the Gates 
+Hillman Complex (GHC) on Carnegie Mellon’s Pittsburgh campus .  The address and contact 
+information of the LTI are : 
+Language Technologies Institute  
+Carnegie Mellon University  
+5000 Forbes Avenue  
+Gates Hillman Complex 5404 , LTI  
+Pittsburgh, PA 15241 -3891  
+ 
+412-268-6591  (phone)  
+412-268-6298 (fax)  
+ 
+http://www.lti.cs.cmu.edu/  
+1.5 Carnegie Mellon University Statement of Assurance  
+Carnegie Mellon University does not discriminate in admission, employment or administration 
+of its programs or activities on the basis of race, color, national origin, sex, handicap or disability, 
+age, sexual orientation, gender identity, religion, creed, ancestry, belief, veteran status or genetic 
+information. Furthermore, Carnegie Mellon University does not discriminate and is required 
+not to discriminate in violation of federal, state, or local laws or executive orders.  
+  
+Inquiries concerning the application of and compliance with this statement should be directed 
+to the university ombuds person , Carnegie Mellon University, 5000 Forbes Avenue, Pittsburgh, 
+PA 15213, telephone 412- 268-1018.  Obtain general information about Carnegie Mellon 
+University by calling 412 -268-2000.  
+  
+Carnegie Mellon University publishes an annual campus security and fire safety report 
+describing the university's security, alcohol and drug, sexual assault,  and fire safety policies, and 
+containing statistics about the number and type of crimes committed on the campus, and the 
+number and cause of fires in campus residence facilities during the preceding three years. You 
+can obtain a copy by contacting the Carnegie Mellon Police Department at 412 -268-2323. The 
+annual security and fire safety report also is available online 
+at www.cmu.edu/police/annualreports . 
+ 
+Information regarding the application of Title IX, including to admission and employment 
+decisions, the sexual misconduct grievance procedures and process, including how to file a 
+report or a complaint of sex discrimination, how to file a report of sexual harassment, and how 
+the university responds to such reports is available at www.cmu.edu/title -ix. The Title IX 
+coordinator may be reached at 5000 Forbes Ave., 140 Cyert Hall, Pittsburgh, PA 15213; 412 -268-
+7125; or tix@cmu.edu.  
+MIIS Graduate Student Handbook  Page 9 
+ 1.6 The Carnegie Mellon Code  
+Students at Carnegie Mellon, because they are members of an academic community dedicated 
+to the achievement of excellence, are expected to meet the highest standards of personal, 
+ethical,  and moral conduct possible.  
+ These standards require personal integrity, a commitment to honesty without compromise, as well as truth without equivocation and a willingness to place the good of the community 
+above the good of the self. Obligations once undertaken must be met, commitments kept.  
+ As members of the Carnegie Mellon community, individuals are expected to uphold the 
+standards of the community in addition to holding others accountable for said standards. It is 
+rare that the life of a student in an academic community can be so private that it will not affect 
+the community as a whole or that the above standards do not apply.   
+The discovery, advancement and communication of knowledge are not possible without a commitment to these standards. Creativity cannot exist without acknowledgment of the 
+creativity of others. New knowledge cannot be developed without credit for prior knowl edge. 
+Without the ability to trust that these principles will be observed, an academic community 
+cannot exist.  
+The commitment of its faculty, staff and students to these standards contributes to the high respect in which the Carnegie Mellon degree is held. Students must not destroy that respect 
+by their failure to meet these standards. Students who cannot meet them  should voluntarily 
+withdraw from the university.  
+The Carnegie Mellon Code can also be found on -line at https://www.cmu. edu
+/student-
+affairs/theword/.  
+1.7 University Policies and Expectations  
+It is the responsibility of each member of the Carnegie Mellon community to be familiar with 
+university policies and guidelines. In addition to this departmental graduate student 
+handbook, the following resources are available to assist you in understanding community 
+expectations:  
+ The Word/Student Handbook  www.cmu.edu/student -affairs/theword//index.html  
+ Academic Integrity Policy  https:// www.cmu.edu/policies/student- and-student-
+life/academic -integrity.html  
+ University Policies Website  www.cmu.edu/policies/  
+MIIS Graduate Student Handbook  Page 10  
+ Office of Graduate and Postdoc Affairs  http://www.cmu.edu/graduate/policies/index.html  
+ 
+Due to the changing nature of conditions and expectations surrounding public health and 
+safety requirements, please visit  www.cmu.edu/coronavirus  for the most up to date 
+information.   
+Please see Appendix A for additional information about The Word and U niversity resources.  
+1.8 Academic Calendar  
+The Academic Calendar can be found at  https://www.cmu.edu/hub/calendar/index.html  and 
+provides information on all deadlines including registration dates, class start dates, add/drop deadlines, exam dates and more.  

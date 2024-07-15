@@ -1,0 +1,16 @@
+<start course metadata for 03-161 Molecules to Mind>
+Semester: Spring 2024 (aka S24)
+Course Name: Molecules to Mind
+Course Number: 03-161
+Department: Biological Sciences
+Number of Units: 9
+Prerequisites: None
+Instructors: Alison Barth
+Rooms: POS 153
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 03-161 Molecules to Mind>
+
+<start course description for 03-161 Molecules to Mind>
+Semester: Spring 2024 (aka S24)
+Course Description: This course provides a depth-first approach to understanding neuroscience.  We will begin with a clinical focus on neuroanatomy, introducing students to some basic neurological diagnostic techniques. We will then explore the biological basis of neuronal function and link the function of individual neurons to a broader context of neural systems.  This will be done in the context of primary literature.  Students who complete this course will therefore have an understanding of research methods and be prepared to evaluate scientific literature.  The course will have a strong focus on the biological and cellular basis of neuronal excitability and also give students significant, in depth exposure to the function of synapses and their plasticity.  Finally, the course will give students an in depth look at sensory and/or motor systems by focusing on one system in particular.
+</end course description for 03-161 Molecules to Mind>

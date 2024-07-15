@@ -1,0 +1,16 @@
+<start course metadata for 90-907 Econometric Theory and Methods>
+Semester: Spring 2024 (aka S24)
+Course Name: Econometric Theory and Methods
+Course Number: 90-907
+Department: Public Policy & Mgt:Sch of Pub Pol & Mgt
+Number of Units: 12
+Prerequisites: 90-905 and 90-906
+Instructors: Akshaya Jha
+Rooms: HBH 1005
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 90-907 Econometric Theory and Methods>
+
+<start course description for 90-907 Econometric Theory and Methods>
+Semester: Spring 2024 (aka S24)
+Course Description: This course covers a number of econometric models and techniques that are commonly used in applied microeconomics. The core topics include a general framework for estimators (which includes maximum likelihood and generalized method of moments), discrete outcome models, sample selection (and related limited dependent variable or switching models), duration and count models, time series models, panel data models, variance estimation (including clustering and the bootstrap), and non-parametric techniques.  The course is designed for PhD students who have completed 90-907 (PhD Econometrics I) or an equivalent course.
+</end course description for 90-907 Econometric Theory and Methods>

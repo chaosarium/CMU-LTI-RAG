@@ -1,0 +1,16 @@
+<start course metadata for 95-749 Cryptography>
+Semester: Spring 2024 (aka S24)
+Course Name: Cryptography
+Course Number: 95-749
+Department: Information Systems:Sch of IS & Mgt
+Number of Units: 6
+Prerequisites: None
+Instructors: Robert Beveridge
+Rooms: HBH 1204
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 95-749 Cryptography>
+
+<start course description for 95-749 Cryptography>
+Semester: Spring 2024 (aka S24)
+Course Description: This course emphasizes the practical employment of crytography. Topics include:  *Techniques used to design cryptographic mechanisms (block and stream ciphers, hash algorithms, digital certificates, and others)  * How these mechanisms have been incorporated into modern security technologies  *Practical application of these methods to incorporate security into cyber activities
+</end course description for 95-749 Cryptography>

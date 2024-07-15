@@ -1,0 +1,16 @@
+<start course metadata for 36-497 Industry Research Project>
+Semester: Spring 2024 (aka S24)
+Course Name: Industry Research Project
+Course Number: 36-497
+Department: Statistics and Data Science
+Number of Units: 9
+Prerequisites: None
+Instructors: Joel Greenhouse, Zachary Branson
+Rooms: PH 226A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 36-497 Industry Research Project>
+
+<start course description for 36-497 Industry Research Project>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is designed to give undergraduate students experience applying statistics & data science methodology to real industry projects. Small groups of students will be matched with industry clients and do supervised projects for a semester. Students will gain skills in approaching a real world problem, critical thinking, advanced statistical analysis, scientific writing, collaborating in an industry setting, communicating results, and meeting expectations with respect to deliverables and timelines.  The industry clients will change and rotate each semester; available projects will be advertised prior to registration.  The course size is limited, and students will submit an application including their project preferences.   Students with skill sets matching project needs will be given priority.  We will also take into consideration whether or not a student has had a recent prior corporate capstone experience with the goal of providing experiences to a broad group of qualified students.
+</end course description for 36-497 Industry Research Project>

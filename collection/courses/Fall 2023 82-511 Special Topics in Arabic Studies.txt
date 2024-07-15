@@ -1,0 +1,16 @@
+<start course metadata for 82-511 Special Topics in Arabic Studies>
+Semester: Fall 2023 (aka F23)
+Course Name: Special Topics in Arabic Studies
+Course Number: 82-511
+Department: Modern Languages
+Number of Units: 9
+Prerequisites: None
+Instructors: Ezzohra Moufid
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 82-511 Special Topics in Arabic Studies>
+
+<start course description for 82-511 Special Topics in Arabic Studies>
+Semester: Fall 2023 (aka F23)
+Course Description: This repeatable course explores the Arabic language and culture through a thematic or conceptual focus. Students critically analyze authentic documents through, for example, historical, biographical, filmic, artistic, literary, musical, and theoretical perspectives, while improving and expanding their language skills.
+</end course description for 82-511 Special Topics in Arabic Studies>

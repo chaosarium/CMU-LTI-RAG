@@ -1,0 +1,16 @@
+<start course metadata for 21-355 Principles of Real Analysis I>
+Semester: Fall 2023 (aka F23)
+Course Name: Principles of Real Analysis I
+Course Number: 21-355
+Department: Mathematical Sciences
+Number of Units: 9
+Prerequisites: (21-127 or 21-128 or 15-151) and (21-122)
+Instructors: Katarzyna Wyczesany, Matthew Rosenzweig
+Rooms: GHC 5222; PH A18C
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-355 Principles of Real Analysis I>
+
+<start course description for 21-355 Principles of Real Analysis I>
+Semester: Fall 2023 (aka F23)
+Course Description: This course provides a rigorous and proof-based treatment of functions of one real variable. The course presumes some mathematical sophistication including the ability to recognize, read, and write proofs. Topics include: The Real Number System: Field and order axioms, sups and infs, completeness. Real Sequences. Bolzano-Weierstrass theorem. Topology of the Real Line: Open sets, closed sets, compactness, Heine-Borel Theorem. Continuity: extreme and intermediate value theorems, uniform continuity. Differentiation: chain rule, local extrema, mean-value theorem, L'Hospital's rule, Taylor's theorem. Riemann integration: sufficient conditions for integrability, fundamental theorems of calculus. (Three 50 minute lectures)
+</end course description for 21-355 Principles of Real Analysis I>

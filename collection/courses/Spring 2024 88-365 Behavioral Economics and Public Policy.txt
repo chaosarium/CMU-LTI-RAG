@@ -1,0 +1,16 @@
+<start course metadata for 88-365 Behavioral Economics and Public Policy>
+Semester: Spring 2024 (aka S24)
+Course Name: Behavioral Economics and Public Policy
+Course Number: 88-365
+Department: Social & Decision Sciences
+Number of Units: 9
+Prerequisites: 88-220 or 73-100 or 73-102
+Instructors: George Loewenstein
+Rooms: HBH 1002
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 88-365 Behavioral Economics and Public Policy>
+
+<start course description for 88-365 Behavioral Economics and Public Policy>
+Semester: Spring 2024 (aka S24)
+Course Description: Economics has up to now been the social science that has been most broadly and deeply involved in public policy.  With its rational choice perspective, the economic perspective has tended to favor certain types of policies   namely those   that enhance the efficiency of market mechanisms and lower the cost of information.  In this course we will spend the first several classes reviewing the assumptions, implications for public policy and limitations of the rational   choice perspective.  The remainder of the course will then be devoted to examining different public policy issues, including saving, health care, crime and drug abuse, through the competing lenses of traditional and behavioral economics.
+</end course description for 88-365 Behavioral Economics and Public Policy>

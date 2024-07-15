@@ -1,0 +1,16 @@
+<start course metadata for 70-440 Corporate Strategy>
+Semester: Fall 2023 (aka F23)
+Course Name: Corporate Strategy
+Course Number: 70-440
+Department: Business Administration
+Number of Units: 9
+Prerequisites: None
+Instructors: Hussein Fadlallah
+Rooms: CMB 1190
+Locations: Doha, Qatar
+</end course metadata for 70-440 Corporate Strategy>
+
+<start course description for 70-440 Corporate Strategy>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is designed to provide the student with a general management perspective and an understanding of the total business enterprise. It builds upon previous course work in functional areas and provides insights and analytical tools which a general manager should have in order to plan and implement successful business strategy. The student will analyze complex business problems and formulate realistic strategic solutions. Emphasis is placed on the practical application of business theory by the student in their business career.
+</end course description for 70-440 Corporate Strategy>

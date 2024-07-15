@@ -1,0 +1,16 @@
+<start course metadata for 03-124 Modern Biology Laboratory>
+Semester: Summer Two 2024 (aka M24, M24 Mini 2, Summer 2024 Mini 2)
+Course Name: Modern Biology Laboratory
+Course Number: 03-124
+Department: Biological Sciences
+Number of Units: 9
+Prerequisites: None
+Instructors: Carrie Doonan
+Rooms: MI 333; MI SOCIAL
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 03-124 Modern Biology Laboratory>
+
+<start course description for 03-124 Modern Biology Laboratory>
+Semester: Summer Two 2024 (aka M24, M24 Mini 2, Summer 2024 Mini 2)
+Course Description: None
+</end course description for 03-124 Modern Biology Laboratory>

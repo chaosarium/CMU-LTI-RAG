@@ -1,0 +1,16 @@
+<start course metadata for 86-700 Reading and Research in Computational Neuroscience>
+Semester: Summer Two 2024 (aka M24, M24 Mini 2, Summer 2024 Mini 2)
+Course Name: Reading and Research in Computational Neuroscience
+Course Number: 86-700
+Department: Neuroscience Institute
+Number of Units: N/A
+Prerequisites: None
+Instructors: Instructor TBA
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 86-700 Reading and Research in Computational Neuroscience>
+
+<start course description for 86-700 Reading and Research in Computational Neuroscience>
+Semester: Summer Two 2024 (aka M24, M24 Mini 2, Summer 2024 Mini 2)
+Course Description: No course description provided.
+</end course description for 86-700 Reading and Research in Computational Neuroscience>

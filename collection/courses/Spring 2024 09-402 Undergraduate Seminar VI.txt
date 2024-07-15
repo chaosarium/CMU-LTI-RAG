@@ -1,0 +1,16 @@
+<start course metadata for 09-402 Undergraduate Seminar VI>
+Semester: Spring 2024 (aka S24)
+Course Name: Undergraduate Seminar VI
+Course Number: 09-402
+Department: Chemistry
+Number of Units: 3
+Prerequisites: None
+Instructors: Karen Stump
+Rooms: DH 2302
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 09-402 Undergraduate Seminar VI>
+
+<start course description for 09-402 Undergraduate Seminar VI>
+Semester: Spring 2024 (aka S24)
+Course Description: Students enrolled in this course present a 20 - 30 minute oral report on a current topic in chemistry. This may be from the student's research work or a special chemistry topic of general interest. Presentations or papers prepared for other courses are not acceptable for this purpose. Thoroughness in the use of the chemical literature is emphasized. The use of presentation aids such as PowerPoint is required. Other students in the class submit written evaluations of the presentation. Talks are recorded for viewing by the student and instructor as a means of providing individualized feedback about presentation skills. A seminar presentation is required of all chemistry majors. No exceptions possible. Enrollment is limited to students majoring in chemistry. 1 hr.
+</end course description for 09-402 Undergraduate Seminar VI>

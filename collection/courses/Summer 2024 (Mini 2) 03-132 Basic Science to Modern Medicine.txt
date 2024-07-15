@@ -1,0 +1,16 @@
+<start course metadata for 03-132 Basic Science to Modern Medicine>
+Semester: Summer Two 2024 (aka M24, M24 Mini 2, Summer 2024 Mini 2)
+Course Name: Basic Science to Modern Medicine
+Course Number: 03-132
+Department: Biological Sciences
+Number of Units: 9
+Prerequisites: None
+Instructors: Brooke Mccartney
+Rooms: WEH 5202
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 03-132 Basic Science to Modern Medicine>
+
+<start course description for 03-132 Basic Science to Modern Medicine>
+Semester: Summer Two 2024 (aka M24, M24 Mini 2, Summer 2024 Mini 2)
+Course Description: The goal of this course is to give students an understanding of the biology that impacts their everyday lives. Disease can be a tragic part of human life, a fact that is even more apparent in during a global pandemic. To understand how specific diseases like COVID-19 or cancer affect the human body, and how modern medicine can tackle them, this course includes a fundamental study of the basic molecular biology, genetics, and cell biology that underlies disease. This is a topics-based course, with topics chosen to cover aspects of biology and health that students are likely to encounter in their daily lives. The topics for summer 2022 will include COVID-19, genome editing, and cancer. We will explore these topics from both a basic science and a modern medicine perspective. Student's will gain the expertise to critically evaluate media reports about biology and health, and to ask the questions that will help them to make educated decisions in their lives.       Key topics: The course will cover at least COVID-19, cancer, and genome editing, in addition to the essential aspects of molecular biology, cell biology, and genetics needed to understand those topics.
+</end course description for 03-132 Basic Science to Modern Medicine>

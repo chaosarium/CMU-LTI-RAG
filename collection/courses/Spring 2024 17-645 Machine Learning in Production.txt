@@ -1,0 +1,16 @@
+<start course metadata for 17-645 Machine Learning in Production>
+Semester: Spring 2024 (aka S24)
+Course Name: Machine Learning in Production
+Course Number: 17-645
+Department: Software & Societal Systems
+Number of Units: 12
+Prerequisites: None
+Instructors: Christian Kaestner, Claire Le Goues
+Rooms: PH 100
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 17-645 Machine Learning in Production>
+
+<start course description for 17-645 Machine Learning in Production>
+Semester: Spring 2024 (aka S24)
+Course Description: The course takes a software engineering perspective on building software systems with a significant machine learning or AI component. It discusses how to take an idea and a model developed by a data scientist (e.g., scripts and Jupyter notebook) and deploy it as part of scalable and maintainable system (e.g., mobile apps, web applications, IoT devices). Rather than focusing on modeling and learning itself, this course assumes a working relationship with a data scientist and focuses on issues of design, implementation, operation, and assurance and how those interact with the data scientist's modeling.  This course is aimed at software engineers who want to understand the specific challenges of working with AI components and at data scientists who want to understand the challenges of getting a prototype model into production; it facilitates communication and collaboration between both roles.
+</end course description for 17-645 Machine Learning in Production>

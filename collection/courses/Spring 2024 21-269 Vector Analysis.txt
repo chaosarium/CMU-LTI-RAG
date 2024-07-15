@@ -1,0 +1,16 @@
+<start course metadata for 21-269 Vector Analysis>
+Semester: Spring 2024 (aka S24)
+Course Name: Vector Analysis
+Course Number: 21-269
+Department: Mathematical Sciences
+Number of Units: 12
+Prerequisites: 21-242 or 21-241
+Instructors: Giovanni Leoni
+Rooms: GHC 4215
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-269 Vector Analysis>
+
+<start course description for 21-269 Vector Analysis>
+Semester: Spring 2024 (aka S24)
+Course Description: A component of the honors program, 21-269 is a more demanding version of 21-268 of greater scope, with greater emphasis placed on rigorous proofs. Topics to be covered typically include: the real field, sups, infs, and completeness; geometry and topology of metric spaces; limits, continuity, and derivatives of maps between normed spaces; inverse and implicit function theorems, higher derivatives, Taylor's theorem, extremal calculus, and Lagrange multipliers. Integration. Iterated integration and change of variables.   (Three 50 minute lectures, two 50 minute recitations)
+</end course description for 21-269 Vector Analysis>

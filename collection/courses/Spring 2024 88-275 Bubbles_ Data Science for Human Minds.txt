@@ -1,0 +1,16 @@
+<start course metadata for 88-275 Bubbles: Data Science for Human Minds>
+Semester: Spring 2024 (aka S24)
+Course Name: Bubbles: Data Science for Human Minds
+Course Number: 88-275
+Department: Social & Decision Sciences
+Number of Units: 9
+Prerequisites: 36-200 or 70-207
+Instructors: Simon DeDeo
+Rooms: HH B131
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 88-275 Bubbles: Data Science for Human Minds>
+
+<start course description for 88-275 Bubbles: Data Science for Human Minds>
+Semester: Spring 2024 (aka S24)
+Course Description: No one is an island: from the casual interactions of day-to-day life to the global markets that supply us with the fruits of our technologies, the fabric of experience is woven out of interaction with other people. This course will introduce you to basic ideas in psychology, economics, and the social sciences that help us understand how this happens. We'll learn about both the mysterious inner world of human experience, and the equally strange and striking social phenomena that they lead to. We'll experiment on ourselves in class to discover unexpected aspects of our own unconscious, and how irrational even the best groups can be. Most importantly, we'll send you out into the world - the physical worlds of CMU and Pittsburgh, and the virtual ones online¿to conduct your own investigations. We know extraordinarily little about the "human animal", and the best way to learn is to go look for ourselves.
+</end course description for 88-275 Bubbles: Data Science for Human Minds>

@@ -1,0 +1,16 @@
+<start course metadata for 05-670 Digital Service Innovation>
+Semester: Spring 2024 (aka S24)
+Course Name: Digital Service Innovation
+Course Number: 05-670
+Department: Human-Computer Interaction
+Number of Units: 12
+Prerequisites: None
+Instructors: Laura Vinchesi, Rostislav Rybalov
+Rooms: 4SC 104
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 05-670 Digital Service Innovation>
+
+<start course description for 05-670 Digital Service Innovation>
+Semester: Spring 2024 (aka S24)
+Course Description: Attention entrepreneurs, designers, and engineers! This course teaches you to invent mobile information services. You will learn about value-creation in the service sector and a human-centered design process including improv brainstorming, story-boarding, interviewing, video sketches, and selling. Students work in small, interdisciplinary teams to discover unmet needs of users. They create multiple concepts of a mobile service and assess their technical feasibility, financial viability, and desirability. Then they choose a single service idea and produce a plan with a business model and a video sketch suitable for posting on a crowd funding site. Grades will be determined primarily by the quality of the team's products.
+</end course description for 05-670 Digital Service Innovation>

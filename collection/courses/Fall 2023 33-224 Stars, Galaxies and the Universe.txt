@@ -1,0 +1,16 @@
+<start course metadata for 33-224 Stars, Galaxies and the Universe>
+Semester: Fall 2023 (aka F23)
+Course Name: Stars, Galaxies and the Universe
+Course Number: 33-224
+Department: Physics
+Number of Units: 9
+Prerequisites: 33-106 or 33-131 or 33-111 or 33-141 or 33-151 or 33-121
+Instructors: Matthew Walker
+Rooms: POS 151
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 33-224 Stars, Galaxies and the Universe>
+
+<start course description for 33-224 Stars, Galaxies and the Universe>
+Semester: Fall 2023 (aka F23)
+Course Description: The study of astronomy has blossomed over the past few decades as a result of new ground-based and space-based telescopes, and with the advantage of fast computers for analysis of the huge quantities of data. As our astronomical horizon expands, we are still able to use the laws of physics to make sense of it all. This course is for students who want to understand the basic concepts in astronomy and what drives astronomical objects and the universe. The course emphasizes the application of a few physical principles to a variety of astronomical settings, from stars to galaxies to the structure and evolution of the universe. Introductory classical physics is required, but modern physics will be introduced as needed in the course. The course is intended for science and engineering majors as well as students in other disciplines with good technical backgrounds. Computer lab exercises will be used to gain practical experience in astronomical techniques. In addition, small telescopes are available for personal sign-out for those who would like to use them, and outdoor observing sessions will be organized as weather permits.
+</end course description for 33-224 Stars, Galaxies and the Universe>

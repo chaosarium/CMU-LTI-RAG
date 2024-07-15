@@ -1,0 +1,16 @@
+<start course metadata for 67-313 Digital Risk Management and Auditing>
+Semester: Spring 2024 (aka S24)
+Course Name: Digital Risk Management and Auditing
+Course Number: 67-313
+Department: Information Systems Program
+Number of Units: 9
+Prerequisites: 67-250 or 70-110
+Instructors: Savanid  Nui Vatanasakdakul
+Rooms: CMB 3048
+Locations: Doha, Qatar
+</end course metadata for 67-313 Digital Risk Management and Auditing>
+
+<start course description for 67-313 Digital Risk Management and Auditing>
+Semester: Spring 2024 (aka S24)
+Course Description: This course introduces the fundamental concepts of the information technology audit and control function. The main focus of this course is on understanding information controls, the types of controls and their impact on the organization, and how to manage and audit them. The concepts and techniques used in information technology audits will be presented. Students will learn the process of creating a control structure with goals and objectives, audit an information technology infrastructure against it, and establish a systematic remediation procedure for any inadequacies. The challenge of dealing with best practices, standards, and regulatory requirements governing information and controls is addressed.
+</end course description for 67-313 Digital Risk Management and Auditing>

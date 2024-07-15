@@ -1,0 +1,16 @@
+<start course metadata for 54-126 Music Skills II>
+Semester: Spring 2024 (aka S24)
+Course Name: Music Skills II
+Course Number: 54-126
+Department: Drama
+Number of Units: 4
+Prerequisites: 54-125
+Instructors: Giovanna Reyes-Mir, Mark Domencic
+Rooms: PCA 321; PCA A35
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-126 Music Skills II>
+
+<start course description for 54-126 Music Skills II>
+Semester: Spring 2024 (aka S24)
+Course Description: The students explore the basics of music theory, which includes intervals, rhythm, notation and musical vocabulary. Emphasis is on acquiring these basic skills through sight singing.
+</end course description for 54-126 Music Skills II>

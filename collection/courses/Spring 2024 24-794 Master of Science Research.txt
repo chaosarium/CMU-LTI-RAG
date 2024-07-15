@@ -1,0 +1,16 @@
+<start course metadata for 24-794 Master of Science Research>
+Semester: Spring 2024 (aka S24)
+Course Name: Master of Science Research
+Course Number: 24-794
+Department: Mechanical Engineering
+Number of Units: N/A
+Prerequisites: None
+Instructors: Chris Hertz, Melissa Brown
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-794 Master of Science Research>
+
+<start course description for 24-794 Master of Science Research>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is designed to be a training opportunity in engineering research and associated professional activity. Content includes a series of investigations under the student's initiative culminating in comprehensive reports, with special emphasis on orderly presentation and effective English composition for Master of Science candidates. Variable hrs.    Prerequisite: permission of the instructor.
+</end course description for 24-794 Master of Science Research>

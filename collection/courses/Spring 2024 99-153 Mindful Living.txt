@@ -1,0 +1,16 @@
+<start course metadata for 99-153 Mindful Living>
+Semester: Spring 2024 (aka S24)
+Course Name: Mindful Living
+Course Number: 99-153
+Department: Carnegie Mellon University-Wide Studies
+Number of Units: 3
+Prerequisites: None
+Instructors: Angela Lusk, Dawn Lehman
+Rooms: WEH 5320
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 99-153 Mindful Living>
+
+<start course description for 99-153 Mindful Living>
+Semester: Spring 2024 (aka S24)
+Course Description: The goal of this course is to increase students internal resources for meeting stress through mindfulness-based meditation training. Each week, students will be trained in formal mindfulness meditation practices and asked to meditate at home with the help of brief guided meditation recordings. Students will also be given weekly informal mindfulness practice suggestions to help them translate the skills of formal meditation practice into daily life. Class meetings will give students the weekly opportunity for reflection, discussion, and questions based on their experience of formal and informal practice assignments.
+</end course description for 99-153 Mindful Living>

@@ -1,0 +1,16 @@
+<start course metadata for 17-606 Privacy by Design Project Workshop>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Privacy by Design Project Workshop
+Course Number: 17-606
+Department: Software & Societal Systems
+Number of Units: 6
+Prerequisites: None
+Instructors: Hana Habib
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 17-606 Privacy by Design Project Workshop>
+
+<start course description for 17-606 Privacy by Design Project Workshop>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: Note: Previously offered as 08-606. This course is for students enrolled in the Privacy by Design Practicum or by permission of the instructor. Students will discuss privacy by design challenges and solutions.
+</end course description for 17-606 Privacy by Design Project Workshop>

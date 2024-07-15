@@ -1,0 +1,16 @@
+<start course metadata for 21-371 Functions of a Complex Variable>
+Semester: Fall 2023 (aka F23)
+Course Name: Functions of a Complex Variable
+Course Number: 21-371
+Department: Mathematical Sciences
+Number of Units: 9
+Prerequisites: 21-355 or 21-235 or 21-455
+Instructors: David Kinderlehrer
+Rooms: GHC 4102
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-371 Functions of a Complex Variable>
+
+<start course description for 21-371 Functions of a Complex Variable>
+Semester: Fall 2023 (aka F23)
+Course Description: This course provides an introduction to one of the basic topics of both pure and applied mathematics and is suitable for those with both practical and theoretical interests. Algebra and geometry of complex numbers; complex differentiation and integration. Cauchy's theorem and applications; conformal mapping; applications. 21-268 or 21-269 are recommended prerequisites, rather than 21-259.  (Three 50 minute lectures)
+</end course description for 21-371 Functions of a Complex Variable>

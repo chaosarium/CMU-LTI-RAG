@@ -1,0 +1,16 @@
+<start course metadata for 45-821 Investment Analysis>
+Semester: Fall 2023 (aka F23)
+Course Name: Investment Analysis
+Course Number: 45-821
+Department: Business Administration
+Number of Units: 6
+Prerequisites: 45-720 and 45-820
+Instructors: Jim Foster
+Rooms: TEP 2118
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-821 Investment Analysis>
+
+<start course description for 45-821 Investment Analysis>
+Semester: Fall 2023 (aka F23)
+Course Description: The objective of Investment Analysis is to introduce you to the tools used by investment professionals to manage assets and their risks. The course covers optimal asset allocation, its performance evaluation, and risk management. The goal is to apply basic tools in finance as such mean-variance portfolio optimization and gain a better understanding why and when these tools fail. As such we will talk about the measurement and implications of tail events, the impact of liquidity on prices and trading, the risk of default, and the implications of return predictability.
+</end course description for 45-821 Investment Analysis>

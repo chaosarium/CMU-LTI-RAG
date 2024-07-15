@@ -1,0 +1,16 @@
+<start course metadata for 21-228 Discrete Mathematics>
+Semester: Fall 2023 (aka F23)
+Course Name: Discrete Mathematics
+Course Number: 21-228
+Department: Mathematical Sciences
+Number of Units: 9
+Prerequisites: 21-128 or 21-127 or 15-151
+Instructors: Amzi Jeffs
+Rooms: MM A14
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-228 Discrete Mathematics>
+
+<start course description for 21-228 Discrete Mathematics>
+Semester: Fall 2023 (aka F23)
+Course Description: The techniques of discrete mathematics arise in every application of mathematics, which is not purely continuous, for example in computer science, economics, and general problems of optimization. This course introduces two of the fundamental areas of discrete mathematics: enumeration and graph theory. The introduction to enumeration includes permutations, combinations, and topics such as discrete probability, combinatorial distributions, recurrence relations, generating functions, Ramsey's Theorem, and the principle of inclusion and exclusion. The introduction to graph theory includes topics such as paths, walks, connectivity, Eulerian and Hamilton cycles, planar graphs, Euler's Theorem, graph coloring, matchings, networks, and trees. (Three 50 minute lectures, one 50 minute recitation)
+</end course description for 21-228 Discrete Mathematics>

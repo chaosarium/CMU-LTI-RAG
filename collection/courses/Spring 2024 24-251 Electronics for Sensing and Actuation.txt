@@ -1,0 +1,16 @@
+<start course metadata for 24-251 Electronics for Sensing and Actuation>
+Semester: Spring 2024 (aka S24)
+Course Name: Electronics for Sensing and Actuation
+Course Number: 24-251
+Department: Mechanical Engineering
+Number of Units: 3
+Prerequisites: 24-101
+Instructors: Douglas Weber
+Rooms: WEH 5415
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-251 Electronics for Sensing and Actuation>
+
+<start course description for 24-251 Electronics for Sensing and Actuation>
+Semester: Spring 2024 (aka S24)
+Course Description: Mechanical engineers design, build, and troubleshoot basic circuits that perform signal conditioning on sensor measurements and provide power amplification for actuation.  This course covers the basics of passive circuit design, applications of operational amplifiers, and the use of transistors to amplify low power signals coming from microcontrollers.  Lecture materials are coupled with hands-on in-class exercises and homework assignments using the Arduino to interface with sensors and actuators.
+</end course description for 24-251 Electronics for Sensing and Actuation>

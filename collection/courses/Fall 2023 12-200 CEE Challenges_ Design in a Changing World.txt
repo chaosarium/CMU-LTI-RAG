@@ -1,0 +1,16 @@
+<start course metadata for 12-200 CEE Challenges: Design in a Changing World>
+Semester: Fall 2023 (aka F23)
+Course Name: CEE Challenges: Design in a Changing World
+Course Number: 12-200
+Department: Civil & Environmental Engineering
+Number of Units: 9
+Prerequisites: 12-100
+Instructors: Katherine Flanigan
+Rooms: PH 107E
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 12-200 CEE Challenges: Design in a Changing World>
+
+<start course description for 12-200 CEE Challenges: Design in a Changing World>
+Semester: Fall 2023 (aka F23)
+Course Description: Building upon design themes introduced in 12-100, in this course, students will be challenged to solve more complex problems related to conventional, cutting-edge, and emerging issues in Civil and Environmental Engineering and one or more of the areas of the built, natural, and information environments, such as smart cities. Students will gain an understanding of the effects of uncertainty, such as changing climate conditions. Through several team projects, students will explore the impact and management of tradeoffs, like constructability, sustainability, cost, and maintenance on design. They will learn to apply mathematics and science, advanced technologies, and computing to solve open-ended problems. Students will learn communication, project management, and design skills and practice the design process, from problem definition to constructed work.
+</end course description for 12-200 CEE Challenges: Design in a Changing World>

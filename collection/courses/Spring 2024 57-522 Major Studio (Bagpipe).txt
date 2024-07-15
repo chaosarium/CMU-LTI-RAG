@@ -1,0 +1,16 @@
+<start course metadata for 57-522 Major Studio (Bagpipe)>
+Semester: Spring 2024 (aka S24)
+Course Name: Major Studio (Bagpipe)
+Course Number: 57-522
+Department: Music
+Number of Units: 9
+Prerequisites: None
+Instructors: Andrew Carlisle
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-522 Major Studio (Bagpipe)>
+
+<start course description for 57-522 Major Studio (Bagpipe)>
+Semester: Spring 2024 (aka S24)
+Course Description: A one hour private lesson per week for all music majors.
+</end course description for 57-522 Major Studio (Bagpipe)>

@@ -1,0 +1,16 @@
+<start course metadata for 18-758 Wireless Communications>
+Semester: Fall 2023 (aka F23)
+Course Name: Wireless Communications
+Course Number: 18-758
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: 36-219 or 36-225
+Instructors: Rohit Negi
+Rooms: WEH 5328
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-758 Wireless Communications>
+
+<start course description for 18-758 Wireless Communications>
+Semester: Fall 2023 (aka F23)
+Course Description: In this course, the communication problem will be introduced, and channel impairments such as noise, inter-symbol interference and fading will be described. Solutions to combat these impairments, based on digital communication theory, will be described. These will include signal space analysis, detection, equalization, coding and diversity. Examples drawn from communication standards will illustrate how the theory is implemented in practical communication systems.
+</end course description for 18-758 Wireless Communications>

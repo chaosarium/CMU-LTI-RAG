@@ -1,0 +1,16 @@
+<start course metadata for 18-655 Entrepreneurial Engineering Project>
+Semester: Fall 2023 (aka F23)
+Course Name: Entrepreneurial Engineering Project
+Course Number: 18-655
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: James Bain
+Rooms: PH A22
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-655 Entrepreneurial Engineering Project>
+
+<start course description for 18-655 Entrepreneurial Engineering Project>
+Semester: Fall 2023 (aka F23)
+Course Description: In this course, Undergraduate (18-555) and MS (18-655) students participate in developing and/or advancing a viable entrepreneurial offering with an ECE flavor. Students propose a product idea, validate it using a process of simple customer discovery, and then design and deploy an initial round of customer testing. Students build whatever artifacts are necessary for that testing, whether it be mock-ups or working prototypes. Students can work in teams or alone, depending on the degree of maturity of their idea. The course is intended to support engineering students who are interested in tech startups but do not know how to get started. It can also cater to students who are a little farther along in the process. Students will complement their customer testing with some simple analysis for the financial viability of their business model, adjusting their technical offering accordingly. The final product of the class is a pitch deck presented to illustrate a viable business idea that students can pursue after the class is complete. There is also a focus on finding networking opportunities for students to get to talk to founders. Course admission is by instructor approval.
+</end course description for 18-655 Entrepreneurial Engineering Project>

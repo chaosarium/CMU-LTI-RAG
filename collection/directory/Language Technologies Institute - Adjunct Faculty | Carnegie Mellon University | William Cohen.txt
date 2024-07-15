@@ -1,0 +1,6 @@
+Name: William Cohen
+Title: Director of Research Engineering at Google AI and SCS Consulting Professor
+Email wcohen@cs.cmu.edu
+Phone: 412-268-7664
+Office: 8217 Gates & Hillman Centers
+Interests: 

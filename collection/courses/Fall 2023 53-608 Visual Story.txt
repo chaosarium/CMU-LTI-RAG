@@ -1,0 +1,16 @@
+<start course metadata for 53-608 Visual Story>
+Semester: Fall 2023 (aka F23)
+Course Name: Visual Story
+Course Number: 53-608
+Department: Entertainment Technology
+Number of Units: 12
+Prerequisites: None
+Instructors: John Dessler, Ralph Vituccio
+Rooms: PTC MPR
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 53-608 Visual Story>
+
+<start course description for 53-608 Visual Story>
+Semester: Fall 2023 (aka F23)
+Course Description: Students are taught the language of filmmaking and the director's craft as it applies to the digital format. Aspects of mise-en-scene, visual storytelling, continuity-style coverage, temporal and spatial montage theory, directing actors and thinking visually, will be essential to the new media director's palette. All forms of digital filmmaking will be discussed including dramatic, documentary and independent features as well as commercials, music videos and experimental subjects. Through lectures, readings, screenings, web-postings, discussions, writing and production assignments, you will learn the basic principles and vocabulary of film theory and aesthetics. Understanding these fundamental ideas will help you develop a more critical eye towards creating new media.
+</end course description for 53-608 Visual Story>

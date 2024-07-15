@@ -1,0 +1,16 @@
+<start course metadata for 42-880 Biomaterials>
+Semester: Fall 2023 (aka F23)
+Course Name: Biomaterials
+Course Number: 42-880
+Department: Biomedical Engineering
+Number of Units: 9
+Prerequisites: None
+Instructors: Rachelle Palchesko
+Rooms: CMU REMOTE
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 42-880 Biomaterials>
+
+<start course description for 42-880 Biomaterials>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is currently only for those enrolled in the 3D Biofabrication and Bioprinting Certificate program. Understanding the fundamentals of biomaterials structure-function relationships pertaining to material functions and to cell and tissue environments will be a prime goal. The course will be composed of lectures, readings, projects and technical writing assignments. The synthesis, characterization and functional properties of organic and inorganic biomaterials and the processes involved in their use in tissue engineering and regenerative medicine will be discussed. Fundamental issues related to the utility of biomaterials, including biomechanics, transport, degradability, biointerfaces and biocompatibility, stability, fate in the body will be covered, along with some of the basic approaches to characterization. Clinical applications for biomaterials and new directions in design and synthesis to achieve better biocompatibility will be emphasized.
+</end course description for 42-880 Biomaterials>

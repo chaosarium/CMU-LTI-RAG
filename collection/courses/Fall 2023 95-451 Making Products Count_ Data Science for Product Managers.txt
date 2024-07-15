@@ -1,0 +1,16 @@
+<start course metadata for 95-451 Making Products Count: Data Science for Product Managers>
+Semester: Fall 2023 (aka F23)
+Course Name: Making Products Count: Data Science for Product Managers
+Course Number: 95-451
+Department: Information Systems:Sch of IS & Mgt
+Number of Units: 6
+Prerequisites: None
+Instructors: David Steier
+Rooms: HBH 2008
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 95-451 Making Products Count: Data Science for Product Managers>
+
+<start course description for 95-451 Making Products Count: Data Science for Product Managers>
+Semester: Fall 2023 (aka F23)
+Course Description: Product managers engage in a variety of complex activities critical to product success including  Gathering product requirements  Prioritizing features  Forecasting customer demand  Customer segmentation  Pricing  Identifying buying patterns  Analyzing and responding to customer feedback Historically decisions in these areas have often relied on intuition and guesswork, leading to misjudgment of the market and other key factors, and ultimately, product failures. Developments in data science, combining the increasing availability of data from internal and external sources with new algorithms that exploit that data at scale, offer new possibilities for putting product management decisions on a more quantitative and rigorous footing. Students in this course will be introduced to a variety of data science techniques applicable to activities to which product managers typically contribute. These techniques include clustering, classification, A/B testing, and analytics for unstructured data, including clickstreams, text, speech, and images.
+</end course description for 95-451 Making Products Count: Data Science for Product Managers>

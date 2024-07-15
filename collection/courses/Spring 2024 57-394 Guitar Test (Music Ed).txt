@@ -1,0 +1,16 @@
+<start course metadata for 57-394 Guitar Test (Music Ed)>
+Semester: Spring 2024 (aka S24)
+Course Name: Guitar Test (Music Ed)
+Course Number: 57-394
+Department: Music
+Number of Units: 0
+Prerequisites: None
+Instructors: John Marcinizyn
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-394 Guitar Test (Music Ed)>
+
+<start course description for 57-394 Guitar Test (Music Ed)>
+Semester: Spring 2024 (aka S24)
+Course Description: None
+</end course description for 57-394 Guitar Test (Music Ed)>

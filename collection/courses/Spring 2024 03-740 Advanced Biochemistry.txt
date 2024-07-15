@@ -1,0 +1,16 @@
+<start course metadata for 03-740 Advanced Biochemistry>
+Semester: Spring 2024 (aka S24)
+Course Name: Advanced Biochemistry
+Course Number: 03-740
+Department: Biological Sciences
+Number of Units: 12
+Prerequisites: None
+Instructors: Adam Linstedt, Frederick Lanni
+Rooms: MI SOCIAL
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 03-740 Advanced Biochemistry>
+
+<start course description for 03-740 Advanced Biochemistry>
+Semester: Spring 2024 (aka S24)
+Course Description: This is a special topics course in which selected topics in biochemistry will be analyzed in depth with emphasis on class discussion of papers from the recent research literature. Topics change yearly. Recent topics have included single molecule analysis of catalysis and conformational changes; intrinsically disordered proteins; cooperative interactions of aspartate transcarbamoylase; and the mechanism of ribosomal protein synthesis.
+</end course description for 03-740 Advanced Biochemistry>

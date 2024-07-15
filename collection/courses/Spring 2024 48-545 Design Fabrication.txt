@@ -1,0 +1,16 @@
+<start course metadata for 48-545 Design Fabrication>
+Semester: Spring 2024 (aka S24)
+Course Name: Design Fabrication
+Course Number: 48-545
+Department: Architecture
+Number of Units: 9
+Prerequisites: None
+Instructors: Misri Patel
+Rooms: MM C4
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-545 Design Fabrication>
+
+<start course description for 48-545 Design Fabrication>
+Semester: Spring 2024 (aka S24)
+Course Description: Design Fabrication is a project based seminar exploring the application of Computer Aided Manufacturing (CAM) in architecture. The course meets in the School of Architecture's Design Fabrication Lab (dFAB), which serves as a context to better understand the interconnected affordances of building materials, machine processes, and modeling software for design thinking. During the semester students receive hands-on introductions to dFAB equipment, including laser cutting, cnc routing, and 3D printing. Concepts will be explored and tested through iterative making/prototyping.  Course Focus The course focuses on Transdimensional Fabrication, a manufacturing framework that forefronts design thinking across space and time. A growing array of approaches in contemporary architecture are motivated by this focus (e.g. flat pack, 4D printing, metamaterials, kinetic architecture, robotic origami, design for disassembly, etc.). We will investigate Transdimensional Fabrication concepts through three that forefront design translations: 2D  3D, Space  Time, Assembly  Reconfiguration  Disassembly
+</end course description for 48-545 Design Fabrication>

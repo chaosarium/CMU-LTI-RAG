@@ -1,0 +1,16 @@
+<start course metadata for 62-706 Generative Systems for Design>
+Semester: Spring 2024 (aka S24)
+Course Name: Generative Systems for Design
+Course Number: 62-706
+Department: CFA Interdisciplinary
+Number of Units: N/A
+Prerequisites: None
+Instructors: Jingyang Liu
+Rooms: CFA 317
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 62-706 Generative Systems for Design>
+
+<start course description for 62-706 Generative Systems for Design>
+Semester: Spring 2024 (aka S24)
+Course Description: Rather than working directly with analogue media, such as drawings, designers can develop algorithms and computational models that can automatically generate design alternatives, based on custom inputs. We refer to such algorithms and models as Generative Systems (GS).   GS have been an important topic of research in the recent past decades, in books, courses, articles and research conferences in computer-aided architectural design.  While earlier approaches were based on classical artificial intelligence and optimization, recently, a variety of computational techniques from different fields, such as parametric modeling, agent-based modeling or neural networks, are incorporated in the development of new generative systems.  With recent developments in machine learning, we are reaching a point where we might not even have to explicit specify a new generative schema, but, instead, let it learn automatically from data or experience.    Contemporary design education must be reviewed with the possibility of relying on autonomous or collaborative design systems for the synthesis of alternatives. Designers should be able to formulate their design with different computational techniques, both with the GS available on commercial applications and with custom developed GS.  The main goal of the course is to foster the students' capacity to formulate design problems computationally, with emphasis on the synthesis of design alternatives. This course provides an overview of the main topics in GS, with historical notes and technical specifications. Along the semester, the students will address different design problems with different generative techniques. The course will address topics such as variational modeling, rule-based modeling, agent-based modeling, optimization and learning. The appropriate data-structures, algorithms and models will be discussed and some implemented in the exercises and projects.
+</end course description for 62-706 Generative Systems for Design>

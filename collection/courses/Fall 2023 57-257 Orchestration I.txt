@@ -1,0 +1,16 @@
+<start course metadata for 57-257 Orchestration I>
+Semester: Fall 2023 (aka F23)
+Course Name: Orchestration I
+Course Number: 57-257
+Department: Music
+Number of Units: 6
+Prerequisites: 57-150 or 57-153 or 57-156
+Instructors: Alexander Marthaler
+Rooms: CFA M160; HOA 223
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-257 Orchestration I>
+
+<start course description for 57-257 Orchestration I>
+Semester: Fall 2023 (aka F23)
+Course Description: This is an introductory course for all music majors and required for sophomore composition majors. The characteristics of each instrument of the orchestra are studied thoroughly. Orchestral textures from the classics to contemporary music are studied and analyzed.
+</end course description for 57-257 Orchestration I>

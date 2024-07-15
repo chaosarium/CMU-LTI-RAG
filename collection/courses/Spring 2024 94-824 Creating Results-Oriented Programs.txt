@@ -1,0 +1,16 @@
+<start course metadata for 94-824 Creating Results-Oriented Programs>
+Semester: Spring 2024 (aka S24)
+Course Name: Creating Results-Oriented Programs
+Course Number: 94-824
+Department: Heinz College Wide Courses
+Number of Units: 6
+Prerequisites: None
+Instructors: Traci Johnson
+Rooms: HBH 1007
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 94-824 Creating Results-Oriented Programs>
+
+<start course description for 94-824 Creating Results-Oriented Programs>
+Semester: Spring 2024 (aka S24)
+Course Description: None
+</end course description for 94-824 Creating Results-Oriented Programs>

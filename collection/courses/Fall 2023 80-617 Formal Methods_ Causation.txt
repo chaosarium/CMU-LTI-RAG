@@ -1,0 +1,16 @@
+<start course metadata for 80-617 Formal Methods: Causation>
+Semester: Fall 2023 (aka F23)
+Course Name: Formal Methods: Causation
+Course Number: 80-617
+Department: Philosophy
+Number of Units: 6
+Prerequisites: None
+Instructors: Peter Spirtes
+Rooms: BH 145C
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 80-617 Formal Methods: Causation>
+
+<start course description for 80-617 Formal Methods: Causation>
+Semester: Fall 2023 (aka F23)
+Course Description: Why do we care about causality? How can we learning causality from observational data? What role does causality play in machine learning under data heterogeneity? Is causality an essential component in general-purpose artificial intelligence? This mini is concerned with understanding, learning, and using causality, and focused on using probabilistic graphical models to represent causal relations and infer causal effects, causal discovery from observational data, and how to discover and exploit causal models and other related representations to achieve artificial intelligence.
+</end course description for 80-617 Formal Methods: Causation>

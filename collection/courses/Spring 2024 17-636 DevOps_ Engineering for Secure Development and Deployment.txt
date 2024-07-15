@@ -1,0 +1,16 @@
+<start course metadata for 17-636 DevOps: Engineering for Secure Development and Deployment>
+Semester: Spring 2024 (aka S24)
+Course Name: DevOps: Engineering for Secure Development and Deployment
+Course Number: 17-636
+Department: Software & Societal Systems
+Number of Units: 12
+Prerequisites: None
+Instructors: Hasan Yasar
+Rooms: 3SC 265
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 17-636 DevOps: Engineering for Secure Development and Deployment>
+
+<start course description for 17-636 DevOps: Engineering for Secure Development and Deployment>
+Semester: Spring 2024 (aka S24)
+Course Description: DevOps has three facets: culture, organization, and technology. This course focuses on the technology aspect. You will learn the basics of the infrastructure important to utilizing DevOps tools. To appropriately build and deploy systems developers should know not only about development tools such as container management tools but also the structure of the cloud - in particular how it utilizes virtual machines, containers, and networks. They should also understand security mechanisms both in the internet and how to authorize users and maintain credentials securely. Finally, to protect the system once it is placed into production, a developer needs to know how to enable the detection of problems during execution through the collection and navigation of logs produced by the system You will also learn the theory of fundamental DevOps concepts including CI,CD, Monitoring and Feedback. You will also see several case studies having to do with specialized forms of DevOps - Machine Learning and the Highly Regulated Environments. Finally, you will see samples of the main DevOps tools.
+</end course description for 17-636 DevOps: Engineering for Secure Development and Deployment>

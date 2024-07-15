@@ -1,0 +1,6 @@
+Name: Anatole Gershman
+Title: Distinguished Service Professor
+Email anatole.gershman@cs.cmu.edu
+Phone: 412-268-8259
+Office: 6415 Gates & Hillman Centers
+Interests: Information Extraction, Summarization and Question Answering

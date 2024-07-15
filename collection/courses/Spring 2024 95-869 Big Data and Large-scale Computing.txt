@@ -1,0 +1,16 @@
+<start course metadata for 95-869 Big Data and Large-scale Computing>
+Semester: Spring 2024 (aka S24)
+Course Name: Big Data and Large-scale Computing
+Course Number: 95-869
+Department: Information Systems:Sch of IS & Mgt
+Number of Units: 6
+Prerequisites: None
+Instructors: Leman Akoglu
+Rooms: HBH 1204
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 95-869 Big Data and Large-scale Computing>
+
+<start course description for 95-869 Big Data and Large-scale Computing>
+Semester: Spring 2024 (aka S24)
+Course Description: The rate and amount of data being generated in today's world by both humans and machines are unprecedented. Being able to store, manage, and analyze large-scale data has critical impact on business intelligence, scientific discovery, social and environmental challenges.   The goal of this course is to equip students with the understanding, knowledge, and practical skills to develop big data / machine learning solutions with the state-of-the-art tools, particularly those in the Spark environment, with a focus on programming models in MLlib, GraphX, and SparkSQL. See the syllabus for more details. Students will also gain hands-on experience with MapReduce and Apache Spark using real-world datasets.   This course is designed to give a graduate-level student a thorough grounding in the technologies and best practices used in big data machine learning. The course assumes that the students have the understanding of basic data analysis and machine learning concepts as well as basic knowledge of programming (preferably in Python or Java). Previous experience with Hadoop, Spark or distributed computing is NOT required.  Students cannot take this course as pass/no pass.
+</end course description for 95-869 Big Data and Large-scale Computing>

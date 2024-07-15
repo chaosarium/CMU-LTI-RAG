@@ -1,0 +1,16 @@
+<start course metadata for 95-799 Linux and Open Source>
+Semester: Fall 2023 (aka F23)
+Course Name: Linux and Open Source
+Course Number: 95-799
+Department: Information Systems:Sch of IS & Mgt
+Number of Units: 6
+Prerequisites: None
+Instructors: Dennis Moul
+Rooms: DNM DNM; HBH 1002
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 95-799 Linux and Open Source>
+
+<start course description for 95-799 Linux and Open Source>
+Semester: Fall 2023 (aka F23)
+Course Description: This course covers the Linux operating system, its related applications, and the Open Source Software (OSS) model. Emphasis is on how Linux is different from other systems.  Note example syllabus may be from online or on-campus Mini. Topics and general structure are the same, quiz and participation grading vary between online or on-campus.
+</end course description for 95-799 Linux and Open Source>

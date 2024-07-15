@@ -1,0 +1,16 @@
+<start course metadata for 21-240 Matrix Algebra with Applications>
+Semester: Fall 2023 (aka F23)
+Course Name: Matrix Algebra with Applications
+Course Number: 21-240
+Department: Mathematical Sciences
+Number of Units: 10
+Prerequisites: None
+Instructors: Junichi Koganemaru
+Rooms: DH 2302
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-240 Matrix Algebra with Applications>
+
+<start course description for 21-240 Matrix Algebra with Applications>
+Semester: Fall 2023 (aka F23)
+Course Description: Vectors and matrices, the solution of linear systems of equations, vector spaces and subspaces, orthogonality, determinants, real and complex eigenvalues and eigenvectors, linear transformations.  The course is intended for students in Economics, Statistics, Information Systems, and it will focus on topics relevant to these fields.  (Three 50 minute lectures, one 50 minute recitation)
+</end course description for 21-240 Matrix Algebra with Applications>

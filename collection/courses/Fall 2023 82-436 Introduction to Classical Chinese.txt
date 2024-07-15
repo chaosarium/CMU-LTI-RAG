@@ -1,0 +1,16 @@
+<start course metadata for 82-436 Introduction to Classical Chinese>
+Semester: Fall 2023 (aka F23)
+Course Name: Introduction to Classical Chinese
+Course Number: 82-436
+Department: Modern Languages
+Number of Units: 9
+Prerequisites: 82-332 or 82-337 or 82-338
+Instructors: Sue-Mei Wu
+Rooms: POS 147
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 82-436 Introduction to Classical Chinese>
+
+<start course description for 82-436 Introduction to Classical Chinese>
+Semester: Fall 2023 (aka F23)
+Course Description: Classical Chinese is a language shaped in the latter half of the first millennium B.C . that still persists as a living medium of expression today. Knowledge of Classical Chinese is very important to help students read and understand sophisticated modern Chinese texts, which make frequent use of Classical allusions and constructs. Moreover, the cultural values expressed in the ancient texts have played an important role in shaping Chinese families, culture and society. The main goal of the course is for students to promote their skill in reading Classical Chinese and their knowledge and understanding of ancient Chinese culture, society and history. With this knowledge and training, not only will students be more comfortable reading the Chinese Classics, they will also thereby increase their proficiency in modern Chinese and their knowledge of Chinese culture.
+</end course description for 82-436 Introduction to Classical Chinese>

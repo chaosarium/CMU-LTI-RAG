@@ -1,0 +1,16 @@
+<start course metadata for 48-740 Urban Design Methods and Theory>
+Semester: Fall 2023 (aka F23)
+Course Name: Urban Design Methods and Theory
+Course Number: 48-740
+Department: Architecture
+Number of Units: 9
+Prerequisites: None
+Instructors: Jonathan Kline
+Rooms: CFA 211
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-740 Urban Design Methods and Theory>
+
+<start course description for 48-740 Urban Design Methods and Theory>
+Semester: Fall 2023 (aka F23)
+Course Description: The course explores core urban design methods and theories organized into three themes intended to give students a foundational understanding of urban design, examine key critiques of urbanization, and explore emerging modes of design agency grounded in commoning.   Central to the course approach is a belief that urban design should strive to act in the public interest, negotiating the often-conflicting needs and desires of a range of actors in the urban landscape in order to advance positive social and ecological outcomes. The first module, Fundamentals of Urban Design, surveys key normative theories and methods of understanding and intervening in urban processes in relation to four broad themes: city as form, city as experience, city as ecosystem and city as social contract. The second section, Critiques of Urbanization, explores a range of critiques of the contemporary urbanization process through a variety of lenses including Marxism, ecology, feminism and posthumanism, drawing on readings both internal and external to the discipline. The final module, Expanding Urbanism's Agency, interrogates urban design's capacity to shape cities in response to these critiques. This section uses theories of commoning and transition design as a broad emergent framework for re-organizing design agency and re-framing urban design methods.   The course meets once a week and assignments include weekly readings, actively participating in weekly seminar discussions, and two projects intended to connect theory to the application of urban design methods in practice. Urban Design Methods and Theory is a required seminar course for the Master of Urban Design program and a co-requisite course for the Commoning the City ASO studio.
+</end course description for 48-740 Urban Design Methods and Theory>

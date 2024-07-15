@@ -1,0 +1,16 @@
+<start course metadata for 80-602 Philosophy Core Seminar II>
+Semester: Spring 2024 (aka S24)
+Course Name: Philosophy Core Seminar II
+Course Number: 80-602
+Department: Philosophy
+Number of Units: 12
+Prerequisites: None
+Instructors: Mandy Simons
+Rooms: BH 145C
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 80-602 Philosophy Core Seminar II>
+
+<start course description for 80-602 Philosophy Core Seminar II>
+Semester: Spring 2024 (aka S24)
+Course Description: This course surveys contemporary philosophical issues by discussing a different set of journal articles each week. Frequently the discussion focuses on the work of faculty from the department, from nearby universities, or from visiting scholars.  Discussions are often moderated by the person whose work is being discussed.  The course therefore provides an survey of a wide range of philosophical issues and methods and strives to situate more technically oriented work within a broader philosophical context by emphasizing links to traditional philosophical problems, methods, frameworks or assumptions.  The course also provides an opportunity for graduate students to explore potential areas of interest and to foster contact with potential thesis or dissertation advisors.  This course is required for first year graduate students.  Advanced undergraduates may participate only with the permission of the instructor.
+</end course description for 80-602 Philosophy Core Seminar II>

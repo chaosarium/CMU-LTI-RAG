@@ -1,0 +1,16 @@
+<start course metadata for 11-830 Ethics, Social Biases, and Positive Impact in Language Technologies>
+Semester: Spring 2024 (aka S24)
+Course Name: Ethics, Social Biases, and Positive Impact in Language Technologies
+Course Number: 11-830
+Department: Language Technologies Institute
+Number of Units: 12
+Prerequisites: None
+Instructors: Maarten Sap
+Rooms: POS 153
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 11-830 Ethics, Social Biases, and Positive Impact in Language Technologies>
+
+<start course description for 11-830 Ethics, Social Biases, and Positive Impact in Language Technologies>
+Semester: Spring 2024 (aka S24)
+Course Description: As language technologies have become increasingly prevalent, there is a growing awareness that decisions we make about our data, methods, and tools are often tied up with their impact on people and societies. This course introduces students to real-world applications of language technologies and the potential ethical implications associated with them. We discuss philosophical foundations of ethical research along with advanced state-of-the art techniques. Discussion topics include:     - Philosophical foundations: ethical philosophies, history, medical and psychological experiments, IRB and human subjects, ethical decision making, AI alignment.     - Bias, Misrepresentation, Alignment: algorithms to identify biases in models and data and adversarial approaches to debiasing.     - Civility in communication: techniques to monitor trolling, hate speech, abusive language, cyberbullying, toxic comments.     - Democracy and the language of manipulation: approaches to identify propaganda and manipulation in news, to identify fake news, political framing.     - Privacy & security : algorithms for demographic inference, personality profiling, and anonymization of demographic and personal traits.     - NLP for Social Good: Low-resource NLP, applications for disaster response and monitoring diseases, medical applications, psychological counseling, interfaces for accessibility.     - Multidisciplinary perspective: invited lectures from experts in behavioral and social sciences, rhetoric, etc.        https://maartensap.com/11830/
+</end course description for 11-830 Ethics, Social Biases, and Positive Impact in Language Technologies>

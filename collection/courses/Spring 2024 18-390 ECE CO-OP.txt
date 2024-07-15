@@ -1,0 +1,16 @@
+<start course metadata for 18-390 ECE CO-OP>
+Semester: Spring 2024 (aka S24)
+Course Name: ECE CO-OP
+Course Number: 18-390
+Department: Electrical & Computer Engineering
+Number of Units: N/A
+Prerequisites: None
+Instructors: James Bain
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-390 ECE CO-OP>
+
+<start course description for 18-390 ECE CO-OP>
+Semester: Spring 2024 (aka S24)
+Course Description: The Department of Electrical and Computer Engineering at Carnegie Mellon considers experiential learning opportunities important educational options for its undergraduate students. One such option is cooperative education, which provides a student with an extended period of exposure with a company. To participate, students must complete an ECE Co-op Approval form (located in HH 1116) and submit for approval. Students must possess at least junior status and have an overall grade point average of 3.0 or above. All co-ops must be approximately 8 months in uninterrupted length. If the co-op is approved, the ECE Undergraduate Studies Office will add the course to the student's schedule. Upon completion of the co-op experience, students must submit a 1-2 page report of their work experience, and a 1-2 page evaluation from the company supervisor to the ECE Undergraduate Studies Office. Due to federal restrictions on student work experiences, international students are not eligible for co-ops. Please visit the CPT page for information regarding international student internships.
+</end course description for 18-390 ECE CO-OP>

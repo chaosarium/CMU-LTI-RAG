@@ -1,0 +1,16 @@
+<start course metadata for 09-722 Kinetics and Mechanisms of Chemical and Enzymatic Reactions>
+Semester: Fall 2023 (aka F23)
+Course Name: Kinetics and Mechanisms of Chemical and Enzymatic Reactions
+Course Number: 09-722
+Department: Chemistry
+Number of Units: 12
+Prerequisites: 09-220 and 09-345 and 09-348
+Instructors: Aleksandr Ryabov, Terrence Collins
+Rooms: MI 448
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 09-722 Kinetics and Mechanisms of Chemical and Enzymatic Reactions>
+
+<start course description for 09-722 Kinetics and Mechanisms of Chemical and Enzymatic Reactions>
+Semester: Fall 2023 (aka F23)
+Course Description: This is a practical course aimed at learning the major modern tools which are essential for investigation of mechanisms of homogeneous chemical and enzymatic reactions. Rules of formal chemical kinetics in solution are first considered followed by basic principles of kinetics of enzymatic processes including inhibition, which is a key factor in the up-to-date drug design. The relationships between electronic structures, catalytic properties, and reactivity of biologically relevant metal complexes will be provided. Electrochemical and redox features of metal complexes will be reviewed. The course includes such hot topics as Fenton chemistry, Marcus's electron transfer concept, catalysis by Collins' TAML activators of peroxides, specific and general acid/base, proximal and micellar catalysis. Mechanistic pathways of action of hydrolases, kinases, hydrogenases, oxidases, peroxidases, cytochrome P-450, and other metalloenzymes will be described. The course is supplied by the recently published text (A. D. Ryabov "Practical Kinetics and Mechanisms of Chemical and Enzymatic Reactions" Cambridge Scholars Publishing, Newcastle upon Tyne, NE6 2PA, UK) which includes all the above mentioned themes (Graduate course: 09-722, 12-units) 3 hrs. lec. Prerequisite: 09-348
+</end course description for 09-722 Kinetics and Mechanisms of Chemical and Enzymatic Reactions>

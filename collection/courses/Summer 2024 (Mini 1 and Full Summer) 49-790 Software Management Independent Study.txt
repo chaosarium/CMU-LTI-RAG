@@ -1,0 +1,16 @@
+<start course metadata for 49-790 Software Management Independent Study>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Software Management Independent Study
+Course Number: 49-790
+Department: Integrated Innovation Institute
+Number of Units: N/A
+Prerequisites: None
+Instructors: Gladys Mercier
+Rooms: DNM DNM
+Locations: San Jose, California
+</end course metadata for 49-790 Software Management Independent Study>
+
+<start course description for 49-790 Software Management Independent Study>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: Working with the faculty, realize that the faculty are most interested in Independent Study projects that further their own research goals. You may not be successful on your first inquiry, so please be patient. We want you to have a good Independent Study experience, so faculty are encouraged to say "no" if they don't have the cycles to mentor a project.   Once you and the faculty have agreed upon the independent study, send the independent study form to the director of your program.
+</end course description for 49-790 Software Management Independent Study>

@@ -1,0 +1,16 @@
+<start course metadata for 45-941 Evidence-Based Management>
+Semester: Fall 2023 (aka F23)
+Course Name: Evidence-Based Management
+Course Number: 45-941
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Denise Rousseau
+Rooms: TEP 2202
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-941 Evidence-Based Management>
+
+<start course description for 45-941 Evidence-Based Management>
+Semester: Fall 2023 (aka F23)
+Course Description: Contemporary managers and their decisions are heavily swayed by fads and the promises consultants make.  Evidence Based Management (EBM) identifies effective practices, separating them from fads and hype. Managers practicing EBM learn how to obtain and use the best available evidence to inform their decisions, particularly those regarding the workplace, organizational structure, and managing people. EBM means making better quality organizational decisions based on scientific evidence, effective use of business facts, and systematic decision processes. This mini course provides an understanding of the principles of EBM and develops skills in identifying, accessing, and using quality evidence from science and practice in making better decisions.
+</end course description for 45-941 Evidence-Based Management>

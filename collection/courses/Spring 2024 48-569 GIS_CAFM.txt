@@ -1,0 +1,16 @@
+<start course metadata for 48-569 GIS/CAFM>
+Semester: Spring 2024 (aka S24)
+Course Name: GIS/CAFM
+Course Number: 48-569
+Department: Architecture
+Number of Units: N/A
+Prerequisites: 48-205
+Instructors: Kristen Kurland
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-569 GIS/CAFM>
+
+<start course description for 48-569 GIS/CAFM>
+Semester: Spring 2024 (aka S24)
+Course Description: A Geographic Information System (GIS) provides storage, retrieval, visualization, and analysis of geographically referenced data. GIS provides analytical tools to investigate spatial relationships, patterns, and processes of location-based data such as cultural, demographic, economic, environmental, health, physical, social, and other phenomena. GIS creates digital twins (virtual representations) of natural and built environments and integrates many types of digital models.  GIS topics include geographic concepts (projections and map scales), map design, geodatabases (importing spatial and attribute data, geocodes, table joins, and data aggregation), spatial data processing, digitizing, data mining, multivariate cluster analysis, drive and walk time networking, raster GIS, spatial statistics (proximity and hot spot analysis), animation, and 3D GIS. CAFM (Computer Aided Facility Management) and IWMS (Integrated Work Management Systems) topics include space and asset management, building operations, environmental health and safety, and real property.  The course includes in-person and asynchronous video lectures to learn important GIS concepts and a brief introduction to work management systems. Software tutorials cover leading GIS software from Esri Inc. Applications include ArcGIS Pro, ArcGIS Online, ArcGIS Map Viewer, ArcGIS Story Maps, and Dashboards.  Subject areas are related to architecture, engineering, construction management, building performance, environmental health, sustainability, public policy, urban design, and planning.
+</end course description for 48-569 GIS/CAFM>

@@ -1,0 +1,16 @@
+<start course metadata for 48-307 Carnival Pavilion>
+Semester: Fall 2023 (aka F23)
+Course Name: Carnival Pavilion
+Course Number: 48-307
+Department: Architecture
+Number of Units: N/A
+Prerequisites: None
+Instructors: Omar Khan, Vicky Achnani
+Rooms: CFA 211
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-307 Carnival Pavilion>
+
+<start course description for 48-307 Carnival Pavilion>
+Semester: Fall 2023 (aka F23)
+Course Description: No course description provided.
+</end course description for 48-307 Carnival Pavilion>

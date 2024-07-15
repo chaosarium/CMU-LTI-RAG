@@ -1,0 +1,16 @@
+<start course metadata for 54-733 Role Playing Game Writing Workshop>
+Semester: Fall 2023 (aka F23)
+Course Name: Role Playing Game Writing Workshop
+Course Number: 54-733
+Department: Drama
+Number of Units: 12
+Prerequisites: None
+Instructors: Gerard Klug
+Rooms: PTC 2301
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-733 Role Playing Game Writing Workshop>
+
+<start course description for 54-733 Role Playing Game Writing Workshop>
+Semester: Fall 2023 (aka F23)
+Course Description: Role playing games (RPGs) are a vibrant and viable popular medium for interactive storytelling. This workshop builds upon dramatic theory DNA existing in plays, TV and film. Gameplay is performance. The skills developed when creating any time-bound media transfer well to games but must be seen through a different lens - the lens of the player. To do so, we first examine and dissect both RPG story and game design (using pencil and paper examples) seeking an understanding of both game systems as well as narrative best practices. In class we focus our examination on the most popular existing intellectual property (The Lord of the Rings). Students who desire admittance to this class should be at least somewhat familiar with that world to succeed in the class. Each student works on a four-person team to create an original RPG campaign-style adventure for an already existing story world. The final product is a portfolio-quality set of dramatic scenes, epic tabletop encounters, and character sketches. This is not an RPG design course.  Any level of writing experience is welcome, BUT experience playing RPGs -- either tabletop or video game -- is a must. Experience as a GM for an RPG is a big plus, and applicants who possess such experience should be sure to let the instructor know in advance.
+</end course description for 54-733 Role Playing Game Writing Workshop>

@@ -1,0 +1,16 @@
+<start course metadata for 67-474 Tech Startup Launchpad>
+Semester: Spring 2024 (aka S24)
+Course Name: Tech Startup Launchpad
+Course Number: 67-474
+Department: Information Systems Program
+Number of Units: 9
+Prerequisites: 67-272
+Instructors: Savanid  Nui Vatanasakdakul
+Rooms: CMB 1064
+Locations: Doha, Qatar
+</end course metadata for 67-474 Tech Startup Launchpad>
+
+<start course description for 67-474 Tech Startup Launchpad>
+Semester: Spring 2024 (aka S24)
+Course Description: This course provides hands-on learning about what it is like to start and launch a technology startup company. You will work within a team of students to turn your idea into a real company. You will learn and apply modern concepts practiced today in top innovation hubs around the globe: lean startup, minimum viable product, customer development, product-market fit, agile product development, business model generation, competitive landscape, etc. The goal of this course is not to write a business plan, prepare a venture capital presentation, or write tedious progress reports. You will learn what it takes to quickly develop your idea into a prototype, turn it into a minimum viable product and launch it, while you concurrently 1) talk to and cultivate potential customers, and 2) develop and iterate on your business model.  This course is designed for BA, CS, IS seniors; non-IS seniors should obtain instructor permission to enroll in this class.
+</end course description for 67-474 Tech Startup Launchpad>

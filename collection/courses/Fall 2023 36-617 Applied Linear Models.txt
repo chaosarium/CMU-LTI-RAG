@@ -1,0 +1,16 @@
+<start course metadata for 36-617 Applied Linear Models>
+Semester: Fall 2023 (aka F23)
+Course Name: Applied Linear Models
+Course Number: 36-617
+Department: Statistics and Data Science
+Number of Units: 12
+Prerequisites: None
+Instructors: Valerie Ventura
+Rooms: WEH 5421
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 36-617 Applied Linear Models>
+
+<start course description for 36-617 Applied Linear Models>
+Semester: Fall 2023 (aka F23)
+Course Description: This course covers the theory and practice of linear models in matrix form with emphasis on practical skills for working with real data and communicating results to technical and non-technical audiences.  For Master's in Statistical Practice students only.
+</end course description for 36-617 Applied Linear Models>

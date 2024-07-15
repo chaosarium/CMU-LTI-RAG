@@ -1,0 +1,16 @@
+<start course metadata for 36-315 Statistical Graphics and Visualization>
+Semester: Spring 2024 (aka S24)
+Course Name: Statistical Graphics and Visualization
+Course Number: 36-315
+Department: Statistics and Data Science
+Number of Units: 9
+Prerequisites: 36-202 or 36-208 or 36-219 or 21-325 or 15-259 or 36-309 or 36-225 or 36-218 or 70-208 or 36-235
+Instructors: Ronald Yurko
+Rooms: DH A302
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 36-315 Statistical Graphics and Visualization>
+
+<start course description for 36-315 Statistical Graphics and Visualization>
+Semester: Spring 2024 (aka S24)
+Course Description: Graphical displays of quantitative information take on many forms as they help us understand both data and models.  This course will serve to introduce the student to the most common forms of graphical displays and their uses and misuses.  Students will learn both how to create these displays and how to understand them. Each student will be required to engage in a project using graphical methods to understand data collected from a real scientific or engineering experiment.  In addition to two weekly lectures there will be lab sessions where the students learn to use software to aid in the production of appropriate graphical displays.
+</end course description for 36-315 Statistical Graphics and Visualization>

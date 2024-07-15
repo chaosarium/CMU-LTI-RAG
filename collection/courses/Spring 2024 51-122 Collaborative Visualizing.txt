@@ -1,0 +1,16 @@
+<start course metadata for 51-122 Collaborative Visualizing>
+Semester: Spring 2024 (aka S24)
+Course Name: Collaborative Visualizing
+Course Number: 51-122
+Department: Design
+Number of Units: 10
+Prerequisites: 51-121
+Instructors: Matthew Zywica
+Rooms: MM A6
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-122 Collaborative Visualizing>
+
+<start course description for 51-122 Collaborative Visualizing>
+Semester: Spring 2024 (aka S24)
+Course Description: This course introduces frameworks of notational, exploratory and explanatory sketching using collaborative methods and exercises to cooperatively communicate design ideas.  This course is for undergraduate design majors only.
+</end course description for 51-122 Collaborative Visualizing>

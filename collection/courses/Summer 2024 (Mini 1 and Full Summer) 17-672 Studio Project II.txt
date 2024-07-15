@@ -1,0 +1,16 @@
+<start course metadata for 17-672 Studio Project II>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Studio Project II
+Course Number: 17-672
+Department: Software & Societal Systems
+Number of Units: 36
+Prerequisites: None
+Instructors: Jim Berardone
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 17-672 Studio Project II>
+
+<start course description for 17-672 Studio Project II>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: Registration in the MSE Studio Project is limited to those students who have been accepted into the Master of Software Engineering for Professionals program or those students who are invited by the faculty to register. The Studio provides students with a real-world, sponsored software project for direct application of principles and concepts learned in core courses.
+</end course description for 17-672 Studio Project II>

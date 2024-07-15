@@ -1,0 +1,16 @@
+<start course metadata for 17-993 Societal Computing Reading & Research>
+Semester: Summer Two 2024 (aka M24, M24 Mini 2, Summer 2024 Mini 2)
+Course Name: Societal Computing Reading & Research
+Course Number: 17-993
+Department: Software & Societal Systems
+Number of Units: N/A
+Prerequisites: None
+Instructors: Nicolas Christin
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 17-993 Societal Computing Reading & Research>
+
+<start course description for 17-993 Societal Computing Reading & Research>
+Semester: Summer Two 2024 (aka M24, M24 Mini 2, Summer 2024 Mini 2)
+Course Description: Note: This course previously offered as 08-997. Societal Computing PhD Students only sign up for Reading & Research.  Please make sure you sign up under your advisers section
+</end course description for 17-993 Societal Computing Reading & Research>

@@ -1,0 +1,16 @@
+<start course metadata for 14-744 Mobile and Embedded Software Design>
+Semester: Spring 2024 (aka S24)
+Course Name: Mobile and Embedded Software Design
+Course Number: 14-744
+Department: Information Networking Institute
+Number of Units: 12
+Prerequisites: None
+Instructors: Cynthia Kuo
+Rooms: B23 212; CIC 1201
+Locations: Pittsburgh, Pennsylvania; San Jose, California
+</end course metadata for 14-744 Mobile and Embedded Software Design>
+
+<start course description for 14-744 Mobile and Embedded Software Design>
+Semester: Spring 2024 (aka S24)
+Course Description: Designing software for mobile and embedded devices is different from traditional software design. In this course, students will work with embedded devices to: consider hardware constraints in software design; explore the potential value and limitations of sensor data; assess user needs to create useful products or services; and prototype applications using sensors on embedded systems. Unlike a conventional hardware course, this course focuses on the design of application and service software. Low-level details of the processor architecture, embedded operating system, and firmware will not be addressed.
+</end course description for 14-744 Mobile and Embedded Software Design>

@@ -1,0 +1,16 @@
+<start course metadata for 57-342 Sound Recording Workshop>
+Semester: Summer Two 2024 (aka M24, M24 Mini 2, Summer 2024 Mini 2)
+Course Name: Sound Recording Workshop
+Course Number: 57-342
+Department: Music
+Number of Units: 6
+Prerequisites: None
+Instructors: Kristian Tchetchko, Thomas Sullivan
+Rooms: CFA A6
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-342 Sound Recording Workshop>
+
+<start course description for 57-342 Sound Recording Workshop>
+Semester: Summer Two 2024 (aka M24, M24 Mini 2, Summer 2024 Mini 2)
+Course Description: None
+</end course description for 57-342 Sound Recording Workshop>

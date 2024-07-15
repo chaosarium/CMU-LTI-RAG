@@ -1,0 +1,16 @@
+<start course metadata for 12-690 Independent Study>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Independent Study
+Course Number: 12-690
+Department: Civil & Environmental Engineering
+Number of Units: N/A
+Prerequisites: None
+Instructors: Burcu Akinci
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 12-690 Independent Study>
+
+<start course description for 12-690 Independent Study>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: In-depth investigation of a special topic in Civil and Environmental Engineering under the direction of a faculty member. The topic usually involves open-ended problems whose solution requires some elements of syntheses, analysis, construction, testing and evaluation of an engineering device or system.  Junior or Senior Standing or with instructor permission in Civil and Environmental Engineering.  Faculty approval required.  3 to 12 units
+</end course description for 12-690 Independent Study>

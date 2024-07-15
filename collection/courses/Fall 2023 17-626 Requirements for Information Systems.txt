@@ -1,0 +1,16 @@
+<start course metadata for 17-626 Requirements for Information Systems>
+Semester: Fall 2023 (aka F23)
+Course Name: Requirements for Information Systems
+Course Number: 17-626
+Department: Software & Societal Systems
+Number of Units: 6
+Prerequisites: None
+Instructors: Breaux
+Rooms: CMU REMOTE
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 17-626 Requirements for Information Systems>
+
+<start course description for 17-626 Requirements for Information Systems>
+Semester: Fall 2023 (aka F23)
+Course Description: Software engineering requires understanding the problem, before identifying solutions. In this course, students study ways to elicit and analyze problem statements using scenarios, use cases and mockups.
+</end course description for 17-626 Requirements for Information Systems>

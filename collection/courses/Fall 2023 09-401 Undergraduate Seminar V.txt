@@ -1,0 +1,16 @@
+<start course metadata for 09-401 Undergraduate Seminar V>
+Semester: Fall 2023 (aka F23)
+Course Name: Undergraduate Seminar V
+Course Number: 09-401
+Department: Chemistry
+Number of Units: 1
+Prerequisites: None
+Instructors: Karen Stump
+Rooms: DH 2302
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 09-401 Undergraduate Seminar V>
+
+<start course description for 09-401 Undergraduate Seminar V>
+Semester: Fall 2023 (aka F23)
+Course Description: Students attend seminars on current topics in chemistry.  Students are sent a menu of choices for each week of the semester and may select topics of interest.  Enrollment is restricted to students majoring in chemistry. 1 hr.
+</end course description for 09-401 Undergraduate Seminar V>

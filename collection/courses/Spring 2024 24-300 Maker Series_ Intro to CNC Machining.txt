@@ -1,0 +1,16 @@
+<start course metadata for 24-300 Maker Series: Intro to CNC Machining>
+Semester: Spring 2024 (aka S24)
+Course Name: Maker Series: Intro to CNC Machining
+Course Number: 24-300
+Department: Mechanical Engineering
+Number of Units: 2
+Prerequisites: 24-200
+Instructors: Edward Wojciechowski
+Rooms: HH C110
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-300 Maker Series: Intro to CNC Machining>
+
+<start course description for 24-300 Maker Series: Intro to CNC Machining>
+Semester: Spring 2024 (aka S24)
+Course Description: This course expands upon basic machining principles gained in 24-200 to translate into automated machining.  Topics covered include advanced fixturing, CAM programming using Mastercam X7 to produce toolpaths for automated machining and set up and operation of 3 axis vertical CNC machining centers. This course will focuss on the programming of these machine tools using geometry from CAD data. Students learn in this course how to do part orientation, plan operation ordering, tool selection, speeds and feeds, cut verification, and to assign all of the above to a specific geometry in the CAD model.  Both 2½D and 3D machining will be practiced.  24-200 Machine Shop Practice is a pre-requisite for this course.
+</end course description for 24-300 Maker Series: Intro to CNC Machining>

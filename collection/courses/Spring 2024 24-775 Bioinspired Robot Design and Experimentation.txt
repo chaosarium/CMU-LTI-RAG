@@ -1,0 +1,16 @@
+<start course metadata for 24-775 Bioinspired Robot Design and Experimentation>
+Semester: Spring 2024 (aka S24)
+Course Name: Bioinspired Robot Design and Experimentation
+Course Number: 24-775
+Department: Mechanical Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Vickie Webster-Wood
+Rooms: SH 234
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-775 Bioinspired Robot Design and Experimentation>
+
+<start course description for 24-775 Bioinspired Robot Design and Experimentation>
+Semester: Spring 2024 (aka S24)
+Course Description: This course will give students hands on experience designing, building, and analyzing robotic systems. Through a semester-long project, students will need to propose and test a research hypothesis with an experimental robotic system. Projects will focus on topics in bioinspired robotics and the robot must either test a biological hypothesis using a robot or test a hypothesis about the robot that is based on bioinspired robotic principles. In addition to the project, lectures and homework will cover topics in bioinspired robotics, robotic component design, systems integration, experimental instrumentation, biohybrid robotics, and biomimetic modeling. This class provides the opportunity for students to apply techniques in design, control, and analysis that students have acquired during their graduate studies. Students are expected to be comfortable programming in Matlab and have some prior graduate-level experience in mechanical design, controls, optimization, or robotics.
+</end course description for 24-775 Bioinspired Robot Design and Experimentation>

@@ -1,0 +1,16 @@
+<start course metadata for 33-759 Introduction to Mathematical Physics I>
+Semester: Fall 2023 (aka F23)
+Course Name: Introduction to Mathematical Physics I
+Course Number: 33-759
+Department: Physics
+Number of Units: 12
+Prerequisites: 33-232
+Instructors: Tina Kahniashvili
+Rooms: DH A200
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 33-759 Introduction to Mathematical Physics I>
+
+<start course description for 33-759 Introduction to Mathematical Physics I>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is an introduction to methods of mathematical analysis used in solving physical problems. Emphasis is placed both upon the generality of the methods, through a variety of sample problems, and upon their underlying principles. Topics normally covered include matrix algebra (normal modes, diagonalization, symmetry properties), complex variables and analytic functions, differential equations (Laplace's equation and separation of variables, special functions and their analytic properties), orthogonal systems of functions.
+</end course description for 33-759 Introduction to Mathematical Physics I>

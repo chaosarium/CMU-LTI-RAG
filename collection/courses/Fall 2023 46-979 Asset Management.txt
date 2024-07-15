@@ -1,0 +1,16 @@
+<start course metadata for 46-979 Asset Management>
+Semester: Fall 2023 (aka F23)
+Course Name: Asset Management
+Course Number: 46-979
+Department: Business Administration
+Number of Units: 6
+Prerequisites: 46-972 and 46-973 and 46-956 and 46-929
+Instructors: Zeigham Khokher
+Rooms: BRD 507; TCS 250
+Locations: New York, New York; Pittsburgh, Pennsylvania
+</end course metadata for 46-979 Asset Management>
+
+<start course description for 46-979 Asset Management>
+Semester: Fall 2023 (aka F23)
+Course Description: This course presents a modern treatment of the buy side of quantitative finance. The course follows a modern factor perspective: assets earn high returns (risk premiums) to compensate owners for the losses they incur during bad times, i.e., because of their exposure to underlying factor risks. The main components of the course develop and build on this factor perspective. The course starts with a high-level discussion of asset management both from an academic and from a practical perspective. This will include a description of the main building blocks: factors, portfolio construction, and players in the asset management ecosystem. The subsequent components of the course develop each of these components in more detail. We will discuss general factor models and specific risk factors for different asset classes that have been documented in academic research. We will describe how to use statistical methods to validate the existence of premiums associated with these factors; how to construct portfolios based on underlying factor models; and how to back-test the performance of these portfolios. We will also discuss practical aspects related to transaction costs, liquidity, taxes, cash management, and delegated investing. The course will conclude with a component on machine learning developments in asset management, a subject that is a focus of a great deal of activity and that continues to develop at a rapid pace.  Non-MSCF students may not take this course without written permission from the instructor. To be eligible, you must be a BSCF student or a graduate student enrolled in an MSCF participating college (Dietrich, Heinz, Tepper or Mellon). PhD students with relevant research may be eligible with permission from the instructor.
+</end course description for 46-979 Asset Management>

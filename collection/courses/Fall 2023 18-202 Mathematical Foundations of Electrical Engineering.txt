@@ -1,0 +1,16 @@
+<start course metadata for 18-202 Mathematical Foundations of Electrical Engineering>
+Semester: Fall 2023 (aka F23)
+Course Name: Mathematical Foundations of Electrical Engineering
+Course Number: 18-202
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: 21-122
+Instructors: Carlee Joe-Wong, Vijayakumar Bhagavatula
+Rooms: POS A35
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-202 Mathematical Foundations of Electrical Engineering>
+
+<start course description for 18-202 Mathematical Foundations of Electrical Engineering>
+Semester: Fall 2023 (aka F23)
+Course Description: This course covers topics from engineering mathematics that serve as foundations for descriptions of electrical engineering devices and systems. It is the corequisite mathematics course for 18-220, Fundamentals of Electrical Engineering. The topics include: 1.MATLAB as a robust computational tool, used to reinforce, enrich and integrate ideas throughout the course, including software exercises and projects in combination with homework assignments; 2.Complex Analysis, including rectangular and polar representations in the complex plane with associated forms of complex arithmetic, powers, roots and complex logarithms, complex differentiation, analytic functions and Cauchy-Riemann equations, complex Taylor series, complex exponential, sinusoidal and hyperbolic functions, and Euler's formula; 3.Fourier Analysis, including orthogonality of sinusoids, trigonometric and exponential forms of Fourier series, Fourier integrals and Fourier transforms; 4.Linear, Constant-Coefficient Differential Equations, including complex exponential solutions to homogeneous equations and particular solutions with polynomial and sinusoidal driving functions described by phasors; 5.Difference Equations, with emphasis upon their relationship to differential equations, and; 6.Linear Algebra and Matrices, including matrix arithmetic, linear systems of equations and Gaussian elimination, vector spaces and rank of matrices, matrix inverses and determinants, eigenvalue problems and their relationship to systems of homogeneous differential equations.
+</end course description for 18-202 Mathematical Foundations of Electrical Engineering>

@@ -1,0 +1,16 @@
+<start course metadata for 90-808 US Energy and Climate Policy>
+Semester: Fall 2023 (aka F23)
+Course Name: US Energy and Climate Policy
+Course Number: 90-808
+Department: Public Policy & Mgt:Sch of Pub Pol & Mgt
+Number of Units: 6
+Prerequisites: None
+Instructors: Jeffrey Kupfer
+Rooms: HBH 2003
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 90-808 US Energy and Climate Policy>
+
+<start course description for 90-808 US Energy and Climate Policy>
+Semester: Fall 2023 (aka F23)
+Course Description: This seminar will provide an introduction to modern U.S. energy and climate policy.  Our goal will be to understand, from a practical perspective, how economics, technology, politics, public opinion and national security all influence the development and implementation of policy.  With the ongoing need for an energy transition, the focus on climate change, and the impacts of the war in Ukraine, the need for understanding these issues is more important than ever.      Questions that we will address include: Why has energy and climate taken on such a critical role in the public policy agenda?  How has US policy changed over the years and what lessons have we learned from past initiatives?  How much influence does government really have?  How have new technologies changed the energy landscape and our interactions with other countries?  The class will begin with an overview of the energy sector and the related government structure.  We will then discuss Presidential initiatives and legislative activity, with particular attention to current efforts by the Biden Administration.  We will consider case studies, such as the Keystone Pipeline and carbon pricing, that demonstrate conflicting viewpoints about appropriate energy policy.  The class will also explore international energy issues like liquefied natural gas and crude oil exports, as well as UN climate agreements.  This course is a seminar class; I will provide a framework and then guide a discussion among the students.  We will hear from guest speakers, including a number of current and former senior government officials.
+</end course description for 90-808 US Energy and Climate Policy>

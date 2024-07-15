@@ -1,0 +1,16 @@
+<start course metadata for 90-747 Cost Benefit Analysis>
+Semester: Spring 2024 (aka S24)
+Course Name: Cost Benefit Analysis
+Course Number: 90-747
+Department: Public Policy & Mgt:Sch of Pub Pol & Mgt
+Number of Units: 6
+Prerequisites: (90-710 or 91-803 or 90-709) and (90-777 or 90-707 or 91-801 or 90-711) and (90-723)
+Instructors: William Gogolak
+Rooms: HBH 1202
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 90-747 Cost Benefit Analysis>
+
+<start course description for 90-747 Cost Benefit Analysis>
+Semester: Spring 2024 (aka S24)
+Course Description: As public policy analysts, we are often presented with making decisions that are economically efficient - that is, how does one gain the most benefit for society, given limited resources? Economics provides the theoretical foundation of decision-making, but putting theory into practice is not always easy. Cost-benefit analysis (CBA) is an analytical tool used to determine the worth of a project, program, or policy. It identifies and attempts to quantify the costs and benefits of the project or program and provides decision-makers with manageable information to find the "best" outcome. CBA helps managers to answer questions such as: ¿ Does the proposal provide a net benefit to the community as a whole? ¿ Should the project/program/policy be undertaken? ¿ Should the project/program be continued? ¿ Which of the alternative projects should be undertaken? The course employs various economic and statistical techniques to answer these questions, condensed into a 6-week course.
+</end course description for 90-747 Cost Benefit Analysis>

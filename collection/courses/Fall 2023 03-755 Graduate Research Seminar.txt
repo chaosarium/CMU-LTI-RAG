@@ -1,0 +1,16 @@
+<start course metadata for 03-755 Graduate Research Seminar>
+Semester: Fall 2023 (aka F23)
+Course Name: Graduate Research Seminar
+Course Number: 03-755
+Department: Biological Sciences
+Number of Units: 3
+Prerequisites: None
+Instructors: Huaiying Zhang, Jonathan Minden
+Rooms: MI 348
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 03-755 Graduate Research Seminar>
+
+<start course description for 03-755 Graduate Research Seminar>
+Semester: Fall 2023 (aka F23)
+Course Description: Each semester, all Departmental of Biological Sciences graduate students are required to register for and attend the weekly departmental Journal Club (Graduate Research Seminar 03-755; 3 units) during which students and faculty members give 25-minute presentations. Second-year students present a research paper or topic from the literature, and more senior students present their research results; typically, graduate students give four Journal Club presentations during their time in the department. Each succeeding year those students who speak at the Departmental Retreat or who are graduating by May of their fifth year are not required to present at Journal Club that year.
+</end course description for 03-755 Graduate Research Seminar>

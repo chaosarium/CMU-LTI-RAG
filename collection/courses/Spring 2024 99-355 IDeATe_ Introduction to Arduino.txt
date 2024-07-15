@@ -1,0 +1,16 @@
+<start course metadata for 99-355 IDeATe: Introduction to Arduino>
+Semester: Spring 2024 (aka S24)
+Course Name: IDeATe: Introduction to Arduino
+Course Number: 99-355
+Department: Carnegie Mellon University-Wide Studies
+Number of Units: 1
+Prerequisites: None
+Instructors: Robert Zacharias
+Rooms: HL A10
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 99-355 IDeATe: Introduction to Arduino>
+
+<start course description for 99-355 IDeATe: Introduction to Arduino>
+Semester: Spring 2024 (aka S24)
+Course Description: PLEASE NOTE: The specific meeting dates for the A3 section of this micro course are Feb 2, Feb 9, Feb 16. The specific meeting dates for the B3 section of this micro course are Feb 4, Feb 11, Feb 18. This practical course is designed to quickly take students from beginner to basic functional knowledge of the Arduino microcontroller in three weekend 5-hour sessions. You can expect to learn a) how to write and upload simple code for the Arduino to perform basic logic functions like reading a switch to change a motor's direction, b) how to integrate a variety of physical inputs including knobs, distance sensors, and light sensors, c) how to integrate a variety of physical outputs such as motors, lights, and speakers, and d) how to put all of these together to build simple self-contained low-cost low-power systems. The course culminates in students producing and artful and/or functional interactive creation of their own design. Enrolled students have access to IDeATe's well-equipped Physical Computing Laboratory in the basement of Hunt Library. Undergraduates, graduate students, faculty, and staff interested in learning new skills in an interdisciplinary environment are welcome. There are no technical prerequisites.
+</end course description for 99-355 IDeATe: Introduction to Arduino>

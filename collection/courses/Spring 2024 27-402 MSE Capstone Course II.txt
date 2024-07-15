@@ -1,0 +1,16 @@
+<start course metadata for 27-402 MSE Capstone Course II>
+Semester: Spring 2024 (aka S24)
+Course Name: MSE Capstone Course II
+Course Number: 27-402
+Department: Materials Science & Engineering
+Number of Units: 6
+Prerequisites: 27-401
+Instructors: Robert Heard, Vincent Sokalski
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 27-402 MSE Capstone Course II>
+
+<start course description for 27-402 MSE Capstone Course II>
+Semester: Spring 2024 (aka S24)
+Course Description: This is the spring extension of 27-401. Teams or team members that have the industry agreement and that wish to continue their research project  may do so in this course. As with 27-401, all research is expected to be original, and proper scientific ethics, and methodologies are enforced for the research and reports. Team participation and communication is an important issue and the presentation and reports must be technical and professional in structure.  The course requires full project management and accounting for the research being conducted.  On the topic selected, the work product is a report that provides clear definition of the problem being addressed, a methodology for the research, literature review, experimentation and reporting of findings, conclusions based on findings, and recommendations for future work.
+</end course description for 27-402 MSE Capstone Course II>

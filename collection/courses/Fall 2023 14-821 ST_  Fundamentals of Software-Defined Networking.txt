@@ -1,0 +1,16 @@
+<start course metadata for 14-821 ST:  Fundamentals of Software-Defined Networking>
+Semester: Fall 2023 (aka F23)
+Course Name: ST:  Fundamentals of Software-Defined Networking
+Course Number: 14-821
+Department: Information Networking Institute
+Number of Units: 6
+Prerequisites: None
+Instructors: Pedro Bustamante
+Rooms: B23 211; INI DEC
+Locations: Pittsburgh, Pennsylvania; San Jose, California
+</end course metadata for 14-821 ST:  Fundamentals of Software-Defined Networking>
+
+<start course description for 14-821 ST:  Fundamentals of Software-Defined Networking>
+Semester: Fall 2023 (aka F23)
+Course Description: Software Defined Networking (SDN) is an emerging networking technology that has been rapidly changing the networking industry and telecommunications research. Small to big companies such as Nicira, Contrail, Cisco, IBM, Broadcom, Intel, among others have been continuously developing new SDN products. For many scholars in the area, this paradigm shift is changing how traditional networks are envisioned and constructed towards efficient solutions that separate data and control planes. Among the benefits of SDN, we find greater reliability via automation, more efficient network management, cost savings, and faster network scalability. It is true that SDN brings all sorts of benefits. In this light, understanding its foundations and what SDN cannot do is critical. In this course, you will learn the fundamentals of SDN technology and the perspective of different players. This course aims to cover topics such as the history and evolution of SDNs, the motivation for the separation of the control and data plane (including challenges and opportunities of this new paradigm), getting to know SDN controllers (including their tradeoffs and how to customize control-plane behavior), gaining experience with OpenFlow/SDN control, learn about network virtualization (including how it relates to SDN), learn the foundations of programming languages, frameworks, and controllers for SDN (e.g., Pyretic, Kinetic, and Resonance), and study the applications of SDN in multiple areas at different scales.
+</end course description for 14-821 ST:  Fundamentals of Software-Defined Networking>

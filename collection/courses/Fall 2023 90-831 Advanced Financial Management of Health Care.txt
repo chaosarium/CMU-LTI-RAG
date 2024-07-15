@@ -1,0 +1,16 @@
+<start course metadata for 90-831 Advanced Financial Management of Health Care>
+Semester: Fall 2023 (aka F23)
+Course Name: Advanced Financial Management of Health Care
+Course Number: 90-831
+Department: Public Policy & Mgt:Sch of Pub Pol & Mgt
+Number of Units: 3
+Prerequisites: 90-723
+Instructors: Todd Nelson
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 90-831 Advanced Financial Management of Health Care>
+
+<start course description for 90-831 Advanced Financial Management of Health Care>
+Semester: Fall 2023 (aka F23)
+Course Description: Course Dates:  11/4/23 and 11/5/23. The course is designed to provide students with a general understanding of financial management in healthcare   The subjects covered will provide the background and analytic skills for students to evaluate financial matters and the decision making process encountered in the overall management of healthcare and other organizations.   This will also include issues impacting payments received from Medicare, Medicaid, and commercial managed care insurers. Lectures will include federal and state health care policy decisions and the increasing impact on health systems finances.    The course will also address a number of initiatives the Center for Medicare and Medicaid Services (CMS) has in process or has proposed. This will include a discussion of the PA Rural Health Model under the Center for Medicare and Medicaid Innovation (CMMI) initiative in conjunction with the PA Rural Health Redesign Office.
+</end course description for 90-831 Advanced Financial Management of Health Care>

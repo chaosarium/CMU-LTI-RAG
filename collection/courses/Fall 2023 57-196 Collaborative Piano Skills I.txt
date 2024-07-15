@@ -1,0 +1,16 @@
+<start course metadata for 57-196 Collaborative Piano Skills I>
+Semester: Fall 2023 (aka F23)
+Course Name: Collaborative Piano Skills I
+Course Number: 57-196
+Department: Music
+Number of Units: 3
+Prerequisites: None
+Instructors: Mark Carver
+Rooms: CFA M157
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-196 Collaborative Piano Skills I>
+
+<start course description for 57-196 Collaborative Piano Skills I>
+Semester: Fall 2023 (aka F23)
+Course Description: A required course for first year piano majors. The skills include sightreading, basic keyboard harmony, transposition, and improvised accompaniments for popular or musical theater songs from either a piano reduction or a lead sheet. The students participate in collaborative situations such as juries, recitals, and class presentations. The presentations are critiqued by the instructor and by other students.
+</end course description for 57-196 Collaborative Piano Skills I>

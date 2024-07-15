@@ -1,0 +1,16 @@
+<start course metadata for 05-540 Rapid Prototyping of Computer Systems>
+Semester: Spring 2024 (aka S24)
+Course Name: Rapid Prototyping of Computer Systems
+Course Number: 05-540
+Department: Human-Computer Interaction
+Number of Units: 12
+Prerequisites: None
+Instructors: Asim Smailagic, Nikolas Martelaro
+Rooms: DH A302
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 05-540 Rapid Prototyping of Computer Systems>
+
+<start course description for 05-540 Rapid Prototyping of Computer Systems>
+Semester: Spring 2024 (aka S24)
+Course Description: This is a project-oriented course, which will deal with all four aspects of project development: the application, the artifact, the computer-aided design environment, and the physical prototyping facilities. The class consists of students from different disciplines who must synthesize and implement a system in a short period of time. Upon completion of this course the student will be able to: generate systems specifications from a perceived need; partition functionality between hardware and software; produce interface specifications for a system composed of numerous subsystems; use computer-aided development tools; fabricate, integrate, and debug a hardware/software system; and evaluate the system in the context of an end user application.  The class consists of students from different disciplines who must synthesize and implement a system in a short period of time.
+</end course description for 05-540 Rapid Prototyping of Computer Systems>

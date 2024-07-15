@@ -1,0 +1,16 @@
+<start course metadata for 48-524 Building Performance Modeling>
+Semester: Spring 2024 (aka S24)
+Course Name: Building Performance Modeling
+Course Number: 48-524
+Department: Architecture
+Number of Units: 9
+Prerequisites: 48-305
+Instructors: Wei Liang
+Rooms: MM 415IW
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-524 Building Performance Modeling>
+
+<start course description for 48-524 Building Performance Modeling>
+Semester: Spring 2024 (aka S24)
+Course Description: "You can't hammer a nail over the Internet" Matthew B. Crawford, Shop Class as Soulcraft: An Inquiry Into the Value of Work  The Design/ Build ASO Studio is part of a year-long, interdisciplinary, design-build project to provide a diverse group of students with the opportunity to work with their eyes, hands, and brains to transform an idea from a virtual world into the physical world. The elective is an opportunity for any student to join the spring "build" activity for 9 units. In this semester, we will again work campus constituents to improve the quality of life on campus through engaging design intervention(s). The project is fully funded, and the expectation is that the project will be turned over to the campus community by the last day of classes in the spring semester. During the fall, the Building Integration Option Studio (BIOS) students envisioned a farmer's market for Hazelwood Green creating design proposals at three scales-XL-M-XS. These design proposals for "XS" components will be a potential launching point for the spring build experience. These designs are just that-launching points-they have not been considered in the context of the Carnegie Mellon campus, so design will be a critical component of the early spring.
+</end course description for 48-524 Building Performance Modeling>

@@ -1,0 +1,16 @@
+<start course metadata for 85-422 Clinical Psychology: Science and Practice>
+Semester: Spring 2024 (aka S24)
+Course Name: Clinical Psychology: Science and Practice
+Course Number: 85-422
+Department: Psychology
+Number of Units: 9
+Prerequisites: 85-261 or 85-340 or 85-314 or 85-320 or 85-310 or 85-104
+Instructors: Crista Crittenden
+Rooms: CMU REMOTE
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 85-422 Clinical Psychology: Science and Practice>
+
+<start course description for 85-422 Clinical Psychology: Science and Practice>
+Semester: Spring 2024 (aka S24)
+Course Description: In this course, students will be exposed to the science and practice of clinical psychology, with a particular emphasis on the synergistic relationship between clinical psychological research and clinical practice. We will focus on the four major activities that clinical psychologists engage in (research, assessment, diagnosis, and psychotherapy). Students will learn about the clinical characteristics of major psychological disorders and the empirically-validated treatments available for these conditions. We will make frequent use of research findings and the scientific method to evaluate and understand concepts in clinical psychology. Critical thinking will be emphasized as we explore the scientific strengths and limitations of various treatments for psychological disorders. This course is designed to be a smaller seminar course for juniors and seniors considering graduate school in clinical psychology.
+</end course description for 85-422 Clinical Psychology: Science and Practice>

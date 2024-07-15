@@ -1,0 +1,16 @@
+<start course metadata for 05-839 Interactive Data Science>
+Semester: Fall 2023 (aka F23)
+Course Name: Interactive Data Science
+Course Number: 05-839
+Department: Human-Computer Interaction
+Number of Units: 12
+Prerequisites: None
+Instructors: Adam Perer
+Rooms: CMU REMOTE
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 05-839 Interactive Data Science>
+
+<start course description for 05-839 Interactive Data Science>
+Semester: Fall 2023 (aka F23)
+Course Description: This course covers techniques and technologies for creating data driven interfaces. You will learn about the entire data pipeline from sensing to cleaning data to different forms of analysis and computation.
+</end course description for 05-839 Interactive Data Science>

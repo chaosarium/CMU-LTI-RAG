@@ -1,0 +1,16 @@
+<start course metadata for 42-996 Teaching Assistantship>
+Semester: Fall 2023 (aka F23)
+Course Name: Teaching Assistantship
+Course Number: 42-996
+Department: Biomedical Engineering
+Number of Units: N/A
+Prerequisites: None
+Instructors: Maryia Rakach
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 42-996 Teaching Assistantship>
+
+<start course description for 42-996 Teaching Assistantship>
+Semester: Fall 2023 (aka F23)
+Course Description: The 2-unit course is the vehicle for these teaching assignments. All students must register for this course only during semesters they  are a Teaching Assistant (TA). The units received for this course are not counted toward M.S. or Ph.D. degree requirements. Assignments are made by the department office and announced at the beginning of each semester. The duties generally consist of grading problem sets and holding office hours. An instructor may ask a TA to fill for a lecture in a lecture if the instructor is unavoidably away from campus during the class period. This might occur for no more than a couple lectures for a given class.   This course is a requirement for graduation and must be taken by all students; it is in no way linked to a student's source of financial support. Additional compensation is provided for any TA who volunteers to assist beyond the required three semesters.
+</end course description for 42-996 Teaching Assistantship>

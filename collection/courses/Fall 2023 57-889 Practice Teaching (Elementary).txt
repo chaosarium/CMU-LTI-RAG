@@ -1,0 +1,16 @@
+<start course metadata for 57-889 Practice Teaching (Elementary)>
+Semester: Fall 2023 (aka F23)
+Course Name: Practice Teaching (Elementary)
+Course Number: 57-889
+Department: Music
+Number of Units: N/A
+Prerequisites: None
+Instructors: Susan Raponi
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-889 Practice Teaching (Elementary)>
+
+<start course description for 57-889 Practice Teaching (Elementary)>
+Semester: Fall 2023 (aka F23)
+Course Description: Experience in working with elementary students in a public school setting.  The teaching is supervised by an experienced public school teacher and members of the CMU music education faculty.
+</end course description for 57-889 Practice Teaching (Elementary)>

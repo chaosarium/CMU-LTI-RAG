@@ -1,0 +1,16 @@
+<start course metadata for 21-254 Linear Algebra and Vector Calculus for Engineers>
+Semester: Spring 2024 (aka S24)
+Course Name: Linear Algebra and Vector Calculus for Engineers
+Course Number: 21-254
+Department: Mathematical Sciences
+Number of Units: 11
+Prerequisites: 21-122
+Instructors: Dylan Quintana
+Rooms: DH 2315
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-254 Linear Algebra and Vector Calculus for Engineers>
+
+<start course description for 21-254 Linear Algebra and Vector Calculus for Engineers>
+Semester: Spring 2024 (aka S24)
+Course Description: This course will introduce the fundamentals of vector calculus and linear algebra.  The topics include vector and matrix operations, determinants, linear systems, matrix eigenvalue problems, vector differential calculus including gradient, divergence, curl, and vector integral calculus including line, surface, and volume integral theorems.  Lecture and assignments will emphasize the applications of these topics to engineering problems.  (Three 50 minute lectures, one 50 minute recitation)
+</end course description for 21-254 Linear Algebra and Vector Calculus for Engineers>

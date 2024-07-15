@@ -1,0 +1,16 @@
+<start course metadata for 17-995 Societal Computing Practicum Internship>
+Semester: Spring 2024 (aka S24)
+Course Name: Societal Computing Practicum Internship
+Course Number: 17-995
+Department: Software & Societal Systems
+Number of Units: N/A
+Prerequisites: None
+Instructors: Nicolas Christin
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 17-995 Societal Computing Practicum Internship>
+
+<start course description for 17-995 Societal Computing Practicum Internship>
+Semester: Spring 2024 (aka S24)
+Course Description: Students will register for this course if they plan to participate in a internship opportunity during the academic semester. Internships require CPT approval for international students. Internships must begin and end matching the CMU summer academic calendar. If this does not occur international students will be required to use OPT to cover the non-academic time. Students are required to submit a description of what was accomplished during their internship. Students must turn this into their current advisers for credit, and grading. This 3 unit course will count towards the required electives of the program.
+</end course description for 17-995 Societal Computing Practicum Internship>

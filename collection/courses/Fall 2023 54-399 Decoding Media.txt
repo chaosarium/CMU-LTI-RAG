@@ -1,0 +1,16 @@
+<start course metadata for 54-399 Decoding Media>
+Semester: Fall 2023 (aka F23)
+Course Name: Decoding Media
+Course Number: 54-399
+Department: Drama
+Number of Units: 9
+Prerequisites: None
+Instructors: Lawrence Shea
+Rooms: PCA 231
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-399 Decoding Media>
+
+<start course description for 54-399 Decoding Media>
+Semester: Fall 2023 (aka F23)
+Course Description: Media technologies are designed to do a lot with very little effort. This creates a problem of abundance for artists trying to use these technologies in creative ways. One can relatively quickly pull images off the internet and project them huge onstage, but what does it mean?      Decoding is the term I'm using to help you keep control of your process and create meaningful (not just dazzling) imagery for the stage. The entire theatrical process can be considered as a series of decodings and re-encodings, first decoding the text/idea (by the creative team), re-encoding (the design) and finally decoding by the audience.    This class is designed to give students a solid foundation in contemporary media design skills while simultaneously providing an examination of the function of theater historically and the ways media technologies fill those needs today. Early assignments focus on students use of media in their everyday lives, by keeping media journals and bringing in media objects for examination. Later classes focus on taking ideas from this research and applying them in conceptual stage designs for an ancient Greek play and then a controversial adaptation from the 1990's by Sara Kane.    Students learn how to go from textual analysis to a visual interpretation and staging with media. The class takes students through the process of initial creative brainstorming, to communication tools (concept sketches, digital renderings, 3D models), onto specifying a design through CAD documentation, projection optics calculations and final design presentations.
+</end course description for 54-399 Decoding Media>

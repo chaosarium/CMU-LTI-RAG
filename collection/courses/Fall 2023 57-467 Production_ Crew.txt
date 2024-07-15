@@ -1,0 +1,16 @@
+<start course metadata for 57-467 Production: Crew>
+Semester: Fall 2023 (aka F23)
+Course Name: Production: Crew
+Course Number: 57-467
+Department: Music
+Number of Units: 3
+Prerequisites: None
+Instructors: Melanie Holcomb
+Rooms: WQE ST B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-467 Production: Crew>
+
+<start course description for 57-467 Production: Crew>
+Semester: Fall 2023 (aka F23)
+Course Description: Technical crew for the fully staged production presented by the 57-471 Production: Performance class.  Class participants serve as build and run crew for the production.
+</end course description for 57-467 Production: Crew>

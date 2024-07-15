@@ -1,0 +1,4 @@
+publication venue: Journal of Vision
+title: Reconstructing the neurodynamics of face perception during real world vision in humans using intracranial EEG recordings
+year: 2023
+authors: Arish Alreja, Michael J. Ward, J. A. Colan, Qianli Ma, R. M. Richardson, Louis-Philippe Morency, A. Ghuman

@@ -1,0 +1,16 @@
+<start course metadata for 12-030 IDeATe, Special Topics: Responsive Structures>
+Semester: Spring 2024 (aka S24)
+Course Name: IDeATe, Special Topics: Responsive Structures
+Course Number: 12-030
+Department: Civil & Environmental Engineering
+Number of Units: 9
+Prerequisites: None
+Instructors: Susan Finger
+Rooms: HL A10
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 12-030 IDeATe, Special Topics: Responsive Structures>
+
+<start course description for 12-030 IDeATe, Special Topics: Responsive Structures>
+Semester: Spring 2024 (aka S24)
+Course Description: This interdisciplinary, project based course explores the art and engineering of structures that respond to a human presence. Students will learn the basic concepts of engineered structures, kinematics, and sensor-based actuation in order to design, construct and automate their projects. Students will work on group as well as individual projects. Technical topics include: CAD, laser cutting and 3D printing, and Arduinos.
+</end course description for 12-030 IDeATe, Special Topics: Responsive Structures>

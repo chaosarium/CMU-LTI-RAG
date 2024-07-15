@@ -1,0 +1,16 @@
+<start course metadata for 45-730 Marketing Management>
+Semester: Fall 2023 (aka F23)
+Course Name: Marketing Management
+Course Number: 45-730
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Kannan Srinivasan, Peter Boatwright
+Rooms: TEP 2110
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-730 Marketing Management>
+
+<start course description for 45-730 Marketing Management>
+Semester: Fall 2023 (aka F23)
+Course Description: The objective of the course is to provide a structured introduction to Marketing Management concepts, principles and strategies. A key perspective is that of a manager who operates in an environment of limited resources and incomplete information but is responsible for timely implementation. The way technology is disrupting marketing will be integrated into the course.
+</end course description for 45-730 Marketing Management>

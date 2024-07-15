@@ -1,0 +1,16 @@
+<start course metadata for 73-497 Senior Project>
+Semester: Fall 2023 (aka F23)
+Course Name: Senior Project
+Course Number: 73-497
+Department: Economics
+Number of Units: 9
+Prerequisites: (21-256 or 21-259 or 21-268 or 21-269) and (36-303 or 36-226 or 73-265 or 73-274 or 73-374 or 73-407) and (73-230) and (73-240)
+Instructors: John Gasper
+Rooms: TEP 2613
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 73-497 Senior Project>
+
+<start course description for 73-497 Senior Project>
+Semester: Fall 2023 (aka F23)
+Course Description: A fourth-year project course, open only to Economics primary and additional majors with Senior standing.  The senior project is a capstone course in economics. The purpose of the course is to showcase the analytical and quantitative skills that you have acquired as an undergraduate at Carnegie Mellon. The course project should reflect some independent applied research that is genuinely your own work. Thus a "book report" or a "literature review" are not sufficient exercises to satisfy this requirement. The following research approaches are acceptable for the research project: an empirical study based on a data set that you put together, an experimental study based on an experiment that you conducted, an analysis of survey data based on a survey that you conducted, a theoretical analysis based on a model that you have developed, based on your own algorithm.   Students who write an honor thesis are exempted from this class.  (Lecture, 3 hours). Minimum grade of "C" required in all economics pre-requisite courses.
+</end course description for 73-497 Senior Project>

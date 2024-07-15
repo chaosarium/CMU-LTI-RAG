@@ -1,0 +1,16 @@
+<start course metadata for 10-301 Introduction to Machine Learning (Undergrad)>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Introduction to Machine Learning (Undergrad)
+Course Number: 10-301
+Department: Machine Learning
+Number of Units: 12
+Prerequisites: (15-122) and (21-128 or 21-127 or 15-151) and (36-219 or 15-259 or 36-225 or 21-325 or 36-217 or 36-235 or 15-359 or 36-218 or 36-220)
+Instructors: Henry Chai
+Rooms: SH 105
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 10-301 Introduction to Machine Learning (Undergrad)>
+
+<start course description for 10-301 Introduction to Machine Learning (Undergrad)>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: Machine Learning (ML) develops computer programs that automatically improve their performance through experience. This includes learning many types of tasks based on many types of experience, e.g. spotting high-risk medical patients, recognizing speech, classifying text documents, detecting credit card fraud, or driving autonomous vehicles. 10301 covers all or most of: concept learning, decision trees, neural networks, linear learning, active learning, estimation & the bias-variance tradeoff, hypothesis testing, Bayesian learning, the MDL principle, the Gibbs classifier, Naive Bayes, Bayes Nets & Graphical Models, the EM algorithm, Hidden Markov Models, K-Nearest-Neighbors and nonparametric learning, reinforcement learning, bagging, boosting and discriminative training. Grading will be based on weekly or biweekly assignments (written and/or programming), a midterm, a final exam. 10301 is recommended for undergraduates who are not SCS majors. (SCS majors should instead take 10315.) Prerequisites (strictly enforced): strong quantitative aptitude, college probability & statistics course, and programming proficiency. For learning to apply ML practically & effectively, without the above prerequisites, consider 11344/05834 instead. You can find a link to the Intro to ML course comparison page, which includes a self-assessment exam to help you choose which Intro to ML course to take, in the Course URL field.
+</end course description for 10-301 Introduction to Machine Learning (Undergrad)>

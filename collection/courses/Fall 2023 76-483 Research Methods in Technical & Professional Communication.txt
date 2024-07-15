@@ -1,0 +1,16 @@
+<start course metadata for 76-483 Research Methods in Technical & Professional Communication>
+Semester: Fall 2023 (aka F23)
+Course Name: Research Methods in Technical & Professional Communication
+Course Number: 76-483
+Department: English
+Number of Units: 9
+Prerequisites: (76-270) or (76-271)
+Instructors: Joanna Wolfe
+Rooms: WEH 4625
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 76-483 Research Methods in Technical & Professional Communication>
+
+<start course description for 76-483 Research Methods in Technical & Professional Communication>
+Semester: Fall 2023 (aka F23)
+Course Description: This course provides you with practical, hands-on experience with designing, collecting, and analyzing research in Technical and Professional Communication. These same research methods are also applicable to Writing Studies and classroom research. We will go into depth on three main methods in this class: interviews, surveys, and think-aloud protocols. In addition, we will touch on focus groups, eye-tracking analysis, and collaborative analysis techniques.  More specifically, in this class you will learn how to design well-worded questions that produce reliable information; critically reflect on and improve your interview technique; explore software designed to aid in open-ended analysis of qualitative data; design an A/B (or control/experimental) study; write a data-driven research report, and experiment with a range of data collection techniques. Students taking the course for 12-units will have additional readings that look at how these research methods have been applied in Technical and Professional Communication and Writing Studies.
+</end course description for 76-483 Research Methods in Technical & Professional Communication>

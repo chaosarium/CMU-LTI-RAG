@@ -1,0 +1,16 @@
+<start course metadata for 18-469 Hacker Fab>
+Semester: Fall 2023 (aka F23)
+Course Name: Hacker Fab
+Course Number: 18-469
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Alexander Hakim, Elio Bourcart, James Bain, Siyang Zheng
+Rooms: SH 234; SH 238
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-469 Hacker Fab>
+
+<start course description for 18-469 Hacker Fab>
+Semester: Fall 2023 (aka F23)
+Course Description: Please refer to the ECE website for topic descriptions.
+</end course description for 18-469 Hacker Fab>

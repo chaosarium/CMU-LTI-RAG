@@ -1,0 +1,16 @@
+<start course metadata for 09-221 Laboratory I:  Introduction to Chemical Analysis>
+Semester: Spring 2024 (aka S24)
+Course Name: Laboratory I:  Introduction to Chemical Analysis
+Course Number: 09-221
+Department: Chemistry
+Number of Units: 12
+Prerequisites: 09-107 or 09-106
+Instructors: Leonard Vuocolo
+Rooms: DH 2302
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 09-221 Laboratory I:  Introduction to Chemical Analysis>
+
+<start course description for 09-221 Laboratory I:  Introduction to Chemical Analysis>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is the first in a sequence of four laboratory courses on experimental aspects of chemistry required for the B.S. and B.A. degrees in chemistry. The experimental work emphasizes the techniques of quantitative chemical analysis. Included are projects dealing with a variety of instrumental and wet chemical techniques. The course is project-oriented with the experiments becoming more complex, requiring greater student input into the experimental design as the semester progresses. A mixture of individual and team experiments are conducted during the semester. In addition to techniques, safety, written and oral communication skills, and effective teamwork are emphasized.  2 hrs. lec., 6 hrs. lab.
+</end course description for 09-221 Laboratory I:  Introduction to Chemical Analysis>

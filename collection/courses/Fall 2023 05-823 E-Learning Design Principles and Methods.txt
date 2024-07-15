@@ -1,0 +1,16 @@
+<start course metadata for 05-823 E-Learning Design Principles and Methods>
+Semester: Fall 2023 (aka F23)
+Course Name: E-Learning Design Principles and Methods
+Course Number: 05-823
+Department: Human-Computer Interaction
+Number of Units: 12
+Prerequisites: None
+Instructors: Kenneth Koedinger
+Rooms: POS A35
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 05-823 E-Learning Design Principles and Methods>
+
+<start course description for 05-823 E-Learning Design Principles and Methods>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is about e-learning design principles, the evidence and theory behind them, and how to apply these principles to develop effective educational technologies. It is organized around the book "e-Learning and the Science of Instruction: Proven Guidelines for Consumers and Designers of Multimedia Learning" by Clark & Mayer with further readings drawn from cognitive science, educational psychology, and human-computer interaction. You will learn design principles 1) for combining words, audio, and graphics in multimedia instruction, 2) for combining examples, explanations, practice and feedback in online support for learning by doing, and 3) for balancing learner versus system control and supporting student metacognition. You will read about the experiments that support these design principles, see examples of how to design such experiments, and practice applying the principles in educational technology development.
+</end course description for 05-823 E-Learning Design Principles and Methods>

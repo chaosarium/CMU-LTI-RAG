@@ -1,0 +1,16 @@
+<start course metadata for 24-785 Engineering Optimization>
+Semester: Fall 2023 (aka F23)
+Course Name: Engineering Optimization
+Course Number: 24-785
+Department: Mechanical Engineering
+Number of Units: 12
+Prerequisites: 21-259 and 21-341
+Instructors: Ramteen Sioshansi
+Rooms: HH B103
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-785 Engineering Optimization>
+
+<start course description for 24-785 Engineering Optimization>
+Semester: Fall 2023 (aka F23)
+Course Description: Engineering Optimization  Intermittent: 12 units   This course introduces students to 1) the process of formally representing an engineering design or decision-making problem as a mathematical problem and 2) the theory and numerical methods needed to understand and solve the mathematical problem. Theoretical topics focus on constrained nonlinear programming, including necessary and sufficient conditions for local and global optimality and numerical methods for solving nonlinear optimization problems. Additional topics such as linear programming, mixed integer programming, global optimization, and stochastic methods are briefly introduced. Model construction and interpretation are explored with metamodeling and model reformulation techniques, study of model boundedness, constraint activity, and sensitivity analysis. Matlab is used in homework assignments for visualization and algorithm development, and students apply theory and methods to a topic of interest in a course project. Fluency with multivariable calculus, linear algebra, and computer programming is expected. Students who are unfamiliar with Matlab are expected to learn independently using available tutorials and examples provided.   4 hrs.lecture  Prerequisites: None   19785 and 24785: 12-units including the team-based engineering optimization project  19685 and 24685:  9-units excluding the project
+</end course description for 24-785 Engineering Optimization>

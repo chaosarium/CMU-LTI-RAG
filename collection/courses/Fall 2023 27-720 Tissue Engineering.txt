@@ -1,0 +1,16 @@
+<start course metadata for 27-720 Tissue Engineering>
+Semester: Fall 2023 (aka F23)
+Course Name: Tissue Engineering
+Course Number: 27-720
+Department: Materials Science & Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Adam Feinberg
+Rooms: EDS 125
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 27-720 Tissue Engineering>
+
+<start course description for 27-720 Tissue Engineering>
+Semester: Fall 2023 (aka F23)
+Course Description: This course will train students in advanced cellular and tissue engineering methods that apply physical, mechanical and chemical manipulation of materials in order to direct cell and tissue function. Students will learn the techniques and equipment of bench research including cell culture, immunofluorescent imaging, soft lithography, variable stiffness substrates, application/measurement of forces and other methods. Students will integrate classroom lectures and lab skills by applying the scientific method to develop a unique project while working in a team environment, keeping a detailed lab notebook and meeting mandated milestones. Emphasis will be placed on developing the written and oral communication skills required of the professional scientist. The class will culminate with a poster presentation session based on class projects. Pre-requisite: Knowledge in cell biology and biomaterials, or permission of instructor
+</end course description for 27-720 Tissue Engineering>

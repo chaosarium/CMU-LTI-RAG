@@ -1,0 +1,16 @@
+<start course metadata for 57-605 Theory and Analysis for Graduate Students>
+Semester: Fall 2023 (aka F23)
+Course Name: Theory and Analysis for Graduate Students
+Course Number: 57-605
+Department: Music
+Number of Units: 6
+Prerequisites: None
+Instructors: Mark Domencic
+Rooms: CFA M157
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-605 Theory and Analysis for Graduate Students>
+
+<start course description for 57-605 Theory and Analysis for Graduate Students>
+Semester: Fall 2023 (aka F23)
+Course Description: Theory and Analysis for Graduate Students is a six-unit course that does not count towards the requirements of a graduate degree.   This course explores a wide range of repertoire from the Common Practice Period, while refining harmonic and melodic analytical techniques.  It serves as a foundation course for the upper level graduate Music Support theory and analysis courses.  Graduate students with insufficient scores on the Theory Competency Exam, as well as those who wish to solidify their theoretical skills before taking the more advanced theory courses, are advised to enroll in this class.  A grade of at least a B in this course is needed to fulfill the requirements of the Theory Competency Exam.
+</end course description for 57-605 Theory and Analysis for Graduate Students>

@@ -1,0 +1,16 @@
+<start course metadata for 94-827 SAS for Public Policy>
+Semester: Spring 2024 (aka S24)
+Course Name: SAS for Public Policy
+Course Number: 94-827
+Department: Heinz College Wide Courses
+Number of Units: 6
+Prerequisites: 90-711 or 90-707
+Instructors: Gerald Hunter
+Rooms: HBH 2009
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 94-827 SAS for Public Policy>
+
+<start course description for 94-827 SAS for Public Policy>
+Semester: Spring 2024 (aka S24)
+Course Description: We use SAS to explore data processing and analysis. This course provides an introduction to the SAS programming applications with examples from real world policy analysis. We use publicly available datasets to gain practical experience as well as test dataset to learn programming concepts. While the course is designed to provide SAS programming skills, it will be an opportunity to apply statistical procedures learned in other courses. Basic SAS procedures, iterative processing, statistical procedures, and common data manipulation techniques are featured in the course.
+</end course description for 94-827 SAS for Public Policy>

@@ -1,0 +1,16 @@
+<start course metadata for 03-151 Honors Modern Biology>
+Semester: Fall 2023 (aka F23)
+Course Name: Honors Modern Biology
+Course Number: 03-151
+Department: Biological Sciences
+Number of Units: 10
+Prerequisites: None
+Instructors: Jonathan Minden, Nesrine Affara
+Rooms: CMB 3046; HH B131
+Locations: Doha, Qatar; Pittsburgh, Pennsylvania
+</end course metadata for 03-151 Honors Modern Biology>
+
+<start course description for 03-151 Honors Modern Biology>
+Semester: Fall 2023 (aka F23)
+Course Description: Honors Modern Biology (03-151) is an honors introductory course. This course has been designed for freshman students with an interest in a major in the biological sciences who have had solid preparation in this field as indicated by the following examinations: SAT II Molecular Biology, AP, or IB Biology. This course will present the concepts and principles necessary for a general understanding of the processes occurring in living cells and is the basis for further study in cell biology, biochemistry, genetics, molecular and developmental biology. While similar core topics will be covered in all sections of Modern Biology, this section will be offered at an accelerated pace, requiring more independent learning. The extra class time this pacing provides will allow the exploration of the molecular basis of life to help students integrate and apply the core principles of biology covered in the course.  THIS SECTION IS RESERVED FOR INCOMING FIRST-YEAR MCS STUDENTS.
+</end course description for 03-151 Honors Modern Biology>

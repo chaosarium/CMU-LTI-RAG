@@ -1,0 +1,16 @@
+<start course metadata for 18-460 Optimization>
+Semester: Spring 2024 (aka S24)
+Course Name: Optimization
+Course Number: 18-460
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: (18-202 or 21-254 or 21-259 or 21-260) and (36-219 or 36-218 or 36-225 or 21-325) and (21-241)
+Instructors: Guannan Qu
+Rooms: SH 234
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-460 Optimization>
+
+<start course description for 18-460 Optimization>
+Semester: Spring 2024 (aka S24)
+Course Description: Many design problems in engineering (e.g., machine learning, finance, circuit design, etc.) involve minimizing (or maximizing) a cost (or reward) function. However, solving these problems analytically is often challenging. Optimization is the study of algorithms and theory for numerically solving such problems, and it underpins many of the technologies we use today.  This course is an introduction to optimization. Students will: (1)learn about common classes of optimization problems, (2) study (and implement) algorithms for solving them, and (3) gain hands-on experience with standard optimization  tools. We will focus on convex optimization problems, but will also discuss the growing role of non-convex optimization, as well as some more general numerical methods. The course will emphasize connections to real-world applications including machine learning, networking, and finance. The course will involve lectures, homework, exams, and a project.  This course is crosslisted with 18660. Although students in 18460 will share lectures with students in 18660, students in 18460 will receive distinct homework assignments, distinct design problems, and distinct exams from the ones given to students in 18660. Specifically, the homework assignments, design problems and exams that are given to the 18660 students will be more challenging than those given to the 18460 students.
+</end course description for 18-460 Optimization>

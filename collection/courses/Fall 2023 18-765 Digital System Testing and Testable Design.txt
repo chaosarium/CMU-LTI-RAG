@@ -1,0 +1,16 @@
+<start course metadata for 18-765 Digital System Testing and Testable Design>
+Semester: Fall 2023 (aka F23)
+Course Name: Digital System Testing and Testable Design
+Course Number: 18-765
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: (15-210) and (18-240) and (18-340 or 18-341)
+Instructors: Shawn Blanton
+Rooms: DNM DNM; HH 1107
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-765 Digital System Testing and Testable Design>
+
+<start course description for 18-765 Digital System Testing and Testable Design>
+Semester: Fall 2023 (aka F23)
+Course Description: For this course, time- and topic-indexed videos of lecture, homework, projects, etc. will be available from the online learning portal/website. In addition to these resources, two 1-hour live sessions are scheduled per week for recitation.  Each student is strongly urged to attend one of these two sessions each week, either remotely or in the classroom on the Carnegie-Mellon Pittsburgh campus.    This course examines in depth the theory and practice of fault analysis, test generation, and design for testability for digital ICs and systems. The topics to be covered include circuit and system modeling; fault sources and types; the single stuck-line (SSL), delay, and functional fault models; fault simulation methods; automatic test pattern generation (ATPG) algorithms for combinational and sequential circuits, including the D-algorithm, PODEM, FAN, and the genetic algorithm; testability measures; design-for-testability; scan design; test compression methods; logic-level diagnosis; built-in self-testing (BIST); VLSI testing issues; and processor and memory testing. Advance research issues, including topics on MEMS and mixed-signal testing are also discussed.      4 hours of lecture per week    Prerequisites: 18-240 and 15-211 and (18-340 or 18-341) Senior or graduate standing required.
+</end course description for 18-765 Digital System Testing and Testable Design>

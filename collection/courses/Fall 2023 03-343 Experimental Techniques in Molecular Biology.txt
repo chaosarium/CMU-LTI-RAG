@@ -1,0 +1,16 @@
+<start course metadata for 03-343 Experimental Techniques in Molecular Biology>
+Semester: Fall 2023 (aka F23)
+Course Name: Experimental Techniques in Molecular Biology
+Course Number: 03-343
+Department: Biological Sciences
+Number of Units: 12
+Prerequisites: (03-232 or 03-231) and (09-208 or 09-222 or 09-223 or QC211)
+Instructors: Adviti Naik, Annette Vincent, Carrie Doonan, Emily Drill, Natalie McGuier
+Rooms: CMB 3046; MI 348
+Locations: Doha, Qatar; Pittsburgh, Pennsylvania
+</end course metadata for 03-343 Experimental Techniques in Molecular Biology>
+
+<start course description for 03-343 Experimental Techniques in Molecular Biology>
+Semester: Fall 2023 (aka F23)
+Course Description: This laboratory course is designed to teach experimental methods of modern biology. Experiments in microbial genetics, molecular biology and eukaryotic genetics are performed. Emphasis is placed on understanding and applying the biological principles of each experiment. This course is designed to be taken during the junior year and is intended to prepare students for undergraduate research. Experimentation using living organisms and/or their tissues, cells or molecules is an essential component of this course.
+</end course description for 03-343 Experimental Techniques in Molecular Biology>

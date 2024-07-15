@@ -1,0 +1,16 @@
+<start course metadata for 84-711 Qualitative Methods in Social Science Research>
+Semester: Fall 2023 (aka F23)
+Course Name: Qualitative Methods in Social Science Research
+Course Number: 84-711
+Department: Institute for Politics and Strategy
+Number of Units: 6
+Prerequisites: None
+Instructors: Forrest Morgan
+Rooms: POS 147
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 84-711 Qualitative Methods in Social Science Research>
+
+<start course description for 84-711 Qualitative Methods in Social Science Research>
+Semester: Fall 2023 (aka F23)
+Course Description: In this mini course, we will explore research techniques that focus on empirical evidence but do not require quantification of data. The aim is to provide students methodological tools and practical experience to conduct qualitative research at a proficient level. We will study four qualitative techniques used in social science research: interviews, archival analysis, process tracing, and counterfactuals. Given the breadth and brevity of the course, students who decide to conduct qualitative research for their master's thesis are encouraged to work through the literature covered in the course in more detail.
+</end course description for 84-711 Qualitative Methods in Social Science Research>

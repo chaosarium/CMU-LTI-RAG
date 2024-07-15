@@ -1,0 +1,16 @@
+<start course metadata for 65-411 QSSS Proseminar 1>
+Semester: Fall 2023 (aka F23)
+Course Name: QSSS Proseminar 1
+Course Number: 65-411
+Department: General Dietrich College
+Number of Units: 3
+Prerequisites: None
+Instructors: Mark Patterson
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 65-411 QSSS Proseminar 1>
+
+<start course description for 65-411 QSSS Proseminar 1>
+Semester: Fall 2023 (aka F23)
+Course Description: Students completing theses will meet weekly to update each other on writing progress, practice oral presentations, and review written work.  In addition to the completion of a senior thesis, students are expected to present at the Meeting of the Minds conference in the spring.  Enrollment is limited to QSSS students with senior standing.
+</end course description for 65-411 QSSS Proseminar 1>

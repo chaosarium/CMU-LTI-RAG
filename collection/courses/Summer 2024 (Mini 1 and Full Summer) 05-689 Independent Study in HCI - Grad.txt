@@ -1,0 +1,16 @@
+<start course metadata for 05-689 Independent Study in HCI - Grad>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Independent Study in HCI - Grad
+Course Number: 05-689
+Department: Human-Computer Interaction
+Number of Units: N/A
+Prerequisites: None
+Instructors: Nicole Willis
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 05-689 Independent Study in HCI - Grad>
+
+<start course description for 05-689 Independent Study in HCI - Grad>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: With the permission of the professor, students may engage in independent project work on any number of innovative research projects sponsored by faculty. Students must complete an Independent Study Proposal, negotiate the number of units to be earned, submit a contract, and present a tangible deliverable.  The Program Advisor's signature is required for HCI graduate-level Independent Study courses.
+</end course description for 05-689 Independent Study in HCI - Grad>

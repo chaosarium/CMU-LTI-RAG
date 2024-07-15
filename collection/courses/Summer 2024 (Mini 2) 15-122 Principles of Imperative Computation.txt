@@ -1,0 +1,16 @@
+<start course metadata for 15-122 Principles of Imperative Computation>
+Semester: Summer Two 2024 (aka M24, M24 Mini 2, Summer 2024 Mini 2)
+Course Name: Principles of Imperative Computation
+Course Number: 15-122
+Department: Computer Science
+Number of Units: 12
+Prerequisites: 15-112
+Instructors: Anne Kohlbrenner
+Rooms: GHC CLSTR; TEP 1403
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-122 Principles of Imperative Computation>
+
+<start course description for 15-122 Principles of Imperative Computation>
+Semester: Summer Two 2024 (aka M24, M24 Mini 2, Summer 2024 Mini 2)
+Course Description: None
+</end course description for 15-122 Principles of Imperative Computation>

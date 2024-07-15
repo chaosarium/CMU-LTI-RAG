@@ -1,0 +1,16 @@
+<start course metadata for 27-537 Data Analytics for Materials Science>
+Semester: Spring 2024 (aka S24)
+Course Name: Data Analytics for Materials Science
+Course Number: 27-537
+Department: Materials Science & Engineering
+Number of Units: 9
+Prerequisites: 36-220 or 19-250
+Instructors: S. Mohadeseh Taheri-Mousavi
+Rooms: WEH 5207
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 27-537 Data Analytics for Materials Science>
+
+<start course description for 27-537 Data Analytics for Materials Science>
+Semester: Spring 2024 (aka S24)
+Course Description: Materials Science and Engineering has traditionally been taught by emphasizing the development and application of technology. This course will present an alternative approach that combines data analytics and machine learning with material fundamentals (i.e. materials informatics).
+</end course description for 27-537 Data Analytics for Materials Science>

@@ -1,0 +1,16 @@
+<start course metadata for 42-656 Introduction to Machine Learning for Biomedical Engineers>
+Semester: Fall 2023 (aka F23)
+Course Name: Introduction to Machine Learning for Biomedical Engineers
+Course Number: 42-656
+Department: Biomedical Engineering
+Number of Units: 9
+Prerequisites: None
+Instructors: Patjanaporn Chalacheva
+Rooms: WEH 5409
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 42-656 Introduction to Machine Learning for Biomedical Engineers>
+
+<start course description for 42-656 Introduction to Machine Learning for Biomedical Engineers>
+Semester: Fall 2023 (aka F23)
+Course Description: This course introduces fundamental concepts, methods and applications in machine learning and datamining. We will cover topics such as parametric and non-parametric learning algorithms, support vector machines, neural networks, clustering, clustering and principal components analysis. The emphasis will be on learning high-level concepts behind machine learning algorithms, and applying them to biomedical-related problems. This course is intended for advanced undergraduate and graduate students in Biomedical Engineering or related disciplines. Students should have experience with high-level programming language such as Python/Matlab, basic familiarity with probability, statistics and linear algebra, and should be comfortable with manipulating vectors and matrices.
+</end course description for 42-656 Introduction to Machine Learning for Biomedical Engineers>

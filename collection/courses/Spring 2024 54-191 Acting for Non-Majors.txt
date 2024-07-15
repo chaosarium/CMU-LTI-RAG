@@ -1,0 +1,16 @@
+<start course metadata for 54-191 Acting for Non-Majors>
+Semester: Spring 2024 (aka S24)
+Course Name: Acting for Non-Majors
+Course Number: 54-191
+Department: Drama
+Number of Units: 9
+Prerequisites: None
+Instructors: Gab Cody, Kathleen-Carole Swierc, Samantha Pazos
+Rooms: CFA 102; PCA 314; WEH 5302; WEH 5310
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-191 Acting for Non-Majors>
+
+<start course description for 54-191 Acting for Non-Majors>
+Semester: Spring 2024 (aka S24)
+Course Description: This class is designed for non-acting majors and introduces the student to the basic principles of acting, character study and improvisation. One semester course.
+</end course description for 54-191 Acting for Non-Majors>

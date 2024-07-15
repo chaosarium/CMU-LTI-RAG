@@ -1,0 +1,16 @@
+<start course metadata for 12-352 TBA>
+Semester: Spring 2024 (aka S24)
+Course Name: TBA
+Course Number: 12-352
+Department: Civil & Environmental Engineering
+Number of Units: 3
+Prerequisites: None
+Instructors: Joe Moore
+Rooms: PH 107E
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 12-352 TBA>
+
+<start course description for 12-352 TBA>
+Semester: Spring 2024 (aka S24)
+Course Description: Environmental engineering depends on many kinds of measurements as well as experimentation for monitoring and managing natural and engineered systems.  In this course, students will design and conduct laboratory experiments that illustrate the fundamental principles of chemical, physical, and biological processes learned in environmental engineering.  Topics include acid-base chemistry, carbonate chemistry, solids removal, and pathogen detection. Experiments include applications of methods to detect and quantify both inorganic and organic contaminants in water, and methods to remove contaminants from water. Students will also advance teamwork skills through group efforts and collaborative writing.
+</end course description for 12-352 TBA>

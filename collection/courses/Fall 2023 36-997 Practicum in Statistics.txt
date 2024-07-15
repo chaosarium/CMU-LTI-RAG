@@ -1,0 +1,16 @@
+<start course metadata for 36-997 Practicum in Statistics>
+Semester: Fall 2023 (aka F23)
+Course Name: Practicum in Statistics
+Course Number: 36-997
+Department: Statistics and Data Science
+Number of Units: N/A
+Prerequisites: None
+Instructors: Alexandra Chouldechova
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 36-997 Practicum in Statistics>
+
+<start course description for 36-997 Practicum in Statistics>
+Semester: Fall 2023 (aka F23)
+Course Description: None
+</end course description for 36-997 Practicum in Statistics>

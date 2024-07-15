@@ -1,0 +1,16 @@
+<start course metadata for 84-499 Independent Study>
+Semester: Fall 2023 (aka F23)
+Course Name: Independent Study
+Course Number: 84-499
+Department: Institute for Politics and Strategy
+Number of Units: N/A
+Prerequisites: None
+Instructors: Baruch Fischhoff, Daniel Silverman, Geoffrey Mcgovern, Haleigh Bartos, Ignacio Arana, John Chin, Jonathan Cervas, Molly Dunigan
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 84-499 Independent Study>
+
+<start course description for 84-499 Independent Study>
+Semester: Fall 2023 (aka F23)
+Course Description: Students conduct independent academic study under the supervision of a faculty member. Students who wish to engage in an independent study should seek out a faculty member whose interests are appropriate to the topic. Students must also complete an "Independent Study/Research for Credit" form, available from the Deputy Director or on the CMIST website. Prerequisite: Permission of a faculty sponsor.
+</end course description for 84-499 Independent Study>

@@ -1,0 +1,16 @@
+<start course metadata for 48-112 Digital Fabrication Skills>
+Semester: Spring 2024 (aka S24)
+Course Name: Digital Fabrication Skills
+Course Number: 48-112
+Department: Architecture
+Number of Units: 2
+Prerequisites: None
+Instructors: Steven Sontag
+Rooms: DNM DNM; GHC 4102; WEH 5415
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-112 Digital Fabrication Skills>
+
+<start course description for 48-112 Digital Fabrication Skills>
+Semester: Spring 2024 (aka S24)
+Course Description: "The formal qualities explored by designers today necessitates the use of sophisticated tools with a combination of flexibility and precision. This course serves as an introduction to the type of equipment and methodologies utilized in architectural fabrication. Students will develop a basic understanding of the field to leverage these processes to explore and represent the complex nature of their designs.  Through lectures and lab sessions, students will learn the affordances of the machines available in the DFAB Lab (Digital Fabrication Lab), how to prepare 3D CAD models in Rhino 3D for digital fabrication, and basic CAM (Computer Aided Manufacturing) programming. A series of projects, each highlighting an individual machine, will reinforce this technical knowledge while requiring students to rationalize their designs so their physical manifestations are informed by the techniques introduced."
+</end course description for 48-112 Digital Fabrication Skills>

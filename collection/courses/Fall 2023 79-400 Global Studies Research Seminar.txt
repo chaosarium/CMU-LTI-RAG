@@ -1,0 +1,16 @@
+<start course metadata for 79-400 Global Studies Research Seminar>
+Semester: Fall 2023 (aka F23)
+Course Name: Global Studies Research Seminar
+Course Number: 79-400
+Department: History
+Number of Units: 12
+Prerequisites: None
+Instructors: Noah Theriault
+Rooms: WEH 5320
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 79-400 Global Studies Research Seminar>
+
+<start course description for 79-400 Global Studies Research Seminar>
+Semester: Fall 2023 (aka F23)
+Course Description: This research seminar is the capstone course for Global Studies majors. The course is designed to give you a chance to define and carry out a research project of personal interest. The first few weeks of the course will be devoted to developing a research topic and locating sources. We will then work on how to interpret and synthesize sources into a coherent and compelling thesis before you begin drafting your paper. Your research may be based on in-depth reading of a body of scholarly work, field notes from ethnographic observations, archival research, analysis of literary or visual media, or some combination of these sources. Incorporation of some non-English language sources is strongly encouraged where possible. Independent work, self-initiative, participation in discussion, and peer evaluations are required. There are several interim deadlines that will be strictly enforced in order to ensure successful completion of the course.
+</end course description for 79-400 Global Studies Research Seminar>

@@ -1,0 +1,16 @@
+<start course metadata for 16-665 Robot Mobility on Air, Land, & Sea>
+Semester: Fall 2023 (aka F23)
+Course Name: Robot Mobility on Air, Land, & Sea
+Course Number: 16-665
+Department: Robotics
+Number of Units: 12
+Prerequisites: None
+Instructors: Dimitrios Apostolopoulos, Guanya Shi, Hartmut Geyer, John Dolan, Michael Kaess
+Rooms: NSH 1305
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 16-665 Robot Mobility on Air, Land, & Sea>
+
+<start course description for 16-665 Robot Mobility on Air, Land, & Sea>
+Semester: Fall 2023 (aka F23)
+Course Description: Required core course for MRSD first-year students. Many robots are designed to move through their environments. Three prevalent environments on earth are land, air, and water. This course will explore the modeling, control, and navigation of ground-based (wheeled and legged), air-based (rotorcraft such as quadcopters), and water-based robots.
+</end course description for 16-665 Robot Mobility on Air, Land, & Sea>

@@ -1,0 +1,16 @@
+<start course metadata for 53-546 Creative Story Development for Emerging Technologies>
+Semester: Spring 2024 (aka S24)
+Course Name: Creative Story Development for Emerging Technologies
+Course Number: 53-546
+Department: Entertainment Technology
+Number of Units: 12
+Prerequisites: None
+Instructors: John Dessler
+Rooms: HL 106C
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 53-546 Creative Story Development for Emerging Technologies>
+
+<start course description for 53-546 Creative Story Development for Emerging Technologies>
+Semester: Spring 2024 (aka S24)
+Course Description: In this course, students will delve into the art of creating narratives designed for the digital age. They will explore linear and non-linear narratives, single and multi-threaded plots, interactive storytelling, and more. Throughout this course, students learn the essential techniques for delivering immersive narratives across diverse media platforms and discover how best to harness these technologies to bring stories to life in a multitude of ways. Incorporating methods such as AI-augmented story development and previsualization, students will not only refine their storytelling abilities but also gain an understanding of how these approaches shape our digital world. "
+</end course description for 53-546 Creative Story Development for Emerging Technologies>

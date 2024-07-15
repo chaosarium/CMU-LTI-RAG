@@ -1,0 +1,16 @@
+<start course metadata for 15-251 Great Ideas in Theoretical Computer Science>
+Semester: Spring 2024 (aka S24)
+Course Name: Great Ideas in Theoretical Computer Science
+Course Number: 15-251
+Department: Computer Science
+Number of Units: 12
+Prerequisites: (15-122 or 15-150) and (21-127 or 21-128 or 15-151)
+Instructors: Anil Ada, Christos Kapoutsis, Feras Saad
+Rooms: CMB 2152; DH 2210; GHC 4401
+Locations: Doha, Qatar; Pittsburgh, Pennsylvania
+</end course metadata for 15-251 Great Ideas in Theoretical Computer Science>
+
+<start course description for 15-251 Great Ideas in Theoretical Computer Science>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is about how to use theoretical ideas to formulate and solve problems in computer science. It integrates mathematical material with general problem solving techniques and computer science applications. Examples are drawn from algorithms, complexity theory, game theory, probability theory, graph theory, automata theory, algebra, cryptography, and combinatorics. Assignments involve both mathematical proofs and programming.  NOTE: students must achieve a C or better in order to use this course to satisfy the pre-requisite for any subsequent Computer Science course.
+</end course description for 15-251 Great Ideas in Theoretical Computer Science>

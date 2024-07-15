@@ -1,0 +1,16 @@
+<start course metadata for 98-317 Student Taught Courses (StuCo): Hype for Types>
+Semester: Fall 2023 (aka F23)
+Course Name: Student Taught Courses (StuCo): Hype for Types
+Course Number: 98-317
+Department: StuCo (Student Led Courses)
+Number of Units: 3
+Prerequisites: None
+Instructors: Runming Li, Sonya Simkin, Yosef Alsuhaibani, Zachary Battleman
+Rooms: WEH 4709
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 98-317 Student Taught Courses (StuCo): Hype for Types>
+
+<start course description for 98-317 Student Taught Courses (StuCo): Hype for Types>
+Semester: Fall 2023 (aka F23)
+Course Description: Type theory is a foundation of mathematics that can serve as an alternative to set theory. It is integral to programming languages, which rely on type systems to ensure code correctness. This course aims to go over fun and weird results in type theory that you might otherwise have to read complicated academic papers to understand, as well as to provide a foundation to help understand these fun results. We'll provide plain English explanations of concepts such as algebraic datatypes, derivatives of types, negative types, type isomorphisms, and the Curry-Howard correspondence. Some math and programming background (around the level of 15-150) is required, though a type theory background is not necessary.
+</end course description for 98-317 Student Taught Courses (StuCo): Hype for Types>

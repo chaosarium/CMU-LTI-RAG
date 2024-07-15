@@ -1,0 +1,16 @@
+<start course metadata for 57-106 Elective Studio (Jazz Piano I Class)>
+Semester: Spring 2024 (aka S24)
+Course Name: Elective Studio (Jazz Piano I Class)
+Course Number: 57-106
+Department: Music
+Number of Units: 3
+Prerequisites: None
+Instructors: Christopher Capizzi
+Rooms: CFA M160
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-106 Elective Studio (Jazz Piano I Class)>
+
+<start course description for 57-106 Elective Studio (Jazz Piano I Class)>
+Semester: Spring 2024 (aka S24)
+Course Description: No course description provided.
+</end course description for 57-106 Elective Studio (Jazz Piano I Class)>

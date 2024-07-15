@@ -1,0 +1,16 @@
+<start course metadata for 84-198 Research Training: Carnegie Mellon Institute for Security and Technology>
+Semester: Spring 2024 (aka S24)
+Course Name: Research Training: Carnegie Mellon Institute for Security and Technology
+Course Number: 84-198
+Department: Institute for Politics and Strategy
+Number of Units: N/A
+Prerequisites: None
+Instructors: Instructor TBA, John Chin
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 84-198 Research Training: Carnegie Mellon Institute for Security and Technology>
+
+<start course description for 84-198 Research Training: Carnegie Mellon Institute for Security and Technology>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is part of a set of 100-level courses offered by Dietrich College departments as independent studies for second-semester freshmen, and first- or second-semester sophomores, in the College. In general, these courses are designed to give students some real research experience through work on a faculty project or lab in ways that might stimulate and nurture subsequent interest in research participation. Faculty and students devise a personal and regularized meeting and task schedule. Each Research Training course is worth 9 units, which generally means a minimum for students of about 9 work-hours per week. These courses are offered only as electives; i.e., they cannot be applied toward a college or major requirement, although the units do count toward graduation as elective units. Additional details (including a roster and descriptions of Research Training Courses available in any given semester) are available in the Academic Advisory Center. Section details may be found in the course profile information.  Prerequisites/ restrictions: for Dietrich College students only; only for second-semester freshmen, or first- or second-semester sophomores; minimum cumulative QPA of 3.0 (at the time of registration) required for approved entry; additional prerequisites (e.g., language proficiency) may arise out of the particular demands of the research project in question.
+</end course description for 84-198 Research Training: Carnegie Mellon Institute for Security and Technology>

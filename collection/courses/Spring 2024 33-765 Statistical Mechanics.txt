@@ -1,0 +1,16 @@
+<start course metadata for 33-765 Statistical Mechanics>
+Semester: Spring 2024 (aka S24)
+Course Name: Statistical Mechanics
+Course Number: 33-765
+Department: Physics
+Number of Units: 12
+Prerequisites: None
+Instructors: Ira Rothstein
+Rooms: DH A301D
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 33-765 Statistical Mechanics>
+
+<start course description for 33-765 Statistical Mechanics>
+Semester: Spring 2024 (aka S24)
+Course Description: This course develops the methods of statistical mechanics and uses them to calculate observable properties of systems in thermodynamic equilibrium. Topics treated include the principles of classical thermodynamics, canonical and grand canonical ensembles for classical and quantum mechanical systems, partition functions and statistical thermodynamics, fluctuations, ideal gases of quanta, atoms and polyatomic molecules, degeneracy of Fermi and Bose gases, chemical equilibrium, ideal paramagnetics and introduction to simple interacting systems. 3 hrs. lecture, 1 hr. recitation. Typical Texts: Swendsen, An Introduction to Statistical Mechanics and Thermodynamics; Kardar, Statistical Physics of Particles; McQuarrie, Statistical Mechanics
+</end course description for 33-765 Statistical Mechanics>

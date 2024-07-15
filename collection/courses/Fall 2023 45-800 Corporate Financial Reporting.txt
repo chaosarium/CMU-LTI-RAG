@@ -1,0 +1,16 @@
+<start course metadata for 45-800 Corporate Financial Reporting>
+Semester: Fall 2023 (aka F23)
+Course Name: Corporate Financial Reporting
+Course Number: 45-800
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Austin Sudbury
+Rooms: TEP 2118
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-800 Corporate Financial Reporting>
+
+<start course description for 45-800 Corporate Financial Reporting>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is designed to strengthen your ability to correctly interpret financial statements and their accompanying disclosures. The course is aimed at anyone whose career might involve working with accounting data and should be especially useful for those interested in consulting and financial analysis. Throughout the semester we will discuss the key disclosure rules in the United States, the communication methods available to managers managers' incentives and ability to exert discretion over reported earnings and the interplay between a company's corporate strategy and its financial reporting policies and practices. The course covers a number of topics of recent interest to the business community.
+</end course description for 45-800 Corporate Financial Reporting>

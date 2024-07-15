@@ -1,0 +1,16 @@
+<start course metadata for 18-668 Data Science for Software Engineering>
+Semester: Spring 2024 (aka S24)
+Course Name: Data Science for Software Engineering
+Course Number: 18-668
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Leonardo da Silva Sousa
+Rooms: B23 109
+Locations: San Jose, California
+</end course metadata for 18-668 Data Science for Software Engineering>
+
+<start course description for 18-668 Data Science for Software Engineering>
+Semester: Spring 2024 (aka S24)
+Course Description: Building, operating and maintaining software systems generate large and diverse sets of data that capture process, product, and project information. As software systems and processes used to create them increase in complexity, software engineers, development teams, and engineering managers must rely on data-driven decisions to handle problems that arise from the system conception to its maintenance. This course applies data science techniques in the context of software engineering (SE). The richness and volume of data available make techniques rooted in machine learning and optimization particularly suitable in this context with many practical applications.  The main focus of the course is on applications of machine learning but also covering optimization techniques. Students will learn (1) how to solve SE problems through a data-driven approach, and (2) how to bootstrap SE principles to implement and evaluate the data-driven applications. Applications include generation of requirement specifications, automatic code documentation; software project cost estimation; software quality prediction; semi-automatic refactoring; requirements and defect prioritization, automatic bug assignment and test cases generation. A variety of data science techniques will be used, including deep learning, supervised and semi-supervised learning, search-based methods, and topic modeling.  At the end of the course, students are expected to (i) identify SE problems that can be addressed by data science techniques; (ii) identify the sources and nature of the data needed to solve these problems; (iii) choose the proper combinations of data science techniques to solve them; (iv) design, implement, and test data science applications using sound SE principles.  This course is especially intended for ECE students pursuing a Master of Science degree in Software Engineering and will satisfy the MS-SE Analysis Area core course requirement.
+</end course description for 18-668 Data Science for Software Engineering>

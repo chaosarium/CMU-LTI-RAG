@@ -1,0 +1,16 @@
+<start course metadata for 95-755 Information S RISK MANAGEMENT I>
+Semester: Spring 2024 (aka S24)
+Course Name: Information S RISK MANAGEMENT I
+Course Number: 95-755
+Department: Information Systems:Sch of IS & Mgt
+Number of Units: 6
+Prerequisites: None
+Instructors: Brett Tucker
+Rooms: DNM DNM; HBH A301
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 95-755 Information S RISK MANAGEMENT I>
+
+<start course description for 95-755 Information S RISK MANAGEMENT I>
+Semester: Spring 2024 (aka S24)
+Course Description: This course examines risk management practices and principles to improve information security.  The course provides education on information security risk identification, evaluation, and related response decisions given resource constraints. Students will learn foundational concepts in risk management and economic valuation and will be introduced to standard risk management approaches for identifying, analyzing, responding, and monitoring risks. Both qualitative and quantitative approaches will be examined.
+</end course description for 95-755 Information S RISK MANAGEMENT I>

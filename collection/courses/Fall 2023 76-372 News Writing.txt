@@ -1,0 +1,16 @@
+<start course metadata for 76-372 News Writing>
+Semester: Fall 2023 (aka F23)
+Course Name: News Writing
+Course Number: 76-372
+Department: English
+Number of Units: 9
+Prerequisites: (76-101) or (76-102) or (76-106 and 76-107) or (76-106 and 76-108) or (76-107 and 76-108)
+Instructors: Steve Twedt
+Rooms: WEH 5304
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 76-372 News Writing>
+
+<start course description for 76-372 News Writing>
+Semester: Fall 2023 (aka F23)
+Course Description: In this course, we will study and learn the fundamental skills of journalistic writing as well as discuss topics related to how different media outlets cover news. On the writing side, we will start with the basics - the importance of accuracy, clarity and fairness, writing for audience, striving for objectivity, judging newsworthiness, meeting deadlines. The core class work (and most of your grade) will be based on seven writing assignments due approximately every two weeks throughout the semester. Expect to do some writing each class period. We will learn how to write a story lead, how to structure a story and how to write different kinds of news stories, from crime news to features to editorials and commentary. We also will learn how to research a news story, conduct an interview and sort through mountains of information to discern what's important so we can write about it in a clear, concise manner.
+</end course description for 76-372 News Writing>

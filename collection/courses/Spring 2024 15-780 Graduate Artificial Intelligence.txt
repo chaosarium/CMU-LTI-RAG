@@ -1,0 +1,16 @@
+<start course metadata for 15-780 Graduate Artificial Intelligence>
+Semester: Spring 2024 (aka S24)
+Course Name: Graduate Artificial Intelligence
+Course Number: 15-780
+Department: Computer Science
+Number of Units: 12
+Prerequisites: None
+Instructors: Zico Kolter
+Rooms: DH A302
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-780 Graduate Artificial Intelligence>
+
+<start course description for 15-780 Graduate Artificial Intelligence>
+Semester: Spring 2024 (aka S24)
+Course Description: This course provides a broad perspective on AI, covering (i) classical approaches of search and planning useful for robotics, (ii) integer programming and continuous optimization that form the bedrock for many AI algorithms, (iii) modern machine learning techniques including deep learning that power many recent AI applications, (iv) game theory and multi-agent systems, and (v) issues of bias and unfairness in AI. In addition to understanding the theoretical foundations, we will also study modern algorithms in the research literature.
+</end course description for 15-780 Graduate Artificial Intelligence>

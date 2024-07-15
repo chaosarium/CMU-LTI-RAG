@@ -1,0 +1,16 @@
+<start course metadata for 70-257 Optimization for Business>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Optimization for Business
+Course Number: 70-257
+Department: Business Administration
+Number of Units: 9
+Prerequisites: 21-259 or 21-256 or 21-254
+Instructors: Lingqing Shen
+Rooms: TEP 2612
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 70-257 Optimization for Business>
+
+<start course description for 70-257 Optimization for Business>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: This course provides a mathematical foundation for the application of optimization techniques to business problems, as well as the practical implementation of these methods. Mathematical optimization techniques have been applied for decades in the context of logistics, supply chain management, and strategic planning, with great success. In recent years, the application of mathematical optimization has penetrated, and in some cases (re-)defined, many other areas such as the (financial) service industry, analytical marketing, health care, and web-based businesses. In this course, the most important methods and techniques underlying mathematical optimization are studied. These include linear programming, integer programming, and nonlinear programming as basic mathematical methodologies. Based on these, we also consider methodologies for particular problem classes such as network models and traveling salesman problems. During the course we will emphasize mathematical modeling, that is, creating a mathematical description that reflects a given practical problem described in words. Motivated by these mathematical models, we then discuss the necessary mathematical techniques for finding optimal solutions. Lastly, we consider the solution of these problems using optimization software, i.e., we represent the mathematical models in Excel and use Excel Solver to compute an optimal solution.
+</end course description for 70-257 Optimization for Business>

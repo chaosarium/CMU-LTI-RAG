@@ -1,0 +1,16 @@
+<start course metadata for 48-767 Transdisciplinary Thinking>
+Semester: Fall 2023 (aka F23)
+Course Name: Transdisciplinary Thinking
+Course Number: 48-767
+Department: Architecture
+Number of Units: 12
+Prerequisites: None
+Instructors: Stephen Quick
+Rooms: MM 415IW
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-767 Transdisciplinary Thinking>
+
+<start course description for 48-767 Transdisciplinary Thinking>
+Semester: Fall 2023 (aka F23)
+Course Description: Transdisciplinary Thinking will be a compendium of Architectural, Engineering, and Construction (AEC) practice, methods, and theories with an emphasis on how the AEC professions can more effectively work together by understanding each other's roles, responsibilities, and professional perspectives. Through readings, reporting, and critical-thinking discussions and papers the goal of this course is for you to understand how each of the AEC professions think and act in a variety of professional situations so that, whatever your final practice situation, you can understand the complexity, personal and professional responsibilities, risks, and thinking behind the decision-making and actions undertaken by other actors in the delivery of AECM services.  The course will cover all of the subjects in CSI's The CSI Project Delivery Practice Guide, the required textbook for the course, and supplemented by other readings and professional materials produced by the AEC industry. The first half of the semester will focus on the context, constraints, and forms of AECM practices ending with new and emerging forms of practice. The second half will concentrate on the delivery of AECM services, situations that AEC professionals encounter throughout the delivery process, and interdisciplinary collaborative practices that seek to value all professional perspectives.  New topics will be introduced on a weekly basis with content delivered on Mondays by the class and instructor to be followed up by discussion and antidotal practice-case experiences on Wednesdays. There will be weekly reading assignments and weekly position papers required of all students and an end-of term paper based on your personal AECM practice interest. Assessment of your performance will be based on weekly assignments, class participation,  and the final paper. There will be no final exam.
+</end course description for 48-767 Transdisciplinary Thinking>

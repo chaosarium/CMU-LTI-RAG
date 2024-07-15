@@ -1,0 +1,16 @@
+<start course metadata for 80-495 Independent Study>
+Semester: Spring 2024 (aka S24)
+Course Name: Independent Study
+Course Number: 80-495
+Department: Philosophy
+Number of Units: N/A
+Prerequisites: None
+Instructors: Adam Bjorndahl, Alex London, Christina Bjorndahl, Danielle Wenner, Francesca Zaffora Blando, Instructor TBA, Jeremy Avigad, Joel Smith, Kevin Kelly, Kevin Zollman, Mandy Simons, Matthieu Anel, Peter Spirtes, Steve Awodey, Teddy Seidenfeld, Tom Werner, Wayne Wu, Wilfried Sieg
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 80-495 Independent Study>
+
+<start course description for 80-495 Independent Study>
+Semester: Spring 2024 (aka S24)
+Course Description: Independent Study
+</end course description for 80-495 Independent Study>

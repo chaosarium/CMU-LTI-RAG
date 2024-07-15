@@ -1,0 +1,16 @@
+<start course metadata for 95-483 Ethical Penetration Testing>
+Semester: Fall 2023 (aka F23)
+Course Name: Ethical Penetration Testing
+Course Number: 95-483
+Department: Information Systems:Sch of IS & Mgt
+Number of Units: 6
+Prerequisites: None
+Instructors: Derrick Spooner
+Rooms: HBH 1208
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 95-483 Ethical Penetration Testing>
+
+<start course description for 95-483 Ethical Penetration Testing>
+Semester: Fall 2023 (aka F23)
+Course Description: This course will introduce students to professional penetration testing by teaching offensive tactics along with the appropriate methodologies and responsibilities it takes to ethically attack systems. The majority of time will be spent in hands-on labs performing reconnaissance, discovering vulnerabilities, developing exploits, and carefully penetrating targets.
+</end course description for 95-483 Ethical Penetration Testing>

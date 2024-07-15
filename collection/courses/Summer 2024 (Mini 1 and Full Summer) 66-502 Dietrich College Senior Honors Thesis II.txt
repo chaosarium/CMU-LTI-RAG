@@ -1,0 +1,16 @@
+<start course metadata for 66-502 Dietrich College Senior Honors Thesis II>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Dietrich College Senior Honors Thesis II
+Course Number: 66-502
+Department: Dietrich College Interdisciplinary
+Number of Units: 9
+Prerequisites: 66-501
+Instructors: Peter Freeman
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 66-502 Dietrich College Senior Honors Thesis II>
+
+<start course description for 66-502 Dietrich College Senior Honors Thesis II>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: This is the second semester of a two-semester sequence that is the culmination of an original, year-long independent research or creative project.  The course is open only to students who have been approved for entry into the Dietrich College Senior Honors Program. Thesis topics are selected by faculty and students, and reviewed and approved through the senior honors program application process. Dietrich College senior honors students are also required to participate in the annual Meeting of the Minds Undergraduate Research Symposium, offering either an oral presentation or poster session based on their senior honors thesis
+</end course description for 66-502 Dietrich College Senior Honors Thesis II>

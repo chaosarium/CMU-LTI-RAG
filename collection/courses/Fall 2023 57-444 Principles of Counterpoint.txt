@@ -1,0 +1,16 @@
+<start course metadata for 57-444 Principles of Counterpoint>
+Semester: Fall 2023 (aka F23)
+Course Name: Principles of Counterpoint
+Course Number: 57-444
+Department: Music
+Number of Units: 9
+Prerequisites: 57-152 or 57-149
+Instructors: R. James Whipple
+Rooms: CFA A2
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-444 Principles of Counterpoint>
+
+<start course description for 57-444 Principles of Counterpoint>
+Semester: Fall 2023 (aka F23)
+Course Description: This course explores the development of Western music composed with multiple independent parts.  The first half of the course traces the history of part-writing from medieval organum to the twenty-first century.  Emphasis is given to study of pre-Baroque and twentieth-century music, and to the conceptual shifts that occurred moving in and out of the common-practice period. The second half of the course examines, across multiple musical styles, specific contrapuntal techniques such as imitation and ground bass forms.  Assignments include both writing exercises and analysis, culminating in a term project on a topic selected by the student.
+</end course description for 57-444 Principles of Counterpoint>

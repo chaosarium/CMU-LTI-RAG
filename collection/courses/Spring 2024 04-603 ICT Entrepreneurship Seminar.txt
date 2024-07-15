@@ -1,0 +1,16 @@
+<start course metadata for 04-603 ICT Entrepreneurship Seminar>
+Semester: Spring 2024 (aka S24)
+Course Name: ICT Entrepreneurship Seminar
+Course Number: 04-603
+Department: Information & Communication Technology
+Number of Units: 6
+Prerequisites: None
+Instructors: Jesse Thornburg
+Rooms: CMR F305
+Locations: Kigali, Rwanda
+</end course metadata for 04-603 ICT Entrepreneurship Seminar>
+
+<start course description for 04-603 ICT Entrepreneurship Seminar>
+Semester: Spring 2024 (aka S24)
+Course Description: In this course, we define an entrepreneur as someone engaged in the development of a new product (and perhaps, but not necessarily, also a new venture) under conditions of extreme uncertainty. Entrepreneurship is a key part of an economy's search for new solutions that increase customer value. Why is it a search? Because, when the conditions surrounding a contemplated new product are uncertain, the answers to key questions are not known apriori. What features are actually needed? Does the product in fact solve the problem we think it does for the users? Are they willing to pay enough for the product to make bringing it to market profitable? Ultimately, entrepreneurship is a critical part of the growth engine that improves a society's standard of living. In this course, we look at how to facilitate this search process and hopefully maximize the chance of bringing a successful new product to market.
+</end course description for 04-603 ICT Entrepreneurship Seminar>

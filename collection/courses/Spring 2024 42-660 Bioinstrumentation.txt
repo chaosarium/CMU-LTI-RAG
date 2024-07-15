@@ -1,0 +1,16 @@
+<start course metadata for 42-660 Bioinstrumentation>
+Semester: Spring 2024 (aka S24)
+Course Name: Bioinstrumentation
+Course Number: 42-660
+Department: Biomedical Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Yu-Li Wang
+Rooms: EDS 125
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 42-660 Bioinstrumentation>
+
+<start course description for 42-660 Bioinstrumentation>
+Semester: Spring 2024 (aka S24)
+Course Description: This course aims to build concepts and skills in electronics for the design and construction of instruments for biomedical applications.   The course uses a flipped, fast-paced format to cover a range of electronic components and circuits, including resistors, capacitors, transistors, sensors, actuators, amplifiers, signal filters, and microcontrollers, through lectures, tutorials, weekly lab projects, and term projects.   Students, with or without a background in electronics, will gain hands-on skills to build functional instruments for physiological measurements such as temperature, gas concentration, blood pressure, and EKG signals.
+</end course description for 42-660 Bioinstrumentation>

@@ -1,0 +1,16 @@
+<start course metadata for 24-628 Energy Transport and Conversion at the Nanoscale>
+Semester: Fall 2023 (aka F23)
+Course Name: Energy Transport and Conversion at the Nanoscale
+Course Number: 24-628
+Department: Mechanical Engineering
+Number of Units: 12
+Prerequisites: 24-322 and 24-221
+Instructors: Jonathan Malen
+Rooms: BH 255A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-628 Energy Transport and Conversion at the Nanoscale>
+
+<start course description for 24-628 Energy Transport and Conversion at the Nanoscale>
+Semester: Fall 2023 (aka F23)
+Course Description: Energy transport and conversion processes occur at the nanoscale due to interactions between molecules, electrons, phonons, and photons. Understanding these processes is critical to the design of heat transfer equipment, thermoelectric materials, electronics, light emitting diodes, and photovoltaics. The objective of this course is to describe the science that underlies these processes and to introduce the contemporary experimental and theoretical tools used to understand them. The course includes a laboratory that gives the students experience with modern transport measurement instrumentation and data analysis.  Integrated literature reviews and a final project require students to apply learned fundamentals to understand state-of-the-art research and technology.     4 hrs. lecture  Prerequisites- 24-322 & 24-221 or equivalents
+</end course description for 24-628 Energy Transport and Conversion at the Nanoscale>

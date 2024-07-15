@@ -1,0 +1,16 @@
+<start course metadata for 60-221 Intermediate Studio: Animation Workshop>
+Semester: Spring 2024 (aka S24)
+Course Name: Intermediate Studio: Animation Workshop
+Course Number: 60-221
+Department: Art
+Number of Units: 10
+Prerequisites: None
+Instructors: James Duesing
+Rooms: CFA 317
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 60-221 Intermediate Studio: Animation Workshop>
+
+<start course description for 60-221 Intermediate Studio: Animation Workshop>
+Semester: Spring 2024 (aka S24)
+Course Description: This is an open animation studio for students who want to improve existing animation skills and develop a personal animated short. The class will introduce a variety of techniques and concepts for animation production. Using both 2D and 3D tools, animation will be explored through short assignments designed to develop diverse skills and ideas. Each student will develop and produce a short animation. The class will engage in discussion and critique of each other's work along with examples of historic and contemporary animation.
+</end course description for 60-221 Intermediate Studio: Animation Workshop>

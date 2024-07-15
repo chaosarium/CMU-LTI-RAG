@@ -1,0 +1,16 @@
+<start course metadata for 05-863 Introduction to Human Computer Interaction for Technology Executives>
+Semester: Fall 2023 (aka F23)
+Course Name: Introduction to Human Computer Interaction for Technology Executives
+Course Number: 05-863
+Department: Human-Computer Interaction
+Number of Units: 6
+Prerequisites: None
+Instructors: Hannah Pileggi
+Rooms: HH B131
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 05-863 Introduction to Human Computer Interaction for Technology Executives>
+
+<start course description for 05-863 Introduction to Human Computer Interaction for Technology Executives>
+Semester: Fall 2023 (aka F23)
+Course Description: Human computer interaction (HCI) is an interdisciplinary field in which computer scientists, engineers, psychologists, social scientists, and design professionals play important roles. The goal of this field is to solve real problems in the design and use of technology, making computer-based systems easier to use and more effective for people and organizations. Ease of use and effectiveness are critical to the success of any systems that interact with people,including software systems, home, office and factory appliances, and web applications. This course provides an overview and introduction to the field of human-computer interaction as it applies to technology executives. Particular emphasis will be placed on what HCI methods and HCI-trained specialists can bring to design and development teams. The course will introduce students to tools and techniques for creating or improving user interfaces, such as "contextual inquiry," heuristic analysis," and think-aloud user testing. Students at the end of the course will have learned some useful techniques and an understanding of systematic procedures for creating usable and useful designs and systems.
+</end course description for 05-863 Introduction to Human Computer Interaction for Technology Executives>

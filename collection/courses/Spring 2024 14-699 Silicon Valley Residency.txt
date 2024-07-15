@@ -1,0 +1,16 @@
+<start course metadata for 14-699 Silicon Valley Residency>
+Semester: Spring 2024 (aka S24)
+Course Name: Silicon Valley Residency
+Course Number: 14-699
+Department: Information Networking Institute
+Number of Units: 0
+Prerequisites: None
+Instructors: Dena Tsamitis
+Rooms: DNM DNM
+Locations: San Jose, California
+</end course metadata for 14-699 Silicon Valley Residency>
+
+<start course description for 14-699 Silicon Valley Residency>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is for INI bicoastal students who are fulfilling a semester of residency as part of degree requirements.  Residency is defined as being physically present on the SV campus and physically attending class(es) for one full semesters (16-month students; Fall 2) or for two full semesters (20-month students; Fall 2 & Spring 2).  Courses taken remotely will not fulfill the residency requirement.
+</end course description for 14-699 Silicon Valley Residency>

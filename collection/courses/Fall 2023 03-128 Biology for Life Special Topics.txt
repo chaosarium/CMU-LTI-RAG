@@ -1,0 +1,16 @@
+<start course metadata for 03-128 Biology for Life Special Topics>
+Semester: Fall 2023 (aka F23)
+Course Name: Biology for Life Special Topics
+Course Number: 03-128
+Department: Biological Sciences
+Number of Units: 9
+Prerequisites: None
+Instructors: Annette Vincent
+Rooms: CMB 3044
+Locations: Doha, Qatar
+</end course metadata for 03-128 Biology for Life Special Topics>
+
+<start course description for 03-128 Biology for Life Special Topics>
+Semester: Fall 2023 (aka F23)
+Course Description: Special Topics in Biological Sciences. Topics will vary depending on the semester and instructor.  Courses offered under this course number will not require prior knowledge of or exposure to biological sciences and are open to students from any major and class year.  Please read individual section descriptions for more information. Summer 1/All 2023: Tropical Ecology at Monteverde Institute. This is a course offered through a study abroad program to Costa Rica. Students will be addressing general questions about tropical ecosystems such as: What are tropical forests? What makes them different than other forests? Where are they and why do global climate patterns result in their geographic distribution? What are the different kinds of tropical forests? What controls the diversity, phenology and successional processes of tropical forests? What are tropical marine ecosystems? This course will also cover specific ecological interactions between organisms such as: seed dispersal, pollination, herbivory, mutualisms, prey-predator interactions in the tropics. Students will also learn about humans in the tropics, both those groups that have evolved and adapted to these environments and the current threats imposed by local/global economic systems. As a part of this course, students will participate in field work and use nature as a laboratory to study the diversity of life forms and interactions between plants, animals, and microorganisms and with the physical environment.
+</end course description for 03-128 Biology for Life Special Topics>

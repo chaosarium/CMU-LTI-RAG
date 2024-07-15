@@ -1,0 +1,16 @@
+<start course metadata for 54-776 Entertainment Rigging>
+Semester: Fall 2023 (aka F23)
+Course Name: Entertainment Rigging
+Course Number: 54-776
+Department: Drama
+Number of Units: 3
+Prerequisites: 54-933
+Instructors: David Boevers
+Rooms: PCA 209
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-776 Entertainment Rigging>
+
+<start course description for 54-776 Entertainment Rigging>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is a survey of the techniques and practices of theatrical rigging.  The course has two main components: permanently installed rigging systems typically found in theatres, and background and technical information concerning the components typically used for stage rigging.  Discussion topics include selection criteria for line, hardware, and terminations stressing entertainment industry standards, workplace safety and common industry misconceptions.  Time permitting the course will shift from a general discussion of components to their assembly into custom rigging systems & solutions. Instructor's permission only.
+</end course description for 54-776 Entertainment Rigging>

@@ -1,0 +1,16 @@
+<start course metadata for 51-360 Environments Studio IV: Designing Environments for Social Systems>
+Semester: Spring 2024 (aka S24)
+Course Name: Environments Studio IV: Designing Environments for Social Systems
+Course Number: 51-360
+Department: Design
+Number of Units: 10
+Prerequisites: 51-363
+Instructors: Dina El Zanfaly
+Rooms: MM 211
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-360 Environments Studio IV: Designing Environments for Social Systems>
+
+<start course description for 51-360 Environments Studio IV: Designing Environments for Social Systems>
+Semester: Spring 2024 (aka S24)
+Course Description: Develop high fidelity proposals and demonstrations of multi-modal hybridized physical-digital environments based on rich information content and principles of user experience design.
+</end course description for 51-360 Environments Studio IV: Designing Environments for Social Systems>

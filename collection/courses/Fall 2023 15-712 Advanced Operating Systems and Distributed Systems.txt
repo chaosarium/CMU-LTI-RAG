@@ -1,0 +1,16 @@
+<start course metadata for 15-712 Advanced Operating Systems and Distributed Systems>
+Semester: Fall 2023 (aka F23)
+Course Name: Advanced Operating Systems and Distributed Systems
+Course Number: 15-712
+Department: Computer Science
+Number of Units: 12
+Prerequisites: None
+Instructors: David Andersen
+Rooms: GHC 4303
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-712 Advanced Operating Systems and Distributed Systems>
+
+<start course description for 15-712 Advanced Operating Systems and Distributed Systems>
+Semester: Fall 2023 (aka F23)
+Course Description: This is a graduate course in operating systems. The course will consist of a reading/lecture/discussion component and a project component. The class will cover approximately 40 research papers. Some of these papers will introduce students to the basic principles on which modern operating systems and distributed systems are based. Others will cover more recent work to explore the state of the art and observe the evolution of these systems over time.
+</end course description for 15-712 Advanced Operating Systems and Distributed Systems>

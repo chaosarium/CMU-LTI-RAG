@@ -1,0 +1,16 @@
+<start course metadata for 62-459 TBA>
+Semester: Fall 2023 (aka F23)
+Course Name: TBA
+Course Number: 62-459
+Department: CFA Interdisciplinary
+Number of Units: 3
+Prerequisites: None
+Instructors: Stefanie Mcgowan
+Rooms: OFF CAMP
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 62-459 TBA>
+
+<start course description for 62-459 TBA>
+Semester: Fall 2023 (aka F23)
+Course Description: Explore the possibilities of colorful stained glass. In this introductory course, you will learn the basics for working with flat glass; cutting, grinding, foiling, and soldering. You will explore the famous Tiffany Method of construction and work with provided patterns to create a beautiful stained-glass pane ready for display! This class is designed for beginners and is a pre-requisite for Intermediate and Advanced Stained Glass. Registration for Pittsburgh Glass Center classes can only be done on or after your scheduled registration day. Spaces are limited. Registration is done on a first come, first served basis. Please email Stefanie McGowan (stefanim@andrew.cmu.edu) for more information and to register. Course fee is $240. Not eligible for PCHE Cross Registration. Course taught at the Pittsburgh Glass Center.
+</end course description for 62-459 TBA>

@@ -1,0 +1,16 @@
+<start course metadata for 54-820 Costume Forum>
+Semester: Spring 2024 (aka S24)
+Course Name: Costume Forum
+Course Number: 54-820
+Department: Drama
+Number of Units: 1
+Prerequisites: None
+Instructors: Brian Russman, Hugh Hanson, Mindy Eshelman
+Rooms: PCA 305
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-820 Costume Forum>
+
+<start course description for 54-820 Costume Forum>
+Semester: Spring 2024 (aka S24)
+Course Description: Costume Majors
+</end course description for 54-820 Costume Forum>

@@ -1,0 +1,16 @@
+<start course metadata for 12-770 Special Topics: Autonomous Sustainable Buildings: From Theory to Practice>
+Semester: Spring 2024 (aka S24)
+Course Name: Special Topics: Autonomous Sustainable Buildings: From Theory to Practice
+Course Number: 12-770
+Department: Civil & Environmental Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Mario Berges, Miguel Fehlmann
+Rooms: PH A22
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 12-770 Special Topics: Autonomous Sustainable Buildings: From Theory to Practice>
+
+<start course description for 12-770 Special Topics: Autonomous Sustainable Buildings: From Theory to Practice>
+Semester: Spring 2024 (aka S24)
+Course Description: With a focus on real-world deployments, case studies and group projects, this course will cover the theory and emerging practice of retrofitting existing buildings with hardware and software to significantly increase their autonomy and overall sustainability. The focus will be primarily on the operational stage of the life-cycle of buildings, and particularly on HVAC, electrical and water systems within them.
+</end course description for 12-770 Special Topics: Autonomous Sustainable Buildings: From Theory to Practice>

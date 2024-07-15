@@ -1,0 +1,16 @@
+<start course metadata for 14-742 Security in Networked Systems>
+Semester: Spring 2024 (aka S24)
+Course Name: Security in Networked Systems
+Course Number: 14-742
+Department: Information Networking Institute
+Number of Units: 12
+Prerequisites: None
+Instructors: Patrick Tague
+Rooms: B23 118; CIC 1201
+Locations: Pittsburgh, Pennsylvania; San Jose, California
+</end course metadata for 14-742 Security in Networked Systems>
+
+<start course description for 14-742 Security in Networked Systems>
+Semester: Spring 2024 (aka S24)
+Course Description: Some of today's most damaging attacks on computer systems involve exploitation of network infrastructure, either as the target of attack or as a vehicle to advance attacks on end systems. This course provides an in-depth study of network attack techniques and methods to defend against them. Topics include network- and transport-layer attacks and defenses; network intrusion detection; denial of service (DoS) and distributed denial-of-service (DDoS) detection and reaction; worm and virus propagation; tracing the source of attacks; traffic analysis; techniques for hiding the source or destination of network traffic; secure routing protocols; content poisoning attacks; and advanced techniques for reacting to network attacks. Prerequisites: Students must have passed Introduction to Information Security (14-741) and Fundamentals of Telecommunication Networks (14-740), or an equivalent set of courses offered at Carnegie Mellon (e.g., 18-730 and 15-441). In addition, solid background in C and UNIX programming will prove helpful for the several assignments this course involves. Please check with the instructor directly if you are concerned about the requirements.
+</end course description for 14-742 Security in Networked Systems>

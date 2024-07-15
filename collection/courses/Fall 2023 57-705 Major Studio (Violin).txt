@@ -1,0 +1,16 @@
+<start course metadata for 57-705 Major Studio (Violin)>
+Semester: Fall 2023 (aka F23)
+Course Name: Major Studio (Violin)
+Course Number: 57-705
+Department: Music
+Number of Units: 9
+Prerequisites: None
+Instructors: Andres Cardenes, Christopher Wu, Instructor TBA, William van der Sloot
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-705 Major Studio (Violin)>
+
+<start course description for 57-705 Major Studio (Violin)>
+Semester: Fall 2023 (aka F23)
+Course Description: A one hour private lesson per week for all music majors.
+</end course description for 57-705 Major Studio (Violin)>

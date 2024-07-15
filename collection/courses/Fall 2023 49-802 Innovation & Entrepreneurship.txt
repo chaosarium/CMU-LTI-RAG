@@ -1,0 +1,16 @@
+<start course metadata for 49-802 Innovation & Entrepreneurship>
+Semester: Fall 2023 (aka F23)
+Course Name: Innovation & Entrepreneurship
+Course Number: 49-802
+Department: Integrated Innovation Institute
+Number of Units: 12
+Prerequisites: None
+Instructors: Stuart Evans
+Rooms: B23 118
+Locations: San Jose, California
+</end course metadata for 49-802 Innovation & Entrepreneurship>
+
+<start course description for 49-802 Innovation & Entrepreneurship>
+Semester: Fall 2023 (aka F23)
+Course Description: This course focuses on entrepreneurship and innovation from the vantage point of high-tech companies in Silicon Valley. We will explore these topics in the context of the Creation Phase - focusing on founding a new start-up and raising seed funding; and the Scaling Phase - focusing on growing a venture where startups typically undergo "B", and "C" rounds of funding; We will examine common mistakes and misconceptions in starting a new entrepreneurial business, and meet entrepreneurs, angel investors, and venture capitalists from Silicon Valley to learn, first hand, the challenges of conceiving, creating, and growing a new venture.    In the second part of the I&E; course, our focus will be on the Consolidation Phase ? when growing ventures evolve into established global corporations We will examine critical pain points facing this group of companies, the impact of organizational complexity, the challenge of managing a multi-business enterprise, and expanding the global footprint. This is the phase when technology companies find it more challenging to innovate and often shift their growth focus to searching for acquisitions. Invited guests will share their experiences and lessons learned, and give us a first-hand perspective on realities facing this critical group of innovative companies.   This course is intended for Integrated Innovation Institute students (MSSM and MSTV).
+</end course description for 49-802 Innovation & Entrepreneurship>

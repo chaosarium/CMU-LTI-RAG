@@ -1,0 +1,16 @@
+<start course metadata for 48-733 Environmental Performance Simulation>
+Semester: Fall 2023 (aka F23)
+Course Name: Environmental Performance Simulation
+Course Number: 48-733
+Department: Architecture
+Number of Units: N/A
+Prerequisites: None
+Instructors: Tian Li
+Rooms: CFA 206A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-733 Environmental Performance Simulation>
+
+<start course description for 48-733 Environmental Performance Simulation>
+Semester: Fall 2023 (aka F23)
+Course Description: "Design of a boat is optimized for sail-driven locomotion. Buildings should be able to sail using free energy if wind, air, sun and internal heat sources to temper indoor environment", Brendon Lewitt. Based on this viewpoint, this course introduces fundamental knowledge in building physics in relation to a range of environmentally responsive building design principles and computational approaches for increased resiliency for human habitability with minimal reliance on mechanical systems. EPS course refreshes some of the fundamental building physics topics such as building thermodynamics (heat & mass transfer mechanisms), photometric quantification of light and luminous environment, human visual and thermal comfort, thermal modeling and the principles of generating electricity from sunlight (photoelectric effect). EPS course outlines a series of environmental design principles with emphasis on evidence-based design approaches and reviews of building case studies are evaluated against actual buildings in operation. Focus is also given to integration of multi-valent environmental design strategies into the early stages of performative architectures. EPS also introduces state-of-the-art architectural design & research oriented environmental performance simulation & visualization tools, methods and techniques (based on the algorithmic/parametric modeling ecosystem of RHINO-Grasshopper-DIVA-ArchSIM -Ladybug-Honeybee programs). Computational introductions will be accompanied with pre-established/seed workflows which are ready for future adaptation and extension by the students.
+</end course description for 48-733 Environmental Performance Simulation>

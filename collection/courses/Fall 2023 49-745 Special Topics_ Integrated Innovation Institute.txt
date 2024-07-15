@@ -1,0 +1,16 @@
+<start course metadata for 49-745 Special Topics: Integrated Innovation Institute>
+Semester: Fall 2023 (aka F23)
+Course Name: Special Topics: Integrated Innovation Institute
+Course Number: 49-745
+Department: Integrated Innovation Institute
+Number of Units: 6
+Prerequisites: None
+Instructors: Jonathan Chapman
+Rooms: CA 108
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 49-745 Special Topics: Integrated Innovation Institute>
+
+<start course description for 49-745 Special Topics: Integrated Innovation Institute>
+Semester: Fall 2023 (aka F23)
+Course Description: Topics in this course will change each semester based on new teaching offerings.  Fall 2023 A2 - Design That Lasts  Never have we wanted, owned, and wasted so much "stuff." Our consumptive path through modern life leaves a wake of social and ecological destruction -- sneakers worn only once, forgotten smartphones languishing in drawers, and abandoned IoT devices promising solutions to problems that don't exist. By what perverse alchemy do our newest, coolest things so readily transform into meaningless junk? This design elective investigates why we throw away things that still work, and shows how we can design products and services that last. This is a studio class, with a substantial theoretical thread woven through it. We will therefore spend about half our time on lectures, readings, and debates, and the other half on studio practice, project coaching tutorials, and group critique. The result, a seven-week journey toward an "experience heavy, material light" design sensibility. A vital and timely new design philosophy that reveals how meaning emerges from designed encounters between people and things, explores ways to increase the quality and longevity of our relationships with objects, and the systems behind them, and ultimately, demonstrates why design can -- and must -- lead the transition to a sustainable future.  Note: This section is only for MIIPS Advanced (16-month) students in their final semester.
+</end course description for 49-745 Special Topics: Integrated Innovation Institute>

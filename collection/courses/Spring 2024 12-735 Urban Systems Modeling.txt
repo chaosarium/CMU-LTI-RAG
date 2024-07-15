@@ -1,0 +1,16 @@
+<start course metadata for 12-735 Urban Systems Modeling>
+Semester: Spring 2024 (aka S24)
+Course Name: Urban Systems Modeling
+Course Number: 12-735
+Department: Civil & Environmental Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Matteo Pozzi
+Rooms: GHC 4301
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 12-735 Urban Systems Modeling>
+
+<start course description for 12-735 Urban Systems Modeling>
+Semester: Spring 2024 (aka S24)
+Course Description: This course will introduce graduate students to concepts of probabilistic risk assessment and decision making under uncertainty, with applications to infrastructure systems.  Topics covered will include: a review of probability and utility theories, with emphasis on the Bayesian framework; an introduction on graphical models to describe the interdependence of system components; analytical methods to risk assessment (First Order Reliability Method) and numerical simulations (crude and advance Monte Carlo techniques). The student will learn how to quantify the risk, depending on the management policy selected, and how to update the assessment by analyzing observations on the system performance.
+</end course description for 12-735 Urban Systems Modeling>

@@ -1,0 +1,16 @@
+<start course metadata for 70-469 End to End Business Analytics>
+Semester: Fall 2023 (aka F23)
+Course Name: End to End Business Analytics
+Course Number: 70-469
+Department: Business Administration
+Number of Units: 9
+Prerequisites: (70-207 or 36-200 or 36-220 or 36-225) and (70-257 or 21-257 or 21-292)
+Instructors: R. Ravi
+Rooms: TEP 2701
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 70-469 End to End Business Analytics>
+
+<start course description for 70-469 End to End Business Analytics>
+Semester: Fall 2023 (aka F23)
+Course Description: Deriving value from business data is an integrative process. It requires putting together the virtuous pipeline of using the data to derive descriptive and diagnostic inferences, building explainable predictive models and incorporating them in prescriptive decision making. This course charts this process end-to-end by describing and integrating common tools for modeling uncertainty, machine learning, and optimization in the context of common applications from finance, marketing and operations. The coursework is based on data-driven cases that will have students analyzing data from real business applications to derive their own insights, predictions and decisions and communicating them effectively. The course will prepare students for careers in consulting and any form of business data analysis in any functional area. This course may use third-party course material that is not available for individual purchase from the publisher.   If so, the third-party course material will be secured and provided by the Tepper School to students enrolled in the course, and students enrolled in the course will be required to pay to the University the associated additional course materials fee for the third-party course material provided.   The amount of the course materials fee is dependent on the University's cost of the particular materials provided, and typically ranges from $13 to $75.
+</end course description for 70-469 End to End Business Analytics>

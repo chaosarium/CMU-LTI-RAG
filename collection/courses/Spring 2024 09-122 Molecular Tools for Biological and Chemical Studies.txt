@@ -1,0 +1,16 @@
+<start course metadata for 09-122 Molecular Tools for Biological and Chemical Studies>
+Semester: Spring 2024 (aka S24)
+Course Name: Molecular Tools for Biological and Chemical Studies
+Course Number: 09-122
+Department: Chemistry
+Number of Units: 6
+Prerequisites: None
+Instructors: Simon Faulkner
+Rooms: CMB 3178
+Locations: Doha, Qatar
+</end course metadata for 09-122 Molecular Tools for Biological and Chemical Studies>
+
+<start course description for 09-122 Molecular Tools for Biological and Chemical Studies>
+Semester: Spring 2024 (aka S24)
+Course Description: Fluorescent dyes are applied in numerous fields to aid in tasks such as mapping the course of water underground, examining the eye, and detecting biological events.   This course is aimed at offering a hands-on laboratory experience in the interface of chemistry and biology, also known as bioorganic chemistry. In this lab students will learn about fluorescence and fluorescent compounds. They will prepare a dye and will measure its fluorescent properties in presence of different media. This behavior will be compared and contrasted with that of another dye that will be provided.  A former student in the course says:   "Molecular Tools for Biological and Chemical Studies was one of the highlights of my time at CMU!  Taking this course during my freshman year allowed me to gain skill and confidence in the lab, and the concepts I learned helped me to excel in many other courses I took at CMU (including: Organic Chemistry I & II, Laboratory I: Introduction to Chemical Analysis, Laboratory II: Organic Synthesis and Analysis, Biochemistry, and Modern Analytical Instrumentation).  Since graduating from CMU, I have been working on a Ph.D. in chemical biology.  I still use many of the skills that I learned in Molecular Tools on a daily basis." Maddie Balzarini
+</end course description for 09-122 Molecular Tools for Biological and Chemical Studies>

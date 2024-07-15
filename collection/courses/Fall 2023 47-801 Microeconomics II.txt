@@ -1,0 +1,16 @@
+<start course metadata for 47-801 Microeconomics II>
+Semester: Fall 2023 (aka F23)
+Course Name: Microeconomics II
+Course Number: 47-801
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Alexey Kushnir
+Rooms: TEP 5219
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 47-801 Microeconomics II>
+
+<start course description for 47-801 Microeconomics II>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is the second course in the core micro sequence of the economics PhD program. It is an introductory course in game theory and concerns economic situations in which rational decision-makers interact. The course is intended to teach students the tools necessary to use game theoretic models in a wide variety of applications. At the end of the course, students should be able to (i) understand solution concepts in games in strategic or extensive form, and (ii) develop analytical and problem solving skills regarding the analysis of games.
+</end course description for 47-801 Microeconomics II>

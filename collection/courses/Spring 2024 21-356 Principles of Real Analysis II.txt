@@ -1,0 +1,16 @@
+<start course metadata for 21-356 Principles of Real Analysis II>
+Semester: Spring 2024 (aka S24)
+Course Name: Principles of Real Analysis II
+Course Number: 21-356
+Department: Mathematical Sciences
+Number of Units: 9
+Prerequisites: (21-259 or 21-268 or 21-269) and (21-241 or 21-242) and (21-355 or 21-455)
+Instructors: Reinaldo Resende
+Rooms: WEH 7218
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-356 Principles of Real Analysis II>
+
+<start course description for 21-356 Principles of Real Analysis II>
+Semester: Spring 2024 (aka S24)
+Course Description: This course provides a rigorous and proof-based treatment of functions of several real variables. Topology in metric spaces, specialization to finite dimensional normed linear spaces. Vector differential calculus: continuity and the total derivative, partial derivatives, directional derivatives, gradients, Jacobians, the chain rule, implicit function theorem. Vector integral calculus: double and triple integrals, arclength and surface area, line integrals, Green's Theorem, surface integrals, Divergence and Stokes Theorems. If time permits: trigonometric series, Fourier series for orthonormal bases, minimization of square error. The course presumes some mathematical sophistication including the ability to recognize, read, and write proofs. 21-268 or 21-269 are strongly recommended rather than 21-259. (Three 50 minute lectures)
+</end course description for 21-356 Principles of Real Analysis II>

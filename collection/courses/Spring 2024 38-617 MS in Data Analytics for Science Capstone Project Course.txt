@@ -1,0 +1,16 @@
+<start course metadata for 38-617 MS in Data Analytics for Science Capstone Project Course>
+Semester: Spring 2024 (aka S24)
+Course Name: MS in Data Analytics for Science Capstone Project Course
+Course Number: 38-617
+Department: MCS Interdisciplinary
+Number of Units: 12
+Prerequisites: None
+Instructors: John Urbanic Jr, Manfred Paulini
+Rooms: DH 2105
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 38-617 MS in Data Analytics for Science Capstone Project Course>
+
+<start course description for 38-617 MS in Data Analytics for Science Capstone Project Course>
+Semester: Spring 2024 (aka S24)
+Course Description: A crucial component of the MS in Data Analytics for Science (MS-DAS) program is the required semester-long Capstone Course, which will provide student the opportunity to apply the skills developed in the classroom such as the the acquired programming, machine learning and data science tools to real-world scenarios from industry partners. Students will gain experience working collaboratively to evaluate and develop a solution in coordination with industry partners following their guidelines. Through this course students begin to make the transition from the academic world to the environments in industry and the marketplace, where the challenges of team building, resource development, client relations, limited information, and pressing deadlines are as real and important as the technical and managerial components of any task. NOTE: This course is reserved only for students in the MS in Data Analytics for Science (MS-DAS) program.
+</end course description for 38-617 MS in Data Analytics for Science Capstone Project Course>

@@ -1,0 +1,16 @@
+<start course metadata for 90-812 Python Programming I>
+Semester: Fall 2023 (aka F23)
+Course Name: Python Programming I
+Course Number: 90-812
+Department: Public Policy & Mgt:Sch of Pub Pol & Mgt
+Number of Units: 6
+Prerequisites: None
+Instructors: John Ostlund
+Rooms: HBH 1206
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 90-812 Python Programming I>
+
+<start course description for 90-812 Python Programming I>
+Semester: Fall 2023 (aka F23)
+Course Description: This course focuses on the fundamentals of computer programming using the Python interpreted programming language. This course is designed for students with little or no programming knowledge.  Students will develop their problem solving skills using the top-down procedural programming approach to build standalone software applications. Assignments will include weekly homework, bi-weekly checkpoint quizzes, and a final examination to test essential programming and problem solving skills. Some OOP (object oriented programming) will be used in this course. Learners will study how to build professional, user-friendly computer programs applicable to real-world usage in such areas as public policy and security analysis.  Please note: Students who have taken this course should not take Data Focused Python.  Objectives: Use the Python IDLE integrated development environment in interactive and script mode to both test code snippets and author professional programs.  Develop problem solving skills through practice and understanding of the top-down procedural programming and Object Oriented Programming methodologies.  Perform calculations, evaluate numerical relations and logical expressions, manipulate character strings, and utilize Python's decision and loop structures.  Form and manipulate collections of data (such as lists, tuples, sets, and dictionaries).  Produce modules of functions for code reuse.  Solve real-world problems using the Python language.  After completing this course, if you are interested in building on your programming with Python experience, please register for 90-819 Python Programming II.
+</end course description for 90-812 Python Programming I>

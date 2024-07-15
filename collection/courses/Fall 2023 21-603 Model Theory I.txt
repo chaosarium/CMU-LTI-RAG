@@ -1,0 +1,16 @@
+<start course metadata for 21-603 Model Theory I>
+Semester: Fall 2023 (aka F23)
+Course Name: Model Theory I
+Course Number: 21-603
+Department: Mathematical Sciences
+Number of Units: 12
+Prerequisites: (21-355 or 21-235 or 21-455) and (21-373 or 21-237)
+Instructors: Rami Grossberg
+Rooms: WEH 7201
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-603 Model Theory I>
+
+<start course description for 21-603 Model Theory I>
+Semester: Fall 2023 (aka F23)
+Course Description: Similarity types, structures; downward Lowenheim Skolem theorem; construction of models from constants, Henkin's omitting types theory, prime models; elementary chains of models, basic two cardinal theorems, saturated models, basic results on countable models including Ryll-Nardzewski's theorem; indiscernible sequences, Ehrenfeucht-Mostowski models; introduction to stability, rank functions, primary models, and a proof of Morley's catagoricity theorem; basic facts about infinitary languages, computation of Hanf-Morley numbers.  (Three 50 minute lectures)
+</end course description for 21-603 Model Theory I>

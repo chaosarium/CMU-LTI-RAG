@@ -1,0 +1,16 @@
+<start course metadata for 03-747 Proposal Preparation and Peer Review>
+Semester: Fall 2023 (aka F23)
+Course Name: Proposal Preparation and Peer Review
+Course Number: 03-747
+Department: Biological Sciences
+Number of Units: 4
+Prerequisites: None
+Instructors: Alison Barth
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 03-747 Proposal Preparation and Peer Review>
+
+<start course description for 03-747 Proposal Preparation and Peer Review>
+Semester: Fall 2023 (aka F23)
+Course Description: The concise and clear presentation of an experimental  research plan is an essential skill for research scientists.  This mini course is designed to introduce 2nd year students to the structure and preparation of a structured research proposal as well as formalize instruction in professional standards in research ethics, CV preparation, and scientific writing and data presentation.  Course material is taken from actual grant proposals and previous years' qualifying exam proposals, as well as primary research publications and faculty grant proposals.  The course is highly interactive, and students are required to participate in review of each others' work throughout the duration of the course.  Coursework is expected to form the basis of the Ph.D. qualifying exam proposal in the winter of the second year.
+</end course description for 03-747 Proposal Preparation and Peer Review>

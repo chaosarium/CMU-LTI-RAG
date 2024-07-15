@@ -1,0 +1,16 @@
+<start course metadata for 70-385 Consumer Behavior>
+Semester: Spring 2024 (aka S24)
+Course Name: Consumer Behavior
+Course Number: 70-385
+Department: Business Administration
+Number of Units: 9
+Prerequisites: 70-381
+Instructors: Christopher Olivola, Varun Sharma
+Rooms: CMB 1199; TEP 2700
+Locations: Doha, Qatar; Pittsburgh, Pennsylvania
+</end course metadata for 70-385 Consumer Behavior>
+
+<start course description for 70-385 Consumer Behavior>
+Semester: Spring 2024 (aka S24)
+Course Description: Marketing, in particular, begins and ends with the consumer from determining consumer needs to ensuring customer satisfaction. In this course, we will explore the most recent scientific research in marketing, psychology, and behavioral economics on judgment and decision-making. We will develop your ability to understand and influence what people want, how people decide what and when to buy, and whether people will be satisfied or dissatisfied with their decisions. These psychological insights are particularly useful for marketing strategy, brand positioning, and marketing communication decisions, but also yield insight into common biases in judgment and decision making, beyond marketing, to which you would otherwise fall prey.  Why people are willing to drive across town to save $5 on a tank of gasoline, for example, when they would not drive a minute to save $5 on a refrigerator. We will discuss some of these applications in class.  In addition, we will examine the methodology of market research (specific to consumer behavior) to build the tools you will need to interpret and base decisions on it. This course may use third-party course material that is not available for individual purchase from the publisher.   If so, the third-party course material will be secured and provided by the Tepper School to students enrolled in the course, and students enrolled in the course will be required to pay to the University the associated additional course materials fee for the third-party course material provided.   The amount of the course materials fee is dependent on the University's cost of the particular materials provided, and typically ranges from $13 to $75.
+</end course description for 70-385 Consumer Behavior>

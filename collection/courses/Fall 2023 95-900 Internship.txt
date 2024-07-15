@@ -1,0 +1,16 @@
+<start course metadata for 95-900 Internship>
+Semester: Fall 2023 (aka F23)
+Course Name: Internship
+Course Number: 95-900
+Department: Information Systems:Sch of IS & Mgt
+Number of Units: N/A
+Prerequisites: 95-717 and 95-718
+Instructors: Sean Beggs
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 95-900 Internship>
+
+<start course description for 95-900 Internship>
+Semester: Fall 2023 (aka F23)
+Course Description: Open to all ISM students who have completed two semesters of course work, the internship offers students an opportunity to supplement their regular academic program with valuable experiential learning.  By working in a professional environment students will solidify their knowledge gained in ISM coursework.  This working knowledge of technology and/or security will help students to capitalize on trends that can impact business regardless of industry.  Students may intern with a company that corresponds to a field of interest or existing specialization area within ISM programs which may include a variety of industry sectors such as consulting, finance, software, security, or technology companies and other type of organizations.  Internship positions may vary from IT managers to security consultants to business analysts to application engineers and others.
+</end course description for 95-900 Internship>

@@ -1,0 +1,16 @@
+<start course metadata for 32-212 Navigation>
+Semester: Spring 2024 (aka S24)
+Course Name: Navigation
+Course Number: 32-212
+Department: Naval Science - ROTC
+Number of Units: 9
+Prerequisites: None
+Instructors: Natalie Boerio
+Rooms: FRB 210
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 32-212 Navigation>
+
+<start course description for 32-212 Navigation>
+Semester: Spring 2024 (aka S24)
+Course Description: An in-depth study of piloting and an introduction to celestial navigation theory.  Students learn piloting skills including the use of charts, visual and electronic aids, and the theory and operation of magnetic and gyro compasses.  Students develop practical skills in both piloting and celestial navigation.  Other topics include tides, currents effects of wind and weather, plotting, use of navigation instruments, types and characteristics of electronic navigation systems, and the typical day's work in navigation.  Also included is a study of the international and inland rules of the nautical road, relative motion, vector analysis theory, and relative motion problems.
+</end course description for 32-212 Navigation>

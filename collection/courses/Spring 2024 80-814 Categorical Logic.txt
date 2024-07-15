@@ -1,0 +1,16 @@
+<start course metadata for 80-814 Categorical Logic>
+Semester: Spring 2024 (aka S24)
+Course Name: Categorical Logic
+Course Number: 80-814
+Department: Philosophy
+Number of Units: 12
+Prerequisites: 80-713
+Instructors: Steve Awodey
+Rooms: BH 150
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 80-814 Categorical Logic>
+
+<start course description for 80-814 Categorical Logic>
+Semester: Spring 2024 (aka S24)
+Course Description: This course focuses on applications of category theory in logic and computer science. A leading idea is functorial semantics, according to which a model of a logical theory is a set-valued functor on a category determined by the theory. This gives rise to a syntax-invariant notion of a theory and introduces many algebraic methods into logic, leading naturally to the universal and other general models that distinguish functorial from classical semantics. Such categorical models occur, for example, in denotational semantics. e.g. treating the lambda-calculus via the theory of cartesian closed categories. Higher-order logic is treated categorically by the theory of topoi. We shall see how this idea connects logic with topology (the models of a theory form a space). A prerequisite for this course is familiarity with basic category theory (as treated in the course 80-413/713).
+</end course description for 80-814 Categorical Logic>

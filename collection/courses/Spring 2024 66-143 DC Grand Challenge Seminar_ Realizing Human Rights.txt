@@ -1,0 +1,16 @@
+<start course metadata for 66-143 DC Grand Challenge Seminar: Realizing Human Rights>
+Semester: Spring 2024 (aka S24)
+Course Name: DC Grand Challenge Seminar: Realizing Human Rights
+Course Number: 66-143
+Department: Dietrich College Interdisciplinary
+Number of Units: 9
+Prerequisites: None
+Instructors: Jay Aronson, Robin Mejia
+Rooms: WEH 5409
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 66-143 DC Grand Challenge Seminar: Realizing Human Rights>
+
+<start course description for 66-143 DC Grand Challenge Seminar: Realizing Human Rights>
+Semester: Spring 2024 (aka S24)
+Course Description: This course will introduce first year students to the challenge of protecting and promoting human rights in a world fraught with conflict, political strife, economic exploitation, and environmental hazards. We will focus on how human rights frameworks can be used to make the world more just, equitable, and free. We will begin by discussing the theoretical foundations of human rights and the development of human rights institutions in the 20th century. Students will learn how rights have been constructed through legal action, activism, and treaty negotiations in the past and examine the emergence and contestation of new rights today. We will explore why particular rights frameworks are privileged in some societies but not others. We will then focus on how practitioners investigate and document potential rights violations around the world, including in our own backyard. The instructors bring disciplinary expertise in history, journalism, and data analysis, and the course will feature guest lectures by legal experts and human rights practitioners. Topics covered will include genocide and other war crimes; political repression; economic, social, and cultural rights; environmental rights; migration and refugees; gender identity and sexuality; and indigenous rights.  By the end of semester, students will be prepared to propose an action plan to address a specific human rights challenge in a community that they are familiar with. In previous semesters, our students have worked on projects related to deaths in Pennsylvanias jails and prisons in partnership with local organizations, proposed a project to assess human rights violations of migrants at the US/Mexico border, and conducted an international open source investigation of human rights violations using online media and satellite imagery.
+</end course description for 66-143 DC Grand Challenge Seminar: Realizing Human Rights>

@@ -1,0 +1,16 @@
+<start course metadata for 48-355 Perspective>
+Semester: Spring 2024 (aka S24)
+Course Name: Perspective
+Course Number: 48-355
+Department: Architecture
+Number of Units: 9
+Prerequisites: 62-126
+Instructors: Douglas Cooper
+Rooms: CFA 206A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-355 Perspective>
+
+<start course description for 48-355 Perspective>
+Semester: Spring 2024 (aka S24)
+Course Description: This freehand drawing course considers perspective from three understandings of perceptual psychology. Part 1, built on the pedagogy of Kimon Nicolaides, aligns with the Transactionalist understanding of perception. It considers perspective as discovered truth. Part 2 builds on the early work of perceptual psychologist, J.J. Gibson, and aligns with the Ecological position of Gibson and his followers. It considers perspective as an absolute truth of the visual field. Part 3, aligning implicitly with Gestalt psychology, treats perspective as an imposed schema. The course concludes with a final project built around the student's interest.
+</end course description for 48-355 Perspective>

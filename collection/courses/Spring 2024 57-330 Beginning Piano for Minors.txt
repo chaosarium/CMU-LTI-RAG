@@ -1,0 +1,16 @@
+<start course metadata for 57-330 Beginning Piano for Minors>
+Semester: Spring 2024 (aka S24)
+Course Name: Beginning Piano for Minors
+Course Number: 57-330
+Department: Music
+Number of Units: 3
+Prerequisites: None
+Instructors: Carla Larocca
+Rooms: HOA A10
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-330 Beginning Piano for Minors>
+
+<start course description for 57-330 Beginning Piano for Minors>
+Semester: Spring 2024 (aka S24)
+Course Description: This is a small group lesson for music performance, music composition, music technology, and music theory minors who cannot pass the required beginning piano test.
+</end course description for 57-330 Beginning Piano for Minors>

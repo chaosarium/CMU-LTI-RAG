@@ -1,0 +1,16 @@
+<start course metadata for 90-908 Ph.D. Microeconomics>
+Semester: Fall 2023 (aka F23)
+Course Name: Ph.D. Microeconomics
+Course Number: 90-908
+Department: Public Policy & Mgt:Sch of Pub Pol & Mgt
+Number of Units: 12
+Prerequisites: None
+Instructors: Brian Kovak
+Rooms: HBH 1004
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 90-908 Ph.D. Microeconomics>
+
+<start course description for 90-908 Ph.D. Microeconomics>
+Semester: Fall 2023 (aka F23)
+Course Description: This course provides a semester-long introduction to microeconomic analysis and its application. The primary objective of the course is to familiarize students with the microeconomic paradigm and develop an appreciation of the usefulness (and limitations) of microeconomic analysis. A further goal of the course is to develop and exercise students' ability to use economic analysis in examining applied issues and more generally to help students acquire formal modeling skills -- the ability to reduce real-world problems to useful and mathematically tractable representations. This course is designed for the following students: (i) Ph.D. students who want to increase their exposure to microeconomics but do not expect to use formal microeconomics in their research (i.e. students for whom this course is likely to be their last course in microeconomics); (ii) Ph.D. students who plan to study microeconomics beyond the introductory level of this course but do not have the background for the microeconomic sequence offered at GSIA; and (iii) M.S. students who have an especially strong background in mathematics. Notice that this course is not a close substitute for the first course in the Tepper microeconomics sequence. Students who want to take more advanced microeconomics courses and who have the preparation are encouraged to investigate the courses offered at Tepper. There are no formal prerequisites for this course. However, students are assumed to have a solid working knowledge of multivariate calculus. You will take a brief math quiz in the first lecture to help you determine whether your math training is sufficient for the course. Prior exposure to microeconomics, in a good undergraduate-level course, is helpful but not required.
+</end course description for 90-908 Ph.D. Microeconomics>

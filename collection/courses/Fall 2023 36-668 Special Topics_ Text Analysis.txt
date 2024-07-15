@@ -1,0 +1,16 @@
+<start course metadata for 36-668 Special Topics: Text Analysis>
+Semester: Fall 2023 (aka F23)
+Course Name: Special Topics: Text Analysis
+Course Number: 36-668
+Department: Statistics and Data Science
+Number of Units: 9
+Prerequisites: None
+Instructors: David Brown
+Rooms: POS A35
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 36-668 Special Topics: Text Analysis>
+
+<start course description for 36-668 Special Topics: Text Analysis>
+Semester: Fall 2023 (aka F23)
+Course Description: The analysis of language is concerned with how variables relate to people (their gender, age, and location, for example), how variables relate to use (such as writing in different academic disciplines), and how variables change over time. While we are surrounded by data that might potentially shed light on many of these questions, working with real-world linguistic data can present some unique challenges in sampling, in the distribution of features, and in their high dimensionality. In this course, we work through some of these issues, paying particular attention to the aligning of the statistical questions we want to investigate with the choice of statistical models, as well as focusing on the interpretation of results. Analysis will be carried out in R and students will develop a suite of tools as they work through their course projects.
+</end course description for 36-668 Special Topics: Text Analysis>

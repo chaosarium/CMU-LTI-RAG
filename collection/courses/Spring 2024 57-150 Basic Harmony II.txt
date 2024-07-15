@@ -1,0 +1,16 @@
+<start course metadata for 57-150 Basic Harmony II>
+Semester: Spring 2024 (aka S24)
+Course Name: Basic Harmony II
+Course Number: 57-150
+Department: Music
+Number of Units: 9
+Prerequisites: 57-149
+Instructors: Mark Domencic
+Rooms: HOA 223
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-150 Basic Harmony II>
+
+<start course description for 57-150 Basic Harmony II>
+Semester: Spring 2024 (aka S24)
+Course Description: This course deals with common-practice harmony. It includes triads and their inversions, tonality and modality, non-harmonic tones, cadences, and the basic concepts of modulation.  It includes work on fundamentals for inexperienced students.
+</end course description for 57-150 Basic Harmony II>

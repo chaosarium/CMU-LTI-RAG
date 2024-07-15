@@ -1,0 +1,16 @@
+<start course metadata for 91-800 Organizational Management>
+Semester: Fall 2023 (aka F23)
+Course Name: Organizational Management
+Course Number: 91-800
+Department: Public Management:Sch of Pub Pol & Mgt
+Number of Units: 12
+Prerequisites: None
+Instructors: David Lassman
+Rooms: HBH 1005
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 91-800 Organizational Management>
+
+<start course description for 91-800 Organizational Management>
+Semester: Fall 2023 (aka F23)
+Course Description: This introductory course (there are no prerequisite courses) is designed to improve your effectiveness as a manager and leader by introducing you to frameworks for understanding organizations and organizational processes. Organizations have been studied from the perspective of several social science disciplines, including psychology, sociology, economics, anthropology and political science. The field on which this course is based, organizational behavior, draws from all of these disciplines and applies the insights derived from the pertinent research. This course will introduce you to this research and ways to apply the knowledge to particular situations through your analysis and subsequent class discussion of case studies.
+</end course description for 91-800 Organizational Management>

@@ -1,0 +1,16 @@
+<start course metadata for 48-711 Paradigms of Research in Architecture>
+Semester: Spring 2024 (aka S24)
+Course Name: Paradigms of Research in Architecture
+Course Number: 48-711
+Department: Architecture
+Number of Units: N/A
+Prerequisites: None
+Instructors: Joshua Lee
+Rooms: MM 415IW
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-711 Paradigms of Research in Architecture>
+
+<start course description for 48-711 Paradigms of Research in Architecture>
+Semester: Spring 2024 (aka S24)
+Course Description: Architectural "research" by many practitioners is often limited to precedent studies and/or intuitively evaluating alternative design solutions and materials. Deeper analytical activities risk being perceived as unnecessary overhead expenditures. On the other hand, "architectural" research by many scholars is often confined to laboratory settings or so esoteric that the findings are of little use to practitioners. This course challenges the false dichotomy between these two frames and provides an introduction to a wide range of research strategies including Experimental, Simulation, Quantitative, Qualitative, Correlational, Interpretive-historical, Logical Argumentation, Case Study, and Mixed Methods. Throughout the semester there will be guest lectures from faculty who will share their expertise, successful research strategies and methods, innovative ideas for future research, and the results of their current and past research. Students will apply a variety of research paradigms and methods to their research interests, improve their verbal and visual presentation skills, and prepare a research proposal presentation with a problem statement, literature review, methodology/methods, anticipated findings, and bibliography.
+</end course description for 48-711 Paradigms of Research in Architecture>

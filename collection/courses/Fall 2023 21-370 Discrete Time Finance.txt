@@ -1,0 +1,16 @@
+<start course metadata for 21-370 Discrete Time Finance>
+Semester: Fall 2023 (aka F23)
+Course Name: Discrete Time Finance
+Course Number: 21-370
+Department: Mathematical Sciences
+Number of Units: 9
+Prerequisites: (70-492 or 21-270) and (21-256 or 21-259 or 21-268 or 21-269)
+Instructors: David Handron
+Rooms: DH 1212
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-370 Discrete Time Finance>
+
+<start course description for 21-370 Discrete Time Finance>
+Semester: Fall 2023 (aka F23)
+Course Description: This course introduces the Black-Scholes option pricing formula, shows how the binomial model provides a discretization of this formula, and uses this connection to fit the binomial model to data. It then sets the stage for Continuous-Time Finance by discussing in the binomial model the mathematical technology of filtrations, martingales, Markov processes and risk-neutral measures. Additional topics are American options, expected utility maximization, the Fundamental Theorems of Asset Pricing in a multi-period setting, and term structure modeling, including the Heath-Jarrow-Morton model. Students in 21-370 are expected to read and write proofs.  Acceptable corequisites include 21-325 or 36-225 (Three 50 minute lectures)
+</end course description for 21-370 Discrete Time Finance>

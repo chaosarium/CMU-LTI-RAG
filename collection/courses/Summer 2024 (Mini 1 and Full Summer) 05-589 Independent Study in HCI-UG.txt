@@ -1,0 +1,16 @@
+<start course metadata for 05-589 Independent Study in HCI-UG>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Independent Study in HCI-UG
+Course Number: 05-589
+Department: Human-Computer Interaction
+Number of Units: N/A
+Prerequisites: None
+Instructors: Amelia Baisley
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 05-589 Independent Study in HCI-UG>
+
+<start course description for 05-589 Independent Study in HCI-UG>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: In collaboration with and with the permission of the professor, undergraduate students may engage in independent project work on any number of research projects sponsored by faculty. Students must complete an Independent Study Proposal, negotiate the number of units to be earned, complete a contract, and present a tangible deliverable.  The Undergraduate Program Advisor's signature is required for HCI undergraduate-level Independent Study courses.
+</end course description for 05-589 Independent Study in HCI-UG>

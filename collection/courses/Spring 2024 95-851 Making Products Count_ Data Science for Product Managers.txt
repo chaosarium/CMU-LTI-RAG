@@ -1,0 +1,16 @@
+<start course metadata for 95-851 Making Products Count: Data Science for Product Managers>
+Semester: Spring 2024 (aka S24)
+Course Name: Making Products Count: Data Science for Product Managers
+Course Number: 95-851
+Department: Information Systems:Sch of IS & Mgt
+Number of Units: 6
+Prerequisites: 95-796
+Instructors: David Steier
+Rooms: HBH 1206
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 95-851 Making Products Count: Data Science for Product Managers>
+
+<start course description for 95-851 Making Products Count: Data Science for Product Managers>
+Semester: Spring 2024 (aka S24)
+Course Description: Product managers engage in a variety of complex activities critical to product success including -Gathering product requirements -Prioritizing features -Forecasting customer demand -Customer segmentation -Pricing -Allocating marketing spend -Identifying buying patterns -Analyzing and responding to customer feedback Historically decisions in these areas have often relied on intuition and guesswork, leading to misjudgment of the market and other key factors, and ultimately, product failures. Developments in data science, combining the increasing availability of data from internal and external sources with new algorithms that exploit that data at scale, offer new possibilities for putting product management decisions on a more quantitative and rigorous footing. Students in this course will be introduced to a variety of data science techniques applicable to activities to which product managers typically contribute. These techniques include preference modeling, time series forecasting, regression, clustering, classification, A/B testing, and analytics for unstructured data, including clickstreams, text, speech, and images. This course is for students who are looking for an intro to applying data science to product management. Backgrounds in basic stats, and some programming experience are required. Hands-on exercises in Python will illustrate the concepts, but please note this is not a Python class; students who are unfamiliar with Python will be given access to online tutorials to build up their Python skills. In-class exercises and weekly assignments will mainly focus on data science techniques and their application to decision making at various stages of the product life cycle. In the final project, students will select from a variety of data sets to address a product management issue in more depth, from framing the problem through modeling to communicating results. Students cannot take this course as pass/no pass.
+</end course description for 95-851 Making Products Count: Data Science for Product Managers>

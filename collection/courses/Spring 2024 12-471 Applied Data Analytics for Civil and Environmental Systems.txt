@@ -1,0 +1,16 @@
+<start course metadata for 12-471 Applied Data Analytics for Civil and Environmental Systems>
+Semester: Spring 2024 (aka S24)
+Course Name: Applied Data Analytics for Civil and Environmental Systems
+Course Number: 12-471
+Department: Civil & Environmental Engineering
+Number of Units: 9
+Prerequisites: 12-371
+Instructors: Brandon Tober, David Rounce
+Rooms: POS 152
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 12-471 Applied Data Analytics for Civil and Environmental Systems>
+
+<start course description for 12-471 Applied Data Analytics for Civil and Environmental Systems>
+Semester: Spring 2024 (aka S24)
+Course Description: Building upon the fundamentals developed in 12-271 and 12-371, this course empowers students to leverage computing tools for big data. Topics include design of experiments; advanced topics in statistics and uncertainty quantification; an introduction to signal processing and Fourier theory; an introduction to classification, clustering, and other concepts from machine learning; and an introduction to parallel and distributed computing and sensing. Each topic is presented in the context of a specific set of engineering problems. An emphasis is placed on identifying computationally appropriate and efficient solutions. This course culminates in a collaborative project, enabling students to synthesize their computational and data science skills to solve a significant problem in civil and environmental systems
+</end course description for 12-471 Applied Data Analytics for Civil and Environmental Systems>

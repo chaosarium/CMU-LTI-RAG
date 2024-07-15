@@ -1,0 +1,16 @@
+<start course metadata for 17-801 Dynamic Network Analysis>
+Semester: Spring 2024 (aka S24)
+Course Name: Dynamic Network Analysis
+Course Number: 17-801
+Department: Software & Societal Systems
+Number of Units: 12
+Prerequisites: None
+Instructors: Kathleen Carley
+Rooms: TEP 1403
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 17-801 Dynamic Network Analysis>
+
+<start course description for 17-801 Dynamic Network Analysis>
+Semester: Spring 2024 (aka S24)
+Course Description: Who knows who? Who knows what? Who is influential? What is the social network, the knowledge network, the activity network? How do ideas, products & diseases propagate through groups and impact these networks? Does social media change the way these networks operate? Questions such as these & millions of others require a network perspective and an understanding of how ties among people, ideas, things, & locations connect, constrain & enable activity. In the past decade there has been an explosion of interest in network science moving from the work on social networks and graph theory to statistical and computer simulation models. Network analysis, like statistics, now plays an role in most empirical fields.  Network science is a broad and multi-disciplinary field. In this class, students will gain an appreciation of the history of the field, the difference between social networks and social media, the difference graph-based metrics for network analysis and graphical models, the use of traditional and high dimensional network models, and the advances in this field. Applications and issues discussed will include: social media analytics, semantic networks, task networks, organizational design and teams, machine learning and network analysis, generative models, terrorism and crime, health, and fake news. Methods for network data collection, analysis, visualization, and interpretation are covered. Students produce original research in which network data is analyzed using the methods covered in the class.
+</end course description for 17-801 Dynamic Network Analysis>

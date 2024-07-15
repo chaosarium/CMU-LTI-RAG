@@ -1,0 +1,16 @@
+<start course metadata for 04-624 Information System Audit & Standards>
+Semester: Spring 2024 (aka S24)
+Course Name: Information System Audit & Standards
+Course Number: 04-624
+Department: Information & Communication Technology
+Number of Units: 12
+Prerequisites: None
+Instructors: Jema David Ndibwile
+Rooms: CMR F203
+Locations: Kigali, Rwanda
+</end course metadata for 04-624 Information System Audit & Standards>
+
+<start course description for 04-624 Information System Audit & Standards>
+Semester: Spring 2024 (aka S24)
+Course Description: The goal of this course is to introduce students to concepts, tactics, and best practices in information technology governance, auditing, and control. Based on recognized information system audit standards, frameworks, and guidelines, students will gain the knowledge and abilities to evaluate information system governance and develop and implement audit strategies and controls. Students will also learn about the underlying legal, ethical, and security challenges.
+</end course description for 04-624 Information System Audit & Standards>

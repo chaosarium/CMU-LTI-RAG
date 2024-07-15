@@ -1,0 +1,16 @@
+<start course metadata for 18-709 Advanced Cloud Computing>
+Semester: Spring 2024 (aka S24)
+Course Name: Advanced Cloud Computing
+Course Number: 18-709
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: 18-213 or 18-600 or 18-613 or 15-213 or 15-513 or 15-619
+Instructors: Gregory Ganger, Majd Sakr
+Rooms: DH 2315
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-709 Advanced Cloud Computing>
+
+<start course description for 18-709 Advanced Cloud Computing>
+Semester: Spring 2024 (aka S24)
+Course Description: Computing in the cloud has emerged as a leading paradigm for cost-effective, scalable, well-managed computing. Users pay for services provided in a broadly shared, power-efficient datacenter, enabling dynamic computing needs to be met without paying for more than needed. Actual machines may be virtualized into machine-like services, abstract programming platforms, or application-specific services, with the cloud infrastructure managing sharing, scheduling, reliability, availability, elasticity, privacy, provisioning and geo-replication.  This course will survey the aspects of cloud computing through about 30 papers and articles, executing cloud computing tasks on a state-of-the-art cloud computing service, and implementing a change or feature in a state-of-the-art cloud computing framework. There will be no final exam, but there will be one or two in-class exams. Grades will be about 50% project work and about 50% examination results.
+</end course description for 18-709 Advanced Cloud Computing>

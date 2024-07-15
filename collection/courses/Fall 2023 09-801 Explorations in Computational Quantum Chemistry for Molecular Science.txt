@@ -1,0 +1,16 @@
+<start course metadata for 09-801 Explorations in Computational Quantum Chemistry for Molecular Science>
+Semester: Fall 2023 (aka F23)
+Course Name: Explorations in Computational Quantum Chemistry for Molecular Science
+Course Number: 09-801
+Department: Chemistry
+Number of Units: 12
+Prerequisites: None
+Instructors: Tomasz Kowalewski
+Rooms: MI 355
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 09-801 Explorations in Computational Quantum Chemistry for Molecular Science>
+
+<start course description for 09-801 Explorations in Computational Quantum Chemistry for Molecular Science>
+Semester: Fall 2023 (aka F23)
+Course Description: The objective of this course is to equip the students with modern computational tools essential for productive and creative pursuits in the area of molecular science and nanoscience. This goal will be accomplished through a sequence of hands-on computational exploration segments centered on computational quantum chemistry. As a primary computing tool, the course will use Mathematica integrated with Gaussian, which allows for seamless mixing of symbolic and numerical calculations aided by vast libraries of high performance algorithms.  It will also make it possible to cover essential mathematical and computational tools such as elements of linear algebra and its practical applications, Fourier analysis, ordinary and partial differential equations, and introduction to machine learning.  Choice of Mathematica as a platform makes it possible to shift the emphasis from computer programming to computational explorations, problem solving and discovery. It also makes the course open to the students with no prior experience in technical computing.
+</end course description for 09-801 Explorations in Computational Quantum Chemistry for Molecular Science>

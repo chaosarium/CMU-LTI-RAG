@@ -1,0 +1,16 @@
+<start course metadata for 85-241 Social Psychology>
+Semester: Spring 2024 (aka S24)
+Course Name: Social Psychology
+Course Number: 85-241
+Department: Psychology
+Number of Units: 9
+Prerequisites: None
+Instructors: Jocelyn Belanger, Vicki Helgeson
+Rooms: BH A51; CMB 3069
+Locations: Doha, Qatar; Pittsburgh, Pennsylvania
+</end course metadata for 85-241 Social Psychology>
+
+<start course description for 85-241 Social Psychology>
+Semester: Spring 2024 (aka S24)
+Course Description: This course will serve as an introduction to the field of social psychology - and make the  case for why it is relevant to all of our lives. You will learn about how the social environment impacts our thoughts, feelings, and behavior. Throughout the course, you will become familiar with the history of social psychology, explore the questions studied by social psychologists, and develop an understanding of basic research in social psychology as well as how it affects important real-world domains, such as eyewitness testimony, conflict negotiation, and the impact of stress on health.
+</end course description for 85-241 Social Psychology>

@@ -1,0 +1,16 @@
+<start course metadata for 21-765 Introduction to Parallel Computing and Scientific Computation>
+Semester: Spring 2024 (aka S24)
+Course Name: Introduction to Parallel Computing and Scientific Computation
+Course Number: 21-765
+Department: Mathematical Sciences
+Number of Units: 9
+Prerequisites: None
+Instructors: Florin Manolache
+Rooms: POS 147
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-765 Introduction to Parallel Computing and Scientific Computation>
+
+<start course description for 21-765 Introduction to Parallel Computing and Scientific Computation>
+Semester: Spring 2024 (aka S24)
+Course Description: Course objectives: to develop structural intuition of how the hardware and the software work, starting from simple systems to complex shared resource architectures; to provide guidelines about how to write and document a software package; to familiarize the audience with the main parallel programming techniques and the common software packages/libraries.  (One 110 minute lecture)
+</end course description for 21-765 Introduction to Parallel Computing and Scientific Computation>

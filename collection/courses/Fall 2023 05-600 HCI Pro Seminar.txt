@@ -1,0 +1,16 @@
+<start course metadata for 05-600 HCI Pro Seminar>
+Semester: Fall 2023 (aka F23)
+Course Name: HCI Pro Seminar
+Course Number: 05-600
+Department: Human-Computer Interaction
+Number of Units: 6
+Prerequisites: None
+Instructors: Nicole Willis
+Rooms: 3SC 172
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 05-600 HCI Pro Seminar>
+
+<start course description for 05-600 HCI Pro Seminar>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is only for MHCI students. This course is specifically built to expose students to the world of HCI through research and industry talks, as well as strengthening HCI communication skills for work in industry. Seminar Component:To expose students to the world of HCI through research and industry expert talks with written assignments. Conflict Management Component:To educate students on conflict management, teamwork, active listening skills, and communication skills in order to give them tools to collaborate and work more efficiently on multi-disciplinary teams. Professional Series Component: To expose students to the world of HCI through guest speakers, prepare students to navigate job hunting through resume and portfolio workshops and to provide industry insights into HCI and the profession through guest speakers and panel discussions.
+</end course description for 05-600 HCI Pro Seminar>

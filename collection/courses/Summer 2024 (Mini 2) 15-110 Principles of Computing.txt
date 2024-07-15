@@ -1,0 +1,16 @@
+<start course metadata for 15-110 Principles of Computing>
+Semester: Summer Two 2024 (aka M24, M24 Mini 2, Summer 2024 Mini 2)
+Course Name: Principles of Computing
+Course Number: 15-110
+Department: Computer Science
+Number of Units: 10
+Prerequisites: None
+Instructors: Norman Bier
+Rooms: BH A36; GHC CLSTR
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-110 Principles of Computing>
+
+<start course description for 15-110 Principles of Computing>
+Semester: Summer Two 2024 (aka M24, M24 Mini 2, Summer 2024 Mini 2)
+Course Description: None
+</end course description for 15-110 Principles of Computing>

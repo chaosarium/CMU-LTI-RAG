@@ -1,0 +1,16 @@
+<start course metadata for 51-499 Senior Design Independent Study>
+Semester: Spring 2024 (aka S24)
+Course Name: Senior Design Independent Study
+Course Number: 51-499
+Department: Design
+Number of Units: N/A
+Prerequisites: None
+Instructors: Andrew Twigg, Daphne Firos, Dina El Zanfaly, Dylan Vitone, Instructor TBA, Kelsey Elder, Peter Scupelli
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-499 Senior Design Independent Study>
+
+<start course description for 51-499 Senior Design Independent Study>
+Semester: Spring 2024 (aka S24)
+Course Description: Guidelines for independent study are on the Design Intranet.  Proposals must be approved by faculty before pre-registration.
+</end course description for 51-499 Senior Design Independent Study>

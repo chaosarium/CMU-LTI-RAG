@@ -1,0 +1,16 @@
+<start course metadata for 90-782 Multi Media>
+Semester: Fall 2023 (aka F23)
+Course Name: Multi Media
+Course Number: 90-782
+Department: Public Policy & Mgt:Sch of Pub Pol & Mgt
+Number of Units: 12
+Prerequisites: None
+Instructors: Gary Franko
+Rooms: WEH 5201
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 90-782 Multi Media>
+
+<start course description for 90-782 Multi Media>
+Semester: Fall 2023 (aka F23)
+Course Description: Students who have already taken 90801 & 90804 Media Communication Design I & II should not take Multi Media, 90782.  This course is about communication. Specifically, we will use various media elements (text, graphics, animation, video and sound) to form communicative units. The purpose of a multimedia piece is to communicate your message to the audience. The goal of this course is to use type, color, illustrations, images, sound, animation and video to produce professional materials. This course will teach a combination of graphic design skills and software skills. Students will also learn the terminology, procedures and production requirement to effectively communicate with ad agencies, design firms and commercial printers. Throughout the course students will learn the skills of the following applications: - Adobe InDesign CC  - Adobe Illustrator CC - Adobe Photoshop CC  - Apple Garageband - Adobe After Effects CC  - Apple Final Cut Pro/ Adobe Premiere Each of the above software programs will have one or two projects/assignments that will be completed by the student. These applications are available in the classroom as well as several public clusters. While the class offers a jump-start to these applications, students are expected to explore the higher level features on their own. Another resource is the Internet - which offers a wealth of tips and techniques for these applications.
+</end course description for 90-782 Multi Media>

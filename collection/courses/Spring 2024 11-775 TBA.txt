@@ -1,0 +1,16 @@
+<start course metadata for 11-775 TBA>
+Semester: Spring 2024 (aka S24)
+Course Name: TBA
+Course Number: 11-775
+Department: Language Technologies Institute
+Number of Units: 12
+Prerequisites: None
+Instructors: Alexander Hauptmann
+Rooms: GHC 4102
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 11-775 TBA>
+
+<start course description for 11-775 TBA>
+Semester: Spring 2024 (aka S24)
+Course Description: Can a robot watch "Youtube" to learn about the world? What makes us laugh? How to bake a cake? Why is Kim Kardashian famous?  12-unit class covering fundamentals of computer vision, audio and speech processing, multi-media files and streaming, multi-modal signal processing, video retrieval, semantics, and text (possibly also: speech, music) generation.  Instructors will give an overview of relevant recent work and benchmarking efforts (Trecvid, Mediaeval, etc.). Students will work on research projects to explore these ideas and learn to perform multi-modal retrieval, summarization and inference on large amounts of "Youtube"-style data. The experimental environment for the practical part of the course will be given to students in the form of Virtual Machines.
+</end course description for 11-775 TBA>

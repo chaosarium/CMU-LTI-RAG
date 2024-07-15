@@ -1,0 +1,16 @@
+<start course metadata for 54-287 Introduction to Lighting Design Skills>
+Semester: Spring 2024 (aka S24)
+Course Name: Introduction to Lighting Design Skills
+Course Number: 54-287
+Department: Drama
+Number of Units: 3
+Prerequisites: None
+Instructors: Robert Thomson
+Rooms: PCA 211
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-287 Introduction to Lighting Design Skills>
+
+<start course description for 54-287 Introduction to Lighting Design Skills>
+Semester: Spring 2024 (aka S24)
+Course Description: Students will gain the basic skills and practical experience to use the lighting industry's primary software programs: Vectorworks and Lightwright.  The class will be seminar based and allow focused opportunity to acquire the skills to execute some of the assignments in the Introduction to Lighting Design course. This course must be taken simultaneously with Introduction to Lighting Design (54-252).
+</end course description for 54-287 Introduction to Lighting Design Skills>

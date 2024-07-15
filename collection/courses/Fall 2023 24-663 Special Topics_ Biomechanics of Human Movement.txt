@@ -1,0 +1,16 @@
+<start course metadata for 24-663 Special Topics: Biomechanics of Human Movement>
+Semester: Fall 2023 (aka F23)
+Course Name: Special Topics: Biomechanics of Human Movement
+Course Number: 24-663
+Department: Mechanical Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Eni Halilaj
+Rooms: GHC 4301
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-663 Special Topics: Biomechanics of Human Movement>
+
+<start course description for 24-663 Special Topics: Biomechanics of Human Movement>
+Semester: Fall 2023 (aka F23)
+Course Description: This course provides an overview of the mechanical principles underlying human movement biomechanics and the experimental and modeling techniques used to study it. Specific topics will include locomotion, motion capture systems, force plates, muscle mechanics, musculoskeletal modeling, three dimensional kinematics, inverse dynamics, forward dynamic simulations, and imaging-based biomechanics. Homework and final class projects will emphasize applications of movement biomechanics in orthopedics, rehabilitation, and sports.  ***Students are expected to have knowledge of ordinary differential equations and rigid body dynamics at the level of 24-351.***
+</end course description for 24-663 Special Topics: Biomechanics of Human Movement>

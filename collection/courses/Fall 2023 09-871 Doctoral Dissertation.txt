@@ -1,0 +1,16 @@
+<start course metadata for 09-871 Doctoral Dissertation>
+Semester: Fall 2023 (aka F23)
+Course Name: Doctoral Dissertation
+Course Number: 09-871
+Department: Chemistry
+Number of Units: 5
+Prerequisites: None
+Instructors: Kevin Noonan
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 09-871 Doctoral Dissertation>
+
+<start course description for 09-871 Doctoral Dissertation>
+Semester: Fall 2023 (aka F23)
+Course Description: None
+</end course description for 09-871 Doctoral Dissertation>

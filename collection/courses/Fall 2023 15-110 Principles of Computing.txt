@@ -1,0 +1,16 @@
+<start course metadata for 15-110 Principles of Computing>
+Semester: Fall 2023 (aka F23)
+Course Name: Principles of Computing
+Course Number: 15-110
+Department: Computer Science
+Number of Units: 10
+Prerequisites: None
+Instructors: Anne Kohlbrenner, Kelly Rivers
+Rooms: HOA 160
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-110 Principles of Computing>
+
+<start course description for 15-110 Principles of Computing>
+Semester: Fall 2023 (aka F23)
+Course Description: A course in fundamental computing principles for students with minimal or no  computing background. Programming constructs: sequencing, selection,  iteration, and recursion. Data organization: arrays and lists. Use of  abstraction in computing: data representation, computer organization,  computer networks, functional decomposition, and application programming  interfaces. Use of computational principles in problem-solving: divide and conquer, randomness, and concurrency. Classification of computational problems  based on complexity, non-computable functions, and using heuristics to  find reasonable solutions to complex problems. Social, ethical and legal  issues associated with the development of new computational artifacts will  also be discussed.
+</end course description for 15-110 Principles of Computing>

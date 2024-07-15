@@ -1,0 +1,16 @@
+<start course metadata for 48-641 History of Modern Architecture>
+Semester: Spring 2024 (aka S24)
+Course Name: History of Modern Architecture
+Course Number: 48-641
+Department: Architecture
+Number of Units: N/A
+Prerequisites: None
+Instructors: Kai Gutschow
+Rooms: MM A14
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-641 History of Modern Architecture>
+
+<start course description for 48-641 History of Modern Architecture>
+Semester: Spring 2024 (aka S24)
+Course Description: This course investigates the global history of modern architecture and theory across the 20th century. We ask critical questions about the canon, the changing nature of history and theory, the biases embedded in terms like "modernism," "progress," and "Non-Western," and the deep legacies of colonialism, globalization, extractivism, and capitalism in which modern architecture so actively participated. The course loosely works backward in time to explore major movements and monuments of the Euro-American avant-garde and so-called "heroes" of modernism, but also diverse responses to modernity, including popular, tropical, vernacular, indigenous, and even anti-architecture around the world, including increasingly the Global South. The course content changes slightly every year to acknowledge the evolving understanding of the subject, but also to keep up with changes in architectural education, the discipline of architectural history, and professional practice, as well as changes in global culture, social context, and our student aspirations.
+</end course description for 48-641 History of Modern Architecture>

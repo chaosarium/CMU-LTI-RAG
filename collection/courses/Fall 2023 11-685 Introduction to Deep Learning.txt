@@ -1,0 +1,16 @@
+<start course metadata for 11-685 Introduction to Deep Learning>
+Semester: Fall 2023 (aka F23)
+Course Name: Introduction to Deep Learning
+Course Number: 11-685
+Department: Language Technologies Institute
+Number of Units: 12
+Prerequisites: None
+Instructors: Bhiksha Ramakrishnan, Rita Singh
+Rooms: BH A51
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 11-685 Introduction to Deep Learning>
+
+<start course description for 11-685 Introduction to Deep Learning>
+Semester: Fall 2023 (aka F23)
+Course Description: Deep learning is a subfield of AI that has lately taken the world by storm. Deep learning systems have been shown to able to recognize speech almost as well as humans, recognize images better than humans, read the web and answer questions, learn on their own to play games, beat humans at the toughest games like go and even speak more clearly than a human can. Deep learning currently dominates research in a variety of scientific areas, including text and language processing, data mining, speech processing, computer vision, robotics, and AI. Deep learning based products and services dominate the market in many areas. Whether youre using Google or social media, buying a plane ticket, browsing an online retailer, investing in stocks, or hailing an Uber, you are interacting with a deep learning system. Knowledge of deep learning is considered a valuable asset, and sometimes even essential, in the employment market. So what exactly is this mysterious beast? In this course we will study the basics of deep learning systems, starting from their humble beginnings as attempts to understand human cognition, their adolescence as artificial neural networks, leading on to the current complex systems that can perform astounding tasks. Students will learn both the underlying principles through a series of 13 lectures, and to actually implement and manipulate these systems for various tasks through a series of lab exercises.
+</end course description for 11-685 Introduction to Deep Learning>

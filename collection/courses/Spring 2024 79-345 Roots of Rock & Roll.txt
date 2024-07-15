@@ -1,0 +1,16 @@
+<start course metadata for 79-345 Roots of Rock & Roll>
+Semester: Spring 2024 (aka S24)
+Course Name: Roots of Rock & Roll
+Course Number: 79-345
+Department: History
+Number of Units: 9
+Prerequisites: None
+Instructors: Scott Sandage
+Rooms: PH 100
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 79-345 Roots of Rock & Roll>
+
+<start course description for 79-345 Roots of Rock & Roll>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is about open source, collaborative innovation and the impact of social and technological change on American music. We will spend the first half on early "remix" music (slave songs, Anglo-Appalachian ballads, ragtime, and Depression era blues and country). After studying Bessie Smith, Woody Guthrie, Lead Belly, Hank Williams, and other early artists, we'll spend the second half on revolutionaries like Chuck Berry, Bob Dylan, Jimi Hendrix, and Janis Joplin.  The format is informal lecture and discussion. Assignments include reading two books plus some articles, listening to short Spotify playlists, and writing three short essays.  This course fulfills Dietrich College's "The Arts" general education requirement.
+</end course description for 79-345 Roots of Rock & Roll>

@@ -1,0 +1,16 @@
+<start course metadata for 45-745 Ethics and Leadership>
+Semester: Fall 2023 (aka F23)
+Course Name: Ethics and Leadership
+Course Number: 45-745
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Tae Wan Kim
+Rooms: TEP 2112
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-745 Ethics and Leadership>
+
+<start course description for 45-745 Ethics and Leadership>
+Semester: Fall 2023 (aka F23)
+Course Description: This course introduces you to important ethical problems that you may face in contemporary business. ¿In particular, it is intended to bring up difficult ethical challenges and dilemmas, and to offer credible decision-making frameworks for coping with those challenges.  Many of these challenges will involve justifying one's position to those in disagreement.  To this end, the course emphasizes articulating reasoned arguments.  It is neither intended to preach the esoteric wisdom of moral philosophers, nor convert sinners into moral saints.  It is rather designed to assist you learn common patterns of success and failure. ¿It is intended to give you the opportunity to reflect on your own values as they apply to the job of the leader.  Class sessions will primarily consist of games, collaborative case discussions, and explorations of theoretical frameworks for interpreting ethical challenges.
+</end course description for 45-745 Ethics and Leadership>

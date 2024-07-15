@@ -1,0 +1,16 @@
+<start course metadata for 36-202 Methods for Statistics & Data Science>
+Semester: Spring 2024 (aka S24)
+Course Name: Methods for Statistics & Data Science
+Course Number: 36-202
+Department: Statistics and Data Science
+Number of Units: 9
+Prerequisites: 36-200 or 36-247 or 36-220 or 70-207 or 36-207
+Instructors: Gordon Weinberg
+Rooms: GHC 4401
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 36-202 Methods for Statistics & Data Science>
+
+<start course description for 36-202 Methods for Statistics & Data Science>
+Semester: Spring 2024 (aka S24)
+Course Description: This course builds on the principles and methods of statistical reasoning that were developed in a first-semester intro statistics course, and will cover regression analysis (simple and multiple), logistic regression, one-way analysis of variance, and some elementary machine learning topics.  The course will revisit in more detail the methods for examining the relationship between two variables and will also expand the methods to cases where there is more than one explanatory variable.  The course includes an introduction to the R studio statistical programming environment (through labs and homeworks).  Skills in course methodology, concepts, and data scientific verbal expression will be synthesized in two written data analysis projects.  Students produce and engage with an array of representations in R of descriptions, displays, models, and predictions, of real data.  In each lab as well as on all homeworks and projects, data is explored, described, and modeled using R.  Coding skills relevant to the course are developed from the ground up.  In addition to relevant statistical and machine learning applications, students practice some elementary data cleaning, learn and experience the importance of reproducibility, and are introduced to the importance of commenting code.  Issues of model selection, and the danger and issues of overfitting, are covered in a variety of contexts.  Issues involving algorithmic bias and data ethics are also discussed.
+</end course description for 36-202 Methods for Statistics & Data Science>

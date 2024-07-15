@@ -1,0 +1,16 @@
+<start course metadata for 42-899 M.S. Research Final Report>
+Semester: Spring 2024 (aka S24)
+Course Name: M.S. Research Final Report
+Course Number: 42-899
+Department: Biomedical Engineering
+Number of Units: 0
+Prerequisites: None
+Instructors: Maryia Rakach
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 42-899 M.S. Research Final Report>
+
+<start course description for 42-899 M.S. Research Final Report>
+Semester: Spring 2024 (aka S24)
+Course Description: None
+</end course description for 42-899 M.S. Research Final Report>

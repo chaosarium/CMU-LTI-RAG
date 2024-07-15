@@ -1,0 +1,16 @@
+<start course metadata for 98-000 Student Taught Courses (StuCo): Teaching Practicum>
+Semester: Spring 2024 (aka S24)
+Course Name: Student Taught Courses (StuCo): Teaching Practicum
+Course Number: 98-000
+Department: StuCo (Student Led Courses)
+Number of Units: 3
+Prerequisites: None
+Instructors: Erik Helin, Miriam Wertheimer
+Rooms: DNM DNM
+Locations: Doha, Qatar; Pittsburgh, Pennsylvania
+</end course metadata for 98-000 Student Taught Courses (StuCo): Teaching Practicum>
+
+<start course description for 98-000 Student Taught Courses (StuCo): Teaching Practicum>
+Semester: Spring 2024 (aka S24)
+Course Description: None
+</end course description for 98-000 Student Taught Courses (StuCo): Teaching Practicum>

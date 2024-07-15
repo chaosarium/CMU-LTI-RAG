@@ -1,0 +1,16 @@
+<start course metadata for 60-254 Intermediate Studio: Photography>
+Semester: Fall 2023 (aka F23)
+Course Name: Intermediate Studio: Photography
+Course Number: 60-254
+Department: Art
+Number of Units: 10
+Prerequisites: None
+Instructors: Kimberly Beck
+Rooms: CFA 318
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 60-254 Intermediate Studio: Photography>
+
+<start course description for 60-254 Intermediate Studio: Photography>
+Semester: Fall 2023 (aka F23)
+Course Description: A photograph captures a moment of time and freezes it in place. In this introductory course, students will reflect on their own lives, capturing people, places and things, through portraiture, interior space, landscape and still lifes. We will consider the formal qualities of light, composition, color, sequencing, editing and print as we take, shape and print our own digital photographs. The course will be framed by field trips, readings, discussions and presentations that look at how artists make photographs.
+</end course description for 60-254 Intermediate Studio: Photography>

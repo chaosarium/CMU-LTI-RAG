@@ -1,0 +1,16 @@
+<start course metadata for 33-776 Introduction to Research II>
+Semester: Spring 2024 (aka S24)
+Course Name: Introduction to Research II
+Course Number: 33-776
+Department: Physics
+Number of Units: 12
+Prerequisites: None
+Instructors: Markus Deserno
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 33-776 Introduction to Research II>
+
+<start course description for 33-776 Introduction to Research II>
+Semester: Spring 2024 (aka S24)
+Course Description: Both semesters are designed to give the student opportunity to gain experience in modern experimental techniques either through participation in research laboratories or through formal instruction, depending on the student's background. In the first semester, the student will also learn of the research of the department through lectures by the faculty on their work. All students are required to take the first semester, but those with post-graduate or unusual laboratory experience may not be required to take the second. However, it should be noted that for the M.S. degree, 12 units of laboratory are required.
+</end course description for 33-776 Introduction to Research II>

@@ -1,0 +1,16 @@
+<start course metadata for 80-234 Race, Gender, and Justice>
+Semester: Spring 2024 (aka S24)
+Course Name: Race, Gender, and Justice
+Course Number: 80-234
+Department: Philosophy
+Number of Units: 9
+Prerequisites: None
+Instructors: Danielle Wenner
+Rooms: PH A22
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 80-234 Race, Gender, and Justice>
+
+<start course description for 80-234 Race, Gender, and Justice>
+Semester: Spring 2024 (aka S24)
+Course Description: Race and gender, along with their interfaces and interactions with such other social identities as sexuality, (dis)ability, and class, structure our experience of almost every aspect of our social and political reality. Philosophers approach these kinds of social identities from a variety of perspectives. They ask what these kinds of social categories really are, what they mean for the ways we live our lives and the ways we perceive and understand the world, how they have (mis)informed our theoretical and practical understanding of the nature of justice and political power, and what is owed to those affected by racial and gendered injustice. This course explores these topics, drawing on tools and perspectives from epistemology, ethics, and especially social and political philosophy.
+</end course description for 80-234 Race, Gender, and Justice>

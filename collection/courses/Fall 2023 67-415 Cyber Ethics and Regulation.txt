@@ -1,0 +1,16 @@
+<start course metadata for 67-415 Cyber Ethics and Regulation>
+Semester: Fall 2023 (aka F23)
+Course Name: Cyber Ethics and Regulation
+Course Number: 67-415
+Department: Information Systems Program
+Number of Units: 9
+Prerequisites: None
+Instructors: Chadi Aoun
+Rooms: CMB 2051
+Locations: Doha, Qatar
+</end course metadata for 67-415 Cyber Ethics and Regulation>
+
+<start course description for 67-415 Cyber Ethics and Regulation>
+Semester: Fall 2023 (aka F23)
+Course Description: This course investigates the ethical and regulatory implications of technology by adopting a four-dimensional framework focused on Privacy, Accuracy, Property, and Accessibility (PAPA Framework. It examines legal rights and corresponding duties and responsibilities of stakeholders. The course delves into established and emergent themes including cyber law, surveillance, dis/misinformation, artificial intelligence, intellectual property, cybersecurity, and organizational policy. Its primary focus is on social, behavioral, and legal implications of technology, assessed from multiple perspectives pertaining to individuals, organisations and societies.
+</end course description for 67-415 Cyber Ethics and Regulation>

@@ -1,0 +1,16 @@
+<start course metadata for 47-800 Microeconomics I>
+Semester: Fall 2023 (aka F23)
+Course Name: Microeconomics I
+Course Number: 47-800
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Stephen Spear
+Rooms: TEP 5219
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 47-800 Microeconomics I>
+
+<start course description for 47-800 Microeconomics I>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is the first course in the core micro sequence of the economics PhD program. It is an introduction to microeconomic theory and concerns the behavior of individual consumers and firms in competitive settings. The specific topics to be covered are preference and choice, optimization theory, consumer theory, producer theory, choice under uncertainty and general equilibrium. The course is intended to teach students the foundations of formal economic analysis in these areas. Emphasis is on precise statements and proofs of some basic propositions in economics. The treatment of the topics will be fairly mathematical and presumes knowledge of linear algebra, optimization, multivariate calculus and some real analysis. At the end of the course, students should be able to (i) understand theories and concepts in consumer and producer theory, (ii) develop analytical and problem solving skills regarding the analysis of the topics covered.
+</end course description for 47-800 Microeconomics I>

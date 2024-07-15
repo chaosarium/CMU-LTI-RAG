@@ -1,0 +1,16 @@
+<start course metadata for 36-490 Undergraduate Research>
+Semester: Spring 2024 (aka S24)
+Course Name: Undergraduate Research
+Course Number: 36-490
+Department: Statistics and Data Science
+Number of Units: 9
+Prerequisites: None
+Instructors: Joel Greenhouse, Zachary Branson
+Rooms: PH 226A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 36-490 Undergraduate Research>
+
+<start course description for 36-490 Undergraduate Research>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is designed to give undergraduate students experience using statistics in real research problems. Small groups of students will be matched with clients and do supervised research for a semester.  Students will gain skills in approaching a research problem, critical thinking, statistical analysis, scientific writing, and conveying and defending their results to an audience.
+</end course description for 36-490 Undergraduate Research>

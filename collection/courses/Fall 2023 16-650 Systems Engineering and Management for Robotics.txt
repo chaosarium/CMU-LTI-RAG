@@ -1,0 +1,16 @@
+<start course metadata for 16-650 Systems Engineering and Management for Robotics>
+Semester: Fall 2023 (aka F23)
+Course Name: Systems Engineering and Management for Robotics
+Course Number: 16-650
+Department: Robotics
+Number of Units: 12
+Prerequisites: None
+Instructors: Dimitrios Apostolopoulos
+Rooms: NSH 1305
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 16-650 Systems Engineering and Management for Robotics>
+
+<start course description for 16-650 Systems Engineering and Management for Robotics>
+Semester: Fall 2023 (aka F23)
+Course Description: Required core course for MRSD first-year students. This course consists of two parts: In the first part we study the fundamentals of systems engineering as they apply to the development of robotic systems. Systems Engineering is a formal discipline that guides a product from conception and design all the way to production, marketing, servicing, and disposal. The higher the complexity of the system, the more its creators benefit from applying formal processes such as Systems Engineering to its development. Topics in Systems Engineering covered in this course include needs and objectives analysis, requirements elicitation and formalization, system architecture development, trade studies, verification and validation, structured methodologies, etc. In the second part of this course we study key concepts of Project Management that must be performed along with Systems Engineering to achieve a successful project and product in a finite time period. For the Project Management portion of the course we cover topics such as work breakdown structures, scheduling, estimation, risk management, and agile methods.  This course is for MRSD students, and they will apply the concepts and methods they learn in this course to the MRSD Project Course I and II, thus giving them the opportunity to put the theory in practice in a requirements-driven robotic system development.
+</end course description for 16-650 Systems Engineering and Management for Robotics>

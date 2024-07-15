@@ -1,0 +1,16 @@
+<start course metadata for 14-782 Information Security Management>
+Semester: Spring 2024 (aka S24)
+Course Name: Information Security Management
+Course Number: 14-782
+Department: Information Networking Institute
+Number of Units: 6
+Prerequisites: None
+Instructors: Brett Tucker
+Rooms: HBH A301
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 14-782 Information Security Management>
+
+<start course description for 14-782 Information Security Management>
+Semester: Spring 2024 (aka S24)
+Course Description: This course and its follow-on Information Security Risk Management II (14-784) examine information security as a risk management problem where the organization identifies information security risks, evaluates those risks, and makes risk mitigation and acceptance decisions given its resource constraints.  In part one of this class students will learn foundational concepts in risk management and economic valuation and will be introduced standard risk management approaches for identifying, analyzing, and responding to risk, as well as the analytical tools for calculating the costs and benefits of investment security decisions.  Learning Objectives: * Understand and use security risk management terminology * Understand and apply tools for evaluating decisions under uncertainty * Develop critical thinking and evaluation * Demonstrate basic proficiency in qualitative and quantitative risk analysis methods (OCTAVE, FAIR) * Understand and explain risk responses, including risk transfer and insurance
+</end course description for 14-782 Information Security Management>

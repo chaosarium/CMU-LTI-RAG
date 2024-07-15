@@ -1,0 +1,16 @@
+<start course metadata for 57-222 French Diction>
+Semester: Fall 2023 (aka F23)
+Course Name: French Diction
+Course Number: 57-222
+Department: Music
+Number of Units: 3
+Prerequisites: None
+Instructors: Jocelyn Dueck
+Rooms: CFA M160
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-222 French Diction>
+
+<start course description for 57-222 French Diction>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is designed primarily for singers specializing in French Art Songs of the 19th and 20th centuries.  It deals with the use of the International Phonetic Alphabet, its application to singing in French, the use of the liason and the preparation of the text of a song or aria.  One-third of the course is theory and two-thirds of the course is spent on application by performance with piano accompaniment.
+</end course description for 57-222 French Diction>

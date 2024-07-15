@@ -1,0 +1,16 @@
+<start course metadata for 06-685 Bioseparations and Bioprocess Analytical Technologies>
+Semester: Spring 2024 (aka S24)
+Course Name: Bioseparations and Bioprocess Analytical Technologies
+Course Number: 06-685
+Department: Chemical Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Jim Schneider
+Rooms: DH 1117
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 06-685 Bioseparations and Bioprocess Analytical Technologies>
+
+<start course description for 06-685 Bioseparations and Bioprocess Analytical Technologies>
+Semester: Spring 2024 (aka S24)
+Course Description: This course gives an introduction to key principles of bioseparations and process analytical technologies relevant to the manufacture of biopharmaceuticals. Transport modeling principles are applied to sedimentation/centrifugation, flocculation, and filtration of antibodies and plasmid DNA from raw cell culture. Polishing methods such as Protein A chromatography and size-exclusion chromatography are a particular focus. Chemical means to graft affinity ligands to commercial media are discussed along with in-line spectroscopic techniques. A molecular-level basis of light absorbance and fluorescence is established and the selection and conjugation of fluorophores to biomolecules of interest is presented. Means to assess the state of antibody aggregation and the proper folding of protein-based therapeutics are covered in the context of spectroscopic identification. Finally, the course will provide an overview of the diverse metrics needed for analysis of biomacromolecules as well as the variety of techniques used to analyze quality of produced materials by comparing cost, speed, accuracy and precision.
+</end course description for 06-685 Bioseparations and Bioprocess Analytical Technologies>

@@ -1,0 +1,16 @@
+<start course metadata for 49-741 Integrated Product Development>
+Semester: Spring 2024 (aka S24)
+Course Name: Integrated Product Development
+Course Number: 49-741
+Department: Integrated Innovation Institute
+Number of Units: 12
+Prerequisites: 49-740
+Instructors: Brandon Bodily, Ellen Ayoob, Peter Boatwright
+Rooms: CA 115
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 49-741 Integrated Product Development>
+
+<start course description for 49-741 Integrated Product Development>
+Semester: Spring 2024 (aka S24)
+Course Description: During capstone, Interdisciplinary teams of MIIPS students from engineering, business, and design backgrounds use methods and innovative mindsets to research the needs, wants and desires of a market opportunity, define product specifications, conceptualize products to meet the users' needs and desires and refine the most promising concept. The result is a resolved form, functional design, and marketing plan delivered to a sponsor by the end of the semester. The course also focuses on communicating about the work through multiple presentations and reports. This is a required course in the MIIPS degree program.
+</end course description for 49-741 Integrated Product Development>

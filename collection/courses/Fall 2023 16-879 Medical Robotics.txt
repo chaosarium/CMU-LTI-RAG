@@ -1,0 +1,16 @@
+<start course metadata for 16-879 Medical Robotics>
+Semester: Fall 2023 (aka F23)
+Course Name: Medical Robotics
+Course Number: 16-879
+Department: Robotics
+Number of Units: 12
+Prerequisites: None
+Instructors: Cameron Riviere
+Rooms: WEH 2302
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 16-879 Medical Robotics>
+
+<start course description for 16-879 Medical Robotics>
+Semester: Fall 2023 (aka F23)
+Course Description: This course presents an overview of medical robotics intended for graduate students and advanced undergraduates.  Topics include robot kinematics, registration, navigation, tracking, treatment planning, and technical and medical aspects of specific applications.  The course will include guest lectures from robotics researchers and surgeons, as well as observation of surgical cases.  The course is open to non-majors who have the requisite background.
+</end course description for 16-879 Medical Robotics>

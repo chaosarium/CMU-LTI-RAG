@@ -1,0 +1,16 @@
+<start course metadata for 51-703 Graduate Design Colloquium>
+Semester: Fall 2023 (aka F23)
+Course Name: Graduate Design Colloquium
+Course Number: 51-703
+Department: Design
+Number of Units: 3
+Prerequisites: None
+Instructors: Stacie Rohrbach
+Rooms: MM 107
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-703 Graduate Design Colloquium>
+
+<start course description for 51-703 Graduate Design Colloquium>
+Semester: Fall 2023 (aka F23)
+Course Description: This seminar exposes students to the emergent issues in the research and practice of Design through weekly discussions with individual faculty members. The seminar also serves as a broad overview of research topics students may pursue in their second year thesis project. This course is intended for MDES students; all other students by permission of the instructor.
+</end course description for 51-703 Graduate Design Colloquium>

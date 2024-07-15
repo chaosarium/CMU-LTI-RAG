@@ -1,0 +1,16 @@
+<start course metadata for 14-760 Advanced Real-World Data Networks>
+Semester: Spring 2024 (aka S24)
+Course Name: Advanced Real-World Data Networks
+Course Number: 14-760
+Department: Information Networking Institute
+Number of Units: 12
+Prerequisites: 15-641 or 18-441 or 18-741 or 14-740
+Instructors: Pedro Bustamante
+Rooms: B23 118; CIC 1201
+Locations: Pittsburgh, Pennsylvania; San Jose, California
+</end course metadata for 14-760 Advanced Real-World Data Networks>
+
+<start course description for 14-760 Advanced Real-World Data Networks>
+Semester: Spring 2024 (aka S24)
+Course Description: This course might be described as "Communications and Networking in the field". Building upon an understanding of networking fundamentals, this course studies advanced concepts of telecommunications networks. This course explores the design and implementation of the network architecture and management services that compose modern and emerging network infrastructure. Topics include network configurations (DHCP, NAT, IPv6, routing, and forwarding), network emulation and simulation, network modeling and measurements, virtual networks, data center networks, wireless communications (including satellite, modern wireless at small- and -large scale, mesh, etc.), Software-Defined Networks, Network Function Virtualization, etc.  In successfully completing this course, students will have the opportunity to design, deploy, and configure network devices in real-world (simulated) scenarios. In addition, students will have the opportunity to develop and code custom network applications to better analyze network protocols.
+</end course description for 14-760 Advanced Real-World Data Networks>

@@ -1,0 +1,16 @@
+<start course metadata for 57-774 Vocal Pedagogy I>
+Semester: Fall 2023 (aka F23)
+Course Name: Vocal Pedagogy I
+Course Number: 57-774
+Department: Music
+Number of Units: 6
+Prerequisites: None
+Instructors: Jennifer Aylmer
+Rooms: CFA M157
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-774 Vocal Pedagogy I>
+
+<start course description for 57-774 Vocal Pedagogy I>
+Semester: Fall 2023 (aka F23)
+Course Description: This course introduces students to vocal pedagogy, including a historical overview of the great pedagogues and the study of vocal physiology and anatomy. In addition, we will be studying posture and respiration as it pertains to singing, and hold discussions regarding the "voice science" aspect of vocal pedagogy and how it may play a part in furthering our understanding of vocal technique.
+</end course description for 57-774 Vocal Pedagogy I>

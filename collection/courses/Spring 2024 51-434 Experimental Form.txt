@@ -1,0 +1,16 @@
+<start course metadata for 51-434 Experimental Form>
+Semester: Spring 2024 (aka S24)
+Course Name: Experimental Form
+Course Number: 51-434
+Department: Design
+Number of Units: 9
+Prerequisites: 51-311 or 51-343 or 51-248
+Instructors: Mark Baskinger
+Rooms: MM 107
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-434 Experimental Form>
+
+<start course description for 51-434 Experimental Form>
+Semester: Spring 2024 (aka S24)
+Course Description: The Experimental Form Studio looks broadly at the discipline of industrial design with an emphasis on creating new paradigms for interactive objects. This course encourages an exploratory study of physical objects and artifacts and provides a creative and intellectual forum to re-imagine our relationship with objects. Each independently-themed project presents opportunities to consider embedded mechanics and technology, objects as interactive media, and experience-driven design. Experimental Form, at its most basic, is a process that blends play and inquiry in an open-ended way finding the unexpected through tinkering and trying something you don't quite know how to do, guided by imagination, curiosity, and a disciplinary skillset. In this sense, Experimental Form complements the core Product Design Studio sequence by providing a playground for intellectual discourse, experimental trial and error, and refining individual processes for designing.
+</end course description for 51-434 Experimental Form>

@@ -1,0 +1,16 @@
+<start course metadata for 16-350 Planning Techniques for Robotics>
+Semester: Spring 2024 (aka S24)
+Course Name: Planning Techniques for Robotics
+Course Number: 16-350
+Department: Robotics
+Number of Units: 12
+Prerequisites: None
+Instructors: Maxim Likhachev
+Rooms: NSH 3002
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 16-350 Planning Techniques for Robotics>
+
+<start course description for 16-350 Planning Techniques for Robotics>
+Semester: Spring 2024 (aka S24)
+Course Description: Planning is one of the core components that enable robots to be autonomous. Robot planning is responsible for deciding in real-time what should the robot do next, how to do it, where should the robot move next and how to move there. This class does an in-depth study of popular planning techniques in robotics and examines their use in ground and aerial robots, humanoids, mobile manipulation platforms and multi-robot systems. The students learn the theory of these methods and also implement them in a series of programming-based projects.   To take the class students should have taken an Intro to Robotics class and have a good knowledge of programming and data structures.
+</end course description for 16-350 Planning Techniques for Robotics>

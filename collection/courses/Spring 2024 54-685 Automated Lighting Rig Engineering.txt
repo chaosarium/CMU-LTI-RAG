@@ -1,0 +1,16 @@
+<start course metadata for 54-685 Automated Lighting Rig Engineering>
+Semester: Spring 2024 (aka S24)
+Course Name: Automated Lighting Rig Engineering
+Course Number: 54-685
+Department: Drama
+Number of Units: 6
+Prerequisites: None
+Instructors: C. Todd Brown
+Rooms: PCA A16
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-685 Automated Lighting Rig Engineering>
+
+<start course description for 54-685 Automated Lighting Rig Engineering>
+Semester: Spring 2024 (aka S24)
+Course Description: Students continue to develop technical drawing and engineering skills while completing the decision-making process for the implementation of a concert lighting rig.
+</end course description for 54-685 Automated Lighting Rig Engineering>

@@ -1,0 +1,16 @@
+<start course metadata for 03-763 Advanced Systems Neuroscience>
+Semester: Spring 2024 (aka S24)
+Course Name: Advanced Systems Neuroscience
+Course Number: 03-763
+Department: Biological Sciences
+Number of Units: 12
+Prerequisites: 03-121 or 03-151 or 03-362 or 03-762
+Instructors: Eric Yttri
+Rooms: DH 1212
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 03-763 Advanced Systems Neuroscience>
+
+<start course description for 03-763 Advanced Systems Neuroscience>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is a graduate version of 03-363.  Students will attend the same lectures as the students in 03-363, plus an additional once weekly meeting.  In this meeting, topics covered in the lectures will be addressed in greater depth, often through discussions of papers from the primary literature.  Students will read and be expected to have an in depth understanding of several classic papers from the literature as well as current papers that illustrate cutting edge approaches to systems neuroscience or important new concepts.  Use of animals as research model systems will also be discussed.  Performance in this portion of the class will be assessed by supplemental exam questions as well as by additional homework assignments.
+</end course description for 03-763 Advanced Systems Neuroscience>

@@ -1,0 +1,16 @@
+<start course metadata for 46-929 Financial Time Series Analysis>
+Semester: Spring 2024 (aka S24)
+Course Name: Financial Time Series Analysis
+Course Number: 46-929
+Department: Business Administration
+Number of Units: 6
+Prerequisites: 46-921 and 46-923 and 46-926
+Instructors: Arun Kuchibhotla
+Rooms: BRD 507; TCS 250
+Locations: New York, New York; Pittsburgh, Pennsylvania
+</end course metadata for 46-929 Financial Time Series Analysis>
+
+<start course description for 46-929 Financial Time Series Analysis>
+Semester: Spring 2024 (aka S24)
+Course Description: This course introduces time series methodology to the MSCF students. Emphasis will be placed on basic time series models (AR, MA, ARMA and ARIMA) and their use in financial applications, including forecasting and the development of quantitative trading strategies. Topics studied in this course include univariate forecasting, seasonality, model identification and diagnostics. In addition, GARCH and stochastic volatility modeling will be covered as will state space models and Kalman filtering.   Multivariate time series and cointegration will be introduced along with their application to trading strategies.
+</end course description for 46-929 Financial Time Series Analysis>

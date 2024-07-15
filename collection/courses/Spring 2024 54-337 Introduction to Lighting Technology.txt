@@ -1,0 +1,16 @@
+<start course metadata for 54-337 Introduction to Lighting Technology>
+Semester: Spring 2024 (aka S24)
+Course Name: Introduction to Lighting Technology
+Course Number: 54-337
+Department: Drama
+Number of Units: 6
+Prerequisites: None
+Instructors: C. Todd Brown
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-337 Introduction to Lighting Technology>
+
+<start course description for 54-337 Introduction to Lighting Technology>
+Semester: Spring 2024 (aka S24)
+Course Description: Introduction to Entertainment Lighting Technology provides students with an overview of lighting equipment and software used in entertainment production.  Topics include automated fixtures, console programming and pre-visualization software.
+</end course description for 54-337 Introduction to Lighting Technology>

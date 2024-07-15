@@ -1,0 +1,16 @@
+<start course metadata for 16-730 Robotics Business>
+Semester: Spring 2024 (aka S24)
+Course Name: Robotics Business
+Course Number: 16-730
+Department: Robotics
+Number of Units: 12
+Prerequisites: None
+Instructors: David Bourne
+Rooms: NSH 3002
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 16-730 Robotics Business>
+
+<start course description for 16-730 Robotics Business>
+Semester: Spring 2024 (aka S24)
+Course Description: This course introduces and develops business concepts that will be useful to new and existing companies, while focusing on robotic technology exemplars.  The concepts begin with how to identify a new idea to for a business that can be effectively started.  Initial ideas often start as a grandiose plan to change the world and these plans are legitimately the fuel that drive new businesses forward.  However, when a company starts (e.g., builds a prototype or writes a  first line of code), what is the least product a company can produce that customers still want and need?  This kernel -- extracted from the "big plan"-- is a Minimal Viable Product (MVP).   Once an MVP business kernel is formulated, we will learn and study how to understand customer needs, how to market a new idea and how raise and manage money for a new business entity.  These steps abridge information that can be found in an MBA curriculum, but engineers and scientists focused on the technical side will need this information to participate in the process of building companies.  In parallel, we will investigate the marketplace through the stock market.  The stock market is a powerful window into the world of business.  In other words, when a new business is built it has to live inside the competitive environment of every other business.  To understand this eco-system, we will follow several companies in-situ as they go through their own ups-and-downs within the business world.  The course is project based.  Each student will either build their own business concept,  or they will build an improvement plan that would be targeted to improve an existing business.  Professor Bourne is a founding member of the Robotics Institute(1979) and has taught business concepts within the Tepper Business School and the Robotics Institute since 1988.  In addition, he is the President of his own company Design One Software.
+</end course description for 16-730 Robotics Business>

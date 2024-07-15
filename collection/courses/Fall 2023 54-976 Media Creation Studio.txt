@@ -1,0 +1,16 @@
+<start course metadata for 54-976 Media Creation Studio>
+Semester: Fall 2023 (aka F23)
+Course Name: Media Creation Studio
+Course Number: 54-976
+Department: Drama
+Number of Units: 7
+Prerequisites: None
+Instructors: Nica Ross
+Rooms: MEL 104
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-976 Media Creation Studio>
+
+<start course description for 54-976 Media Creation Studio>
+Semester: Fall 2023 (aka F23)
+Course Description: This class will strengthen the student's video content creation process while centering conceptual strength in video design for live applications. Skills taught will focus on workflows and best practices for creating media content for live performance context. Tools and skills taught include FFMPEG transcoding, video generation via Touchdesigner, Advanced Millumin and NDI workflows. This intensive workshop style class's corequisite is the course Expanded Theater. This pairing will allow students to apply the skills acquired in this class to multiple collaborative and live mediated projects. Class time will be reserved for technical lectures/demonstrations. The majority of work associated with project assignments will take place in the corequisite Expanded Theater.
+</end course description for 54-976 Media Creation Studio>

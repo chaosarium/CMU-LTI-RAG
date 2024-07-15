@@ -1,0 +1,16 @@
+<start course metadata for 54-400 Staging Media- Immersive Edition>
+Semester: Spring 2024 (aka S24)
+Course Name: Staging Media- Immersive Edition
+Course Number: 54-400
+Department: Drama
+Number of Units: 9
+Prerequisites: None
+Instructors: Lawrence Shea
+Rooms: MEL 102
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-400 Staging Media- Immersive Edition>
+
+<start course description for 54-400 Staging Media- Immersive Edition>
+Semester: Spring 2024 (aka S24)
+Course Description: Are you interested in learning advanced media design skills and creating a multi-room immersive science-fiction experience?   Staging Media is a practical, process-oriented class, focused on building the skills to go from a conceptual design to an actual completed event. This semester will be structured around creating a science fiction themed, immersive experience at the 477 Melwood building off campus.  Class projects will explore different kinds of immersion, looking at the spectrum from a really engrossing novel on one end, to the sensory overload of Omega Mart/Meow Wolf, or the sensory "capture" of VR systems on the other. Students will work with different technologies and media systems in ways that support these various levels of audience experience.  We will read interviews and learn strategies from immersive theater companies such as Non Zero One, Punchdrunk, Blast Theory and others. And we will also read several short stories, parts of novels, and screen a few films in the Melwood screening room's 4K theater, as research and inspiration.  Students will use multiple industry standard software systems as they design and build the experience, including Cinema4D, Vectorworks, TouchDesigner, Max/MSP/Jitter, and Unity/Unreal. Prior experience with some of these tools is preferred, but students will also be exposed to workshops and tutorials, and gain practical experience by learning in a project based manner. Visiting artists from the entertainment industry will open the class to their experiences and professional workflows.
+</end course description for 54-400 Staging Media- Immersive Edition>

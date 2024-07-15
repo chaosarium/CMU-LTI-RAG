@@ -1,0 +1,16 @@
+<start course metadata for 18-866 Off-Grid Electricity Systems>
+Semester: Spring 2024 (aka S24)
+Course Name: Off-Grid Electricity Systems
+Course Number: 18-866
+Department: Electrical & Computer Engineering
+Number of Units: 6
+Prerequisites: None
+Instructors: Barry Rawn
+Rooms: CMR F309; POS 147
+Locations: Kigali, Rwanda; Pittsburgh, Pennsylvania
+</end course metadata for 18-866 Off-Grid Electricity Systems>
+
+<start course description for 18-866 Off-Grid Electricity Systems>
+Semester: Spring 2024 (aka S24)
+Course Description: Over one billion people in the world still lack access to electricity, many of them out of reach of the electricity grid in the near term. This course will explore the technologies and architectures used to provide electricity services in off-grid regions of the developing world. Basic system design principles will be discussed and applied. Students will use energy modeling software to characterize the performance and economic viability of off-grid electricity systems. In addition to studying off-grid technologies, the course will also explore the context in which these systems are deployed and their role in enabling development.
+</end course description for 18-866 Off-Grid Electricity Systems>

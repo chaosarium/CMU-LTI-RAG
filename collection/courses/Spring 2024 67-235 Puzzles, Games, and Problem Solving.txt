@@ -1,0 +1,16 @@
+<start course metadata for 67-235 Puzzles, Games, and Problem Solving>
+Semester: Spring 2024 (aka S24)
+Course Name: Puzzles, Games, and Problem Solving
+Course Number: 67-235
+Department: Information Systems Program
+Number of Units: 3
+Prerequisites: None
+Instructors: Raja Sooriamurthi
+Rooms: 
+Locations: Doha, Qatar
+</end course metadata for 67-235 Puzzles, Games, and Problem Solving>
+
+<start course description for 67-235 Puzzles, Games, and Problem Solving>
+Semester: Spring 2024 (aka S24)
+Course Description: Puzzle-based learning (PBL) is a relatively new and model of teaching critical thinking and problem solving. Today¿s market place needs skilled graduates capable of solving real problems of innovation in a changing environment. A learning goal of PBL is to distill domain independent transferable heuristics for tackling problems. While solving puzzles is innately fun, companies such as Google and Yahoo also use puzzles to assess the creative problem solving skills of potential employees. In this micro-course we will examine a range of puzzles and games. What general problem solving strategies can we learn from the way we solve these examples? Students will emerge from this course with enhanced critial and creative thinking skills
+</end course description for 67-235 Puzzles, Games, and Problem Solving>

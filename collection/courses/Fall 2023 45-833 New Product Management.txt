@@ -1,0 +1,16 @@
+<start course metadata for 45-833 New Product Management>
+Semester: Fall 2023 (aka F23)
+Course Name: New Product Management
+Course Number: 45-833
+Department: Business Administration
+Number of Units: 6
+Prerequisites: 45-730
+Instructors: Peter Boatwright
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-833 New Product Management>
+
+<start course description for 45-833 New Product Management>
+Semester: Fall 2023 (aka F23)
+Course Description: The course focuses on the strategy for introduction of new products and services. In particular the course methodologies to enable you to: a) evaluate and value new product projects, b) identify opportunities, c) design and implement a conjoint study to refine and optimize the product, and d) tailor launch marketing plans to the product.
+</end course description for 45-833 New Product Management>

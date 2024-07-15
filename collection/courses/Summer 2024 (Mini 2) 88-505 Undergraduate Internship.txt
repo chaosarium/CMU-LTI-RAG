@@ -1,0 +1,16 @@
+<start course metadata for 88-505 Undergraduate Internship>
+Semester: Summer Two 2024 (aka M24, M24 Mini 2, Summer 2024 Mini 2)
+Course Name: Undergraduate Internship
+Course Number: 88-505
+Department: Social & Decision Sciences
+Number of Units: N/A
+Prerequisites: None
+Instructors: Connie Angermeier
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 88-505 Undergraduate Internship>
+
+<start course description for 88-505 Undergraduate Internship>
+Semester: Summer Two 2024 (aka M24, M24 Mini 2, Summer 2024 Mini 2)
+Course Description: An internship is an approved and monitored work experience than can be related to an academic field of study through active reflection and specific learning goals.  Students must work at least 10 hours per week for the semester at the internship.  Additionally, students will also keep in regular contact with a faculty member in Social and Decision Sciences, who will assign and evaluate academic work.  Internships are available for 1-9 units, depending on the type and amount of academic work produced. Students are responsible for finding their own internships and faculty sponsors, although assistance is available in the department.
+</end course description for 88-505 Undergraduate Internship>

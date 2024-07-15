@@ -1,0 +1,16 @@
+<start course metadata for 16-384 Robot Kinematics and Dynamics>
+Semester: Fall 2023 (aka F23)
+Course Name: Robot Kinematics and Dynamics
+Course Number: 16-384
+Department: Robotics
+Number of Units: 12
+Prerequisites: 15-122 or 18-202 or 24-311 or 21-241 or 16-311
+Instructors: Howie Choset
+Rooms: TEP 1308
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 16-384 Robot Kinematics and Dynamics>
+
+<start course description for 16-384 Robot Kinematics and Dynamics>
+Semester: Fall 2023 (aka F23)
+Course Description: Foundations and principles of robotic kinematics. Topics include transformations, forward kinematics, inverse kinematics, differential kinematics (Jacobians),  manipulability, and basic equations of motion. Course also include programming on robot arms.
+</end course description for 16-384 Robot Kinematics and Dynamics>

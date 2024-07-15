@@ -1,0 +1,16 @@
+<start course metadata for 57-821 Exploded Ensemble>
+Semester: Fall 2023 (aka F23)
+Course Name: Exploded Ensemble
+Course Number: 57-821
+Department: Music
+Number of Units: 6
+Prerequisites: None
+Instructors: Annie Hui-Hsin Hsieh, Jesse Stiles
+Rooms: HL A10A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-821 Exploded Ensemble>
+
+<start course description for 57-821 Exploded Ensemble>
+Semester: Fall 2023 (aka F23)
+Course Description: Exploded Ensemble is a group dedicated to the performance of music that pushes the boundaries of traditional performance and composition.  The ensemble has a strong emphasis on electro-acoustic performance technique, experimental approaches to staging and amplification, and visuals (live video, computer controlled lighting, wearable technology, etc.).   The group will perform works by new/experimental/electro-acoustic composers and will create new arrangements of works for which scores may not currently exist - for example, music by rock bands, electronic musicians, and sound artists.   The overall goal of the ensemble is to explode the idea of traditional concert music performance.  In so doing we shall advance student skills in music performance, music appreciation, and to advance the very important conversation on the future of concert music.  Students interested in this course who have not had the prerequisite should contact the instructors.
+</end course description for 57-821 Exploded Ensemble>

@@ -1,0 +1,16 @@
+<start course metadata for 80-198 Research Training in Philosophy>
+Semester: Spring 2024 (aka S24)
+Course Name: Research Training in Philosophy
+Course Number: 80-198
+Department: Philosophy
+Number of Units: 9
+Prerequisites: None
+Instructors: Christina Bjorndahl
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 80-198 Research Training in Philosophy>
+
+<start course description for 80-198 Research Training in Philosophy>
+Semester: Spring 2024 (aka S24)
+Course Description: The Dietrich College research training program is open to second-semester first-year students and sophomores with a 3.0 QPA or by petition.   It is designed to give eligible and interested students some real research experience working on a faculty project or lab in ways that might stimulate and nurture the students' interest in doing more research.     The projects take the form of a one-semester/9-unit research apprenticeship with a faculty sponsor. Faculty members are expected to meet with the student regularly and provide a grade. The benefit to faculty is some potentially quite useful research assistance, where projects can be broken down into manageable chunks (e.g., literature reviews).  Section B: Prof. Christina Bjorndahl - Speech Production  In this course, students will gain experience running speech production experiments, working closely with the instructor. Students will gain hands-on experience with various stages of the research process, including study design, recruiting and running participants, data collection, and data processing. Depending on student interest and experience, students may also be involved with study design, particularly if they have familiarity with a language other than English. For example, a project being carried out in Spring '24 examines how altering auditory feedback influences speaker production. This experimental paradigm allows for an exploration of speech motor control. The current project is restricted to English, but motivated students may work with the instructor to design a similar study on a language other than English as a way to probe how motor control interfaces with cross-linguistic differences in phonological systems.  Open to more than one student.
+</end course description for 80-198 Research Training in Philosophy>

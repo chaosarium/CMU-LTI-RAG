@@ -1,0 +1,16 @@
+<start course metadata for 12-791 Graduate Project>
+Semester: Spring 2024 (aka S24)
+Course Name: Graduate Project
+Course Number: 12-791
+Department: Civil & Environmental Engineering
+Number of Units: N/A
+Prerequisites: None
+Instructors: Burcu Akinci
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 12-791 Graduate Project>
+
+<start course description for 12-791 Graduate Project>
+Semester: Spring 2024 (aka S24)
+Course Description: Independent investigation and a comprehensive report on a project selected from a major area of study with the advice and approval of the faculty.  Variable units.    Prerequisites: permission of advisor.
+</end course description for 12-791 Graduate Project>

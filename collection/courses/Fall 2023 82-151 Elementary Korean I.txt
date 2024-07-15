@@ -1,0 +1,16 @@
+<start course metadata for 82-151 Elementary Korean I>
+Semester: Fall 2023 (aka F23)
+Course Name: Elementary Korean I
+Course Number: 82-151
+Department: Modern Languages
+Number of Units: 12
+Prerequisites: None
+Instructors: Botagoz Tusmagambet
+Rooms: WEH 6423
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 82-151 Elementary Korean I>
+
+<start course description for 82-151 Elementary Korean I>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is for students with no prior experience in Korean. It emphasizes the development of communicative language proficiency through oral practice, aural comprehension, reading, writing, and the study of cultural aspects of Korean society through the use of authentic materials (e.g., Korean dramas, audio & video materials elicited from L2 Korean learners' conversations). Regular homework, quizzes, tests, presentations, and class participation are mandatory (four in-class hours per week). Necessary assistance to succeed in the class will be provided through rounds of feedback, in/out-of-class rich practices, and resources for individual practices. The elementary level is also designed to help students learn to reflect and draw upon strategies that can be used to achieve learning goals. A student with prior experience in Korean must take the placement exam.
+</end course description for 82-151 Elementary Korean I>

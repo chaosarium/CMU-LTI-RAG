@@ -1,0 +1,16 @@
+<start course metadata for 12-724 Biological Wastewater Treatment>
+Semester: Spring 2024 (aka S24)
+Course Name: Biological Wastewater Treatment
+Course Number: 12-724
+Department: Civil & Environmental Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Joe Moore
+Rooms: PH A7F
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 12-724 Biological Wastewater Treatment>
+
+<start course description for 12-724 Biological Wastewater Treatment>
+Semester: Spring 2024 (aka S24)
+Course Description: The exploitation of microbiological processes for environmental quality control is both historic and emergent. Engineered microbial systems have been used to treat wastewater for over 100 years, and they remain a critical component of modern operations. At the same time, new technologies are emerging to address modern challenges in the remediation and detoxification of hazardous chemicals and recovery of resources from waste. This course connects established principles of microbiology and engineering with empirical observations of complex microbial systems to develop quantitative tools for engineering biological systems. The course includes aerobic and anaerobic treatment perspectives as well as suspended growth and biofilm processes. Concepts are developed from a wastewater perspective but include applications in advanced, nutrient removal and resource recovery.
+</end course description for 12-724 Biological Wastewater Treatment>

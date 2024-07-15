@@ -1,0 +1,16 @@
+<start course metadata for 18-654 Software Verification and Testing>
+Semester: Fall 2023 (aka F23)
+Course Name: Software Verification and Testing
+Course Number: 18-654
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Hakan Erdogmus
+Rooms: B23 118
+Locations: San Jose, California
+</end course metadata for 18-654 Software Verification and Testing>
+
+<start course description for 18-654 Software Verification and Testing>
+Semester: Fall 2023 (aka F23)
+Course Description: Verification and testing (V&T;) support software engineers and development teams in their endeavor to build dependable systems. These interrelated activities form the backbone of a high-quality software solution that performs its function as intended. V&T; is no longer considered an exclusively backend phase undertaken by a separate quality assurance unit, vulnerable to availability of discretionary resources near project end. Rather, V&T; is a cross-functional discipline applied throughout the software lifecycle from beginning to end. As such V&T; is an integral and essential part of any sensible software development process. This course introduces the students to concepts, principles, theory, types, tools, and techniques of V&T; with exposure to both modern, widely-applicable approaches and traditional, formal techniques. Students will acquire sufficient depth and breadth in V&T; through a balanced coverage of topics. The course syllabus spans fundamentals such as V&T; principles, systematic testing, input space analysis, and test coverage; practical strategies such as test-driven development, unit testing, and test design; and formal approaches such as abstraction, model checking, static analysis, and symbolic execution.
+</end course description for 18-654 Software Verification and Testing>

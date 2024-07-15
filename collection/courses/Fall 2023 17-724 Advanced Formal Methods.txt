@@ -1,0 +1,16 @@
+<start course metadata for 17-724 Advanced Formal Methods>
+Semester: Fall 2023 (aka F23)
+Course Name: Advanced Formal Methods
+Course Number: 17-724
+Department: Software & Societal Systems
+Number of Units: 6
+Prerequisites: 17-714
+Instructors: Garlan, Kang
+Rooms: 3SC 265
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 17-724 Advanced Formal Methods>
+
+<start course description for 17-724 Advanced Formal Methods>
+Semester: Fall 2023 (aka F23)
+Course Description: This course builds on the introductory Models class to cover more advanced techniques for modeling and reasoning about complex software systems. Concepts introduced in this course include abstraction and refinement, declarative specifications, advanced temporal logics, and probabilistic modeling. The course will also explore applications of modeling and automated reasoning techniques in various domains, such as security, distributed computing, and cyber-physical systems. After completing this course, students will: 1. Understand how to specify and reason about operations over complex system structures, 2. Understand relationships between software artifacts at different levels of abstraction; 3. Be able to model and reason about systems with uncertainty and stochastic behaviors; and 4. Understand potential applications of modeling techniques to practical software engineering problems. Prerequisites: Completion of Mini 1: Models of Software Systems. Sections D, PP and G are NOT available for on-campus students. Admission to the class is by approval from the instructor: If you are not a software engineering master's student, send email to garlan@cs.cmu.edu for permission to enroll. The email should briefly describe your background, whether you have taken a course with similar materials as in Mini 1, and why you would like to take the course. The course must be taken for a letter grade (not pass/fail). This is a graduate level course.
+</end course description for 17-724 Advanced Formal Methods>

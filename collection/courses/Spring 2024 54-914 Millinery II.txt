@@ -1,0 +1,16 @@
+<start course metadata for 54-914 Millinery II>
+Semester: Spring 2024 (aka S24)
+Course Name: Millinery II
+Course Number: 54-914
+Department: Drama
+Number of Units: 9
+Prerequisites: 54-913
+Instructors: Brian Russman
+Rooms: PCA 308
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-914 Millinery II>
+
+<start course description for 54-914 Millinery II>
+Semester: Spring 2024 (aka S24)
+Course Description: Millinery II (513/914):This course continues the explorations begun in Millinery I.  The student undergoes advanced exercises in straw, wire frames, block making and non-traditional millinery materials.  Continued emphasis is given to developing professional level skills and assimilation of advanced theories.
+</end course description for 54-914 Millinery II>

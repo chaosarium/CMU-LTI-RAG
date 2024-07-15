@@ -1,0 +1,16 @@
+<start course metadata for 76-825 Rhetoric, Science, and the Public Sphere>
+Semester: Fall 2023 (aka F23)
+Course Name: Rhetoric, Science, and the Public Sphere
+Course Number: 76-825
+Department: English
+Number of Units: N/A
+Prerequisites: None
+Instructors: James Wynn
+Rooms: PH A21A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 76-825 Rhetoric, Science, and the Public Sphere>
+
+<start course description for 76-825 Rhetoric, Science, and the Public Sphere>
+Semester: Fall 2023 (aka F23)
+Course Description: In the 21st century science and technology are ubiquitous presences I our lives. Sometimes these phenomena spark our imagination and affirm our confidence in a better future. In other instances, they create fear and generate protests over the risks new technologies and scientific ideas pose to prevailing social, cultural, economic, and political orders. In this course we will examine the complex dynamics in the relationships between science, technology, and society. Towards this end we will engages with questions such as: How do we decide who an expert is? To what extent do scientists have an obligation to consider the social and ethical consequences of their work? Is public education about science and technology sufficient for addressing social concerns about risk and controversial scientific ideas? We will grapple with these and other questions by exploring public debates including conflicts over global warming, vaccinations, and the AIDS crisis. With the help of analytical theories from sociology, rhetoric, and public policy, we will develop a framework for thinking about argument and the dynamics of the relationship between science, technology, and the public. We will also look to these fields for tools to assess public debate and to complicate and/or affirm prevailing theories about the relationship between science and society.
+</end course description for 76-825 Rhetoric, Science, and the Public Sphere>

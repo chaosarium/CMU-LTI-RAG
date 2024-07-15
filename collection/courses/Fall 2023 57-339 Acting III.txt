@@ -1,0 +1,16 @@
+<start course metadata for 57-339 Acting III>
+Semester: Fall 2023 (aka F23)
+Course Name: Acting III
+Course Number: 57-339
+Department: Music
+Number of Units: 6
+Prerequisites: 57-241
+Instructors: Kelly Trumbull
+Rooms: CFA ACH
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-339 Acting III>
+
+<start course description for 57-339 Acting III>
+Semester: Fall 2023 (aka F23)
+Course Description: This course will build upon the foundation laid in the first year, with a more concentrated look at scene work, an audition workshop that focuses on cold readings as well as monologues, and a character-development project that works to identify specific issues that inhibit freedom on stage. More in-depth work on songs and arias will lead into a musical scene project. The semester will close with a classical text project in which the students will work with verse.
+</end course description for 57-339 Acting III>

@@ -1,0 +1,16 @@
+<start course metadata for 36-297 Early Undergraduate Research>
+Semester: Spring 2024 (aka S24)
+Course Name: Early Undergraduate Research
+Course Number: 36-297
+Department: Statistics and Data Science
+Number of Units: 6
+Prerequisites: None
+Instructors: Peter Freeman
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 36-297 Early Undergraduate Research>
+
+<start course description for 36-297 Early Undergraduate Research>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is designed to give early undergraduate students (those who have not yet taken 36-401) experience navigating real data science research problems. Small groups of students are matched with clients and do supervised research for a semester.  From an academic perspective, the course presents an opportunity for students to gain skills in, e.g., data acquisition and cleaning, exploratory data analysis, and basic statistical modeling; which skills are practiced is project-dependent. Additionally, the course will help students develop the professional skills necessary for successfully navigating team-based project delivery roles. Programming will be performed in R and/or Python; previous programming experience is not required.
+</end course description for 36-297 Early Undergraduate Research>

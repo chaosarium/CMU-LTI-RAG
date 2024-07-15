@@ -1,0 +1,16 @@
+<start course metadata for 15-326 Computational Microeconomics>
+Semester: Fall 2023 (aka F23)
+Course Name: Computational Microeconomics
+Course Number: 15-326
+Department: Computer Science
+Number of Units: 9
+Prerequisites: (21-127 or 21-128 or 15-151 or 80-210 or 80-211) and (21-325 or 36-218 or 36-225 or 36-235)
+Instructors: Vincent Conitzer
+Rooms: NSH 1305
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-326 Computational Microeconomics>
+
+<start course description for 15-326 Computational Microeconomics>
+Semester: Fall 2023 (aka F23)
+Course Description: Use of computational techniques to operationalize basic concepts from economics. Expressive marketplaces: combinatorial auctions and exchanges, winner determination problem. Game theory: normal and extensive-form games, equilibrium notions, computing equilibria. Mechanism design: auction theory, automated mechanism design.
+</end course description for 15-326 Computational Microeconomics>

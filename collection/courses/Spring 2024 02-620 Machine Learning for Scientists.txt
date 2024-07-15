@@ -1,0 +1,16 @@
+<start course metadata for 02-620 Machine Learning for Scientists>
+Semester: Spring 2024 (aka S24)
+Course Name: Machine Learning for Scientists
+Course Number: 02-620
+Department: Computational Biology
+Number of Units: 12
+Prerequisites: 02-680
+Instructors: Martin Zhang, Min Xu
+Rooms: HH B131
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 02-620 Machine Learning for Scientists>
+
+<start course description for 02-620 Machine Learning for Scientists>
+Semester: Spring 2024 (aka S24)
+Course Description: With advances in scientific instruments and high-throughput technology, scientific discoveries are increasingly made from analyzing large-scale data generated from experiments or collected from observational studies. Machine learning methods that have been widely used to extract complex patterns from large speech, text, and image data are now being routinely applied to answer scientific questions in biology, bioengineering, and medicine. This course is intended for graduate students interested in learning machine learning methods for scientific data analysis and modeling. It will cover classification and regression techniques such a logistic regression, random forest regression, Gaussian process regression, decision trees, and support vector machines; unsupervised learning methods such as clustering algorithms, mixture models, and hidden Markov models; probabilistic graphical models and deep learning methods; and learning theories such as PAC learning and VC dimension. The course will focus on applications of these methods in genomics and medicine. Programming skills and basic knowledge of linear algebra, probability, statistics are assumed.
+</end course description for 02-620 Machine Learning for Scientists>

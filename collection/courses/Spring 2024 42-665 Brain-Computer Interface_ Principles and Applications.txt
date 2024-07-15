@@ -1,0 +1,16 @@
+<start course metadata for 42-665 Brain-Computer Interface: Principles and Applications>
+Semester: Spring 2024 (aka S24)
+Course Name: Brain-Computer Interface: Principles and Applications
+Course Number: 42-665
+Department: Biomedical Engineering
+Number of Units: 9
+Prerequisites: None
+Instructors: Bin He
+Rooms: WEH 5409
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 42-665 Brain-Computer Interface: Principles and Applications>
+
+<start course description for 42-665 Brain-Computer Interface: Principles and Applications>
+Semester: Spring 2024 (aka S24)
+Course Description: This course provides an introduction and comprehensive review of the concepts, principles and methods of Brain-computer interface (BCI) technology. BCIs have emerged as a novel technology that bridges the brain with external devices. BCIs have been developed to decode human intention, leading to direct brain control of a computer or device, bypassing the neuromuscular pathway. Bi-directional brain-computer interfaces not only allows device control, but also opens the door for modulating the central nervous system through neural interfacing. Using various recorded brain signals that reflect the "intention" of the brain, BCI systems have shown the capability to control external devices, such as computers and robots. Neural stimulation using electrical, magnetic, optical and acoustic energy has shown capability to better understanding of the brain functions and intervene with central nervous systems. This course teaches the fundamentals how a BCI system works and various building blocks of BCIs, from signal acquisition, signal processing, feature extraction, feature translation, neurostimulation, to device control, and various applications. Examples of noninvasive BCIs are discussed to provide an in-depth understanding of the noninvasive BCI technology. Open to seniors or graduate students in engineering or science programs, or upon instructor's approval (for exceptional juniors, e.g.).
+</end course description for 42-665 Brain-Computer Interface: Principles and Applications>

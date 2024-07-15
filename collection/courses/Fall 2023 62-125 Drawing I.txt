@@ -1,0 +1,16 @@
+<start course metadata for 62-125 Drawing I>
+Semester: Fall 2023 (aka F23)
+Course Name: Drawing I
+Course Number: 62-125
+Department: CFA Interdisciplinary
+Number of Units: 6
+Prerequisites: None
+Instructors: Douglas Cooper
+Rooms: CFA 200
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 62-125 Drawing I>
+
+<start course description for 62-125 Drawing I>
+Semester: Fall 2023 (aka F23)
+Course Description: 62-125 is an introductory course in free-hand architectural drawing.  Its central learning objective is building a capacity for visualizing three-dimensional space through freehand drawing.  A parallel objective is fostering visual literacy: the ability to use line and tonal values to represent architectural space.  Topics covered are contour drawing, freehand perspective, axonometric projection, and tonal drawing in charcoal.  The course concludes with a final project conducted jointly with 48-100, first-year architectural design.
+</end course description for 62-125 Drawing I>

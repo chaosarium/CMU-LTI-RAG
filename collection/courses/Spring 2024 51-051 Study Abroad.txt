@@ -1,0 +1,16 @@
+<start course metadata for 51-051 Study Abroad>
+Semester: Spring 2024 (aka S24)
+Course Name: Study Abroad
+Course Number: 51-051
+Department: Design
+Number of Units: 0
+Prerequisites: None
+Instructors: Instructor TBA
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-051 Study Abroad>
+
+<start course description for 51-051 Study Abroad>
+Semester: Spring 2024 (aka S24)
+Course Description: Students submit a proposal to the faculty study abroad committee. Study abroad can only be for one semester in the junior year, or during any summer.
+</end course description for 51-051 Study Abroad>

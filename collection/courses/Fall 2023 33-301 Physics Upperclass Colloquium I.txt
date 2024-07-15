@@ -1,0 +1,16 @@
+<start course metadata for 33-301 Physics Upperclass Colloquium I>
+Semester: Fall 2023 (aka F23)
+Course Name: Physics Upperclass Colloquium I
+Course Number: 33-301
+Department: Physics
+Number of Units: 1
+Prerequisites: None
+Instructors: Hy Trac, Ira Rothstein
+Rooms: WEH 7316
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 33-301 Physics Upperclass Colloquium I>
+
+<start course description for 33-301 Physics Upperclass Colloquium I>
+Semester: Fall 2023 (aka F23)
+Course Description: Junior and senior Physics majors meet together for 1 hour a week to hear discussions on current physics research from faculty, undergraduate and graduate students, and outside speakers. Other topics of interest such as application to graduate school, areas of industrial research and job opportunities will also be presented.
+</end course description for 33-301 Physics Upperclass Colloquium I>

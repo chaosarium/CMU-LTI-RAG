@@ -1,0 +1,16 @@
+<start course metadata for 09-519 Bioorganic Chemistry: Peptides, Proteins and Combinatorial Chemistry>
+Semester: Spring 2024 (aka S24)
+Course Name: Bioorganic Chemistry: Peptides, Proteins and Combinatorial Chemistry
+Course Number: 09-519
+Department: Chemistry
+Number of Units: 9
+Prerequisites: (03-121 or 03-151) and (09-220 or 09-218)
+Instructors: Anna Kietrys
+Rooms: DH 1117
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 09-519 Bioorganic Chemistry: Peptides, Proteins and Combinatorial Chemistry>
+
+<start course description for 09-519 Bioorganic Chemistry: Peptides, Proteins and Combinatorial Chemistry>
+Semester: Spring 2024 (aka S24)
+Course Description: This course will introduce students to new developments in chemistry and biology, with emphasis on the synthesis, structural and functional aspects of peptides, proteins and small molecules. Basic concepts of bioorganic chemistry will be presented in the context of the current literature and students will have the opportunity to learn about the experimental methods used in various research labs. An introduction to combinatorial chemistry in the context of drug design and drug discovery will also be presented. Students will be required to keep abreast of the current literature. Homeworks and team projects will be assigned on a regular basis. The homework assignments will require data interpretation and experimental design; and team projects will give students the opportunity to work in teams to tackle contemporary problems at the interface of chemistry and biology. Students enrolled in the graduate level course (09-719) will be required to turn in an original research proposal at the end of the course, in addition to the homework assignments, midterm, and final exam that are required for the undergraduate course.  (Graduate Course: 12 units 09-719) 3 hrs. lec.
+</end course description for 09-519 Bioorganic Chemistry: Peptides, Proteins and Combinatorial Chemistry>

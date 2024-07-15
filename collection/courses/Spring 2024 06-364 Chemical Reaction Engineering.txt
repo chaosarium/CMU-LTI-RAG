@@ -1,0 +1,16 @@
+<start course metadata for 06-364 Chemical Reaction Engineering>
+Semester: Spring 2024 (aka S24)
+Course Name: Chemical Reaction Engineering
+Course Number: 06-364
+Department: Chemical Engineering
+Number of Units: 9
+Prerequisites: 06-323 and 06-310
+Instructors: Coty Jen
+Rooms: GHC 4215
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 06-364 Chemical Reaction Engineering>
+
+<start course description for 06-364 Chemical Reaction Engineering>
+Semester: Spring 2024 (aka S24)
+Course Description: Fundamental concepts in the kinetic modeling of chemical reactions, the treatment and analysis of rate data. Multiple reactions and reaction mechanisms. Analysis and design of ideal and non-ideal reactor systems. Energy effects and mass transfer in reactor systems. Introductory principles in heterogeneous catalysis.
+</end course description for 06-364 Chemical Reaction Engineering>

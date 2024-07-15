@@ -1,0 +1,16 @@
+<start course metadata for 70-332 Business, Society and Ethics>
+Semester: Spring 2024 (aka S24)
+Course Name: Business, Society and Ethics
+Course Number: 70-332
+Department: Business Administration
+Number of Units: 9
+Prerequisites: (76-102) or (76-101) or (76-106 and 76-107) or (76-106 and 76-108) or (76-107 and 76-108)
+Instructors: Cristian Dimitriu, Jay Hornack
+Rooms: CMB 1199; TEP 2611
+Locations: Doha, Qatar; Pittsburgh, Pennsylvania
+</end course metadata for 70-332 Business, Society and Ethics>
+
+<start course description for 70-332 Business, Society and Ethics>
+Semester: Spring 2024 (aka S24)
+Course Description: The course draws upon actual cases to explore fundamental questions faced by businesses operating in the United States and elsewhere in the world.  What justifies governmental regulation of your business? What are the rights of employers and employees? How does the law protect consumers?  What laws protect the environment?  How do you choose the best legal form for your business?  What are the lines of power within a corporation?  What protections are available to shareholders?  How do the antitrust laws protect competition?  What responsibilities does a business have to the community in which it operates? What is the ethical foundation on which business ought to be conducted?  The course puts businesses in their legal and ethical context. This course may use third-party course material that is not available for individual purchase from the publisher. If so, the third-party course material will be secured and provided by the Tepper School to students enrolled in the course, and students enrolled in the course will be required to pay to the University the associated additional course materials fee for the third-party course material provided. The amount of the course materials fee is dependent on the University's cost of the particular materials provided, and typically ranges from $13 to $75.
+</end course description for 70-332 Business, Society and Ethics>

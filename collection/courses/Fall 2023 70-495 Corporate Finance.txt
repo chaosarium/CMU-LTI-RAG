@@ -1,0 +1,16 @@
+<start course metadata for 70-495 Corporate Finance>
+Semester: Fall 2023 (aka F23)
+Course Name: Corporate Finance
+Course Number: 70-495
+Department: Business Administration
+Number of Units: 9
+Prerequisites: 21-370 or 70-391
+Instructors: Muhammad Farooqi
+Rooms: CMB 2052
+Locations: Doha, Qatar
+</end course metadata for 70-495 Corporate Finance>
+
+<start course description for 70-495 Corporate Finance>
+Semester: Fall 2023 (aka F23)
+Course Description: Students develop an advanced financial perspective on how firms make investment, financing, and management decisions.  The course starts with simple net present value rules and builds the theoretical framework to address more sophisticated issues and problems including risk management, mergers, acquisitions, executive compensation, corporate governance, and dividend payout policies.  Theory is supplemented with numerous case study examples. This course uses course material that requires students to pay an additional course fee. The course material is secured by the Tepper School because it is otherwise unavailable and directly provided to each student.
+</end course description for 70-495 Corporate Finance>

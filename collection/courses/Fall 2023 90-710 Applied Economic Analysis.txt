@@ -1,0 +1,16 @@
+<start course metadata for 90-710 Applied Economic Analysis>
+Semester: Fall 2023 (aka F23)
+Course Name: Applied Economic Analysis
+Course Number: 90-710
+Department: Public Policy & Mgt:Sch of Pub Pol & Mgt
+Number of Units: 12
+Prerequisites: None
+Instructors: Lowell Taylor
+Rooms: HBH A301
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 90-710 Applied Economic Analysis>
+
+<start course description for 90-710 Applied Economic Analysis>
+Semester: Fall 2023 (aka F23)
+Course Description: None
+</end course description for 90-710 Applied Economic Analysis>

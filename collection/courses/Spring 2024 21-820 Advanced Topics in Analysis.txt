@@ -1,0 +1,16 @@
+<start course metadata for 21-820 Advanced Topics in Analysis>
+Semester: Spring 2024 (aka S24)
+Course Name: Advanced Topics in Analysis
+Course Number: 21-820
+Department: Mathematical Sciences
+Number of Units: 12
+Prerequisites: (21-356 or 21-236 or 21-456) and (21-373 or 21-237)
+Instructors: Giovanni Leoni, Robin Neumayer
+Rooms: WEH 7218
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-820 Advanced Topics in Analysis>
+
+<start course description for 21-820 Advanced Topics in Analysis>
+Semester: Spring 2024 (aka S24)
+Course Description: Course topics will vary depending on the semester and instructor.  May be taken more than once if content is sufficiently different.
+</end course description for 21-820 Advanced Topics in Analysis>

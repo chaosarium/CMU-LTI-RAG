@@ -1,0 +1,16 @@
+<start course metadata for 57-018 Double Bass Studio Performance Class>
+Semester: Spring 2024 (aka S24)
+Course Name: Double Bass Studio Performance Class
+Course Number: 57-018
+Department: Music
+Number of Units: 0
+Prerequisites: None
+Instructors: Micah Howard
+Rooms: CFA ACH
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-018 Double Bass Studio Performance Class>
+
+<start course description for 57-018 Double Bass Studio Performance Class>
+Semester: Spring 2024 (aka S24)
+Course Description: TBA
+</end course description for 57-018 Double Bass Studio Performance Class>

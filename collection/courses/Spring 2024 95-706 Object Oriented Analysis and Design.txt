@@ -1,0 +1,16 @@
+<start course metadata for 95-706 Object Oriented Analysis and Design>
+Semester: Spring 2024 (aka S24)
+Course Name: Object Oriented Analysis and Design
+Course Number: 95-706
+Department: Information Systems:Sch of IS & Mgt
+Number of Units: 6
+Prerequisites: (95-712) or (17-681 and 17-683)
+Instructors: Constantine Cois
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 95-706 Object Oriented Analysis and Design>
+
+<start course description for 95-706 Object Oriented Analysis and Design>
+Semester: Spring 2024 (aka S24)
+Course Description: Large-scale software development has been described as one of the most difficult of human undertakings. This course examines the reasons for the inherent complexity of software construction, and presents structured methods to deal effectively with it. The course will focus on the object-oriented approach for analysis and design. Students will gain an appreciation of the difference between writing programs and doing analysis and design. Problem formulation and decomposition (analysis) and solution building (design) will be covered. Students will work in small groups, each group having the responsibility for analysis, design and implementation of a software system. Case tools will be used in several stages of the development process.  Knowledge of an Object-Oriented language such as Java or C++ is a pre-requisite for this course.
+</end course description for 95-706 Object Oriented Analysis and Design>

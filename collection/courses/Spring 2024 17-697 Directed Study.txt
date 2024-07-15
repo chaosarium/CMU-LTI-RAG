@@ -1,0 +1,16 @@
+<start course metadata for 17-697 Directed Study>
+Semester: Spring 2024 (aka S24)
+Course Name: Directed Study
+Course Number: 17-697
+Department: Software & Societal Systems
+Number of Units: 6
+Prerequisites: None
+Instructors: Travis Breaux
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 17-697 Directed Study>
+
+<start course description for 17-697 Directed Study>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is for Master of Software Engineering Online program students only.
+</end course description for 17-697 Directed Study>

@@ -1,0 +1,16 @@
+<start course metadata for 36-732 Modern Causal Inference>
+Semester: Fall 2023 (aka F23)
+Course Name: Modern Causal Inference
+Course Number: 36-732
+Department: Statistics and Data Science
+Number of Units: 6
+Prerequisites: None
+Instructors: Edward Kennedy
+Rooms: GHC 4102
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 36-732 Modern Causal Inference>
+
+<start course description for 36-732 Modern Causal Inference>
+Semester: Fall 2023 (aka F23)
+Course Description: This course will provide an in-depth look at modern causal inference. Topics will include: optimal treatment regimes, mediation, principal stratification, stochastic interventions, accounting for complex confounding and exposures, and methods for efficient nonparametric estimation. Some background in mathematical statistics is advised.
+</end course description for 36-732 Modern Causal Inference>

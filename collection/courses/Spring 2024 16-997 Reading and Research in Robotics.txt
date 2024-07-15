@@ -1,0 +1,16 @@
+<start course metadata for 16-997 Reading and Research in Robotics>
+Semester: Spring 2024 (aka S24)
+Course Name: Reading and Research in Robotics
+Course Number: 16-997
+Department: Robotics
+Number of Units: N/A
+Prerequisites: None
+Instructors: David Wettergreen
+Rooms: DNM DNM
+Locations: Lisbon, Portugal; Pittsburgh, Pennsylvania
+</end course metadata for 16-997 Reading and Research in Robotics>
+
+<start course description for 16-997 Reading and Research in Robotics>
+Semester: Spring 2024 (aka S24)
+Course Description: Graduate students in robotics may register for Reading and Research as they conduct research as required by their degree program.
+</end course description for 16-997 Reading and Research in Robotics>

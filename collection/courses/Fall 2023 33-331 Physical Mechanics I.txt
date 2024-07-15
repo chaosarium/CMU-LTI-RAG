@@ -1,0 +1,16 @@
+<start course metadata for 33-331 Physical Mechanics I>
+Semester: Fall 2023 (aka F23)
+Course Name: Physical Mechanics I
+Course Number: 33-331
+Department: Physics
+Number of Units: 10
+Prerequisites: 33-232 and 21-259 and 33-231
+Instructors: Shiladitya Banerjee
+Rooms: DH A301D
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 33-331 Physical Mechanics I>
+
+<start course description for 33-331 Physical Mechanics I>
+Semester: Fall 2023 (aka F23)
+Course Description: Fundamental concepts of classical mechanics. Conservation laws, momentum, energy, angular momentum, Lagrange's and Hamilton's equations, motion under a central force, scattering, cross section, and systems of particles.
+</end course description for 33-331 Physical Mechanics I>

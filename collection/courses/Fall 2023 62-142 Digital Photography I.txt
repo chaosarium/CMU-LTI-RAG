@@ -1,0 +1,16 @@
+<start course metadata for 62-142 Digital Photography I>
+Semester: Fall 2023 (aka F23)
+Course Name: Digital Photography I
+Course Number: 62-142
+Department: CFA Interdisciplinary
+Number of Units: 10
+Prerequisites: None
+Instructors: Aaron Blum, T. Ross Mantle
+Rooms: MM B2
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 62-142 Digital Photography I>
+
+<start course description for 62-142 Digital Photography I>
+Semester: Fall 2023 (aka F23)
+Course Description: This course explores digital photography and digital printing methods. By semester's end students will have knowledge of contemporary trends in photography, construction (and deconstruction) of photographic meaning, aesthetic choices, and the use of color. Students will learn how digital cameras work, proper digital workflow, RAW file handling, color management and Adobe Photoshop. Through the combination of the practical and theoretical, students will better define their individual voices as photographers. No prerequisites.
+</end course description for 62-142 Digital Photography I>

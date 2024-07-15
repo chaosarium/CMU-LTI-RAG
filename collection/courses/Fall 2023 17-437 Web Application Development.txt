@@ -1,0 +1,16 @@
+<start course metadata for 17-437 Web Application Development>
+Semester: Fall 2023 (aka F23)
+Course Name: Web Application Development
+Course Number: 17-437
+Department: Software & Societal Systems
+Number of Units: 12
+Prerequisites: 17-214 or 17-514 or 15-214 or 14-513 or 18-213 or 15-513 or 15-213 or 18-613
+Instructors: Jeffrey Eppinger
+Rooms: BH A51
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 17-437 Web Application Development>
+
+<start course description for 17-437 Web Application Development>
+Semester: Fall 2023 (aka F23)
+Course Description: This course will introduce concepts in programming web application servers. We will study the fundamental architectural elements of programming web sites that produce content dynamically. The primary technology introduced will be the Django framework for Python, but we will cover related topics as necessary so that students can build significant applications. Such topics include: HTTP, HTML, CSS, Javascript, JSON, Design Patterns, Relational and Non-relational Databases, Object-Relation Mapping tools, Security, Web Services, Cloud Deployment, Internationalization, and Scalability and Performance Issues. Students must be comfortable programming in Python to register for this course. Students must provide their own computer hardware for this course. Please visit the Course URL for more information about the course.
+</end course description for 17-437 Web Application Development>

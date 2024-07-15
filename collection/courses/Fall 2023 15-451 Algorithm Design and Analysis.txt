@@ -1,0 +1,16 @@
+<start course metadata for 15-451 Algorithm Design and Analysis>
+Semester: Fall 2023 (aka F23)
+Course Name: Algorithm Design and Analysis
+Course Number: 15-451
+Department: Computer Science
+Number of Units: 12
+Prerequisites: (15-210) and (21-241) and (15-251 or 21-228)
+Instructors: Christos Kapoutsis, Daniel Anderson, Daniel Sleator
+Rooms: PH 100
+Locations: Doha, Qatar; Pittsburgh, Pennsylvania
+</end course metadata for 15-451 Algorithm Design and Analysis>
+
+<start course description for 15-451 Algorithm Design and Analysis>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is about the design and analysis of algorithms. We study specific algorithms for a variety of problems, as well as general design and analysis techniques. Specific topics include searching, sorting, algorithms for graph problems, efficient data structures, lower bounds and NP-completeness. A variety of other topics may be covered at the discretion of the instructor. These include parallel algorithms, randomized algorithms, geometric algorithms, low level techniques for efficient programming, cryptography, and cryptographic protocols.
+</end course description for 15-451 Algorithm Design and Analysis>

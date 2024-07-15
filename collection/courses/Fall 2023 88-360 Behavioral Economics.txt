@@ -1,0 +1,16 @@
+<start course metadata for 88-360 Behavioral Economics>
+Semester: Fall 2023 (aka F23)
+Course Name: Behavioral Economics
+Course Number: 88-360
+Department: Social & Decision Sciences
+Number of Units: 9
+Prerequisites: (21-120 or 21-112) and (88-220 or 73-100 or 73-102)
+Instructors: Peter Schwardmann
+Rooms: DH 1112
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 88-360 Behavioral Economics>
+
+<start course description for 88-360 Behavioral Economics>
+Semester: Fall 2023 (aka F23)
+Course Description: This course introduces students to behavioral economics, an emerging  subfield of economics that incorporates insights from psychology and other social sciences into economics. We will examine evidence on how human  behavior systematically departs from the standard assumptions of economics, and then investigate attempts by behavioral economists to improve economic analyses.
+</end course description for 88-360 Behavioral Economics>

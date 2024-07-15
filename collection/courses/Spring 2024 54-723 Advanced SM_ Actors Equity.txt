@@ -1,0 +1,16 @@
+<start course metadata for 54-723 Advanced SM: Actors Equity>
+Semester: Spring 2024 (aka S24)
+Course Name: Advanced SM: Actors Equity
+Course Number: 54-723
+Department: Drama
+Number of Units: 6
+Prerequisites: None
+Instructors: Tina Shackleford
+Rooms: PCA 307
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-723 Advanced SM: Actors Equity>
+
+<start course description for 54-723 Advanced SM: Actors Equity>
+Semester: Spring 2024 (aka S24)
+Course Description: For Production Management and Stage Management majors.
+</end course description for 54-723 Advanced SM: Actors Equity>

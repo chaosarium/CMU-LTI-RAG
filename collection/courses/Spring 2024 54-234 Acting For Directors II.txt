@@ -1,0 +1,16 @@
+<start course metadata for 54-234 Acting For Directors II>
+Semester: Spring 2024 (aka S24)
+Course Name: Acting For Directors II
+Course Number: 54-234
+Department: Drama
+Number of Units: 12
+Prerequisites: None
+Instructors: Bria Walker-Rhoze, Catherine Moore, Juan Rivera Lebron
+Rooms: PCA 314; PCA 318; PCA 321
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-234 Acting For Directors II>
+
+<start course description for 54-234 Acting For Directors II>
+Semester: Spring 2024 (aka S24)
+Course Description: Acting II for Directors
+</end course description for 54-234 Acting For Directors II>

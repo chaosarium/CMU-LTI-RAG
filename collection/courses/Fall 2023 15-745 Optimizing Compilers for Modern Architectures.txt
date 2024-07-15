@@ -1,0 +1,16 @@
+<start course metadata for 15-745 Optimizing Compilers for Modern Architectures>
+Semester: Fall 2023 (aka F23)
+Course Name: Optimizing Compilers for Modern Architectures
+Course Number: 15-745
+Department: Computer Science
+Number of Units: 12
+Prerequisites: None
+Instructors: Todd Mowry
+Rooms: GHC 4303
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-745 Optimizing Compilers for Modern Architectures>
+
+<start course description for 15-745 Optimizing Compilers for Modern Architectures>
+Semester: Fall 2023 (aka F23)
+Course Description: Theoretical and practical aspects of building optimizing compilers that e¿ectively exploit modern architectures. The course will begin with the fundamentals of compiler optimization, and will build upon these fundamentals to address issues in state-of-the-art commercial and research machines.
+</end course description for 15-745 Optimizing Compilers for Modern Architectures>

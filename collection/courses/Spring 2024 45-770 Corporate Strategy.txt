@@ -1,0 +1,16 @@
+<start course metadata for 45-770 Corporate Strategy>
+Semester: Spring 2024 (aka S24)
+Course Name: Corporate Strategy
+Course Number: 45-770
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Sunkee Lee
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-770 Corporate Strategy>
+
+<start course description for 45-770 Corporate Strategy>
+Semester: Spring 2024 (aka S24)
+Course Description: This course focuses on strategy as the search for value among opportunities that are entrepreneurial, dynamic, and evolutionary. Competitive strategy in the new economy reflects a mix of traditional strategies, designed to sustain advantage through physical assets and traditional economies of scale, as well as newer strategies, designed to gain advantage through information assets and network effects. The approach used in this course to tie old and new approaches together is Sustainability Analysis, a method that formulates business strategies according to the profit half-life of a company?s products and services. Here the goal of strategy is not only to sustain advantage, but to maximize value, to manage the ebb and flow of economic progress with the continual goal of recapitalizing assets.
+</end course description for 45-770 Corporate Strategy>

@@ -1,0 +1,16 @@
+<start course metadata for 11-742 Search Engines>
+Semester: Spring 2024 (aka S24)
+Course Name: Search Engines
+Course Number: 11-742
+Department: Language Technologies Institute
+Number of Units: 12
+Prerequisites: None
+Instructors: Jamie Callan
+Rooms: GHC 4401
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 11-742 Search Engines>
+
+<start course description for 11-742 Search Engines>
+Semester: Spring 2024 (aka S24)
+Course Description: This lecture-oriented course studies the theory, design, and implementation of text-based search engines. The core components include statistical characteristics of text, representation of information needs and documents, several important retrieval models, and experimental evaluation. The course also covers common elements of commercial search engines, for example, integration of diverse search engines into a single search service (federated search, vertical search), personalized search results, and diverse search results. The software architecture components include design and implementation of large-scale, distributed search engines.   This is a full-semester course. The graduate sections (11-642 and 11-742) are worth 12 units. The undergraduate section (11-442) is worth 9 units.
+</end course description for 11-742 Search Engines>

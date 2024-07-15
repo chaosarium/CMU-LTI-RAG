@@ -1,0 +1,16 @@
+<start course metadata for 33-234 Quantum Physics>
+Semester: Spring 2024 (aka S24)
+Course Name: Quantum Physics
+Course Number: 33-234
+Department: Physics
+Number of Units: 10
+Prerequisites: 33-211
+Instructors: Vladyslav Kozii
+Rooms: BH A53; HH B131
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 33-234 Quantum Physics>
+
+<start course description for 33-234 Quantum Physics>
+Semester: Spring 2024 (aka S24)
+Course Description: An introduction to the fundamental principles and applications of quantum physics. A brief review of the experimental basis for quantization motivates the development of the Schrodinger wave equation. Several unbound and bound problems are treated in one dimension. The properties of angular momentum are developed and applied to central potentials in three dimensions. The one electron atom is then treated. Matrix description of quantum physics and the notion of spin are introduced. Properties of collections of indistinguishable particles are developed allowing an understanding of the structure of the Periodic Table of elements. A variety of mathematical tools are considered as needed.
+</end course description for 33-234 Quantum Physics>

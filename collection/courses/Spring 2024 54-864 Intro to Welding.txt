@@ -1,0 +1,16 @@
+<start course metadata for 54-864 Intro to Welding>
+Semester: Spring 2024 (aka S24)
+Course Name: Intro to Welding
+Course Number: 54-864
+Department: Drama
+Number of Units: 4
+Prerequisites: None
+Instructors: Bernard Carter
+Rooms: PCA 107
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-864 Intro to Welding>
+
+<start course description for 54-864 Intro to Welding>
+Semester: Spring 2024 (aka S24)
+Course Description: An introduction to the four most common metal joining processes, including Oxyfuel processes (welding, brazing, braze welding, and bending), SMAW (stick), GMAW (MIG), and GTAW (TIG). Welding safety, equipment setup and basic welding techniques will be covered. This is a required course for Drama Technical Direction majors.  Open to non-majors if space is available.
+</end course description for 54-864 Intro to Welding>

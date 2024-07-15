@@ -1,0 +1,16 @@
+<start course metadata for 24-352 Dynamic Systems and Controls>
+Semester: Spring 2024 (aka S24)
+Course Name: Dynamic Systems and Controls
+Course Number: 24-352
+Department: Mechanical Engineering
+Number of Units: 12
+Prerequisites: (33-107 and 24-251 and 21-260) or (21-260 and 24-251 and 33-142) or (21-260 and 24-251 and 33-152) or (21-260 and 24-251 and 33-132)
+Instructors: Sarah Bergbreiter
+Rooms: SH 105
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-352 Dynamic Systems and Controls>
+
+<start course description for 24-352 Dynamic Systems and Controls>
+Semester: Spring 2024 (aka S24)
+Course Description: This second course on the modeling and analysis of dynamic systems emphasizes the common features, which are exhibited by physical systems that include mechanical, hydraulic, pneumatic, thermal, electrical, and electromechanical elements. State equations and the concepts of equilibrium, linearization, and stability are discussed. Time and frequency domain solutions are developed.  4 hr. lec.
+</end course description for 24-352 Dynamic Systems and Controls>

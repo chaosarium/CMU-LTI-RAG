@@ -1,0 +1,16 @@
+<start course metadata for 48-667 Material Histories>
+Semester: Spring 2024 (aka S24)
+Course Name: Material Histories
+Course Number: 48-667
+Department: Architecture
+Number of Units: 9
+Prerequisites: None
+Instructors: Francesca Torello
+Rooms: MM 409
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-667 Material Histories>
+
+<start course description for 48-667 Material Histories>
+Semester: Spring 2024 (aka S24)
+Course Description: Materials affect the way we engage with a building and carry cultural meanings connected with complex histories, deeply and at times messily intertwined with the social, political and ecological context. In this seminar we will look at the history of the architecture of the last two centuries by following the thread of the history of materials. We will discuss the ways in which buildings of the past and the practice of architecture were affected by which materials were available, how they were produced, and the craft required to work them. We will reflect on how architects interpreted, manipulated, or added to those meanings through their own work. Materials' lifecycles and the networks of extraction, production, transportation, and reuse had an impact on the built environment in the past, just as they do today. We will learn from historical examples to assess the consequences of the choices we make as designers. Finally, we will critically engage with the presence of history as a layer of complexity embedded in the material itself - an effect that is compounded in the practice of reuse of materials with patina, marked from their past use.
+</end course description for 48-667 Material Histories>

@@ -1,0 +1,16 @@
+<start course metadata for 48-700 Practicum>
+Semester: Spring 2024 (aka S24)
+Course Name: Practicum
+Course Number: 48-700
+Department: Architecture
+Number of Units: N/A
+Prerequisites: None
+Instructors: Dana Cupkova, Instructor TBA
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-700 Practicum>
+
+<start course description for 48-700 Practicum>
+Semester: Spring 2024 (aka S24)
+Course Description: None
+</end course description for 48-700 Practicum>

@@ -1,0 +1,16 @@
+<start course metadata for 51-176 Design Studies: Futures>
+Semester: Spring 2024 (aka S24)
+Course Name: Design Studies: Futures
+Course Number: 51-176
+Department: Design
+Number of Units: 5
+Prerequisites: None
+Instructors: Peter Scupelli, William Martin
+Rooms: MM 107
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-176 Design Studies: Futures>
+
+<start course description for 51-176 Design Studies: Futures>
+Semester: Spring 2024 (aka S24)
+Course Description: "Futures" frames design in a temporally-extended, systemic context. It offers essential perspectives, practices, and competencies that are increasingly called for as designers progress in their work and careers, and as the design field evolves to acknowledge its significant powers and responsibilities. You will explore numerous futures methods, which support designers through ideation and storytelling, problem-finding and framing, brief formulation, project coordination, and collaboration. Coursework includes engagement with readings and videos, hands-on creative workshops, and visual prototyping and sketching.
+</end course description for 51-176 Design Studies: Futures>

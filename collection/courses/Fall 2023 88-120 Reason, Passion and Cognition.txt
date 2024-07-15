@@ -1,0 +1,16 @@
+<start course metadata for 88-120 Reason, Passion and Cognition>
+Semester: Fall 2023 (aka F23)
+Course Name: Reason, Passion and Cognition
+Course Number: 88-120
+Department: Social & Decision Sciences
+Number of Units: 9
+Prerequisites: None
+Instructors: Julie Downs, Linda Moya
+Rooms: BH A51
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 88-120 Reason, Passion and Cognition>
+
+<start course description for 88-120 Reason, Passion and Cognition>
+Semester: Fall 2023 (aka F23)
+Course Description: How do we make decisions? Reason, Passion, and Cognition will be an introduction to the psychology of preference, judgment, and choice. Why do people behave in ways that cannot be defended as "rational" - and how do these deviations inform us about the processes that the mind uses to make fast-and-frugal decisions? The course will focus on the ways that cognitive and emotional processes relate to decisions made in the laboratory and in everyday decision making and will be based on rigorous experimental research.
+</end course description for 88-120 Reason, Passion and Cognition>

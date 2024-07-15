@@ -1,0 +1,16 @@
+<start course metadata for 39-220 Experiential Learning II>
+Semester: Fall 2023 (aka F23)
+Course Name: Experiential Learning II
+Course Number: 39-220
+Department: CIT Interdisciplinary
+Number of Units: 0
+Prerequisites: 39-210
+Instructors: Conrad Zapanta, Kourtney Kissel, Kurt Larsen, Nisha Shukla, Treci Bonime
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 39-220 Experiential Learning II>
+
+<start course description for 39-220 Experiential Learning II>
+Semester: Fall 2023 (aka F23)
+Course Description: The engineer of the 21st century will need to operate effectively in many settings and often with a global perspective. Being curious and constantly looking for inspiration are critical for lifelong learning. This course, designed for all CIT sophomores, requires the student to choose and experience activities for development and growth that are not part of formal course work. Acceptable experiences are listed in the course syllabus on Canvas.
+</end course description for 39-220 Experiential Learning II>

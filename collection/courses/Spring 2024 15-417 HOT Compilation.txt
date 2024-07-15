@@ -1,0 +1,16 @@
+<start course metadata for 15-417 HOT Compilation>
+Semester: Spring 2024 (aka S24)
+Course Name: HOT Compilation
+Course Number: 15-417
+Department: Computer Science
+Number of Units: 12
+Prerequisites: 15-312 or 15-317
+Instructors: Karl Crary
+Rooms: WEH 5312
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-417 HOT Compilation>
+
+<start course description for 15-417 HOT Compilation>
+Semester: Spring 2024 (aka S24)
+Course Description: The course covers the implementation of compilers for higher-order, typed languages such as ML and Haskell, and gives an introduction to type-preserving compilation.  Topics covered include type inference, elaboration, CPS conversion, closure conversion, garbage collection, phase splitting, and typed assembly language.
+</end course description for 15-417 HOT Compilation>

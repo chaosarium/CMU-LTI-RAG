@@ -1,0 +1,16 @@
+<start course metadata for 57-787 History Proficiency I Test>
+Semester: Spring 2024 (aka S24)
+Course Name: History Proficiency I Test
+Course Number: 57-787
+Department: Music
+Number of Units: 0
+Prerequisites: None
+Instructors: Katherine Shields, Sharon Johnston
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-787 History Proficiency I Test>
+
+<start course description for 57-787 History Proficiency I Test>
+Semester: Spring 2024 (aka S24)
+Course Description: TBA.
+</end course description for 57-787 History Proficiency I Test>

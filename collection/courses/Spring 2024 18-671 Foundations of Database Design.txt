@@ -1,0 +1,16 @@
+<start course metadata for 18-671 Foundations of Database Design>
+Semester: Spring 2024 (aka S24)
+Course Name: Foundations of Database Design
+Course Number: 18-671
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: 18-652
+Instructors: Leonardo da Silva Sousa
+Rooms: B23 109; B23 227
+Locations: San Jose, California
+</end course metadata for 18-671 Foundations of Database Design>
+
+<start course description for 18-671 Foundations of Database Design>
+Semester: Spring 2024 (aka S24)
+Course Description: A strong foundation in database concepts and database management systems (DBMS) is essential for software engineers because it underpins the core functionality of most software applications. It enables engineers to build reliable, scalable, and high-performing software systems The Foundations of Database Design course comprehensively explores database principles and concepts from a software development perspective. Students will delve into the fundamental principles of databases, including SQL and NoSQL databases, data modeling (e.g., schemas, tables, keys, and constraints), data storage management (partitioning, replication, and sharding) and other relevant concepts essential to design and implement a DBMS. We introduce and explore these concepts by evolving a novel database management system (DBMS) through new components and features. The programming language used in the course is C++. Prior knowledge of C++ is necessary.
+</end course description for 18-671 Foundations of Database Design>

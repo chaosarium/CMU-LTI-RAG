@@ -1,0 +1,16 @@
+<start course metadata for 76-488 Information Architecture & Content Strategy Lab>
+Semester: Spring 2024 (aka S24)
+Course Name: Information Architecture & Content Strategy Lab
+Course Number: 76-488
+Department: English
+Number of Units: 3
+Prerequisites: (76-270 or 76-271 or 76-379 ) and (76-391 or 76-382 or 76-383)
+Instructors: Alan Houser
+Rooms: CYH 100A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 76-488 Information Architecture & Content Strategy Lab>
+
+<start course description for 76-488 Information Architecture & Content Strategy Lab>
+Semester: Spring 2024 (aka S24)
+Course Description: Lab exercises for this course include the following: basic HTML, images, tables, animation, image maps, interactive forms, Web interfaces to databases, and basic Javascripting. All students must do the lab exercises. The exercises are designed so that those students who already know particular topics (e.g., basic HTML) do not need to attend the lab session. Students who would like guided practice in doing the lab exercises must attend the lab session. Lab sessions take place in a computer cluster.
+</end course description for 76-488 Information Architecture & Content Strategy Lab>

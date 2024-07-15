@@ -1,0 +1,16 @@
+<start course metadata for 03-140 Ecology and Environmental Science>
+Semester: Fall 2023 (aka F23)
+Course Name: Ecology and Environmental Science
+Course Number: 03-140
+Department: Biological Sciences
+Number of Units: 9
+Prerequisites: None
+Instructors: Frederick Lanni
+Rooms: WEH 4623
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 03-140 Ecology and Environmental Science>
+
+<start course description for 03-140 Ecology and Environmental Science>
+Semester: Fall 2023 (aka F23)
+Course Description: Environmental science is a highly interdisciplinary field that integrates knowledge and modes of inquiry from across the sciences to understand some of the most important challenges of the 21st century. This course provides a foundational background in scientific method, critical thinking and problem solving strategies used to study and evaluate the environment. Modules include: principles of ecology and eco-systems, biological diversity, biogeochemical cycles, endangered species management, human population growth, atmosphere, climate and global warming. Assessment will include class attendance, quizzes, individual and small group projects, in class exams. Projects may involve visits to local sites.
+</end course description for 03-140 Ecology and Environmental Science>

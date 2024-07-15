@@ -1,0 +1,16 @@
+<start course metadata for 36-650 Statistical Computing>
+Semester: Fall 2023 (aka F23)
+Course Name: Statistical Computing
+Course Number: 36-650
+Department: Statistics and Data Science
+Number of Units: 9
+Prerequisites: None
+Instructors: Mikael Kuusela
+Rooms: SH 234
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 36-650 Statistical Computing>
+
+<start course description for 36-650 Statistical Computing>
+Semester: Fall 2023 (aka F23)
+Course Description: A detailed introduction to elements of computing relating to statistical modeling, targeted to advanced undergraduates, masters students, and doctoral students in Statistics. Topics include important data structures and algorithms; numerical methods; databases; parallelism and concurrency; and coding practices, program design, and testing. Multiple programming languages will be supported (e.g., C, R, Python, etc.). Those with no previous programming experience are welcome but will be required to learn the basics of at least one language via self-study.  There are very limited spots for undergraduates; special permission from both instructor and advisor required.
+</end course description for 36-650 Statistical Computing>

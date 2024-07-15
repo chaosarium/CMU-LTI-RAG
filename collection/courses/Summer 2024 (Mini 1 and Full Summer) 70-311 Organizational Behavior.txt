@@ -1,0 +1,16 @@
+<start course metadata for 70-311 Organizational Behavior>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Organizational Behavior
+Course Number: 70-311
+Department: Business Administration
+Number of Units: 9
+Prerequisites: (76-102) or (76-101) or (76-106 and 76-107) or (76-106 and 76-108) or (76-107 and 76-108) or (76-245) or (76-331) or (76-347) or (76-327) or (76-102)
+Instructors: Chaoyi Zhang
+Rooms: TEP 2612
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 70-311 Organizational Behavior>
+
+<start course description for 70-311 Organizational Behavior>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: This course examines the factors which influence individual, group and firm behavior in the context of the workplace. Topics covered include perception, group behavior, decision making, motivation, leadership and organizational design and change.
+</end course description for 70-311 Organizational Behavior>

@@ -1,0 +1,16 @@
+<start course metadata for 24-783 Advanced Engineering Computation>
+Semester: Spring 2024 (aka S24)
+Course Name: Advanced Engineering Computation
+Course Number: 24-783
+Department: Mechanical Engineering
+Number of Units: 12
+Prerequisites: 24-780
+Instructors: Soji Yamakawa
+Rooms: WEH 5403
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-783 Advanced Engineering Computation>
+
+<start course description for 24-783 Advanced Engineering Computation>
+Semester: Spring 2024 (aka S24)
+Course Description: This course covers the advanced programming and computational skills necessary for solving engineering problems.  These include (1) efficient data structures and algorithms for modeling and processing real-world data sets such as trees, hash tables, searching, priority queues, etc. (2) techniques for simulation and visualization such as numerically solving ODEs and PDEs, viewing control, programmable shader, etc., (4) tools for version controlling, scripting, and code building including sub-version, git, and cmake.  Students will experience practical training in the above knowledge and programming skills through bi-weekly assignments and a final team project.  Prerequisites- 24-780 Engineering Computation or equivalent C++ and OpenGL programming experience
+</end course description for 24-783 Advanced Engineering Computation>

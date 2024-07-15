@@ -1,0 +1,16 @@
+<start course metadata for 82-531 Special Topics in Chinese Studies>
+Semester: Fall 2023 (aka F23)
+Course Name: Special Topics in Chinese Studies
+Course Number: 82-531
+Department: Modern Languages
+Number of Units: N/A
+Prerequisites: 82-434 or 82-440 or 82-433 or 82-436
+Instructors: Instructor TBA
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 82-531 Special Topics in Chinese Studies>
+
+<start course description for 82-531 Special Topics in Chinese Studies>
+Semester: Fall 2023 (aka F23)
+Course Description: Restricted to language majors who wish to go beyond the regular course offerings in Chinese Studies involving group or individual study in a subject area approved by the instructor. Prerequisites: Permission of instructor and a 400-level course
+</end course description for 82-531 Special Topics in Chinese Studies>

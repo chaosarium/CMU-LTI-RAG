@@ -1,0 +1,16 @@
+<start course metadata for 33-141 Physics I for Engineering Students>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Physics I for Engineering Students
+Course Number: 33-141
+Department: Physics
+Number of Units: 12
+Prerequisites: None
+Instructors: Hael Collins
+Rooms: DH 1212
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 33-141 Physics I for Engineering Students>
+
+<start course description for 33-141 Physics I for Engineering Students>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: This is a first semester, calculus-based introductory physics course. Basic principles of mechanics and thermodynamics are developed. Topics include vectors, displacement, velocity, acceleration, force, equilibrium, mass, Newton's laws, gravitation, work, energy, momentum, impulse, torque and angular momentum, temperature, heat, equations of state, thermodynamic processes, heat engines, refrigerators, first and second laws of thermodynamics, and the kinetic theory of gases.
+</end course description for 33-141 Physics I for Engineering Students>

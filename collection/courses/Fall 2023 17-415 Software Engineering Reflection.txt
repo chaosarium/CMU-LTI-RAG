@@ -1,0 +1,16 @@
+<start course metadata for 17-415 Software Engineering Reflection>
+Semester: Fall 2023 (aka F23)
+Course Name: Software Engineering Reflection
+Course Number: 17-415
+Department: Software & Societal Systems
+Number of Units: 6
+Prerequisites: None
+Instructors: Bradley Schmerl, Joshua Sunshine
+Rooms: PH 125D
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 17-415 Software Engineering Reflection>
+
+<start course description for 17-415 Software Engineering Reflection>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is an opportunity to reflect on a software engineering experience you have had in industry. It is structured as a writers workshop, in which you will work with the instructor and other students to identify and flesh out a software engineering theme that is illustrated by your industry experience. You will prepare a 10-page report on this theme, comparable to a practitioner's report at a conference like ICSE or OOPSLA, and a 30-minute presentation to match. This course fulfills a requirement of the Software Engineering Minor program, but students in other programs may take the course if they meet the prerequisite industry experience and if space is available.
+</end course description for 17-415 Software Engineering Reflection>

@@ -1,0 +1,16 @@
+<start course metadata for 84-794 Policy Seminar IV>
+Semester: Spring 2024 (aka S24)
+Course Name: Policy Seminar IV
+Course Number: 84-794
+Department: Institute for Politics and Strategy
+Number of Units: 3
+Prerequisites: None
+Instructors: Mark Gardner
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 84-794 Policy Seminar IV>
+
+<start course description for 84-794 Policy Seminar IV>
+Semester: Spring 2024 (aka S24)
+Course Description: The CMIST Policy Forum is one key way in which CMIST brings international relations and politics into the intellectual conversation at CMU. The CMIST Policy Forum regularly brings diplomats, scholars, policymakers, journalists, and other thought leaders to the university to address major issues facing the United States and the world. CMIST graduate students will enroll in the three-unit Policy Seminar each semester and be expected to participate in and reflect on their interactions throughout the CMIST Policy Forum lectures and roundtable discussions.
+</end course description for 84-794 Policy Seminar IV>

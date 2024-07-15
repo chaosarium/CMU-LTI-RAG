@@ -1,0 +1,16 @@
+<start course metadata for 67-382 Digital Transformation, Strategy and Management>
+Semester: Fall 2023 (aka F23)
+Course Name: Digital Transformation, Strategy and Management
+Course Number: 67-382
+Department: Information Systems Program
+Number of Units: 9
+Prerequisites: None
+Instructors: Savanid  Nui Vatanasakdakul
+Rooms: CMB 3046
+Locations: Doha, Qatar
+</end course metadata for 67-382 Digital Transformation, Strategy and Management>
+
+<start course description for 67-382 Digital Transformation, Strategy and Management>
+Semester: Fall 2023 (aka F23)
+Course Description: Our world is being transformed with a digital revolution spanning across all aspects of society, culture, and organizations. This transformation has provided many with the opportunity to innovate and prosper, while others have struggled to keep up and have eventually perished. What does it take to be successful in the digital revolution? How can we harness the potential of Information Systems to compete and prosper as organizations and communities? The aim of this course is to prepare students to be effective digital transformation strategists. Given the global aspects of the digital revolution, the course adopts a global perspective, where students explore multi-dimensional aspects of IS management, incorporating strategic leadership, cross cultural management and technology adoption and diffusion in different contexts. This course provides an understanding of IS enabled change in the business environment; the alignment between IS strategies and business objectives; and ways in which business could leverage IS to transform and create digital strategies for a sustained competitive advantage. Students will also be exposed to digital eco-systems in various industries and across cultural platforms.
+</end course description for 67-382 Digital Transformation, Strategy and Management>

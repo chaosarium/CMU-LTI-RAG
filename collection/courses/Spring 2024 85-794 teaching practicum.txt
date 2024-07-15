@@ -1,0 +1,16 @@
+<start course metadata for 85-794 teaching practicum>
+Semester: Spring 2024 (aka S24)
+Course Name: teaching practicum
+Course Number: 85-794
+Department: Psychology
+Number of Units: 9
+Prerequisites: None
+Instructors: Vicki Helgeson
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 85-794 teaching practicum>
+
+<start course description for 85-794 teaching practicum>
+Semester: Spring 2024 (aka S24)
+Course Description: Psychology Dept. Graduate Students Only.
+</end course description for 85-794 teaching practicum>

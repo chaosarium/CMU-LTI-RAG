@@ -1,0 +1,16 @@
+<start course metadata for 11-633 MCDS Independent Study>
+Semester: Fall 2023 (aka F23)
+Course Name: MCDS Independent Study
+Course Number: 11-633
+Department: Language Technologies Institute
+Number of Units: N/A
+Prerequisites: None
+Instructors: Carolyn Rose, Instructor TBA
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 11-633 MCDS Independent Study>
+
+<start course description for 11-633 MCDS Independent Study>
+Semester: Fall 2023 (aka F23)
+Course Description: An independent study course is designed by the student to cover study of a particular area of interest too the student and is used when there is no formal course available in that subject area.
+</end course description for 11-633 MCDS Independent Study>

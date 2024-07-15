@@ -1,0 +1,16 @@
+<start course metadata for 03-133 Neurobiology of Disease>
+Semester: Spring 2024 (aka S24)
+Course Name: Neurobiology of Disease
+Course Number: 03-133
+Department: Biological Sciences
+Number of Units: 9
+Prerequisites: None
+Instructors: Daniel Brasier
+Rooms: SH 105
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 03-133 Neurobiology of Disease>
+
+<start course description for 03-133 Neurobiology of Disease>
+Semester: Spring 2024 (aka S24)
+Course Description: This course will explore the biological basis of several neurological and neuropsychiatric diseases, with an emphasis on medical diagnostic tools and techniques. It will include discussions of the anatomical basis of neurological diseases as well as recent research into understanding the mechanisms of disease. This course is intended to broaden students' understanding of how diseases are diagnosed and studied.  Students will also learn how basic neurological and psychiatric evaluations are conducted.  We will discuss neurobiological research to serve as a basis for understanding brain structures and functional alterations in a variety of developmental, degenerative, neurological, and psychiatric disorders.
+</end course description for 03-133 Neurobiology of Disease>

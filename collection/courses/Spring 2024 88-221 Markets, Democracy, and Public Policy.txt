@@ -1,0 +1,16 @@
+<start course metadata for 88-221 Markets, Democracy, and Public Policy>
+Semester: Spring 2024 (aka S24)
+Course Name: Markets, Democracy, and Public Policy
+Course Number: 88-221
+Department: Social & Decision Sciences
+Number of Units: 9
+Prerequisites: 73-102
+Instructors: Christina Fong
+Rooms: WEH 5409
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 88-221 Markets, Democracy, and Public Policy>
+
+<start course description for 88-221 Markets, Democracy, and Public Policy>
+Semester: Spring 2024 (aka S24)
+Course Description: In this course, you will learn a powerful set of concepts for analyzing: (i) What markets are and the positive and negative effects they may have on individuals and society (ii) What democracy is, how markets and democracy may interact, and some ways in which democracy is vulnerable (iii) How public policy might soften some of the negative effects of markets and support democracy. You will learn theory via application to historical and current real-world examples. You will appreciate how theory illuminates the real-world examples.
+</end course description for 88-221 Markets, Democracy, and Public Policy>

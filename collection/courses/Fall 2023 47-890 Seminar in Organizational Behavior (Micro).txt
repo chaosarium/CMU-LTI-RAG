@@ -1,0 +1,16 @@
+<start course metadata for 47-890 Seminar in Organizational Behavior (Micro)>
+Semester: Fall 2023 (aka F23)
+Course Name: Seminar in Organizational Behavior (Micro)
+Course Number: 47-890
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Taya Cohen
+Rooms: TEP 5222
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 47-890 Seminar in Organizational Behavior (Micro)>
+
+<start course description for 47-890 Seminar in Organizational Behavior (Micro)>
+Semester: Fall 2023 (aka F23)
+Course Description: This seminar focuses on individual and group behavior in organizations. The purpose of this course is to examine and understand fundamental theories and empirical research in the field of organizational behavior, and to increase our understanding of people's behavior in organizations. To do so, we will study a blend of classic and contemporary literature so that we can appreciate the prevailing theories and findings within a broader context. We will focus on identifying underlying theoretical and conceptual frameworks characterizing organizational research, and helping you to develop a sense of the issues and questions that organizational behavior addresses. Each week we will cover an area in depth, explore major theories, review a selected set of readings, and discuss some of the critical issues that the readings raise with regard to both theory and research methods.
+</end course description for 47-890 Seminar in Organizational Behavior (Micro)>

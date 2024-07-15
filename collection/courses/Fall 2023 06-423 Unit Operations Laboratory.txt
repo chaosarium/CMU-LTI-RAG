@@ -1,0 +1,16 @@
+<start course metadata for 06-423 Unit Operations Laboratory>
+Semester: Fall 2023 (aka F23)
+Course Name: Unit Operations Laboratory
+Course Number: 06-423
+Department: Chemical Engineering
+Number of Units: 9
+Prerequisites: 06-361 AND 06-364
+Instructors: Joanne Beckwith, Matthew Cline
+Rooms: BH A51
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 06-423 Unit Operations Laboratory>
+
+<start course description for 06-423 Unit Operations Laboratory>
+Semester: Fall 2023 (aka F23)
+Course Description: Open-ended laboratory projects illustrate the principles of unit operations in Chemical Engineering.  In this course students select, with course staff review, current societal problems to which chemical engineering subject knowledge can be applied.  Students work in teams to design and implement an experimental plan to evaluate proposed solutions.  Teams must work together to identify constraints and relationships between the unit operations they work on. Students must document implementation feasibility (cost, scheduling, analytic capability, etc.) and clearly identify the criteria and methods for assessing experimental results.  Oral and written reports are required.
+</end course description for 06-423 Unit Operations Laboratory>

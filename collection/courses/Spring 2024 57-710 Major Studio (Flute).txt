@@ -1,0 +1,16 @@
+<start course metadata for 57-710 Major Studio (Flute)>
+Semester: Spring 2024 (aka S24)
+Course Name: Major Studio (Flute)
+Course Number: 57-710
+Department: Music
+Number of Units: 9
+Prerequisites: None
+Instructors: Alberto Almarza, Lorna McGhee
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-710 Major Studio (Flute)>
+
+<start course description for 57-710 Major Studio (Flute)>
+Semester: Spring 2024 (aka S24)
+Course Description: A one hour private lesson per week for all music majors.
+</end course description for 57-710 Major Studio (Flute)>

@@ -1,0 +1,16 @@
+<start course metadata for 85-795 applications in Cognitive Science>
+Semester: Spring 2024 (aka S24)
+Course Name: applications in Cognitive Science
+Course Number: 85-795
+Department: Psychology
+Number of Units: N/A
+Prerequisites: 85-211 and 85-310 and 85-370
+Instructors: Roberta Klatzky
+Rooms: BH 336B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 85-795 applications in Cognitive Science>
+
+<start course description for 85-795 applications in Cognitive Science>
+Semester: Spring 2024 (aka S24)
+Course Description: The famous psychologist George Miller once said that Psychology should "give itself away."  The goal of this course is to look at cases where we have done so -- or at least tried.  The course focuses on applications that are sufficiently advanced as to have made an impact outside of the research field per se.  That impact can take the form of a product,  a change in practice, or a legal statute. The application should have a theoretical base, as contrasted, say, with pure measurement research as in ergonomics. Examples of applications are virtual reality (in vision, hearing, and touch), cognitive tutors based on models of cognitive processing, phonologically based reading programs, latent semantic analysis applications to writing assessment, and measurses of consumers' implicit attitudes.    The course will use a case-study approach that considers a set of applications in detail, while building a general understanding of what it means to move research into the applied setting.  The questions to be considered include:  What makes a body of theoretically based research applicable?  What is the pathway from laboratory to practice?  What are the barriers - economic, legal, entrenched belief or practice?  The format will emphasize analysis and discussion by students.
+</end course description for 85-795 applications in Cognitive Science>

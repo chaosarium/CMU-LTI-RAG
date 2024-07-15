@@ -1,0 +1,16 @@
+<start course metadata for 46-912 Blockchain and SQL Fundamentals>
+Semester: Fall 2023 (aka F23)
+Course Name: Blockchain and SQL Fundamentals
+Course Number: 46-912
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Michael Mccarthy, Raja Sooriamurthi
+Rooms: BRD 516; TCS 251
+Locations: New York, New York; Pittsburgh, Pennsylvania
+</end course metadata for 46-912 Blockchain and SQL Fundamentals>
+
+<start course description for 46-912 Blockchain and SQL Fundamentals>
+Semester: Fall 2023 (aka F23)
+Course Description: This is a medley class that combines SQL (accessing and processing data stored in large, centralized data stores) and blockchain smart contracts (accessing and processing data stored in decentralized ledgers). There is significant interest in the industry for both approaches.  The course is designed to provide the student with a serious and hands-on introduction to SQL and smart contract programming. Applications will primarily be chosen from the area of computational finance.  The student should come to the class with knowledge of at least one programming language.  Non-MSCF students may not take this course without written permission from the instructor. To be eligible, you must be a BSCF student or a graduate student enrolled in an MSCF participating college (Dietrich, Heinz, Tepper or Mellon). PhD students with relevant research may be eligible with permission from the instructor.
+</end course description for 46-912 Blockchain and SQL Fundamentals>

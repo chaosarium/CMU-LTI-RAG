@@ -1,0 +1,16 @@
+<start course metadata for 15-921 Reading on Research>
+Semester: Fall 2023 (aka F23)
+Course Name: Reading on Research
+Course Number: 15-921
+Department: Computer Science
+Number of Units: 3
+Prerequisites: None
+Instructors: Justine Sherry
+Rooms: GHC 4303
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-921 Reading on Research>
+
+<start course description for 15-921 Reading on Research>
+Semester: Fall 2023 (aka F23)
+Course Description: This is a weird seminar. It's not about doing research. Instead, it's about the (often, undiscussed) psychological, emotional, and philosophical themes that you will face as you come to identify as a researcher.
+</end course description for 15-921 Reading on Research>

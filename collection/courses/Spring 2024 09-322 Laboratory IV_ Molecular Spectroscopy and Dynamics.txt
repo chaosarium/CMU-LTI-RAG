@@ -1,0 +1,16 @@
+<start course metadata for 09-322 Laboratory IV: Molecular Spectroscopy and Dynamics>
+Semester: Spring 2024 (aka S24)
+Course Name: Laboratory IV: Molecular Spectroscopy and Dynamics
+Course Number: 09-322
+Department: Chemistry
+Number of Units: 12
+Prerequisites: (09-221 or 09-223) and (09-344)
+Instructors: Tomasz Kowalewski, Yisong Guo
+Rooms: CYH 100A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 09-322 Laboratory IV: Molecular Spectroscopy and Dynamics>
+
+<start course description for 09-322 Laboratory IV: Molecular Spectroscopy and Dynamics>
+Semester: Spring 2024 (aka S24)
+Course Description: This laboratory course is devoted to physical chemistry experiments, which involve the use of modern spectroscopic instrumentation to probe the optical and magnetic properties of molecules. The experiments include the use of high-resolution infrared, laser Raman, NMR, EPR, fluorescence, and UV-visible spectroscopies. Additional experiments demonstrate methods for measuring enzyme-catalyzed reaction rate constants, and the use of scanning probe microscopy for imaging and characterization of biological macromolecules.Throughout the course the students will learn how to use computer algebra packages for rigorous data analysis and modeling and will develop the skills in basic electronics, and vacuum techniques. 2 hrs. lec., 6 hrs. lab.
+</end course description for 09-322 Laboratory IV: Molecular Spectroscopy and Dynamics>

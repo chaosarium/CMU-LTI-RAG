@@ -1,0 +1,16 @@
+<start course metadata for 18-843 Mobile and Pervasive Computing>
+Semester: Fall 2023 (aka F23)
+Course Name: Mobile and Pervasive Computing
+Course Number: 18-843
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: 15-410
+Instructors: Asim Smailagic, Mahadev Satyanarayanan
+Rooms: GHC 4303
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-843 Mobile and Pervasive Computing>
+
+<start course description for 18-843 Mobile and Pervasive Computing>
+Semester: Fall 2023 (aka F23)
+Course Description: This is a course exploring research issues in the newly emerging field of mobile computing. Many traditional areas of computer science and computer engineering are impacted by the constraints and demands of mobility. Examples include network protocols, power management, user interfaces, file access, ergonomics, and security. This will be an "advanced" course in the truest sense --- most, if not all, the topics discussed will be ones where there is little consensus in the research community on the best approaches. The course will also offer significant "hand-on" experience in this area. Each student will have to present and lead the discussion on a number of papers. Students will work in groups of three under the guidance of a mentor on a hands-on project. Each student will also be required to write one of two documents: (a) a research proposal (similar in spirit to an NSF proposal) on an idea in mobile computing or (b) a short business plan for a commercial opportunity in mobile computing. Grading will be based on the quality of the presentations, the project, and the proposal or business plan.     Prerequisites: 15-410 and senior or graduate standing.
+</end course description for 18-843 Mobile and Pervasive Computing>

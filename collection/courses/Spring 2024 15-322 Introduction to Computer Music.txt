@@ -1,0 +1,16 @@
+<start course metadata for 15-322 Introduction to Computer Music>
+Semester: Spring 2024 (aka S24)
+Course Name: Introduction to Computer Music
+Course Number: 15-322
+Department: Computer Science
+Number of Units: 9
+Prerequisites: 15-112 or 15-122
+Instructors: Chris Donahue, Thomas Cortina
+Rooms: TEP 1403
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-322 Introduction to Computer Music>
+
+<start course description for 15-322 Introduction to Computer Music>
+Semester: Spring 2024 (aka S24)
+Course Description: Computers are used to synthesize sound, process signals, and  compose music. Personal computers have replaced studios full of sound  recording and processing equipment, completing a revolution that began with  recording and electronics. In this course, students will learn the  fundamentals of digital audio, basic sound synthesis algorithms, and  techniques for digital audio effects and processing. Students will apply  their knowledge in programming assignments using a very high-level  programming language for sound synthesis and composition. In a final  project, students will demonstrate their mastery of tools and techniques  through music composition or by the implementation of a significant  sound-processing technique.
+</end course description for 15-322 Introduction to Computer Music>

@@ -1,0 +1,16 @@
+<start course metadata for 94-857 The Strategy and Management of Technological Innovation>
+Semester: Spring 2024 (aka S24)
+Course Name: The Strategy and Management of Technological Innovation
+Course Number: 94-857
+Department: Heinz College Wide Courses
+Number of Units: 12
+Prerequisites: None
+Instructors: Joseph Brence
+Rooms: POS 153
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 94-857 The Strategy and Management of Technological Innovation>
+
+<start course description for 94-857 The Strategy and Management of Technological Innovation>
+Semester: Spring 2024 (aka S24)
+Course Description: Welcome to the dynamic and transformative realm of "Strategy and Management of Technological Innovation".  This course is designed to equip learners with the acumen and practical skills necessary to navigate the rapidly evolving landscape of technology-driven innovation.  We will delve deep into the intricacies of conceiving, nurturing, and strategically deploying technological innovations to achieve sustainable competitive advantage.  We will emphasize the practical aspects of innovation strategy and management through an extensive array of case studies and real-life examples. Learners will delve into the nuances of go-to-market strategies for new innovations, master the art of sustaining innovation, and explore how disruptive strategies can reshape industries. By the end of this course, learners will be equipped with a robust strategic toolkit, rooted in real-world examples, that will empower them to lead and drive technological innovation within their organization(s), regardless of stage or industry.     
+</end course description for 94-857 The Strategy and Management of Technological Innovation>

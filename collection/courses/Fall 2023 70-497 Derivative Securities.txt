@@ -1,0 +1,16 @@
+<start course metadata for 70-497 Derivative Securities>
+Semester: Fall 2023 (aka F23)
+Course Name: Derivative Securities
+Course Number: 70-497
+Department: Business Administration
+Number of Units: 9
+Prerequisites: 70-391 or 21-370
+Instructors: Duane Seppi
+Rooms: TEP 2701
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 70-497 Derivative Securities>
+
+<start course description for 70-497 Derivative Securities>
+Semester: Fall 2023 (aka F23)
+Course Description: This course has two goals. The first goal is to help you to master the tools to price and hedge and understand the risk exposures of any contingent claim on any underlying variable. The second goal in this course is to practice using these pricing and hedging tools in derivative structuring and sales. The focus here is on designing and pricing derivative securities to trade on specialized market views and to hedge customized risk exposures. The course also highlights practical issues about model calibration, model risk, and dynamic and static hedging. This course may use third-party course material that is not available for individual purchase from the publisher.   If so, the third-party course material will be secured and provided by the Tepper School to students enrolled in the course, and students enrolled in the course will be required to pay to the University the associated additional course materials fee for the third-party course material provided.   The amount of the course materials fee is dependent on the University's cost of the particular materials provided, and typically ranges from $13 to $75.
+</end course description for 70-497 Derivative Securities>

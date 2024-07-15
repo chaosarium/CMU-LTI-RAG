@@ -1,0 +1,16 @@
+<start course metadata for 18-653 Software Design and Architecture>
+Semester: Fall 2023 (aka F23)
+Course Name: Software Design and Architecture
+Course Number: 18-653
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Leonardo da Silva Sousa
+Rooms: B23 211; B23 227
+Locations: San Jose, California
+</end course metadata for 18-653 Software Design and Architecture>
+
+<start course description for 18-653 Software Design and Architecture>
+Semester: Fall 2023 (aka F23)
+Course Description: Software Design and Architecture aims to train software engineering graduate students for assuming the technical leadership of a software project team. The primary objective of the course is to help students develop skills in designing, developing, and justifying software architecture for enterprise-scale software-intensive systems, considering both functional and non-functional requirements as well as the system environment. Core topics include: overview of software architecture, micro architectural patterns (design patterns) and macro architectural patterns (architectural or modern patterns), service oriented architecture, architectural modeling, viewpoints and perspectives, architectural analysis techniques, architectural tactics (QoS), agile architectures, and other advanced topics.   At the end of this course students will be able to: (a) competently generate architectural alternatives for a problem, and choose among them; (b) have the skills needed to construct a medium-sized software system that satisfies an architectural specification; (c) understand and analyze common modern software architectures and reason about the properties of these architectures.
+</end course description for 18-653 Software Design and Architecture>

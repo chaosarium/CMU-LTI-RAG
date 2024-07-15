@@ -1,0 +1,16 @@
+<start course metadata for 67-100 Information Systems First Year Colloquium>
+Semester: Fall 2023 (aka F23)
+Course Name: Information Systems First Year Colloquium
+Course Number: 67-100
+Department: Information Systems Program
+Number of Units: 1
+Prerequisites: None
+Instructors: Daniel Phelps, Jessica Lutz, Joseph Mertz
+Rooms: CMB 1064; DH A302
+Locations: Doha, Qatar; Pittsburgh, Pennsylvania
+</end course metadata for 67-100 Information Systems First Year Colloquium>
+
+<start course description for 67-100 Information Systems First Year Colloquium>
+Semester: Fall 2023 (aka F23)
+Course Description: This IS Colloquium will provide a broad introduction to the Information Systems Program, an exciting program newly joint between Carnegie Mellon's Dietrich College and Heinz College. The IS Colloquium is open only to first-year IS students and is led by an IS academic advisor who facilitates discussions on the field of IS, the program curriculum, and careers, in addition to co-curricular experiences such as internships and study abroad. Because the flexible nature of the IS program encourages students to explore their own interests, we place an emphasis on highlighting a variety of areas within the field of IS. Guest lecturers will include leaders in IS research including Dietrich and Heinz faculty and IS alumni. Additional speakers include the IS career consultant and various campus representatives. Discussions will include students' progress in their first semester, as well as guidance in course planning, creating student Spring semester class schedules, and their overall four-year plan.
+</end course description for 67-100 Information Systems First Year Colloquium>

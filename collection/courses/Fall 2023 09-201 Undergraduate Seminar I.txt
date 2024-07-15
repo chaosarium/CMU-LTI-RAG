@@ -1,0 +1,16 @@
+<start course metadata for 09-201 Undergraduate Seminar I>
+Semester: Fall 2023 (aka F23)
+Course Name: Undergraduate Seminar I
+Course Number: 09-201
+Department: Chemistry
+Number of Units: 1
+Prerequisites: None
+Instructors: Karen Stump
+Rooms: DH 2302
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 09-201 Undergraduate Seminar I>
+
+<start course description for 09-201 Undergraduate Seminar I>
+Semester: Fall 2023 (aka F23)
+Course Description: Issues and topics of importance to beginning chemistry majors are discussed in this course. It provides a general introduction to the facilities, faculty and programs of the Department of Chemistry and introduces students to career and research opportunities in the field of chemistry. Enrollment limited to students majoring in chemistry.  1 hr.
+</end course description for 09-201 Undergraduate Seminar I>

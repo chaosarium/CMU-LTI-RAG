@@ -1,0 +1,16 @@
+<start course metadata for 92-868 Digital Innovation and AI>
+Semester: Spring 2024 (aka S24)
+Course Name: Digital Innovation and AI
+Course Number: 92-868
+Department: Medical Management:Sch of Pub Pol & Mgt
+Number of Units: 4
+Prerequisites: None
+Instructors: Anand Rao
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 92-868 Digital Innovation and AI>
+
+<start course description for 92-868 Digital Innovation and AI>
+Semester: Spring 2024 (aka S24)
+Course Description: No course description provided.
+</end course description for 92-868 Digital Innovation and AI>

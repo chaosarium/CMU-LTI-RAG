@@ -1,0 +1,16 @@
+<start course metadata for 03-708 Practical Computing for Biologists>
+Semester: Spring 2024 (aka S24)
+Course Name: Practical Computing for Biologists
+Course Number: 03-708
+Department: Biological Sciences
+Number of Units: 6
+Prerequisites: None
+Instructors: Joel Mcmanus
+Rooms: POS 146
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 03-708 Practical Computing for Biologists>
+
+<start course description for 03-708 Practical Computing for Biologists>
+Semester: Spring 2024 (aka S24)
+Course Description: The last two decades have seen an explosion in publicly available biological data and open source programs for data analysis. Using such programs to analyze these data still requires significant training and practice. This course is designed to help you build the skills necessary to unlock the power of public programs and analyze public data. You will learn basic command line operations in Unix, fundamentals of programming for biological data analysis, how to install and use public open source programs, and strategies for combining tools and programs into computational pipelines.
+</end course description for 03-708 Practical Computing for Biologists>

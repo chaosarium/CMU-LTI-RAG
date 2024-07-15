@@ -1,0 +1,16 @@
+<start course metadata for 52-292 BXA Student Advisory Council>
+Semester: Spring 2024 (aka S24)
+Course Name: BXA Student Advisory Council
+Course Number: 52-292
+Department: BXA Intercollege Degree Programs
+Number of Units: 3
+Prerequisites: None
+Instructors: Carrie Hagan
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 52-292 BXA Student Advisory Council>
+
+<start course description for 52-292 BXA Student Advisory Council>
+Semester: Spring 2024 (aka S24)
+Course Description: This course will provide opportunities for students to promote and refine the mission of the BXA programs. Students will develop and practice leadership skills, including collaboration, communication, and project management. Students will be responsible for planning and running BXA student events, including info sessions, social hours, skills workshops, and alumni events. Students are encouraged to think about how to engage other interdisciplinary scholars and artists as well as how to present their own work and programs to the larger university community.
+</end course description for 52-292 BXA Student Advisory Council>

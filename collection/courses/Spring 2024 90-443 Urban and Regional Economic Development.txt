@@ -1,0 +1,16 @@
+<start course metadata for 90-443 Urban and Regional Economic Development>
+Semester: Spring 2024 (aka S24)
+Course Name: Urban and Regional Economic Development
+Course Number: 90-443
+Department: Public Policy & Mgt:Sch of Pub Pol & Mgt
+Number of Units: 12
+Prerequisites: None
+Instructors: Christopher Briem
+Rooms: HBH 1004
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 90-443 Urban and Regional Economic Development>
+
+<start course description for 90-443 Urban and Regional Economic Development>
+Semester: Spring 2024 (aka S24)
+Course Description: The course will introduce students to the theory and practice of economic development in the United States. An introduction to basic analytic techniques used by both researchers and economic development practitioners will be coupled with a broad overview of the research literature in the fields of urban and regional economics. Emphasis will be placed on the public sector's role in promoting economic development and public policy at the federal, state and local levels that are focused on improving economic conditions for people, places and regions. Optional readings will focus on Pittsburgh's economic development and regional economic change since WWII.
+</end course description for 90-443 Urban and Regional Economic Development>

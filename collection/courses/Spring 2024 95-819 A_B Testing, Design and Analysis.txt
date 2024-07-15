@@ -1,0 +1,16 @@
+<start course metadata for 95-819 A/B Testing, Design and Analysis>
+Semester: Spring 2024 (aka S24)
+Course Name: A/B Testing, Design and Analysis
+Course Number: 95-819
+Department: Information Systems:Sch of IS & Mgt
+Number of Units: 6
+Prerequisites: None
+Instructors: Ananya Sen, Avinash Collis
+Rooms: HBH 1202; HBH 1204
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 95-819 A/B Testing, Design and Analysis>
+
+<start course description for 95-819 A/B Testing, Design and Analysis>
+Semester: Spring 2024 (aka S24)
+Course Description: This course looks at how A/B testing helps measure causal effects across different industries and fields of public policy studies. We aim at answering questions such as: how does the demand for a product change when the price does or the ratings do? how can we anticipate how sales and profits change if the firm changes its business strategy? how can we measure whether introducing technology in schools, universities and/or classrooms affects the performance of students? Many companies and Governmental Agencies ask and try to answer questions of this type every day. Moreover they are now also actively seeking tools that can take advantage of big datasets to answer these questions as well as skillful individuals that know how to use them confidently. This course introduces fundamental concepts to correctly ask this type of question. We study frameworks to measure causal effects and we discuss their pros and cons. Every tool is discussed in the context of a specific example that students work on using real world datasets. Significant effort is placed on understanding how to design randomized experiments to measure causal effects. We also discuss the most common challenges that arise when trying to design such experiments in the wild. The concepts and tools discussed in this course are general in nature and can be applied in different settings. The examples discussed in class will be mostly drawn from our own work at Heinz College on the media industry and education policy. Lectures are 3 hours long. In the first half of each lecture we go over concepts related to A/B testing and what to do when A/B tests are unavailable. The discussion is based on the ideas and intuition behind these concepts. In the second half of each lecture we go over specific examples -- we study several real-world datasets and the code used to analyze them properly. Student evaluation is based on five weekly homeworks and a brief team term project.
+</end course description for 95-819 A/B Testing, Design and Analysis>

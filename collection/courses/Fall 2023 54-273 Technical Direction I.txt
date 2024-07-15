@@ -1,0 +1,16 @@
+<start course metadata for 54-273 Technical Direction I>
+Semester: Fall 2023 (aka F23)
+Course Name: Technical Direction I
+Course Number: 54-273
+Department: Drama
+Number of Units: 6
+Prerequisites: 54-158 or 54-272
+Instructors: David Boevers
+Rooms: PCA 209
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-273 Technical Direction I>
+
+<start course description for 54-273 Technical Direction I>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is an exploration of techniques and practices of the Technical Director. The class has three main components: classroom presentation of School of Drama production technical direction process, classroom lectures centering on TD process, and project work. Over the course of the semester, students will work on two productions as paper projects. This is an opportunity to have a somewhat less stressful pass through a show, completing estimates, schedules, and drawings designed to help establish a professional foundation for the student as a technical director. All of the course components run concurrently.     Prerequisites: 54272 or Instructor Permission
+</end course description for 54-273 Technical Direction I>

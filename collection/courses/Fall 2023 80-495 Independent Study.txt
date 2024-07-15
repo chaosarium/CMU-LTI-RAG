@@ -1,0 +1,16 @@
+<start course metadata for 80-495 Independent Study>
+Semester: Fall 2023 (aka F23)
+Course Name: Independent Study
+Course Number: 80-495
+Department: Philosophy
+Number of Units: N/A
+Prerequisites: None
+Instructors: Adam Bjorndahl, Alex London, Clark Glymour, Danielle Wenner, Instructor TBA, Jeremy Avigad, Joel Smith, Kevin Kelly, Kevin Zollman, Mandy Simons, Peter Spirtes, Simon Cullen, Steve Awodey, Teddy Seidenfeld, Tom Werner, Wayne Wu, Wilfried Sieg
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 80-495 Independent Study>
+
+<start course description for 80-495 Independent Study>
+Semester: Fall 2023 (aka F23)
+Course Description: Undergraduate Independent Study Philosophy Department majors.
+</end course description for 80-495 Independent Study>

@@ -1,0 +1,16 @@
+<start course metadata for 66-505 Senior Capstone II>
+Semester: Fall 2023 (aka F23)
+Course Name: Senior Capstone II
+Course Number: 66-505
+Department: Dietrich College Interdisciplinary
+Number of Units: 9
+Prerequisites: None
+Instructors: Instructor TBA
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 66-505 Senior Capstone II>
+
+<start course description for 66-505 Senior Capstone II>
+Semester: Fall 2023 (aka F23)
+Course Description: Dietrich College student-defined majors (primary or additional) must complete a senior capstone project for at least 9 units (in one semester), or 18 units across both semesters of the senior year.  The capstone project culminates in an original independent research or creative project that draws on all of the strands of the student's particular student-defined program. This course is the second in the two-course capstone sequence, and is open only to seniors who have been admitted to the Dietrich College Student-Defined Program as a primary or additional major, and who have chosen the two-semester capstone option. The first course in the sequence is 66-504, Senior Capstone I.  Projects are proposed by eligible students, and must be approved by a member of the faculty who agrees to be the project's primary advisor, as well as by the Dietrich College Student-Defined Program Director.  These approvals must be secured no later than registration week of the semester prior to the start of the student's senior year.    NOTE: For Dietrich College student-defined majors (primary or additional) who are accepted into the Dietrich College Senior Honors Program and who successfully complete a senior honors thesis based primarily on their student-defined major, the senior honors thesis fulfills the student-defined major capstone requirement.
+</end course description for 66-505 Senior Capstone II>

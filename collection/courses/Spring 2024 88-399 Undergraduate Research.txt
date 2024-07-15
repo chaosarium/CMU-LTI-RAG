@@ -1,0 +1,16 @@
+<start course metadata for 88-399 Undergraduate Research>
+Semester: Spring 2024 (aka S24)
+Course Name: Undergraduate Research
+Course Number: 88-399
+Department: Social & Decision Sciences
+Number of Units: N/A
+Prerequisites: None
+Instructors: Christina Fong, Cleotilde Gonzalez, Danny Oppenheimer, George Loewenstein, Gretchen Chapman, Instructor TBA, Julie Downs, Kevin Jarbo, Russell Golman, Silvia Saccardo, Simon DeDeo
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 88-399 Undergraduate Research>
+
+<start course description for 88-399 Undergraduate Research>
+Semester: Spring 2024 (aka S24)
+Course Description: Students conduct research under the supervision of a Social & Decision Sciences faculty member. Students who wish to engage in research should seek out a faculty member whose interests are appropriate to the research. Prerequisite: Students must also complete an "Independent Study/Research for Credit" form, available from the SDS advisor in Porter 208A.  Permission of a faculty sponsor.
+</end course description for 88-399 Undergraduate Research>

@@ -1,0 +1,16 @@
+<start course metadata for 57-974 Piano Pedagogy II>
+Semester: Spring 2024 (aka S24)
+Course Name: Piano Pedagogy II
+Course Number: 57-974
+Department: Music
+Number of Units: 6
+Prerequisites: 57-973
+Instructors: Luz Manriquez
+Rooms: CFA M157
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-974 Piano Pedagogy II>
+
+<start course description for 57-974 Piano Pedagogy II>
+Semester: Spring 2024 (aka S24)
+Course Description: This course goes beyond the first years of beginning students towards the intermediate and early advanced levels.  Questions such as ?What is a good piece?? and ?what is style?? are studied and evaluated.
+</end course description for 57-974 Piano Pedagogy II>

@@ -1,0 +1,16 @@
+<start course metadata for 45-980 Big Data>
+Semester: Spring 2024 (aka S24)
+Course Name: Big Data
+Course Number: 45-980
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Mattia Ciollaro
+Rooms: TEP 2111; TEP 2202
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-980 Big Data>
+
+<start course description for 45-980 Big Data>
+Semester: Spring 2024 (aka S24)
+Course Description: Course Description: In this course we look at the phenomenon of 'Big Data' as an emerging force in the global business environment. The course will offer a conceptual foundation for capturing, managing, and analyzing enormous amounts of data to make better business decisions (and to build completely new businesses), case studies of businesses that have made big data a core part of their strategy, and hands-on work with Big Data tools.
+</end course description for 45-980 Big Data>

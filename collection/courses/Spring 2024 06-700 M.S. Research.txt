@@ -1,0 +1,16 @@
+<start course metadata for 06-700 M.S. Research>
+Semester: Spring 2024 (aka S24)
+Course Name: M.S. Research
+Course Number: 06-700
+Department: Chemical Engineering
+Number of Units: N/A
+Prerequisites: None
+Instructors: Carl Laird
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 06-700 M.S. Research>
+
+<start course description for 06-700 M.S. Research>
+Semester: Spring 2024 (aka S24)
+Course Description: None
+</end course description for 06-700 M.S. Research>

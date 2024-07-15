@@ -1,0 +1,16 @@
+<start course metadata for 04-910 Entrepreneurship Project>
+Semester: Spring 2024 (aka S24)
+Course Name: Entrepreneurship Project
+Course Number: 04-910
+Department: Information & Communication Technology
+Number of Units: N/A
+Prerequisites: None
+Instructors: Jesse Thornburg
+Rooms: CMR F305
+Locations: Kigali, Rwanda
+</end course metadata for 04-910 Entrepreneurship Project>
+
+<start course description for 04-910 Entrepreneurship Project>
+Semester: Spring 2024 (aka S24)
+Course Description: The Entrepreneurship Project class is an opportunity for students to build and practice skills in developing information technology ideas that create value for a selected set of customers. Students work in small teams on a concrete project to bridge the gap between entrepreneurial theory and practice. This highly selective course combines both independent team study and working with technical and professional mentors to apply concepts in the creation of a new information technology venture. Mentors can include faculty members as well as appropriate individuals from industry. This course will also involve collaboration with the CMU-Africa Industry Innovation Lab, corporate, and/or other organizations in the domain for the venture that will provide project support and feedback. Prior to enrollment into this course, a student team is required to propose ideas for a new venture to be approved by CMU Africa Entrepreneurship faculty.  If approved, the team and mentors under the guidance of the course instructor, will create a semester-long development plan.  The goal is for each team to develop both the technology and supporting research that result in a marketable minimum viable product, supportive interest from external investors, and/or justification for further development. In addition, the class will have individual reflection assignments for students to develop their teamwork and entrepreneurial skills.
+</end course description for 04-910 Entrepreneurship Project>

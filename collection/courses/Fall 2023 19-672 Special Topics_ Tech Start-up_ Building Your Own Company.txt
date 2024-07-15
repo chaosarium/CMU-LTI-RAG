@@ -1,0 +1,16 @@
+<start course metadata for 19-672 Special Topics: Tech Start-up: Building Your Own Company>
+Semester: Fall 2023 (aka F23)
+Course Name: Special Topics: Tech Start-up: Building Your Own Company
+Course Number: 19-672
+Department: Engineering & Public Policy
+Number of Units: 6
+Prerequisites: None
+Instructors: Mark DeSantis
+Rooms: HBH 1002
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 19-672 Special Topics: Tech Start-up: Building Your Own Company>
+
+<start course description for 19-672 Special Topics: Tech Start-up: Building Your Own Company>
+Semester: Fall 2023 (aka F23)
+Course Description: (Session 2) - The first year or two of a tech start-up set the trajectory and character of that company for years to come. Too few entrepreneurs appreciate this reality and, as a result, many carry forward misperceptions and misconceptions about creating and building a successful tech company that set it on the path for failure.   This class attempts to remedy that challenge by exposing the student the practical reality of  building a team and funding a start-up team. This class should help the student answer (or know how to find the answer) to the following questions:   How do I find manage and evaluate a start-up team Do I have the skill motivation and ability to be a tech entrepreneur? Can I build a company from scratch (really?)? Should I be the CEO Sales Account Manager VP of Engineering or something else altogether?  How much money do I raise and where and when do I raise it?   Students will have the opportunity to apply their newfound practical skills gathered in part from lectures from experienced entrepreneurs and investors to case studies.
+</end course description for 19-672 Special Topics: Tech Start-up: Building Your Own Company>

@@ -1,0 +1,16 @@
+<start course metadata for 24-204 Special Topics: Maker Series: Intro to Metal Jewelry>
+Semester: Fall 2023 (aka F23)
+Course Name: Special Topics: Maker Series: Intro to Metal Jewelry
+Course Number: 24-204
+Department: Mechanical Engineering
+Number of Units: 3
+Prerequisites: None
+Instructors: Jennifer Hitchcock
+Rooms: ANS C03
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-204 Special Topics: Maker Series: Intro to Metal Jewelry>
+
+<start course description for 24-204 Special Topics: Maker Series: Intro to Metal Jewelry>
+Semester: Fall 2023 (aka F23)
+Course Description: This course teaches introductory level metal jewelry fabrication. Students will learn to safely use various tools and metal working techniques including cold forging, investment casting, bezel settings, soldering, and patinas. These will be taught in class and reinforced by homework through structured activities to create their own personal jewelry, such as earrings, pendants, and rings. Upon completion of this class, students will be familiar with the Metals Room in TechSpark, and will be have access to the facility for future use. Materials fee will be required. Spaces are limited. 3-unit Mini (6 weeks).
+</end course description for 24-204 Special Topics: Maker Series: Intro to Metal Jewelry>

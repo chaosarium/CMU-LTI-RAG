@@ -1,0 +1,16 @@
+<start course metadata for 48-756 Project Planning and Reporting>
+Semester: Spring 2024 (aka S24)
+Course Name: Project Planning and Reporting
+Course Number: 48-756
+Department: Architecture
+Number of Units: N/A
+Prerequisites: None
+Instructors: Najeeb Hameen
+Rooms: PH 226A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-756 Project Planning and Reporting>
+
+<start course description for 48-756 Project Planning and Reporting>
+Semester: Spring 2024 (aka S24)
+Course Description: The goal of this course is to expose the class to advanced project scheduling methods and familiarize the students with the primary reporting practices as performed in the construction industry such as change management, resource charts, and project status reports.  The course objectives are as follows: 1. Outline and discuss the established practical approaches of planning and reporting; 2. Demonstrate the dynamic nature of construction projects stemming from inherent uncertainties. 3. Hone a student's adaptability to the dynamism of the process while delivering construction projects.  This course will include both discussions on assigned topics and a studio-based collaborative group project. In order to provide a real-world experience to the students the second half of the semester will feature a group project focused on tracking a construction project with varying situational scenarios such as changes in resources and scope creep.  Throughout the semester there will be one midterm and intermittent homework with the final deliverable being a "close out" document, which would essentially be a compilation of all the work during the semester projects.
+</end course description for 48-756 Project Planning and Reporting>

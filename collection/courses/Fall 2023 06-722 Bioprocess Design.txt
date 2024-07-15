@@ -1,0 +1,16 @@
+<start course metadata for 06-722 Bioprocess Design>
+Semester: Fall 2023 (aka F23)
+Course Name: Bioprocess Design
+Course Number: 06-722
+Department: Chemical Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Michael Domach
+Rooms: WEH 6423
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 06-722 Bioprocess Design>
+
+<start course description for 06-722 Bioprocess Design>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is designed to link concepts of cell culture, bioseparations, formulation, and delivery together for the commercial production and use of biologically-based pharmaceuticals; products considered include proteins, nucleic acids, and fermentation-derived fine chemicals. Associated regulatory issues and biotech industry case studies are also included. A fair knowledge of cell culture and fermentation operations is assumed.
+</end course description for 06-722 Bioprocess Design>

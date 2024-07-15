@@ -1,0 +1,16 @@
+<start course metadata for 73-103 Principles of Macroeconomics>
+Semester: Spring 2024 (aka S24)
+Course Name: Principles of Macroeconomics
+Course Number: 73-103
+Department: Economics
+Number of Units: 9
+Prerequisites: 73-102 or 73-104
+Instructors: Ariel Zetlin-Jones
+Rooms: DH 2210
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 73-103 Principles of Macroeconomics>
+
+<start course description for 73-103 Principles of Macroeconomics>
+Semester: Spring 2024 (aka S24)
+Course Description: A one-semester course that teaches the fundamentals of macroeconomics. Students will learn how macroeconomic analysis can explain national economic activity and how government intervention might stabilize an economy.  Topics include: defining and measuring national wealth, economic growth, credit markets, unemployment, interest rates, inflation, and the monetary system. Additional emphasis will be paid to topics that are central to contemporary macroeconomic debates such as how automation and AI contribute to inequality, how cryptocurrencies disrupt financial markets, and how recent government tax and spend policies impact prices and overall economic activity. Students will access macroeconomic databases, and then use basic statistics to describe and isolate empirical patterns in macro-data. Not open to students who have received credit for 73-100. (Lecture, 2 hours; Recitation, 1 hour) (Lecture, 2 hours; Recitation, 1 hour).
+</end course description for 73-103 Principles of Macroeconomics>

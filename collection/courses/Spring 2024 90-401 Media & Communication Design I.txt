@@ -1,0 +1,16 @@
+<start course metadata for 90-401 Media & Communication Design I>
+Semester: Spring 2024 (aka S24)
+Course Name: Media & Communication Design I
+Course Number: 90-401
+Department: Public Policy & Mgt:Sch of Pub Pol & Mgt
+Number of Units: 6
+Prerequisites: None
+Instructors: Gary Franko
+Rooms: CFA 318
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 90-401 Media & Communication Design I>
+
+<start course description for 90-401 Media & Communication Design I>
+Semester: Spring 2024 (aka S24)
+Course Description: The Media and Communication Design course focuses on using desktop publishing software to effectively communicate messages in printed form. The goal of this course is to use the combination of type, color, shapes, illustrations and images to produce professional printed materials. The skills learned in this course can easily be translated to other media. This course will teach a combination of graphic design skills and software skills. Most classes will consist of two thirds lecture and one third hands-on work with the software. The software being taught is Adobe InDesign Creative Cloud (CC), Adobe Illustrator CC and Adobe Photoshop CC. Students will gain experience in preparing documents that are professional in form and content. Student will learn how to design and publish products such as newsletters, posters, logos, packaging, signs, books, flyers, magazines, annual reports, invitations and advertisements. Students will also learn the terminology, procedures and production requirement to effectively communicate with ad agencies, design firms and commercial printers.
+</end course description for 90-401 Media & Communication Design I>

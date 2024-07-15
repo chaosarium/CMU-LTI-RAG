@@ -1,0 +1,16 @@
+<start course metadata for 18-788 Big Data Science>
+Semester: Spring 2024 (aka S24)
+Course Name: Big Data Science
+Course Number: 18-788
+Department: Electrical & Computer Engineering
+Number of Units: 6
+Prerequisites: None
+Instructors: Patrick McSharry
+Rooms: CMU REMOTE; HH 1107
+Locations: Kigali, Rwanda; Pittsburgh, Pennsylvania
+</end course metadata for 18-788 Big Data Science>
+
+<start course description for 18-788 Big Data Science>
+Semester: Spring 2024 (aka S24)
+Course Description: The proliferation of mobile technology, wireless sensors and social media provides a means of monitoring socio-economic activity, consumption of resources and human mobility. Recent advances in data science are now capable of coping with the technical challenges of collecting, managing and developing actionable insights from big data. Partnerships between academia, government and the private sector are at the heart of the revolution that is currently demonstrating how data is a valuable commodity and a source of intellectual property. This course will take a practical approach to solving challenges in the public and private sectors using a collection of techniques that constitute this new multidisciplinary field known as data science. A number of different themes will be explored as case studies in order to demonstrate how big data collected from a wide range of disparate sources can be combined to provide insights, drive decisions and influence policy. The course content will be structured to provide a roadmap for deploying data science techniques using case studies, reading material and previously published models. Participants will obtain hands-on experience by working on real-world datasets during assignments.
+</end course description for 18-788 Big Data Science>

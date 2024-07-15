@@ -1,0 +1,16 @@
+<start course metadata for 57-913 The Key to Beethoven>
+Semester: Spring 2024 (aka S24)
+Course Name: The Key to Beethoven
+Course Number: 57-913
+Department: Music
+Number of Units: 6
+Prerequisites: None
+Instructors: Dimitrios Papadimitriou
+Rooms: HOA 224
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-913 The Key to Beethoven>
+
+<start course description for 57-913 The Key to Beethoven>
+Semester: Spring 2024 (aka S24)
+Course Description: Have you ever wondered whether Beethoven had a favorite key, or whether he was composing with certain keys in mind?  Is there something unique about his A flat major compositions?  Were there keys that he was intentionally avoiding?    This course is designed to examine the majority of Beethoven's instrumental repertoire and identify tonal archetypes upon which he was composing, with the intention to develop a thorough understanding of the emotional content of each tonality in Beethoven's output.  Repertoire covered: Piano Sonatas Piano Concertos Piano Trios Symphonies String Quartets Violin Sonatas Violin Concerto Cello Sonatas Triple Concerto
+</end course description for 57-913 The Key to Beethoven>

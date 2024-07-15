@@ -1,0 +1,16 @@
+<start course metadata for 21-721 Probability>
+Semester: Spring 2024 (aka S24)
+Course Name: Probability
+Course Number: 21-721
+Department: Mathematical Sciences
+Number of Units: 12
+Prerequisites: (21-355 or 21-235 or 21-455) and (21-373 or 21-237) and (21-720)
+Instructors: Konstantin Tikhomirov
+Rooms: WEH 8220
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-721 Probability>
+
+<start course description for 21-721 Probability>
+Semester: Spring 2024 (aka S24)
+Course Description: Probability spaces, random variables, expectation, independence, Borel-Cantelli lemmas. Kernels and product spaces, existence of probability measures on infinite product spaces, Kolmogorov's zero-one law. Weak and strong laws of large numbers, ergodic theorems, stationary sequences. Conditional expectation: characterization, construction and properties. Relation to kernels, conditional distribution, density. Filtration, adapted and predictable processes, martingales, stopping times, upcrossing inequality and martingale convergence theorems, backward martingales, optional stopping, maximal inequalities.  Various applications of martingales: branching processes, Polya's urn, generalized Borel-Cantelli, Levy's 0-1 law, martingale method, strong law of large numbers, etc. Weak convergence of probability measures, characteristic functions of random variables, weak convergence in terms of characteristic functions. Central limit theorem, Poisson convergence, Poisson process. Large deviations, rate functions, Cramer's Theorem.  (Three 50 minute lectures)
+</end course description for 21-721 Probability>

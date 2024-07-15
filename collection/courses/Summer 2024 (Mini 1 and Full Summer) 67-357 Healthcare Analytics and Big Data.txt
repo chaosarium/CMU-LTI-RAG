@@ -1,0 +1,16 @@
+<start course metadata for 67-357 Healthcare Analytics and Big Data>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Healthcare Analytics and Big Data
+Course Number: 67-357
+Department: Information Systems Program
+Number of Units: 9
+Prerequisites: 36-200
+Instructors: Divakaran Liginlal
+Rooms: CMB 2062
+Locations: Doha, Qatar
+</end course metadata for 67-357 Healthcare Analytics and Big Data>
+
+<start course description for 67-357 Healthcare Analytics and Big Data>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: This course will help students gain a deep understanding of how healthcare analytics supports the re-engineering of complex processes that drive return on investment and reduced medical costs and how the big data revolution is accelerating value and innovation in healthcare.  Topics to be covered include (i) how analytics improves healthcare decision making; (ii) how to leverage analytics in healthcare quality improvement activities; (iii) how to develop an analytics strategy; (iii) how improved data quality and better data governance enhances the quality of healthcare; (v) creating a data-driven healthcare organization; and (vi) applying big data to transform the healthcare industry.  Besides gaining hands-on lab experience with analytics tools and technologies used in real-world healthcare organizations, students will also work on a group project to understand better the challenges and opportunities that big data analytics presents to healthcare and the life sciences.
+</end course description for 67-357 Healthcare Analytics and Big Data>

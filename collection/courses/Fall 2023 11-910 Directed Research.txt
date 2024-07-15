@@ -1,0 +1,16 @@
+<start course metadata for 11-910 Directed Research>
+Semester: Fall 2023 (aka F23)
+Course Name: Directed Research
+Course Number: 11-910
+Department: Language Technologies Institute
+Number of Units: N/A
+Prerequisites: None
+Instructors: Jamie Callan
+Rooms: 
+Locations: Lisbon, Portugal; Pittsburgh, Pennsylvania
+</end course metadata for 11-910 Directed Research>
+
+<start course description for 11-910 Directed Research>
+Semester: Fall 2023 (aka F23)
+Course Description: This course number documents the research being done by Masters and pre-proposal PhD students. Beginning in Fall 2001, every LTI graduate student will register for at least 24 units of 11-910 each semester, unless they are ABD (i.e., they have had a thesis proposal accepted), in which case they should register for 48 units of 11-930. The student will be expected to write a report and give a presentation at the end of the semester, documenting the research done. The report will be filed by either the faculty member or the LTI graduate program administrator.   (Until Fall 2001 this course number was used for individual study in connection with LTI project research work and was a Pass/Fail course.)
+</end course description for 11-910 Directed Research>

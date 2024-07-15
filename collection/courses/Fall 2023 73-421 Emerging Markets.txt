@@ -1,0 +1,16 @@
+<start course metadata for 73-421 Emerging Markets>
+Semester: Fall 2023 (aka F23)
+Course Name: Emerging Markets
+Course Number: 73-421
+Department: Economics
+Number of Units: 9
+Prerequisites: (36-200 or 36-202 or 36-207 or 70-207 or 15-259) and (73-102 or 73-104) and (73-103)
+Instructors: Andre Sztutman
+Rooms: TEP 2701
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 73-421 Emerging Markets>
+
+<start course description for 73-421 Emerging Markets>
+Semester: Fall 2023 (aka F23)
+Course Description: The goal of the course is to study the economic and institutional forces that spur or hinder business activity and growth in emerging economies. The course is designed to provide both quantitative and theoretical foundations for the study of emerging markets. On the quantitative side, the course will introduce students to the empirical analysis of the growth forces and obstacles facing emerging markets by providing numerous hands-on opportunities using real-world data. On the theory side, the course will provide an overview of fiscal, trade and exchange rate policies adopted in emerging economies. The course will focus on successful emerging economies such as India, China, S. Korea and Ireland with broader lessons and comparisons drawn from developed countries. The course will also look at distressed economies, such as North Korea and Venezuela analyzing the challenges and opportunities faced by these developing nations today.  (Lecture, 3 hours). Minimum grade of "C" required in all economics pre-requisite courses.
+</end course description for 73-421 Emerging Markets>

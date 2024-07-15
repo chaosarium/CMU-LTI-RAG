@@ -1,0 +1,16 @@
+<start course metadata for 85-714 cog neuropsych>
+Semester: Fall 2023 (aka F23)
+Course Name: cog neuropsych
+Course Number: 85-714
+Department: Psychology
+Number of Units: 9
+Prerequisites: None
+Instructors: David Plaut
+Rooms: PH 125B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 85-714 cog neuropsych>
+
+<start course description for 85-714 cog neuropsych>
+Semester: Fall 2023 (aka F23)
+Course Description: This course will review what has been learned of the neural bases of cognition through studies of brain-damaged patients as well as newer techniques such as brain stimulation mapping, regional metabolic and blood flow imaging, and attempt to relate these clinical and physiological data to theories of the mind cast in information-processing terms. The course will be organized into units corresponding to the traditionally-defined subfields of cognitive psychology such as perception, memory and language. In each area, we will ask: To what extent do the neurological phenomena make contact with the available cognitive theories? When they do, what are their implications for these theories (i.e., Can we confirm or disconfirm particular cognitive theories using neurological data?)? When they do not, what does this tell us about the parses of the mind imposed by the theories and methodologies of cognitive psychology and neuropsychology?
+</end course description for 85-714 cog neuropsych>

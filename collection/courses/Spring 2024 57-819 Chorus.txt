@@ -1,0 +1,16 @@
+<start course metadata for 57-819 Chorus>
+Semester: Spring 2024 (aka S24)
+Course Name: Chorus
+Course Number: 57-819
+Department: Music
+Number of Units: 6
+Prerequisites: None
+Instructors: Thomas Douglas
+Rooms: MM 119
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-819 Chorus>
+
+<start course description for 57-819 Chorus>
+Semester: Spring 2024 (aka S24)
+Course Description: to be determined
+</end course description for 57-819 Chorus>

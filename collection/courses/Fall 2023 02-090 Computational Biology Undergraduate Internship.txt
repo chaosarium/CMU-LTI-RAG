@@ -1,0 +1,16 @@
+<start course metadata for 02-090 Computational Biology Undergraduate Internship>
+Semester: Fall 2023 (aka F23)
+Course Name: Computational Biology Undergraduate Internship
+Course Number: 02-090
+Department: Computational Biology
+Number of Units: 3
+Prerequisites: None
+Instructors: Instructor TBA
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 02-090 Computational Biology Undergraduate Internship>
+
+<start course description for 02-090 Computational Biology Undergraduate Internship>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is for Undergraduate Computational Biology Students looking to take an internship for credit.  Approval must go through Dr. Phillip Compeau.
+</end course description for 02-090 Computational Biology Undergraduate Internship>

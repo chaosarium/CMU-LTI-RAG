@@ -1,0 +1,16 @@
+<start course metadata for 84-781 MITS Capstone Project>
+Semester: Fall 2023 (aka F23)
+Course Name: MITS Capstone Project
+Course Number: 84-781
+Department: Institute for Politics and Strategy
+Number of Units: 36
+Prerequisites: None
+Instructors: Kelly Voss
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 84-781 MITS Capstone Project>
+
+<start course description for 84-781 MITS Capstone Project>
+Semester: Fall 2023 (aka F23)
+Course Description: In this required capstone project MITS students are expected to meet with their assigned teams as often as needed to finalize project outcomes, while providing timely updates to the project advisor. Registration in the MITS Capstone Project course is limited to those students who have been accepted into the MITS program. The capstone project provides students with a laboratory for direct application of concepts learned in core courses.
+</end course description for 84-781 MITS Capstone Project>

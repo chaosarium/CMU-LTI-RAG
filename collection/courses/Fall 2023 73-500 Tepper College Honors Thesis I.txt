@@ -1,0 +1,16 @@
+<start course metadata for 73-500 Tepper College Honors Thesis I>
+Semester: Fall 2023 (aka F23)
+Course Name: Tepper College Honors Thesis I
+Course Number: 73-500
+Department: Economics
+Number of Units: N/A
+Prerequisites: (21-256 or 21-259 or 21-268 or 21-269) and (73-265 or 73-274 or 36-226) and (73-230) and (73-240)
+Instructors: Instructor TBA, John Gasper, Laurence Ales, Rebecca Lessem
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 73-500 Tepper College Honors Thesis I>
+
+<start course description for 73-500 Tepper College Honors Thesis I>
+Semester: Fall 2023 (aka F23)
+Course Description: Economics majors with outstanding academic records and intellectual promise will be given the opportunity to undertake original research under the direction of individual faculty members.  Research topics are selected by students and approved by faculty.    Prerequisites: Senior standing in the Economics Program and permission of the Economics faculty.  Minimum grade of "C" required in all economics and statistics pre-requisite courses.
+</end course description for 73-500 Tepper College Honors Thesis I>

@@ -1,0 +1,92 @@
+MIIS Handbook_2023 - 2024
+5 Grading and Evaluation  
+5.1 Grading Scale/System  
+Students must demonstrate their mastery of material taught in courses and their success in applying their skills in directed study and capstone projects by satisfying the following grade requirements:  
+1. Minimum grade:    A student must obtain a B - or better grade in all courses, which count 
+towards core requirements. If a student receives a C or better, that course may count as an elective towards the degree requirements . 
+2. Minimum QPA :  A student must maintain an average QPA of at least 3.0 in courses and 
+projects used to satisfy degree requirements.  
+3. Pass/fail:   Pass/fail grades are not permitted for courses and projects used to satisfy a degree 
+requirement. Graduate students who are required to take additional undergraduate courses to build up the core foundations of computer science may not elect the pass/fail  option for these 
+courses.  
+5.2 Pass/Fail Grades  
+Pass/fail grades are not permitted for courses used to satisfy a degree requirement, except for 
+the 11 -696 (A) Capstone Planning Seminar and 11 -935 (R) LTI Practicum that are a Pass/Fail. 
+ Graduate students who are required to take additional undergraduate courses to build up the 
+core foundations of computer science may not elect the pass/fail option for these courses.  
+5.3 Independent Study  
+An independent study can be counted as an Elective course, but it cannot be counted as a Qualifying course.  
+5.4 University Policy on Grades  
+This policy offers details concerning university grading principles for students taking courses and covers the specifics of assigning and changing grades, grading options, drop/withdrawals, and course repeats.   It also defines the undergraduate and graduate grading standards.  
+https://www.cmu.edu/policies/student- and-student-life/grading.html
+ 
+5.5 Process for Appealing Final Grades  
+Final grades will be changed only in exceptional circumstances and only with the approval of the instructor and the department, unit or program. Grading is a matter of sound discretion of 
+the instructor and final grades are rarely changed without the consent of the instructor who 
+assigned the grade. The following circumstances are the unusual exceptions that may warrant a grade appeal: (a) the final grade assigned for a course is based on manifest error ( e.g., a clear 
+error such as arithmetic error in computing a grade or failure to grade one of the answers on an exam), or (b) the faculty or staff member who assigned the grade did so in violation of a 
+university  policy.  
+Summary of Graduate Student Appeal and Grievance Procedures - Office of Graduate and 
+Postdoctoral Affairs - Carnegie Mellon University (cmu.edu)  
+5.6 Policy on Grades for Transfer Courses  
+Carnegie Mellon University offers students the opportunity to take courses for credit through 
+a cross -registration program (see Pittsburgh Council on Higher Education (PCHE) and Cross -
+registration below) and through the receipt of transfer credit from other accredited institutions. The Carnegie Mellon University transcript will include information on such 
+courses as follows: Carnegie Mellon courses and courses taken through the university's cross -
+registration program will have grades recorded on the transcript and be factored into the QPA. All other courses will be recorded on this transcript indicating where the course was taken, but without grade. Such courses will not be taken into account for academic actions, honors or 
+MIIS Graduate Student Handbook  Page 22  
+ QPA calculations. (Note: Suspended students may take courses elsewhere; however, they may 
+receive transfer credit only if their college’s and department's policies allow this.)  
+https://www.cmu.edu/policies/student -and-student- life/transfer -credit- evaluation -and-
+assignment.html  
+5.7 End of Semester Evaluation  
+Near the end of each semester, the student must prepare a statement that describes their achievements in the current semester and plans for the next semester. At the end of the 
+semester, the faculty evaluates each student's academic progress. The student's advisor serves 
+as the student's advocate in this process. The result of the evaluation is a letter from the faculty to the student that indicates whether the student is making satisfactory progress towards 
+completing the degree.  
+A good letter  typically indicates that the student is making satisfactory progress. If the student 
+is doing exceptionally good work, a stronger adjective such as excellent  might be used, but this 
+is unusual.  
+If a student seems to be having trouble, the faculty determines whether it believes that the student can finish the degree, and if so, what needs to be accomplished to get back on track. This type of letter should be considered a serious warning. It is not  a permanent "black mark" 
+on the student's record; if the student begins making satisfactory progress again, there is no official record of the letter in the student's transcript.  
+In the most serious cases, the faculty gives the student an N- 1 letter that specifies a list of 
+conditions that the student must satisfy by specific deadlines. Failure to meet all  the specified 
+conditions may result in the student's termination from the program.  
+5.8 Satisfactory Progress  
+If a student does not make satisfactory progress each semester toward completing the degree, 
+the LTI may remove the student from the program or strongly encourage the student to consider switching to the four- semester program (MIIS -21) to complete all the requirements.  
+5.9 Academic Integrity  
+Please review the University Policy on Academic Integrity https://www.cmu.edu/policies/student- and-student- life/academic -integrity.html. The policy 
+includes the University expectations around academic integrity and provides definitions of 
+cheating, plagiarism, and unauthorized assistance.  
+ 
+MIIS Graduate Student Handbook  Page 23  
+ A review of the University’s Academic Disciplinary Actions procedures  
+https://www.cmu.edu/student -affairs/theword/academic- discipline/index.html  is also 
+recommended. These procedures outline the process for investigating, reporting, and 
+adjudicating violations of the University Policy on Academic Integrity. The procedures also outline the appeal process.  
+ 
+In the midst of self -exploration, the high demands of a challenging academic environment can 
+create situations where some students have difficulty exercising good judgment. Academic 
+challenges can provide many opportunities for high standards to evolve if students actively 
+reflect on these challenges and if the community supports discussions to aid in this process. It 
+is the responsibility of the entire community to establish and maintain the integrity of our 
+university.  
+Carnegie Mellon University educates its students to become professionals who will serve 
+society with integrity. The university also creates and disseminates new knowledge and 
+expressions of knowledge in ways that benefit society. Carnegie Mellon strives to serve the 
+changing needs of society through the three primary goals outlined in its mission statement: to 
+create and disseminate knowledge and art through research and artistic expression, teaching 
+and learning and transfer to society, to serve students by teaching them leadership and 
+problem -solving skills, and the values of quality, ethical behavior, responsibility to society and 
+commitments to work, to pursue the advantages provided by a diverse community, open to the 
+exchange of ideas, where discovery and artistic creativity can flourish.  
+In any presentation, creative, artistic or research, it is the ethical responsibility of each student to identify the conceptual sources of the work submitted. Failure to do so is dishonest and is 
+the basis for a charge of cheating or plagiarism, which is subject to disciplinary action.  
+ 
+The university has a very clear and specific protocol for responding to alleged violations of 
+academic integrity.  Carnegie Mellon's Academic Disciplinary Actions Overview for Graduate 
+Students describes procedures for disciplinary actions against graduate students in cases of alleged violations of academic regulations and the appeal process.   
+Important note:   The LTI implements the above policy’s option of “conven[ing] a disciplinary 
+hearing according to the procedures of the department/program”.  Our procedure is as follows: a first violation is grounds for dismissal from the graduate program.  If we decide to not 
+immediately dismiss, the first violation will result in the student being on disciplinary probation.  If a student commits a second violation while on probation, the penalty is dismissal from the graduate program.  

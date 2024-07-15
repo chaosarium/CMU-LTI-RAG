@@ -1,0 +1,16 @@
+<start course metadata for 51-328 Design Center: Design for Digital Systems>
+Semester: Fall 2023 (aka F23)
+Course Name: Design Center: Design for Digital Systems
+Course Number: 51-328
+Department: Design
+Number of Units: 9
+Prerequisites: None
+Instructors: Andrew Twigg
+Rooms: MM 215
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-328 Design Center: Design for Digital Systems>
+
+<start course description for 51-328 Design Center: Design for Digital Systems>
+Semester: Fall 2023 (aka F23)
+Course Description: Through tools and methods of user experience research and ideation, Design for Digital Systems uses web-based technologies to create functional prototypes for digital systems. Through demos, exercises, and a team-based trans-disciplinary project, students will use design thinking, industry-standard UX software, and code to identify, propose, and generate novel ideas for user problems. Students will learn advanced HTML and CSS, along with basics of database-driven web platforms using server-side technologies such as PHP and databases. The course is focused on screen-based interactions, but not exclusively so; it considers what technologies are viable today while leaning into the future to solve problems. Experience with HTML, CSS, and JavaScript is recommended but not required. This course replaces 51328 and 51828 Advanced Web Design. There may be a lab fee for non-design students.
+</end course description for 51-328 Design Center: Design for Digital Systems>

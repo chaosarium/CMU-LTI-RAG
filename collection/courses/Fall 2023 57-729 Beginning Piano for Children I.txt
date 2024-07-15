@@ -1,0 +1,16 @@
+<start course metadata for 57-729 Beginning Piano for Children I>
+Semester: Fall 2023 (aka F23)
+Course Name: Beginning Piano for Children I
+Course Number: 57-729
+Department: Music
+Number of Units: 6
+Prerequisites: 57-973
+Instructors: Carla Larocca, Luz Manriquez
+Rooms: CFA M150
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-729 Beginning Piano for Children I>
+
+<start course description for 57-729 Beginning Piano for Children I>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is the first of two courses in a year-long internship in the piano teaching of young children, combining class and private instruction: a study of the basic teaching/learning process as applied to piano teaching, covering comprehensive step-by-step presentation in reading, rhythm, ear training, sight reading, technique, and musicianship. Under supervision, students will teach the weekly group class and private lessons. Weekly conferences will be held for learning the presentation of materials for class teaching, analyzing pedagogical problems, and developing communication skills with both young pupils and their parents.
+</end course description for 57-729 Beginning Piano for Children I>

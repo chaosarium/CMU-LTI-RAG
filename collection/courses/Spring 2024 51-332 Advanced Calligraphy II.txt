@@ -1,0 +1,16 @@
+<start course metadata for 51-332 Advanced Calligraphy II>
+Semester: Spring 2024 (aka S24)
+Course Name: Advanced Calligraphy II
+Course Number: 51-332
+Department: Design
+Number of Units: 9
+Prerequisites: 51-331
+Instructors: Myrna Rosen
+Rooms: MM 203
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-332 Advanced Calligraphy II>
+
+<start course description for 51-332 Advanced Calligraphy II>
+Semester: Spring 2024 (aka S24)
+Course Description: This course serves a continuation of study in the discipline of calligraphy. (It meets at the same time as Calligraphy II.) Students are encouraged to tackle advanced problems or work with the instructor to determine new directions of study.  Prerequisites: 51331
+</end course description for 51-332 Advanced Calligraphy II>

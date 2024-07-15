@@ -1,0 +1,16 @@
+<start course metadata for 16-720 Computer Vision>
+Semester: Fall 2023 (aka F23)
+Course Name: Computer Vision
+Course Number: 16-720
+Department: Robotics
+Number of Units: 12
+Prerequisites: None
+Instructors: Srinivasa Narasimhan
+Rooms: TEP 1403
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 16-720 Computer Vision>
+
+<start course description for 16-720 Computer Vision>
+Semester: Fall 2023 (aka F23)
+Course Description: Section A is a required core course for MRSD first-year students, and Section B is a required core course for MSCV students. This course introduces the fundamental techniques used in computer vision, that is, the analysis of patterns in visual images to reconstruct and understand the objects and scenes that generated them. Topics covered include image formation and representation, camera geometry, and calibration, computational imaging, multi-view geometry, stereo, 3D reconstruction from images, motion analysis, physics-based vision, image segmentation and object recognition. The material is based on graduate-level texts augmented with research papers, as appropriate. Evaluation is based on homeworks and a final project. The homeworks involve considerable Python programming exercises.  Texts recommended but not required:  Title: "Computer Vision Algorithms and Applications" Author: Richard Szeliski Series: Texts in Computer Science Publisher: Springer ISBN: 978-1-84882-934-3  Title: "Computer Vision: A Modern Approach" Authors: David Forsyth and Jean Ponce Publisher: Prentice Hall ISBN: 0-13-085198-1
+</end course description for 16-720 Computer Vision>

@@ -1,0 +1,28 @@
+MCDS Handbook 23-24 AY
+2 The Language Technologies Institute  
+2.1 Main Office 
+The Gates Hillman Complex: Mailboxes, printers, copiers, and other departmental 
+resources are in GHC 5404. 
+2.2 Photocopies and Printers 
+The use of a printer/copier requires a CS user id (see the ‘Computers’ section). The School 
+of Computer Science provides several black-and-white and color printers for use by 
+students. SCS Computing Facilities maintains a list of printers:  
+http://www.cs.cmu.edu/~help/printing/.  
+2.3 Office Space for MS Students 
+Full-time students in the LTI’s MS degree programs on the Pittsburgh campus have 
+access to a shared working space to create a sense of community and provide space for 
+working when on campus. 
+2.4 Computers for MS Students 
+Students are expected to provide their own laptop computers that can be used to access 
+university resources and complete course assignments. Laptops running Windows, 
+MacOS, and Linux software are all acceptable. 
+ 
+MS students will be given a CS user id. A CS user id is required to use the LTI computer 
+cluster, department printers, and other SCS services. The School of Computer Science 
+has a Help Center located at 4203 GHC. They can be contacted at help@cs.cmu.edu , 
+extension 8-4231 from a campus phone, or 412-268-4231 from an outside line. 
+ 
+MS students will be given access to the LTI’s computer cluster on an as-needed basis, to 
+be used for course assignments, directed study projects, and/or the capstone project. The 
+LTI cluster provides storage and computation for projects involving large datasets and/or 
+lengthy computation.  

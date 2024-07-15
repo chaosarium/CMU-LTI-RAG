@@ -1,0 +1,16 @@
+<start course metadata for 10-615 Art and Machine Learning>
+Semester: Spring 2024 (aka S24)
+Course Name: Art and Machine Learning
+Course Number: 10-615
+Department: Machine Learning
+Number of Units: 12
+Prerequisites: None
+Instructors: Eunsu Kang
+Rooms: TEP 1403
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 10-615 Art and Machine Learning>
+
+<start course description for 10-615 Art and Machine Learning>
+Semester: Spring 2024 (aka S24)
+Course Description: ARS, the Latin origin of the word 'art', encompasses both Art and Science. Over time, these two disciplines, once separated, are now converging in various area. One such intersection is the fusion of art and machine learning. In recent years, art has been propelled forward by the rapid advancements in technology and scientific discoveries, while machine learning (ML) stands at the forefront of computer science innovation. The increasing popularity and accessibility of neural network-based AI models have garnered significant attention for the amalgamation of art and ML techniques. This project-based course is designed to introduce the synergy between art and machine learning to a wide range of students, including majoring in art and computer science. We will impart knowledge through examples, technologies, and discussions that bridge the realms of art and machine learning. Students will explore example codes and make creative applications and artworks using ML methods. No prior knowledge of machine learning or experience in art practice is required, but students should have a basic understanding of Python. Additionally, an open-minded approach is essential, as occasionally we will delve into the necessary mathematical foundations and engage in discussions on the conceptual development and artistic value of your projects.
+</end course description for 10-615 Art and Machine Learning>

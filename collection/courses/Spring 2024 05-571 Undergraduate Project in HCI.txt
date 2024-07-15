@@ -1,0 +1,16 @@
+<start course metadata for 05-571 Undergraduate Project in HCI>
+Semester: Spring 2024 (aka S24)
+Course Name: Undergraduate Project in HCI
+Course Number: 05-571
+Department: Human-Computer Interaction
+Number of Units: 12
+Prerequisites: 05-410 or 05-430 or 05-431 or 05-610 or 05-630 or 05-631
+Instructors: Amanda Gebski, Franceska Xhakaj, Jason Spector, Philip Marchetti, Vincent Aleven
+Rooms: 4SC 104
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 05-571 Undergraduate Project in HCI>
+
+<start course description for 05-571 Undergraduate Project in HCI>
+Semester: Spring 2024 (aka S24)
+Course Description: Experiential learning is a key component of the MHCI program. Through a substantial team project, students apply classroom knowledge in analysis and evaluation, implementation and design, and develop skills working in multidisciplinary teams.  Student teams work with Carnegie Mellon University-based clients or external clients to iteratively design, build and test a software application which people directly use.
+</end course description for 05-571 Undergraduate Project in HCI>

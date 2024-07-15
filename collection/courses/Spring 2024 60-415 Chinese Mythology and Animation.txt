@@ -1,0 +1,16 @@
+<start course metadata for 60-415 Chinese Mythology and Animation>
+Semester: Spring 2024 (aka S24)
+Course Name: Chinese Mythology and Animation
+Course Number: 60-415
+Department: Art
+Number of Units: 10
+Prerequisites: 60-110 or 60-220 or 60-333 or 60-125
+Instructors: Gang Liu, Johannes DeYoung
+Rooms: CFA 303; CFA 317
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 60-415 Chinese Mythology and Animation>
+
+<start course description for 60-415 Chinese Mythology and Animation>
+Semester: Spring 2024 (aka S24)
+Course Description: This interdisciplinary course invites students to traverse the enthralling world of ancient Chinese mythology, synthesizing the realms of animated storytelling and digital humanities. It intertwines traditional research in humanities¿including literature, history, religion, and anthropology¿with avant-garde techniques of animation production and visual storytelling. The course is structured to offer a multifaceted approach, encompassing close readings, critical analysis, technological applications, and creative project developments related to Chinese mythological tales and their modern adaptations. In addition to undertaking weekly assignments in writing, presentation, and critique, students are also expected to craft their own "mythological stories," utilizing writing and technology-enhanced mediums such as animation, digital storytelling, and immersive media projects.
+</end course description for 60-415 Chinese Mythology and Animation>

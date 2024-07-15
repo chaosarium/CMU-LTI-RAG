@@ -1,0 +1,16 @@
+<start course metadata for 48-600 ASO Studio General>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: ASO Studio General
+Course Number: 48-600
+Department: Architecture
+Number of Units: 18
+Prerequisites: 48-305
+Instructors: Mary-Lou Arscott
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-600 ASO Studio General>
+
+<start course description for 48-600 ASO Studio General>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: to be determined
+</end course description for 48-600 ASO Studio General>

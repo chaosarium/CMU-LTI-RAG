@@ -1,0 +1,16 @@
+<start course metadata for 33-451 Senior Research>
+Semester: Fall 2023 (aka F23)
+Course Name: Senior Research
+Course Number: 33-451
+Department: Physics
+Number of Units: N/A
+Prerequisites: None
+Instructors: Gillian Ryan
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 33-451 Senior Research>
+
+<start course description for 33-451 Senior Research>
+Semester: Fall 2023 (aka F23)
+Course Description: Open to all senior physics majors. May include research done in a research lab, extending the capabilities of a teaching lab, or a theoretical or computational physics project for 3 to 9 units of credit. The student experiences the less structured atmosphere of a research program where there is much room for independent initiative. Modern Physics Laboratory, 33-340, should precede this course, though it is not required. Student should contact faculty directly to inquire about opportunities. Registration requires approval of the Director of Undergraduate Affairs.
+</end course description for 33-451 Senior Research>

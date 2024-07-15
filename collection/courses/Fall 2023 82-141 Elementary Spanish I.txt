@@ -1,0 +1,16 @@
+<start course metadata for 82-141 Elementary Spanish I>
+Semester: Fall 2023 (aka F23)
+Course Name: Elementary Spanish I
+Course Number: 82-141
+Department: Modern Languages
+Number of Units: 12
+Prerequisites: None
+Instructors: Erik Helin, Mercedes Dollard
+Rooms: CMB 2049; DH 2105
+Locations: Doha, Qatar; Pittsburgh, Pennsylvania
+</end course metadata for 82-141 Elementary Spanish I>
+
+<start course description for 82-141 Elementary Spanish I>
+Semester: Fall 2023 (aka F23)
+Course Description: Elementary Spanish I is for beginning students, emphasizing the development of communicative language and cultural competence. Students will work towards improving their writing, reading, listening and speaking abilities in Spanish, such that they become comfortable working with a variety of topics from Spanish-speaking cultural areas. Students will develop basic interactional and routine public communication patterns, frequently working in groups and pairs, and utilizing technologies that enhance learning opportunities and promote skill development. This course also provides extracurricular opportunities to interact with members of the Spanish-speaking community. Four hours of in-class instruction per week are required. A student with prior experience in Spanish must take the placement exam.
+</end course description for 82-141 Elementary Spanish I>

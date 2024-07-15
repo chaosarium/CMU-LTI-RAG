@@ -1,0 +1,16 @@
+<start course metadata for 15-121 Introduction to Data Structures>
+Semester: Fall 2023 (aka F23)
+Course Name: Introduction to Data Structures
+Course Number: 15-121
+Department: Computer Science
+Number of Units: 10
+Prerequisites: 15-112
+Instructors: Franceska Xhakaj, Ryan Riley
+Rooms: CMB 3069; POS 151
+Locations: Doha, Qatar; Pittsburgh, Pennsylvania
+</end course metadata for 15-121 Introduction to Data Structures>
+
+<start course description for 15-121 Introduction to Data Structures>
+Semester: Fall 2023 (aka F23)
+Course Description: A continuation of the process of program design and analysis for  students with some prior programming experience (functions, loops, and  arrays, not necessarily in Java). The course reinforces object-oriented  programming techniques in Java and covers data aggregates, data  structures (e.g., linked lists, stacks, queues, trees, and graphs), and  an introduction to the analysis of algorithms that operate on those data  structures.
+</end course description for 15-121 Introduction to Data Structures>

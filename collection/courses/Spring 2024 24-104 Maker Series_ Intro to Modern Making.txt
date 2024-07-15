@@ -1,0 +1,16 @@
+<start course metadata for 24-104 Maker Series: Intro to Modern Making>
+Semester: Spring 2024 (aka S24)
+Course Name: Maker Series: Intro to Modern Making
+Course Number: 24-104
+Department: Mechanical Engineering
+Number of Units: 3
+Prerequisites: None
+Instructors: Justin Harvilla
+Rooms: ANS B10
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-104 Maker Series: Intro to Modern Making>
+
+<start course description for 24-104 Maker Series: Intro to Modern Making>
+Semester: Spring 2024 (aka S24)
+Course Description: The course familiarizes students with the safe operation of fabrication tools, including 3D printer, laser cutter, hand tools and power tools through structured activities.  Included as preparation for modern making, a significant portion of the course is dedicated to learning the use of SolidWorks 3D CAD software. The acquisition of these skills culminates in the development and fabrication of a prototype solution to a real-world problem.
+</end course description for 24-104 Maker Series: Intro to Modern Making>

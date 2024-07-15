@@ -1,0 +1,16 @@
+<start course metadata for 57-302 Bagpipe Construction>
+Semester: Spring 2024 (aka S24)
+Course Name: Bagpipe Construction
+Course Number: 57-302
+Department: Music
+Number of Units: 3
+Prerequisites: 57-307
+Instructors: Andrew Carlisle
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-302 Bagpipe Construction>
+
+<start course description for 57-302 Bagpipe Construction>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is an in-depth study of Piobaireachd construction, including Primary, Secondary, Tertiary Types A & B, Supplementary Types A & B, and Irregular.  The course covers the different patterns in Light Music construction.  Students also study the makeup of Pipe Band Medleys and repertoire for competition versus concert.
+</end course description for 57-302 Bagpipe Construction>

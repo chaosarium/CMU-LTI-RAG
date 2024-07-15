@@ -1,0 +1,16 @@
+<start course metadata for 11-767 On-Device Machine Learning>
+Semester: Fall 2023 (aka F23)
+Course Name: On-Device Machine Learning
+Course Number: 11-767
+Department: Language Technologies Institute
+Number of Units: 12
+Prerequisites: None
+Instructors: Emma Strubell, Yonatan Bisk
+Rooms: DH 1212
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 11-767 On-Device Machine Learning>
+
+<start course description for 11-767 On-Device Machine Learning>
+Semester: Fall 2023 (aka F23)
+Course Description: On-Device Machine Learning is a project-based course covering how to build, train, and deploy models that can run on low-power devices (e.g. smartphones, refrigerators, and mobile robots). The course will cover advances in distillation, quantization, weight imprinting, power calculation and more. Every week we will discuss a new research paper and area in this space one day, and have a lab working-group the second. Specifically, students will be provided with low-power compute hardware (e.g. SBCs and inference accelerators) in addition to sensors (e.g. microphones, cameras, and robotics) for their course project. The project will involve three components for building low-power multimodal models:         (1) inference         (2) performing training/updates for interactive ML, and         (3) maximizing power. The more that can be performed on a device, the more privacy preserving and mobile the solution is. For each stage of the course project, the final model produced will have an mAh "budget" equivalent to one full charge of a smartphone battery
+</end course description for 11-767 On-Device Machine Learning>

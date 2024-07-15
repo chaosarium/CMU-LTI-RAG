@@ -1,0 +1,16 @@
+<start course metadata for 36-700 Probability and Mathematical Statistics>
+Semester: Fall 2023 (aka F23)
+Course Name: Probability and Mathematical Statistics
+Course Number: 36-700
+Department: Statistics and Data Science
+Number of Units: 12
+Prerequisites: None
+Instructors: Larry Wasserman
+Rooms: DH 2210
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 36-700 Probability and Mathematical Statistics>
+
+<start course description for 36-700 Probability and Mathematical Statistics>
+Semester: Fall 2023 (aka F23)
+Course Description: This is a one-semester course covering the basics of statistics. We will first provide a quick introduction to probability theory, and then cover fundamental topics in mathematical statistics such as point estimation, hypothesis testing, asymptotic theory, and Bayesian inference. If time permits, we will also cover more advanced and useful topics including nonparametric inference, regression and classification. Prerequisites: one- and two-variable calculus and matrix algebra.  Graduate students in degree-seeking programs are given priority.
+</end course description for 36-700 Probability and Mathematical Statistics>

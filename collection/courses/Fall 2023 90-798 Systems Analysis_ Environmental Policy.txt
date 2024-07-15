@@ -1,0 +1,16 @@
+<start course metadata for 90-798 Systems Analysis: Environmental Policy>
+Semester: Fall 2023 (aka F23)
+Course Name: Systems Analysis: Environmental Policy
+Course Number: 90-798
+Department: Public Policy & Mgt:Sch of Pub Pol & Mgt
+Number of Units: 12
+Prerequisites: None
+Instructors: Matthew Mehalik
+Rooms: HBH 2003
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 90-798 Systems Analysis: Environmental Policy>
+
+<start course description for 90-798 Systems Analysis: Environmental Policy>
+Semester: Fall 2023 (aka F23)
+Course Description: Systems Analysis: Environmental Policy provides an introduction to how environmental policies have been and can be designed/created implemented and evaluated amidst complex information-based social political and cultural processes. The course emphasizes a systems-based methodological approach for addressing the complexities involved in framing, analyzing, and designing an implementation plan for policy construction. The course also explores through landmark and contemporary case studies several dimensions of environmental policymaking: * Contextual historical and structural aspects of environmental policymaking at the local state federal and international levels * Use of quantitative and qualitative analytical tools (from the core program as well as new tools) * The process of how policies derive their meaning. * Contemporary challenges and opportunities in environmental policymaking.  Strategies for successful policymaking in the contemporary landscape.
+</end course description for 90-798 Systems Analysis: Environmental Policy>

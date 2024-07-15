@@ -1,0 +1,16 @@
+<start course metadata for 54-157 Production Science>
+Semester: Fall 2023 (aka F23)
+Course Name: Production Science
+Course Number: 54-157
+Department: Drama
+Number of Units: 6
+Prerequisites: None
+Instructors: Kevin Hines
+Rooms: PCA 304
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-157 Production Science>
+
+<start course description for 54-157 Production Science>
+Semester: Fall 2023 (aka F23)
+Course Description: Students in the Production Science course are exposed to the very fundamentals, the primitives, of entertainment technology.  The intent is to provide the absolutely strongest beginning for all the work to come, to provide a solid foundation for students and instructors to build upon.    Production professionals routinely perform organizational tasks.  In order to be able to meet that challenge, students will need to build a toolkit of information and procedures.  That toolkit will be comprised of knowledge of the kinds of parameters and techniques that are normally selected, the indices that parameters and techniques are evaluated against, and many of the wide range of issues that might point a manager toward one decision or another.    There also exists an entire pantheon of information that people typically learn "on the job."  Activities and information presented in this course are designed to try to expose students to as much of this on the job type development as possible with the goal of leapfrogging them past the bottom rung of the workplace ladder.    Drama Design/Production majors only, or with instructor permission.
+</end course description for 54-157 Production Science>

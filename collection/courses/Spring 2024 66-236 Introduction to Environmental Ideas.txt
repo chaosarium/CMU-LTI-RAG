@@ -1,0 +1,16 @@
+<start course metadata for 66-236 Introduction to Environmental Ideas>
+Semester: Spring 2024 (aka S24)
+Course Name: Introduction to Environmental Ideas
+Course Number: 66-236
+Department: Dietrich College Interdisciplinary
+Number of Units: 9
+Prerequisites: None
+Instructors: Abigail Owen
+Rooms: BH 255B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 66-236 Introduction to Environmental Ideas>
+
+<start course description for 66-236 Introduction to Environmental Ideas>
+Semester: Spring 2024 (aka S24)
+Course Description: By recognizing that environmental problems are themselves complex and require insights from both scientific and social perspectives, the University-wide Minor in Environmental Studies urges students to gain proficiency in different disciplinary habits of thinking about environmental problems. This course fulfills a requirement for the University-wide Minor in Environmental Studies. This course will introduce students from any undergraduate major at CMU to key methods and approaches for inquiry in the framework of Environmental Studies. Students will build up their ability to recognize and apply diagnostic criteria; understand key principles and terms; and take part in an informed discussion about ways of seeing, and creating interventions for environmental problems as social and scientific challenges. There are no pre-requisites for this course. Students will develop skills and apply concepts to different scenarios of environmental crisis. Preference for course registration goes to students already declared for the Minor in Environmental and Sustainability Studies.
+</end course description for 66-236 Introduction to Environmental Ideas>

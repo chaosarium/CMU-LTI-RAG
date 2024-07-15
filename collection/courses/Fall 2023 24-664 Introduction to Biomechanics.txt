@@ -1,0 +1,16 @@
+<start course metadata for 24-664 Introduction to Biomechanics>
+Semester: Fall 2023 (aka F23)
+Course Name: Introduction to Biomechanics
+Course Number: 24-664
+Department: Mechanical Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Axel Moore
+Rooms: GHC 4307
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-664 Introduction to Biomechanics>
+
+<start course description for 24-664 Introduction to Biomechanics>
+Semester: Fall 2023 (aka F23)
+Course Description: The purpose of this course is to achieve a broad overview of the application of mechanics to the human body.  This includes solid, fluid, and viscoelastic mechanics applied to single cells, the cardiovascular system, lungs, muscles, bones, and human movement. The physiology of each system will be reviewed as background prior to discussing mechanics applications within that system.  There are no firm prerequisites, but statics, fluid mechanics, and biology are helpful.
+</end course description for 24-664 Introduction to Biomechanics>

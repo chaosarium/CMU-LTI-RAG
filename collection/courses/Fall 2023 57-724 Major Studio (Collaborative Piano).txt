@@ -1,0 +1,16 @@
+<start course metadata for 57-724 Major Studio (Collaborative Piano)>
+Semester: Fall 2023 (aka F23)
+Course Name: Major Studio (Collaborative Piano)
+Course Number: 57-724
+Department: Music
+Number of Units: 9
+Prerequisites: None
+Instructors: Ellen Rissinger, Jocelyn Dueck, Luz Manriquez, Mark Carver, Rodrigo Ojeda, Sung-Im Kim
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-724 Major Studio (Collaborative Piano)>
+
+<start course description for 57-724 Major Studio (Collaborative Piano)>
+Semester: Fall 2023 (aka F23)
+Course Description: No course description provided.
+</end course description for 57-724 Major Studio (Collaborative Piano)>

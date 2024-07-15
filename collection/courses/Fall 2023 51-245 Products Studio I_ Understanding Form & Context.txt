@@ -1,0 +1,16 @@
+<start course metadata for 51-245 Products Studio I: Understanding Form & Context>
+Semester: Fall 2023 (aka F23)
+Course Name: Products Studio I: Understanding Form & Context
+Course Number: 51-245
+Department: Design
+Number of Units: 4
+Prerequisites: 51-102
+Instructors: Matthew Zywica
+Rooms: MM 211
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-245 Products Studio I: Understanding Form & Context>
+
+<start course description for 51-245 Products Studio I: Understanding Form & Context>
+Semester: Fall 2023 (aka F23)
+Course Description: This mini-semester course takes students through a progression of exercises and projects that investigate how object forms can relate to people through reasons of looks, feel, function, make, and preference. The understanding of context plays a role as the system of internal and external factors and conditions that cause people to interact a particular way through how they recognize, handle, move, and perform activity with the form and material of an object. Drawing and physical modeling become essential tools for the planning, development, and communication of these ideas.
+</end course description for 51-245 Products Studio I: Understanding Form & Context>

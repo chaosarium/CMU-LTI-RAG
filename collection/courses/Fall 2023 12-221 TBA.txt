@@ -1,0 +1,16 @@
+<start course metadata for 12-221 TBA>
+Semester: Fall 2023 (aka F23)
+Course Name: TBA
+Course Number: 12-221
+Department: Civil & Environmental Engineering
+Number of Units: 9
+Prerequisites: 09-105 or 09-111
+Instructors: Gregory Lowry
+Rooms: PH A7F
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 12-221 TBA>
+
+<start course description for 12-221 TBA>
+Semester: Fall 2023 (aka F23)
+Course Description: Environmental chemistry is foundational to the understanding of processes in natural and engineered systems. This course introduces environmental chemistry principles within the context of air and water systems. It focuses on the use of stoichiometry, thermodynamics, equilibrium, and kinetics to understand processes governing chemical and biological behaviors in natural and engineered systems. Topics in water include acid-base chemistry, the carbonate system, buffering, oxidation and reduction, mineral dissolution/precipitation, metal complexation, adsorption, and partitioning.  Topics in air and climate to be discussed include atmospheric chemistry, air quality, combustion, aerosols, and climate science.
+</end course description for 12-221 TBA>

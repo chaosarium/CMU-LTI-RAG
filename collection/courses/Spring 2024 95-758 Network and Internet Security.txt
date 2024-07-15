@@ -1,0 +1,16 @@
+<start course metadata for 95-758 Network and Internet Security>
+Semester: Spring 2024 (aka S24)
+Course Name: Network and Internet Security
+Course Number: 95-758
+Department: Information Systems:Sch of IS & Mgt
+Number of Units: 12
+Prerequisites: 95-752
+Instructors: Robert Beveridge
+Rooms: HBH 1206
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 95-758 Network and Internet Security>
+
+<start course description for 95-758 Network and Internet Security>
+Semester: Spring 2024 (aka S24)
+Course Description: This course emphasizes practical employment of network security.  Topics in this course will provide:  -    A working knowledge of the need to design networks to   -      properly support an organization,   -      properly accommodate networking protocols, and  properly secure an organization's cyber assets through its network infrastructure
+</end course description for 95-758 Network and Internet Security>

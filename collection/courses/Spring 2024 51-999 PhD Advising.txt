@@ -1,0 +1,16 @@
+<start course metadata for 51-999 PhD Advising>
+Semester: Spring 2024 (aka S24)
+Course Name: PhD Advising
+Course Number: 51-999
+Department: Design
+Number of Units: 0
+Prerequisites: None
+Instructors: Peter Scupelli
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-999 PhD Advising>
+
+<start course description for 51-999 PhD Advising>
+Semester: Spring 2024 (aka S24)
+Course Description: For Design PhD Students
+</end course description for 51-999 PhD Advising>

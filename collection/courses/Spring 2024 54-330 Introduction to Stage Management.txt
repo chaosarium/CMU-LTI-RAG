@@ -1,0 +1,16 @@
+<start course metadata for 54-330 Introduction to Stage Management>
+Semester: Spring 2024 (aka S24)
+Course Name: Introduction to Stage Management
+Course Number: 54-330
+Department: Drama
+Number of Units: 6
+Prerequisites: None
+Instructors: Tina Shackleford
+Rooms: PCA 307
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-330 Introduction to Stage Management>
+
+<start course description for 54-330 Introduction to Stage Management>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is intended to provide students an opening to the knowledge and skills of the professional stage manager.  It will also illuminate the qualities of a good stage manager specific to personality and human interaction.  Within this course we will examine the role of the stage manager throughout the full scope of creating a production, including preparatory work, rehearsal period, technical rehearsal, performance and closing.
+</end course description for 54-330 Introduction to Stage Management>

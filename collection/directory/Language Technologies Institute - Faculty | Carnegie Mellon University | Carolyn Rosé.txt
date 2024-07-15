@@ -1,0 +1,6 @@
+Name: Carolyn Rosé
+Title: Professor
+Email cprose@cs.cmu.edu
+Phone: 412-268-7130
+Office: 5415 Gates & Hillman Centers
+Interests: Information Retrieval, Text Mining and Analytics, Language Technologies for Education, Natural Language Processing and Computational Linguistics, Computer Supported Collaborative Learning/MOOCs

@@ -1,0 +1,16 @@
+<start course metadata for 04-900 MSIT Practicum>
+Semester: Fall 2023 (aka F23)
+Course Name: MSIT Practicum
+Course Number: 04-900
+Department: Information & Communication Technology
+Number of Units: 24
+Prerequisites: None
+Instructors: George Okeyo
+Rooms: CMR F305
+Locations: Kigali, Rwanda
+</end course metadata for 04-900 MSIT Practicum>
+
+<start course description for 04-900 MSIT Practicum>
+Semester: Fall 2023 (aka F23)
+Course Description: The MSIT practicum provides an opportunity for students to apply the knowledge and skills learned in their classes to solve a real-world problem in information and communication technology offered by an industry client.  In collaboration with a faculty mentor, each team of students works with an industry client to understand the problem to be addressed and develop a strategy to create a solution in one semester. A plan and schedule is developed, tasks are assigned, and progress is monitored through regular meetings.  The solution is presented to the industry client who joins the faculty supervisor in evaluating and grading the practicum project.
+</end course description for 04-900 MSIT Practicum>

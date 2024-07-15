@@ -1,0 +1,16 @@
+<start course metadata for 14-740 Fundamentals of Telecommunications Networks>
+Semester: Spring 2024 (aka S24)
+Course Name: Fundamentals of Telecommunications Networks
+Course Number: 14-740
+Department: Information Networking Institute
+Number of Units: 12
+Prerequisites: None
+Instructors: Pedro Bustamante
+Rooms: CIC 1201
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 14-740 Fundamentals of Telecommunications Networks>
+
+<start course description for 14-740 Fundamentals of Telecommunications Networks>
+Semester: Spring 2024 (aka S24)
+Course Description: A first, graduate-level course in computer networks. The primary objective of this course is for you to learn the fundamental principles underlying computer networks. Using a top-down approach, we will cover topics in the Application Layer (e.g., HTTP), Transport Layer (TCP and UDP), Network Layer (IP), and Data Link Layer (e.g., Ethernet) of the TCP/IP protocol stack. We will also go over advanced topics, including network management, traffic engineering, and router internals. Besides learning about the nuts and bolts, you will gain an understanding as well in engineering tradeoffs made and design principles used in computer networks.   In successfully completing this course, students will have the opportunity to describe networks and their components using the correct terminology and understanding the design principles. Students will have the opportunity to have hands-on experience with a Network testbed and Linux-based network analysis tools. In addition, students will be able to analyze computer network protocols in a (simulated) real-world network using Wireshark.
+</end course description for 14-740 Fundamentals of Telecommunications Networks>

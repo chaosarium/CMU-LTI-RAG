@@ -1,0 +1,16 @@
+<start course metadata for 85-102 Introduction to Psychology>
+Semester: Summer Two 2024 (aka M24, M24 Mini 2, Summer 2024 Mini 2)
+Course Name: Introduction to Psychology
+Course Number: 85-102
+Department: Psychology
+Number of Units: 9
+Prerequisites: None
+Instructors: Chante Cox-Boyd
+Rooms: BH 336B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 85-102 Introduction to Psychology>
+
+<start course description for 85-102 Introduction to Psychology>
+Semester: Summer Two 2024 (aka M24, M24 Mini 2, Summer 2024 Mini 2)
+Course Description: The world is a crazy, confusing place. Much of what we encounter is ambiguous, dynamic, and misleading. Somehow, we have to make sense of it. This class is about how we do that. The course provides an overview of the major areas of scientific psychology, exploring the models of our mind, brain, and behavior that explain wide areas of human (and non-human) functioning. Topics range from neuroscience and the biological basis of behavior, to memory and thought, to social interaction and psychological development over the lifespan, to abnormal psychology, psychopathology, and treatment. Tuesday and Thursday lectures provide a broad survey of topics and findings in psychology. In recitation sections students get hands on experiencing thinking about psychological science by designing and running psychological studies and discussing the real world implications of the concepts they have investigated.  While all sections will be completing the same activities, some of the sections are themed.  Themed sections will frame the discussion in the context of the theme, thus allowing students in those sections to better appreciate the links between the work being done in the class and the theme of that section.  However, the core material will be the same and all sections will prepare students equally well for exams and upper division courses.  General (unthemed) sections will sample across themes and topics, rather than being focused on a single theme.  At the end of this course, students will not only be more knowledgeable about psychology, but be able to apply their knowledge about psychology to be better thinkers, learners, and consumers of information in general.   Themed sections:     Design - Register through Design     Medicine, health, and Biosciences - Section I     Decision Science, business, and economics - Section A
+</end course description for 85-102 Introduction to Psychology>

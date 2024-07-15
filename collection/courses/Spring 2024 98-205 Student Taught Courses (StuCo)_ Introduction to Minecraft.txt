@@ -1,0 +1,16 @@
+<start course metadata for 98-205 Student Taught Courses (StuCo): Introduction to Minecraft>
+Semester: Spring 2024 (aka S24)
+Course Name: Student Taught Courses (StuCo): Introduction to Minecraft
+Course Number: 98-205
+Department: StuCo (Student Led Courses)
+Number of Units: 3
+Prerequisites: None
+Instructors: Adrian Tran, Hanke Chen
+Rooms: BH 140B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 98-205 Student Taught Courses (StuCo): Introduction to Minecraft>
+
+<start course description for 98-205 Student Taught Courses (StuCo): Introduction to Minecraft>
+Semester: Spring 2024 (aka S24)
+Course Description: Minecraft is the single most sold video game of all time. It places you in a randomly generated world of blocks and sets you free to survive while being creative in a completely sandbox environment. This course will provide an in-depth introduction on how to play Minecraft. By the end of this class, students should know the basics about Minecraft and be able to survive in a Minecraft world, as well as expand their knowledge about Minecraft to depth within and out of the game. This class is designed for both players completely new to the game as well as those with plenty of experience looking to play Minecraft with some new friends. There is no course fee, however a Minecraft PC account is required and the game costs $30.
+</end course description for 98-205 Student Taught Courses (StuCo): Introduction to Minecraft>

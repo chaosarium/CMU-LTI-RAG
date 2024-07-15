@@ -1,0 +1,16 @@
+<start course metadata for 42-624 Biological Transport and Drug Delivery>
+Semester: Spring 2024 (aka S24)
+Course Name: Biological Transport and Drug Delivery
+Course Number: 42-624
+Department: Biomedical Engineering
+Number of Units: 9
+Prerequisites: None
+Instructors: Newell Washburn
+Rooms: WEH 5403
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 42-624 Biological Transport and Drug Delivery>
+
+<start course description for 42-624 Biological Transport and Drug Delivery>
+Semester: Spring 2024 (aka S24)
+Course Description: Analysis of transport phenomena in life processes on the  molecular, cellular, organ and organism levels and their application to the  modeling and design of targeted or sustained release drug delivery  technologies. Coupling of mass transfer and reaction processes will be a  consistent theme as they are applied to rates of receptor-mediated solute  uptake in cells, drug transport and biodistribution, and drug release from  delivery vehicles. Design concepts underlying advances in nanomedicine will  be described.
+</end course description for 42-624 Biological Transport and Drug Delivery>

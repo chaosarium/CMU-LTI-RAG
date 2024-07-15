@@ -1,0 +1,16 @@
+<start course metadata for 05-615 Persuasive Design>
+Semester: Spring 2024 (aka S24)
+Course Name: Persuasive Design
+Course Number: 05-615
+Department: Human-Computer Interaction
+Number of Units: 12
+Prerequisites: None
+Instructors: Geoff Kaufman
+Rooms: 3SC 172
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 05-615 Persuasive Design>
+
+<start course description for 05-615 Persuasive Design>
+Semester: Spring 2024 (aka S24)
+Course Description: This project-based course focuses on the ethical, human-centered design and evaluation of persuasive technologies that aim to change users' attitudes, emotions, or behaviors in ways that benefit the self and/or society. In addition to exposing students to an array of psychological theories and strategies for implicit and explicit persuasion, the course will  cover a variety of topics illustrating both the pitfalls and possibilities in designing for positive impact in HCI. The focal point of the class will be the semester project, for which student teams will iteratively conceptualize, prototype, implement, and evaluate a tool, system, or change to a ubiquitous computing environment that intends to stimulate and sustain belief or behavior change (such as reducing cognitive or social biases, building healthy or prosocial habits, or resisting other persuasive forces one encounters on a daily basis).
+</end course description for 05-615 Persuasive Design>

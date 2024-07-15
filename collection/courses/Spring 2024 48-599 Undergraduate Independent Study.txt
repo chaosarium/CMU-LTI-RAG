@@ -1,0 +1,16 @@
+<start course metadata for 48-599 Undergraduate Independent Study>
+Semester: Spring 2024 (aka S24)
+Course Name: Undergraduate Independent Study
+Course Number: 48-599
+Department: Architecture
+Number of Units: N/A
+Prerequisites: None
+Instructors: Jeremy Ficca, Kristen Kurland, Mary-Lou Arscott, Stephen Lee, Tommy Yang
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-599 Undergraduate Independent Study>
+
+<start course description for 48-599 Undergraduate Independent Study>
+Semester: Spring 2024 (aka S24)
+Course Description: No course description provided.
+</end course description for 48-599 Undergraduate Independent Study>

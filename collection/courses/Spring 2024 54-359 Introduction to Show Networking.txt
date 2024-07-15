@@ -1,0 +1,16 @@
+<start course metadata for 54-359 Introduction to Show Networking>
+Semester: Spring 2024 (aka S24)
+Course Name: Introduction to Show Networking
+Course Number: 54-359
+Department: Drama
+Number of Units: 3
+Prerequisites: 54-249
+Instructors: C. Todd Brown
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-359 Introduction to Show Networking>
+
+<start course description for 54-359 Introduction to Show Networking>
+Semester: Spring 2024 (aka S24)
+Course Description: Introduction to Show Networking explores the integration of network structures and methods into entertainment production.  Presented as two remote sessions (January 19 and February 16, 4-5:20 PM) and one in-person workshop (1/23, 9 AM-4 PM), the course will utilize readings and individual study as preparation for a series of projects to demonstrate networking techniques as applicable in the field of production technology.
+</end course description for 54-359 Introduction to Show Networking>

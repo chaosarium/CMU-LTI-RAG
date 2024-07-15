@@ -1,0 +1,16 @@
+<start course metadata for 85-702 Multilevel Modeling>
+Semester: Fall 2023 (aka F23)
+Course Name: Multilevel Modeling
+Course Number: 85-702
+Department: Psychology
+Number of Units: N/A
+Prerequisites: None
+Instructors: Kirk Brown
+Rooms: BH 332P
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 85-702 Multilevel Modeling>
+
+<start course description for 85-702 Multilevel Modeling>
+Semester: Fall 2023 (aka F23)
+Course Description: This course introduces a number of expressions of multilevel modeling that are now in common use in all the major branches of psychology, as well as in education and other sciences. The course balances conceptual understanding of MLM with practical, lab-based application. A working knowledge of R or SAS statistical software will be advantageous but not required.
+</end course description for 85-702 Multilevel Modeling>

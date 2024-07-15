@@ -1,0 +1,16 @@
+<start course metadata for 49-792 Software Management Practicum>
+Semester: Fall 2023 (aka F23)
+Course Name: Software Management Practicum
+Course Number: 49-792
+Department: Integrated Innovation Institute
+Number of Units: 12
+Prerequisites: None
+Instructors: Gladys Mercier
+Rooms: B23 118
+Locations: San Jose, California
+</end course metadata for 49-792 Software Management Practicum>
+
+<start course description for 49-792 Software Management Practicum>
+Semester: Fall 2023 (aka F23)
+Course Description: The practicum involves application of the SM program concepts in an actual business environment. Acting as consultants to one or more customers, student teams must scope a project; develop a project plan and detailed statement of work. Practicum topics are typically proposed by outside companies, which are looking to work with our students, but there are other options available as well. Students must demonstrate all deliverables to the customer(s), whose assessment of the work is a major component of the grade. More than a simple internship, the practicum involves real responsibility, teamwork, accountability, and rigor. Students must follow the process for practicum participation outlined in the summer before being able to register into the course.
+</end course description for 49-792 Software Management Practicum>

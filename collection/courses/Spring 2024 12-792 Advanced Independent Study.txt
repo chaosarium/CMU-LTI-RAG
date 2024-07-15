@@ -1,0 +1,16 @@
+<start course metadata for 12-792 Advanced Independent Study>
+Semester: Spring 2024 (aka S24)
+Course Name: Advanced Independent Study
+Course Number: 12-792
+Department: Civil & Environmental Engineering
+Number of Units: N/A
+Prerequisites: None
+Instructors: Burcu Akinci, Corey Harper, Gregory Lowry, Kelvin Gregory, Pingbo Tang, Sarah Christian, Sarah Fakhreddine, Sean Qian
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 12-792 Advanced Independent Study>
+
+<start course description for 12-792 Advanced Independent Study>
+Semester: Spring 2024 (aka S24)
+Course Description: In-Depth investigfation of selected advanced topics not offered in formal courses.  By special arrangement upon demand and with approval of the instructor.  Prerequisites: Permission of instructor.
+</end course description for 12-792 Advanced Independent Study>

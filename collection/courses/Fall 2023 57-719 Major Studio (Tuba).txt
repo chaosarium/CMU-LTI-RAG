@@ -1,0 +1,16 @@
+<start course metadata for 57-719 Major Studio (Tuba)>
+Semester: Fall 2023 (aka F23)
+Course Name: Major Studio (Tuba)
+Course Number: 57-719
+Department: Music
+Number of Units: 9
+Prerequisites: None
+Instructors: Craig Knox
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-719 Major Studio (Tuba)>
+
+<start course description for 57-719 Major Studio (Tuba)>
+Semester: Fall 2023 (aka F23)
+Course Description: A one hour private lesson per week for all music majors.
+</end course description for 57-719 Major Studio (Tuba)>

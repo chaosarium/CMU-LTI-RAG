@@ -1,0 +1,16 @@
+<start course metadata for 21-393 Operations Research II>
+Semester: Fall 2023 (aka F23)
+Course Name: Operations Research II
+Course Number: 21-393
+Department: Mathematical Sciences
+Number of Units: 9
+Prerequisites: (21-228 or 15-251) and (21-292)
+Instructors: Alan Frieze
+Rooms: WEH 8220
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-393 Operations Research II>
+
+<start course description for 21-393 Operations Research II>
+Semester: Fall 2023 (aka F23)
+Course Description: Building on an understanding of Linear Programming developed in 21-292 Operations Research I, this course introduces more advanced topics.  Integer programming, including cutting planes and branch and bound.  Dynamic programming.  An introduction to Combinatorial Optimization including optimal spanning trees, shortest paths, the assignment problem and max-flow/min-cut.  The traveling salesman problem and NP-completeness.  An important goal of this course is for the student to gain experience with the process of working in a group to apply operations research methods to solve a problem.  A portion of the course is devoted to a group project based upon case studies and the methods presented. 36-410 recommended.  (Three 50 minute lectures)
+</end course description for 21-393 Operations Research II>

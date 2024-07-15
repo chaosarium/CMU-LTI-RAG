@@ -1,0 +1,16 @@
+<start course metadata for 16-711 Kinematics, Dynamic Systems and Control>
+Semester: Spring 2024 (aka S24)
+Course Name: Kinematics, Dynamic Systems and Control
+Course Number: 16-711
+Department: Robotics
+Number of Units: 12
+Prerequisites: None
+Instructors: Hartmut Geyer
+Rooms: POS 153
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 16-711 Kinematics, Dynamic Systems and Control>
+
+<start course description for 16-711 Kinematics, Dynamic Systems and Control>
+Semester: Spring 2024 (aka S24)
+Course Description: Kinematics, Dynamic Systems, and Control is a graduate level introduction to robotics. The course covers fundamental concepts and methods to analyze, model and control robotic mechanisms which move in the physical world and manipulate it. Main topics include the fundamentals of kinematics, dynamics and control applied to the kinematics, dynamics and control of rigid body chains. Additional topics include state estimation and dynamic parameter identification.
+</end course description for 16-711 Kinematics, Dynamic Systems and Control>

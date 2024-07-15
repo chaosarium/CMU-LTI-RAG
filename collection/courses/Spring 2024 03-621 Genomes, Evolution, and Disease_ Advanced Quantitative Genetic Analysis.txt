@@ -1,0 +1,16 @@
+<start course metadata for 03-621 Genomes, Evolution, and Disease: Advanced Quantitative Genetic Analysis>
+Semester: Spring 2024 (aka S24)
+Course Name: Genomes, Evolution, and Disease: Advanced Quantitative Genetic Analysis
+Course Number: 03-621
+Department: Biological Sciences
+Number of Units: 9
+Prerequisites: 03-121 or 03-151
+Instructors: Stephanie Wong-Noonan, Zheng Kuang
+Rooms: GHC 4307
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 03-621 Genomes, Evolution, and Disease: Advanced Quantitative Genetic Analysis>
+
+<start course description for 03-621 Genomes, Evolution, and Disease: Advanced Quantitative Genetic Analysis>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is recommended for graduate students with an interest in emerging technologies for analysis of human genetics, genomics, gene therapy and precision medicine. The development of massively parallel DNA sequencing and associated technologies has transformed the way we approach genetic questions. Contemporary genetics is increasingly concerned with generating, processing and analyzing vast amounts of data to extract information about genetic variation, expression, interactions and associations. At the same time, comparative genomics, bioinformatic and reverse genetic methods are transforming the way in which gene functions are investigated, while the development of powerful methods for precise modification of genomes is opening the way to cell- and gene-based therapies for disease. In parallel, the promise of precision or personalized medicine is predicated on advances in understanding of complex traits, genetic interactions and networks. These and other topics will be covered following a review of basic principles of gene structure and expression, the fundamental principles of Mendelian genetics, and their underpinnings in cellular mechanisms for the replication, recombination and transmission of genetic material.
+</end course description for 03-621 Genomes, Evolution, and Disease: Advanced Quantitative Genetic Analysis>

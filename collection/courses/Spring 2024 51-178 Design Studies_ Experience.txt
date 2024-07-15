@@ -1,0 +1,16 @@
+<start course metadata for 51-178 Design Studies: Experience>
+Semester: Spring 2024 (aka S24)
+Course Name: Design Studies: Experience
+Course Number: 51-178
+Department: Design
+Number of Units: 5
+Prerequisites: None
+Instructors: Brett Yasko
+Rooms: MM 107
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-178 Design Studies: Experience>
+
+<start course description for 51-178 Design Studies: Experience>
+Semester: Spring 2024 (aka S24)
+Course Description: Experience explores how design touches peoples lives, and shapes their materials and non-material worlds. Through a series of lectures, viewings, and class discussions, we'll try to determine just what design is and what designers can do. We will explore contrasting definitions of design, and get to know it as an experientially-rich process. Well examine how users and audiences interact with what is designed, and debate the designers responsibility to consider what lies behind it. Coursework includes individual and team projects exploring design's role in shaping our experience of the world.
+</end course description for 51-178 Design Studies: Experience>

@@ -1,0 +1,16 @@
+<start course metadata for 11-654 TBA>
+Semester: Fall 2023 (aka F23)
+Course Name: TBA
+Course Number: 11-654
+Department: Language Technologies Institute
+Number of Units: 12
+Prerequisites: None
+Instructors: Adam Paulisick
+Rooms: POS 146
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 11-654 TBA>
+
+<start course description for 11-654 TBA>
+Semester: Fall 2023 (aka F23)
+Course Description: For MS in Artificial Intelligence and Innovation (MSAII) students only.
+</end course description for 11-654 TBA>

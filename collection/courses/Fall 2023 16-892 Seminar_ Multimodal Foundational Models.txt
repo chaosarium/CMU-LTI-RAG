@@ -1,0 +1,16 @@
+<start course metadata for 16-892 Seminar: Multimodal Foundational Models>
+Semester: Fall 2023 (aka F23)
+Course Name: Seminar: Multimodal Foundational Models
+Course Number: 16-892
+Department: Robotics
+Number of Units: 12
+Prerequisites: 16-820
+Instructors: Deva Ramanan
+Rooms: NSH 3002
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 16-892 Seminar: Multimodal Foundational Models>
+
+<start course description for 16-892 Seminar: Multimodal Foundational Models>
+Semester: Fall 2023 (aka F23)
+Course Description: This course will discuss recent foundation models proposed in the literature, with a focus on vision-language models. Topics include large language models, vision-language models, and vision-audio models. As time allows, this course will also discuss application of such models to visual, audio, and video content generation.
+</end course description for 16-892 Seminar: Multimodal Foundational Models>

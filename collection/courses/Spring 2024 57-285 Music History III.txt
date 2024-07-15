@@ -1,0 +1,16 @@
+<start course metadata for 57-285 Music History III>
+Semester: Spring 2024 (aka S24)
+Course Name: Music History III
+Course Number: 57-285
+Department: Music
+Number of Units: 9
+Prerequisites: 57-283 and 57-284
+Instructors: Christopher Lynch
+Rooms: CFA A2
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-285 Music History III>
+
+<start course description for 57-285 Music History III>
+Semester: Spring 2024 (aka S24)
+Course Description: This class will be an in-depth analytical study of music from the 20th and 21st centuries. It will emphasize selected genres and approaches by representative composers in order to trace the various threads of musical style, to clarify the main characteristics of the period's music, to set the musical developments in broader cultural contexts, and to apply this knowledge to the lives and musical practices of musicians today.
+</end course description for 57-285 Music History III>

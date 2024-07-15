@@ -1,0 +1,16 @@
+<start course metadata for 90-718 Strategic Presentation Skills>
+Semester: Fall 2023 (aka F23)
+Course Name: Strategic Presentation Skills
+Course Number: 90-718
+Department: Public Policy & Mgt:Sch of Pub Pol & Mgt
+Number of Units: 6
+Prerequisites: None
+Instructors: Haylee Massaro, Rebekah Fitzsimmons, Stacy Rosenberg
+Rooms: HBH 1004; HBH 1007; HBH 2011
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 90-718 Strategic Presentation Skills>
+
+<start course description for 90-718 Strategic Presentation Skills>
+Semester: Fall 2023 (aka F23)
+Course Description: Strategic Presentation Skills (SPS) provides practical instruction for preparing and delivering professional presentations. Activities and assignments include: analyzing audience members, writing outlines, creating cohesive visuals, and speaking extemporaneously. Students target and engage specific audiences using a communication style suitable for workplace environments. Overall, the course helps students develop confidence and apply effective techniques when speaking in a public setting.
+</end course description for 90-718 Strategic Presentation Skills>

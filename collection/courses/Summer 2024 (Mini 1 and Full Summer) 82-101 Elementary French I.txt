@@ -1,0 +1,16 @@
+<start course metadata for 82-101 Elementary French I>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Elementary French I
+Course Number: 82-101
+Department: Modern Languages
+Number of Units: 12
+Prerequisites: None
+Instructors: Instructor TBA
+Rooms: PH 126A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 82-101 Elementary French I>
+
+<start course description for 82-101 Elementary French I>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: This course is for students with no prior experience in French. Using a proficiency-oriented approach, students will develop contextually appropriate interpersonal communication skills in both written and spoken French, develop reading and listening skills through the use of various media, understand fundamental grammar, acquire vocabulary, and gain a basic understanding of French and francophone cultures through class activities. Regular homework, quizzes, tests, presentations, and class participation are mandatory (four in-class hours per week). The elementary level is also designed to help students learn to reflect and draw upon strategies used by good language learners in their second language study. A student with prior experience in French must take the placement exam.
+</end course description for 82-101 Elementary French I>

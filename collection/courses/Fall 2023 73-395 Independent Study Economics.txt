@@ -1,0 +1,16 @@
+<start course metadata for 73-395 Independent Study Economics>
+Semester: Fall 2023 (aka F23)
+Course Name: Independent Study Economics
+Course Number: 73-395
+Department: Economics
+Number of Units: N/A
+Prerequisites: (21-256 or 21-259 or 21-268 or 21-269) and (73-230 or 73-240)
+Instructors: Instructor TBA
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 73-395 Independent Study Economics>
+
+<start course description for 73-395 Independent Study Economics>
+Semester: Fall 2023 (aka F23)
+Course Description: The Independent Study course in economics allows the student to pursue his or her own research interests in any of a variety of topics in economics. A typical independent study course involves a semester long project under the supervision of an appropriate faculty advisor. The nature and scope of the project are determined by the student and faculty advisor. Minimum grade standard of "C" applies only to economics courses.
+</end course description for 73-395 Independent Study Economics>

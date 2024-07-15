@@ -1,0 +1,16 @@
+<start course metadata for 39-402 Leadership Development Seminar>
+Semester: Fall 2023 (aka F23)
+Course Name: Leadership Development Seminar
+Course Number: 39-402
+Department: CIT Interdisciplinary
+Number of Units: 9
+Prerequisites: None
+Instructors: Courtney Williamson, Kurt Larsen
+Rooms: WW 123
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 39-402 Leadership Development Seminar>
+
+<start course description for 39-402 Leadership Development Seminar>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is designed for CIT seniors and juniors committed to further developing their leadership skills and potential for sustained impact in the future.  The course will be substantive and engaging, while less technically challenging, outright, than thought provoking, edifying, and enjoyable, ideally.  The course will build on the foundation of six key leadership pillars, identified by CIT to hone a student's professional and personal development to serve others, and to seek out and nurture opportunities to heighten one's capacity as a person and leader who is: VISIONARY, with clear goals for yourself, your organizations and communities, and others in whose lives you are a part, including the broader society; ETHICAL, with core values and steadfastness in the face of competing objectives, and the resilience to deal with conflicts without moral compromise; ENGAGING, with empathy, attentive interpersonal attributes, outstanding formal and informal communication skills, and the capacity to inspire; TACTICAL, with an ability to operationalize big ideas and bring them to fruition, creating the ideal environment for individual and group success; TECHNICAL, based on your own high-level skill set and the ego strength for inclusion of others with complementary realms of expertise; REFLECTIVE, manifesting in the honest appraisal of personal and organizational success against metrics, and the ability to redirect based on assessment.
+</end course description for 39-402 Leadership Development Seminar>

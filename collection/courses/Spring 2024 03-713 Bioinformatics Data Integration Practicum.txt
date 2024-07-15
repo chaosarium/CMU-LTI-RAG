@@ -1,0 +1,16 @@
+<start course metadata for 03-713 Bioinformatics Data Integration Practicum>
+Semester: Spring 2024 (aka S24)
+Course Name: Bioinformatics Data Integration Practicum
+Course Number: 03-713
+Department: Biological Sciences
+Number of Units: 6
+Prerequisites: None
+Instructors: Joel Mcmanus
+Rooms: POS 146
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 03-713 Bioinformatics Data Integration Practicum>
+
+<start course description for 03-713 Bioinformatics Data Integration Practicum>
+Semester: Spring 2024 (aka S24)
+Course Description: This course provides a hands-on, self-directed experience dealing with biological data and integrating it to produce software and analyses that are of use to biologists. Data are taken from a variety of sources, including academic research labs, large scale public genomics projects and data from private industry partners. Students will be given a project and asked to design a solution using a combination of existing tools and their own developed software.
+</end course description for 03-713 Bioinformatics Data Integration Practicum>

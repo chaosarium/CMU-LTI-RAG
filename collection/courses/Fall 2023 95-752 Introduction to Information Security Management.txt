@@ -1,0 +1,16 @@
+<start course metadata for 95-752 Introduction to Information Security Management>
+Semester: Fall 2023 (aka F23)
+Course Name: Introduction to Information Security Management
+Course Number: 95-752
+Department: Information Systems:Sch of IS & Mgt
+Number of Units: 12
+Prerequisites: None
+Instructors: Randy Trzeciak
+Rooms: HBH 1206
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 95-752 Introduction to Information Security Management>
+
+<start course description for 95-752 Introduction to Information Security Management>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is intended to give students an introduction to a variety of information and cyber security topics. As a survey course, it will cover foundational technical concepts as well as managerial and policy topics. Coverage includes foundations of information security; introductory cryptography; program, data, and operating system security; security of user-web interaction; safeguarding the Internet of Things; cyberwarfare; securing virtual, cloud, and mobile environments; network concepts and network security; incident management and IT auditing processes; security risk management; legal and ethical issues of security and privacy. Students are exposed to common sources of vulnerability information and how to incorporate this information into information security management processes. The purpose of the course lectures, assignments, readings, and examinations are to ensure students have sufficient technical awareness and managerial competence that will enable them to pursue advanced study in information security policy and management. There is no prerequisite for this course, however successful students will have fundamental knowledge of information and computer systems, and a general awareness of security issues in these systems.
+</end course description for 95-752 Introduction to Information Security Management>

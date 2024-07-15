@@ -1,0 +1,16 @@
+<start course metadata for 85-505 Readings In Psychology>
+Semester: Summer Two 2024 (aka M24, M24 Mini 2, Summer 2024 Mini 2)
+Course Name: Readings In Psychology
+Course Number: 85-505
+Department: Psychology
+Number of Units: N/A
+Prerequisites: None
+Instructors: Danny Oppenheimer
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 85-505 Readings In Psychology>
+
+<start course description for 85-505 Readings In Psychology>
+Semester: Summer Two 2024 (aka M24, M24 Mini 2, Summer 2024 Mini 2)
+Course Description: None
+</end course description for 85-505 Readings In Psychology>

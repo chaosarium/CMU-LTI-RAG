@@ -1,0 +1,16 @@
+<start course metadata for 54-365 Machine Design I>
+Semester: Spring 2024 (aka S24)
+Course Name: Machine Design I
+Course Number: 54-365
+Department: Drama
+Number of Units: 9
+Prerequisites: 54-366
+Instructors: Kevin Hines
+Rooms: PCA 209
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-365 Machine Design I>
+
+<start course description for 54-365 Machine Design I>
+Semester: Spring 2024 (aka S24)
+Course Description: Required for all senior undergraduate Technical Direction students.    In this course, concepts from Physics of Stage Machinery are applied to the specification, selection, design and assembly of real-world mechanical components for the realization of winches, turntables, wagons and lifts for theatrical use.    Drama majors only, or with instructor permission.
+</end course description for 54-365 Machine Design I>

@@ -1,0 +1,16 @@
+<start course metadata for 79-300 History of American Public Policy>
+Semester: Fall 2023 (aka F23)
+Course Name: History of American Public Policy
+Course Number: 79-300
+Department: History
+Number of Units: 9
+Prerequisites: None
+Instructors: Jay Aronson
+Rooms: PH A22
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 79-300 History of American Public Policy>
+
+<start course description for 79-300 History of American Public Policy>
+Semester: Fall 2023 (aka F23)
+Course Description: This course traces the development of US domestic public policy, the growth of the federal government, and the changing relationship among citizens, states, and the federal government over time. We begin with an examination of the current policy landscape and then go back in time to understand how we got to where we are today. We very quickly discover that our current political predicaments are not accidental. Particular people or groups across the political spectrum have worked hard to shape public policy at various critical points in history and have reaped tremendous benefit, even if their influence makes the overall system unstable or unworkable today. We identify critical moments of crisis or change in American politics, examine the imaginaries and policy levers available to people at that time, and explain how policy decisions were made. Students will gain a clear understanding of how interests and political will have been cultivated and mobilized in the past, which can offer them useful models for advancing their own priorities and those of their generation. Topics covered currently include health care and health insurance, abortion, and immigration.
+</end course description for 79-300 History of American Public Policy>

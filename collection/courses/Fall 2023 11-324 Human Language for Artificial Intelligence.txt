@@ -1,0 +1,16 @@
+<start course metadata for 11-324 Human Language for Artificial Intelligence>
+Semester: Fall 2023 (aka F23)
+Course Name: Human Language for Artificial Intelligence
+Course Number: 11-324
+Department: Language Technologies Institute
+Number of Units: 12
+Prerequisites: None
+Instructors: Lorraine Levin
+Rooms: WEH 5409
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 11-324 Human Language for Artificial Intelligence>
+
+<start course description for 11-324 Human Language for Artificial Intelligence>
+Semester: Fall 2023 (aka F23)
+Course Description: An enduring aspect of the quest to build intelligent machines is the challenge of human language. This course introduces students with a background in computer science and a research interest in artificial intelligence fields to the structure of natural language, from sound to society. It covers phonetics (the physical aspects of speech), phonology (the sound-structure of language), morphology (the structure of words), morphosyntax (the use of word and phrase structure to encode meaning), syntactic formalisms (using finite sets of production rules to characterize infinite configurations of structure), discourse analysis and pragmatics (language in discourse and communicative context), and sociolinguistics (language in social context and social meaning). Evaluation is based on seven homework assignments, a midterm examination, and a final examination.
+</end course description for 11-324 Human Language for Artificial Intelligence>

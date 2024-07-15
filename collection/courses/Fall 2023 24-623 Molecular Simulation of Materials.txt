@@ -1,0 +1,16 @@
+<start course metadata for 24-623 Molecular Simulation of Materials>
+Semester: Fall 2023 (aka F23)
+Course Name: Molecular Simulation of Materials
+Course Number: 24-623
+Department: Mechanical Engineering
+Number of Units: 12
+Prerequisites: 24-221 and 24-311
+Instructors: Jerry Wang
+Rooms: WEH 4708
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-623 Molecular Simulation of Materials>
+
+<start course description for 24-623 Molecular Simulation of Materials>
+Semester: Fall 2023 (aka F23)
+Course Description: The purpose of this course is to expose engineering students to the theory and implementation of numerical techniques for modeling atomic-level behavior. The main focus is on molecular dynamics and Monte Carlo simulations. Students will write their own simulation computer codes, and learn how to perform calculations in different thermodynamic ensembles. Consideration will be given to heat transfer, mass transfer, fluid mechanics, mechanics, and materials science applications.  The course assumes some knowledge of thermodynamics and computer programming. 4 hrs lec.
+</end course description for 24-623 Molecular Simulation of Materials>

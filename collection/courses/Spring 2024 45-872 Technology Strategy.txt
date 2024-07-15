@@ -1,0 +1,16 @@
+<start course metadata for 45-872 Technology Strategy>
+Semester: Spring 2024 (aka S24)
+Course Name: Technology Strategy
+Course Number: 45-872
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Tim Derdenger
+Rooms: TEP 2110
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-872 Technology Strategy>
+
+<start course description for 45-872 Technology Strategy>
+Semester: Spring 2024 (aka S24)
+Course Description: Firms such as Apple, Alibaba, Facebook, John Deere, SalesForce, Uber, and Yelp operate a platform ¿a strategy where two or more disparate groups interact over a platform to co-create value. Today, the cloud, social media, and mobile devices are fueling platform competition, and companies want in regardless of industry. Technology Strategy introduces students to the many ways networked markets are transforming the economy and provides strategies for designing, monetizing, and launching a digital platform. Students will leverage the fundamentals of digital transformation to identify why platforms beat products, and how they can make a business a platform. Participants will learn how to design, launch, monetize and grow a digital platform as well as identify how to leverage open innovation for your platform. The course also equips participants with the knowledge on governing their platform and strategically evaluating the competition.  We will also cover issues such as pricing of technology products including versioning, bundling and dynamic pricing.  For students to understand how firms strategically interact in technology-intensive industries this course will use a combination of simple but rigorous analytical models, emerging theories, and formal case studies. This course is ideal for students who want to pursue a career as a product manager for a platform company.
+</end course description for 45-872 Technology Strategy>

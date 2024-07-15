@@ -1,0 +1,16 @@
+<start course metadata for 21-373 Algebraic Structures>
+Semester: Spring 2024 (aka S24)
+Course Name: Algebraic Structures
+Course Number: 21-373
+Department: Mathematical Sciences
+Number of Units: 9
+Prerequisites: (21-127 or 21-128 or 15-151) and (21-242 or 21-241)
+Instructors: Boris Bukh, Irina Gheorghiciuc
+Rooms: WEH 5409; WEH 5421
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-373 Algebraic Structures>
+
+<start course description for 21-373 Algebraic Structures>
+Semester: Spring 2024 (aka S24)
+Course Description: Groups: Homomorphisms. Subgroups, cosets, Lagrange's theorem. Conjugation. Normal subgroups, quotient groups, first isomorphism theorem. Group actions, Cauchy's Theorem. Dihedral and alternating groups. The second and third isomorphism theorems. Rings:  Subrings, ideals, quotient rings, first isomorphism theorem. Polynomial rings. Prime and maximal ideals, prime and irreducible elements. PIDs and UFDs. Noetherian domains. Gauss' lemma. Eisenstein criterion. Fields:  Field of fractions of an integral domain. Finite fields. Applications to coding theory, cryptography, number theory. (Three 50 minute lectures)
+</end course description for 21-373 Algebraic Structures>

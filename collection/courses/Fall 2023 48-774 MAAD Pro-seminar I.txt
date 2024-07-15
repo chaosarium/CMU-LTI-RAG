@@ -1,0 +1,16 @@
+<start course metadata for 48-774 MAAD Pro-seminar I>
+Semester: Fall 2023 (aka F23)
+Course Name: MAAD Pro-seminar I
+Course Number: 48-774
+Department: Architecture
+Number of Units: 3
+Prerequisites: None
+Instructors: Kai Gutschow
+Rooms: CFA 214
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-774 MAAD Pro-seminar I>
+
+<start course description for 48-774 MAAD Pro-seminar I>
+Semester: Fall 2023 (aka F23)
+Course Description: tbd
+</end course description for 48-774 MAAD Pro-seminar I>

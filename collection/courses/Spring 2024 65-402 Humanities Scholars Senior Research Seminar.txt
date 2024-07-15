@@ -1,0 +1,16 @@
+<start course metadata for 65-402 Humanities Scholars Senior Research Seminar>
+Semester: Spring 2024 (aka S24)
+Course Name: Humanities Scholars Senior Research Seminar
+Course Number: 65-402
+Department: General Dietrich College
+Number of Units: 9
+Prerequisites: 65-202
+Instructors: Therese Tardio
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 65-402 Humanities Scholars Senior Research Seminar>
+
+<start course description for 65-402 Humanities Scholars Senior Research Seminar>
+Semester: Spring 2024 (aka S24)
+Course Description: This research seminar is designed for fourth-year Humanities Scholars to  explore methodological issues and theoretical concerns relating to their own  senior projects and broader issues in the humanities.
+</end course description for 65-402 Humanities Scholars Senior Research Seminar>

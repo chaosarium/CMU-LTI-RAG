@@ -1,0 +1,16 @@
+<start course metadata for 54-368 Introduction to Lighting Management>
+Semester: Spring 2024 (aka S24)
+Course Name: Introduction to Lighting Management
+Course Number: 54-368
+Department: Drama
+Number of Units: 6
+Prerequisites: 54-249
+Instructors: C. Todd Brown
+Rooms: PCA 211
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-368 Introduction to Lighting Management>
+
+<start course description for 54-368 Introduction to Lighting Management>
+Semester: Spring 2024 (aka S24)
+Course Description: Lighting Management I is an overview of the management process within a theatrical lighting department. Topics covered include communication tools, paperwork and physical resources used by department heads to facilitate lighting designs, as well as other duties performed within that role.
+</end course description for 54-368 Introduction to Lighting Management>

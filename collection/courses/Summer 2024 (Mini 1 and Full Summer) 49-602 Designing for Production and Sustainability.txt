@@ -1,0 +1,16 @@
+<start course metadata for 49-602 Designing for Production and Sustainability>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Designing for Production and Sustainability
+Course Number: 49-602
+Department: Integrated Innovation Institute
+Number of Units: 10
+Prerequisites: None
+Instructors: Instructor TBA
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 49-602 Designing for Production and Sustainability>
+
+<start course description for 49-602 Designing for Production and Sustainability>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: MIIPS Online & Certificate Students Only - Technology for Product Management Certificate  This course will teach the basic principles and philosophies of engineering design, with emphasis on mechanical engineering due to the broad scope of applications of mechanical engineering which include but are not limited to stress analysis and fracture, heat transfer, kinematics, and systems packaging. Recognizing that design is a first step in a sequence of later decisions and steps (development, manufacture, distribution and life cycle of a product), this course will look at the influence of materials, manufacturing and other downstream decisions/actions on the overall design of a product.  Some of the downstream influences that will be explored are decisions and actions that take place prior to the sale of the product: material selection, manufacturing processes, assembly, robustness and quality, platform design, product costing and safety. However, what we design and how we develop it also impacts our environment for years to come, so importantly this course will also cover various aspects of sustainable design from a product life cycle perspective.   Thus, students will be exposed to the fundamental concepts of Design for "X" and specifically the impact that DfM (design for manufacturing) and DfA (design for assembly) have on product development and how they affect design decisions. Students will also be exposed to the fundamental concepts of Sustainable Design (also known as Design for Sustainability - DfS, EcoDesign, Sustainability Engineering, LCA and others) and specifically the impact that DfS has on product development and how it affects design decisions. This class includes lectures and labs activities.
+</end course description for 49-602 Designing for Production and Sustainability>

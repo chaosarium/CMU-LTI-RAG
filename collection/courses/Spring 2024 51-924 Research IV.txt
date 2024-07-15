@@ -1,0 +1,16 @@
+<start course metadata for 51-924 Research IV>
+Semester: Spring 2024 (aka S24)
+Course Name: Research IV
+Course Number: 51-924
+Department: Design
+Number of Units: N/A
+Prerequisites: None
+Instructors: Jonathan Chapman
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-924 Research IV>
+
+<start course description for 51-924 Research IV>
+Semester: Spring 2024 (aka S24)
+Course Description: Continuation of Design Doctoral Research for sixth semester Design PhD students.
+</end course description for 51-924 Research IV>

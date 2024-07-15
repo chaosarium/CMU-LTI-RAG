@@ -1,0 +1,16 @@
+<start course metadata for 57-184 Solfege IV>
+Semester: Spring 2024 (aka S24)
+Course Name: Solfege IV
+Course Number: 57-184
+Department: Music
+Number of Units: 3
+Prerequisites: 57-183
+Instructors: Walter Young
+Rooms: CFA A2
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-184 Solfege IV>
+
+<start course description for 57-184 Solfege IV>
+Semester: Spring 2024 (aka S24)
+Course Description: Continues 57-183 Solfege III. Students learn to read atonal music and practice three-part contrapuntal dictations as well as harmonic dictations.
+</end course description for 57-184 Solfege IV>

@@ -1,0 +1,16 @@
+<start course metadata for 54-615 MFA Director's Lab>
+Semester: Fall 2023 (aka F23)
+Course Name: MFA Director's Lab
+Course Number: 54-615
+Department: Drama
+Number of Units: 6
+Prerequisites: None
+Instructors: Daniel Banks
+Rooms: PCA A41
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-615 MFA Director's Lab>
+
+<start course description for 54-615 MFA Director's Lab>
+Semester: Fall 2023 (aka F23)
+Course Description: TBD
+</end course description for 54-615 MFA Director's Lab>

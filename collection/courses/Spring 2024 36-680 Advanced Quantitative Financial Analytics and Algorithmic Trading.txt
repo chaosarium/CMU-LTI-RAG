@@ -1,0 +1,16 @@
+<start course metadata for 36-680 Advanced Quantitative Financial Analytics and Algorithmic Trading>
+Semester: Spring 2024 (aka S24)
+Course Name: Advanced Quantitative Financial Analytics and Algorithmic Trading
+Course Number: 36-680
+Department: Statistics and Data Science
+Number of Units: 12
+Prerequisites: None
+Instructors: Ben Racz, Patrick McSharry
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 36-680 Advanced Quantitative Financial Analytics and Algorithmic Trading>
+
+<start course description for 36-680 Advanced Quantitative Financial Analytics and Algorithmic Trading>
+Semester: Spring 2024 (aka S24)
+Course Description: TBD
+</end course description for 36-680 Advanced Quantitative Financial Analytics and Algorithmic Trading>

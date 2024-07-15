@@ -1,0 +1,16 @@
+<start course metadata for 79-392 Europe and the Islamic World>
+Semester: Fall 2023 (aka F23)
+Course Name: Europe and the Islamic World
+Course Number: 79-392
+Department: History
+Number of Units: 9
+Prerequisites: None
+Instructors: Benjamin Reilly
+Rooms: CMB 1199
+Locations: Doha, Qatar
+</end course metadata for 79-392 Europe and the Islamic World>
+
+<start course description for 79-392 Europe and the Islamic World>
+Semester: Fall 2023 (aka F23)
+Course Description: Europe and the Islamic World explores the complex relationship between (Christian) Europe and Islamic civilization, from the conquest of the Byzantine Levant to modern-day Islamic immigration into Europe. The course will focus on a few landmark events in European/Islamic relations, such as the crusades, as well as various intellectual models describing European/Islamic relations over time. The course will also focus on developing research, writing, and documentary analysis skills relevant to the study of history.
+</end course description for 79-392 Europe and the Islamic World>

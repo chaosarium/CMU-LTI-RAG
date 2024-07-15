@@ -1,0 +1,16 @@
+<start course metadata for 09-707 Nanoparticles>
+Semester: Fall 2023 (aka F23)
+Course Name: Nanoparticles
+Course Number: 09-707
+Department: Chemistry
+Number of Units: 12
+Prerequisites: None
+Instructors: Rongchao Jin
+Rooms: PH A18B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 09-707 Nanoparticles>
+
+<start course description for 09-707 Nanoparticles>
+Semester: Fall 2023 (aka F23)
+Course Description: This course discusses the chemistry, physics, and biology aspects of several major types of nanoparticles, including metal, semiconductor, magnetic, carbon, and polymer nanostructures. For each type of nanoparticles, we select pedagogical examples (e.g. Au, Ag, CdSe, etc.) and introduce their synthetic methods, physical and chemical properties, self assembly, and various applications. Apart from the nanoparticle materials, other topics to be briefly covered include microscopy and spectroscopy techniques for nanoparticle characterization, and nanolithography techniques for fabricating nano-arrays. The course is primarily descriptive with a focus on understanding major concepts (such as plasmon, exciton, polaron, etc.). The lectures are power point presentation style with sufficient graphical materials to aid students to better understand the course materials. Overall, this course is intended to provide an introduction to the new frontiers of nanoscience and nanotechnology. Students will gain an understanding of the important concepts and research themes of nanoscience and nanotechnology, and develop their abilities to pursue highly disciplinary nanoscience research. 3 hrs. lec.
+</end course description for 09-707 Nanoparticles>

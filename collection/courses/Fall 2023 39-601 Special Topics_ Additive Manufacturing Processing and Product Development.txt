@@ -1,0 +1,16 @@
+<start course metadata for 39-601 Special Topics: Additive Manufacturing Processing and Product Development>
+Semester: Fall 2023 (aka F23)
+Course Name: Special Topics: Additive Manufacturing Processing and Product Development
+Course Number: 39-601
+Department: CIT Interdisciplinary
+Number of Units: 12
+Prerequisites: None
+Instructors: Jack Beuth
+Rooms: PH A18C
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 39-601 Special Topics: Additive Manufacturing Processing and Product Development>
+
+<start course description for 39-601 Special Topics: Additive Manufacturing Processing and Product Development>
+Semester: Fall 2023 (aka F23)
+Course Description: Introduction to additive manufacturing (AM) processing fundamentals and applications using Solidworks 3-D CAD software and a variety of polymer and metal AM machines. Includes a brief history of AM processing, a review of and technical fundamentals of current AM processes, a study of the current AM market, and future directions of the technology. Lab Sessions will support an open-ended product development project. Lectures on metals AM will address current research impacting industry. Students will also perform a literature review of papers on the state of the art. Basic Solidworks knowledge required.
+</end course description for 39-601 Special Topics: Additive Manufacturing Processing and Product Development>

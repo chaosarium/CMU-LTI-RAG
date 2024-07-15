@@ -1,0 +1,16 @@
+<start course metadata for 57-232 Chamber Music: Guitar>
+Semester: Fall 2023 (aka F23)
+Course Name: Chamber Music: Guitar
+Course Number: 57-232
+Department: Music
+Number of Units: 3
+Prerequisites: None
+Instructors: John Marcinizyn
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-232 Chamber Music: Guitar>
+
+<start course description for 57-232 Chamber Music: Guitar>
+Semester: Fall 2023 (aka F23)
+Course Description: Provides an opportunity for students to play in small ensembles, advised by faculty coaches. The performers will develop effective rehearsal techniques, explore chamber music repertoire, deal with issues of intonation and balance, and arrive at interpretive conclusions that are stylistically sound, yet individualistic and creative.
+</end course description for 57-232 Chamber Music: Guitar>

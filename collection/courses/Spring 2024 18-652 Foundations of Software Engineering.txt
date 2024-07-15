@@ -1,0 +1,16 @@
+<start course metadata for 18-652 Foundations of Software Engineering>
+Semester: Spring 2024 (aka S24)
+Course Name: Foundations of Software Engineering
+Course Number: 18-652
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Mary Bishop
+Rooms: CMU REMOTE
+Locations: Kigali, Rwanda
+</end course metadata for 18-652 Foundations of Software Engineering>
+
+<start course description for 18-652 Foundations of Software Engineering>
+Semester: Spring 2024 (aka S24)
+Course Description: In this course, you will learn about software engineering paradigms that have shaped the software industry over the past few decades. You will be exposed to fundamental disciplines of software engineering as well as engineering practices that crosscut system, project, and user perspectives. You will learn to iteratively define requirements, and architect, design, implement, integrate, test, and deploy a solution. You will work on self-organizing teams and manage the work collaboratively. You will also learn to solve a real problem subject to multiple constraints while keeping the stakeholders involved throughout the lifecycle and balancing the underlying engineering tradeoffs. The topics are applied in the context of a semester-long group project.   Please note that this course is intended for ECE master students with a concentration in Software Engineering and will satisfy the "Software Engineering and Design" course area requirement.  Prerequisites:  Basic software development experience with proficiency in at least one modern programming language and modern programming concepts. Prior to admission, students must successful complete a programming assignment to demonstrate familiarity with required software technologies.
+</end course description for 18-652 Foundations of Software Engineering>

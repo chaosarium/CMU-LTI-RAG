@@ -1,0 +1,16 @@
+<start course metadata for 57-221 Italian Diction>
+Semester: Spring 2024 (aka S24)
+Course Name: Italian Diction
+Course Number: 57-221
+Department: Music
+Number of Units: 3
+Prerequisites: None
+Instructors: Maria Spacagna
+Rooms: CFA M157
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-221 Italian Diction>
+
+<start course description for 57-221 Italian Diction>
+Semester: Spring 2024 (aka S24)
+Course Description: A study of the fundamentals of Italian diction and development of legato vocal style through the analysis of grammatical usage, word construction, vowel colorization, and consonant articulation. Included are in-class performance evaluations, listening assignments, critiques, and private coachings.
+</end course description for 57-221 Italian Diction>

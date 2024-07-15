@@ -1,0 +1,16 @@
+<start course metadata for 57-164 Eurhythmics IV>
+Semester: Spring 2024 (aka S24)
+Course Name: Eurhythmics IV
+Course Number: 57-164
+Department: Music
+Number of Units: 3
+Prerequisites: 57-163
+Instructors: Stephen Neely
+Rooms: MM 119
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-164 Eurhythmics IV>
+
+<start course description for 57-164 Eurhythmics IV>
+Semester: Spring 2024 (aka S24)
+Course Description: Eurhythmics is a unique approach to music learning developed by the Swiss composer and educator Emile Jaques-Dalcroze (1865-1950).  It is a process for awakening, developing and refining innate musicality through rhythmic movement, ear training and improvisation.  Through rhythmic movement, students demonstrate knowledge and understanding of the expressive/interpretive as well as the metrical/structural aspects of music.  Sight reading, conducting, notation, analysis and improvisation are integral to the course.  Eurhythmics IV Course Content: More complex rhythmic problems encountered in composed music, Changing meters and changing metric units within a composition, Rhythm reading of patterns using small note values, Messiaen rhythm techniques.
+</end course description for 57-164 Eurhythmics IV>

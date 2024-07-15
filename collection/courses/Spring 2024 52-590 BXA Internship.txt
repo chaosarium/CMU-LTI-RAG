@@ -1,0 +1,16 @@
+<start course metadata for 52-590 BXA Internship>
+Semester: Spring 2024 (aka S24)
+Course Name: BXA Internship
+Course Number: 52-590
+Department: BXA Intercollege Degree Programs
+Number of Units: N/A
+Prerequisites: None
+Instructors: Carrie Hagan, M. Stephanie Murray
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 52-590 BXA Internship>
+
+<start course description for 52-590 BXA Internship>
+Semester: Spring 2024 (aka S24)
+Course Description: An internship is a supervised professional work experience with clear links to a student's academic goals. BXA students may choose to complete a BXA Internship for elective credit with appropriate individuals or organizations within or outside of Carnegie Mellon University. Junior and senior BXA students in good academic standing are eligible to receive academic credit for one internship. Grading is pass/no pass only. Prior to enrolling in an internship, the student must have a "BXA Internship Agreement Form" signed by their site supervisor and approved by their BXA academic advisor.
+</end course description for 52-590 BXA Internship>

@@ -1,0 +1,16 @@
+<start course metadata for 17-766 Software Engineering for Startups>
+Semester: Spring 2024 (aka S24)
+Course Name: Software Engineering for Startups
+Course Number: 17-766
+Department: Software & Societal Systems
+Number of Units: 12
+Prerequisites: 15-213 or 15-214 or 17-214 or 17-514
+Instructors: Fraser Brown, Hyrum Wright
+Rooms: SH 238
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 17-766 Software Engineering for Startups>
+
+<start course description for 17-766 Software Engineering for Startups>
+Semester: Spring 2024 (aka S24)
+Course Description: Startup engineering is critical to innovation.  The skills required to effectively prototype, launch, and scale products are vital to engineers everywhere, from fledgling companies founded in dorm rooms to local mid-size companies to internal startups from multi-national tech giants.  However, developing software in a startup environment poses unique engineering challenges.  These challenges include making and justifying foundational architectural and technical decisions despite extreme uncertainty; rapidly prototyping and evaluating new ideas and features, while building minimum viable products; prioritizing engineering effort in severely constrained environments; and communicating effectively both within a small engineering team and with internal and external non-technical stakeholders.  This course teaches the skills necessary to engineer successfully in a startup environment,   through lectures, group projects, case study discussions, and guest speakers drawn from experienced, practicing startup engineers. This is an engineering-focused course; no entrepreneurship background is required or expected.  Students do not need to have a startup idea to participate fully.  Prerequisites: 17-214 OR 15-213
+</end course description for 17-766 Software Engineering for Startups>

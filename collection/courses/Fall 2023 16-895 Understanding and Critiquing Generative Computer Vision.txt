@@ -1,0 +1,16 @@
+<start course metadata for 16-895 Understanding and Critiquing Generative Computer Vision>
+Semester: Fall 2023 (aka F23)
+Course Name: Understanding and Critiquing Generative Computer Vision
+Course Number: 16-895
+Department: Robotics
+Number of Units: 12
+Prerequisites: None
+Instructors: Abhinav Gupta
+Rooms: NSH 3002
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 16-895 Understanding and Critiquing Generative Computer Vision>
+
+<start course description for 16-895 Understanding and Critiquing Generative Computer Vision>
+Semester: Fall 2023 (aka F23)
+Course Description: In recent years, there have been significant advances in the field of large-scale generative modeling for visual data, such as DALL·E 2 and Stable Diffusion. This seminar course explores these advances beyond just reading and discussion. The goal is to not only inform state of the art but also develop critical and philosophical thinking among students. The course will involve reading papers, presentations, and discussions. The course will also involve reviewing and developing critical thinking.
+</end course description for 16-895 Understanding and Critiquing Generative Computer Vision>

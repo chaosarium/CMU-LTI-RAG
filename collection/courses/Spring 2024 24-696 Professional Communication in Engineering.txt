@@ -1,0 +1,16 @@
+<start course metadata for 24-696 Professional Communication in Engineering>
+Semester: Spring 2024 (aka S24)
+Course Name: Professional Communication in Engineering
+Course Number: 24-696
+Department: Mechanical Engineering
+Number of Units: 5
+Prerequisites: None
+Instructors: Elizabeth Walker
+Rooms: WEH 5403
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-696 Professional Communication in Engineering>
+
+<start course description for 24-696 Professional Communication in Engineering>
+Semester: Spring 2024 (aka S24)
+Course Description: This course, required for all masters students in the Department of Mechanical Engineering, will help students hone their written and oral communication skills for the workplace.  Students will meet weekly throughout a semester to learn communication strategies, practice those strategies in formal and informal contexts, and give and receive peer feedback. There will be weekly deliverables (both written and oral) that will receive formal feedback from communication TAs. To maximize learning benefits, students will have the option to revise assignments in order to improve their skills.  Topics covered include: preparing brief (30-60 second) pitches, responding to job interview questions, writing challenging emails, writing progress reports, writing executive summaries, presenting technical work to non-experts, writing project descriptions for non-experts, creating a web portfolio.
+</end course description for 24-696 Professional Communication in Engineering>

@@ -1,0 +1,16 @@
+<start course metadata for 14-823 Network Forensics>
+Semester: Fall 2023 (aka F23)
+Course Name: Network Forensics
+Course Number: 14-823
+Department: Information Networking Institute
+Number of Units: 12
+Prerequisites: None
+Instructors: Adam Welle, Gabriel Somlo
+Rooms: B23 211; INI DEC
+Locations: Pittsburgh, Pennsylvania; San Jose, California
+</end course metadata for 14-823 Network Forensics>
+
+<start course description for 14-823 Network Forensics>
+Semester: Fall 2023 (aka F23)
+Course Description: This course introduces concepts and techniques essential for studying network based evidence applicable to legal investigations. Students will become familiar with a wide range of networking devices, techniques for capturing and analyzing network data, and with the practice of solid forensic methodologies to prepare and protect network based digital evidence.   Students will be required to bring their laptops to each class, as they will need to access exercise materials online, use virtual machines in a hypervisor, and answer online quizzes.
+</end course description for 14-823 Network Forensics>

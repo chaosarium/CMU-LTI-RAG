@@ -1,0 +1,16 @@
+<start course metadata for 51-799 Graduate Design Independent  Study>
+Semester: Spring 2024 (aka S24)
+Course Name: Graduate Design Independent  Study
+Course Number: 51-799
+Department: Design
+Number of Units: N/A
+Prerequisites: None
+Instructors: Dina El Zanfaly, Instructor TBA, Mark Baskinger
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-799 Graduate Design Independent  Study>
+
+<start course description for 51-799 Graduate Design Independent  Study>
+Semester: Spring 2024 (aka S24)
+Course Description: Students must submit a proposal to their selected faculty advisor. Proposal forms can be found on the Design Intranet.
+</end course description for 51-799 Graduate Design Independent  Study>

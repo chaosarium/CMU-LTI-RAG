@@ -1,0 +1,16 @@
+<start course metadata for 06-686 ST: Polymers for a Sustainable Future>
+Semester: Spring 2024 (aka S24)
+Course Name: ST: Polymers for a Sustainable Future
+Course Number: 06-686
+Department: Chemical Engineering
+Number of Units: 9
+Prerequisites: None
+Instructors: Daphne WY Chan
+Rooms: WEH 6403
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 06-686 ST: Polymers for a Sustainable Future>
+
+<start course description for 06-686 ST: Polymers for a Sustainable Future>
+Semester: Spring 2024 (aka S24)
+Course Description: This course presents basic concepts of polymer science and discusses topics related to polymers and sustainability.  Condensation, radical, ionic, emulsion, and ring-opening polymerizations, polymer behavior in solution and in the bulk will be explored in relation to material applications.  We will touch on topics including chemistry of biomass and sustainable utilization of bio-based materials, along with polymers for sustainable technologies in renewable energy, water, and the environment.
+</end course description for 06-686 ST: Polymers for a Sustainable Future>

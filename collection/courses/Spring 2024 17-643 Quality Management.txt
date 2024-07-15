@@ -1,0 +1,16 @@
+<start course metadata for 17-643 Quality Management>
+Semester: Spring 2024 (aka S24)
+Course Name: Quality Management
+Course Number: 17-643
+Department: Software & Societal Systems
+Number of Units: 6
+Prerequisites: 17-623
+Instructors: Gennari
+Rooms: CMU REMOTE
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 17-643 Quality Management>
+
+<start course description for 17-643 Quality Management>
+Semester: Spring 2024 (aka S24)
+Course Description: Managing software quality is a critical part of all software projects. Software engineers must consider quality during every phase of a project from inception to delivery and beyond. This class will introduce students to the managerial challenges of developing high quality software systems. The key learning objectives of this course include: 1. Define a quality management process in the context of a software project. 2. Understand the costs associated with achieving quality goals and not achieving them 3. Understand the tradeoffs required to implement quality assurance techniques. 4. Gain experience using collected quality metrics to inform project-level decisions.
+</end course description for 17-643 Quality Management>

@@ -1,0 +1,16 @@
+<start course metadata for 04-641 Fundamentals of Telecommunications and Computer Networks>
+Semester: Fall 2023 (aka F23)
+Course Name: Fundamentals of Telecommunications and Computer Networks
+Course Number: 04-641
+Department: Information & Communication Technology
+Number of Units: 12
+Prerequisites: None
+Instructors: Edwin Mugume
+Rooms: CMR F203; CMR F305
+Locations: Kigali, Rwanda
+</end course metadata for 04-641 Fundamentals of Telecommunications and Computer Networks>
+
+<start course description for 04-641 Fundamentals of Telecommunications and Computer Networks>
+Semester: Fall 2023 (aka F23)
+Course Description: This course presents key concepts and principles of computer and telecommunication networks and systems. Topics include: networks architectures, OSI model, circuit switching, packet switching, queuing theory, data link protocol, traffic engineering, flow control, congestion control, traffic routing, transport layer, local area networks, multi user wireless and optical networks and other advanced topics.
+</end course description for 04-641 Fundamentals of Telecommunications and Computer Networks>

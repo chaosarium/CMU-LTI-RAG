@@ -1,0 +1,16 @@
+<start course metadata for 36-709 Advanced Statistical Theory I>
+Semester: Spring 2024 (aka S24)
+Course Name: Advanced Statistical Theory I
+Course Number: 36-709
+Department: Statistics and Data Science
+Number of Units: 12
+Prerequisites: 36-705
+Instructors: Sivaraman Balakrishnan
+Rooms: PH A22
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 36-709 Advanced Statistical Theory I>
+
+<start course description for 36-709 Advanced Statistical Theory I>
+Semester: Spring 2024 (aka S24)
+Course Description: This is a core Ph.D. course in theoretical statistics. The class will cover a selection of modern topics in mathematical statistics, focussing on high-dimensional parametric models and non-parametric models. The main goal of the course is to provide the students with adequate theoretical background and mathematical tools to read and understand the current statistical literature on high-dimensional models. Topics will include: concentration inequalities, covariance estimation, principal component analysis, penalized linear regression, maximal inequalities for empirical processes, Rademacher and Gaussian complexities, non-parametric regression and minimax theory. This will be the first part of a two semester sequence.
+</end course description for 36-709 Advanced Statistical Theory I>

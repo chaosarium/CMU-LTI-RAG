@@ -1,0 +1,16 @@
+<start course metadata for 02-500 Undergraduate Research in Computational Biology>
+Semester: Fall 2023 (aka F23)
+Course Name: Undergraduate Research in Computational Biology
+Course Number: 02-500
+Department: Computational Biology
+Number of Units: N/A
+Prerequisites: None
+Instructors: Phillip Compeau
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 02-500 Undergraduate Research in Computational Biology>
+
+<start course description for 02-500 Undergraduate Research in Computational Biology>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is for undergraduate students who wish to do supervised research for academic credit with a Computational Biology faculty member.  Interested students should first contact the Professor with whom they would like to work.  If there is mutual interest, the Professor will direct you to the Academic Programs Coordinator who will enroll you in the course. 02-250 is a suggested pre-requisite.
+</end course description for 02-500 Undergraduate Research in Computational Biology>

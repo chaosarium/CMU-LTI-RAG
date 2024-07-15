@@ -1,0 +1,16 @@
+<start course metadata for 15-998 Practicum in Computer Science>
+Semester: Spring 2024 (aka S24)
+Course Name: Practicum in Computer Science
+Course Number: 15-998
+Department: Computer Science
+Number of Units: N/A
+Prerequisites: None
+Instructors: Karl Crary
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-998 Practicum in Computer Science>
+
+<start course description for 15-998 Practicum in Computer Science>
+Semester: Spring 2024 (aka S24)
+Course Description: The course number should be used for registering units for internships.
+</end course description for 15-998 Practicum in Computer Science>

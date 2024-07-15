@@ -1,0 +1,16 @@
+<start course metadata for 15-653 Logic and Mechanized Reasoning>
+Semester: Spring 2024 (aka S24)
+Course Name: Logic and Mechanized Reasoning
+Course Number: 15-653
+Department: Computer Science
+Number of Units: 12
+Prerequisites: None
+Instructors: Jeremy Avigad, Marijn Heule
+Rooms: NSH 1305
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-653 Logic and Mechanized Reasoning>
+
+<start course description for 15-653 Logic and Mechanized Reasoning>
+Semester: Spring 2024 (aka S24)
+Course Description: Symbolic logic is fundamental to computer science, providing a foundation for the theory of programming languages, database theory, AI, knowledge representation, automated reasoning, interactive theorem proving, and formal verification. Formal methods based on logic complement statistical methods and machine learning by providing rules of inference and means of representation with precise semantics. These methods are central to hardware and software verification, and have also been used to solve open problems in mathematics. This course will introduce students to logic on three levels: theory, implementation, and application. It will focus specifically on applications to automated reasoning and interactive theorem proving. We will present the underlying mathematical theory, and students will develop the mathematical skills that are needed to design and reason about logical systems in a rigorous way. We will also show students how to represent logical objects in a functional programming language, Lean, and how to implement fundamental logical algorithms. We will show students how to use contemporary automated reasoning tools, including SAT solvers, SMT solvers, and first-order theorem provers to solve challenging problems. Finally, we will show students how to use Lean as an interactive theorem prover.
+</end course description for 15-653 Logic and Mechanized Reasoning>

@@ -1,0 +1,16 @@
+<start course metadata for 18-990 Reading and Research>
+Semester: Spring 2024 (aka S24)
+Course Name: Reading and Research
+Course Number: 18-990
+Department: Electrical & Computer Engineering
+Number of Units: N/A
+Prerequisites: None
+Instructors: James Bain
+Rooms: DNM DNM
+Locations: Lisbon, Portugal; Pittsburgh, Pennsylvania; San Jose, California
+</end course metadata for 18-990 Reading and Research>
+
+<start course description for 18-990 Reading and Research>
+Semester: Spring 2024 (aka S24)
+Course Description: Reserved for currently enrolled PhD ECE students.
+</end course description for 18-990 Reading and Research>

@@ -1,0 +1,16 @@
+<start course metadata for 46-954 Risk Management>
+Semester: Fall 2023 (aka F23)
+Course Name: Risk Management
+Course Number: 46-954
+Department: Business Administration
+Number of Units: 6
+Prerequisites: 46-944 and 46-932
+Instructors: Leif Andersen, Martin Larsson
+Rooms: BRD 507; TCS 250
+Locations: New York, New York; Pittsburgh, Pennsylvania
+</end course metadata for 46-954 Risk Management>
+
+<start course description for 46-954 Risk Management>
+Semester: Fall 2023 (aka F23)
+Course Description: Using tools and models developed in the Stochastic Calculus sequence, this course expands on interest rate, credit risk, and default modeling, including the Heath-Jarrow-Morton framework for interest rates. The course gives an overview of risk and common measures of risk. It provides methods for calculating Value-at-Risk (VaR), followed by a discussion of three pricing adjustments, credit valuation adjustment (CVA), debit valuation adjustment (DVA), and funding valuation adjustment (FVA), that have been adopted since the financial crisis of 2007-2008. The course discusses calculations that front office quants in banks do to support the determination of regulatory risk capital. The course concludes with a detailed discussion by an industry expert, Leif Andersen, of the momentous consequences of the phase-out of the London Interbank Offered Rate (LIBOR) as the reference rate for trillions of dollars of fixed-income deals.  Non-MSCF students may not take this course without written permission from the instructor. To be eligible, you must be a BSCF student or a graduate student enrolled in an MSCF participating college (Dietrich, Heinz, Tepper or Mellon). PhD students with relevant research may be eligible with permission from the instructor.
+</end course description for 46-954 Risk Management>

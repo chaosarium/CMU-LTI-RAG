@@ -1,0 +1,16 @@
+<start course metadata for 76-794 Healthcare Communications>
+Semester: Fall 2023 (aka F23)
+Course Name: Healthcare Communications
+Course Number: 76-794
+Department: English
+Number of Units: N/A
+Prerequisites: None
+Instructors: Mario Castagnaro
+Rooms: BH 255B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 76-794 Healthcare Communications>
+
+<start course description for 76-794 Healthcare Communications>
+Semester: Fall 2023 (aka F23)
+Course Description: Healthcare communications is designed for students with an interest in how medical and health care information is constructed and transferred between medical experts, health care providers, educators, researchers, patients and family members who are often not experts but need a thorough understanding of the information to make important health decisions. Throughout the course, we will explore the interactions of current theory and practice in medical communication and the role of writing in the transfer and adoption of new therapies and promising medical research. We will also study how the web and social media alter the way information is constructed, distributed, and consumed. We will examine the ways medical issues can be presented in communication genres (including entertainment genres) and discuss how communication skills and perceptions about audience can influence clinical research and patient care. Additionally, we will explore clinical trials, grant writing, and press releases, and will feature guest speakers from these fields will discuss their experiences.
+</end course description for 76-794 Healthcare Communications>

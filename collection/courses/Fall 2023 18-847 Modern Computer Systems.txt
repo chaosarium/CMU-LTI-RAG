@@ -1,0 +1,16 @@
+<start course metadata for 18-847 Modern Computer Systems>
+Semester: Fall 2023 (aka F23)
+Course Name: Modern Computer Systems
+Course Number: 18-847
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Akshitha Sriraman
+Rooms: WEH 5302
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-847 Modern Computer Systems>
+
+<start course description for 18-847 Modern Computer Systems>
+Semester: Fall 2023 (aka F23)
+Course Description: Please refer to the ECE website for descriptions of each topic: https://courses.ece.cmu.edu/
+</end course description for 18-847 Modern Computer Systems>

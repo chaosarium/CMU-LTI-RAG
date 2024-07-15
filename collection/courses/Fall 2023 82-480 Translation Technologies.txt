@@ -1,0 +1,16 @@
+<start course metadata for 82-480 Translation Technologies>
+Semester: Fall 2023 (aka F23)
+Course Name: Translation Technologies
+Course Number: 82-480
+Department: Modern Languages
+Number of Units: 9
+Prerequisites: None
+Instructors: Mary Jayne McCullough
+Rooms: PH A19C
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 82-480 Translation Technologies>
+
+<start course description for 82-480 Translation Technologies>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is designed to give students conceptual and practical knowledge of language translation technologies, as well as applied skills for use with common Computer Assisted Translation (CAT) tools. Students will have the opportunity to work directly with CAT tools and engage in meaningful discussion of the benefits and limitations of Machine Translation, Translation Management Systems, and Translation Memory, among others. Students will focus on acquiring technical CAT skills and developing independence, on terminology management, and on translation technology functionality while taking into consideration the ethical, historical and occupational considerations surrounding the use of translation technologies.
+</end course description for 82-480 Translation Technologies>

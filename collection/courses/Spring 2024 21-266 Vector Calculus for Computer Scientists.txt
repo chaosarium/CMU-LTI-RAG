@@ -1,0 +1,16 @@
+<start course metadata for 21-266 Vector Calculus for Computer Scientists>
+Semester: Spring 2024 (aka S24)
+Course Name: Vector Calculus for Computer Scientists
+Course Number: 21-266
+Department: Mathematical Sciences
+Number of Units: 10
+Prerequisites: (21-122) and (21-241 or 21-242)
+Instructors: Clive Newstead
+Rooms: MM 103; MM A14
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-266 Vector Calculus for Computer Scientists>
+
+<start course description for 21-266 Vector Calculus for Computer Scientists>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is an introduction to vector calculus making use of techniques from linear algebra. Topics covered include scalar-valued and vector-valued functions, conic sections and quadric surfaces, new coordinate systems, partial derivatives, tangent planes, the Jacobian matrix, the chain rule, gradient, divergence, curl, the Hessian matrix, linear and quadratic approximation, local and global extrema, Lagrange multipliers, multiple integration, parametrised curves, line integrals, conservative vector fields, parametrised surfaces, surface integrals, Green's theorem, Stokes's theorem and Gauss's theorem. (Three 50 minute lectures, one 50 minute recitation)
+</end course description for 21-266 Vector Calculus for Computer Scientists>

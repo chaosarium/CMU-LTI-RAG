@@ -1,0 +1,16 @@
+<start course metadata for 17-608 Privacy Engineering Independent Study>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Privacy Engineering Independent Study
+Course Number: 17-608
+Department: Software & Societal Systems
+Number of Units: N/A
+Prerequisites: None
+Instructors: Hana Habib
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 17-608 Privacy Engineering Independent Study>
+
+<start course description for 17-608 Privacy Engineering Independent Study>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: NOTE: Previously offered as 08-608. Enrollment by permission of faculty only.
+</end course description for 17-608 Privacy Engineering Independent Study>

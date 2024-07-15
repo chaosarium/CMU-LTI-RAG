@@ -1,0 +1,16 @@
+<start course metadata for 03-366 Neuropharmacology: Drugs, Brain and Behavior>
+Semester: Spring 2024 (aka S24)
+Course Name: Neuropharmacology: Drugs, Brain and Behavior
+Course Number: 03-366
+Department: Biological Sciences
+Number of Units: 9
+Prerequisites: 03-133 or 03-231 or 03-232 or 03-362
+Instructors: Kate Hong
+Rooms: WEH 5415
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 03-366 Neuropharmacology: Drugs, Brain and Behavior>
+
+<start course description for 03-366 Neuropharmacology: Drugs, Brain and Behavior>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is designed to give students a comprehensive understanding of the major neurotransmitter systems in the brain.  Students will explore approaches to understanding how various neurotransmitters function in sensory and motor systems as well as how they are modulated by endogenous and exogenous agents.  The exploration will include basic principles of neural communication, signal transduction and second messenger systems, main classes of neurotransmitters, and the effects of medications and drugs of abuse.  In terms of sensory and motor systems, student will learn how different neurotransmitters affect different aspects of systems neuroscience and how a single neurotransmitter can have multiple roles in different systems.  Students will learn how these processes affect the endocrine system, neuroinflammatory responses, addictive behaviors, and neurotoxic or degenerative conditions.
+</end course description for 03-366 Neuropharmacology: Drugs, Brain and Behavior>

@@ -1,0 +1,16 @@
+<start course metadata for 88-702 Behavioral Economics>
+Semester: Spring 2024 (aka S24)
+Course Name: Behavioral Economics
+Course Number: 88-702
+Department: Social & Decision Sciences
+Number of Units: 12
+Prerequisites: None
+Instructors: George Loewenstein
+Rooms: PH 223D
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 88-702 Behavioral Economics>
+
+<start course description for 88-702 Behavioral Economics>
+Semester: Spring 2024 (aka S24)
+Course Description: This is a PhD-level course on behavioral economics - the application of psychological research and theory to economic analysis.
+</end course description for 88-702 Behavioral Economics>

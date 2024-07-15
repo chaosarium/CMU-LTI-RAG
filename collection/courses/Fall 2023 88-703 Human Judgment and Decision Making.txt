@@ -1,0 +1,16 @@
+<start course metadata for 88-703 Human Judgment and Decision Making>
+Semester: Fall 2023 (aka F23)
+Course Name: Human Judgment and Decision Making
+Course Number: 88-703
+Department: Social & Decision Sciences
+Number of Units: 12
+Prerequisites: None
+Instructors: Julie Downs
+Rooms: PH 223D
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 88-703 Human Judgment and Decision Making>
+
+<start course description for 88-703 Human Judgment and Decision Making>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is meant for PhD students in the Department of Social and Decision Sciences. It will be taught seminar-style, with background on the judgment and decision making literature and interactive presentations of recent and original research. The goals of the course are: to expose you to both historical and current research in human judgment and decision making, to give you a deeper understanding of the psychological underpinnings of judgment, to train you to think critically and empirically, to develop your ability to design empirical tests of hypotheses about the nature of judgment, and to provide you with a forum for presenting and defending your positions, for critically examining and discussing the positions of others, and for practicing public speaking and presentation.
+</end course description for 88-703 Human Judgment and Decision Making>

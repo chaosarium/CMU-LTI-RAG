@@ -1,0 +1,16 @@
+<start course metadata for 15-104 TBA>
+Semester: Fall 2023 (aka F23)
+Course Name: TBA
+Course Number: 15-104
+Department: Computer Science
+Number of Units: 10
+Prerequisites: None
+Instructors: Thomas Cortina
+Rooms: GHC 4307
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-104 TBA>
+
+<start course description for 15-104 TBA>
+Semester: Fall 2023 (aka F23)
+Course Description: An introduction to fundamental computing principles and programming techniques for creative cultural practices, with special consideration to applications in music, design and the visual arts. Intended for students with little to no prior programming experience, the course develops skills and understanding of text-based programming in a procedural style, including idioms of sequencing, selection, iteration, and recursion. Topics include data organization (arrays, files, trees), interfaces and abstraction (modular software design, using sensor data and software libraries), basic algorithms (searching and sorting), and computational principles (randomness, concurrency, complexity). Intended for students participating in IDeATe courses or minors who have not taken 15-112.
+</end course description for 15-104 TBA>

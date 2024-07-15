@@ -1,0 +1,16 @@
+<start course metadata for 53-672 Advanced Game Studio>
+Semester: Spring 2024 (aka S24)
+Course Name: Advanced Game Studio
+Course Number: 53-672
+Department: Entertainment Technology
+Number of Units: 12
+Prerequisites: None
+Instructors: Thomas Corbett
+Rooms: HL 106C
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 53-672 Advanced Game Studio>
+
+<start course description for 53-672 Advanced Game Studio>
+Semester: Spring 2024 (aka S24)
+Course Description: The Advanced Game Studio is a semester-long video game development project course, where students are challenged to design and deliver a fully realized and refined game, and gain practical working experience with individuals from different backgrounds and disciplines.  Students will work as part of an interdisciplinary team to create a game that addresses a particular challenge and set of conditions.  Each team will be responsible for all stages of the development lifecycle: from initial concept design to prototyping, playtesting, refinement, and final delivery.  Projects will have roles available for programmers, artists and animators, sound designers, producers, and more.  Students with prior experience in game development are encouraged to apply. Interested students may be asked to interview with the instructor for potential admission to the course.  Undergraduate students, register for 53472
+</end course description for 53-672 Advanced Game Studio>

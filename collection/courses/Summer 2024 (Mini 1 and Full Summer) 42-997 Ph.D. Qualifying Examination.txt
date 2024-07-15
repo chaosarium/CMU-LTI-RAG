@@ -1,0 +1,16 @@
+<start course metadata for 42-997 Ph.D. Qualifying Examination>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Ph.D. Qualifying Examination
+Course Number: 42-997
+Department: Biomedical Engineering
+Number of Units: 0
+Prerequisites: None
+Instructors: Steven Chase
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 42-997 Ph.D. Qualifying Examination>
+
+<start course description for 42-997 Ph.D. Qualifying Examination>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: 42-997 | PhD Qualifying Examination | Fall and Spring    A qualifying examination is given to determine the student's general knowledge of the fields of engineering appropriate to the individual's program, and to assess the studentÕs ability to use this knowledge in the solution of problems and in the execution of original research. The examination comprises written and/or oral parts. The student will be considered to have passed the qualifying examination when he or she has successfully completed all of the required parts. A candidate must take the qualifying examination at the time specified by the department, generally within the first three semesters of study. Upon satisfactorily passing the examination, the student will be accepted as a candidate for the degree of Doctor of Philosophy. If the student has not already received a Master's Degree, upon application and provided that all other requirements have been met, he or she may be granted the degree of Master of Science at the next commencement.    Passing the Ph.D. qualifying examination admits a student to candidacy for the Ph.D. degree for a period of no longer than six calendar years. If, at the end of this six-year period, the Ph.D. has not been awarded, the student must reapply for admission to the graduate program and will be judged competitively with other students applying at the same time. If the student is re-admitted, he or she may, at the discretion of the department, be requested to pass the qualifying examination again before the Ph.D. is awarded. A student may petition for extension of the six-year limit under extenuating circumstances such as a forced change of advisor, military service, or prolonged illness. Note that the time limits on the duration of Ph.D. candidacy outlined here are more restrictive than those of the general university policy.
+</end course description for 42-997 Ph.D. Qualifying Examination>

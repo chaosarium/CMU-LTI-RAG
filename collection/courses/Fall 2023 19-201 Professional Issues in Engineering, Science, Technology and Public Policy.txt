@@ -1,0 +1,16 @@
+<start course metadata for 19-201 Professional Issues in Engineering, Science, Technology and Public Policy>
+Semester: Fall 2023 (aka F23)
+Course Name: Professional Issues in Engineering, Science, Technology and Public Policy
+Course Number: 19-201
+Department: Engineering & Public Policy
+Number of Units: 1
+Prerequisites: None
+Instructors: Deanna Matthews
+Rooms: WEH 5403
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 19-201 Professional Issues in Engineering, Science, Technology and Public Policy>
+
+<start course description for 19-201 Professional Issues in Engineering, Science, Technology and Public Policy>
+Semester: Fall 2023 (aka F23)
+Course Description: The course provides an overview of the academic and professional domain of technology-centered policy. Content includes career exploration, networking practice, ethics and professional responsibilities, academic advising, alumni speakers, and other topics as relevant.  Intended for sophomores enrolling in the Engineering and Public Policy (EPP) Additional Major and the Science, Technology and Public Policy (STPP) Additional Major.
+</end course description for 19-201 Professional Issues in Engineering, Science, Technology and Public Policy>

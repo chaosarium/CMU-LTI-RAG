@@ -1,0 +1,16 @@
+<start course metadata for 54-264 Welding>
+Semester: Fall 2023 (aka F23)
+Course Name: Welding
+Course Number: 54-264
+Department: Drama
+Number of Units: 4
+Prerequisites: None
+Instructors: Bernard Carter
+Rooms: PCA 107
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-264 Welding>
+
+<start course description for 54-264 Welding>
+Semester: Fall 2023 (aka F23)
+Course Description: An introduction to the two most commonly used welding processes used in the entertainment industry. GMAW (MIG), and GTAW (TIG). Welding safety, equipment setup and basic welding techniques will be covered. This is a required course for Drama Technical Direction majors. Open to non-majors if space is available.
+</end course description for 54-264 Welding>

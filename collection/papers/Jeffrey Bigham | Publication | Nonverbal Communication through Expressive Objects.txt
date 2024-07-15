@@ -1,0 +1,6 @@
+publication venue: Communications of the ACM
+title: Nonverbal Communication through Expressive Objects
+authors: Stephanie Valencia, Mark Steidl, Michael L. Rivera, Cynthia L. Bennett, Jeffrey P. Bigham, H. Admoni
+year: 2023
+tldr: This work works closely with an AAC user to understand how motion through a physical expressive object can support their communication and presents the process and resulting lessons on the designed object and the co-design process.
+abstract: Augmentative and alternative communication (AAC) devices enable speech-based communication, but generating speech is not the only resource needed to have a successful conversation. Being able to signal one wishes to take a turn by raising a hand or providing some other cue is critical in securing a turn to speak. Experienced conversation partners know how to recognize the nonverbal communication an augmented communicator (AC) displays, but these same nonverbal gestures can be hard to interpret by people who meet an AC for the first time. Prior work has identified motion through robots and expressive objects as a modality that can support communication. In this work, we work closely with an AAC user to understand how motion through a physical expressive object can support their communication. We present our process and resulting lessons on the designed object and the co-design process.

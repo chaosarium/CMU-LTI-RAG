@@ -1,0 +1,16 @@
+<start course metadata for 05-602 IDeATe: Learning in Museums>
+Semester: Spring 2024 (aka S24)
+Course Name: IDeATe: Learning in Museums
+Course Number: 05-602
+Department: Human-Computer Interaction
+Number of Units: 12
+Prerequisites: None
+Instructors: Marti Louw
+Rooms: HL 106B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 05-602 IDeATe: Learning in Museums>
+
+<start course description for 05-602 IDeATe: Learning in Museums>
+Semester: Spring 2024 (aka S24)
+Course Description: Learning in Museums brings together students from across the disciplines to consider the design of mediated learning experiences in a project-based inquiry course. Students will be introduced to a range of design research methods and associated frameworks that explore the cognitive, social and affective dimensions of learning in everyday contexts through readings, invited lectures, in-class activities and assignments. Students will conduct a series of short design research studies to define learning goals and develop supporting design concepts intended to improve learning outcomes for diverse participants in informal learning settings (e.g. museums, after-school programs, maker spaces or online). In concept development, we will look at how to position technology and question its role in the setting to engage and foster positive learning interactions and conversation. This semester we will be working with the Carnegie Museum of Natural History as our primary stakeholder. The course will culminate in a media-rich presentation of design concepts and a fielded prototype to a review panel and include a piloted evaluation plan describing how learning outcomes for the project would be assessed.  In consultation with the instructor, students in the graduate section of the course will be assigned an HCI/learning research literature review and presentation related to their project topic.
+</end course description for 05-602 IDeATe: Learning in Museums>

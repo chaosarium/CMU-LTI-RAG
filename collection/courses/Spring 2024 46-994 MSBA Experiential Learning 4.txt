@@ -1,0 +1,16 @@
+<start course metadata for 46-994 MSBA Experiential Learning 4>
+Semester: Spring 2024 (aka S24)
+Course Name: MSBA Experiential Learning 4
+Course Number: 46-994
+Department: Business Administration
+Number of Units: 3
+Prerequisites: None
+Instructors: Ganesh Mani
+Rooms: TEP 2112
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 46-994 MSBA Experiential Learning 4>
+
+<start course description for 46-994 MSBA Experiential Learning 4>
+Semester: Spring 2024 (aka S24)
+Course Description: TBD
+</end course description for 46-994 MSBA Experiential Learning 4>

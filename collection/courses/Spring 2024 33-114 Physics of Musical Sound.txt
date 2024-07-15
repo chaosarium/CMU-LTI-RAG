@@ -1,0 +1,16 @@
+<start course metadata for 33-114 Physics of Musical Sound>
+Semester: Spring 2024 (aka S24)
+Course Name: Physics of Musical Sound
+Course Number: 33-114
+Department: Physics
+Number of Units: 9
+Prerequisites: None
+Instructors: Riccardo Penco
+Rooms: DH 2302
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 33-114 Physics of Musical Sound>
+
+<start course description for 33-114 Physics of Musical Sound>
+Semester: Spring 2024 (aka S24)
+Course Description: An introduction to the physics and psychophysics of musical sound.  Elementary physics of vibrating systems. Propagation of sound: traveling  waves, reflection, and diffraction. Addition of waves: interference and  beats. Anatomy of the ear and the perception of sound: loudness, pitch,  and timbre. Standing waves and natural modes. Qualitative description of  general periodic systems by Fourier analysis: the harmonic series and  complex musical tones. The acoustics of musical instruments including  percussion instruments, such as drums, bars, and struck and plucked  strings; and instruments exhibiting self-sustained oscillations, including  bowed strings, blown pipes, reeds, brasses, and singing. Intervals and  consonance, musical scales, tuning and temperament. Basic room and  auditorium acoustics. There are no formal prerequisites, but some previous musical experience will be useful.
+</end course description for 33-114 Physics of Musical Sound>

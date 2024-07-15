@@ -1,0 +1,205 @@
+Overview: The MCDS degree focuses on engineering and deploying large-scale information systems. Our comprehensive curriculum equips you with the skills and knowledge to develop the layers of technology involved in the next generation of massive information system deployments and analyze the data these systems generate. When you graduate, you’ll have a unified vision of these systems from your core courses; internship experience; and semester-long, group-oriented capstone project. MCDS graduates are sought-after software engineers, data scientists and project managers at leading information technology, software services and social media companies.
+Requirements: The MCDS program offers three majors: Systems, Analytics, and Human-Centered Data Science. All three require the same total number of course credits, split among required core courses, electives, data science seminar and capstone courses specifically defined for each major. The degree can also be earned in two different ways, depending on the length of time you spend working on it. Regardless of the timing option, all MCDS students must complete a minimum of 144 units to graduate.
+
+Here are the options:
+
+Standard Timing — a 16-month degree consisting of study for fall and spring semesters, a summer internship, and fall semester of study. Each semester comprises a minimum of 48 units. This timing is typical for most students. Students graduate in December.
+Extended Timing — a 20-month degree consisting of study for fall and spring semesters, a summer internship, and a second year of fall and spring study. Each semester comprises a minimum of 36 units. Students graduate in May.
+For a complete overview of the MCDS requirements, visit the MCDS website or read the MCDS Handbook.
+Curriculum: To earn an MCDS degree, student must pass courses in the core curriculum, the MCDS seminar, a concentration area and electives. Students must also complete a capstone project in which they work on a research project at CMU or on an industry-sponsored project.
+
+In total, students must complete 144 eligible units of study, including eight 12-unit courses, two 12-unit seminar courses and one 24-unit capstone course. Students must choose at minimum five core courses. The remainder of the 12-unit courses with course numbers 600 or greater can be electives chosen from the SCS course catalog. Any additional non-prerequisite units taken beyond the 144 units are also considered electives.
+
+MCDS students must also pass the undergraduate course 15-513 Introduction to Computer Systems (6 units), typically in the summer before their program commences. The student must pass with a grade of B- or better. Failure to pass the course means that the student takes 15-213 during either the fall or spring semester. Note that in both cases the units do not count toward the 144 eligible units of study.
+
+Click here to see the MCDS Course Map.
+
+Some example courses of study are included below.
+
+Example 1: Analytics Major, 16 Months
+
+ 	
+Fall
+
+Spring
+
+Summer
+
+Year 1
+
+Data Science Seminar
+
+Machine Learning
+
+Machine Learning for Text Mining
+
+Advanced Machine Learning
+
+Design and Engineering of Intelligent Information Systems
+
+Big Data Analytics
+
+Data Science Seminar
+
+Capstone Planning Seminar
+
+Machine Learning with Big Data Sets
+
+Cloud Computing
+
+Information Systems Project
+
+Search Engines
+
+Multimedia Databases and Data Mining
+
+Large Scale Multimedia Analysis
+
+Summer Internship
+
+Year 2	
+Data Science Analytics Capstone
+
+ 
+
+ 
+
+ 
+
+Example 2: Systems Major, 16 Months
+
+ 	
+Fall
+
+Spring
+
+Summer
+
+ Year 1
+
+Computational Data Science Seminar
+
+Advanced Storage Systems
+
+Cloud Computing
+
+Distributed Systems
+
+Machine Learning
+
+Computational Data Science Seminar
+
+Parallel Computer Architecture and Programming
+
+Advanced Databases
+
+Search Engines
+
+Summer Internship
+
+ Year 2
+
+Computational Data Science Systems Capstone
+Admission: Carnegie Mellon's School of Computer Science has a centralized online application process. Applications and all supporting documentation for fall admission to any of the LTI's graduate programs must be received by the application deadline. Incomplete applications will not be considered. The application period for Fall 2024 will open on September 6, 2023.
+
+*Please note, we no longer require mailed, hard versions of transcripts or test scores at the time of application. Do not mail anything to the admissions office. If you are accepted to a program, you will be given instruction to then mail your materials.
+
+Final Application Deadline
+
+December 13, 2023 at 3:00 p.m. EST.
+
+Cost
+
+$100 per program, $80 for applications submitted before November 29,2023 at 3:00 p.m. EST (early deadline).
+Fee Waivers
+
+Fee waivers may be available in cases of financial hardship, or for participants in select "pipeline" programs. For more information, please refer to the School of Computer Science Fee Waiver page.
+
+Requirements
+
+The School of Computer Science requires the following for all Ph.D. applications.
+
+GRE scores: These must be less than five years old. The GRE Subject Test is not required, but is recommended. Our Institution Code is 2074; Department Code is 0402.
+Proof of English Language Proficiency:
+If you will be studying on an F-1 or J-1 visa, and English is not a native language for you (native language…meaning spoken at home and from birth), we are required to formally evaluate your English proficiency. We require applicants who will be studying on an F-1 or J-1 visa, and for whom English is not a native language, to demonstrate English proficiency via one of these standardized tests: TOEFL (preferred), IELTS, or Duolingo. We discourage the use of the "TOEFL ITP Plus for China," since speaking is not scored.
+
+We do not issue waivers for non-native speakers of English. In particular, we do not issue waivers based on previous study at a U.S. high school, college, or university. We also do not issue waivers based on previous study at an English-language high school, college, or university outside of the United States. No amount of educational experience in English, regardless of which country it occurred in, will result in a test waiver.
+
+Applicants applying to MCDS are required to submit scores from an English proficiency exam taken within the last two years. Scores taken before Sept. 1, 2021, will not be accepted regardless of whether you have previously studied in the U.S. For more information about their English proficiency score policies, visit the MCDS admission website. 
+
+Successful applicants will have a minimum TOEFL score of 100 (Reading, Listening, Speaking, Writing scores all 25 or above), IELTS score of 7.5 (Reading 7 or above, Listening 7 or above, Speaking 7.5 or above, Writing 6.5 or above), or DuoLingo score of 120 (Literacy 115 or above, Comprehension 125 or above, Production 100 or above, Conversation 105 or above). Our Institution Code is 4256; the Department Code is 78. Additional details about English proficiency requirements are provided on the FAQ page. 
+
+Official transcripts from each university you have attended, regardless of whether you received your degree there.
+A short (1-3 minutes) video of yourself. Tell us about you and why you are interested in the MCDS program. This is not a required part of the application process, but it is STRONGLY suggested.  
+Current resume.
+Statement of Purpose.
+Three letters of recommendation.
+For more details on these requirements, please see the SCS Master's Admissions page.
+
+In addition to the SCS guidelines, the LTI requires:
+
+Any outside funding you are receiving must be accompanied by an official award letter.
+No incomplete applications will be eligible for consideration.
+
+For specific application/admissions questions, please contact Jennifer Lucas or Caitlin Korpus.
+ 	
+Operating Systems or Web Applications
+
+ 	 
+Example 3: Human-Centered Data Science Major, 16 Months
+
+Example Schedule	
+Fall
+
+Spring
+
+Empirical Analysis of Interactive Systems
+
+ML
+Econometrics
+Social Web
+Network Science
+Business Analytics
+
+Interactive Data Science
+Psych Found for Design Impact
+Econometrics
+DHCS
+
+ Social Web Analytics & Design
+
+ML
+ARM
+Social Web
+Network Science
+
+Crowd Programming
+Data Pipeline
+ML for Text Analytics
+DHCS
+
+Ubiquitous Computing
+
+DHCS
+ML
+ARM
+
+Interactive Data Science
+Rapid Prototyping
+Gadgets
+Usable Priv & Security
+Advanced ML
+
+Educational Software Design
+
+DHCS
+ML
+ARM
+Learning Analytics and EDS
+
+Learning with Peers
+Psych Found for Design Impact
+ML with Big Data
+ML with Text Analysis
+Handbook: For a complete breakdown of the MCDS program and its policies, including information about internships, please view the PDF iconMCDS Handbook.
+Additional Info: For more on the MCDS program, contact Jennifer Lucas or Caitlin Korpus.

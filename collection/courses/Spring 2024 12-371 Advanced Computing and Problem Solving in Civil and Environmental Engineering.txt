@@ -1,0 +1,16 @@
+<start course metadata for 12-371 Advanced Computing and Problem Solving in Civil and Environmental Engineering>
+Semester: Spring 2024 (aka S24)
+Course Name: Advanced Computing and Problem Solving in Civil and Environmental Engineering
+Course Number: 12-371
+Department: Civil & Environmental Engineering
+Number of Units: 9
+Prerequisites: 12-271
+Instructors: Sean Qian
+Rooms: POS 151
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 12-371 Advanced Computing and Problem Solving in Civil and Environmental Engineering>
+
+<start course description for 12-371 Advanced Computing and Problem Solving in Civil and Environmental Engineering>
+Semester: Spring 2024 (aka S24)
+Course Description: Building upon the fundamentals developed in 12-271, this course introduces students to advanced topics in computational problem solving that are critical for implementing and interpreting computational solutions in civil and environmental engineering practice. These topics include numerical methods (both deterministic and stochastic) for approximation, differentiation, and integration in high dimensions; topics in numerical linear algebra for data science (including applications of QR factorization, singular-value decomposition, and Cholesky factorization); an introduction to clustering, regression, and classification; an introduction to statistical sampling; an introduction to graph and network theory; topics in deterministic and stochastic optimization; an introduction to scripting and automation; numerical solutions of ordinary differential equations (including finite differences and basic finite-element analysis); and practices for effective visualization of large data sets. Each topic is presented with real-world civil and environmental engineering problems, in areas such as smart cities, transportation, energy, buildings, and hydrology. An emphasis is placed on identifying the appropriate computational method for any specific problem; additional emphasis is placed on developing computational thinking. This course culminates in a project, which requires students to synthesize their computational reasoning skills in order to solve a challenging civil and environmental engineering problem.
+</end course description for 12-371 Advanced Computing and Problem Solving in Civil and Environmental Engineering>

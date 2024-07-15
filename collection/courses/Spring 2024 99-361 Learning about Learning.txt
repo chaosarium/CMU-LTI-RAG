@@ -1,0 +1,16 @@
+<start course metadata for 99-361 Learning about Learning>
+Semester: Spring 2024 (aka S24)
+Course Name: Learning about Learning
+Course Number: 99-361
+Department: Carnegie Mellon University-Wide Studies
+Number of Units: 9
+Prerequisites: None
+Instructors: Nestor Gomez, Paulo Carvalho
+Rooms: HL 106C; HL A10
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 99-361 Learning about Learning>
+
+<start course description for 99-361 Learning about Learning>
+Semester: Spring 2024 (aka S24)
+Course Description: Full descriptions of each section topic are available at https://ideate.cmu.edu/courses/portal-and-section-details.html. IDeATe Portal courses introduce students to key aspects of critical, creative, and technical practice and prepare them to engage in productive interdisciplinary Collaborative Studio coursework in IDeATe minor areas. Section A: Learning about Learning will provide an introduction to the science of learning. Students will learn about the different ways that people learn, the factors that influence learning, and how to apply this knowledge to their own learning and in designing learning experiences. Section B: Intelligent Environments is a hand-on, project-based course that introduces students to the issues and challenges of creating workable, affordable, and adaptable intelligent environments.
+</end course description for 99-361 Learning about Learning>

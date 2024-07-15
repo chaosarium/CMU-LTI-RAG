@@ -1,0 +1,16 @@
+<start course metadata for 09-050 Study Abroad>
+Semester: Fall 2023 (aka F23)
+Course Name: Study Abroad
+Course Number: 09-050
+Department: Chemistry
+Number of Units: 0
+Prerequisites: None
+Instructors: Karen Stump
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 09-050 Study Abroad>
+
+<start course description for 09-050 Study Abroad>
+Semester: Fall 2023 (aka F23)
+Course Description: This course number is a placeholder for chemistry majors who are studying abroad.
+</end course description for 09-050 Study Abroad>

@@ -1,0 +1,16 @@
+<start course metadata for 95-835 Time Series Forecasting in Python>
+Semester: Fall 2023 (aka F23)
+Course Name: Time Series Forecasting in Python
+Course Number: 95-835
+Department: Information Systems:Sch of IS & Mgt
+Number of Units: 6
+Prerequisites: None
+Instructors: Tanvir Ahmed Shaikh
+Rooms: HBH 1007
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 95-835 Time Series Forecasting in Python>
+
+<start course description for 95-835 Time Series Forecasting in Python>
+Semester: Fall 2023 (aka F23)
+Course Description: Time Series Forecasting is something of a dark horse in the field of data science. It is one of the most applied data science techniques in business - used extensively in finance, in supply chain management, and in production and inventory planning. Moreover, it has a well established theoretical grounding in statistics and dynamic systems theory. Yet, it retains something of an outsider status in data science compared to more recent and popular machine learning methods such as image recognition and natural language processing. Consequently, Time Series Forecasting gets little or no treatment at all in introductory data science and machine learning courses.   This course is intended to provide a comprehensive introduction to forecasting methods without deep diving into the theoretical details behind each method. Although, the references at the end of each week will fill in many of those details.  The course is intended for the following three audiences.  Graduate students studying in STEM or business fields.   People doing forecasting in business who may not have had any formal training in the area.  MBA students doing a data elective.  Also relevant for those studying public policy, healthcare management, and related disciplines.
+</end course description for 95-835 Time Series Forecasting in Python>

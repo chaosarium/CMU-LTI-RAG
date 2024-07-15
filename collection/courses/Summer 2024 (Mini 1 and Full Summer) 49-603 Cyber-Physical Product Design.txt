@@ -1,0 +1,16 @@
+<start course metadata for 49-603 Cyber-Physical Product Design>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Cyber-Physical Product Design
+Course Number: 49-603
+Department: Integrated Innovation Institute
+Number of Units: 10
+Prerequisites: 49-602
+Instructors: Instructor TBA
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 49-603 Cyber-Physical Product Design>
+
+<start course description for 49-603 Cyber-Physical Product Design>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: MIIPS Online & Certificate Students Only - Technology for Product Management Certificate   Driven by the combination of increased access to data, local data storage, computational power, interconnectivity, and improved algorithms, mainstream technologies increasingly incorporate sensing (IoT) and data science (AI) "smarts."  As examples, thermostats, locks, power sockets, and lights are being imbued with sensors and connectivity.  There is great potential to layer in machine learning, natural language and speech processing, expert systems. robotics, and vision.  Early applications of these capabilities were designed to operate on their own, on very narrow tasks, based on pre-programmed knowledge. Today, we have the ability to design human-computer systems in which both human and computers act intelligently, adapt to the world and learn from experience, improving their performance over time. The course illustrates both the potential and current limitations of AI, data science, and interactive connected products with examples from a variety of applications.  Topics explored will include awareness, real time sensing and communication, embedded intelligence, and designing experiences for the internet of things. We will also spend some time on understanding the strengths and weaknesses of human decision-making and learning, specifically in combination with AI systems that would be resident in product applications.  Students will be introduced to technologies and AI algorithms through a series of hands-on exercises, collaborative projects, in depth discussions, and instructor led tutorials. Students will also complete a final project that takes a project from start to finish that incorporates elements of connected products and smart systems.  The course is designed such that students can complete this course with only a basic familiarity with statistics, without any knowledge of programming, electronics or systems.
+</end course description for 49-603 Cyber-Physical Product Design>

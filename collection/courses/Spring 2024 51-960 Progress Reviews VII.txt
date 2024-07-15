@@ -1,0 +1,16 @@
+<start course metadata for 51-960 Progress Reviews VII>
+Semester: Spring 2024 (aka S24)
+Course Name: Progress Reviews VII
+Course Number: 51-960
+Department: Design
+Number of Units: 0
+Prerequisites: None
+Instructors: Jonathan Chapman
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-960 Progress Reviews VII>
+
+<start course description for 51-960 Progress Reviews VII>
+Semester: Spring 2024 (aka S24)
+Course Description: Fourth year PhD Design students present their thesis work progress for review and discussion.
+</end course description for 51-960 Progress Reviews VII>

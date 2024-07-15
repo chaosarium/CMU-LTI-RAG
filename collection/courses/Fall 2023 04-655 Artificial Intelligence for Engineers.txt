@@ -1,0 +1,16 @@
+<start course metadata for 04-655 Artificial Intelligence for Engineers>
+Semester: Fall 2023 (aka F23)
+Course Name: Artificial Intelligence for Engineers
+Course Number: 04-655
+Department: Information & Communication Technology
+Number of Units: 12
+Prerequisites: None
+Instructors: Azizuddin Biyabani
+Rooms: CMR F205
+Locations: Kigali, Rwanda
+</end course metadata for 04-655 Artificial Intelligence for Engineers>
+
+<start course description for 04-655 Artificial Intelligence for Engineers>
+Semester: Fall 2023 (aka F23)
+Course Description: This course provides an introduction to the principles and techniques of engineering artificial intelligence with applications in an African context. It is primarily intended for students with backgrounds in engineering, science and IT who have not previously taken the subject formally or have been exposed to only some of the constituent elements. The course provides the foundations for further study, research, and application in different areas. Topics include: Intelligent agents, search, games, constraint satisfaction problems, knowledge representation, logic, reasoning, planning, probabilistic reasoning, decision making, Machine Learning basics, Neural Networks, deep learning, Natural Language Processing basics, machine vision, AI in robotics, ethics, and philosophy of AI. Several assignments and a final project will be given to enable the student to gain practical experience in applying these techniques. An ability to code in a Programming language and an understanding of probability is expected.
+</end course description for 04-655 Artificial Intelligence for Engineers>

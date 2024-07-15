@@ -1,0 +1,16 @@
+<start course metadata for 48-205 Architecture Options Studios>
+Semester: Spring 2024 (aka S24)
+Course Name: Architecture Options Studios
+Course Number: 48-205
+Department: Architecture
+Number of Units: 18
+Prerequisites: 48-200
+Instructors: Mary-Lou Arscott
+Rooms: MM 103
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-205 Architecture Options Studios>
+
+<start course description for 48-205 Architecture Options Studios>
+Semester: Spring 2024 (aka S24)
+Course Description: The second year option studios offer varied design strategies through material, computational, chronopolitical, cultural and ecological lenses.
+</end course description for 48-205 Architecture Options Studios>

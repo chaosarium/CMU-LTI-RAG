@@ -1,0 +1,16 @@
+<start course metadata for 84-665 The Politics of Fake News and Misinformation>
+Semester: Spring 2024 (aka S24)
+Course Name: The Politics of Fake News and Misinformation
+Course Number: 84-665
+Department: Institute for Politics and Strategy
+Number of Units: 12
+Prerequisites: None
+Instructors: Daniel Silverman
+Rooms: SH 238
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 84-665 The Politics of Fake News and Misinformation>
+
+<start course description for 84-665 The Politics of Fake News and Misinformation>
+Semester: Spring 2024 (aka S24)
+Course Description: In this course, we will examine the drivers and dynamics of misinformation, fake news, and related phenomena in social and political life. From wartime "atrocity propaganda" to climate denialism to false claims of election fraud, how can we characterize fake news and misinformation, and why do they often spread so widely? What are the factors that explain why people accept or reject them, and what are their consequences for our political behavior? Finally, how can they be successfully countered and combatted? In this course, we will look at these and other questions, drawing on the fast-growing body of research on the topic from a range of fields including psychology, communications, political science, and computer science.  In terms of the course's structure, we will first focus on defining and characterizing fake news and misinformation, and next we will examine their production (why are they created?), consumption (why are they believed?), and consequences (what influence do they have?). Then, we will analyze the threat of misinformation in several important contexts - including COVID-19, climate change, and armed conflict - and finally we will consider research and analysis about how to best counter it. For the final assignment in the course, students will build on what they have learned throughout the semester to write an original research paper applying ideas and arguments from class to a case of fake news or misinformation that is of special interest to them.
+</end course description for 84-665 The Politics of Fake News and Misinformation>

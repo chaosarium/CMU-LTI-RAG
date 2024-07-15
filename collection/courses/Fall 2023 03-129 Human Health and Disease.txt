@@ -1,0 +1,16 @@
+<start course metadata for 03-129 Human Health and Disease>
+Semester: Fall 2023 (aka F23)
+Course Name: Human Health and Disease
+Course Number: 03-129
+Department: Biological Sciences
+Number of Units: 9
+Prerequisites: None
+Instructors: Nesrine Affara
+Rooms: CMB 3044
+Locations: Doha, Qatar
+</end course metadata for 03-129 Human Health and Disease>
+
+<start course description for 03-129 Human Health and Disease>
+Semester: Fall 2023 (aka F23)
+Course Description: The main objective of the course is not only to teach the students how the body works but also to construct a global view of all 9 organ systems and how these organ systems coordinate with each other when homeostasis is challenged.  An additional emphasis of this course is the pathophysiological changes that can be associated with each organ malfunction.
+</end course description for 03-129 Human Health and Disease>

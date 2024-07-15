@@ -1,0 +1,16 @@
+<start course metadata for 17-702 Current Topics in Privacy Seminar>
+Semester: Fall 2023 (aka F23)
+Course Name: Current Topics in Privacy Seminar
+Course Number: 17-702
+Department: Software & Societal Systems
+Number of Units: 3
+Prerequisites: None
+Instructors: Hana Habib, Norman Sadeh
+Rooms: CMU REMOTE; HBH 1002
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 17-702 Current Topics in Privacy Seminar>
+
+<start course description for 17-702 Current Topics in Privacy Seminar>
+Semester: Fall 2023 (aka F23)
+Course Description: In this seminar course students will discuss recent papers and current public policy issues related to privacy. Privacy professionals from industry, government, and non-profits will deliver several guest lectures each semester.
+</end course description for 17-702 Current Topics in Privacy Seminar>

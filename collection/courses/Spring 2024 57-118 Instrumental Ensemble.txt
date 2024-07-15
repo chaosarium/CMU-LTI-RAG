@@ -1,0 +1,16 @@
+<start course metadata for 57-118 Instrumental Ensemble>
+Semester: Spring 2024 (aka S24)
+Course Name: Instrumental Ensemble
+Course Number: 57-118
+Department: Music
+Number of Units: 6
+Prerequisites: 57-118
+Instructors: Andres Cardenes, Daniel Curtis, George Vosburgh, Stephen Story, Thomas Thompson
+Rooms: CFA ACH
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-118 Instrumental Ensemble>
+
+<start course description for 57-118 Instrumental Ensemble>
+Semester: Spring 2024 (aka S24)
+Course Description: There are two instrumental ensembles: Orchestra and Wind Ensemble. Rotating seating plans, within and between ensembles, will prevail at the discretion of the Director of Orchestral Studies and the Director of the Wind Ensemble. The instrumental faculty will be consulted. All music majors and non-music majors must audition for placement.
+</end course description for 57-118 Instrumental Ensemble>

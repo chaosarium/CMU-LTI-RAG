@@ -1,0 +1,16 @@
+<start course metadata for 09-741 Organic Chemistry of Polymers>
+Semester: Spring 2024 (aka S24)
+Course Name: Organic Chemistry of Polymers
+Course Number: 09-741
+Department: Chemistry
+Number of Units: 12
+Prerequisites: None
+Instructors: Krzysztof Matyjaszewski
+Rooms: MI 448
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 09-741 Organic Chemistry of Polymers>
+
+<start course description for 09-741 Organic Chemistry of Polymers>
+Semester: Spring 2024 (aka S24)
+Course Description: A study of the synthesis and reactions of high polymers. Emphasis is on practical polymer preparation and on the fundamental kinetics and mechanisms of polymerization reactions. Topics include: relationship of synthesis and structure, step-growth polymerization, chain-growth polymerization via  radical, ionic and coordination intermediates, copolymerization, discussions of specialty polymers and reactions of polymers. Students in 09-741 will take the same lectures and the same exams as those enrolled in 09-502 but, in addition, will prepare a term paper on the topic of advanced polymeric materials, to be approved by the instructor. 09-509 or 09-715, Physical Chemistry of Macromolecules, is excellent preparation for this course but is not required. 3-6 hrs. lec.
+</end course description for 09-741 Organic Chemistry of Polymers>

@@ -1,0 +1,16 @@
+<start course metadata for 06-820 PSE Seminar>
+Semester: Spring 2024 (aka S24)
+Course Name: PSE Seminar
+Course Number: 06-820
+Department: Chemical Engineering
+Number of Units: 1
+Prerequisites: None
+Instructors: Ana Ines Torres
+Rooms: DH 4201
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 06-820 PSE Seminar>
+
+<start course description for 06-820 PSE Seminar>
+Semester: Spring 2024 (aka S24)
+Course Description: Seminar for Chemical Engineering students pertaining to Process Systems Engineering.
+</end course description for 06-820 PSE Seminar>

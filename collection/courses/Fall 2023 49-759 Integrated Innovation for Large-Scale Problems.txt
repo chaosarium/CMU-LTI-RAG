@@ -1,0 +1,16 @@
+<start course metadata for 49-759 Integrated Innovation for Large-Scale Problems>
+Semester: Fall 2023 (aka F23)
+Course Name: Integrated Innovation for Large-Scale Problems
+Course Number: 49-759
+Department: Integrated Innovation Institute
+Number of Units: 12
+Prerequisites: None
+Instructors: Karimulla Shaikh
+Rooms: B23 212
+Locations: San Jose, California
+</end course metadata for 49-759 Integrated Innovation for Large-Scale Problems>
+
+<start course description for 49-759 Integrated Innovation for Large-Scale Problems>
+Semester: Fall 2023 (aka F23)
+Course Description: This studio course focuses on team-based innovation across design, business, and engineering with the potential for large-scale impact. Students will take on a complex social problem, and methodically come up with unexpected ideas and opportunities to tackle and solve it. The semester will consist of a series of three modules where students will research the problem in its current form as well as its future manifestation, formulate a desired future state for the problem, and develop viable interventions that lead to a desired future.  Students will work both individually and collaboratively, and will learn and apply systems thinking, design thinking, and futures studies to propose appropriate products, services, and policies. Students will seek the support industry experts and community stakeholders in the problem space, and will learn to co-create approaches to solving a complex social problem. Students must be accepted into this course before being able to register.
+</end course description for 49-759 Integrated Innovation for Large-Scale Problems>

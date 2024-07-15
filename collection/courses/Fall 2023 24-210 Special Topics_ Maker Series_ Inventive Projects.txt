@@ -1,0 +1,16 @@
+<start course metadata for 24-210 Special Topics: Maker Series: Inventive Projects>
+Semester: Fall 2023 (aka F23)
+Course Name: Special Topics: Maker Series: Inventive Projects
+Course Number: 24-210
+Department: Mechanical Engineering
+Number of Units: N/A
+Prerequisites: 24-101 or 24-104 or 24-105 or 24-200 or 24-204 or 24-205 or 24-206
+Instructors: Diana Haidar
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-210 Special Topics: Maker Series: Inventive Projects>
+
+<start course description for 24-210 Special Topics: Maker Series: Inventive Projects>
+Semester: Fall 2023 (aka F23)
+Course Description: This course supports students in pursuing a self-defined project.  Students will apply their preexisting access to equipment towards prototyping an inventive project, either as an individual or a group member.  Students will receive weekly one-on-one consultations with the instructor to conduct project planning, design for fabrication, prototype testing, and more.  This course is useful for students interested in initiating, progressing, and/or completing a prototyping project for research, student orgs, entrepreneurship, hobbies, or other interests.
+</end course description for 24-210 Special Topics: Maker Series: Inventive Projects>

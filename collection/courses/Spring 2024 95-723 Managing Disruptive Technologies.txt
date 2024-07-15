@@ -1,0 +1,16 @@
+<start course metadata for 95-723 Managing Disruptive Technologies>
+Semester: Spring 2024 (aka S24)
+Course Name: Managing Disruptive Technologies
+Course Number: 95-723
+Department: Information Systems:Sch of IS & Mgt
+Number of Units: 6
+Prerequisites: 95-710
+Instructors: Ananya Sen
+Rooms: HBH 1204; HBH 1206
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 95-723 Managing Disruptive Technologies>
+
+<start course description for 95-723 Managing Disruptive Technologies>
+Semester: Spring 2024 (aka S24)
+Course Description: We live in a rapidly changing world dominated by a myriad of technology-enabled disruptions. As a consequence, there is a strong need for individuals that understand the nature of these innovations and the complex ways in which they may affect marketplaces. In line with this need, this course is about understanding technology-driven disruption from a managerial point of view. The course includes several lectures introducing fundamental concepts of economics and management applied to technology-enabled markets, such as multi-sided platforms, direct and indirect network effects, diffusion and critical mass, market power, economies of scale, winner-takes-all markets, pricing strategies, multi-homing, switching costs, differentiated services, versioning, bundling, envelopment attacks and cross-boundary disruptors. These lectures are complemented by case studies looking at specific real-world companies focusing on innovative technologies like social networks, online marketplaces and the sharing economy. Students learn how to anticipate disruptive technologies and are exposed to frameworks and tools to characterize and manage these technologies in the workplace.
+</end course description for 95-723 Managing Disruptive Technologies>

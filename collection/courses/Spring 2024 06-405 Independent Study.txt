@@ -1,0 +1,16 @@
+<start course metadata for 06-405 Independent Study>
+Semester: Spring 2024 (aka S24)
+Course Name: Independent Study
+Course Number: 06-405
+Department: Chemical Engineering
+Number of Units: N/A
+Prerequisites: None
+Instructors: Carl Laird
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 06-405 Independent Study>
+
+<start course description for 06-405 Independent Study>
+Semester: Spring 2024 (aka S24)
+Course Description: Independent Study
+</end course description for 06-405 Independent Study>

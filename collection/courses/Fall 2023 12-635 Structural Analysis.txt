@@ -1,0 +1,16 @@
+<start course metadata for 12-635 Structural Analysis>
+Semester: Fall 2023 (aka F23)
+Course Name: Structural Analysis
+Course Number: 12-635
+Department: Civil & Environmental Engineering
+Number of Units: 12
+Prerequisites: 12-231
+Instructors: James Thompson
+Rooms: PH A7F
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 12-635 Structural Analysis>
+
+<start course description for 12-635 Structural Analysis>
+Semester: Fall 2023 (aka F23)
+Course Description: Classical and matrix-based methods of structural analysis; energy principles in structural mechanics. Basic concepts of force and displacement methods for analyzing redundant structural systems. Matrix methods utilizing the flexibility (force) and stiffness (displacement) concepts.
+</end course description for 12-635 Structural Analysis>

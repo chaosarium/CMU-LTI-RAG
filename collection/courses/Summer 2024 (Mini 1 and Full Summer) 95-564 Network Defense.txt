@@ -1,0 +1,16 @@
+<start course metadata for 95-564 Network Defense>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Network Defense
+Course Number: 95-564
+Department: Information Systems:Sch of IS & Mgt
+Number of Units: 9
+Prerequisites: None
+Instructors: Toby Meyer
+Rooms: HBH 1006
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 95-564 Network Defense>
+
+<start course description for 95-564 Network Defense>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: TBA
+</end course description for 95-564 Network Defense>

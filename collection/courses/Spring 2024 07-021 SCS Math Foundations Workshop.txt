@@ -1,0 +1,16 @@
+<start course metadata for 07-021 SCS Math Foundations Workshop>
+Semester: Spring 2024 (aka S24)
+Course Name: SCS Math Foundations Workshop
+Course Number: 07-021
+Department: SCS Interdisciplinary
+Number of Units: 3
+Prerequisites: None
+Instructors: Thomas Cortina, Veronica Peet
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 07-021 SCS Math Foundations Workshop>
+
+<start course description for 07-021 SCS Math Foundations Workshop>
+Semester: Spring 2024 (aka S24)
+Course Description: Additional academic support for students in mathematical foundations for computer science. Open to SCS students only, by special permission.
+</end course description for 07-021 SCS Math Foundations Workshop>

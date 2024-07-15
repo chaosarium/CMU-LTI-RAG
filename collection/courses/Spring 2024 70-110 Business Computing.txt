@@ -1,0 +1,16 @@
+<start course metadata for 70-110 Business Computing>
+Semester: Spring 2024 (aka S24)
+Course Name: Business Computing
+Course Number: 70-110
+Department: Business Administration
+Number of Units: 9
+Prerequisites: None
+Instructors: Tridas Mukhopadhyay
+Rooms: TEP 3801
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 70-110 Business Computing>
+
+<start course description for 70-110 Business Computing>
+Semester: Spring 2024 (aka S24)
+Course Description: Students will learn how individuals and organizations use computing technologies to support and improve their businesses. At an individual level, students will build their skills with Microsoft Excel and other personal productivity tools. At an organizational level, the class looks at ways in which businesses of all sizes and types leverage computing technologies to run their businesses more efficiently, make better business decisions, and create new business opportunities. This course may use third-party course material that is not available for individual purchase from the publisher.   If so, the third-party course material will be secured and provided by the Tepper School to students enrolled in the course, and students enrolled in the course will be required to pay to the University the associated additional course materials fee for the third-party course material provided.   The amount of the course materials fee is dependent on the University's cost of the particular materials provided, and typically ranges from $13 to $75.
+</end course description for 70-110 Business Computing>

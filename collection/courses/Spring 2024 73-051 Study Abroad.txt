@@ -1,0 +1,16 @@
+<start course metadata for 73-051 Study Abroad>
+Semester: Spring 2024 (aka S24)
+Course Name: Study Abroad
+Course Number: 73-051
+Department: Economics
+Number of Units: 0
+Prerequisites: None
+Instructors: George Burton Hollifield
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 73-051 Study Abroad>
+
+<start course description for 73-051 Study Abroad>
+Semester: Spring 2024 (aka S24)
+Course Description: This course number is a place holder and assigned to economics students studying abroad by CMU's Office of International Education.
+</end course description for 73-051 Study Abroad>

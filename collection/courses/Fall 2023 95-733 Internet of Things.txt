@@ -1,0 +1,16 @@
+<start course metadata for 95-733 Internet of Things>
+Semester: Fall 2023 (aka F23)
+Course Name: Internet of Things
+Course Number: 95-733
+Department: Information Systems:Sch of IS & Mgt
+Number of Units: 6
+Prerequisites: None
+Instructors: Michael Mccarthy
+Rooms: HBH 1005
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 95-733 Internet of Things>
+
+<start course description for 95-733 Internet of Things>
+Semester: Fall 2023 (aka F23)
+Course Description: Prerequisites: The ability to program is a prerequisite.   Course Description:   Traditional products are becoming smart products and smart products are becoming connected. From smart homes to smart cities, this trend is likely to have a profound impact on our future. This course takes the view that the internet of things is best viewed as an extension of the World Wide Web. So, we will spend some time studying how the Web was designed and how its principles can be used to design the internet of things.  This course combines weekly readings from journal articles with hands-on exercises and programming. The student will work with modern IOT technologies, standards, and platforms. We will connect sensors and actuators to the cloud but will do so in a way that is based on sound architectural principles.
+</end course description for 95-733 Internet of Things>

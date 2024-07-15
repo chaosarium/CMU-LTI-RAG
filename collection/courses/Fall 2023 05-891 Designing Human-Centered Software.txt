@@ -1,0 +1,16 @@
+<start course metadata for 05-891 Designing Human-Centered Software>
+Semester: Fall 2023 (aka F23)
+Course Name: Designing Human-Centered Software
+Course Number: 05-891
+Department: Human-Computer Interaction
+Number of Units: 12
+Prerequisites: 15-112 or 15-110 or 15-104 or 15-122
+Instructors: Aaron Steinfeld, Christopher Harrison, Patrick Carrington, Sherry Tongshua Wu
+Rooms: 3SC 172; 4SC 104; TEP 1403
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 05-891 Designing Human-Centered Software>
+
+<start course description for 05-891 Designing Human-Centered Software>
+Semester: Fall 2023 (aka F23)
+Course Description: "Why are things so hard to use these days? Why doesn't this thing I just bought work? Why is this web site so hard to use? These are frustrations that we have all faced from systems not designed with people in mind. The question this course will focus on is: how can we design human-centered systems that people find useful and usable? This course is a broad introduction to designing, prototyping, and evaluating user interfaces. If you take only one course in Human-Computer Interaction, this is the course for you. We will cover theory as well as practical application of ideas from Human-Computer Interaction. Coursework includes lectures, class discussion, homework, class presentations, and group projects. This class is open to all undergrads and grad students, with either technical or non-technical majors. However, there is a programming prerequisite.  This is not available for MHCI students.
+</end course description for 05-891 Designing Human-Centered Software>

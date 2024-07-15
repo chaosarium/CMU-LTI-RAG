@@ -1,0 +1,16 @@
+<start course metadata for 21-360 Differential Geometry of Curves and Surfaces>
+Semester: Spring 2024 (aka S24)
+Course Name: Differential Geometry of Curves and Surfaces
+Course Number: 21-360
+Department: Mathematical Sciences
+Number of Units: 9
+Prerequisites: 21-268 or 21-269
+Instructors: Patrick Massot
+Rooms: BH 235A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-360 Differential Geometry of Curves and Surfaces>
+
+<start course description for 21-360 Differential Geometry of Curves and Surfaces>
+Semester: Spring 2024 (aka S24)
+Course Description: The course is a rigorous introduction to the differential and integral calculus of curves and surfaces. Topics to be covered include: Parameterized and regular curves Frenet equations canonical coordinate system, local canonical forms, global properties of plane curves Regular surfaces, differential functions on surfaces, the tangent plane and differential of a map, orientation of surfaces, characterization of compact orientable surfaces, classification of compact surfaces The geometry of the Gauss map, isometries and conformal maps, parallel transport, geodesics, the Gauss-Bonnet theorem and applications. More topics may be covered, as time allows. Students should be prepared to write proofs and perform computations. 21-356 or 21-236 are recommended. (Three 50 minute lectures)
+</end course description for 21-360 Differential Geometry of Curves and Surfaces>

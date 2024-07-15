@@ -1,0 +1,16 @@
+<start course metadata for 11-423 ConLanging: Lrng. Ling. & Lang Tech via Constru Artif. Lang.>
+Semester: Spring 2024 (aka S24)
+Course Name: ConLanging: Lrng. Ling. & Lang Tech via Constru Artif. Lang.
+Course Number: 11-423
+Department: Language Technologies Institute
+Number of Units: 12
+Prerequisites: None
+Instructors: Lorraine Levin
+Rooms: GHC 4301
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 11-423 ConLanging: Lrng. Ling. & Lang Tech via Constru Artif. Lang.>
+
+<start course description for 11-423 ConLanging: Lrng. Ling. & Lang Tech via Constru Artif. Lang.>
+Semester: Spring 2024 (aka S24)
+Course Description: Students will work individually or in small groups to create artificial human(oid) languages for fictional human cultures or SciFi worlds.  Students will implement language technologies for their languages.  In the course of creating the languages, students will learn about the building blocks of human language such as phones, phonemes, morphemes, and morpho-syntactic constructions including their semantics and pragmatics.    Class instruction will focus specifically on variation among human languages so that the students can make conlangs that are not just naively English-like.   We will also touch on philosophical issues in philosophy of language and on real-world socio-political issues related to language policy.     Students will be required to use at least one of the following technologies:  language documentation tools that are used for field linguistics and corpus annotation, automatic speech recognition, speech synthesis, morphological analysis, parsing, or machine translation.       Learning Objectives:  1.  The building blocks (phonemes, morphemes, etc.) of language, how languages are built from them, and how they interact  2.  Metalinguistic awareness and knowledge about variation in human language   3.  Language, thought, and culture:  how does language reflect thought and culture, and vice versa.   Why wouldn't Elvish be a good language for Klingons?    4.  Language policy in the real world:  For students who want to manipulate real languages.  5.  Historical linguistics and language change:  for students who want to manipulate real languages or make families of related conlangs for fictional worlds.    6.  Practical experience with a language technology.  http://tts.speech.cs.cmu.edu/11-823/
+</end course description for 11-423 ConLanging: Lrng. Ling. & Lang Tech via Constru Artif. Lang.>

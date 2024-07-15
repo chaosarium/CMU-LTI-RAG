@@ -1,0 +1,16 @@
+<start course metadata for 57-893 Introduction to Conducting>
+Semester: Fall 2023 (aka F23)
+Course Name: Introduction to Conducting
+Course Number: 57-893
+Department: Music
+Number of Units: 6
+Prerequisites: None
+Instructors: Stephen Story
+Rooms: HOA 226
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-893 Introduction to Conducting>
+
+<start course description for 57-893 Introduction to Conducting>
+Semester: Fall 2023 (aka F23)
+Course Description: This offering introduces the skills of conducting gesture, score analysis, and rehearsal technique necessary to realize the effective interpretation of choral and instrumental scores. Special focus is given to the understanding of wind and percussion performance.
+</end course description for 57-893 Introduction to Conducting>

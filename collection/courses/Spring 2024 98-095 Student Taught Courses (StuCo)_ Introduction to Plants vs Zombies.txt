@@ -1,0 +1,16 @@
+<start course metadata for 98-095 Student Taught Courses (StuCo): Introduction to Plants vs Zombies>
+Semester: Spring 2024 (aka S24)
+Course Name: Student Taught Courses (StuCo): Introduction to Plants vs Zombies
+Course Number: 98-095
+Department: StuCo (Student Led Courses)
+Number of Units: 3
+Prerequisites: None
+Instructors: Ashley Xing, Kobe Zhang
+Rooms: WEH 5421
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 98-095 Student Taught Courses (StuCo): Introduction to Plants vs Zombies>
+
+<start course description for 98-095 Student Taught Courses (StuCo): Introduction to Plants vs Zombies>
+Semester: Spring 2024 (aka S24)
+Course Description: The zombies are coming... and there is only one way to stop them! Learn how to protect your brains against ravenous zombies by growing an army of specialized plants on your lawn. In this course you will learn the ins and outs of Plants vs Zombies, and master creating the perfect lawn defense. Learn how to adapt your strategy to different levels; discover the abilities, drawbacks, and personalities of each plant and zombie. Whether you are a beginner or a seasoned player, you will be able to learn something new! In addition to regular gameplay, this course will cover Plants vs Zombies' mini games. This course only covers the original Plants vs Zombies game and will not cover the sequels."
+</end course description for 98-095 Student Taught Courses (StuCo): Introduction to Plants vs Zombies>

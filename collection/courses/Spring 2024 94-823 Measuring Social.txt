@@ -1,0 +1,16 @@
+<start course metadata for 94-823 Measuring Social>
+Semester: Spring 2024 (aka S24)
+Course Name: Measuring Social
+Course Number: 94-823
+Department: Heinz College Wide Courses
+Number of Units: 12
+Prerequisites: None
+Instructors: Ari Lightman
+Rooms: HBH 1206
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 94-823 Measuring Social>
+
+<start course description for 94-823 Measuring Social>
+Semester: Spring 2024 (aka S24)
+Course Description: This class reflects an experiential learning environment where students will be placed into teams with students from across Heinz and CMU to work with clients on projects involving measuring social content and activity.  Each semester (Spring and Fall), we bring in 7 companies to provide challenging projects for the student teams.  Teams are provided with commercially available tools to listen to online social conversations, measure activity, assess different market segments, understand social influence and identify how information get disseminated across social channels.  Previous sponsors have included: Under Armour, Netflix, Target, The Washington Post, HBO, Daimler, eBay, Google, AT&T;, The Pittsburgh Steelers, etc.   The class is designed to teach social analytics, consulting methodologies, critical thinking to weed through ambiguity, project management as well as team and relationship development.  Lectures focus on how social is impacting different industries, culture and communication, as well as the future of work.  Teams work with their clients throughout the semester and present their findings/deliverables during final presentations when all 7 sponsors come to CMU.  In the past, teams have built social applications, social algorithms, experimental methodologies, crowdsourced campaigns and real time information dash boards for their clients.  This class offers an opportunity for students interested in analyzing social data, working in a consultative fashion with actual clients on real issues, and learning about global issues associated with an increasingly social culture.
+</end course description for 94-823 Measuring Social>

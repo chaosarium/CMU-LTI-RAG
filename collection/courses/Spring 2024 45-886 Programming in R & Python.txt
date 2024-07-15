@@ -1,0 +1,16 @@
+<start course metadata for 45-886 Programming in R & Python>
+Semester: Spring 2024 (aka S24)
+Course Name: Programming in R & Python
+Course Number: 45-886
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Mattia Ciollaro
+Rooms: TEP 2111
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-886 Programming in R & Python>
+
+<start course description for 45-886 Programming in R & Python>
+Semester: Spring 2024 (aka S24)
+Course Description: TBD
+</end course description for 45-886 Programming in R & Python>

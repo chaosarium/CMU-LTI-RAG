@@ -1,0 +1,16 @@
+<start course metadata for 76-107 Writing about Data>
+Semester: Spring 2024 (aka S24)
+Course Name: Writing about Data
+Course Number: 76-107
+Department: English
+Number of Units: 4
+Prerequisites: None
+Instructors: Alan Kohler, Barbara George, Ben Markey, Heidi Wright, Jeremy Rosselot-Merritt, Jungwan Yoon, Kiera Gilbert, Michael Laudenbach
+Rooms: DH 1117; DH 1209; GHC 4101; HOA 107; PH 126A; PH A19; PH A21; PH A21A; WEH 5328
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 76-107 Writing about Data>
+
+<start course description for 76-107 Writing about Data>
+Semester: Spring 2024 (aka S24)
+Course Description: Our lives are increasingly shaped by writing that involves numbers: newspapers routinely report the latest medical fads; politicians support their political agendas with both dubious and credible statistics; parents use data to decide where to buy a house and where to send their kids to school. This course (one of two minis students can choose to fulfill their FYW requirement) focuses upon interpreting and making arguments using mainly numerical data but also qualitative data. We will look at research in a range of disciplines including psychology, education, medicine, engineering, and the sciencesand note how writers select and analyze the data they collect. We will also examine what happens to this research when it is picked up by the popular media. Students will also practice collecting and analyzing their own data and reporting it to suit the needs of various stakeholders. There are two primary audiences for this section. Students in data-driven majors will find the section useful preparation for communicating in their disciplines. Students in other fields will learn how to critique and respond to the many ways that numbers shape our lives. This section presumes a basic ability to calculate averages, percentages, and ratios, but no advanced mathematical or statistical preparation. Instead, this section provides a fascinating look at how numbers and words intersect to create persuasive arguments in academic, professional, and popular contexts. Students will compare and analyze texts that make arguments with data, practice rhetorical strategies for synthesizing and representing data so that by the end of the class, students will apply these strategies to write an original data-driven research proposal.
+</end course description for 76-107 Writing about Data>

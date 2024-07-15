@@ -1,0 +1,16 @@
+<start course metadata for 15-482 Autonomous Agents>
+Semester: Fall 2023 (aka F23)
+Course Name: Autonomous Agents
+Course Number: 15-482
+Department: Computer Science
+Number of Units: 12
+Prerequisites: 15-281 or 10-315 or 10-601 or 10-301
+Instructors: Reid Simmons
+Rooms: WEH 2302
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-482 Autonomous Agents>
+
+<start course description for 15-482 Autonomous Agents>
+Semester: Fall 2023 (aka F23)
+Course Description: Autonomous agents use perception, cognition, actuation, and learning to reliably achieve desired goals, where the agents can be smart homes, mobile robots, intelligent factories, self-driving cars, etc. The goal of this course is to introduce students to techniques needed for developing complete, integrated AI-based autonomous agents. Topics include architectures for intelligent agents; autonomous behaviors, perception, and execution; reasoning under uncertainty; optimization; execution monitoring; machine learning; scheduling; and explanation. A focus of the course will be on the integration and testing of autonomous systems to achieve reliable and robust behavior in the face of sensor noise and uncertainty.  The course is project-oriented where small teams of students will design, implement, and evaluate agents that can grow plants autonomously, without human intervention.
+</end course description for 15-482 Autonomous Agents>

@@ -1,0 +1,16 @@
+<start course metadata for 45-844 Global and Distributed Teams>
+Semester: Spring 2024 (aka S24)
+Course Name: Global and Distributed Teams
+Course Number: 45-844
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Anita Woolley
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-844 Global and Distributed Teams>
+
+<start course description for 45-844 Global and Distributed Teams>
+Semester: Spring 2024 (aka S24)
+Course Description: In the wake of the COVID pandemic, an increasing number of us are working remotely at least part of the time and collaborating with colleagues around the globe.  In this course, we explore issues, challenges, and opportunities facing workers, teams, and organizations working remotely as well as across national boundaries.  We consider the impact of geographic distance, time zones, language, and culture on the coordination of work.  Students will work in teams of distributed teammates on collaborative assignments.  By the end of this course, students should better understand the challenges of global work and gain insights for successfully participating in and managing geographically distributed and culturally diverse teams and organizations.
+</end course description for 45-844 Global and Distributed Teams>

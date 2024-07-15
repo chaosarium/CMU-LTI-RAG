@@ -1,0 +1,16 @@
+<start course metadata for 53-614 Introduction to Game Design>
+Semester: Spring 2024 (aka S24)
+Course Name: Introduction to Game Design
+Course Number: 53-614
+Department: Entertainment Technology
+Number of Units: 12
+Prerequisites: None
+Instructors: Jonathan Walton
+Rooms: PTC MPR
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 53-614 Introduction to Game Design>
+
+<start course description for 53-614 Introduction to Game Design>
+Semester: Spring 2024 (aka S24)
+Course Description: The course provides students with instruction and practical experience in the methods and responsibilities of professional game designers. Assignments will simulate different working environments, from large studios to indie games, as well as different kinds of game design work. No prior knowledge of game design is necessary, and this class will not involve coding. While the practical focus of the class will be on digital entertainment, teaching will include game design methods that are useful regardless of the intended audience or purpose (such as transformational games, educational games, etc).   Undergraduates, please register for 53-414
+</end course description for 53-614 Introduction to Game Design>

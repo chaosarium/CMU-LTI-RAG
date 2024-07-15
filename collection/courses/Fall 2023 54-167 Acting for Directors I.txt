@@ -1,0 +1,16 @@
+<start course metadata for 54-167 Acting for Directors I>
+Semester: Fall 2023 (aka F23)
+Course Name: Acting for Directors I
+Course Number: 54-167
+Department: Drama
+Number of Units: 10
+Prerequisites: None
+Instructors: Andrew Smith, Bria Walker-Rhoze, Juan Rivera Lebron
+Rooms: PCA 314; PCA 318; PCA 321
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-167 Acting for Directors I>
+
+<start course description for 54-167 Acting for Directors I>
+Semester: Fall 2023 (aka F23)
+Course Description: Acting I for Director BFA students.
+</end course description for 54-167 Acting for Directors I>

@@ -1,0 +1,16 @@
+<start course metadata for 19-690 M.S. Project>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: M.S. Project
+Course Number: 19-690
+Department: Engineering & Public Policy
+Number of Units: N/A
+Prerequisites: None
+Instructors: Deanna Matthews, Phillip Yu
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 19-690 M.S. Project>
+
+<start course description for 19-690 M.S. Project>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: For E&TIM; and EPP MS students only, with faculty approval.
+</end course description for 19-690 M.S. Project>

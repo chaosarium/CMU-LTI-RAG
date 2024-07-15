@@ -1,0 +1,16 @@
+<start course metadata for 90-723 Financial Statements and Analysis of Companies>
+Semester: Spring 2024 (aka S24)
+Course Name: Financial Statements and Analysis of Companies
+Course Number: 90-723
+Department: Public Policy & Mgt:Sch of Pub Pol & Mgt
+Number of Units: 6
+Prerequisites: None
+Instructors: Jillian Stephenson
+Rooms: HBH 1002; HBH 1006; HBH 1202
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 90-723 Financial Statements and Analysis of Companies>
+
+<start course description for 90-723 Financial Statements and Analysis of Companies>
+Semester: Spring 2024 (aka S24)
+Course Description: This course provides an overview of how managers and executives utilize accounting and finance to make decisions.  The course will begin by gaining an understanding of the financial reporting process and the organizations that govern financial accounting.  We will learn key terms relevant to the main financial statements and how data flows through to connect the statements.  After understanding key components of the various financial statements, we will utilize ratio and variance analysis to determine a company's financial position.   Expanding on our financial analysis we will cover various budgeting methods from capital investment decisions to project budgeting.
+</end course description for 90-723 Financial Statements and Analysis of Companies>

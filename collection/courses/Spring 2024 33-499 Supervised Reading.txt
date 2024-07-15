@@ -1,0 +1,16 @@
+<start course metadata for 33-499 Supervised Reading>
+Semester: Spring 2024 (aka S24)
+Course Name: Supervised Reading
+Course Number: 33-499
+Department: Physics
+Number of Units: N/A
+Prerequisites: None
+Instructors: Gillian Ryan
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 33-499 Supervised Reading>
+
+<start course description for 33-499 Supervised Reading>
+Semester: Spring 2024 (aka S24)
+Course Description: Physics majors may explore a certain area of advanced physics under the direct supervision of a faculty member for up to 9 units of credit. Special permission is required from the Director for Undergraduate Affairs to register. The student must contact a faculty member directly to inquire about opportunities, and to develop a written plan that includes a list of topics to be covered, expectations of student time and/or work, as well as a description of how student learning will be evaluated. The Director of Undergraduate Affairs will review this plan and students will be registered only if the plan is approved.
+</end course description for 33-499 Supervised Reading>

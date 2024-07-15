@@ -1,0 +1,16 @@
+<start course metadata for 15-659 Probability and Computing>
+Semester: Spring 2024 (aka S24)
+Course Name: Probability and Computing
+Course Number: 15-659
+Department: Computer Science
+Number of Units: 9
+Prerequisites: None
+Instructors: Mor Harchol-Balter, Weina Wang
+Rooms: GHC 4401
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-659 Probability and Computing>
+
+<start course description for 15-659 Probability and Computing>
+Semester: Spring 2024 (aka S24)
+Course Description: Probability theory has become indispensable in computer science.  In areas such as artificial intelligence and computer science theory, probabilistic methods and ideas based on randomization are central. In other areas such as networks and systems, probability is becoming an increasingly useful framework for handling uncertainty and modeling the patterns of data that occur in complex systems.  This course gives an introduction to probability as it is used in computer science theory and practice, drawing on applications and current research developments as motivation and context. Topics include combinatorial probability and random graphs, heavy tail distributions, concentration inequalities, various randomized algorithms, sampling random variables and computer simulation, and Markov chains and their many applications, from Web search engines to models of network protocols. The course will assume familiarity with 3-D calculus and linear algebra.
+</end course description for 15-659 Probability and Computing>

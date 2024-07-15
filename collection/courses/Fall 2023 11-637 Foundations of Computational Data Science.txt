@@ -1,0 +1,16 @@
+<start course metadata for 11-637 Foundations of Computational Data Science>
+Semester: Fall 2023 (aka F23)
+Course Name: Foundations of Computational Data Science
+Course Number: 11-637
+Department: Language Technologies Institute
+Number of Units: 12
+Prerequisites: None
+Instructors: Carolyn Rose
+Rooms: CMU REMOTE
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 11-637 Foundations of Computational Data Science>
+
+<start course description for 11-637 Foundations of Computational Data Science>
+Semester: Fall 2023 (aka F23)
+Course Description: This course provides an introduction to foundational concepts, learning material, and projects related to the three core areas of Data Science: Computing Systems, Analytics, and Human-Centered Data Science. Students completing this class will be prepared for further graduate education in Data Science and/or Artificial Intelligence. Students acquire skills in solution design (e.g., architecture, framework APIs, cloud computing), analytic algorithms (e.g., classification, clustering, ranking, prediction), interactive analysis (Jupyter Notebook), applications to data science domains (e.g., Natural Language Processing, Computer Vision) and visualization techniques for data analysis, solution optimization, and performance measurement on real-world tasks.
+</end course description for 11-637 Foundations of Computational Data Science>

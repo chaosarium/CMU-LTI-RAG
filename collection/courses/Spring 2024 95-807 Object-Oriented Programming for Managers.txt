@@ -1,0 +1,16 @@
+<start course metadata for 95-807 Object-Oriented Programming for Managers>
+Semester: Spring 2024 (aka S24)
+Course Name: Object-Oriented Programming for Managers
+Course Number: 95-807
+Department: Information Systems:Sch of IS & Mgt
+Number of Units: 12
+Prerequisites: None
+Instructors: Neelam Dwivedi
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 95-807 Object-Oriented Programming for Managers>
+
+<start course description for 95-807 Object-Oriented Programming for Managers>
+Semester: Spring 2024 (aka S24)
+Course Description: The course provides an overview of computer programming concepts and object-oriented thinking using the Java programming language. Students will be introduced to general programming concepts such as loops and recursions as well as the specific object-oriented themes of methods, classes, and inheritance. The goal is for the student to cultivate an appreciation and understanding of the impact of these concepts and themes on the management of large-scale software development projects.  "This free CMU OLI course is recommended prior to 95-807:  https://oli.cmu.edu/courses/introduction-to-programming-in-java-o-f/."
+</end course description for 95-807 Object-Oriented Programming for Managers>

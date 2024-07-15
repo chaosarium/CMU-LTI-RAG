@@ -1,0 +1,16 @@
+<start course metadata for 18-341 Logic Design and Verification>
+Semester: Fall 2023 (aka F23)
+Course Name: Logic Design and Verification
+Course Number: 18-341
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: 18-240
+Instructors: William Nace
+Rooms: BH A36
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-341 Logic Design and Verification>
+
+<start course description for 18-341 Logic Design and Verification>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is a second level logic design course, studying the techniques of designing at the register-transfer and logic levels of complex digital systems using modern modeling, simulation, synthesis, and verification tools. Topics include register-transfer level systems (i.e., finite state machines and data paths), bus and communication system interfacing (such as a simplified USB interface), discrete-event simulation, testbench organization, assertion-based verification and functional coverage. Design examples will be drawn from bus and communication interfaces, and computation systems, emphasizing how these systems are designed and how their functionality can be verified. A modern hardware description language, such as SystemVerilog, will serve as the basis for uniting these topics. Quizzes, homeworks and design projects will serve to exercise these topics.
+</end course description for 18-341 Logic Design and Verification>

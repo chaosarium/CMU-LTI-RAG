@@ -1,0 +1,16 @@
+<start course metadata for 54-281 Foundations of Drama II>
+Semester: Spring 2024 (aka S24)
+Course Name: Foundations of Drama II
+Course Number: 54-281
+Department: Drama
+Number of Units: 6
+Prerequisites: 54-177 or 54-178
+Instructors: Amanda Olmstead
+Rooms: PH A19; WEH 5316
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-281 Foundations of Drama II>
+
+<start course description for 54-281 Foundations of Drama II>
+Semester: Spring 2024 (aka S24)
+Course Description: In this course students build on the skills of Foundations I to develop acumen in targeted research in support of production. The students learn the "circles of knowledge" technique to provide evidentiary arguments concerning a play script, its author, the historical contexts in which it was written, the theoretical frameworks that may be applied to its interpretations, its production history, and what knowledge is needed to bring its themes to relevance in a modern production. As in Foundations I, there is a great deal of exposure to significant texts, both artistic and philosophical, from theatre history.
+</end course description for 54-281 Foundations of Drama II>

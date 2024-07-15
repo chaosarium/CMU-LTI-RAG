@@ -1,0 +1,16 @@
+<start course metadata for 16-891 Multi-Robot Planning and Coordination>
+Semester: Spring 2024 (aka S24)
+Course Name: Multi-Robot Planning and Coordination
+Course Number: 16-891
+Department: Robotics
+Number of Units: 12
+Prerequisites: None
+Instructors: Jiaoyang Li
+Rooms: NSH 3002
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 16-891 Multi-Robot Planning and Coordination>
+
+<start course description for 16-891 Multi-Robot Planning and Coordination>
+Semester: Spring 2024 (aka S24)
+Course Description: The course provides a graduate-level introduction to the field of multi-robot planning and coordination from both AI and robotics perspectives. Topics for the course include multi-robot cooperative task planning, multi-robot path/motion planning, learning for coordination, coordinating robots under uncertainty, etc. The course will particularly focus on state-of-the-art Multi-Agent Path Finding (MAPF) algorithms that can coordinate hundreds of robots with rigorous theoretical guarantees. Current applications for these technologies will be highlighted, such as mobile robot coordination for warehouses, drone swarm control, and multi-arm assembly. The course includes lectures, research paper presentations and discussions, and course projects.
+</end course description for 16-891 Multi-Robot Planning and Coordination>

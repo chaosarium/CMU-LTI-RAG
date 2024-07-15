@@ -1,0 +1,16 @@
+<start course metadata for 73-369 Islamic Economics>
+Semester: Spring 2024 (aka S24)
+Course Name: Islamic Economics
+Course Number: 73-369
+Department: Economics
+Number of Units: 9
+Prerequisites: None
+Instructors: Veli Safak
+Rooms: CMB 1030
+Locations: Doha, Qatar
+</end course metadata for 73-369 Islamic Economics>
+
+<start course description for 73-369 Islamic Economics>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is designed to introduce students to the basics of Islamic Finance.  The course will start with an analysis of the Shariah rules that define Islamic Finance.  Students will then look at the main investment structures and map these against the traditional conventional banking products.  The course wraps up with a critique of complex project finance structures through a Shariah compliance lens to identify the gaps between theory and practice.
+</end course description for 73-369 Islamic Economics>

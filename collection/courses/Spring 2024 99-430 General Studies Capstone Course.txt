@@ -1,0 +1,16 @@
+<start course metadata for 99-430 General Studies Capstone Course>
+Semester: Spring 2024 (aka S24)
+Course Name: General Studies Capstone Course
+Course Number: 99-430
+Department: Carnegie Mellon University-Wide Studies
+Number of Units: N/A
+Prerequisites: None
+Instructors: Maggie Braun, Patience Whitworth
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 99-430 General Studies Capstone Course>
+
+<start course description for 99-430 General Studies Capstone Course>
+Semester: Spring 2024 (aka S24)
+Course Description: Registration by special permission.  This course is for students who have declared the general studies major. Students should contact the instructor(s) for permission to enroll.  This course is a series of modules with guided activities to enable students to reflect on and synthesize their academic course of study. The activities will include reflective exercises, feedback from faculty, mock interviews, as well as speakers from CPCD and recent graduates who have followed similar, but unusual, career paths.   Under the guidance of a faculty advisor, a student may undertake a project that is reflective in nature and synthesizes the student's academic coursework and educational experience at Carnegie Mellon. The project can be written, oral, visual, audio, or other means of artistic expression approved by the faculty advisor.   The course will be offered in hybrid mode with all modules available through Canvas and Zoom. Each semester, the course will be facilitated by an instructor from the General Studies oversight committee in conjunction with the students' academic and project advisors. Additionally, students will regularly meet individually with the course instructor in person or through Zoom.
+</end course description for 99-430 General Studies Capstone Course>

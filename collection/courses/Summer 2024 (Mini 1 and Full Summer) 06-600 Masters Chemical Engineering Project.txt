@@ -1,0 +1,16 @@
+<start course metadata for 06-600 Masters Chemical Engineering Project>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Masters Chemical Engineering Project
+Course Number: 06-600
+Department: Chemical Engineering
+Number of Units: N/A
+Prerequisites: None
+Instructors: Carl Laird
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 06-600 Masters Chemical Engineering Project>
+
+<start course description for 06-600 Masters Chemical Engineering Project>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: Missing Course Description - please contact the teaching department.
+</end course description for 06-600 Masters Chemical Engineering Project>

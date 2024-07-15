@@ -1,0 +1,16 @@
+<start course metadata for 11-696 MIIS Capstone Planning Seminar>
+Semester: Spring 2024 (aka S24)
+Course Name: MIIS Capstone Planning Seminar
+Course Number: 11-696
+Department: Language Technologies Institute
+Number of Units: 6
+Prerequisites: None
+Instructors: Ralf Brown
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 11-696 MIIS Capstone Planning Seminar>
+
+<start course description for 11-696 MIIS Capstone Planning Seminar>
+Semester: Spring 2024 (aka S24)
+Course Description: The MIIS Capstone Planning Seminar prepares students to complete the MIIS Capstone Project in the following semester.  Students are organized into teams that will work together to complete the capstone project.  They define project goals, requirements, success metrics, and deliverables; and they identify and acquires data, software, and other resources required for successful completion of the project. The planning seminar must be completed in the semester prior to taking the capstone project.
+</end course description for 11-696 MIIS Capstone Planning Seminar>

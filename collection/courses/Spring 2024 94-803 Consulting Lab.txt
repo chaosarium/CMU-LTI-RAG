@@ -1,0 +1,16 @@
+<start course metadata for 94-803 Consulting Lab>
+Semester: Spring 2024 (aka S24)
+Course Name: Consulting Lab
+Course Number: 94-803
+Department: Heinz College Wide Courses
+Number of Units: 6
+Prerequisites: None
+Instructors: Stefan Labash
+Rooms: HBH 2003
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 94-803 Consulting Lab>
+
+<start course description for 94-803 Consulting Lab>
+Semester: Spring 2024 (aka S24)
+Course Description: Communication is the glue that holds consulting engagements, teams, and relationships together. Arguably, the better a consultant you are, the better a communicator you are, and the best communicators tend to make very good consultants (nice symmetry there). Poor communication and other 'soft skills' can derail a consulting engagement and with it, a promising consulting career. As an example, a Gartner Group study found that 80% of all IT projects were late, over budget, or failed completely because of poor communication at the outset.  This course will help students interested in a consulting career acquire new skills in everything from personal branding to asking high-value, incisive questions to building strong, long-term client relationships
+</end course description for 94-803 Consulting Lab>

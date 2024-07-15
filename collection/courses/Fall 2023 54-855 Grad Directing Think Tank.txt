@@ -1,0 +1,16 @@
+<start course metadata for 54-855 Grad Directing Think Tank>
+Semester: Fall 2023 (aka F23)
+Course Name: Grad Directing Think Tank
+Course Number: 54-855
+Department: Drama
+Number of Units: 4
+Prerequisites: None
+Instructors: Kim Weild
+Rooms: PCA 318
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-855 Grad Directing Think Tank>
+
+<start course description for 54-855 Grad Directing Think Tank>
+Semester: Fall 2023 (aka F23)
+Course Description: Think Tank is a 4 semester research and development set of courses for the MFA directors. The course consists of field research, skill building exercises in developing, proposing, pitching, fundraising, producing, touring, community organizing, and documenting work. The class also provides and ongoing forum on the art and craft of collaborating with playwrights, actors, designers, producers, and presenters.
+</end course description for 54-855 Grad Directing Think Tank>

@@ -1,0 +1,16 @@
+<start course metadata for 36-758 Advanced Data Analysis II>
+Semester: Fall 2023 (aka F23)
+Course Name: Advanced Data Analysis II
+Course Number: 36-758
+Department: Statistics and Data Science
+Number of Units: 12
+Prerequisites: None
+Instructors: Valerie Ventura, Zachary Branson
+Rooms: BH 232M
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 36-758 Advanced Data Analysis II>
+
+<start course description for 36-758 Advanced Data Analysis II>
+Semester: Fall 2023 (aka F23)
+Course Description: Advanced Data Analysis (ADA) is a Ph.D. level seminar on advanced methods in statistics, including computationally intensive smoothing, classification, variable selection and simulation techniques. During 36-757, you work with the seminar instructor to identify an ADA project for yourself. The ADA project is an extended project in applied statistics, done in collaboration with an investigator from outside the Department, under the guidance of a faculty committee, culminating in a publishable paper that is presented orally and in writing in 36-758. *Open to students in the statistics Ph.D. or joint degree programs only.*
+</end course description for 36-758 Advanced Data Analysis II>

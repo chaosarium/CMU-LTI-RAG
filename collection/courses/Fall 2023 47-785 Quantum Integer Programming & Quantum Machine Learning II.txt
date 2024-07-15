@@ -1,0 +1,16 @@
+<start course metadata for 47-785 Quantum Integer Programming & Quantum Machine Learning II>
+Semester: Fall 2023 (aka F23)
+Course Name: Quantum Integer Programming & Quantum Machine Learning II
+Course Number: 47-785
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Elias Towe
+Rooms: TEP 4219
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 47-785 Quantum Integer Programming & Quantum Machine Learning II>
+
+<start course description for 47-785 Quantum Integer Programming & Quantum Machine Learning II>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is primarily designed for graduate students (and advanced undergraduates) interested in integer programming (with non-linear objective functions) and the potential of near-term quantum and quantum-inspired computing for solving combinatorial optimization problems.
+</end course description for 47-785 Quantum Integer Programming & Quantum Machine Learning II>

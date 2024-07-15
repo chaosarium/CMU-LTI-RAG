@@ -1,0 +1,16 @@
+<start course metadata for 70-110 Business Computing>
+Semester: Fall 2023 (aka F23)
+Course Name: Business Computing
+Course Number: 70-110
+Department: Business Administration
+Number of Units: 9
+Prerequisites: None
+Instructors: Hussein Fadlallah
+Rooms: CMB 2163
+Locations: Doha, Qatar
+</end course metadata for 70-110 Business Computing>
+
+<start course description for 70-110 Business Computing>
+Semester: Fall 2023 (aka F23)
+Course Description: Students will learn how individuals and organizations use computing technologies to support and improve their businesses. At an individual level, students will build their skills with Microsoft Excel and other personal productivity tools. At an organizational level, the class looks at ways in which businesses of all sizes and types leverage computing technologies to run their businesses more efficiently, make better business decisions, and create new business opportunities. This course is reserved for first-year Business students; others may enroll by special permission from the UBA office only.
+</end course description for 70-110 Business Computing>

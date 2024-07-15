@@ -1,0 +1,16 @@
+<start course metadata for 95-481 Web Application Development>
+Semester: Fall 2023 (aka F23)
+Course Name: Web Application Development
+Course Number: 95-481
+Department: Information Systems:Sch of IS & Mgt
+Number of Units: 6
+Prerequisites: None
+Instructors: Michael Bigrigg
+Rooms: HBH 2009
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 95-481 Web Application Development>
+
+<start course description for 95-481 Web Application Development>
+Semester: Fall 2023 (aka F23)
+Course Description: With to the ability to capture everything the users do, web applications are at the front lines of data analytics. Web applications should leverage analytics-based insights to adapt to their users.  As such, this course is not simply an introduction to HTML/JavaScript programming.  Approaches that we will cover includes the instrumentation of a web page to capture user behavior.  We will analyze data indicators as an approach to characterize users.  This will allow our development to be driven by the ability to personalize the web application experience.  At the same time, the course will detail how the web application is used as input to search and advertising engines which use analytics to drive users, and what to do to optimize results.   Heinz web courses are a mix of business, technology and analytics, and not simply about programming.
+</end course description for 95-481 Web Application Development>

@@ -1,0 +1,16 @@
+<start course metadata for 94-867 Decision Analytics for Business and Policy>
+Semester: Fall 2023 (aka F23)
+Course Name: Decision Analytics for Business and Policy
+Course Number: 94-867
+Department: Heinz College Wide Courses
+Number of Units: 12
+Prerequisites: (90-819 or 95-888) and (90-722) and (90-760)
+Instructors: Peter Zhang
+Rooms: HBH 1202; HBH 1204
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 94-867 Decision Analytics for Business and Policy>
+
+<start course description for 94-867 Decision Analytics for Business and Policy>
+Semester: Fall 2023 (aka F23)
+Course Description: This course introduces modeling frameworks and computational tools to address complex, ill-defined, large-scale decision-making problems that arise in policy and business. Through lectures and case studies, it covers advanced methods of decision-making under uncertainty in these major areas: (large-scale) deterministic optimization, stochastic/robust optimization, and sequential decision making. It will focus on modeling (how to formulate models to address policy or business problems), computation (how to solve large-scale problems), and applications in policy and business (how to integrate viewpoints of different stakeholders, how to select the scope of the model, etc.). Applications are drawn from a variety of real-world settings in transportation, energy, health, supply chain management, etc. Participants are expected to take "active learning" roles in the computational application of the materials presented in class using the python programming language and the Gurobi optimization solver. A term project simulates realistic and challenging issues where new solutions need to be developed, implemented and communicated. The prerequisites are an introductory course in Operations Research, such as Management Science I and II or Decision-Making under Uncertainty, and an intermediate Python course.
+</end course description for 94-867 Decision Analytics for Business and Policy>

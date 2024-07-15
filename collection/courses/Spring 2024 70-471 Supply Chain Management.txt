@@ -1,0 +1,16 @@
+<start course metadata for 70-471 Supply Chain Management>
+Semester: Spring 2024 (aka S24)
+Course Name: Supply Chain Management
+Course Number: 70-471
+Department: Business Administration
+Number of Units: 9
+Prerequisites: 70-371
+Instructors: Iman Adeinat, Inki Sul
+Rooms: CMB 2049; TEP 2612
+Locations: Doha, Qatar; Pittsburgh, Pennsylvania
+</end course metadata for 70-471 Supply Chain Management>
+
+<start course description for 70-471 Supply Chain Management>
+Semester: Spring 2024 (aka S24)
+Course Description: This course will discuss basic issues in supply chain management to answer how a company should design its supply chain and how a company should administer its operations policy to satisfy the company's business strategy. We will also examine how firms interact with other entities within the supply chain, and how one can turn the system/network of entities across the supply chain to its own advantage by capturing economic surplus effectively. Special attention will be paid to analyzing the strengths and weaknesses of supply chains from a strategic, qualitative level. At the same time, we will also learn how to make effective trade-offs in operational decisions from a tactical, quantitative level. This course uses course material that requires students to pay an additional course fee. The course material is secured by the Tepper School because it is otherwise unavailable and directly provided to each student.
+</end course description for 70-471 Supply Chain Management>

@@ -1,0 +1,16 @@
+<start course metadata for 18-989 Introduction to Graduate Studies>
+Semester: Spring 2024 (aka S24)
+Course Name: Introduction to Graduate Studies
+Course Number: 18-989
+Department: Electrical & Computer Engineering
+Number of Units: 1
+Prerequisites: None
+Instructors: Brittany Bristoll, Holly Skovira, James Bain, Jeannette Daly
+Rooms: B23 227; MM 103
+Locations: Kigali, Rwanda; Pittsburgh, Pennsylvania; San Jose, California
+</end course metadata for 18-989 Introduction to Graduate Studies>
+
+<start course description for 18-989 Introduction to Graduate Studies>
+Semester: Spring 2024 (aka S24)
+Course Description: ECE's Introduction to Graduate Studies course is designed to increase awareness and understanding of academic integrity issues, Carnegie Mellon community standards and the ethical job search. This is done via various sessions/modules that are already offered via several entities throughout campus (such as the CPDC, ICC, and GCC). Topics covered include: paraphrasing and citation, participating in the US classroom, avoiding plagiarism, unconscious bias, combating sexual violence on campus, finding jobs and internships, negotiation, communication, relationship building and other topics of interest. The course culminates in students writing a reflection paper. For international students, the paper should compare western academic and cultural standards to those of their home country.  For domestic students, the paper should be a reflection on CMU's community standards. Active participation in 5 sessions/modules in the above mentioned areas and the submission of the reflection paper will determine a pass/fail grade.
+</end course description for 18-989 Introduction to Graduate Studies>

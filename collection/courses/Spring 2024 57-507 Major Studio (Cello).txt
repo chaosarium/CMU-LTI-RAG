@@ -1,0 +1,16 @@
+<start course metadata for 57-507 Major Studio (Cello)>
+Semester: Spring 2024 (aka S24)
+Course Name: Major Studio (Cello)
+Course Number: 57-507
+Department: Music
+Number of Units: 9
+Prerequisites: None
+Instructors: Angela Park, Anne Williams
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-507 Major Studio (Cello)>
+
+<start course description for 57-507 Major Studio (Cello)>
+Semester: Spring 2024 (aka S24)
+Course Description: A one hour private lesson per week for all music majors.
+</end course description for 57-507 Major Studio (Cello)>

@@ -1,0 +1,16 @@
+<start course metadata for 33-659 Quantum Hall Effect and Topological Insulators>
+Semester: Spring 2024 (aka S24)
+Course Name: Quantum Hall Effect and Topological Insulators
+Course Number: 33-659
+Department: Physics
+Number of Units: 12
+Prerequisites: 33-448
+Instructors: Grigory Tarnopolskiy
+Rooms: PH A19A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 33-659 Quantum Hall Effect and Topological Insulators>
+
+<start course description for 33-659 Quantum Hall Effect and Topological Insulators>
+Semester: Spring 2024 (aka S24)
+Course Description: This course will introduce students to the topic of topological insulators and related phenomena using the Berry phase a unifying concept. In the first half of the semester, we will cover basic concepts such as Berry phase, Dirac fermions, Hall conductance and its link to topology, and the Hofstadter problem of lattice electrons in a magnetic field. Linear response theory will be discussed in relation to the Hall conductance. In the second half, we will move on to explain topological phases of matter such as Chern insulators and two- and three-dimensional topological insulators. Various techniques to calculate the topological indices will be introduced and connection to real materials will be discussed. Numerical studies of various tight-binding models provide intuitive understandings and will be an essential part of this course.
+</end course description for 33-659 Quantum Hall Effect and Topological Insulators>

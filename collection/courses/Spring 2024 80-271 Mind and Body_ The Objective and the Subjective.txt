@@ -1,0 +1,16 @@
+<start course metadata for 80-271 Mind and Body: The Objective and the Subjective>
+Semester: Spring 2024 (aka S24)
+Course Name: Mind and Body: The Objective and the Subjective
+Course Number: 80-271
+Department: Philosophy
+Number of Units: 9
+Prerequisites: None
+Instructors: Wayne Wu
+Rooms: WEH 6423
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 80-271 Mind and Body: The Objective and the Subjective>
+
+<start course description for 80-271 Mind and Body: The Objective and the Subjective>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is about the subjective and the objective. "Subjective" captures the distinctive features that characterize what it means to be a psychological subject. This includes the power to represent, to think, feel, sense and in general to be conscious. Subjective features seem radically different from the physical world of matter and forces, a world that seems meaningless, unthinking and nonconscious. How can the subjective be rooted in the objective? We address this central philosophical problem by engaging philosophy with science. In this course, we will investigate thinking, sensing, imagining, dreaming, hallucinating, mindfulness and self-knowledge. As a result, we will explore how the subjective might be the objective. Students will develop analytical techniques such as conceptual analysis and argument analysis.
+</end course description for 80-271 Mind and Body: The Objective and the Subjective>

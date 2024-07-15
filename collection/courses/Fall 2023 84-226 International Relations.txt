@@ -1,0 +1,16 @@
+<start course metadata for 84-226 International Relations>
+Semester: Fall 2023 (aka F23)
+Course Name: International Relations
+Course Number: 84-226
+Department: Institute for Politics and Strategy
+Number of Units: 9
+Prerequisites: None
+Instructors: John Chin
+Rooms: HH B103
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 84-226 International Relations>
+
+<start course description for 84-226 International Relations>
+Semester: Fall 2023 (aka F23)
+Course Description: This course introduces students to the discipline of international relations (IR) and enables students to examine the causes of war and peace, the role of international institutions and non-state actors in world politics, and the forces that shape international political economy. The course begins by surveying key concepts in world politics, such as power and international order, and reviewing the modern history of IR from colonialism to today. Students also survey a broad range of IR theories and analytical tools that help explain global politics and aid in foreign policy analysis, as well as critical, feminist, and non-western IR theory. Finally, students engage in contemporary policy debates about world politics - from the War in Ukraine to the rise of China to the future of globalization - and grapple with ethical issues related to foreign policy decision-making.  Students who previously completed 84-326 Theories of International Relations are not eligible to take this course.
+</end course description for 84-226 International Relations>

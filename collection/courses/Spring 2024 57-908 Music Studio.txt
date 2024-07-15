@@ -1,0 +1,16 @@
+<start course metadata for 57-908 Music Studio>
+Semester: Spring 2024 (aka S24)
+Course Name: Music Studio
+Course Number: 57-908
+Department: Music
+Number of Units: N/A
+Prerequisites: None
+Instructors: Alexandra Gruber, Daniel Curtis, David Harding, Frederic Chiu, Instructor TBA, Jennifer Aylmer, John Marcinizyn, Michael Rusinek
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-908 Music Studio>
+
+<start course description for 57-908 Music Studio>
+Semester: Spring 2024 (aka S24)
+Course Description: Provides the opportunity for students to pursue study in a secondary instrument or area.  By special permission only.
+</end course description for 57-908 Music Studio>

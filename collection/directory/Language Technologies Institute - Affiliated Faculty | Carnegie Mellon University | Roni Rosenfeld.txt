@@ -1,0 +1,6 @@
+Name: Roni Rosenfeld
+Title: Professor and Head: Machine Learning Department
+Email roni.rosenfeld@cs.cmu.edu
+Phone: 412-268-7678
+Office: 8002 Gates & Hillman Centers
+Interests: Computational Epidemiology, Dialog Systems for the Developing World

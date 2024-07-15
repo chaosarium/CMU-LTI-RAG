@@ -1,0 +1,16 @@
+<start course metadata for 09-220 Modern Organic Chemistry II>
+Semester: Spring 2024 (aka S24)
+Course Name: Modern Organic Chemistry II
+Course Number: 09-220
+Department: Chemistry
+Number of Units: 10
+Prerequisites: 09-219
+Instructors: Bruce Armitage, Kevin Noonan
+Rooms: WEH 5302
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 09-220 Modern Organic Chemistry II>
+
+<start course description for 09-220 Modern Organic Chemistry II>
+Semester: Spring 2024 (aka S24)
+Course Description: This course builds on 09-219 by introducing students to additional functional groups, chemical reaction mechanisms and synthetic strategies commonly used in the practice of organic chemistry. Advanced topics to be presented during the extra lecture will include multidimensional NMR spectroscopy, enantioselective synthesis, ionic polymerization, bioorganic and medicinal chemistry, natural products chemistry and toxicology. Students who complete 09-220 will have a strong foundation in synthetic, mechanistic and structural organic chemistry and will understand how this applies to human health and the environment. 4 hrs. lec, 1 hr. rec.
+</end course description for 09-220 Modern Organic Chemistry II>

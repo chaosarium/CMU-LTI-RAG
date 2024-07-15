@@ -1,0 +1,16 @@
+<start course metadata for 48-785 MAAD Research by Design Project>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: MAAD Research by Design Project
+Course Number: 48-785
+Department: Architecture
+Number of Units: 18
+Prerequisites: None
+Instructors: Instructor TBA
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-785 MAAD Research by Design Project>
+
+<start course description for 48-785 MAAD Research by Design Project>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: TBA
+</end course description for 48-785 MAAD Research by Design Project>

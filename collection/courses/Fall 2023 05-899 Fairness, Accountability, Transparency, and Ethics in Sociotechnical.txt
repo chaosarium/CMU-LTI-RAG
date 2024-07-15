@@ -1,0 +1,16 @@
+<start course metadata for 05-899 Fairness, Accountability, Transparency, and Ethics in Sociotechnical>
+Semester: Fall 2023 (aka F23)
+Course Name: Fairness, Accountability, Transparency, and Ethics in Sociotechnical
+Course Number: 05-899
+Department: Human-Computer Interaction
+Number of Units: 12
+Prerequisites: None
+Instructors: David Lindlbauer, Hong Shen, John Stamper, Lining Yao, Sarah Fox
+Rooms: 3SC 172; GHC 4301; HH B103; WEH 2302; WEH 6403
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 05-899 Fairness, Accountability, Transparency, and Ethics in Sociotechnical>
+
+<start course description for 05-899 Fairness, Accountability, Transparency, and Ethics in Sociotechnical>
+Semester: Fall 2023 (aka F23)
+Course Description: Special Topics in HCI is an opportunity for students interested in HCI to gain a deeper understanding of a specific area in this field. Each class is designed to cover an emerging research area within HCI, from designing large-scale peer learning systems to designing games around audience agency. All sections will help students: (1) build a more comprehensive understanding of an area of study within HCI, (2) work closely with faculty and peers to create mini-projects or team assignments that help students master the course material, (3) explore evidence-based research methods and techniques in HCI.    Sections will vary in topic and often change from semester to semester. Because of this, students can take multiple sections, as they are individual classes. Undergraduate sections are listed as 499 and graduate sections are listed as 899.   For descriptions of specific sections for this academic year, visit the "Courses" section on the Human-Computer Interaction Institute website: http://hcii.cmu.edu/academics/courses
+</end course description for 05-899 Fairness, Accountability, Transparency, and Ethics in Sociotechnical>

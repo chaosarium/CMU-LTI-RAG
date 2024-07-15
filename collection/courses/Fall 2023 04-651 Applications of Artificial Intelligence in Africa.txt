@@ -1,0 +1,16 @@
+<start course metadata for 04-651 Applications of Artificial Intelligence in Africa>
+Semester: Fall 2023 (aka F23)
+Course Name: Applications of Artificial Intelligence in Africa
+Course Number: 04-651
+Department: Information & Communication Technology
+Number of Units: 6
+Prerequisites: None
+Instructors: Edith Luhanga
+Rooms: CMR F205
+Locations: Kigali, Rwanda
+</end course metadata for 04-651 Applications of Artificial Intelligence in Africa>
+
+<start course description for 04-651 Applications of Artificial Intelligence in Africa>
+Semester: Fall 2023 (aka F23)
+Course Description: Recent advances in AI and Machine Learning and an increase in the availability and collection of massive data sources, such as satellite images, social media data, and call detail records from mobile phone operators, have begun to transform our understanding of critical challenges facing the developing world, especially within the African continent. These data sources can offer a more timely, complete, and cost-efficient alternative to survey data that has the potential to guide more effective decision-making. However, in order to maximize the value of alternative data, users need to have an awareness of their sources and value, knowledge of how and when to use such data to obtain meaningful insights, and a deeper appreciation of a range of ethical issues, such as privacy and consent. In this course, students will become conversant with current research that uses varied types and sources of data to better understand the social and economic realities of people and communities in African countries.  Through readings of recent work, students will also analyze the opportunities and challenges presented by using alternative datasets. Upon successful completion of this course, students will be more familiar with the use of current alternative data sources in research. In addition, students will be able to formulate research questions that are grounded in a review of relevant literature and answerable through an analysis of alternative data types and identify existing data sources and relevant machine learning approaches that can be used to answer these questions.
+</end course description for 04-651 Applications of Artificial Intelligence in Africa>

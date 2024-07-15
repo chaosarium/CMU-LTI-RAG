@@ -1,0 +1,16 @@
+<start course metadata for 21-900 Reading and Research>
+Semester: Spring 2024 (aka S24)
+Course Name: Reading and Research
+Course Number: 21-900
+Department: Mathematical Sciences
+Number of Units: N/A
+Prerequisites: None
+Instructors: Agoston Pisztora, Alan Frieze, Boris Bukh, Clinton Conley, David Kinderlehrer, Dejan Slepcev, Dmitry Kramkov, Ernest Schimmerling, Florian Frick, Gautam Iyer, Giovanni Leoni, Ian Tice, Instructor TBA, Irene Fonseca, James Cummings, Johannes Wiesel, Konstantin Tikhomirov, Martin Larsson, Matthew Rosenzweig, Michael Young, Mykhaylo Shkolnikov, Noel Walkington, Po-Shen Loh, Prasad Tetali, Rami Grossberg, Richard Statman, Robin Neumayer, Theresa Anderson, Tom Bohman, Tomasz Tkocz, Wesley Pegden, William Hrusa
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-900 Reading and Research>
+
+<start course description for 21-900 Reading and Research>
+Semester: Spring 2024 (aka S24)
+Course Description: See Director of Graduate Studies
+</end course description for 21-900 Reading and Research>

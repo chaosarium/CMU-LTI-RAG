@@ -1,0 +1,16 @@
+<start course metadata for 51-350 Products Studio IV: Designing Products for Social Systems>
+Semester: Spring 2024 (aka S24)
+Course Name: Products Studio IV: Designing Products for Social Systems
+Course Number: 51-350
+Department: Design
+Number of Units: 10
+Prerequisites: 51-343
+Instructors: Wayne Chung
+Rooms: MM 211
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-350 Products Studio IV: Designing Products for Social Systems>
+
+<start course description for 51-350 Products Studio IV: Designing Products for Social Systems>
+Semester: Spring 2024 (aka S24)
+Course Description: This course challenges students to build their own design and research process to identify and frame the scale and scope of a problem/opportunity, and place it in relation to the wider system (social, cultural contexts); projects will require synthesizing a range of inputs to develop proposals for future working and living.
+</end course description for 51-350 Products Studio IV: Designing Products for Social Systems>

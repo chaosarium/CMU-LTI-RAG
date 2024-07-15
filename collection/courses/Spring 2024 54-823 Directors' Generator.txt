@@ -1,0 +1,16 @@
+<start course metadata for 54-823 Directors' Generator>
+Semester: Spring 2024 (aka S24)
+Course Name: Directors' Generator
+Course Number: 54-823
+Department: Drama
+Number of Units: 7
+Prerequisites: None
+Instructors: Will Davis
+Rooms: POS 147
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-823 Directors' Generator>
+
+<start course description for 54-823 Directors' Generator>
+Semester: Spring 2024 (aka S24)
+Course Description: Students develop adaptations from dramatic and non-dramatic source material through writing exercises, group readings and feedback.
+</end course description for 54-823 Directors' Generator>

@@ -1,0 +1,16 @@
+<start course metadata for 48-689 Digital Skills Workshop>
+Semester: Fall 2023 (aka F23)
+Course Name: Digital Skills Workshop
+Course Number: 48-689
+Department: Architecture
+Number of Units: 3
+Prerequisites: None
+Instructors: Matthew Huber, Sinan Goral
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-689 Digital Skills Workshop>
+
+<start course description for 48-689 Digital Skills Workshop>
+Semester: Fall 2023 (aka F23)
+Course Description: DSW is a summer course for incoming SoA graduate students to establish a baseline of technical skills appropriate to the expectations of the design culture at SoA. There will be a series of workshops, assignments, and tutorials on digital design skills. Organized around four short design exercises, students will demonstrate the fundamentals of 2D graphics (Photoshop, Illustrator, InDesign), architectural drafting (Rhino), 3D modeling (Rhino), and parametric modeling (Grasshopper). Through weekly assignments, workshops/lectures, and mandatory individual critique sessions, the course will establish a baseline of digital design communication and generative design skills while setting certain expectations about studio culture and work rigor at SoA. This part of the course isn't only about learning software skills but more importantly about establishing a consistent work quality and ethic across the cohort. All SoA graduate students are expected to be familiar with the protocols and workflows covered in DSW.
+</end course description for 48-689 Digital Skills Workshop>

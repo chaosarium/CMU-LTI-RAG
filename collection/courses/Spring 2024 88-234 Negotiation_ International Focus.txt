@@ -1,0 +1,16 @@
+<start course metadata for 88-234 Negotiation: International Focus>
+Semester: Spring 2024 (aka S24)
+Course Name: Negotiation: International Focus
+Course Number: 88-234
+Department: Social & Decision Sciences
+Number of Units: 9
+Prerequisites: None
+Instructors: Linda Moya
+Rooms: WEH 5421
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 88-234 Negotiation: International Focus>
+
+<start course description for 88-234 Negotiation: International Focus>
+Semester: Spring 2024 (aka S24)
+Course Description: Most people think negotiation is all about strategies and tactics, that is what you do and say during a negotiation. However, negotiation is best understood by analyzing the contextual environment in which the negotiation takes place. This class focuses on negotiations that take place across international borders and examining how the features of the negotiation environment drive the negotiation process and ultimately the results. We will show how features such as the historical relationships between the parties, the constituents and political environment, the cultural norms, alternatives to a negotiated agreement, linkages to future negotiations with other countries, whether the negotiation takes place openly or behind closed doors, and the psychological process will influence the negotiating agents, process, and outcomes. Note that this framework can be applied to any negotiation situation to shed light on what transpired during a negotiation and how an agreement ultimately was or was not reached.
+</end course description for 88-234 Negotiation: International Focus>

@@ -1,0 +1,16 @@
+<start course metadata for 05-982 Independent Teaching Experience>
+Semester: Spring 2024 (aka S24)
+Course Name: Independent Teaching Experience
+Course Number: 05-982
+Department: Human-Computer Interaction
+Number of Units: 9
+Prerequisites: None
+Instructors: Geoff Kaufman, Susan Kravitz
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 05-982 Independent Teaching Experience>
+
+<start course description for 05-982 Independent Teaching Experience>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is appropriate for graduate students who have significant instructional responsibilities and are listed as instructors in roles such as co-instructor of a course or section instructor. The course will involve mentored independent teaching experience.  Special permission is required.
+</end course description for 05-982 Independent Teaching Experience>

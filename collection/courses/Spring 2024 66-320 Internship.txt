@@ -1,0 +1,16 @@
+<start course metadata for 66-320 Internship>
+Semester: Spring 2024 (aka S24)
+Course Name: Internship
+Course Number: 66-320
+Department: Dietrich College Interdisciplinary
+Number of Units: N/A
+Prerequisites: None
+Instructors: Dominik Moritz
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 66-320 Internship>
+
+<start course description for 66-320 Internship>
+Semester: Spring 2024 (aka S24)
+Course Description: Internships-for-credit allow students to apply course-based knowledge in a non-classroom setting, under joint supervision and evaluation by an on-site supervisor and a faculty sponsor. Approved internships must conform to college guidelines for internships-for-credit, and are available by permission only arranged through the Associate Dean's Office in Baker Hall 154.
+</end course description for 66-320 Internship>

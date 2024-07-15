@@ -1,0 +1,16 @@
+<start course metadata for 11-700 LTI Colloquium>
+Semester: Spring 2024 (aka S24)
+Course Name: LTI Colloquium
+Course Number: 11-700
+Department: Language Technologies Institute
+Number of Units: 6
+Prerequisites: None
+Instructors: Fernando Diaz, Instructor TBA, Yonatan Bisk
+Rooms: DNM DNM; SH 105
+Locations: Lisbon, Portugal; Pittsburgh, Pennsylvania
+</end course metadata for 11-700 LTI Colloquium>
+
+<start course description for 11-700 LTI Colloquium>
+Semester: Spring 2024 (aka S24)
+Course Description: The LTI colloquium is a series of talks related to language technologies. The topics include but are not restricted to Computational Linguistics, Machine Translation, Speech Recognition and Synthesis, Information Retrieval, Computational Biology, Machine Learning, Text Mining, Knowledge Representation, Computer-Assisted Language Learning and Intelligent Language Tutoring. To get credit of the course, students are required to write either a short critique of one of the presentations or a comparison of two.
+</end course description for 11-700 LTI Colloquium>

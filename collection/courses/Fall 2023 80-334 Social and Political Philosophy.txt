@@ -1,0 +1,16 @@
+<start course metadata for 80-334 Social and Political Philosophy>
+Semester: Fall 2023 (aka F23)
+Course Name: Social and Political Philosophy
+Course Number: 80-334
+Department: Philosophy
+Number of Units: 9
+Prerequisites: None
+Instructors: Cristian Dimitriu
+Rooms: CMB 1030
+Locations: Doha, Qatar
+</end course metadata for 80-334 Social and Political Philosophy>
+
+<start course description for 80-334 Social and Political Philosophy>
+Semester: Fall 2023 (aka F23)
+Course Description: Political philosophers are interested in whether, and to what extent, government use of coercion can be justified.  This question involves many facets, including what gives the government the legitimate authority (if any) to coercively enforce the rules, what limits there are (if any) to the legitimate kinds of rules the government can enforce (and why), what obligations (if any) the government has to the citizens that are governed by its rules, and what claims (if any) citizens of a state can make upon one another.  This course provides a systematic investigation of such questions as well as the concepts that are often appealed to in political theory, such as "justice," "equality," and "fairness."  Readings will be comprised of classic and contemporary theorists from within the liberal political tradition as well as theorists critical of this tradition and its ability to live up to the lofty ideals it espouses.
+</end course description for 80-334 Social and Political Philosophy>

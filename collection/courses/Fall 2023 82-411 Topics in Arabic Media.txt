@@ -1,0 +1,16 @@
+<start course metadata for 82-411 Topics in Arabic Media>
+Semester: Fall 2023 (aka F23)
+Course Name: Topics in Arabic Media
+Course Number: 82-411
+Department: Modern Languages
+Number of Units: N/A
+Prerequisites: 82-312
+Instructors: Anouar Rahmani, Ezzohra Moufid
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 82-411 Topics in Arabic Media>
+
+<start course description for 82-411 Topics in Arabic Media>
+Semester: Fall 2023 (aka F23)
+Course Description: Given the development and spread of new and multi-literacies around us today, the course focuses on reading and analyzing Arabic media sources to engage in discussions about current topics in our modern world. Topics of interest include (but are not limited to): Culture, politics, economy, environment, education, and linguistic diversity. While reading and writing will be mainly in Modern Standard Arabic, class discussions will be of a multidialectal and multilingual nature to encourage questioning, analyzing, and conceptualizing topics in various contexts.
+</end course description for 82-411 Topics in Arabic Media>

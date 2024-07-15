@@ -1,0 +1,16 @@
+<start course metadata for 60-110 Foundations: Time-Based Media>
+Semester: Fall 2023 (aka F23)
+Course Name: Foundations: Time-Based Media
+Course Number: 60-110
+Department: Art
+Number of Units: 10
+Prerequisites: None
+Instructors: Johannes DeYoung, Rebecca Shapass, Scott Andrew
+Rooms: BH 140A; CFA 317; WEH 5202
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 60-110 Foundations: Time-Based Media>
+
+<start course description for 60-110 Foundations: Time-Based Media>
+Semester: Fall 2023 (aka F23)
+Course Description: Foundations: Time Based Media introduces you to audio and video production software, equipment and techniques into your interdisciplinary studies in art. Projects explore the making and critiquing of moving-image and audio across a variety of contexts, and takes an active approach in learning how to produce your own new media work using both standard and experimental production techniques. You  will build comprehension of related histories and theories; explore the meanings and consequences of ubiquitous broadcast and social media; and learn how to interrogate and wield media paradigms to challenge their influences in our lives.
+</end course description for 60-110 Foundations: Time-Based Media>

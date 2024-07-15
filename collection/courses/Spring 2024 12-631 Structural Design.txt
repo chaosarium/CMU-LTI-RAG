@@ -1,0 +1,16 @@
+<start course metadata for 12-631 Structural Design>
+Semester: Spring 2024 (aka S24)
+Course Name: Structural Design
+Course Number: 12-631
+Department: Civil & Environmental Engineering
+Number of Units: 12
+Prerequisites: 12-231
+Instructors: James Thompson
+Rooms: PH A7F
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 12-631 Structural Design>
+
+<start course description for 12-631 Structural Design>
+Semester: Spring 2024 (aka S24)
+Course Description: Design of structural members for bending moment, shear force, axial force, and combined axial force and bending.  Reinforced concrete, structural steel, and composite beam construction are considered.  Buckling effects in columns, beams and local plate segments are treated.  Serviceability limits such as deflection and cracking are addressed.  Design projects include the determination of loads and the selection of system geometry.
+</end course description for 12-631 Structural Design>

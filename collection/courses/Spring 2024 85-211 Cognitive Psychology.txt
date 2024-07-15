@@ -1,0 +1,16 @@
+<start course metadata for 85-211 Cognitive Psychology>
+Semester: Spring 2024 (aka S24)
+Course Name: Cognitive Psychology
+Course Number: 85-211
+Department: Psychology
+Number of Units: 9
+Prerequisites: None
+Instructors: Emilia Ezrina, Zsuzsanna Kocsis
+Rooms: SH 105
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 85-211 Cognitive Psychology>
+
+<start course description for 85-211 Cognitive Psychology>
+Semester: Spring 2024 (aka S24)
+Course Description: This course focuses on the fascinating way that the brain processes the world and allows us to interact with it. Aside from covering the major topics in cognitive psychology (language, memory, visual processing, attention and cognitive control), it includes an introduction to some of the most recent approaches to studying human cognition. The course is set up to highlight the connection between cognitive studies and skills in various majors such as computer science, math, statistics, and medicine. It is also structured to foster the necessary skills for the critical analysis of complex problems.
+</end course description for 85-211 Cognitive Psychology>

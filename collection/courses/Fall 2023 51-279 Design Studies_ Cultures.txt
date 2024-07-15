@@ -1,0 +1,16 @@
+<start course metadata for 51-279 Design Studies: Cultures>
+Semester: Fall 2023 (aka F23)
+Course Name: Design Studies: Cultures
+Course Number: 51-279
+Department: Design
+Number of Units: 5
+Prerequisites: None
+Instructors: Luis Garcia, Tricia Douglas
+Rooms: MM A11
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-279 Design Studies: Cultures>
+
+<start course description for 51-279 Design Studies: Cultures>
+Semester: Fall 2023 (aka F23)
+Course Description: "Cultures" immerses you in ways in which societies shape design, and how design shapes societies in return, rooted in historical and philosophical origins of identities and cultures. We will explore various aspects of human difference and relate them to the designed, material worlds we inhabit. Coursework involves reflective practices to connect theoretical, personal, and contextual understandings of the themes exposed, to explore meaning, purpose, and values that represent you as a person and as a designer.
+</end course description for 51-279 Design Studies: Cultures>

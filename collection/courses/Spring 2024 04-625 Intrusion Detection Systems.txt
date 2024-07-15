@@ -1,0 +1,16 @@
+<start course metadata for 04-625 Intrusion Detection Systems>
+Semester: Spring 2024 (aka S24)
+Course Name: Intrusion Detection Systems
+Course Number: 04-625
+Department: Information & Communication Technology
+Number of Units: 12
+Prerequisites: None
+Instructors: Assane Gueye
+Rooms: CMR F307
+Locations: Kigali, Rwanda
+</end course metadata for 04-625 Intrusion Detection Systems>
+
+<start course description for 04-625 Intrusion Detection Systems>
+Semester: Spring 2024 (aka S24)
+Course Description: Intrusion detection systems (IDSs) constitute an essential component of any network security solution package. Underlying IDSs is a great deal of fascinating mathematics taken from fields such as probability theory, statistics, and detection theory. A good understanding of this mathematical background will enable students to better appreciate the benefits and limitations of IDSs and prepare them to become better security practitioners.
+</end course description for 04-625 Intrusion Detection Systems>

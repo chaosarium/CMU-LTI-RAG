@@ -1,0 +1,16 @@
+<start course metadata for 57-714 Major Studio (Saxophone)>
+Semester: Fall 2023 (aka F23)
+Course Name: Major Studio (Saxophone)
+Course Number: 57-714
+Department: Music
+Number of Units: 9
+Prerequisites: None
+Instructors: Eric Defade, James Houlik, Jason Kush, Katherine Shields
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-714 Major Studio (Saxophone)>
+
+<start course description for 57-714 Major Studio (Saxophone)>
+Semester: Fall 2023 (aka F23)
+Course Description: A one hour private lesson per week for all music majors.
+</end course description for 57-714 Major Studio (Saxophone)>

@@ -1,0 +1,16 @@
+<start course metadata for 24-755 Finite Elements in Mechanics I>
+Semester: Spring 2024 (aka S24)
+Course Name: Finite Elements in Mechanics I
+Course Number: 24-755
+Department: Mechanical Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Kaushik Dayal
+Rooms: MI 348
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-755 Finite Elements in Mechanics I>
+
+<start course description for 24-755 Finite Elements in Mechanics I>
+Semester: Spring 2024 (aka S24)
+Course Description: The basic theory and applications of the finite element method in mechanics are presented.  Development of the FEM as a Galerkin method for numerical solution of boundary value problems.  Applications to second-order steady problems, including heat conduction, elasticity, convective transport, viscous flow and others.  Introduction to advanced topics, including fourth-order equations, time dependence and nonlinear problems.   12 Units  Prerequisite(s):  Graduate standing or consent of instructor
+</end course description for 24-755 Finite Elements in Mechanics I>

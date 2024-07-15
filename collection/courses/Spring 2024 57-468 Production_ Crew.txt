@@ -1,0 +1,16 @@
+<start course metadata for 57-468 Production: Crew>
+Semester: Spring 2024 (aka S24)
+Course Name: Production: Crew
+Course Number: 57-468
+Department: Music
+Number of Units: 3
+Prerequisites: None
+Instructors: Melanie Holcomb
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-468 Production: Crew>
+
+<start course description for 57-468 Production: Crew>
+Semester: Spring 2024 (aka S24)
+Course Description: Technical crew learning backstage operations for the fully staged productions presented by the Production: Performance class. Class participants serve as install, strike and run crew for the production.
+</end course description for 57-468 Production: Crew>

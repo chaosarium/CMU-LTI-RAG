@@ -1,0 +1,16 @@
+<start course metadata for 10-708 Probabilistic Graphical Models>
+Semester: Spring 2024 (aka S24)
+Course Name: Probabilistic Graphical Models
+Course Number: 10-708
+Department: Machine Learning
+Number of Units: 12
+Prerequisites: 10-301 or 10-315 or 10-601 or 10-701 or 10-715
+Instructors: Albert Gu, Andrej Risteski
+Rooms: DH 2210
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 10-708 Probabilistic Graphical Models>
+
+<start course description for 10-708 Probabilistic Graphical Models>
+Semester: Spring 2024 (aka S24)
+Course Description: Many of the problems in artificial intelligence, statistics, computer systems, computer vision, natural language processing, and computational biology, among many other fields, can be viewed as the search for a coherent global conclusion from local information. The probabilistic graphical models' framework provides a unified view for this wide range of problems, enabling efficient inference, decision-making, and learning in problems with a very large number of attributes and huge datasets. This graduate-level course will provide you with a strong foundation for both applying graphical models to complex problems and for addressing core research topics in graphical models.  The class will cover classical families of undirected and directed graphical models (i.e. Markov Random Fields and Bayesian Networks), modern deep generative models, as well as topics in causal inference. It will also cover the necessary algorithmic toolkit, including variational inference and Markov Chain Monte Carlo methods.  Students entering the class should have a pre-existing working knowledge of probability, statistics, and algorithms, though the class has been designed to allow students with a strong mathematical background to catch up and fully participate. Students are required to have successfully completed an introductory course to ML (for example 10715, 10701, or 10601) or an equivalent class.
+</end course description for 10-708 Probabilistic Graphical Models>

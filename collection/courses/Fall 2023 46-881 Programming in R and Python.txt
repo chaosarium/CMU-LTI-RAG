@@ -1,0 +1,16 @@
+<start course metadata for 46-881 Programming in R and Python>
+Semester: Fall 2023 (aka F23)
+Course Name: Programming in R and Python
+Course Number: 46-881
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Mattia Ciollaro
+Rooms: TEP 2111
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 46-881 Programming in R and Python>
+
+<start course description for 46-881 Programming in R and Python>
+Semester: Fall 2023 (aka F23)
+Course Description: Course Reserved for MSBA first year students
+</end course description for 46-881 Programming in R and Python>

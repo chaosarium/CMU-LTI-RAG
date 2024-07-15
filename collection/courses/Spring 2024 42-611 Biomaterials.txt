@@ -1,0 +1,16 @@
+<start course metadata for 42-611 Biomaterials>
+Semester: Spring 2024 (aka S24)
+Course Name: Biomaterials
+Course Number: 42-611
+Department: Biomedical Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Rosalyn Abbott
+Rooms: WEH 5403
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 42-611 Biomaterials>
+
+<start course description for 42-611 Biomaterials>
+Semester: Spring 2024 (aka S24)
+Course Description: This class serves as an overview of the landscape of biomaterial engineering and research. This course will cover the application of materials in biological environments, focusing on structure-processing-property relationships, engineering design principles, and how the biological environment affects the material properties. This course will focus on applications of a variety of materials that interface with biological systems including natural biopolymers, synthetic polymers, metals, and ceramics. Topics include considerations in molecular design of biomaterials, fundamentals of thermodynamic and kinetics relationships, the application of bulk and surface properties in the design of medical devices, and understanding tissue-biomaterials interactions. This course will discuss practical applications of materials in drug delivery, tissue engineering, biosensors, and other biomedical technologies. Students will be assessed with homework assignments and quizzes. At the end of the class, in teams, students will apply the concepts they have learned to write and present a focused review on a biomaterial design/concept that excites them.
+</end course description for 42-611 Biomaterials>

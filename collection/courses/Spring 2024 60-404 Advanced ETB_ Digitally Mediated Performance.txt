@@ -1,0 +1,16 @@
+<start course metadata for 60-404 Advanced ETB: Digitally Mediated Performance>
+Semester: Spring 2024 (aka S24)
+Course Name: Advanced ETB: Digitally Mediated Performance
+Course Number: 60-404
+Department: Art
+Number of Units: 10
+Prerequisites: None
+Instructors: Caroline Yoo
+Rooms: HL A10A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 60-404 Advanced ETB: Digitally Mediated Performance>
+
+<start course description for 60-404 Advanced ETB: Digitally Mediated Performance>
+Semester: Spring 2024 (aka S24)
+Course Description: In this advanced studio course, students will be producing performance works ranging from digitally mediated to live performances. The class will introduce both the history and theory of performance art as well as place importance on understanding how the evolution of technology in the 20th and 21st century, has changed the dynamics of witnessing not only the performance, but also the performing artist and the role of the audience. Developing research around pushing the boundaries of the genre by fabricating their techniques of performing such as engaging in experimental analog capture, live streaming, performance in games, and more, students will engage in various assignments that explore the conceptual and formal boundaries of the body as a medium.  Each assignment will be supported by relevant technical audio, video, photography, and performing workshops.   This is an advanced studio course, and although a background in performance is not required, students who have prior experience with moving image courses will be the best fit for this class. Each student will be expected to produce their performance pieces, participate in critique culture, and engage in dialogue with peers as a way to strengthen their own viewpoints and increase their criticality in the performance realms.
+</end course description for 60-404 Advanced ETB: Digitally Mediated Performance>

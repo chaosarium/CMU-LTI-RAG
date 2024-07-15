@@ -1,0 +1,16 @@
+<start course metadata for 18-372 Fundamental Electrical Power Systems>
+Semester: Fall 2023 (aka F23)
+Course Name: Fundamental Electrical Power Systems
+Course Number: 18-372
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: 18-220 and 18-202
+Instructors: Thomas Sullivan
+Rooms: WEH 8427
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-372 Fundamental Electrical Power Systems>
+
+<start course description for 18-372 Fundamental Electrical Power Systems>
+Semester: Fall 2023 (aka F23)
+Course Description: This course introduces the fundamentals in electric energy systems which will enable you to understand current issues and challenges in electric power systems ("smart grid") and what it takes for you to have a reliable electric power supply at your house. First, the general structure of an electric power system (current and future trends) will be introduced. This includes electric power plants (renewable and non-renewable); transmission and distribution; and consumers. Then, electric power is addressed from a mathematical point of view. The mathematical formulae for AC power and models for the above mentioned elements are derived which will enable you to calculate how much power is flowing over which lines on its way from the power plant to the consumer. Maintaining the balance between generation and consumption is important to avoid catastrophic blackout events. Hence, the notion of stability and available control concepts will be introduced.
+</end course description for 18-372 Fundamental Electrical Power Systems>

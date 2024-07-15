@@ -1,0 +1,16 @@
+<start course metadata for 48-655 Environment II: Design Integration of Active Building Systems>
+Semester: Fall 2023 (aka F23)
+Course Name: Environment II: Design Integration of Active Building Systems
+Course Number: 48-655
+Department: Architecture
+Number of Units: 9
+Prerequisites: None
+Instructors: Nina Baird
+Rooms: MM 103
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-655 Environment II: Design Integration of Active Building Systems>
+
+<start course description for 48-655 Environment II: Design Integration of Active Building Systems>
+Semester: Fall 2023 (aka F23)
+Course Description: If there is a benefit to recent global and national upheavals, it may be that we are even more keenly aware of the importance of equity, of social justice, and a more sustainable future.  That sustainability must cover the full range of the UN Sustainable Development Goals and your understanding of how you can contribute to a better future through design in the built environment is a primary goal of this course. High performance buildings are achieved with designs that effectively integrate passive and active systems. This course focuses on active systems in commercial buildings and their integration with passive design elements you've studied previously: envelope, ventilation and lighting.  We also consider building codes that address outside air requirements for ventilation, and energy and water efficiency, and discuss where related US building codes lead or lag in promoting exceptional building performance. Environmental sustainability and buildings within the United States receive the greatest emphasis in our work, but we also consider how performance definitions may change where resources like energy or water are limited or unavailable. The active systems covered include lighting, ventilation, heating/cooling, water distribution and water heating, and renewable energy production & storage.
+</end course description for 48-655 Environment II: Design Integration of Active Building Systems>

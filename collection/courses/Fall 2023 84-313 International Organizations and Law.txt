@@ -1,0 +1,16 @@
+<start course metadata for 84-313 International Organizations and Law>
+Semester: Fall 2023 (aka F23)
+Course Name: International Organizations and Law
+Course Number: 84-313
+Department: Institute for Politics and Strategy
+Number of Units: 6
+Prerequisites: None
+Instructors: Michelle Grise
+Rooms: MDC 522
+Locations: Washington, District of Columbia:Dulles
+</end course metadata for 84-313 International Organizations and Law>
+
+<start course description for 84-313 International Organizations and Law>
+Semester: Fall 2023 (aka F23)
+Course Description: This course provides students with a comprehensive overview of the role and function of international organizations and international law in global affairs. In this course, we will consider the historical development of the international legal system and theories and sources of international law. We will examine the dynamics of key international organizations within the United Nations system, the emergence of regional organizations and their role in global governance, and the relationship between international law and domestic law. Throughout the course, students will be asked to analyze current events through the lens of international law. Students will learn to read and analyze primary legal sources and gain familiarity with current research in the field. By the end of the course, students should be able to assess the record of international institutions in promoting international security, facilitating and regulating the use of emerging technologies, influencing the conduct of war, protecting human rights, and addressing global environmental concerns.
+</end course description for 84-313 International Organizations and Law>

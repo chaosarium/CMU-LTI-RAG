@@ -1,0 +1,16 @@
+<start course metadata for 03-412 Topics in Research>
+Semester: Spring 2024 (aka S24)
+Course Name: Topics in Research
+Course Number: 03-412
+Department: Biological Sciences
+Number of Units: N/A
+Prerequisites: None
+Instructors: Adam Linstedt, Mohamed Bouaouina
+Rooms: CMB 3046; MI 348
+Locations: Doha, Qatar; Pittsburgh, Pennsylvania
+</end course metadata for 03-412 Topics in Research>
+
+<start course description for 03-412 Topics in Research>
+Semester: Spring 2024 (aka S24)
+Course Description: Students attend weekly seminars by scientists from other universities who  have been invited by the Department of Biological Sciences to present their research to our faculty, postdoctoral scientists, graduate students, and staff.  A written response to questions about the seminar is prepared by each student during the seminar and turned in to the instructor at the end of the seminar.
+</end course description for 03-412 Topics in Research>

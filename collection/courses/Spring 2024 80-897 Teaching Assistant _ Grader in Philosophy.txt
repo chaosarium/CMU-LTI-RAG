@@ -1,0 +1,16 @@
+<start course metadata for 80-897 Teaching Assistant / Grader in Philosophy>
+Semester: Spring 2024 (aka S24)
+Course Name: Teaching Assistant / Grader in Philosophy
+Course Number: 80-897
+Department: Philosophy
+Number of Units: 1
+Prerequisites: None
+Instructors: Adam Bjorndahl
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 80-897 Teaching Assistant / Grader in Philosophy>
+
+<start course description for 80-897 Teaching Assistant / Grader in Philosophy>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is for PhD students who are serving as a teaching assistant or grader.
+</end course description for 80-897 Teaching Assistant / Grader in Philosophy>

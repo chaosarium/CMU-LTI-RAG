@@ -1,0 +1,16 @@
+<start course metadata for 21-122 Integration and Approximation>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Integration and Approximation
+Course Number: 21-122
+Department: Mathematical Sciences
+Number of Units: 10
+Prerequisites: 21-112 or 21-120
+Instructors: Instructor TBA, Timothy Flaherty
+Rooms: HH B103
+Locations: Doha, Qatar; Pittsburgh, Pennsylvania
+</end course metadata for 21-122 Integration and Approximation>
+
+<start course description for 21-122 Integration and Approximation>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: Integration by trigonometric substitution and partial fractions; arclength; improper integrals; Simpson's and Trapezoidal Rules for numerical integration; separable differential equations, Newton's method, Euler's method, Taylor's Theorem including a discussion of the remainder, sequences, series, power series. Parametric curves, polar coordinates, vectors, dot product. 3 hrs lec., 2 hrs. rec.
+</end course description for 21-122 Integration and Approximation>

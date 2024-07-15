@@ -1,0 +1,16 @@
+<start course metadata for 24-688 Introduction to CAD and CAE Tools>
+Semester: Fall 2023 (aka F23)
+Course Name: Introduction to CAD and CAE Tools
+Course Number: 24-688
+Department: Mechanical Engineering
+Number of Units: 12
+Prerequisites: 24-231 and 24-262
+Instructors: Sualp Ozel
+Rooms: CMU REMOTE
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-688 Introduction to CAD and CAE Tools>
+
+<start course description for 24-688 Introduction to CAD and CAE Tools>
+Semester: Fall 2023 (aka F23)
+Course Description: This course offers the hands-on training on how to apply modern CAD and CAE software tools to engineering design, analysis and manufacturing. In the first section, students will learn through 7 hands-on projects how to model complex free-form 3D objects using commercial CAD tools. In the second section, students will learn through 7 hands-on projects how to simulate complex multi-physics phenomena using commercial CAE tools.  Units: 12 Format: 2 hrs. Lec., 2 hrs. computer lab
+</end course description for 24-688 Introduction to CAD and CAE Tools>

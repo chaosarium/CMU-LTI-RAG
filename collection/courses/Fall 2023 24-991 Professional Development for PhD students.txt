@@ -1,0 +1,16 @@
+<start course metadata for 24-991 Professional Development for PhD students>
+Semester: Fall 2023 (aka F23)
+Course Name: Professional Development for PhD students
+Course Number: 24-991
+Department: Mechanical Engineering
+Number of Units: 2
+Prerequisites: None
+Instructors: Joanna Wolfe
+Rooms: WEH 5409
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-991 Professional Development for PhD students>
+
+<start course description for 24-991 Professional Development for PhD students>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is the first in a sequence of two required courses where incoming PhD students learn research and professional communication skills that will benefit them throughout the PhD and in their careers. Topics covered include DEI and cross-cultural communication, reading and understanding technical publications, building the student/advisor relationship, working in teams, communicating by email, presenting for success, receiving and addressing critical feedback, and performing a literature review. The class intends to strengthen the PhD cohort and activities will often require group work and evaluation.
+</end course description for 24-991 Professional Development for PhD students>

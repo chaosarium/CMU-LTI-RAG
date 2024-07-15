@@ -1,0 +1,16 @@
+<start course metadata for 21-111 Calculus I>
+Semester: Fall 2023 (aka F23)
+Course Name: Calculus I
+Course Number: 21-111
+Department: Mathematical Sciences
+Number of Units: 10
+Prerequisites: None
+Instructors: Richard Statman
+Rooms: BH A53
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-111 Calculus I>
+
+<start course description for 21-111 Calculus I>
+Semester: Fall 2023 (aka F23)
+Course Description: Review of basic algebra, functions, limits, derivatives of algebraic, exponential and logarithmic functions, curve sketching, maximum-minimum problems.  Successful completion of 21-111 and 21-112 entitles a student to enroll in any mathematics course for which 21-120 is a prerequisite. (Three 50 minute lectures, two 50 minute recitations)
+</end course description for 21-111 Calculus I>

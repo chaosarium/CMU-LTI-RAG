@@ -1,0 +1,16 @@
+<start course metadata for 70-381 TBA>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: TBA
+Course Number: 70-381
+Department: Business Administration
+Number of Units: 9
+Prerequisites: (76-102) or (76-101) or (76-106 and 76-107) or (76-106 and 76-108) or (76-107 and 76-108)
+Instructors: Xiaohang Feng
+Rooms: TEP 2612
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 70-381 TBA>
+
+<start course description for 70-381 TBA>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: An introduction to the nature and fundamentals of marketing and consumer behavior. Topics include an analysis of the economic and psychological factors influencing buyer behavior, marketing research, market segmentation, and the development of marketing programs (new product, price, advertising and distribution decisions). This course may use third-party course material that is not available for individual purchase from the publisher.   If so, the third-party course material will be secured and provided by the Tepper School to students enrolled in the course, and students enrolled in the course will be required to pay to the University the associated additional course materials fee for the third-party course material provided.   The amount of the course materials fee is dependent on the University's cost of the particular materials provided, and typically ranges from $13 to $75.
+</end course description for 70-381 TBA>

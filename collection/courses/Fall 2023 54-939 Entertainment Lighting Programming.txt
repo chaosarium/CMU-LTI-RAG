@@ -1,0 +1,16 @@
+<start course metadata for 54-939 Entertainment Lighting Programming>
+Semester: Fall 2023 (aka F23)
+Course Name: Entertainment Lighting Programming
+Course Number: 54-939
+Department: Drama
+Number of Units: 9
+Prerequisites: 54-771 or 54-837
+Instructors: C. Todd Brown
+Rooms: PCA 115
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-939 Entertainment Lighting Programming>
+
+<start course description for 54-939 Entertainment Lighting Programming>
+Semester: Fall 2023 (aka F23)
+Course Description: Students learn and practice programming techniques on the MA2 series of lighting control consoles. Advanced programming techniques are explored, including media server control and user-defined commands for the console. Different applications are introduced, but the primary focus is on programming for live music performance.
+</end course description for 54-939 Entertainment Lighting Programming>

@@ -1,0 +1,16 @@
+<start course metadata for 60-418 No More Videogames>
+Semester: Fall 2023 (aka F23)
+Course Name: No More Videogames
+Course Number: 60-418
+Department: Art
+Number of Units: 10
+Prerequisites: 60-419 or 15-466 or 53-353 or 60-212 or 15-104 or 15-112 or 16-465 or 15-110
+Instructors: Paolo Pedercini
+Rooms: CFA 303; CFA 317
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 60-418 No More Videogames>
+
+<start course description for 60-418 No More Videogames>
+Semester: Fall 2023 (aka F23)
+Course Description: Let's face it: there are too many videogames in this world. Luckily, game engines and game design principles can be used for a variety of purposes! This installment of Experimental Game Studio focuses on artful software, interactables, nongames, digital toys, procedural generators, educational applications, and other playthings. The course is divided in two parts: in the first half of the semester students will be asked to create three prototypes starting from an open-ended prompt. In the second half, the most promising prototypes will be iterated, playtested, and polished into complete projects. Students will work in teams. Some programming experience is recommended.
+</end course description for 60-418 No More Videogames>

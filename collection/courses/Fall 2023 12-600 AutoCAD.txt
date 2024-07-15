@@ -1,0 +1,16 @@
+<start course metadata for 12-600 AutoCAD>
+Semester: Fall 2023 (aka F23)
+Course Name: AutoCAD
+Course Number: 12-600
+Department: Civil & Environmental Engineering
+Number of Units: 3
+Prerequisites: None
+Instructors: Kristen Kurland
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 12-600 AutoCAD>
+
+<start course description for 12-600 AutoCAD>
+Semester: Fall 2023 (aka F23)
+Course Description: AutoCAD is mostly held online. The course provides an introduction to the fundamentals of computer-aided design (CAD)software. Students learn how to set up CAD projects using Autodesk's AutoCAD software. Topics include coordinates, lines, circles, arcs, zooms, snaps and grids, text, views, layers, plines, blocks, reference files, dimensioning, isometrics, 3D commands, surfaces, solids, and more. CAD standards for layers, plotting, and symbol libraries are also covered. The course includes development of a CAD project by each student.
+</end course description for 12-600 AutoCAD>

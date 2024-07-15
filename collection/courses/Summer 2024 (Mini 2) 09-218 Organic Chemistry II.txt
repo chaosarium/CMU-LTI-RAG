@@ -1,0 +1,16 @@
+<start course metadata for 09-218 Organic Chemistry II>
+Semester: Summer Two 2024 (aka M24, M24 Mini 2, Summer 2024 Mini 2)
+Course Name: Organic Chemistry II
+Course Number: 09-218
+Department: Chemistry
+Number of Units: 9
+Prerequisites: 09-217 or 09-219
+Instructors: Instructor TBA
+Rooms: DH 1112
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 09-218 Organic Chemistry II>
+
+<start course description for 09-218 Organic Chemistry II>
+Semester: Summer Two 2024 (aka M24, M24 Mini 2, Summer 2024 Mini 2)
+Course Description: None
+</end course description for 09-218 Organic Chemistry II>

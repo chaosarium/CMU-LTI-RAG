@@ -1,0 +1,16 @@
+<start course metadata for 18-613 Foundations of Computer Systems>
+Semester: Fall 2023 (aka F23)
+Course Name: Foundations of Computer Systems
+Course Number: 18-613
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Gregory Kesden, Ziad Youssfi
+Rooms: B23 109; HOA 160
+Locations: Pittsburgh, Pennsylvania; San Jose, California
+</end course metadata for 18-613 Foundations of Computer Systems>
+
+<start course description for 18-613 Foundations of Computer Systems>
+Semester: Fall 2023 (aka F23)
+Course Description: This course provides a programmer's view of how computer systems execute programs, store information, and communicate. It enables students to become more effective programmers, especially in dealing with issues of performance, portability and robustness. It also serves as a foundation for courses on compilers, networks, operating systems, and computer architecture, where a deeper understanding of systems-level issues is required. Topics covered include: machine-level code and its generation by optimizing compilers, performance evaluation and optimization, computer arithmetic, processor architecture, memory organization and management, networking technology and protocols, and supporting concurrent computation. This course is modeled after 15-213/18-213/15-513, and is intended for ECE MS students with expanded course contents presented at the graduate level. It prepares students for other graduate level computer systems courses as well as working in the industry.
+</end course description for 18-613 Foundations of Computer Systems>

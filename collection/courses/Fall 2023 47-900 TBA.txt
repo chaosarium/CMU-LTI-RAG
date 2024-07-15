@@ -1,0 +1,16 @@
+<start course metadata for 47-900 TBA>
+Semester: Fall 2023 (aka F23)
+Course Name: TBA
+Course Number: 47-900
+Department: Business Administration
+Number of Units: N/A
+Prerequisites: None
+Instructors: Ali Shourideh, Ben Moseley, Bryan Routledge, Oliver Hahl, Pietro Bonaldi, Sridhar Tayur, Tim Derdenger, Yan Huang
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 47-900 TBA>
+
+<start course description for 47-900 TBA>
+Semester: Fall 2023 (aka F23)
+Course Description: None
+</end course description for 47-900 TBA>

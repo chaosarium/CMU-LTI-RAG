@@ -1,0 +1,16 @@
+<start course metadata for 03-210 Independent Study>
+Semester: Summer Two 2024 (aka M24, M24 Mini 2, Summer 2024 Mini 2)
+Course Name: Independent Study
+Course Number: 03-210
+Department: Biological Sciences
+Number of Units: N/A
+Prerequisites: None
+Instructors: Amanda Willard
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 03-210 Independent Study>
+
+<start course description for 03-210 Independent Study>
+Semester: Summer Two 2024 (aka M24, M24 Mini 2, Summer 2024 Mini 2)
+Course Description: Students will read papers from the original literature under the direction of a faculty member. Students will be required to demonstrate mastery of the readings by discussions with the sponsoring faculty member, oral presentations, or writing of one or more papers summarizing and extending the information in the readings. If appropriate, students may write a program(s) to satisfy this last requirement. A student may take this course only once.  This is a mini format course.  Special permission required. **Students MUST contact bio-ungrad@andrew.cmu.edu and complete the application form in order to participate & register.**
+</end course description for 03-210 Independent Study>

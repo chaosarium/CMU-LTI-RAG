@@ -1,0 +1,16 @@
+<start course metadata for 36-350 Statistical Computing>
+Semester: Summer Two 2024 (aka M24, M24 Mini 2, Summer 2024 Mini 2)
+Course Name: Statistical Computing
+Course Number: 36-350
+Department: Statistics and Data Science
+Number of Units: 9
+Prerequisites: 36-218 or 21-325 or 36-219 or 36-225 or 36-217 or 15-259 or 36-235
+Instructors: Instructor TBA
+Rooms: PH 226C
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 36-350 Statistical Computing>
+
+<start course description for 36-350 Statistical Computing>
+Semester: Summer Two 2024 (aka M24, M24 Mini 2, Summer 2024 Mini 2)
+Course Description: None
+</end course description for 36-350 Statistical Computing>

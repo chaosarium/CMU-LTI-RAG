@@ -1,0 +1,16 @@
+<start course metadata for 57-597 Senior Composition Project>
+Semester: Spring 2024 (aka S24)
+Course Name: Senior Composition Project
+Course Number: 57-597
+Department: Music
+Number of Units: 1
+Prerequisites: None
+Instructors: Instructor TBA, Mahmood-Reza Vali, Nancy Galbraith, R. James Whipple
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-597 Senior Composition Project>
+
+<start course description for 57-597 Senior Composition Project>
+Semester: Spring 2024 (aka S24)
+Course Description: A composition for orchestra required of all senior composition majors.
+</end course description for 57-597 Senior Composition Project>

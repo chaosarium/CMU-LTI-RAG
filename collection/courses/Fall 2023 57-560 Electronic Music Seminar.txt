@@ -1,0 +1,16 @@
+<start course metadata for 57-560 Electronic Music Seminar>
+Semester: Fall 2023 (aka F23)
+Course Name: Electronic Music Seminar
+Course Number: 57-560
+Department: Music
+Number of Units: 3
+Prerequisites: None
+Instructors: Alexa Woloshyn
+Rooms: CFA A2
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-560 Electronic Music Seminar>
+
+<start course description for 57-560 Electronic Music Seminar>
+Semester: Fall 2023 (aka F23)
+Course Description: tba
+</end course description for 57-560 Electronic Music Seminar>

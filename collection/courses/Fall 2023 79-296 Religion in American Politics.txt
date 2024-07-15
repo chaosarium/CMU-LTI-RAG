@@ -1,0 +1,16 @@
+<start course metadata for 79-296 Religion in American Politics>
+Semester: Fall 2023 (aka F23)
+Course Name: Religion in American Politics
+Course Number: 79-296
+Department: History
+Number of Units: 6
+Prerequisites: None
+Instructors: James Gilchrist
+Rooms: GHC 4102
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 79-296 Religion in American Politics>
+
+<start course description for 79-296 Religion in American Politics>
+Semester: Fall 2023 (aka F23)
+Course Description: Religion figures prominently in American politics, especially in congressional election years. A common view, reinforced by some media and polling organizations, holds that "religiosity" correlates with conservative politics, but that's highly misleading, as religious people are in fact all over the political map - even on issues like abortion, same-sex marriage, and what is taught in public schools. Thomas Jefferson's mention of a "wall of separation" between church and state indicates that religious institutions are generally kept separate from government in America, but religious motivations have always played an important part in our politics. This course will provide a historical perspective on religion in public life down to the present day, including religion's influence on political parties and public policies, and the boundaries set by the Constitution on such activity.
+</end course description for 79-296 Religion in American Politics>

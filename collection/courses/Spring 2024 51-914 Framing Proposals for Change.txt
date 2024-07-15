@@ -1,0 +1,16 @@
+<start course metadata for 51-914 Framing Proposals for Change>
+Semester: Spring 2024 (aka S24)
+Course Name: Framing Proposals for Change
+Course Number: 51-914
+Department: Design
+Number of Units: 9
+Prerequisites: None
+Instructors: Jonathan Chapman
+Rooms: MM 215
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-914 Framing Proposals for Change>
+
+<start course description for 51-914 Framing Proposals for Change>
+Semester: Spring 2024 (aka S24)
+Course Description: Introduction of techniques to support doctoral students in framing research projects geared toward steering sustainable change in the world. Spanning 7 weeks, this course helps to frame research contexts, define research questions, plan methodological approaches, and speculate upon outcomes and their impacts. Coursework includes the development of a PhD Research Proposal.
+</end course description for 51-914 Framing Proposals for Change>

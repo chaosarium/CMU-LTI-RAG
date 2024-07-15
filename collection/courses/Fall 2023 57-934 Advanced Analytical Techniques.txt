@@ -1,0 +1,16 @@
+<start course metadata for 57-934 Advanced Analytical Techniques>
+Semester: Fall 2023 (aka F23)
+Course Name: Advanced Analytical Techniques
+Course Number: 57-934
+Department: Music
+Number of Units: 9
+Prerequisites: None
+Instructors: Richard Randall
+Rooms: HOA 223
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-934 Advanced Analytical Techniques>
+
+<start course description for 57-934 Advanced Analytical Techniques>
+Semester: Fall 2023 (aka F23)
+Course Description: Advanced Analytical Techniques is for graduate students who have passed their music theory competency exams What is music analysis and why is it important? How do we talk about our experiences with music? If I can analyze music, will it help get a job?  An analytical technique is a way to perceive or embody music with someone else: to find resonance or even difference without presenting one's perception as objective and universal. We use analytical techniques all the time in explicit ways and implicit ways when we make and listen to music.  In this course, we will study western analytical techniques in their application to western classical, jazz, popular, and non-western musics. When appropriate, we will discuss non-western techniques, but they will not be a focus. We will learn traditional analytic methodologies and explore philosophical and cultural relationships between value, culture, identity, and analysis. There will be weekly readings, listening, and analysis assignments. In the first seven weeks we will focus on the analysis of western classical tonal music.  In the second half of the semester we will focus on transcription and improvisation in diverse musical contexts. Students will complete a project in each of these three areas. This course utilizes in-class discussion and performance by all participants. The goal of this course is to improve your ability to conceptualize and perform new music and to enhance your engagement with your current repertoire.
+</end course description for 57-934 Advanced Analytical Techniques>

@@ -1,0 +1,16 @@
+<start course metadata for 06-363 Transport Process Laboratory>
+Semester: Spring 2024 (aka S24)
+Course Name: Transport Process Laboratory
+Course Number: 06-363
+Department: Chemical Engineering
+Number of Units: 9
+Prerequisites: 06-261 and 06-323
+Instructors: Joanne Beckwith, Matthew Cline
+Rooms: DH 1212
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 06-363 Transport Process Laboratory>
+
+<start course description for 06-363 Transport Process Laboratory>
+Semester: Spring 2024 (aka S24)
+Course Description: Develop skills for proposing, designing, planning, implementing, interpreting, and communicating the results of experiments in fluid flow and heat and mass transfer. Oral and written reports are required.
+</end course description for 06-363 Transport Process Laboratory>

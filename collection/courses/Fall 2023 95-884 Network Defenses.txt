@@ -1,0 +1,16 @@
+<start course metadata for 95-884 Network Defenses>
+Semester: Fall 2023 (aka F23)
+Course Name: Network Defenses
+Course Number: 95-884
+Department: Information Systems:Sch of IS & Mgt
+Number of Units: 6
+Prerequisites: None
+Instructors: Toby Meyer
+Rooms: HBH 2009
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 95-884 Network Defenses>
+
+<start course description for 95-884 Network Defenses>
+Semester: Fall 2023 (aka F23)
+Course Description: Network Defenses will cover the basics of network security through lecture and hands-on interaction with live virtual systems. Topics and labs include network traffic analysis, firewalls, networking, intrusion detection systems, logging and system event management, and network flow. The course will culminate in a group exercise where teams will identify and detect live attacks occurring on a virtual environment. Network Defenses is geared towards students who may be non-technical by nature, but who want to gain hands-on insight into the tools and techniques used in network security and computer security in general. However, no prior hands-on skills are required in order to succeed in this course. Course concepts will be tested via weekly quizzes and a final exam.
+</end course description for 95-884 Network Defenses>

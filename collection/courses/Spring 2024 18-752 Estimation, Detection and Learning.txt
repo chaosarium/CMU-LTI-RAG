@@ -1,0 +1,16 @@
+<start course metadata for 18-752 Estimation, Detection and Learning>
+Semester: Spring 2024 (aka S24)
+Course Name: Estimation, Detection and Learning
+Course Number: 18-752
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: 36-219
+Instructors: Rohit Negi
+Rooms: DH A302
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-752 Estimation, Detection and Learning>
+
+<start course description for 18-752 Estimation, Detection and Learning>
+Semester: Spring 2024 (aka S24)
+Course Description: This course discusses estimation, detection, identification and machine learning, covering a variety of methods, from classical to modern.  In detection, the topics covered include hypothesis testing, Neyman-Pearson detection, Bayesian classification and methods to combine classifiers.  In estimation, the topics include maximum-likelihood and Bayesian estimation, regression, prediction and filtering, Monte Carlo methods and compressed sensing.  In identification and machine learning, topics include Gaussian and low-dimensional models, learning with kernels, support vector machines, neural networks, deep learning, Markov models and graphical models.
+</end course description for 18-752 Estimation, Detection and Learning>

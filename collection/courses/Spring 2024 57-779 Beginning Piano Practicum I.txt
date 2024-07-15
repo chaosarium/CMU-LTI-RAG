@@ -1,0 +1,16 @@
+<start course metadata for 57-779 Beginning Piano Practicum I>
+Semester: Spring 2024 (aka S24)
+Course Name: Beginning Piano Practicum I
+Course Number: 57-779
+Department: Music
+Number of Units: 6
+Prerequisites: 57-749
+Instructors: Luz Manriquez
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-779 Beginning Piano Practicum I>
+
+<start course description for 57-779 Beginning Piano Practicum I>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is a year-long internship in the piano teaching of young children, combining class and private instruction: a study of the basic teaching/learning process as applied to piano teaching, covering comprehensive step-by-step presentation in reading, rhythm, ear training, sight reading, technique, and musicianship. Under supervision, students will teach the weekly group class and private lessons. Weekly conferences will be held for learning the presentation of materials for class teaching, analyzing pedagogical problems, and developing communication skills with both young pupils and their parents.  Note: This number is to be used by students who have taken 57-749.
+</end course description for 57-779 Beginning Piano Practicum I>

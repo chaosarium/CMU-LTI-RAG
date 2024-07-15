@@ -1,0 +1,16 @@
+<start course metadata for 98-341 Build Your Own Breadboard Computer>
+Semester: Fall 2023 (aka F23)
+Course Name: Build Your Own Breadboard Computer
+Course Number: 98-341
+Department: StuCo (Student Led Courses)
+Number of Units: 3
+Prerequisites: None
+Instructors: Carson Swoveland
+Rooms: WEH 5316
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 98-341 Build Your Own Breadboard Computer>
+
+<start course description for 98-341 Build Your Own Breadboard Computer>
+Semester: Fall 2023 (aka F23)
+Course Description: Students will construct a homebrew computer on a breadboard from basic parts (e.g. a CPU, RAM, and ROM), similar to Ben Eater's Custom 6502 YouTube series. The computer will be built in a modular way, studying each part individually to go from a computer that can only blink a light to a fully complete system. By the end of this class, students will have their very own expandable custom computer that can communicate with other devices, display text, play games, etc. No computer architecture or assembly knowledge is required, though familiarity with breadboarding and the basics of digital logic is recommended. Some work time outside of class (<3 hours per week) will be required for building. A materials fee of <$30 may be required (amount TBD).
+</end course description for 98-341 Build Your Own Breadboard Computer>

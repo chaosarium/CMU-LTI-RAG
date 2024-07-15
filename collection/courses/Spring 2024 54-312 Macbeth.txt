@@ -1,0 +1,16 @@
+<start course metadata for 54-312 Macbeth>
+Semester: Spring 2024 (aka S24)
+Course Name: Macbeth
+Course Number: 54-312
+Department: Drama
+Number of Units: N/A
+Prerequisites: 54-201 and 54-202
+Instructors: Claudia Benack, Gary Kline, Juan Rivera Lebron, Judith Conte, Kyle Haden, Rick Edinger
+Rooms: PCA A35
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-312 Macbeth>
+
+<start course description for 54-312 Macbeth>
+Semester: Spring 2024 (aka S24)
+Course Description: Performance training through projects at different levels of difficulty and staging, directed by students and presented in the studio theatre.  The actor has the opportunity to put into practice with his/her peers, in a creative and experimental atmosphere, the principles and techniques developed in the classroom. Note: Tues or Thurs time used as needed for performance critiques.
+</end course description for 54-312 Macbeth>

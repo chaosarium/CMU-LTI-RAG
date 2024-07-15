@@ -1,0 +1,16 @@
+<start course metadata for 84-372 Space and National Security>
+Semester: Spring 2024 (aka S24)
+Course Name: Space and National Security
+Course Number: 84-372
+Department: Institute for Politics and Strategy
+Number of Units: 9
+Prerequisites: None
+Instructors: Forrest Morgan
+Rooms: PH A18A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 84-372 Space and National Security>
+
+<start course description for 84-372 Space and National Security>
+Semester: Spring 2024 (aka S24)
+Course Description: Space systems contribute a great deal to America's security, prosperity, and quality of life.  This course examines how space-based services provide critical support to military and intelligence operations and contribute to national security more broadly.   The course is designed to investigate several interrelated themes, weaving together relevant aspects of technology, strategy, and policy.  The material is approached from both functional and historical perspectives, beginning with the basics of military and intelligence space operations and ending with an examination of the space- and cyber-related technical, strategic, and political challenges facing the nation today and in the foreseeable future.
+</end course description for 84-372 Space and National Security>

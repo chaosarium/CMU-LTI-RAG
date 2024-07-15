@@ -1,0 +1,16 @@
+<start course metadata for 24-887 Machine Learning & Artificial Intelligence for Engineers>
+Semester: Fall 2023 (aka F23)
+Course Name: Machine Learning & Artificial Intelligence for Engineers
+Course Number: 24-887
+Department: Mechanical Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Levent Kara
+Rooms: CMU REMOTE
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-887 Machine Learning & Artificial Intelligence for Engineers>
+
+<start course description for 24-887 Machine Learning & Artificial Intelligence for Engineers>
+Semester: Fall 2023 (aka F23)
+Course Description: This course introduces fundamental machine learning and artificial intelligence techniques useful for engineers working on data-intensive problems. Topics include: Probability and Bayesian learning, generative and discriminative classification methods, supervised and unsupervised learning, neural networks, support vector machines, clustering, dimensionality reduction, regression, optimization, evolutionary computation, and search. The lectures emphasize the theoretical foundations and the mathematical modeling of the introduced techniques, while bi-weekly homework assignments focus on the implementation and testing of the learned techniques in software. The assignments require knowledge of Python including text and image input/output, vector and matrix operations, simple loops, and data visualization. Students must have undergraduate level experience with linear algebra and vector calculus. 24-887 is a remote version of the in-person course 24-787 and is exclusively for students enrolled in the AI / ML certificate program.
+</end course description for 24-887 Machine Learning & Artificial Intelligence for Engineers>

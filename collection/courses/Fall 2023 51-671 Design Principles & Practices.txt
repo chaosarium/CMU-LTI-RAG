@@ -1,0 +1,16 @@
+<start course metadata for 51-671 Design Principles & Practices>
+Semester: Fall 2023 (aka F23)
+Course Name: Design Principles & Practices
+Course Number: 51-671
+Department: Design
+Number of Units: 12
+Prerequisites: None
+Instructors: Bruce Hanington
+Rooms: MM 121
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-671 Design Principles & Practices>
+
+<start course description for 51-671 Design Principles & Practices>
+Semester: Fall 2023 (aka F23)
+Course Description: A variety of design skills and approaches presented through a focused series of lectures and hands-on experiences, including visual thinking, craft modeling, research methods, human factors, teamwork, critique, presentation, writing, and preparation for professional design practice. Required for MA Design students; all other students only by permission of the instructor.
+</end course description for 51-671 Design Principles & Practices>

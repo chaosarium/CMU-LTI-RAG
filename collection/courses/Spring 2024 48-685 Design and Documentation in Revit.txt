@@ -1,0 +1,16 @@
+<start course metadata for 48-685 Design and Documentation in Revit>
+Semester: Spring 2024 (aka S24)
+Course Name: Design and Documentation in Revit
+Course Number: 48-685
+Department: Architecture
+Number of Units: N/A
+Prerequisites: None
+Instructors: Nathan Sawyer
+Rooms: MM A11
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-685 Design and Documentation in Revit>
+
+<start course description for 48-685 Design and Documentation in Revit>
+Semester: Spring 2024 (aka S24)
+Course Description: This course will guide you through the process of designing in Revit from the schematic, conceptual design phase, to the construction document phase. The course will start with basic concepts moving on to more advanced topics. Layering information and how much to incorporate into the model, based on stakeholders and end users, will be discussed. Capturing the essential information from the BIM model will be explored to develop presentations, bidding documents, and construction documents to relay relevant information to clients, consultants, and contractors. We will discuss when it is imperative to model in 3D and when to overlay 2D linework detail. Real-time rendering techniques that streamline the design process will be explored using Enscape. The skills learned from this course will help you understand the phases of design and documentation in the Revit environment.
+</end course description for 48-685 Design and Documentation in Revit>

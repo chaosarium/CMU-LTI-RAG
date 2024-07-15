@@ -1,0 +1,16 @@
+<start course metadata for 33-338 Intermediate Electricity and Magnetism I>
+Semester: Fall 2023 (aka F23)
+Course Name: Intermediate Electricity and Magnetism I
+Course Number: 33-338
+Department: Physics
+Number of Units: 10
+Prerequisites: 33-232 and 21-259 and 33-231
+Instructors: Colin Morningstar
+Rooms: WEH 7316
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 33-338 Intermediate Electricity and Magnetism I>
+
+<start course description for 33-338 Intermediate Electricity and Magnetism I>
+Semester: Fall 2023 (aka F23)
+Course Description: This course includes the basic concepts of electro- and magnetostatics. In electrostatics, topics include the electric field and potential for typical configurations, work and energy considerations, the method of images and solutions of Laplace's Equation, multipole expansions, and electrostatics in the presence of matter. In magnetostatics, the magnetic field and vector potential, magnetostatics in the presence of matter, properties of dia-, para- and ferromagnetic materials are developed.
+</end course description for 33-338 Intermediate Electricity and Magnetism I>

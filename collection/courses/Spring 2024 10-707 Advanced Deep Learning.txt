@@ -1,0 +1,16 @@
+<start course metadata for 10-707 Advanced Deep Learning>
+Semester: Spring 2024 (aka S24)
+Course Name: Advanced Deep Learning
+Course Number: 10-707
+Department: Machine Learning
+Number of Units: 12
+Prerequisites: 10-315 or 10-401 or 10-715 or 10-701 or 10-601
+Instructors: Ruslan Salakhutdinov
+Rooms: DH 2302
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 10-707 Advanced Deep Learning>
+
+<start course description for 10-707 Advanced Deep Learning>
+Semester: Spring 2024 (aka S24)
+Course Description: Models that are capable of extracting complex, hierarchical representations from high-dimensional data lie at the core of solving many ML and AI domains, such as visual object recognition, information retrieval, natural language processing, and speech perception. While the usefulness of such deep learning techniques is undisputed, our understanding of them is still in many ways nascent. The goal of this course is to introduce students to recent and exciting developments (both theoretical and practical) in these methods. This is an advanced graduate course, designed for Masters and Ph.D. level students, and will assume a substantial degree of mathematical maturity. Prerequisite: ML: 10-701 or 10-715, and strong programming skills.
+</end course description for 10-707 Advanced Deep Learning>

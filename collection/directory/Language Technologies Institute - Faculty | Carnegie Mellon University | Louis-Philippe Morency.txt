@@ -1,0 +1,6 @@
+Name: Louis-Philippe Morency
+Title: Leonardo Associate Professor of Computer Science
+Email morency@cs.cmu.edu
+Phone: 412-268-5508
+Office: 5411 Gates & Hillman Centers
+Interests: Machine Learning, Multimodal Computing and Interaction, Spoken Interfaces and Dialogue Processing

@@ -1,0 +1,16 @@
+<start course metadata for 93-880 Production Finance>
+Semester: Spring 2024 (aka S24)
+Course Name: Production Finance
+Course Number: 93-880
+Department: Arts & Entertainment Management
+Number of Units: 6
+Prerequisites: 90-723
+Instructors: Andrew Saul
+Rooms: CMU REMOTE
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 93-880 Production Finance>
+
+<start course description for 93-880 Production Finance>
+Semester: Spring 2024 (aka S24)
+Course Description: Accounting is a foundation to many businesses' enterprises and in the realm of film or TV, the Production Accountant is pivotal in overseeing and reporting on all production-related finances. This course offers a comprehensive introduction to the key accounting concepts and financial reporting techniques, specifically tailored to the entertainment industry. Central to the curriculum is the application of ethical decision-making in financial matters by both the accountant and the studio's production finance executive. To ensure relevance and clarity, we'll use real-world entertainment accounting scenarios as examples. Key areas of exploration include the roles and responsibilities within the production office, distinct phases of production, budgeting, payroll management, cost forecasting, and a day in the life of a production accountant and finance executive.
+</end course description for 93-880 Production Finance>

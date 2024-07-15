@@ -1,0 +1,16 @@
+<start course metadata for 03-655 Graduate Topics in Research>
+Semester: Spring 2024 (aka S24)
+Course Name: Graduate Topics in Research
+Course Number: 03-655
+Department: Biological Sciences
+Number of Units: 3
+Prerequisites: None
+Instructors: Daniel Brasier
+Rooms: MI 348
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 03-655 Graduate Topics in Research>
+
+<start course description for 03-655 Graduate Topics in Research>
+Semester: Spring 2024 (aka S24)
+Course Description: During the year, Masters student attend weekly seminars given by outside speaker or members of the Biology Department on current research topics in modern biology: some seminars from outside of the department may be substituted with instructor permission.
+</end course description for 03-655 Graduate Topics in Research>

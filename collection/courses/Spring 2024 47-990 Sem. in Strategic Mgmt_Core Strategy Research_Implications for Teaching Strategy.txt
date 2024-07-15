@@ -1,0 +1,16 @@
+<start course metadata for 47-990 Sem. in Strategic Mgmt:Core Strategy Research/Implications for Teaching Strategy>
+Semester: Spring 2024 (aka S24)
+Course Name: Sem. in Strategic Mgmt:Core Strategy Research/Implications for Teaching Strategy
+Course Number: 47-990
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Sunkee Lee
+Rooms: TEP 5222
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 47-990 Sem. in Strategic Mgmt:Core Strategy Research/Implications for Teaching Strategy>
+
+<start course description for 47-990 Sem. in Strategic Mgmt:Core Strategy Research/Implications for Teaching Strategy>
+Semester: Spring 2024 (aka S24)
+Course Description: Strategic management research is a domain of social science research that is concerned with explaining and predicting differences in organizational performance. Strategic management is an interdisciplinary field, and hence any introductory course faces the trade-off between breadth and depth. My choice has been to cover a mix of seminal papers that are most foundational to the field as well as recent studies that have applied and extended the ideas and methodologies of those seminal papers.  In addition, I will lecture in some sessions on topics such as teaching core concepts of strategic management in a business school and collecting and analyzing data for academic research.
+</end course description for 47-990 Sem. in Strategic Mgmt:Core Strategy Research/Implications for Teaching Strategy>

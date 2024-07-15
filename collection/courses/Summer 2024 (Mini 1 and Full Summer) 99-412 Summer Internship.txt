@@ -1,0 +1,16 @@
+<start course metadata for 99-412 Summer Internship>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Summer Internship
+Course Number: 99-412
+Department: Carnegie Mellon University-Wide Studies
+Number of Units: 1
+Prerequisites: None
+Instructors: Korryn Mozisek
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 99-412 Summer Internship>
+
+<start course description for 99-412 Summer Internship>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: This course allows students to engage in experiential learning that integrates knowledge and theories from their academic discipline within a relevant professional context. This should include a meaningful project at the internship site where practical application and skills development occurs relevant to the student's major. The internship can be at an internal (CMU) or external site. Students will need to complete a proposal and supervisor agreement form to be eligible for this tuition-free 1-unit course. Students are responsible for finding internships. In addition to the time spent at the internship site, students will be expected to write a short paper explaining the application of knowledge and theories as well as skills developed at the internship site as they relate to professional career goals. This course can be repeated, but students must work on new projects w and provide a new paper for each time it is taken. The course is not eligible for CPT for international students; please contact the Office for International Education for more information.
+</end course description for 99-412 Summer Internship>

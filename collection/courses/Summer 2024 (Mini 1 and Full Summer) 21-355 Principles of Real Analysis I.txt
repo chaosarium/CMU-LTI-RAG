@@ -1,0 +1,16 @@
+<start course metadata for 21-355 Principles of Real Analysis I>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Principles of Real Analysis I
+Course Number: 21-355
+Department: Mathematical Sciences
+Number of Units: 9
+Prerequisites: (21-127 or 21-128 or 15-151) and (21-122)
+Instructors: Timothy Flaherty
+Rooms: DH 1211
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-355 Principles of Real Analysis I>
+
+<start course description for 21-355 Principles of Real Analysis I>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: This course provides a rigorous and proof-based treatment of functions of one real variable. The Real Number System:  Field and order axioms, sups and infs, completeness, integers and rational numbers. Real Sequences:  Limits, cluster points, limsup and liminf, subsequences, monotonic sequences, Cauchy's criterion, Bolzano-Weierstrass Theorem. Topology of the Real Line: Open sets, closed sets, density, compactness, Heine-Borel Theorem. Continuity: attainment of extrema, Intermediate Value Theorem, uniform continuity. Differentiation:  Chain Rule, local extrema, Mean-Value Theorems, L'Hospital's Rule, Taylor's Theorem. Riemann Integration:  Partitions, upper and lower integrals, sufficient conditions for integrability, Fundamental Theorem of Calculus. Sequences of Functions:  Pointwise convergence, uniform convergence, interchanging the order of limits.  The course presumes some mathematical sophistication including the ability to recognize, read, and write proofs.  (Three 50 minute lectures)
+</end course description for 21-355 Principles of Real Analysis I>

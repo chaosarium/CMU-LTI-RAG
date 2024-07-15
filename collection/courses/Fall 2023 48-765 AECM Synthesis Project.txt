@@ -1,0 +1,16 @@
+<start course metadata for 48-765 AECM Synthesis Project>
+Semester: Fall 2023 (aka F23)
+Course Name: AECM Synthesis Project
+Course Number: 48-765
+Department: Architecture
+Number of Units: 12
+Prerequisites: None
+Instructors: Joshua Lee
+Rooms: MM 415IW
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-765 AECM Synthesis Project>
+
+<start course description for 48-765 AECM Synthesis Project>
+Semester: Fall 2023 (aka F23)
+Course Description: MS-AECM students in this project-based course will apply the diverse knowledge and skills they have acquired during the program through an active design challenge in Pittsburgh. Topics vary by year, but are generally focused on sustainability and health improvements to existing buildings. Students will work with the client, designers, contractors, funders, facilities personnel, government officials, local experts, potential users, and concerned citizens in transdisciplinary teams to plan and manage the effective execution of the project.
+</end course description for 48-765 AECM Synthesis Project>

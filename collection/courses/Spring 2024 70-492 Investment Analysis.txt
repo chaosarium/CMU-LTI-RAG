@@ -1,0 +1,16 @@
+<start course metadata for 70-492 Investment Analysis>
+Semester: Spring 2024 (aka S24)
+Course Name: Investment Analysis
+Course Number: 70-492
+Department: Business Administration
+Number of Units: 9
+Prerequisites: 21-370 or 70-391
+Instructors: George Burton Hollifield, Serkan Akguc
+Rooms: CMB 2052; TEP 2701
+Locations: Doha, Qatar; Pittsburgh, Pennsylvania
+</end course metadata for 70-492 Investment Analysis>
+
+<start course description for 70-492 Investment Analysis>
+Semester: Spring 2024 (aka S24)
+Course Description: Investment analysis provides you the concepts and tools used to analyze publicly traded securities, and you will learn how to these tools to real world situations. The course is organized as a tour of the different kinds of securities used in the financial markets. You will analyze how security prices are determined, the relations between the prices of different securities, their risks and returns, and how to choose a portfolio or strategy from different asset classes. This course may use third-party course material that is not available for individual purchase from the publisher.   If so, the third-party course material will be secured and provided by the Tepper School to students enrolled in the course, and students enrolled in the course will be required to pay to the University the associated additional course materials fee for the third-party course material provided.   The amount of the course materials fee is dependent on the University's cost of the particular materials provided, and typically ranges from $13 to $75.
+</end course description for 70-492 Investment Analysis>

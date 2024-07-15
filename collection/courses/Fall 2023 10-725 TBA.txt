@@ -1,0 +1,16 @@
+<start course metadata for 10-725 TBA>
+Semester: Fall 2023 (aka F23)
+Course Name: TBA
+Course Number: 10-725
+Department: Machine Learning
+Number of Units: 12
+Prerequisites: (21-240 or 21-242 or 21-341 or 21-671 or 10-606) and (21-254 or 21-259 or 21-268) and (36-217 or 15-259 or 15-359 or 21-325 or 36-225 or 36-219 or 36-218)
+Instructors: Barnabas Poczos
+Rooms: BH A51
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 10-725 TBA>
+
+<start course description for 10-725 TBA>
+Semester: Fall 2023 (aka F23)
+Course Description: Nearly every problem in machine learning can be formulated as the optimization of some function, possibly under some set of constraints. This universal reduction may seem to suggest that such optimization tasks are intractable. Fortunately, many real world problems have special structure, such as convexity, smoothness, separability, etc., which allow us to formulate optimization problems that can often be solved efficiently. This course is designed to give a graduate-level student a thorough grounding in the formulation of optimization problems that exploit such structure, and in efficient solution methods for these problems. The main focus is on the formulation and solution of convex optimization problems, though we will discuss some recent advances in nonconvex optimization. These general concepts will also be illustrated through applications in machine learning and statistics. Students entering the class should have a pre-existing working knowledge of algorithms, though the class has been designed to allow students with a strong numerate background to catch up and fully participate. Though not required, having taken 10-701 or an equivalent machine learning or statistical modeling class is strongly encouraged, as we will use applications in machine learning and statistics to demonstrate the concepts we cover in class. Students will work on an extensive optimization-based project throughout the semester.
+</end course description for 10-725 TBA>

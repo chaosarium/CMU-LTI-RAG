@@ -1,0 +1,16 @@
+<start course metadata for 57-230 Baroque Ensemble>
+Semester: Fall 2023 (aka F23)
+Course Name: Baroque Ensemble
+Course Number: 57-230
+Department: Music
+Number of Units: 3
+Prerequisites: None
+Instructors: Stephen Schultz
+Rooms: CFA ACH
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-230 Baroque Ensemble>
+
+<start course description for 57-230 Baroque Ensemble>
+Semester: Fall 2023 (aka F23)
+Course Description: Carnegie Mellon Baroque is a performing ensemble of 15-25 players consisting of winds, strings and keyboard. Students in this ensemble explore the orchestral and chamber music of the 18th Century. The Ensemble performs on modern instruments, incorporating performance practice ideals of the Baroque era. Throughout the rehearsal process, students are encouraged to study original source materials and arrive at historically informed and musically satisfying performances.
+</end course description for 57-230 Baroque Ensemble>

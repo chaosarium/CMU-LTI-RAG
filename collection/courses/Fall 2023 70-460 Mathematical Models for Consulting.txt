@@ -1,0 +1,16 @@
+<start course metadata for 70-460 Mathematical Models for Consulting>
+Semester: Fall 2023 (aka F23)
+Course Name: Mathematical Models for Consulting
+Course Number: 70-460
+Department: Business Administration
+Number of Units: 9
+Prerequisites: 21-292 or 21-257 or 70-257
+Instructors: Daniel De Roux Uribe, Veli Safak
+Rooms: CMB 1031; TEP 2701
+Locations: Doha, Qatar; Pittsburgh, Pennsylvania
+</end course metadata for 70-460 Mathematical Models for Consulting>
+
+<start course description for 70-460 Mathematical Models for Consulting>
+Semester: Fall 2023 (aka F23)
+Course Description: This course will cover a wide variety of mathematical models and techniques that are used by consultants and lie at the heart of modern decision-support systems. We will discuss the benefits and limitations of different models and follow a practical spreadsheet-based approach to provide hands-on experience with Excel Solver. The course will build on the knowledge you have gained from the prerequisite courses; we will develop your model-building skills, explore some technique-oriented skills such as linear, integer, and nonlinear programming, and experiment with heuristic solution methods. While going through different models and techniques, we will also see real-world examples of how these models are actually used in practical business environments. This course may use third-party course material that is not available for individual purchase from the publisher.   If so, the third-party course material will be secured and provided by the Tepper School to students enrolled in the course, and students enrolled in the course will be required to pay to the University the associated additional course materials fee for the third-party course material provided.   The amount of the course materials fee is dependent on the University's cost of the particular materials provided, and typically ranges from $13 to $75.
+</end course description for 70-460 Mathematical Models for Consulting>

@@ -1,0 +1,16 @@
+<start course metadata for 21-738 Extremal Combinatorics>
+Semester: Spring 2024 (aka S24)
+Course Name: Extremal Combinatorics
+Course Number: 21-738
+Department: Mathematical Sciences
+Number of Units: 12
+Prerequisites: (21-355 or 21-235 or 21-455) and (21-373 or 21-237)
+Instructors: Po-Shen Loh
+Rooms: WEH 8220
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-738 Extremal Combinatorics>
+
+<start course description for 21-738 Extremal Combinatorics>
+Semester: Spring 2024 (aka S24)
+Course Description: Classical problems and results in extremal combinatorics including the Turán and Zarankiewicz problems, the Erdos-Stone theorem and the Erdos-Simonovits stability theorem. Extremal set theory including the Erdos-Rado sunflower lemma and variations, VC-dimension, and Kneser's conjecture. The Szemeredi regularity lemma. Algebraic methods including finite field constructions and eigenvalues and expansion properties of graphs. Shannon capacity of graphs. Chromatic number of Rn and Borsuk's conjecture. Graph decomposition including Graham-Pollack and Baranyai's theorem.  (Three 50 minute lectures)
+</end course description for 21-738 Extremal Combinatorics>

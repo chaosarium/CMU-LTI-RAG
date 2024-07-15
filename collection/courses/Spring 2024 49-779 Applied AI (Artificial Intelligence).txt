@@ -1,0 +1,16 @@
+<start course metadata for 49-779 Applied AI (Artificial Intelligence)>
+Semester: Spring 2024 (aka S24)
+Course Name: Applied AI (Artificial Intelligence)
+Course Number: 49-779
+Department: Integrated Innovation Institute
+Number of Units: 6
+Prerequisites: None
+Instructors: Lake Dai
+Rooms: B23 118
+Locations: San Jose, California
+</end course metadata for 49-779 Applied AI (Artificial Intelligence)>
+
+<start course description for 49-779 Applied AI (Artificial Intelligence)>
+Semester: Spring 2024 (aka S24)
+Course Description: Applied AI refers to the use of AI technologies to solve real-world problems or achieve specific goals. In other words, while AI is a broad field that includes the development of intelligent systems, Applied AI involves using those systems to solve practical problems or achieve specific objectives.  This Applied AI course provides students with knowledge of fundamental AI concepts, analyses of various AI applications, and opportunities to engage in closed-door discussions with technology leaders in the AI industry, such as Google, Nvidia, AWS, and founders from fast-growing AI startups. We will also explore the newest LLM and Generative AI use cases as well as popular developer tools to build these applications.  The objective of this course is to equip students with the latest applied AI technology trends and the knowledge needed to develop AI applications for 'real-world' problems.
+</end course description for 49-779 Applied AI (Artificial Intelligence)>

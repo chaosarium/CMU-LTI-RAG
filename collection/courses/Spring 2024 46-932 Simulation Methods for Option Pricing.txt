@@ -1,0 +1,16 @@
+<start course metadata for 46-932 Simulation Methods for Option Pricing>
+Semester: Spring 2024 (aka S24)
+Course Name: Simulation Methods for Option Pricing
+Course Number: 46-932
+Department: Business Administration
+Number of Units: 6
+Prerequisites: 46-923 and 46-973 and 46-926 and 46-944
+Instructors: Arun Kuchibhotla
+Rooms: BRD 507; TCS 250
+Locations: New York, New York; Pittsburgh, Pennsylvania
+</end course metadata for 46-932 Simulation Methods for Option Pricing>
+
+<start course description for 46-932 Simulation Methods for Option Pricing>
+Semester: Spring 2024 (aka S24)
+Course Description: This course initially presents standard topics in simulation including random variable generation, statistical analysis of simulation output and variance reduction methods including antithetic variables, control variables, importance sampling, conditional Monte Carlo, stratification and martingale control variables. The course then addresses the use of Monte Carlo simulation in solving applied problems on derivative pricing discussed in the finance literature. Application areas include the estimation of the "Greeks," pricing of American options, pricing interest rate dependent claims, and credit risk.
+</end course description for 46-932 Simulation Methods for Option Pricing>

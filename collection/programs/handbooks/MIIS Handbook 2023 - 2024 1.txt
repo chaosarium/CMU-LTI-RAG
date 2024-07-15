@@ -1,0 +1,25 @@
+MIIS Handbook_2023 - 2024
+2 The Language Technologies Institute 
+2.1.1 Mailboxes & Office Supplies  
+The LTI mailboxes, printers, copiers, and other departmental resources are in GHC 5404 . 
+2.1.2 Photocopies and Printers  
+The use of a photocopier or printer requires you to log in with your CMU ID card. LTI’s printers 
+are located in GHC 5404 and GHC 6604. The School of Computer Science provides a number of 
+black -and-white and color printers for use by students. The SCS Computer Facilities publishes a 
+list of printers online at http://www.cs.cmu.edu/~help/printing/.  
+2.1.3 Office Space for MS Students  
+To help create a sense of community, full time students in the LTI’s MIIS program have access to a 
+shared office space.  
+2.1.4 Computers for M S Students  
+Students are expected to provide their own laptop computers that can be used to access 
+university resources and complete course assignments.  Laptops running Windows, MacOS, 
+and Linux software are all acceptable.  
+Master’s  students will be given a CS user id.  A CS user id is required to use the LTI computer 
+cluster, and other SCS services.  The School of Computer Science has a Help Center located at 
+MIIS Graduate Student Handbook  Page 11  
+ GHC 4201.  They can be contacted at help@cs.cmu.edu, extension 8 -4231 from a campus 
+phone, or 412 -268-4231 from an outside line.  
+MS students will be given access to the LTI’s computer cluster on an as -needed basis, to be 
+used for course assignments, directed study projects, and/or the capstone project.  The LTI 
+cluster provides storage and computation for projects involving large datas ets and/or lengthy 
+computation.   

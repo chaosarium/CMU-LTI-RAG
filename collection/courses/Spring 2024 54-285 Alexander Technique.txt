@@ -1,0 +1,16 @@
+<start course metadata for 54-285 Alexander Technique>
+Semester: Spring 2024 (aka S24)
+Course Name: Alexander Technique
+Course Number: 54-285
+Department: Drama
+Number of Units: 1
+Prerequisites: 54-101
+Instructors: Emily Sapa
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-285 Alexander Technique>
+
+<start course description for 54-285 Alexander Technique>
+Semester: Spring 2024 (aka S24)
+Course Description: Required Alexander work for Senior Acting and Music Theatre majors only.
+</end course description for 54-285 Alexander Technique>

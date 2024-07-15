@@ -1,0 +1,16 @@
+<start course metadata for 70-499 Internship>
+Semester: Spring 2024 (aka S24)
+Course Name: Internship
+Course Number: 70-499
+Department: Business Administration
+Number of Units: 3
+Prerequisites: None
+Instructors: Rubab Jafry O'Connor
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 70-499 Internship>
+
+<start course description for 70-499 Internship>
+Semester: Spring 2024 (aka S24)
+Course Description: Students doing a business-related internship for academic credit may enroll in this course for three units with a pass/no pass grade. Students must submit an internship agreement form to the instructor for approval prior to the start of the internship. A summary writing assignment must be submitted after the internship in order to receive credit. Business majors may enroll directly; non-business majors may enroll with special permission.
+</end course description for 70-499 Internship>

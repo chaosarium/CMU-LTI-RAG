@@ -1,0 +1,16 @@
+<start course metadata for 51-769 You Are Here: Identity & Place>
+Semester: Fall 2023 (aka F23)
+Course Name: You Are Here: Identity & Place
+Course Number: 51-769
+Department: Design
+Number of Units: 12
+Prerequisites: None
+Instructors: Daphne Firos
+Rooms: MM 121
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-769 You Are Here: Identity & Place>
+
+<start course description for 51-769 You Are Here: Identity & Place>
+Semester: Fall 2023 (aka F23)
+Course Description: Placemaking is a practice that strengthens the connection between people and the public spaces they share. In this course we¿ll explore the identity of spaces, the theories of how we navigate environments, and the ways that designers can define, craft, and/or express the identity of the places we go. This will take the form of projects that ask you to design and prototype permanent and temporary identity systems, custom typography, and full scale physical interventions.
+</end course description for 51-769 You Are Here: Identity & Place>

@@ -1,0 +1,16 @@
+<start course metadata for 27-704 Principles of Surface Engineering and Industrial Coatings>
+Semester: Spring 2024 (aka S24)
+Course Name: Principles of Surface Engineering and Industrial Coatings
+Course Number: 27-704
+Department: Materials Science & Engineering
+Number of Units: 6
+Prerequisites: None
+Instructors: Aharon Inspektor
+Rooms: PH A19C
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 27-704 Principles of Surface Engineering and Industrial Coatings>
+
+<start course description for 27-704 Principles of Surface Engineering and Industrial Coatings>
+Semester: Spring 2024 (aka S24)
+Course Description: Many modern technologies rely on the use of innovative, multi-functional coatings to ensure competitive advantage in the fast-changing global markets. Building such coatings requires advanced planning of the entire coating-substrate system, and of the manufacturing steps. This course will discuss the design principles of multi-functional coatings, present advanced coating architectures and review the relevant manufacturing steps. The course will be illustrated with design principles of functional coatings in three major industries: aerospace, automotive, and machining. We will identify the relevant key challenges, and follow the thinking process of the industry leaders addressing the challenge. Then, we will examine the developed coating solutions: multi-functional tribological coatings on cutting tools; thermal barrier coatings on nickel alloy turbine blades for aircraft and power generation; diamond like coatings and wear protective coatings for automotive diesel engines; and corrosion protection in the aerospace and in the automotive industries. The course will conclude with a discussion of new trends in surface engineering and in the design of multi-functional coatings, including self-healing, self-cleaning, and other smart coatings.
+</end course description for 27-704 Principles of Surface Engineering and Industrial Coatings>

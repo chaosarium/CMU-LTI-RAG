@@ -1,0 +1,16 @@
+<start course metadata for 10-405 Machine Learning with Large Datasets (Undergraduate)>
+Semester: Spring 2024 (aka S24)
+Course Name: Machine Learning with Large Datasets (Undergraduate)
+Course Number: 10-405
+Department: Machine Learning
+Number of Units: 12
+Prerequisites: (17-214 or 15-211 or 15-210 or 15-214) and (10-301 or 10-315 or 10-401 or 10-601 or 10-715 or 10-701)
+Instructors: Ameet Talwalkar, Geoffrey Gordon
+Rooms: DH 2210
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 10-405 Machine Learning with Large Datasets (Undergraduate)>
+
+<start course description for 10-405 Machine Learning with Large Datasets (Undergraduate)>
+Semester: Spring 2024 (aka S24)
+Course Description: Large datasets are difficult to work with for several reasons. They are difficult to visualize, and it is difficult to understand what sort of errors and biases are present in them. They are computationally expensive to process, and often the cost of learning is hard to predict - for instance, and algorithm that runs quickly in a dataset that fits in memory may be exorbitantly expensive when the dataset is too large for memory. Large datasets may also display qualitatively different behavior in terms of which learning methods produce the most accurate predictions. This course is intended to provide a student practical knowledge of, and experience with, the issues involving large datasets. Among the issues considered are: scalable learning techniques, such as streaming machine learning techniques; parallel infrastructures such as map-reduce; practical techniques for reducing the memory requirements for learning methods, such as feature hashing and Bloom filters; and techniques for analysis of programs in terms of memory, disk usage, and (for parallel methods) communication complexity. The class will include programming assignments, and a one-month short project chosen by the student. The project will be designed to compare the scalability of variant learning algorithms on datasets. An introductory course in machine learning, like 10-601 or 10-701, is a prerequisite or a co-requisite. If you plan to take this course and 10-601 concurrently please tell the instructor. The course will include several substantial programming assignments, so an additional prerequisite is 15-211, or 15-214, or comparable familiarity with Python and good programming skills.
+</end course description for 10-405 Machine Learning with Large Datasets (Undergraduate)>

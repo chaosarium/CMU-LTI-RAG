@@ -1,0 +1,16 @@
+<start course metadata for 15-411 Compiler Design>
+Semester: Spring 2024 (aka S24)
+Course Name: Compiler Design
+Course Number: 15-411
+Department: Computer Science
+Number of Units: 15
+Prerequisites: 15-213
+Instructors: Instructor TBA
+Rooms: BH A51
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-411 Compiler Design>
+
+<start course description for 15-411 Compiler Design>
+Semester: Spring 2024 (aka S24)
+Course Description: This course covers the design and implementation of compiler and run-time systems for high-level languages, and examines the interaction between language design, compiler design, and run-time organization. Topics covered include syntactic and lexical analysis, handling of user-defined types and type-checking, context analysis, code generation and optimization, and memory management and run-time organization.
+</end course description for 15-411 Compiler Design>

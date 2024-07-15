@@ -1,0 +1,16 @@
+<start course metadata for 93-831 Introduction to Business Law for Arts Managers>
+Semester: Fall 2023 (aka F23)
+Course Name: Introduction to Business Law for Arts Managers
+Course Number: 93-831
+Department: Arts & Entertainment Management
+Number of Units: 12
+Prerequisites: None
+Instructors: David Gurwin
+Rooms: HBH 1202
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 93-831 Introduction to Business Law for Arts Managers>
+
+<start course description for 93-831 Introduction to Business Law for Arts Managers>
+Semester: Fall 2023 (aka F23)
+Course Description: Introduction to Business Law for Arts Managers is an investigation of specific legal rights and responsibilities (contractual and otherwise) in the arts and entertainment industries, including visual and performing arts and emerging areas such as multimedia art. The foundation for all activities in the arts is the contract. Accordingly, you will study contract law that will provide a clearer understanding of the requirements that must be met before a valid contract comes into existence. Contract interpretation and enforcement will also be addressed. In addition to contract law, we will also discuss tort law, agency law, corporate, partnership and limited liability company law, personal and real property law, intellectual property law (copyrights, trademarks, trade secrets, rights of publicity, moral rights) and other laws specifically affecting the entertainment industries. Finally, typical performing arts contracts and contractual provisions will be reviewed and the concepts discussed in other parts of the class, as applied to those contracts, will be analyzed.
+</end course description for 93-831 Introduction to Business Law for Arts Managers>

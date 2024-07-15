@@ -1,0 +1,16 @@
+<start course metadata for 60-258 Intermediate Studio: Screenprint>
+Semester: Spring 2024 (aka S24)
+Course Name: Intermediate Studio: Screenprint
+Course Number: 60-258
+Department: Art
+Number of Units: 10
+Prerequisites: None
+Instructors: Imin Yeh
+Rooms: DH C300
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 60-258 Intermediate Studio: Screenprint>
+
+<start course description for 60-258 Intermediate Studio: Screenprint>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is a comprehensive and intensive study of Serigraphy (screenprinting), one of the most versatile and contemporary of printmaking techniques.  The course is focused upon the mastery of this process. Students will explore multiple methods of image making (from hand-drawn to digital imaging) and will be introduced to CMYK printing. The emphasis of this course is on artistic work on paper, but will also be exposed to the ways that screenprint can work across a wide range of different media: from 2D (paper, canvas, cloth) to 3D (book forms, sculpture, installations) and utilizing printed multiples in participatory and exchange based artworks.
+</end course description for 60-258 Intermediate Studio: Screenprint>

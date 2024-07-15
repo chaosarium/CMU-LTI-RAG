@@ -1,0 +1,16 @@
+<start course metadata for 82-387 Introduction to Linguistic Data Analysis Using R>
+Semester: Fall 2023 (aka F23)
+Course Name: Introduction to Linguistic Data Analysis Using R
+Course Number: 82-387
+Department: Modern Languages
+Number of Units: 9
+Prerequisites: None
+Instructors: Seth Wiener
+Rooms: WEH 5304
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 82-387 Introduction to Linguistic Data Analysis Using R>
+
+<start course description for 82-387 Introduction to Linguistic Data Analysis Using R>
+Semester: Fall 2023 (aka F23)
+Course Description: This course provides a hands-on introduction to the fundamental aspects of statistical analysis of quantitative linguistic data using the open source statistical environment R.The course assumes no prior programming or statistics training. Students will first understand how spoken and written language can be conceptualized as data. Students will learn what this data looks like and how to think about such data from a computational perspective. Students will build a level of confidence in using R that can lead to more advanced programming and statistics classes. Students will also learn how to visualize and appropriately form specific research questions related to linguistic analysis, and how data and its presentation can be manipulated in unethical ways. Students will also examine how the same data set can tell different stories/outcomes depending on the analyses and presentation. In-class labs and homework will make use of corpus, psycholinguistic, and survey data from a variety of languages and methods. At the end of the course, students will be able to select and use appropriate quantitative methods to analyze linguistic phenomena with the help of R. More practically, students will be able to use and understand the R code provided in class and modify it for the purposes of their own research.
+</end course description for 82-387 Introduction to Linguistic Data Analysis Using R>

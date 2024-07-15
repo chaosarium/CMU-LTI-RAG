@@ -1,0 +1,16 @@
+<start course metadata for 90-843 Development Financial Tools for Sustainable Economic Development>
+Semester: Spring 2024 (aka S24)
+Course Name: Development Financial Tools for Sustainable Economic Development
+Course Number: 90-843
+Department: Public Policy & Mgt:Sch of Pub Pol & Mgt
+Number of Units: 3
+Prerequisites: None
+Instructors: Tobias Rittner
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 90-843 Development Financial Tools for Sustainable Economic Development>
+
+<start course description for 90-843 Development Financial Tools for Sustainable Economic Development>
+Semester: Spring 2024 (aka S24)
+Course Description: Course dates:  March 16 & 17, 2024. Economic development is driven largely by funding and financing opportunities. Nearly every redevelopment, business expansion, community facility and infrastructure project hinges on the availability of affordable, patient and flexible capital. When addressing sustainability in economic development, funding and finance are even more critical. The lack of funding and finance can result in the ability for projects and programs to move forward in an effective manner. From the bedrock tools like bonds and targeted tool like tax increment to tax credit investment and access to capital lending programs, the development finance toolbox provides financing options that cover the entire development continuum. Unlocking the Development Finance Toolbox to Support Sustainable Economic Development will explore the intersection of development, sustainability and finance with an in depth review of the financing tools that catalyze and drive job growth and economic expansion. This course will not only explore the tools behind effective development but also examine success projects and programs that are driving communities towards a sustainable future.
+</end course description for 90-843 Development Financial Tools for Sustainable Economic Development>

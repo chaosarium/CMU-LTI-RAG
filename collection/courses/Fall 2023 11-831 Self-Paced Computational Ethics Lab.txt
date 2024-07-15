@@ -1,0 +1,16 @@
+<start course metadata for 11-831 Self-Paced Computational Ethics Lab>
+Semester: Fall 2023 (aka F23)
+Course Name: Self-Paced Computational Ethics Lab
+Course Number: 11-831
+Department: Language Technologies Institute
+Number of Units: 6
+Prerequisites: None
+Instructors: Emma Strubell
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 11-831 Self-Paced Computational Ethics Lab>
+
+<start course description for 11-831 Self-Paced Computational Ethics Lab>
+Semester: Fall 2023 (aka F23)
+Course Description: The self-paced Computational Ethics Lab is intended to follow-up on the 11-830 lecture course (Computational Ethics for NLP). Each project in the Lab will be a substantial research effort carried out by each student or groups of students (expected group size = 2 or 3). Educational objectives of the course are: (1) understand the practical aspects of defining ethical work; (2) learn the limitations of machine learning models trained from data; (3) gain hands-on experience with techniques to identify the bias inherent in models and data, techniques to debias models and data, techniques to identify and counter online abuse. The course is self-paced and there will be no scheduled lecture times, however, students are welcome to set up meetings with the instructor as desired, and students who prefer to have a weekly or bi-weekly regularly scheduled meeting with the instructor are welcome to arrange for that.
+</end course description for 11-831 Self-Paced Computational Ethics Lab>

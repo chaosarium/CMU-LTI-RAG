@@ -1,0 +1,16 @@
+<start course metadata for 10-708 Probabilistic Graphical Models>
+Semester: Fall 2023 (aka F23)
+Course Name: Probabilistic Graphical Models
+Course Number: 10-708
+Department: Machine Learning
+Number of Units: 12
+Prerequisites: 10-301 or 10-315 or 10-601 or 10-701 or 10-715
+Instructors: Andrej Risteski
+Rooms: POS 153
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 10-708 Probabilistic Graphical Models>
+
+<start course description for 10-708 Probabilistic Graphical Models>
+Semester: Fall 2023 (aka F23)
+Course Description: Many of the problems in artificial intelligence, statistics, computer systems, computer vision, natural language processing, and computational biology, among many other fields, can be viewed as the search for a coherent global conclusion from local information. The probabilistic graphical models framework provides an unified view for this wide range of problems, enabling efficient inference, decision-making and learning in problems with a very large number of attributes and huge datasets. This graduate-level course will provide you with a strong foundation for both applying graphical models to complex problems and for addressing core research topics in graphical models.  The class will cover three aspects: The core representation, including Bayesian and Markov networks, and dynamic Bayesian networks; probabilistic inference algorithms, both exact and approximate; and, learning methods for both the parameters and the structure of graphical models. Students entering the class should have a pre-existing working knowledge of probability, statistics, and algorithms, though the class has been designed to allow students with a strong numerate background to catch up and fully participate.  It is expected that after taking this class, the students should have obtain sufficient working knowledge of multi-variate probabilistic modeling and inference for practical applications, should be able to formulate and solve a wide range of problems in their own domain using GM, and can advance into more specialized technical literature by themselves.  Students are required to have successfully completed 10701 or 10715, or an equivalent class.
+</end course description for 10-708 Probabilistic Graphical Models>

@@ -1,0 +1,16 @@
+<start course metadata for 19-051 Study Abroad>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Study Abroad
+Course Number: 19-051
+Department: Engineering & Public Policy
+Number of Units: 0
+Prerequisites: None
+Instructors: Deanna Matthews
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 19-051 Study Abroad>
+
+<start course description for 19-051 Study Abroad>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: Study abroad, undergraduate level.
+</end course description for 19-051 Study Abroad>

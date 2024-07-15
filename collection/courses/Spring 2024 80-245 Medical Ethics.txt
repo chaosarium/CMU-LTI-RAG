@@ -1,0 +1,16 @@
+<start course metadata for 80-245 Medical Ethics>
+Semester: Spring 2024 (aka S24)
+Course Name: Medical Ethics
+Course Number: 80-245
+Department: Philosophy
+Number of Units: 9
+Prerequisites: None
+Instructors: Derek Leben
+Rooms: PH 125B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 80-245 Medical Ethics>
+
+<start course description for 80-245 Medical Ethics>
+Semester: Spring 2024 (aka S24)
+Course Description: This course provides a detailed introduction to core ethical issues in medical ethics and public policy. Topics include: the moral responsibilities of health care providers to patients and various third parties such as the government or insurance companies, the status of health as a social good, questions of justice in access to health care, and questions of individual liberty and social responsibility at the ends of life including issues such as cloning, abortion, physician assisted suicide, and the definition of death. We will also examine specific ethical issues in the conduct of medical research and look at the impact of technological innovation on our notions of health, disease, life, death, and the family. While the course engages such substantive ethical issues it also attempts to sharpen students' skills in practical reasoning through argument analysis, analogical reasoning, and the application of theory and principles to particular cases.
+</end course description for 80-245 Medical Ethics>

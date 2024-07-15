@@ -1,0 +1,16 @@
+<start course metadata for 62-809 Public Art>
+Semester: Fall 2023 (aka F23)
+Course Name: Public Art
+Course Number: 62-809
+Department: CFA Interdisciplinary
+Number of Units: 6
+Prerequisites: None
+Instructors: Rachel Rearick
+Rooms: HBH 1004
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 62-809 Public Art>
+
+<start course description for 62-809 Public Art>
+Semester: Fall 2023 (aka F23)
+Course Description: This course will examine the conceptual framework for what public art is, how artists are engaged, and how public art projects are produced in the United States. In addition, students will gain practical experience and knowledge of the public art administration field. The course will begin with an introduction to public art practice, including a brief history of public art along with a walking tour to discuss public art in context. Topics to be covered include the evaluation of public art, case studies in public art controversy, the individual roles that stakeholders play in the public art process, how artist selection occurs, design review, public art collection management, educational programming, and the importance of public art planning. Readings, guest speakers, and site visits will be used to give students an overview of the field of public art and the role that public art plays in communities.
+</end course description for 62-809 Public Art>

@@ -1,0 +1,16 @@
+<start course metadata for 11-637 Foundations of Computational Data Science>
+Semester: Spring 2024 (aka S24)
+Course Name: Foundations of Computational Data Science
+Course Number: 11-637
+Department: Language Technologies Institute
+Number of Units: 12
+Prerequisites: None
+Instructors: Carolyn Rose
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 11-637 Foundations of Computational Data Science>
+
+<start course description for 11-637 Foundations of Computational Data Science>
+Semester: Spring 2024 (aka S24)
+Course Description: This course provides an introduction to foundational concepts, learning material and projects related to the three core areas of Data Science: Computing Systems, Analytics and Human-Center Data Science. Students completing this class will be prepared for further graduate education in Data Science and/or Artificial Intelligence. Students acquire skills in solution design (e.g. architecture, framework APIs, cloud computing), analytic algorithms (e.g. classification, clustering, ranking, prediction), interactive analysis (Jupyter and R) and visualization techniques for data analysis, solution optimization and performance measurement on real-world tasks. Technologies used in this course include: Python, Pandas, Numpy, Scikit Learn, Pandas, PyTorch, JupyterLabs / Jupyter Notebook, Spacy, nltk, sentence-transformers, Azure ML Deployment, Beautiful Soup 4, selenium, matplotlib or seaborn, tqdm, gensim, scipy ( sparse and linear packages ), various packages in the Python standard library ( collections, requests, datetime, re, and a couple of others ), and pdfminer.
+</end course description for 11-637 Foundations of Computational Data Science>

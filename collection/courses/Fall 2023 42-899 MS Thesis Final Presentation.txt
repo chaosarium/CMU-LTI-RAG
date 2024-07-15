@@ -1,0 +1,16 @@
+<start course metadata for 42-899 MS Thesis Final Presentation>
+Semester: Fall 2023 (aka F23)
+Course Name: MS Thesis Final Presentation
+Course Number: 42-899
+Department: Biomedical Engineering
+Number of Units: 0
+Prerequisites: None
+Instructors: Maryia Rakach
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 42-899 MS Thesis Final Presentation>
+
+<start course description for 42-899 MS Thesis Final Presentation>
+Semester: Fall 2023 (aka F23)
+Course Description: Research culminating in a M.S. research report. Research-option M.S. students must register for this course only during the final semester.
+</end course description for 42-899 MS Thesis Final Presentation>

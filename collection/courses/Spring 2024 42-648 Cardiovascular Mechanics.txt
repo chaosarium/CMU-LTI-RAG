@@ -1,0 +1,16 @@
+<start course metadata for 42-648 Cardiovascular Mechanics>
+Semester: Spring 2024 (aka S24)
+Course Name: Cardiovascular Mechanics
+Course Number: 42-648
+Department: Biomedical Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Jason Szafron
+Rooms: BH 140B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 42-648 Cardiovascular Mechanics>
+
+<start course description for 42-648 Cardiovascular Mechanics>
+Semester: Spring 2024 (aka S24)
+Course Description: The primary objective of the course is to learn to model blood flow and mechanical forces in the cardiovascular system. After a brief review of cardiovascular physiology and fluid mechanics, the students will progress from modeling blood flow in a.) small-scale steady flow applications to b.) small-scale pulsatile applications to c.) large-scale or complex pulsatile flow applications. The students will also learn how to calculate mechanical forces on cardiovascular tissue (blood vessels, the heart) and cardiovascular cells (endothelial cells, platelets, red and white blood cells), and the effects of those forces. Lastly, the students will learn various methods for modeling cardiac function.  When applicable, students will apply these concepts to the design and function of selected medical devices (heart valves, ventricular assist devices, artificial lungs).
+</end course description for 42-648 Cardiovascular Mechanics>

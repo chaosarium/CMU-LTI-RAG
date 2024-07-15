@@ -1,0 +1,16 @@
+<start course metadata for 98-000 Student Taught Courses (StuCo): Teaching Practicum>
+Semester: Fall 2023 (aka F23)
+Course Name: Student Taught Courses (StuCo): Teaching Practicum
+Course Number: 98-000
+Department: StuCo (Student Led Courses)
+Number of Units: 3
+Prerequisites: None
+Instructors: Erik Helin, Miriam Wertheimer
+Rooms: DNM DNM
+Locations: Doha, Qatar; Pittsburgh, Pennsylvania
+</end course metadata for 98-000 Student Taught Courses (StuCo): Teaching Practicum>
+
+<start course description for 98-000 Student Taught Courses (StuCo): Teaching Practicum>
+Semester: Fall 2023 (aka F23)
+Course Description: All current StuCo instructors are enrolled in this course to receive credit for teaching their individual StuCo course(s). StuCo instructors are required to attend periodic meetings focused on course design and instructional strategies conducted by Dr. Hallinen or StuCo organizational meetings conducted by the StuCo Executive Committee in order to receive credit for this course. Please refer any StuCo-related issues regarding registration, application deadlines, co-instructors, room assignments, absences, no-shows, etc. to Kristin Lavery, StuCo Course Administrator, Cyert Hall A64A, 412-268-6819. Dr. Judith Hallinen serves as Advisor for StuCo.   Please Note: Kristin Lavery, StuCo Course Administrator must first be added as a proxy to a StuCo instructor's course before admission to 98000 will be granted. See StuCo website Teacher Information for more info.
+</end course description for 98-000 Student Taught Courses (StuCo): Teaching Practicum>

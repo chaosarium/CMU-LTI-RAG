@@ -1,0 +1,16 @@
+<start course metadata for 54-152 Scenery (3 units)>
+Semester: Spring 2024 (aka S24)
+Course Name: Scenery (3 units)
+Course Number: 54-152
+Department: Drama
+Number of Units: N/A
+Prerequisites: None
+Instructors: Alexander Young, Bernard Carter, Beth Zamborsky, Sean West, Thomas Feather, Tiia Lager, Zachary Brown
+Rooms: PCA 103; PCA 107; PCA 310
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-152 Scenery (3 units)>
+
+<start course description for 54-152 Scenery (3 units)>
+Semester: Spring 2024 (aka S24)
+Course Description: The stagecraft class is designed to provide an introductory level of technical training in all the theatrical technical disciplines over the course of two semesters. The intent is to produce people who can capably fill roles on production crews and perhaps serve as an assistant to the head of the crew. Course content will cover materials, tools equipment, procedures, safety and operations for Carpentry, Props, Paints, Media, Costumes, Lights, Sound, Rigging, and Run Crew. As well as providing opportunity and experience to grow as technicians, this content will also help establish a foundation to begin the process of becoming managers and designers. As craft skills are often best communicated in a master/apprentice environment this course is set up as a mentored practical experience. This course requires significant additional scheduled time on evenings and weekends for crew calls, which are an important element of the course.
+</end course description for 54-152 Scenery (3 units)>

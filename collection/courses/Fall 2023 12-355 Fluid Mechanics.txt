@@ -1,0 +1,16 @@
+<start course metadata for 12-355 Fluid Mechanics>
+Semester: Fall 2023 (aka F23)
+Course Name: Fluid Mechanics
+Course Number: 12-355
+Department: Civil & Environmental Engineering
+Number of Units: 9
+Prerequisites: 21-260
+Instructors: Kelvin Gregory
+Rooms: PH 107E
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 12-355 Fluid Mechanics>
+
+<start course description for 12-355 Fluid Mechanics>
+Semester: Fall 2023 (aka F23)
+Course Description: The flow of fluids is important in many civil and environmental engineering applications ranging from water infrastructure and coastal engineering to bridge design. This course provides students with an introduction to fundamental concepts and methods in fluid mechanics. Topics covered in the course include fluid properties; pressure, hydrostatics, and buoyancy; open systems and control volume analysis; conservation of mass and momentum for moving fluids; viscous fluid flows and flow in conduits; dimensional analysis and similitude; open channel flows; lift and drag on immersed bodies; and differential analysis. Through application of these concepts, students will develop problem-solving skills and formulate models necessary to study, analyze, and design fluid systems essential to good engineering practice of fluid mechanics. Civil Engineering undergraduates register for section A. Environmental Engineering undergraduates register for section B. All graduate students register for section C.
+</end course description for 12-355 Fluid Mechanics>

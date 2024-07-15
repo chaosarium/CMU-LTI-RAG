@@ -1,0 +1,16 @@
+<start course metadata for 19-819 A/B Testing, Design, and Analysis>
+Semester: Fall 2023 (aka F23)
+Course Name: A/B Testing, Design, and Analysis
+Course Number: 19-819
+Department: Engineering & Public Policy
+Number of Units: 6
+Prerequisites: None
+Instructors: Pedro Ferreira
+Rooms: HBH 1204; HBH 1206
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 19-819 A/B Testing, Design, and Analysis>
+
+<start course description for 19-819 A/B Testing, Design, and Analysis>
+Semester: Fall 2023 (aka F23)
+Course Description: This course looks at how to use A/B testing to measure causal effects in online platforms in the era of big data analytics. We aim at answering questions such as how does the demand for a product change when the price does or the ratings do? How can we anticipate how sales and profits change if the firm changes its business strategy? Facebook, Google, Amazon and similar firms ask and answer questions of this kind everyday using their large online platforms. This course introduces fundamental concepts to correctly ask this type of question. We study frameworks to measure causal effects and we discuss their pros and cons. Every tool is discussed in the context of a specific example that students work on using real world datasets. Significant effort is placed on understanding how to design randomized experiments (aka A/B tests) to measure causal effects. We also discuss the most common challenges that arise when trying to design such experiments in the wild and in network settings. The concepts and tools discussed in this course are general in nature and can be applied in settings other than online platforms such as energy, transportation and education. The examples in class will be mostly drawn from our own work at the Heinz College on the media industry. Lectures are 3 hours long. In the first half of each lecture we go over concepts behind A/B tests and what to do when A/B tests are unavailable. The discussion is based on the ideas and intuition behind these concepts. In the second half of each lecture we go over specific examples -- we study the associated datasets and the code used to analyze them properly. Student evaluation is based on five weekly homeworks and a brief term project to be developed in teams. Instructor: Pedro Ferreira, www.andrew.cmu.edu/user/pedrof Pre-requisites: Knowledge of R or STATA. A class in statistics and regression analysis or permission of the instructor.
+</end course description for 19-819 A/B Testing, Design, and Analysis>

@@ -1,0 +1,16 @@
+<start course metadata for 21-301 Combinatorics>
+Semester: Spring 2024 (aka S24)
+Course Name: Combinatorics
+Course Number: 21-301
+Department: Mathematical Sciences
+Number of Units: 9
+Prerequisites: (21-122) and (21-228 or 15-251)
+Instructors: Alan Lew, Niraj Khare
+Rooms: CMB 2051; PH A18A
+Locations: Doha, Qatar; Pittsburgh, Pennsylvania
+</end course metadata for 21-301 Combinatorics>
+
+<start course description for 21-301 Combinatorics>
+Semester: Spring 2024 (aka S24)
+Course Description: A major part of the course concentrates on algebraic methods, which are relevant in the study of error correcting codes, and other areas. Topics covered in depth include permutations and combinations, generating functions, recurrence relations, the principle of inclusion and exclusion, and the Fibonacci sequence and the harmonic series. Additional topics may include existence proofs, partitions, finite calculus, generating combinatorial objects, Polya theory, codes, probabilistic methods.  (Three 50 minute lectures)
+</end course description for 21-301 Combinatorics>

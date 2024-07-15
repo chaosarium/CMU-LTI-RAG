@@ -1,0 +1,16 @@
+<start course metadata for 48-104 Shop Skills>
+Semester: Fall 2023 (aka F23)
+Course Name: Shop Skills
+Course Number: 48-104
+Department: Architecture
+Number of Units: N/A
+Prerequisites: None
+Instructors: Jon Holmes, Steven Sontag
+Rooms: CFA A9
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-104 Shop Skills>
+
+<start course description for 48-104 Shop Skills>
+Semester: Fall 2023 (aka F23)
+Course Description: This course will introduce basic material assembly methods, and the use of shop machinery, hand and power tools. It prepares students to participate in a wide range of subsequent building and fabrication projects. We will aim to build confidence and safe work habits while demystifying the interactions between tools and physical materials.
+</end course description for 48-104 Shop Skills>

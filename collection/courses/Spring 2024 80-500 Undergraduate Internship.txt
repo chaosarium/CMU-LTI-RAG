@@ -1,0 +1,16 @@
+<start course metadata for 80-500 Undergraduate Internship>
+Semester: Spring 2024 (aka S24)
+Course Name: Undergraduate Internship
+Course Number: 80-500
+Department: Philosophy
+Number of Units: N/A
+Prerequisites: None
+Instructors: Peter Spirtes
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 80-500 Undergraduate Internship>
+
+<start course description for 80-500 Undergraduate Internship>
+Semester: Spring 2024 (aka S24)
+Course Description: Undergraduate Internship for majors in the Philosophy Department.
+</end course description for 80-500 Undergraduate Internship>

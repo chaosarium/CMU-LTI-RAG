@@ -1,0 +1,16 @@
+<start course metadata for 48-734 IDeaTe: Possibilistic Design>
+Semester: Fall 2023 (aka F23)
+Course Name: IDeaTe: Possibilistic Design
+Course Number: 48-734
+Department: Architecture
+Number of Units: 9
+Prerequisites: None
+Instructors: Sinan Goral
+Rooms: HL A10
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-734 IDeaTe: Possibilistic Design>
+
+<start course description for 48-734 IDeaTe: Possibilistic Design>
+Semester: Fall 2023 (aka F23)
+Course Description: Design often favors probability. Rather than just problem solving, design should exploit curiosity, creativity, and criticality. Possibilistic Design is a project-based design seminar that concentrates on how critical design theory and powerful storytelling might pave the way for a more responsible, equitable, and exciting future. By investigating what speculative designers such as Anthony Dunne and Fiona Raby call the "possibilities of things," we will consider design as a tool to unearth how the world could be, or even how it could've been. Students will research multimedia sensing to conceptualize on alternative ways of observing, measuring, and quantifying the spaces around us. We will question why certain experiences make us feel a certain way, what role our senses play in perception, and how we can implement speculative design, conceptualism, and counterfactualism to powerfully reframe an experience. Several short projects will ask students to push the capacities of sight, touch, hearing, smell, taste, and other interstitial senses. The final term project will be to design, render, and prototype a large-scale multisensory tool, wearable, or site-specific installation that augments the ambience of a space or experience. While the course encourages students to engage with digital and physical fabrication, virtual interfacing, animation, electronic prototyping, and basic programming, such tools are not required. Except for a few workshops that will focus on such hard skills, class time will be primarily reserved for precedent study, reading discussion, and design critique.
+</end course description for 48-734 IDeaTe: Possibilistic Design>

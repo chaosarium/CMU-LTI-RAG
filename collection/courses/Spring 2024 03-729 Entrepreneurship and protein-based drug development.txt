@@ -1,0 +1,16 @@
+<start course metadata for 03-729 Entrepreneurship and protein-based drug development>
+Semester: Spring 2024 (aka S24)
+Course Name: Entrepreneurship and protein-based drug development
+Course Number: 03-729
+Department: Biological Sciences
+Number of Units: 6
+Prerequisites: 03-231 or 03-709
+Instructors: Jonathan Minden
+Rooms: SH 236
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 03-729 Entrepreneurship and protein-based drug development>
+
+<start course description for 03-729 Entrepreneurship and protein-based drug development>
+Semester: Spring 2024 (aka S24)
+Course Description: This is a course for students with background in biochemistry who want to learn about business opportunities and advances in protein-based treatments. As protein-based biologic drugs become more and more prevalent understanding the role of protein-protein interactions is vital for both design and production of biologic drugs. We will focus on the fundamentals of protein-interactions, giving examples of protein-protein interactions in important cellular pathways. We will also focus on how protein-protein interactions are used in the processing of biologic drugs, were antibody-Protein A interactions are key for the purification of antibody-based biologics. We will study case-studies of how the pharmaceutical industry develops biologics from conception, through FDA approval, to mass production.
+</end course description for 03-729 Entrepreneurship and protein-based drug development>

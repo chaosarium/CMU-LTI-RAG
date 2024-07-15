@@ -1,0 +1,16 @@
+<start course metadata for 48-640 Praxis 2:>
+Semester: Spring 2024 (aka S24)
+Course Name: Praxis 2:
+Course Number: 48-640
+Department: Architecture
+Number of Units: 18
+Prerequisites: None
+Instructors: Azadeh Sawyer, Jeffrey Davis, Matthew Huber
+Rooms: MM 320
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-640 Praxis 2:>
+
+<start course description for 48-640 Praxis 2:>
+Semester: Spring 2024 (aka S24)
+Course Description: Architecture transforms and shapes relations between individuals, communities, objects and environments. Praxis II will continue to understand architecture as a modulator of complex cultural and historical flows, but will aim to do so by intensively exploring, evaluating, and expanding the role that tectonic cultures and their associated modes of architectural expression play in shaping our world.  Through a non-linear, multi-scalar, iterative design process, small teams will develop and refine detailed architectural assemblies attuned to methods of construction, craft, and labor practices; to the role of structural configurations in organizing the spatial distribution of occupancies and human experiences; to how envelopes regulate and respond to thermal and visual performance while also participating in aesthetic discourse; to ecological synergies and impacts; to modes of participation in carbon culture, including environmental management systems, commuting culture, and other patterns of integration with urban context; and ultimately to the disciplinary imperative to integrate/orchestrate these multiple systems.  Students will develop design skills while negotiating the complex issues of site, program, climate, aesthetics, and performance. Students will use a range of technologies, such as daylighting and radiation simulation, and Virtual Reality, for designing spaces that respect the natural environment and engage human perception.
+</end course description for 48-640 Praxis 2:>

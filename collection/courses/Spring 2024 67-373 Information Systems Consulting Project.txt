@@ -1,0 +1,16 @@
+<start course metadata for 67-373 Information Systems Consulting Project>
+Semester: Spring 2024 (aka S24)
+Course Name: Information Systems Consulting Project
+Course Number: 67-373
+Department: Information Systems Program
+Number of Units: 12
+Prerequisites: 67-272
+Instructors: Joseph Mertz, Julia Poepping
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 67-373 Information Systems Consulting Project>
+
+<start course description for 67-373 Information Systems Consulting Project>
+Semester: Spring 2024 (aka S24)
+Course Description: Information Systems (IS) Consulting Project is a junior level team-based course that focuses on working as a team to build a solution to meet the needs of a client. With your teammates, you will work with an actual client to design, build, and deliver an information system solution while following a disciplined software project life cycle approach. By term's end, your team must provide a sustainable solution that fits the client's objectives, organization constraints and capabilities
+</end course description for 67-373 Information Systems Consulting Project>

@@ -1,0 +1,16 @@
+<start course metadata for 36-466 Special Topics: Statistical Methods in Finance>
+Semester: Fall 2023 (aka F23)
+Course Name: Special Topics: Statistical Methods in Finance
+Course Number: 36-466
+Department: Statistics and Data Science
+Number of Units: 9
+Prerequisites: 36-401
+Instructors: Jiashun Jin
+Rooms: SH 234
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 36-466 Special Topics: Statistical Methods in Finance>
+
+<start course description for 36-466 Special Topics: Statistical Methods in Finance>
+Semester: Fall 2023 (aka F23)
+Course Description: Financial econometrics is the interdisciplinary area where we use statistical methods and economic theory to address a wide variety of quantitative problems in  finance. These include building financial models, testing financial economics theory, simulating financial systems, volatility estimation, risk management, capital asset pricing, derivative pricing, portfolio allocation, proprietary trading, portfolio and derivative hedging, and so on and so forth. Financial econometrics is an active field of integration of finance, economics, probability, statistics, and applied mathematics. Financial activities generate many new problems and products, economics provides useful theoretical foundation and guidance, and quantitative methods such as statistics, probability and applied mathematics are essential tools to solve quantitative problems in finance. Professionals in finance now routinely use sophisticated statistical techniques and modern computation power in portfolio management, proprietary trading, derivative pricing, financial consulting, securities regulation, and risk management.
+</end course description for 36-466 Special Topics: Statistical Methods in Finance>

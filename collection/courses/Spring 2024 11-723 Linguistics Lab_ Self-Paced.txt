@@ -1,0 +1,16 @@
+<start course metadata for 11-723 Linguistics Lab: Self-Paced>
+Semester: Spring 2024 (aka S24)
+Course Name: Linguistics Lab: Self-Paced
+Course Number: 11-723
+Department: Language Technologies Institute
+Number of Units: 6
+Prerequisites: None
+Instructors: Lorraine Levin
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 11-723 Linguistics Lab: Self-Paced>
+
+<start course description for 11-723 Linguistics Lab: Self-Paced>
+Semester: Spring 2024 (aka S24)
+Course Description: Self designed lab.
+</end course description for 11-723 Linguistics Lab: Self-Paced>

@@ -1,0 +1,16 @@
+<start course metadata for 73-102 Principles of Microeconomics>
+Semester: Fall 2023 (aka F23)
+Course Name: Principles of Microeconomics
+Course Number: 73-102
+Department: Economics
+Number of Units: 9
+Prerequisites: None
+Instructors: James Best
+Rooms: DH 2315; HOA 160
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 73-102 Principles of Microeconomics>
+
+<start course description for 73-102 Principles of Microeconomics>
+Semester: Fall 2023 (aka F23)
+Course Description: The course is an introduction to microeconomic principles and how to think like an economist. Market and policy outcomes are largely a function of individual decisions. These questions typically take the form: how much and what combination of things should I buy? When do we want businesses to go bust? Should the government fund student tuition?  It's my hope that you'll also start to think about everyday questions from an economic lens: why were bicycles so hard to find this past summer? Is Uber surge pricing just a rip-off? Is illegal streaming bad for consumers?  Throughout the semester, we will build a toolkit to allow us to understand how these decisions interact and explain market successes, market failures, and the role of government in the marketplace. Toward the end of the semester, we'll change a few underlying assumptions and address a variety of questions related to strategic interaction. Some of the topics we will begin to introduce include credible threats, commitment problems, and the strategic use of information.  Not open to students who have received credit for 73-100. While there are no calculus pre-requisites for this course, students are encouraged to enroll in 73-102 after they've passed 21-111.  (Lecture, 2 hours; Recitation, 1 hour).
+</end course description for 73-102 Principles of Microeconomics>

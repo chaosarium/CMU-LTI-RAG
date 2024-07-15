@@ -1,0 +1,16 @@
+<start course metadata for 85-258 Intro to Health Psychology: Stigma and Its Consequences>
+Semester: Fall 2023 (aka F23)
+Course Name: Intro to Health Psychology: Stigma and Its Consequences
+Course Number: 85-258
+Department: Psychology
+Number of Units: 3
+Prerequisites: None
+Instructors: Michael Trujillo
+Rooms: CMB 1199
+Locations: Doha, Qatar
+</end course metadata for 85-258 Intro to Health Psychology: Stigma and Its Consequences>
+
+<start course description for 85-258 Intro to Health Psychology: Stigma and Its Consequences>
+Semester: Fall 2023 (aka F23)
+Course Description: This course will introduce students to theoretical and empirical psychological research on prejudice and social stigma. The topics covered will include examinations of why individuals stigmatize: exploring cognitive, evolutionary, self, and system justification explanations. The course will examine the consequences of stigmatization for low-status groups (e.g., stereotype threat, dis-identification, internalization, health outcomes). We will explore the role of stigma in intergroup interactions and variation in the experience of stigma. Specific course topics will include the meaning of stigma, why people stigmatize, the physiological, cognitive-affective and social behavioral processes linking stigma and health outcomes, and moderators of stigma.
+</end course description for 85-258 Intro to Health Psychology: Stigma and Its Consequences>

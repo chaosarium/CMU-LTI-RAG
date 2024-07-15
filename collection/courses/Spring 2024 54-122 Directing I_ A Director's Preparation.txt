@@ -1,0 +1,16 @@
+<start course metadata for 54-122 Directing I: A Director's Preparation>
+Semester: Spring 2024 (aka S24)
+Course Name: Directing I: A Director's Preparation
+Course Number: 54-122
+Department: Drama
+Number of Units: 9
+Prerequisites: 54-121
+Instructors: Gab Cody
+Rooms: PCA 118
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-122 Directing I: A Director's Preparation>
+
+<start course description for 54-122 Directing I: A Director's Preparation>
+Semester: Spring 2024 (aka S24)
+Course Description: A continuation of the previous semester focusing on a director's preparation.
+</end course description for 54-122 Directing I: A Director's Preparation>

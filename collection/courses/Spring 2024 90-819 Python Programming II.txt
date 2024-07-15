@@ -1,0 +1,16 @@
+<start course metadata for 90-819 Python Programming II>
+Semester: Spring 2024 (aka S24)
+Course Name: Python Programming II
+Course Number: 90-819
+Department: Public Policy & Mgt:Sch of Pub Pol & Mgt
+Number of Units: 6
+Prerequisites: 90-812
+Instructors: John Ostlund
+Rooms: HBH 1002
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 90-819 Python Programming II>
+
+<start course description for 90-819 Python Programming II>
+Semester: Spring 2024 (aka S24)
+Course Description: This seven-week course is the follow-on to Introduction to Programming with Python. It assumes basic knowledge of Python control constructs, functions, files, data structures, and the numpy library.  The course will cover gathering data from various sources including web scraping, web API's, CSV and other structured data files, and databases; data cleansing; using the pandas library for data analysis; regular expressions and other string processing methods; classes and object-oriented programming; and building real-world software applications.    Please note: Students who complete 90-819 should not go on to take 90-812 Introduction to Programming with Python or 95-888 Data Focused Python.  If you have already completed 95-888 Data Focused Python, you should not register for this course.
+</end course description for 90-819 Python Programming II>

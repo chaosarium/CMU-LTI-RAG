@@ -1,0 +1,16 @@
+<start course metadata for 11-925 Independent Study: Area>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Independent Study: Area
+Course Number: 11-925
+Department: Language Technologies Institute
+Number of Units: N/A
+Prerequisites: None
+Instructors: Instructor TBA
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 11-925 Independent Study: Area>
+
+<start course description for 11-925 Independent Study: Area>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: This course number is intended for individual study with the intended thesis advisor prior to acceptance of a student's thesis proposal.
+</end course description for 11-925 Independent Study: Area>

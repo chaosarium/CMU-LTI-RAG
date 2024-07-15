@@ -1,0 +1,16 @@
+<start course metadata for 84-200 Security War Game Simulation>
+Semester: Fall 2023 (aka F23)
+Course Name: Security War Game Simulation
+Course Number: 84-200
+Department: Institute for Politics and Strategy
+Number of Units: 6
+Prerequisites: None
+Instructors: Kelly Voss
+Rooms: POS 145
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 84-200 Security War Game Simulation>
+
+<start course description for 84-200 Security War Game Simulation>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is a seven-week national security simulation run in coordination with Valens Global in which students will have an assigned role as a state or non-state actor and work within teams to develop policy responses to a security crisis that changes and develops over time, in response to team moves and other factors. The simulation changes each year but generally involves great power competition, directly and through non-state actor proxies. Participants will need to gain an understanding of the facts through a complex information environment that is polluted with misinformation that allows actors to engage in manipulation and deception. Students will learn how to analyze national security problems, develop and analyze options, advocate for their position, negotiate, and work within a team, as well as with other teams.
+</end course description for 84-200 Security War Game Simulation>

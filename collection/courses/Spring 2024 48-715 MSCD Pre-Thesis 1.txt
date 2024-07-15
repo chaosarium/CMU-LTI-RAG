@@ -1,0 +1,16 @@
+<start course metadata for 48-715 MSCD Pre-Thesis 1>
+Semester: Spring 2024 (aka S24)
+Course Name: MSCD Pre-Thesis 1
+Course Number: 48-715
+Department: Architecture
+Number of Units: 6
+Prerequisites: None
+Instructors: Daragh Byrne, Emek Erdolu
+Rooms: MM 307
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-715 MSCD Pre-Thesis 1>
+
+<start course description for 48-715 MSCD Pre-Thesis 1>
+Semester: Spring 2024 (aka S24)
+Course Description: This seminar introduces graduate students in Computational Design to the rudiments of graduate level academic research, and offers a space to discuss inchoate research methods, questions, and projects in the field. Assignments require students to gain familiarity with past and current research in the field in order to distinguish different research traditions, practices, opportunitiesand pitfalls. An emphasis is placed on the materialities and socio-technical infrastructures of computing.
+</end course description for 48-715 MSCD Pre-Thesis 1>

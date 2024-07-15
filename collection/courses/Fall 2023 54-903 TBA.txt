@@ -1,0 +1,16 @@
+<start course metadata for 54-903 TBA>
+Semester: Fall 2023 (aka F23)
+Course Name: TBA
+Course Number: 54-903
+Department: Drama
+Number of Units: 6
+Prerequisites: None
+Instructors: Chelsea Warren, Dick Block, Hugh Hanson, Joe Pino, Lawrence Shea, Mary Stebbins, Mindy Eshelman, Nica Ross, Robert Thomson, Stewart Blackwood, Susan Tsu
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-903 TBA>
+
+<start course description for 54-903 TBA>
+Semester: Fall 2023 (aka F23)
+Course Description: TBD
+</end course description for 54-903 TBA>

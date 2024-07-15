@@ -1,0 +1,16 @@
+<start course metadata for 18-995 Practicum in Electrical and Computer Engineering>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Practicum in Electrical and Computer Engineering
+Course Number: 18-995
+Department: Electrical & Computer Engineering
+Number of Units: N/A
+Prerequisites: None
+Instructors: James Bain
+Rooms: DNM DNM
+Locations: Kigali, Rwanda; Pittsburgh, Pennsylvania
+</end course metadata for 18-995 Practicum in Electrical and Computer Engineering>
+
+<start course description for 18-995 Practicum in Electrical and Computer Engineering>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: None
+</end course description for 18-995 Practicum in Electrical and Computer Engineering>

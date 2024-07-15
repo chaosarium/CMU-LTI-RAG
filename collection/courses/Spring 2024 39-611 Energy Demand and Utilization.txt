@@ -1,0 +1,16 @@
+<start course metadata for 39-611 Energy Demand and Utilization>
+Semester: Spring 2024 (aka S24)
+Course Name: Energy Demand and Utilization
+Course Number: 39-611
+Department: CIT Interdisciplinary
+Number of Units: 6
+Prerequisites: None
+Instructors: Michael Blackhurst
+Rooms: WEH 5421
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 39-611 Energy Demand and Utilization>
+
+<start course description for 39-611 Energy Demand and Utilization>
+Semester: Spring 2024 (aka S24)
+Course Description: This course examines how human demands for energy have evolved over time and how they differ across nations. The course begins from a historical perspective and proceeds to an evaluation of present demand and synthesis of future projections. The course focuses on the technologies used in the different sectors: housing, commerce, food, industry and transportation. Students successfully completing this course will become familiar with a variety of tools for energy analysis and measurement, including some fundamentals of economic analysis, energy efficiency, and demand response. We will also analyze strategies for inducing the adoption of efficient technologies and consumption.
+</end course description for 39-611 Energy Demand and Utilization>

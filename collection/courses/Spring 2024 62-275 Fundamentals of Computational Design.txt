@@ -1,0 +1,16 @@
+<start course metadata for 62-275 Fundamentals of Computational Design>
+Semester: Spring 2024 (aka S24)
+Course Name: Fundamentals of Computational Design
+Course Number: 62-275
+Department: CFA Interdisciplinary
+Number of Units: 9
+Prerequisites: 48-100
+Instructors: Vernelle Noel
+Rooms: CFA 214
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 62-275 Fundamentals of Computational Design>
+
+<start course description for 62-275 Fundamentals of Computational Design>
+Semester: Spring 2024 (aka S24)
+Course Description: As analog mechanisms; as metaphors; as bodily extensions or prosthetics; as material systems; as building envelopes; as partners or slaves? of humans. This course takes computers outside the box and outs a journey of discovery revealing computation as the connective tissue encompassing multiple facets of architectural practice and experience. Addressing conceptual and practical aspects of the relationship between computation and design, the course explores the fundamentals of generative and rule-based systems for designing and making, simulation, and responsiveness, along with basic approaches to creative data processing, representation, and realization.  The course offers a holistic view of computation, exploring the different roles computing plays in the design of our built environment. Organized in two-week modules, the course explores six themes, each combining historical insight, architectural examples, and hands-on design exploration.
+</end course description for 62-275 Fundamentals of Computational Design>

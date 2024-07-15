@@ -1,0 +1,16 @@
+<start course metadata for 18-789 Deep Generative Modeling>
+Semester: Spring 2024 (aka S24)
+Course Name: Deep Generative Modeling
+Course Number: 18-789
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: 18-661 or 18-461
+Instructors: Beidi Chen, Giulia Fanti
+Rooms: HH 1107
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-789 Deep Generative Modeling>
+
+<start course description for 18-789 Deep Generative Modeling>
+Semester: Spring 2024 (aka S24)
+Course Description: This course will explore the basics of deep generative modeling. It will cover state-of-the-art models for image and text/sequence generation, including generative adversarial networks (GANs), variational autoencoders (VAEs), diffusion models, recurrent neural networks (RNNs), and transformers. Students will learn the relative advantages and disadvantages of different model choices, as well as the fundamental design choices that went into each idea. Students will get a chance to explore and present cutting-edge research and will also implement and experiment with generative models through a course project.
+</end course description for 18-789 Deep Generative Modeling>

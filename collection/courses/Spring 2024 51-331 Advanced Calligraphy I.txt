@@ -1,0 +1,16 @@
+<start course metadata for 51-331 Advanced Calligraphy I>
+Semester: Spring 2024 (aka S24)
+Course Name: Advanced Calligraphy I
+Course Number: 51-331
+Department: Design
+Number of Units: 9
+Prerequisites: 51-232
+Instructors: Myrna Rosen
+Rooms: MM 203
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-331 Advanced Calligraphy I>
+
+<start course description for 51-331 Advanced Calligraphy I>
+Semester: Spring 2024 (aka S24)
+Course Description: This course serves a continuation of study in the discipline of calligraphy. (It meets at the same time as Calligraphy I.) Students may take one of two directions in the course. (1) Enlarging their repertoire of scripts, contemporary or traditional, for use in limited areas of work such as book or display work, or (2) Concentrating on more intensive problem solving using a limited repertoire of scripts such as Roman, Italic, Sans Serif.  Prerequisites: 51232
+</end course description for 51-331 Advanced Calligraphy I>

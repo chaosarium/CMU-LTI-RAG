@@ -1,0 +1,16 @@
+<start course metadata for 90-810 Social Movements>
+Semester: Fall 2023 (aka F23)
+Course Name: Social Movements
+Course Number: 90-810
+Department: Public Policy & Mgt:Sch of Pub Pol & Mgt
+Number of Units: 6
+Prerequisites: None
+Instructors: Silvia Borzutzky
+Rooms: HBH 1007
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 90-810 Social Movements>
+
+<start course description for 90-810 Social Movements>
+Semester: Fall 2023 (aka F23)
+Course Description: Both in the U.S. and in other societies, social movements have been at the forefront of economic and political change. In this course, we will explore the complex nature of social movements, the potential impacts of movements, the elements that influence the movement's success, and the relationship between movements and institutions, including the policy and political effects of selected movements. The course will include lectures, class discussions, and presentations by guest speakers.
+</end course description for 90-810 Social Movements>

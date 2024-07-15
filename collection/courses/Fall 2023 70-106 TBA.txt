@@ -1,0 +1,16 @@
+<start course metadata for 70-106 TBA>
+Semester: Fall 2023 (aka F23)
+Course Name: TBA
+Course Number: 70-106
+Department: Business Administration
+Number of Units: 9
+Prerequisites: None
+Instructors: Andres Castano Zuluaga, Bryan Routledge
+Rooms: CMB 2152; TEP 3801
+Locations: Doha, Qatar; Pittsburgh, Pennsylvania
+</end course metadata for 70-106 TBA>
+
+<start course description for 70-106 TBA>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is only available for Business Majors. The focus on the class is on the three core "lenses" used to study and advance the science and practice of business. We will study: the mathematics of optimization, economics, and the behavior in and of organizations. These are the foundations of the disciplines of finance, accounting, marketing, ..., that follow in the curriculum. Over the course of the semester, we will tackle complex multifaceted business problems. Think of examples like, bike-share and the "share-economy," international trade and supply chain, AI and the impact on work. For each case, we will work to apply the three lenses. A pillar for the semester is that business problems are not siloed in narrow disciplines, we must draw resources from disciplines across the entire university. The second pillar of our class is solving all problems - across all of society - requires your understanding of business science. This course may use third-party course material that is not available for individual purchase from the publisher.  If so, the third-party course material will be secured and provided by the Tepper School to students enrolled in the course, and students enrolled in the course will be required to pay to the University the associated additional course materials fee for the third-party course material provided.   The amount of the course materials fee is dependent on the University's cost of the particular materials provided, and typically ranges from $13 to $75.
+</end course description for 70-106 TBA>

@@ -1,0 +1,16 @@
+<start course metadata for 09-510 Chemistry and Sustainability>
+Semester: Spring 2024 (aka S24)
+Course Name: Chemistry and Sustainability
+Course Number: 09-510
+Department: Chemistry
+Number of Units: 9
+Prerequisites: None
+Instructors: Terrence Collins
+Rooms: POS 146
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 09-510 Chemistry and Sustainability>
+
+<start course description for 09-510 Chemistry and Sustainability>
+Semester: Spring 2024 (aka S24)
+Course Description: This course aims to educate students in the foundations of systematic leadership for building a sustainable world. Many sustainability challenges are associated with commercial chemicals and with operational modes of the chemical enterprise. For scientists, effectiveness in solving the technical challenges and redirecting cultural behavior is the defining substance of sustainability leadership. The course aims to challenge students to analyze and understand the root causes of unsustainability, especially in the technological and cultural dimensions of the chemical enterprise, to imagine a more sustainable world and to begin to define personal leadership missions. Students will be introduced to sustainability ethics as the foundation stone of transformative sustainability leadership, to the Collins Code of Sustainability Ethics and to other guiding tools. The Collins Bookcase of Green Science Challenges organizes the technical content. It systematizes the major chemical sustainability challenges of our time: clean synthesis, renewable feed-stocks, safe energy, elemental pollutants, persistent molecular toxicants and endocrine disruptors. Focal areas will be the technical, toxicological and cultural histories of elemental and molecular pollutants and endocrine disruptor (ED) science. EDs represent the single greatest sustainability challenge of everyday chemicals all while we are just beginning to recognize an emerging threat to health and the environment from micro- and nano-plastics which are finding their way into human tissues.  The course is intended for upper level undergraduates and graduates, although many brilliant freshmen have thrived in the course.  The class is limited to 25 students. The assignments are common to both undergraduate and graduate classes offerings with graduates taking additional assignments. (Undergraduate course 9 units 09-510. Graduate course 12 units 09-710) 3 hrs. lec.
+</end course description for 09-510 Chemistry and Sustainability>

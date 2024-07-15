@@ -1,0 +1,16 @@
+<start course metadata for 33-340 Modern Physics Laboratory>
+Semester: Spring 2024 (aka S24)
+Course Name: Modern Physics Laboratory
+Course Number: 33-340
+Department: Physics
+Number of Units: 10
+Prerequisites: 33-234 and (33-331 or 33-338 or 33-341)
+Instructors: Barry Luokkala, John Alison, Simranjeet Singh, Sufei Shi
+Rooms: DH A301D
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 33-340 Modern Physics Laboratory>
+
+<start course description for 33-340 Modern Physics Laboratory>
+Semester: Spring 2024 (aka S24)
+Course Description: Emphasis is on hands-on experience observing important physical phenomena in the lab, advancing the student's experimental skills, developing sophisticated data analysis techniques, writing thorough reports, and improving verbal communication through several oral progress reports given during the semester and a comprehensive oral report on one experiment. Students perform three experiments which are drawn from the areas of atomic, condensed matter, classical, and nuclear and particle physics. Those currently available are the following: Zeeman effect, light scattering, optical pumping, thermal lensing, Raman scattering, chaos, magnetic susceptibility, nuclear magnetic resonance, electron spin resonance, X-ray diffraction, Mössbauer effect, neutron activation of radioactive nuclides, Compton scattering, and cosmic ray muons.
+</end course description for 33-340 Modern Physics Laboratory>

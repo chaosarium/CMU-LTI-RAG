@@ -1,0 +1,16 @@
+<start course metadata for 57-362 Woodwind Methods>
+Semester: Spring 2024 (aka S24)
+Course Name: Woodwind Methods
+Course Number: 57-362
+Department: Music
+Number of Units: 3
+Prerequisites: None
+Instructors: Paul Gerlach
+Rooms: CFA M157
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-362 Woodwind Methods>
+
+<start course description for 57-362 Woodwind Methods>
+Semester: Spring 2024 (aka S24)
+Course Description: This music education course develops basic woodwind playing and teaching techniques for beginning and intermediate instrument classes. The course includes training in beginning band program design, aural & visual diagnosis of individual and ensemble playing problems, and methods of accelerating music reading independence in young players.  The course requires two off-campus field teaching experiences in local schools. Each field teaching experience will require about 3 hours to complete -- students should allow enough time in their schedules to complete this requirement.
+</end course description for 57-362 Woodwind Methods>

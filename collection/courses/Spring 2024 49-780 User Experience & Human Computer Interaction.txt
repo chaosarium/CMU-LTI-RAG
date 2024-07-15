@@ -1,0 +1,16 @@
+<start course metadata for 49-780 User Experience & Human Computer Interaction>
+Semester: Spring 2024 (aka S24)
+Course Name: User Experience & Human Computer Interaction
+Course Number: 49-780
+Department: Integrated Innovation Institute
+Number of Units: 6
+Prerequisites: None
+Instructors: Shyamala Prayaga
+Rooms: B23 109
+Locations: San Jose, California
+</end course metadata for 49-780 User Experience & Human Computer Interaction>
+
+<start course description for 49-780 User Experience & Human Computer Interaction>
+Semester: Spring 2024 (aka S24)
+Course Description: An introduction to the field of Human Computer Interaction. The user interface and experience of a system, to a large measure, is perceived by the user as 'the system'.  Innate human capabilities are discussed to understand how to make appropriate decision in designing user interfaces. Priority registration will be given to students in the Integrated Innovation Institute. Note: The R section of this course is specifically reserved for students in the Part-Time Remote Master of Science in Software Management program.
+</end course description for 49-780 User Experience & Human Computer Interaction>

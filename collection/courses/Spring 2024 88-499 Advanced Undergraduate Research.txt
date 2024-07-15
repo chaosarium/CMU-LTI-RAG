@@ -1,0 +1,16 @@
+<start course metadata for 88-499 Advanced Undergraduate Research>
+Semester: Spring 2024 (aka S24)
+Course Name: Advanced Undergraduate Research
+Course Number: 88-499
+Department: Social & Decision Sciences
+Number of Units: N/A
+Prerequisites: None
+Instructors: Instructor TBA
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 88-499 Advanced Undergraduate Research>
+
+<start course description for 88-499 Advanced Undergraduate Research>
+Semester: Spring 2024 (aka S24)
+Course Description: Students conduct research at an advanced level under the supervision of a Social & Decision Sciences faculty member. Students who wish to engage in advanced research should seek out a faculty member whose interests are appropriate to the research. Students must also complete an "Independent Study/Research for Credit" form, available from the SDS Coordinator of Student Programs in Porter 208A.  Prerequisite: Permission of a faculty sponsor.
+</end course description for 88-499 Advanced Undergraduate Research>

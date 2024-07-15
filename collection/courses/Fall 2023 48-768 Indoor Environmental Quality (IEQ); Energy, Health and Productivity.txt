@@ -1,0 +1,16 @@
+<start course metadata for 48-768 Indoor Environmental Quality (IEQ); Energy, Health and Productivity>
+Semester: Fall 2023 (aka F23)
+Course Name: Indoor Environmental Quality (IEQ); Energy, Health and Productivity
+Course Number: 48-768
+Department: Architecture
+Number of Units: 12
+Prerequisites: None
+Instructors: Nihar Pathak
+Rooms: CFA 303
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-768 Indoor Environmental Quality (IEQ); Energy, Health and Productivity>
+
+<start course description for 48-768 Indoor Environmental Quality (IEQ); Energy, Health and Productivity>
+Semester: Fall 2023 (aka F23)
+Course Description: The course is an introduction to the importance of the indoor environment and human health and productivity. Throughout the semester the course lectures will challenge your intellectual curiosity as it relates to the built environment. The course provides an overview of the metrics utilized to define Indoor Environmental Quality and methods to identify their correlations to energy consumption, health and productivity. During the course, students will also gain a deeper understanding of the correlations between IEQ and energy consumption, health and productivity and their contribution to larger sustainable development goals. Throughout the semester students will analyze case studies and participate in field studies to explore basic methods for measuring IEQ, quantifying IEQ metrics, reporting results and providing recommendations to key stakeholders. The course emphasizes educational facilities, in particular K-12 school buildings as the central building type. As part of the course, students will investigate new methods and advanced strategies to improve IEQ including: air quality, lighting, thermal quality, acoustic conditions, and spatial quality.
+</end course description for 48-768 Indoor Environmental Quality (IEQ); Energy, Health and Productivity>

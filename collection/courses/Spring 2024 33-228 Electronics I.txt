@@ -1,0 +1,16 @@
+<start course metadata for 33-228 Electronics I>
+Semester: Spring 2024 (aka S24)
+Course Name: Electronics I
+Course Number: 33-228
+Department: Physics
+Number of Units: 10
+Prerequisites: 33-107 or 33-132 or 33-112 or 33-142 or 33-152 or 33-122
+Instructors: Jeffrey Peterson, Jyoti Katoch
+Rooms: GHC 4215
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 33-228 Electronics I>
+
+<start course description for 33-228 Electronics I>
+Semester: Spring 2024 (aka S24)
+Course Description: An introductory laboratory and lecture course with emphasis on elementary circuit analysis, design, and testing. We start by introducing basic circuit elements and study the responses of combinations to DC and AC excitations. We then take up transistors and learn about biasing and the behavior of amplifier circuits. The many uses of operational amplifiers are examined and analyzed; general features of feedback systems are introduced in this context. Complex functions are used to analyze all of the above linear systems. Finally, we examine and build some simple digital integrated circuits.
+</end course description for 33-228 Electronics I>

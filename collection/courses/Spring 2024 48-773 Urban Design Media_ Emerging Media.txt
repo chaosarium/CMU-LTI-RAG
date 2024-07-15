@@ -1,0 +1,16 @@
+<start course metadata for 48-773 Urban Design Media: Emerging Media>
+Semester: Spring 2024 (aka S24)
+Course Name: Urban Design Media: Emerging Media
+Course Number: 48-773
+Department: Architecture
+Number of Units: 9
+Prerequisites: None
+Instructors: Suzy Li
+Rooms: PH A19C
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-773 Urban Design Media: Emerging Media>
+
+<start course description for 48-773 Urban Design Media: Emerging Media>
+Semester: Spring 2024 (aka S24)
+Course Description: As urban development takes over natural lands, the climate crisis is a challenge for both urban design and related policy-making, which requires not only advanced analysis support through data inferencing to reveal real-world problems but also mapping techniques to showcase the story to stakeholders. In this course, students will use ArcGIS to map local experiences and large-scale urban systems and use spatial data science to make inferences. Potential advanced ArcGIS skills will be introduced, such as raster imagery analysis to identify urban built environment issues, including urban heat islands, and social inequity; and provide an evidenced-based mapping interface for decision-making. Parametric urban design using grasshopper will be introduced for outdoor design optimization. There will be both lectures and labs with hands-on exercises to prepare for final projects that are on topics of students' own interests. Students are required to take intro ArcGIS course before taking this advanced-level media course.
+</end course description for 48-773 Urban Design Media: Emerging Media>

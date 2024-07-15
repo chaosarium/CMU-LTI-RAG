@@ -1,0 +1,16 @@
+<start course metadata for 92-985 Advanced Project Management>
+Semester: Fall 2023 (aka F23)
+Course Name: Advanced Project Management
+Course Number: 92-985
+Department: Medical Management:Sch of Pub Pol & Mgt
+Number of Units: 4
+Prerequisites: None
+Instructors: Laura Synnott
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 92-985 Advanced Project Management>
+
+<start course description for 92-985 Advanced Project Management>
+Semester: Fall 2023 (aka F23)
+Course Description: In this course, physicians develop a comprehensive plan for a project which they are currently working on or have previously completed. Tools covered in the project management class are utilized, resulting in a plan outlining the scope, schedule, budget, stakeholder communications, risk management and quality management aspects of the project. Measurable objectives and other metrics are utilized to ensure that teams are held accountable for meeting project performance expectations.
+</end course description for 92-985 Advanced Project Management>

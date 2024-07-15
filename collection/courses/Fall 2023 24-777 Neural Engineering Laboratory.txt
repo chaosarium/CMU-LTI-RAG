@@ -1,0 +1,16 @@
+<start course metadata for 24-777 Neural Engineering Laboratory>
+Semester: Fall 2023 (aka F23)
+Course Name: Neural Engineering Laboratory
+Course Number: 24-777
+Department: Mechanical Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Douglas Weber, Matthew Smith
+Rooms: MI 130
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-777 Neural Engineering Laboratory>
+
+<start course description for 24-777 Neural Engineering Laboratory>
+Semester: Fall 2023 (aka F23)
+Course Description: Neural engineering applies classic engineering approaches and principles to understand the nervous system and its function. The measurement of neural activity involves a number of basic tools that have evolved over decades to sense the activity of neurons (individual neurons, populations of neurons and nerve fibers) or activity that is related to neurons (such as the oxygenation of blood in the brain). To intervene in the nervous system, a comparable set of tools have evolved to change neural activity locally or globally, on short and long time scales. The successful application of these methods to measure and manipulate neural activity requires both a basic science and engineering understanding of the principles behind their action, along with practical experience in applying them in real-world settings. This laboratory course will pair lectures with laboratory exercises to gain a deep understanding of the tools we use to measure and manipulate neural activity, as well as the analytic approaches to this data. It will involve both building and diagnosing recording hardware, experimental data collection, data analysis in Matlab or Python, and scientific writing. Overall, the goal is to provide students with a deep understanding of the methods for acquiring experimental data in neuroscience. Familiarity with signal processing and introductory Matlab or Python programming is helpful. This course is suitable for students from diverse backgrounds: (1) Students with experimental backgrounds seeking a range of hands-on experience in different experimental settings and a deeper understanding of different experimental methods, and (2) students with engineering and other quantitative backgrounds seeking exposure to experimental data collection methods and practices.
+</end course description for 24-777 Neural Engineering Laboratory>

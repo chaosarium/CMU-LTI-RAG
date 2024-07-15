@@ -1,0 +1,16 @@
+<start course metadata for 57-799 Beginning Piano Practicum II>
+Semester: Spring 2024 (aka S24)
+Course Name: Beginning Piano Practicum II
+Course Number: 57-799
+Department: Music
+Number of Units: 0
+Prerequisites: 57-779
+Instructors: Luz Manriquez
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-799 Beginning Piano Practicum II>
+
+<start course description for 57-799 Beginning Piano Practicum II>
+Semester: Spring 2024 (aka S24)
+Course Description: TBA
+</end course description for 57-799 Beginning Piano Practicum II>

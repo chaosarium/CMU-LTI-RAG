@@ -1,0 +1,16 @@
+<start course metadata for 48-785 MAAD Research by Design Project>
+Semester: Fall 2023 (aka F23)
+Course Name: MAAD Research by Design Project
+Course Number: 48-785
+Department: Architecture
+Number of Units: 18
+Prerequisites: None
+Instructors: Jeremy Ficca, Joshua Bard
+Rooms: MM 312
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-785 MAAD Research by Design Project>
+
+<start course description for 48-785 MAAD Research by Design Project>
+Semester: Fall 2023 (aka F23)
+Course Description: TBA
+</end course description for 48-785 MAAD Research by Design Project>

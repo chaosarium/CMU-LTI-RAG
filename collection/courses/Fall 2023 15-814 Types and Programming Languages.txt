@@ -1,0 +1,16 @@
+<start course metadata for 15-814 Types and Programming Languages>
+Semester: Fall 2023 (aka F23)
+Course Name: Types and Programming Languages
+Course Number: 15-814
+Department: Computer Science
+Number of Units: 12
+Prerequisites: None
+Instructors: Jan Hoffmann
+Rooms: GHC 4303
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-814 Types and Programming Languages>
+
+<start course description for 15-814 Types and Programming Languages>
+Semester: Fall 2023 (aka F23)
+Course Description: The course studies the theory of type systems, with a focus on applications of type systems to practical programming languages. The emphasis is on the mathematical foundations underlying type systems and operational semantics. The course includes a broad survey of the components that make up existing type systems, and also teaches the methodology behind the design of new type systems.
+</end course description for 15-814 Types and Programming Languages>

@@ -1,0 +1,16 @@
+<start course metadata for 24-677 Modern Control Theory>
+Semester: Fall 2023 (aka F23)
+Course Name: Modern Control Theory
+Course Number: 24-677
+Department: Mechanical Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Ding Zhao
+Rooms: MM A14
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-677 Modern Control Theory>
+
+<start course description for 24-677 Modern Control Theory>
+Semester: Fall 2023 (aka F23)
+Course Description: This course offers a practical introduction to the analysis and design of model-based control for linear systems. Topics include modeling and linearization of multi-input multi-output dynamic systems using the state-variable description, fundamentals of linear algebra (linear space, linear transformation, linear dynamics),  analytical and numerical solutions of systems of linear time-invariant differential and difference equations, structural properties of linear dynamic physical systems (controllability, observability and stability), canonical realizations, and design of state feedforward/feedback, optimal, and stochastic controllers and observers (pole placement, LQR, MPC, Kalman filter approaches). Students will learn how to design linear controllers and implement them to solve real-world problems in control and robotics.
+</end course description for 24-677 Modern Control Theory>

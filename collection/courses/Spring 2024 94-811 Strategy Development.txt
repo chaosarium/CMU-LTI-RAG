@@ -1,0 +1,16 @@
+<start course metadata for 94-811 Strategy Development>
+Semester: Spring 2024 (aka S24)
+Course Name: Strategy Development
+Course Number: 94-811
+Department: Heinz College Wide Courses
+Number of Units: 6
+Prerequisites: None
+Instructors: Laura Synnott
+Rooms: HBH 2008
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 94-811 Strategy Development>
+
+<start course description for 94-811 Strategy Development>
+Semester: Spring 2024 (aka S24)
+Course Description: This course introduces students to frameworks for understanding strategy development and implementation. Through a combination of theory and practice, students will be exposed to processes for formulating a sound, rational business strategy as well as the discipline required to successfully implement that strategy. Course activities and concepts include: 1) situational and environmental analysis, 2) internal capabilities assessment, and 3) appropriate linkage to an organization¿s vision, mission, objectives, and historical performance. In addition, although these processes are most often attributed to private sector operations, this course is designed to consider the similarities and differences of strategy development in government entities and nonprofits as well. There are no prerequisite courses.
+</end course description for 94-811 Strategy Development>

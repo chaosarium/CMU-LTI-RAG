@@ -1,0 +1,16 @@
+<start course metadata for 19-602 Current Topics In Privacy Seminar>
+Semester: Spring 2024 (aka S24)
+Course Name: Current Topics In Privacy Seminar
+Course Number: 19-602
+Department: Engineering & Public Policy
+Number of Units: 3
+Prerequisites: None
+Instructors: Hana Habib, Norman Sadeh
+Rooms: HBH 1002
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 19-602 Current Topics In Privacy Seminar>
+
+<start course description for 19-602 Current Topics In Privacy Seminar>
+Semester: Spring 2024 (aka S24)
+Course Description: In this seminar course students will discuss recent papers and current public policy issues related to privacy. Privacy professionals from industry, government, and non-profits will deliver several guest lectures each semester.
+</end course description for 19-602 Current Topics In Privacy Seminar>

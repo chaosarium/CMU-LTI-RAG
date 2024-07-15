@@ -1,0 +1,16 @@
+<start course metadata for 15-821 Mobile and Pervasive Computing>
+Semester: Fall 2023 (aka F23)
+Course Name: Mobile and Pervasive Computing
+Course Number: 15-821
+Department: Computer Science
+Number of Units: 12
+Prerequisites: None
+Instructors: Asim Smailagic, Mahadev Satyanarayanan
+Rooms: GHC 4303
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-821 Mobile and Pervasive Computing>
+
+<start course description for 15-821 Mobile and Pervasive Computing>
+Semester: Fall 2023 (aka F23)
+Course Description: This is a course exploring research issues in mobile computing and its close relative, pervasive computing (aka "Internet of Things (IoT)").   Many traditional areas of computer science and computer engineering are impacted by the constraints and demands of mobile and pervasive computing. The course will offer significant hands-on experience:  students will work in small groups under the guidance of a mentor on a project. Each student will present a research paper from the literature in a conference-style 30-minute  talk. In teams of two,  students will present a short (30 minutes) overview of the commercial landscape for one of the topics covered in class.  There will a brief quiz at the start of each class, based on the readings  for that class.  Prerequisites Knowledge of operating systems, distributed systems, and computer architecture. If in doubt, check with one of the instructors before registering.
+</end course description for 15-821 Mobile and Pervasive Computing>

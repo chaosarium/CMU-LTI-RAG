@@ -1,0 +1,16 @@
+<start course metadata for 54-332 Scenic Design: Boot Camp>
+Semester: Spring 2024 (aka S24)
+Course Name: Scenic Design: Boot Camp
+Course Number: 54-332
+Department: Drama
+Number of Units: 9
+Prerequisites: 54-250
+Instructors: Chelsea Warren
+Rooms: PCA 305
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-332 Scenic Design: Boot Camp>
+
+<start course description for 54-332 Scenic Design: Boot Camp>
+Semester: Spring 2024 (aka S24)
+Course Description: A rapid-fire design course for scenic design majors.  This course offers the students the opportunity to work on six projects over the course of the semester.  These projects may include contemporary, classical and non-linear plays, as well as TV workshop and a new plays collaboration with dramatic writing students.  Co-taught by Scenic Design faculty.
+</end course description for 54-332 Scenic Design: Boot Camp>

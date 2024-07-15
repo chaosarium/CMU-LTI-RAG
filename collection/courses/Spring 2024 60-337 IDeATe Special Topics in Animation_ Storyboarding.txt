@@ -1,0 +1,16 @@
+<start course metadata for 60-337 IDeATe Special Topics in Animation: Storyboarding>
+Semester: Spring 2024 (aka S24)
+Course Name: IDeATe Special Topics in Animation: Storyboarding
+Course Number: 60-337
+Department: Art
+Number of Units: 6
+Prerequisites: None
+Instructors: Alexa Lim Haas
+Rooms: CMU REMOTE
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 60-337 IDeATe Special Topics in Animation: Storyboarding>
+
+<start course description for 60-337 IDeATe Special Topics in Animation: Storyboarding>
+Semester: Spring 2024 (aka S24)
+Course Description: IDeATe Special Topics in Animation: Storyboarding focuses on the translation of stories and ideas into sequential image boards for animation.  This mini-studio seminar exposes the visual grammar of filmic storytelling through analysis and production of storyboards and animatics.  Over this seven-week course, students will develop their own original storyboards and animatics to be later produced as animation.  Analysis of historical examples will reveal strategies for storytelling through sequential narrative and animation.  Discussion and critique will cultivate storytelling skills with greater understanding for audience, form, and cultural context, providing essential tools for communication through animation and design.
+</end course description for 60-337 IDeATe Special Topics in Animation: Storyboarding>

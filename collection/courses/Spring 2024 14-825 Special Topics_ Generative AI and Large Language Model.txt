@@ -1,0 +1,16 @@
+<start course metadata for 14-825 Special Topics: Generative AI and Large Language Model>
+Semester: Spring 2024 (aka S24)
+Course Name: Special Topics: Generative AI and Large Language Model
+Course Number: 14-825
+Department: Information Networking Institute
+Number of Units: 6
+Prerequisites: None
+Instructors: Mohamed Farag
+Rooms: B23 211; CIC 1201
+Locations: Pittsburgh, Pennsylvania; San Jose, California
+</end course metadata for 14-825 Special Topics: Generative AI and Large Language Model>
+
+<start course description for 14-825 Special Topics: Generative AI and Large Language Model>
+Semester: Spring 2024 (aka S24)
+Course Description: Generative AI has revolutionized the way we interact with machines. With Large Language models, we are now able to find creative solutions to complex problems. While this domain continues to emerge and bring innovative ideas, our focus will be on understanding its core concepts and leveraging the most popular solutions to our benefit. Topics include introduction to Generative AI, Large Language Model Architectures, LLM quantization, prompt design and engineering, and LLM evaluation. Students are expected to have taken at least one AI course and understand the basics of AI models.
+</end course description for 14-825 Special Topics: Generative AI and Large Language Model>

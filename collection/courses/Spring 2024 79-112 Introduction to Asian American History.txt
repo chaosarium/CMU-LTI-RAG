@@ -1,0 +1,16 @@
+<start course metadata for 79-112 Introduction to Asian American History>
+Semester: Spring 2024 (aka S24)
+Course Name: Introduction to Asian American History
+Course Number: 79-112
+Department: History
+Number of Units: 9
+Prerequisites: None
+Instructors: Carl Kubler
+Rooms: PH 226B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 79-112 Introduction to Asian American History>
+
+<start course description for 79-112 Introduction to Asian American History>
+Semester: Spring 2024 (aka S24)
+Course Description: This introductory course surveys the histories of Asian Americans from the early nineteenth century to the present. We will cover major themes such as migration and diaspora, race, labor, citizenship, and identity and community formation as we examine the continuities and discontinuities between the Asian American past and present. Special attention will also be paid to both local and global aspects of Asian American history (in the United States, in other countries of the Americas, and in Asia) as we work to build a more robust understanding of what it means to be "Asian American" and how such social categorizations fit into broader patterns of construction and re-articulation according to varying historical contexts.
+</end course description for 79-112 Introduction to Asian American History>

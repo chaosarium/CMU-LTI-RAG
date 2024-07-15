@@ -1,0 +1,16 @@
+<start course metadata for 42-694 Engineering Principles of Medical Devices>
+Semester: Spring 2024 (aka S24)
+Course Name: Engineering Principles of Medical Devices
+Course Number: 42-694
+Department: Biomedical Engineering
+Number of Units: 9
+Prerequisites: None
+Instructors: Siyang Zheng
+Rooms: WEH 5312
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 42-694 Engineering Principles of Medical Devices>
+
+<start course description for 42-694 Engineering Principles of Medical Devices>
+Semester: Spring 2024 (aka S24)
+Course Description: Medical devices are apparatuses widely used in diagnosis, treatment and prevention of human diseases. The invention and adoption of medical devices is one of the major driving forces for the revolution in modern healthcare. This course takes a systematic and quantitative approach for the design and implementation of medical devices. We will mainly focus on three major medical device categories: bioelectrical devices, biomechanical devices, and medical devices enabled by emerging technologies. For each category, domain knowledge and fundamental principles will be introduced, and detailed design, implementation, and performance analysis will be studied. Analytical equations and simulation tools will be used when appropriate. The course will prepare students with a solid foundation to further study, research, and work in medical device related fields.  Pre-requisite or Co-requisite: 42-202 and (21-120 or 21-122 or 21-259) and (33-141 or 33-142) or permission of instructor
+</end course description for 42-694 Engineering Principles of Medical Devices>

@@ -1,0 +1,16 @@
+<start course metadata for 15-813 HOT Compilation>
+Semester: Spring 2024 (aka S24)
+Course Name: HOT Compilation
+Course Number: 15-813
+Department: Computer Science
+Number of Units: 12
+Prerequisites: None
+Instructors: Karl Crary
+Rooms: WEH 5312
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-813 HOT Compilation>
+
+<start course description for 15-813 HOT Compilation>
+Semester: Spring 2024 (aka S24)
+Course Description: Section H:  Description:  The course covers the implementation of compilers for higher-order typed languages such as ML. Topics include type checking, type directed compilation, elaboration, phase splitting, CPS conversion, closure conversion, allocation, and garbage collection. The course is disjoint from the standard compilers course (15-411); thus, topics such as parsing and code generation are not covered. Students will implement an ML compiler and runtime system as a term project.  Please refer to http://www.cs.cmu.edu/~csd-grad/courseschedules20.html this link for the most recent schedule updates.
+</end course description for 15-813 HOT Compilation>

@@ -1,0 +1,16 @@
+<start course metadata for 60-101 Foundations: Risk, Agency, Failure>
+Semester: Spring 2024 (aka S24)
+Course Name: Foundations: Risk, Agency, Failure
+Course Number: 60-101
+Department: Art
+Number of Units: 10
+Prerequisites: None
+Instructors: Angela Washko, Scott Andrew, Sharmistha Ray
+Rooms: DH B309
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 60-101 Foundations: Risk, Agency, Failure>
+
+<start course description for 60-101 Foundations: Risk, Agency, Failure>
+Semester: Spring 2024 (aka S24)
+Course Description: Foundations: Risk, Agency, Failure is a transdisciplinary research-based studio course introducing you to  the many ways that artists challenge conventions, experiment, and take risks through their artwork. The class will have theory-driven prompts with no specific medium requirements, and encourage you to explore the wide range of approaches to making that constitute artistic research.  You will  explore foundational questions like: What can art uniquely do in the world? How can you playfully work with subjects and materials that are foreign and unfamiliar? How do you define success as an artist? How do you embrace failure as a productive part of the artistic process? How do you become comfortable breaking and remaking rules in art? The class will set up a structure for you to explore productive failure, encouraging you to take risks in a supportive environment and ultimately help you explore their own agency as cultural producers in the world.
+</end course description for 60-101 Foundations: Risk, Agency, Failure>

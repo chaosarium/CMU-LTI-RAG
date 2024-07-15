@@ -1,0 +1,16 @@
+<start course metadata for 48-555 Introduction to Architectural Robotics>
+Semester: Fall 2023 (aka F23)
+Course Name: Introduction to Architectural Robotics
+Course Number: 48-555
+Department: Architecture
+Number of Units: 9
+Prerequisites: None
+Instructors: Joshua Bard
+Rooms: MM C4
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-555 Introduction to Architectural Robotics>
+
+<start course description for 48-555 Introduction to Architectural Robotics>
+Semester: Fall 2023 (aka F23)
+Course Description: This course provides an introduction to industrial robotics and automated fabrication within the field of Architecture. A series of lectures will cover the basic components, as well as their work flows, needed to design flexible automation - while work sessions will develop skills in hands-on programming, RAPID, work flow simulation, fixtures, and sensors.  We will also issue competency-building projects within the lab environment in order to provide students with hands-on experience using the equipment. Upon covering the fundamental software and hardware content, an end-of-semester project will challenge you to apply your newfound knowledge to solve a final prompt.  This is a portal course to all sanctioned coursework using the School of Architecture's Robotic Fabrication Lab. Upon successful completion, students will be eligible and prepared to enroll in advanced robotic fabrication courses.
+</end course description for 48-555 Introduction to Architectural Robotics>

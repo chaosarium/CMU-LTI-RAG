@@ -1,0 +1,16 @@
+<start course metadata for 80-180 Nature of Language>
+Semester: Fall 2023 (aka F23)
+Course Name: Nature of Language
+Course Number: 80-180
+Department: Philosophy
+Number of Units: 9
+Prerequisites: None
+Instructors: Mandy Simons
+Rooms: MM 103
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 80-180 Nature of Language>
+
+<start course description for 80-180 Nature of Language>
+Semester: Fall 2023 (aka F23)
+Course Description: Language is used to talk about the world or to describe it, but how do we go about describing language itself? Linguistics is the name given to the science of language, whose task it is to give such a description. The discipline of linguistics has developed novel tools for describing and analyzing language over the last two hundred years and in this course we learn what these tools are and practice applying them. Sub-areas of linguistics which we study include phonetics (the study of speech sounds), phonology (the study of sound systems), morphology (the study of parts of words), and syntax (the study of combinations of words). Furthermore, we highlight various respects in which language and linguistics intersects with societal issues.  The methods of linguistics are useful in the study of particular languages and in the study of language generally, so this course is useful for students of foreign languages as well as those interested in going on to study language acquisition, psycholinguistics, sociolinguistics, philosophy of language, and computer modeling of language.
+</end course description for 80-180 Nature of Language>

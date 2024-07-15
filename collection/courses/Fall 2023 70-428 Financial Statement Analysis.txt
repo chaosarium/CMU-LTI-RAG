@@ -1,0 +1,16 @@
+<start course metadata for 70-428 Financial Statement Analysis>
+Semester: Fall 2023 (aka F23)
+Course Name: Financial Statement Analysis
+Course Number: 70-428
+Department: Business Administration
+Number of Units: 9
+Prerequisites: 70-122
+Instructors: Pietro Bonaldi
+Rooms: TEP 2612
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 70-428 Financial Statement Analysis>
+
+<start course description for 70-428 Financial Statement Analysis>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is about fundamental analysis using financial statements. We develop and apply technologies for understanding and identifying firm activities that generate shareholder value and for developing valuation benchmarks. The ultimate goal of such analysis is to aid the security valuation and risk analysis exercises. This course is intended to help students establish a good foundation and introduce students the basics of equity and debt analysis techniques. Taking Finance (70-391) before this course is recommended, though not a formal prerequisite. This course may use third-party course material that is not available for individual purchase from the publisher.   If so, the third-party course material will be secured and provided by the Tepper School to students enrolled in the course, and students enrolled in the course will be required to pay to the University the associated additional course materials fee for the third-party course material provided.   The amount of the course materials fee is dependent on the University's cost of the particular materials provided, and typically ranges from $13 to $75.
+</end course description for 70-428 Financial Statement Analysis>

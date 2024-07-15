@@ -1,0 +1,16 @@
+<start course metadata for 84-792 Policy Seminar II>
+Semester: Spring 2024 (aka S24)
+Course Name: Policy Seminar II
+Course Number: 84-792
+Department: Institute for Politics and Strategy
+Number of Units: 3
+Prerequisites: None
+Instructors: Mark Gardner
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 84-792 Policy Seminar II>
+
+<start course description for 84-792 Policy Seminar II>
+Semester: Spring 2024 (aka S24)
+Course Description: In the Policy Seminar course, CMIST graduate students attend seminars across campus to learn how issues they cover in class are being tackled in the professional world. One such seminar, the Policy Forum, regularly brings diplomats, scholars, policymakers, journalists, and other thought leaders to the university to address major issues facing the United States and the world. Students are expected to identify a policy problem related to the seminar issue, ask questions and then write a recommendation on how the seminar relates to their degree. CMIST graduate students will enroll in the three-unit Policy Seminar each semester.
+</end course description for 84-792 Policy Seminar II>

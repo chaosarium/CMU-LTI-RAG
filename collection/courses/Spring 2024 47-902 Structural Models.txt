@@ -1,0 +1,16 @@
+<start course metadata for 47-902 Structural Models>
+Semester: Spring 2024 (aka S24)
+Course Name: Structural Models
+Course Number: 47-902
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Rebecca Lessem
+Rooms: TEP 5219
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 47-902 Structural Models>
+
+<start course description for 47-902 Structural Models>
+Semester: Spring 2024 (aka S24)
+Course Description: This course focuses on empirical research in labor economics. It covers two main topics: labor supply and human capital accumulation. For each of these topics, first theoretical models are presented and then focus is shifted to empirical approaches to estimating these models.
+</end course description for 47-902 Structural Models>

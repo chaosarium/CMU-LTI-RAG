@@ -1,0 +1,16 @@
+<start course metadata for 15-394 Intermediate Rapid Prototyping>
+Semester: Fall 2023 (aka F23)
+Course Name: Intermediate Rapid Prototyping
+Course Number: 15-394
+Department: Computer Science
+Number of Units: 5
+Prerequisites: None
+Instructors: David Touretzky
+Rooms: HL 106B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-394 Intermediate Rapid Prototyping>
+
+<start course description for 15-394 Intermediate Rapid Prototyping>
+Semester: Fall 2023 (aka F23)
+Course Description: This course covers additional topics in rapid prototyping beyond the content of 15-294.  Example topics include mechanism design, procedural shape generation using Grasshopper, 3D scanning and mesh manipulation, and advanced SolidWorks concepts. The only prerequisite is basic familiarity with SolidWorks, which can be obtained via 15-294, from other CMU courses, or from online tutorials.
+</end course description for 15-394 Intermediate Rapid Prototyping>

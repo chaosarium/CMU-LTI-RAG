@@ -1,0 +1,16 @@
+<start course metadata for 09-911 Graduate Seminar>
+Semester: Fall 2023 (aka F23)
+Course Name: Graduate Seminar
+Course Number: 09-911
+Department: Chemistry
+Number of Units: 1
+Prerequisites: None
+Instructors: Yisong Guo
+Rooms: MI 328
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 09-911 Graduate Seminar>
+
+<start course description for 09-911 Graduate Seminar>
+Semester: Fall 2023 (aka F23)
+Course Description: Recent advances in chemistry discussed by graduate students.
+</end course description for 09-911 Graduate Seminar>

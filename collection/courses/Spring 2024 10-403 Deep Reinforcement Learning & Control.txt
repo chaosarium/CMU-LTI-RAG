@@ -1,0 +1,16 @@
+<start course metadata for 10-403 Deep Reinforcement Learning & Control>
+Semester: Spring 2024 (aka S24)
+Course Name: Deep Reinforcement Learning & Control
+Course Number: 10-403
+Department: Machine Learning
+Number of Units: 12
+Prerequisites: 10-301 or 10-315 or 10-401 or 10-601 or 10-701
+Instructors: Katerina Fragkiadaki
+Rooms: GHC 4215
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 10-403 Deep Reinforcement Learning & Control>
+
+<start course description for 10-403 Deep Reinforcement Learning & Control>
+Semester: Spring 2024 (aka S24)
+Course Description: This course brings together many disciplines of Artificial Intelligence (including computer vision, robot control, reinforcement learning, language understanding) to show how to develop intelligent agents that can learn to sense the world and learn to act by imitating others, maximizing sparse rewards, and/or satisfying their curiosity.
+</end course description for 10-403 Deep Reinforcement Learning & Control>

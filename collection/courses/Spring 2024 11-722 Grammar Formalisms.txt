@@ -1,0 +1,16 @@
+<start course metadata for 11-722 Grammar Formalisms>
+Semester: Spring 2024 (aka S24)
+Course Name: Grammar Formalisms
+Course Number: 11-722
+Department: Language Technologies Institute
+Number of Units: 12
+Prerequisites: None
+Instructors: Lorraine Levin
+Rooms: WEH 4707
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 11-722 Grammar Formalisms>
+
+<start course description for 11-722 Grammar Formalisms>
+Semester: Spring 2024 (aka S24)
+Course Description: The goal of this course is to familiarize students with grammar formalisms that are commonly used for research in computational lingusitics, language technologies, and lingusitics. We hope to have students from a variety disciplines (linguistics, computer science, psychology, modern languages, philosophy) in order to cover a broad perspective in class discussions. Comparison of formalisms will lead to a deeper understanding of human language and natural language processing algorithms. The formalisms will include: Head Driven Phrase Structure Grammar, Lexical Functional Grammar, Tree Adjoining Grammar and Categorial Grammar. If time permits, we will cover Penn Treebank, dependency grammar, and Construction Grammar. We will cover the treatment of basic syntactic and semantic phenomena in each formalism, and will also discuss algorithms for parsing and generating sentences for each formalism. If time permits, we may discuss formal language theory and generative capacity.     The course is taught jointly by the following faculty of the Language Technologies Institute:     Alan Black  Alon Lavie  Lori Levin (main coordinator)
+</end course description for 11-722 Grammar Formalisms>

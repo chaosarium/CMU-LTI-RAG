@@ -1,0 +1,16 @@
+<start course metadata for 94-820 Consumer Analytics in Health Care>
+Semester: Spring 2024 (aka S24)
+Course Name: Consumer Analytics in Health Care
+Course Number: 94-820
+Department: Heinz College Wide Courses
+Number of Units: 3
+Prerequisites: None
+Instructors: Madhu Pawar
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 94-820 Consumer Analytics in Health Care>
+
+<start course description for 94-820 Consumer Analytics in Health Care>
+Semester: Spring 2024 (aka S24)
+Course Description: February 17, 18, and 24, 2024.  Consumer Analytics is a growing field that spans industry boundaries, but is rapidly evolving within the health care industry. Patient utilization history and claims data are being used to drive population health programs, website search histories are helping public health officials predict disease outbreaks, and the constant flow of data from wearable devices are reminding us to stand, exercise, and mediate. Health Care consumers now have more access to information - pharmaceutical companies are engaged in direct-to-consumer marketing, patients can look up quality outcomes for their provider, and medication instructional videos are now on YouTube.  This micro mini course will highlight the data sources and insights used by providers, payers and tech companies to understand and influence consumer behavior. Students will gain insight into the descriptive, predictive, and prescriptive analytic methodologies and explore specific use cases alongside industry experts. Topics will also include the social science of behavior change and privacy and ethical implications of collecting and utilizing health data.
+</end course description for 94-820 Consumer Analytics in Health Care>

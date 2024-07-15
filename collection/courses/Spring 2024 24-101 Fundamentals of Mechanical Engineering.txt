@@ -1,0 +1,16 @@
+<start course metadata for 24-101 Fundamentals of Mechanical Engineering>
+Semester: Spring 2024 (aka S24)
+Course Name: Fundamentals of Mechanical Engineering
+Course Number: 24-101
+Department: Mechanical Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Diana Haidar, Satbir Singh
+Rooms: POS 152
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-101 Fundamentals of Mechanical Engineering>
+
+<start course description for 24-101 Fundamentals of Mechanical Engineering>
+Semester: Spring 2024 (aka S24)
+Course Description: The purpose of this course is to introduce the student to the field of mechanical engineering through an exposition of its disciplines, including structural analysis, mechanism design, fluid flows, and thermal systems. By using principles and methods of analysis developed in lectures, students will complete two major projects. These projects will begin with conceptualization, proceed with the analysis of candidate designs, and culminate in the construction and testing of a prototype. The creative process will be encouraged throughout. The course is intended primarily for CIT freshmen.  3 hrs. lec., 2 hrs. rec./lab.
+</end course description for 24-101 Fundamentals of Mechanical Engineering>

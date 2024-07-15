@@ -1,0 +1,16 @@
+<start course metadata for 18-790 Introduction to Deep Learning and Pattern Recognition for Computer Vision Part I>
+Semester: Fall 2023 (aka F23)
+Course Name: Introduction to Deep Learning and Pattern Recognition for Computer Vision Part I
+Course Number: 18-790
+Department: Electrical & Computer Engineering
+Number of Units: 6
+Prerequisites: None
+Instructors: Marios Savvides
+Rooms: SH 234; SH 236
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-790 Introduction to Deep Learning and Pattern Recognition for Computer Vision Part I>
+
+<start course description for 18-790 Introduction to Deep Learning and Pattern Recognition for Computer Vision Part I>
+Semester: Fall 2023 (aka F23)
+Course Description: This course covers the first half of 18794 - Introduction to Deep Learning and Pattern Recognition for Computer Vision, introducing the basic Deep Learning ML techniques in the course.   The course will first introduce Neural networks and how they perform recognition and their evolution to Deep Neural Networks, as well as different DNN backbone architectures (e.g. VGG, ResNet + variations, MobileNets etc.) used for classification. We will overview DL architectures for object detection (to include a large range of algorithms such as anchor-based and anchor free, single stage, two-stage as well as well-known Yolo, SSD, FCOS, CornerNet, Mask-RCNN, DETR and others). We cover object recognition, semantic segmentation (with applications in robot vision, autonomous driving, general scene understanding, medical analysis), and other topics including instance segmentation, loss functions, feature extraction, Transformers, Generative Models, Neural Architecture Search (NAS), low form factor Deep Learning architectures for embedded platforms (e.g., Jetson Nano, AGX), TensorRT for model optimization on Nvidia embedded platforms, and ONNX model conversions.
+</end course description for 18-790 Introduction to Deep Learning and Pattern Recognition for Computer Vision Part I>

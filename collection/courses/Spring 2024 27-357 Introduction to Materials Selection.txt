@@ -1,0 +1,16 @@
+<start course metadata for 27-357 Introduction to Materials Selection>
+Semester: Spring 2024 (aka S24)
+Course Name: Introduction to Materials Selection
+Course Number: 27-357
+Department: Materials Science & Engineering
+Number of Units: 6
+Prerequisites: None
+Instructors: Vincent Sokalski
+Rooms: HH B131
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 27-357 Introduction to Materials Selection>
+
+<start course description for 27-357 Introduction to Materials Selection>
+Semester: Spring 2024 (aka S24)
+Course Description: In this course we follow the design-led approach to evaluate possible materials. In this approach, we start with a property (or combination of properties) which are relevant to a particular design, and then consider what classes of materials and what specific materials meet the design criteria.  The logical path is hence from application to material. We shall give attention to materials fundamentals (such as grains and bonding) where these are relevant and useful to understanding differences between different materials - such as why the elastic modulus of steel cannot be changed by heat treatment or alloying, whereas the strength can be changed a great deal.
+</end course description for 27-357 Introduction to Materials Selection>

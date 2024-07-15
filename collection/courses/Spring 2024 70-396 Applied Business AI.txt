@@ -1,0 +1,16 @@
+<start course metadata for 70-396 Applied Business AI>
+Semester: Spring 2024 (aka S24)
+Course Name: Applied Business AI
+Course Number: 70-396
+Department: Business Administration
+Number of Units: 6
+Prerequisites: 70-122 or 70-391
+Instructors: Bryan Routledge, Vitalii Merso
+Rooms: TEP 2701
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 70-396 Applied Business AI>
+
+<start course description for 70-396 Applied Business AI>
+Semester: Spring 2024 (aka S24)
+Course Description: This mini-semester course explores into the prudent and responsible use of AI assistants in business.  In particular, we will emphasize AI applications, benefits, limitations, ethical considerations, and future implications. The core focus is on employing AI assistants to expedite work without compromising quality (prudent use) while minimizing negative externalities (responsible use). Throughout the course, students will develop and implement a pipeline for prudent and responsible use tailored to specific fields.
+</end course description for 70-396 Applied Business AI>

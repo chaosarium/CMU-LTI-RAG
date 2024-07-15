@@ -1,0 +1,16 @@
+<start course metadata for 36-220 Engineering Statistics and Quality Control>
+Semester: Spring 2024 (aka S24)
+Course Name: Engineering Statistics and Quality Control
+Course Number: 36-220
+Department: Statistics and Data Science
+Number of Units: 9
+Prerequisites: 21-112 or 21-120
+Instructors: Gordon Weinberg
+Rooms: DH 2210
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 36-220 Engineering Statistics and Quality Control>
+
+<start course description for 36-220 Engineering Statistics and Quality Control>
+Semester: Spring 2024 (aka S24)
+Course Description: This is a course in introductory statistics for engineers with emphasis on modern product improvement techniques. Besides exploratory data analysis, basic probability, distribution theory and statistical inference, special topics include experimental design, regression, control charts and acceptance sampling.
+</end course description for 36-220 Engineering Statistics and Quality Control>

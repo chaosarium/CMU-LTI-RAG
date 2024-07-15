@@ -1,0 +1,16 @@
+<start course metadata for 24-291 Environmental Systems on a Changing Planet>
+Semester: Fall 2023 (aka F23)
+Course Name: Environmental Systems on a Changing Planet
+Course Number: 24-291
+Department: Mechanical Engineering
+Number of Units: 9
+Prerequisites: None
+Instructors: Ryan Sullivan
+Rooms: SH 234
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-291 Environmental Systems on a Changing Planet>
+
+<start course description for 24-291 Environmental Systems on a Changing Planet>
+Semester: Fall 2023 (aka F23)
+Course Description: This course introduces the interconnected Earth systems that regulate our climate and ecosystems, providing the resources required to sustain all life, including human societies. Environmental systems are the fascinating connections between the oceans, atmosphere, continents, ecosystems, and people that provide our planet with resources that all life depends on. Human activities disrupt these natural systems, posing critical threats to the sustainable functioning of environmental systems. The course will explore how solar and biochemical energy moves through the Earth's interconnected systems, recycling nutrients; how complex environmental systems function to produce critical resources such as food and water; and how human activities interfere with environmental systems. Case studies include the interplay between climate change feedbacks, wildfires, and forest ecosystems; the hazards that everyday chemical toxins pose to ecosystems and human health and reproduction; and growing threats to ecosystem health and biodiversity. We will also develop the environmental, scientific, and information literacy required to understand current environmental issues that are frequently debated in the public sphere. This course draws on principles learned in high school science and satisfies the science requirement for the interdisciplinary Minor in Environmental and Sustainability Studies.
+</end course description for 24-291 Environmental Systems on a Changing Planet>

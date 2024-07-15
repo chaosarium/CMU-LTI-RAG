@@ -1,0 +1,16 @@
+<start course metadata for 33-445 Advanced Quantum Physics I>
+Semester: Fall 2023 (aka F23)
+Course Name: Advanced Quantum Physics I
+Course Number: 33-445
+Department: Physics
+Number of Units: 9
+Prerequisites: 33-234
+Instructors: Rachel Mandelbaum
+Rooms: DH 1112
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 33-445 Advanced Quantum Physics I>
+
+<start course description for 33-445 Advanced Quantum Physics I>
+Semester: Fall 2023 (aka F23)
+Course Description: Mathematics of quantum theory, linear algebra and Hilbert spaces; review of classical mechanics; problems with classical mechanics; postulates of quantum theory; one dimensional applications; the harmonic oscillator; uncertainty relations; systems with N degrees of freedom, multi-particle states, identical particles; approximation methods. This course has a co-requisite of 33-331.
+</end course description for 33-445 Advanced Quantum Physics I>

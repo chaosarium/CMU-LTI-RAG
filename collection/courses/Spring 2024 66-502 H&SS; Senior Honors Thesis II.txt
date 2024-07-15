@@ -1,0 +1,16 @@
+<start course metadata for 66-502 H&SS; Senior Honors Thesis II>
+Semester: Spring 2024 (aka S24)
+Course Name: H&SS; Senior Honors Thesis II
+Course Number: 66-502
+Department: Dietrich College Interdisciplinary
+Number of Units: 9
+Prerequisites: 66-501
+Instructors: Alex London, Bradford Mahon, Chadi Aoun, Christina Fong, Crista Crittenden, Danny Oppenheimer, David Parker, Divakaran Liginlal, Erik Thiessen, Geoffrey Mcgovern, Houda Bouamor, Ignacio Arana, Instructor TBA, Jay Aronson, Joel Greenhouse, John Oddo, Karen Clay, Kevin Jarbo, Kody Manke-Miller, Laurence Ales, Mame-Fatou Niang, Mariam Wassif, Mark Patterson, Michael Tarr, Savanid  Nui Vatanasakdakul, Sebastien Dubreil, Sharon Dilworth, Stephan Caspar, Timothy Haggerty, Timothy Verstynen, Tom Werner, Vicki Helgeson, Wendy Goldman
+Rooms: DNM DNM
+Locations: Doha, Qatar; Pittsburgh, Pennsylvania
+</end course metadata for 66-502 H&SS; Senior Honors Thesis II>
+
+<start course description for 66-502 H&SS; Senior Honors Thesis II>
+Semester: Spring 2024 (aka S24)
+Course Description: This sequence is open only to those seniors who have been admitted to the H&SS; Senior Honors Program.  This second semester course is the culmination of an original, year-long independent research project.  Research topics are selected by faculty and students.
+</end course description for 66-502 H&SS; Senior Honors Thesis II>

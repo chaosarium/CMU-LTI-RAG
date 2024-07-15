@@ -1,0 +1,16 @@
+<start course metadata for 54-452 Architectural Lighting Design>
+Semester: Spring 2024 (aka S24)
+Course Name: Architectural Lighting Design
+Course Number: 54-452
+Department: Drama
+Number of Units: 4
+Prerequisites: 54-252
+Instructors: Cindy Limauro
+Rooms: PCA 211
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-452 Architectural Lighting Design>
+
+<start course description for 54-452 Architectural Lighting Design>
+Semester: Spring 2024 (aka S24)
+Course Description: The study of Architectural Lighting Design for interior and exterior spaces.
+</end course description for 54-452 Architectural Lighting Design>

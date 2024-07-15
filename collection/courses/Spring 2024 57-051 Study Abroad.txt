@@ -1,0 +1,16 @@
+<start course metadata for 57-051 Study Abroad>
+Semester: Spring 2024 (aka S24)
+Course Name: Study Abroad
+Course Number: 57-051
+Department: Music
+Number of Units: 0
+Prerequisites: None
+Instructors: Sharon Johnston
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-051 Study Abroad>
+
+<start course description for 57-051 Study Abroad>
+Semester: Spring 2024 (aka S24)
+Course Description: None
+</end course description for 57-051 Study Abroad>

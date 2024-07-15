@@ -1,0 +1,16 @@
+<start course metadata for 27-401 MSE Capstone Course I>
+Semester: Fall 2023 (aka F23)
+Course Name: MSE Capstone Course I
+Course Number: 27-401
+Department: Materials Science & Engineering
+Number of Units: 6
+Prerequisites: (27-367) and (27-205 or 27-305) and (27-301)
+Instructors: Robert Heard, Vincent Sokalski
+Rooms: DH A303
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 27-401 MSE Capstone Course I>
+
+<start course description for 27-401 MSE Capstone Course I>
+Semester: Fall 2023 (aka F23)
+Course Description: This is the first of 2 course that together fulfill the Capstone requirement.  This capstone course introduces the student to the methodology used for projects and teams based research as practiced in the Materials Science and Engineering workplace. This is a project course that requires the knowledge relationship among processing, structure, and performance to address an important contemporary problem in materials science and engineering. Student taking this course will work in a team environment to complete a design project to resolve scientific and engineering issues relating to materials.   Research topics will be selected from a list of material problems or research concepts generated from companies or academia - industry research partnerships. This course will establish the research goals, review applicable research methodologies, introduce project management skills and discuss ethical concepts as teams assemble and set their research directions.   On the topic selected, the work product is a report that provides clear definition of the problem being addressed, sets out a methodology for the research, includes a literature review, and reports early experimentation results and provides recommendations for future work.
+</end course description for 27-401 MSE Capstone Course I>

@@ -1,0 +1,16 @@
+<start course metadata for 24-105 Maker Series: Intro to Laser Cutting & Engraving>
+Semester: Spring 2024 (aka S24)
+Course Name: Maker Series: Intro to Laser Cutting & Engraving
+Course Number: 24-105
+Department: Mechanical Engineering
+Number of Units: 1
+Prerequisites: None
+Instructors: Justin Harvilla
+Rooms: HH C101
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-105 Maker Series: Intro to Laser Cutting & Engraving>
+
+<start course description for 24-105 Maker Series: Intro to Laser Cutting & Engraving>
+Semester: Spring 2024 (aka S24)
+Course Description: This course teaches the safe operation of the laser cutter-engraver machine through structured hands-on activities.  A significant portion of this course is dedicated to learning joinery, color mapping, and material selection for prototyping.  Homework assignments are important for reinforcement of skills learned, and are flexible for students to complete guided or self-directed projects.  1-unit micro (2-weeks)
+</end course description for 24-105 Maker Series: Intro to Laser Cutting & Engraving>

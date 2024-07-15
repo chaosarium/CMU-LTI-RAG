@@ -1,0 +1,16 @@
+<start course metadata for 12-356 TBA>
+Semester: Fall 2023 (aka F23)
+Course Name: TBA
+Course Number: 12-356
+Department: Civil & Environmental Engineering
+Number of Units: 2
+Prerequisites: None
+Instructors: Kelvin Gregory
+Rooms: PH 107E
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 12-356 TBA>
+
+<start course description for 12-356 TBA>
+Semester: Fall 2023 (aka F23)
+Course Description: An understanding of fluid mechanics is greatly enhanced by hands-on experimentation and experience with the physical concepts of fluid flows. In this course, students will develop an ability to conduct experiments, take measurements, and analyze and interpret data in fluid mechanics. Topics covered include measurement of fluid properties; static forces on immersed surfaces; continuity and energy; viscous pipe flow; and open channel flow. Students will foster teamwork skills and an ability to creatively develop independent ideas around the description of fluid mechanics through small-group work with experimental apparatus and individual reports on the acquired data.
+</end course description for 12-356 TBA>

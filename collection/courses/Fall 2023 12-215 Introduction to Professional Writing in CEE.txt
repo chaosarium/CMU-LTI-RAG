@@ -1,0 +1,16 @@
+<start course metadata for 12-215 Introduction to Professional Writing in CEE>
+Semester: Fall 2023 (aka F23)
+Course Name: Introduction to Professional Writing in CEE
+Course Number: 12-215
+Department: Civil & Environmental Engineering
+Number of Units: 9
+Prerequisites: None
+Instructors: Andrea Francioni Rooney
+Rooms: PH A7F
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 12-215 Introduction to Professional Writing in CEE>
+
+<start course description for 12-215 Introduction to Professional Writing in CEE>
+Semester: Fall 2023 (aka F23)
+Course Description: The objective of the course is to prepare students for writing technical re­ports and essays assigned in CEE courses and laboratories, writing professional letters and reports for internships and pro­fessional positions, preparing documents in a team setting, delivering individual and team oral presentations, and transforming information for several types of audiences (scientific accommodation).  The course focuses on document purpose, organization and style; basic editing techniques; scientific accommodation; plagiarism and proper par­aphrasing and summa­rizing; evaluating, citing and referencing sources; team communication strategies; oral presentations; and proper use of tables, graphics, and other visual aids in documents and presentations.  Course ac­tivities include in-class exercises, peer workshops, and homework assignments to illustrate examples of good and poor communication and to practice technical communication skills.  Concurrent with lectures and class activities, students draft and revise individual and team technical reports and will give individual and team oral presentations.
+</end course description for 12-215 Introduction to Professional Writing in CEE>

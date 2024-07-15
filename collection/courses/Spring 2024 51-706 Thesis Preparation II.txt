@@ -1,0 +1,16 @@
+<start course metadata for 51-706 Thesis Preparation II>
+Semester: Spring 2024 (aka S24)
+Course Name: Thesis Preparation II
+Course Number: 51-706
+Department: Design
+Number of Units: 3
+Prerequisites: None
+Instructors: Bruce Hanington
+Rooms: MM 215
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-706 Thesis Preparation II>
+
+<start course description for 51-706 Thesis Preparation II>
+Semester: Spring 2024 (aka S24)
+Course Description: Short series of activity-based workshops focused on how to formulate and iterate upon good research questions, scoping an appropriate level of detail for a one-year thesis project in design. Building upon the 51-705 prerequisite in fall, students meet with thesis advisors to craft final proposals in preparation for the Thesis Project required of all second year Master of Design students.
+</end course description for 51-706 Thesis Preparation II>

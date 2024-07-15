@@ -1,0 +1,16 @@
+<start course metadata for 94-470 Telling Stories with Data>
+Semester: Spring 2024 (aka S24)
+Course Name: Telling Stories with Data
+Course Number: 94-470
+Department: Heinz College Wide Courses
+Number of Units: 6
+Prerequisites: None
+Instructors: Christopher Goranson
+Rooms: HBH 2003
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 94-470 Telling Stories with Data>
+
+<start course description for 94-470 Telling Stories with Data>
+Semester: Spring 2024 (aka S24)
+Course Description: Data visualization is the art of understanding how humans understand our visual environment and of applying that knowledge to the visual representation of information. The ability to effectively tell a story through data can be the difference for an initiative being successful, research being remembered, or a story that leads to action. Part art, part science, visualizing data is a process that is both well established in some disciplines while also rapidly changing and evolving in others. Students will learn to critique and create data visualizations using different methods. Students will explore various aspects to visualization as we deconstruct and reconstruct visualizations, learning how others use different approaches to communicate effectively. We'll dig into data in different ways to help our readers understand complex issues, and finally experiment with new ways to represent data about our work, our community, and ourselves. Students will get hands-on training and experimentation with a number of tools, and have some flexibility to concentrate on mediums that best match their desired outcomes and skills for a final project (print, digital, interactive or immersive).
+</end course description for 94-470 Telling Stories with Data>

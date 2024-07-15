@@ -1,0 +1,16 @@
+<start course metadata for 69-136 Basketball Skills>
+Semester: Spring 2024 (aka S24)
+Course Name: Basketball Skills
+Course Number: 69-136
+Department: Physical Education
+Number of Units: 3
+Prerequisites: None
+Instructors: Megan Yawman, Pat Martinellil, Sara Gauntner
+Rooms: CUC W GYM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 69-136 Basketball Skills>
+
+<start course description for 69-136 Basketball Skills>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is designed to familiarize the student with the rules of basketball and to develop the skills needed to become proficient for recreational play.
+</end course description for 69-136 Basketball Skills>

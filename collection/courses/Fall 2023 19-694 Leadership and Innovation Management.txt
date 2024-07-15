@@ -1,0 +1,16 @@
+<start course metadata for 19-694 Leadership and Innovation Management>
+Semester: Fall 2023 (aka F23)
+Course Name: Leadership and Innovation Management
+Course Number: 19-694
+Department: Engineering & Public Policy
+Number of Units: 6
+Prerequisites: None
+Instructors: Jared Cohon
+Rooms: POS 145
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 19-694 Leadership and Innovation Management>
+
+<start course description for 19-694 Leadership and Innovation Management>
+Semester: Fall 2023 (aka F23)
+Course Description: The attributes and skills of the contributors to innovation are important elements in the effectiveness of the innovation process and the success of the outcome.  In this course, we will focus on these skills and attributes, including diversity and inclusion, with an emphasis on the leaders of innovation and innovative organizations.  Selected literature, case studies, and guest lectures by leaders, as well as the instructor's own experience as Carnegie Mellon's eighth president, will be the sources from which the course will draw.  Students will gain insight into the roles they may play in contributing to and leading innovation and organizations and the skills and attributes they will need for success.
+</end course description for 19-694 Leadership and Innovation Management>

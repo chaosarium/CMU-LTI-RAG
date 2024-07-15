@@ -1,0 +1,16 @@
+<start course metadata for 57-988 Advanced Music Studies Studio (Chamber Music)>
+Semester: Fall 2023 (aka F23)
+Course Name: Advanced Music Studies Studio (Chamber Music)
+Course Number: 57-988
+Department: Music
+Number of Units: 18
+Prerequisites: None
+Instructors: Instructor TBA
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-988 Advanced Music Studies Studio (Chamber Music)>
+
+<start course description for 57-988 Advanced Music Studies Studio (Chamber Music)>
+Semester: Fall 2023 (aka F23)
+Course Description: TBA
+</end course description for 57-988 Advanced Music Studies Studio (Chamber Music)>

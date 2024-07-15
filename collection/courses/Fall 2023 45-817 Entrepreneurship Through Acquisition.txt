@@ -1,0 +1,16 @@
+<start course metadata for 45-817 Entrepreneurship Through Acquisition>
+Semester: Fall 2023 (aka F23)
+Course Name: Entrepreneurship Through Acquisition
+Course Number: 45-817
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Leonard Caric
+Rooms: TEP 2110
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-817 Entrepreneurship Through Acquisition>
+
+<start course description for 45-817 Entrepreneurship Through Acquisition>
+Semester: Fall 2023 (aka F23)
+Course Description: Entrepreneurship through Acquisition will explore the different paths to acquiring a company.  Specifically, we will look at self-funding a search, the Search Fund Model and independent sponsoring.  The class will focus on the steps to acquisition and the leadership of a small to medium size business.  We will examine the issues from the point of view of the entrepreneur planning to acquire and then in return for a material equity stake, operate the company as CEO.
+</end course description for 45-817 Entrepreneurship Through Acquisition>

@@ -1,0 +1,16 @@
+<start course metadata for 42-882 Tissue Engineering>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Tissue Engineering
+Course Number: 42-882
+Department: Biomedical Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Rachelle Palchesko
+Rooms: CMU REMOTE
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 42-882 Tissue Engineering>
+
+<start course description for 42-882 Tissue Engineering>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: This course is currently only for those enrolled in the 3D Biofabrication and Bioprinting Certificate program. This course will train students in advanced cellular and tissue engineering methods that apply physical, mechanical and chemical manipulation of materials in order to direct cell and tissue function. Students will learn about the techniques and equipment of bench research including cell culture, immunofluorescent imaging, soft lithography, variable stiffness substrates, application/measurement of forces and other methods. Students will integrate classroom lectures and lab skills by applying the scientific method to develop a unique project while working in a team environment.  Emphasis will be placed on developing the written and oral communication skills required of the professional scientist. The class will culminate with a poster presentation session based on class projects. Additionally, there will be a one week optional on campus experience for those who wish to practice hands-on cell culture skills but do not have access to facilities.
+</end course description for 42-882 Tissue Engineering>

@@ -1,0 +1,16 @@
+<start course metadata for 51-400 Transition Design>
+Semester: Spring 2024 (aka S24)
+Course Name: Transition Design
+Course Number: 51-400
+Department: Design
+Number of Units: 9
+Prerequisites: None
+Instructors: Gideon Kossoff, Terry Irwin
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-400 Transition Design>
+
+<start course description for 51-400 Transition Design>
+Semester: Spring 2024 (aka S24)
+Course Description: Transition Design: Designing for Systems-Level Change. This course will provide an overview of the emerging field of Transition Design, which proposes societal transitions toward more sustainable futures. The idea of intentional (designed) societal transitions has become a global meme and involves an understanding of the complex dynamics of socio-technical-ecological systems which form the context for many of todays wicked problems (climate change, loss of biodiversity, pollution, growing gap between rich/poor, etc.).Through a mix of lecture, readings, classroom activities and projects, students will be introduced to the emerging Transition Design process which focuses on framing problems in large, spatio-temporal contexts, resolving conflict among stakeholder groups and facilitating the co-creation, and transition towards, desirable, long-term futures. This course will prepare students for work in transdisciplinary teams to address large, societal problems that require a deep understanding of the anatomy and dynamics of complex systems.
+</end course description for 51-400 Transition Design>

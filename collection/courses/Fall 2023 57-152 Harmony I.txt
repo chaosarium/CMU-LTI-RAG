@@ -1,0 +1,16 @@
+<start course metadata for 57-152 Harmony I>
+Semester: Fall 2023 (aka F23)
+Course Name: Harmony I
+Course Number: 57-152
+Department: Music
+Number of Units: 9
+Prerequisites: None
+Instructors: Annie Hui-Hsin Hsieh, John Ito, R. James Whipple
+Rooms: CFA A2; CFA M160; HOA 224
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-152 Harmony I>
+
+<start course description for 57-152 Harmony I>
+Semester: Fall 2023 (aka F23)
+Course Description: This course deals with common-practice harmony. It includes triads and their inversions, tonality and modality, non-harmonic tones, cadences, and the basic concepts of modulation. Section assignment is determined by a placement test.
+</end course description for 57-152 Harmony I>

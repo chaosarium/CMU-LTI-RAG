@@ -1,0 +1,16 @@
+<start course metadata for 24-302 Mechanical Engineering Seminar I>
+Semester: Spring 2024 (aka S24)
+Course Name: Mechanical Engineering Seminar I
+Course Number: 24-302
+Department: Mechanical Engineering
+Number of Units: 2
+Prerequisites: None
+Instructors: Elizabeth Walker
+Rooms: SH 234
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-302 Mechanical Engineering Seminar I>
+
+<start course description for 24-302 Mechanical Engineering Seminar I>
+Semester: Spring 2024 (aka S24)
+Course Description: The purpose of this course is to help students develop good presentation skills and to provide a forum for presentations and discussions of professional ethics.  Students will make at least two presentations, one of which is related to professional ethics.  Student grades will be based on their presentation skills and their participation in class discussions.  1 hr. rec.   Prerequisites:  Junior standing or permission of instructor
+</end course description for 24-302 Mechanical Engineering Seminar I>

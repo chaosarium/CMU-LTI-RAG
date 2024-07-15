@@ -1,0 +1,16 @@
+<start course metadata for 05-682 METALS Project 2>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: METALS Project 2
+Course Number: 05-682
+Department: Human-Computer Interaction
+Number of Units: 48
+Prerequisites: 05-681
+Instructors: Bruce McLaren, Kenneth Koedinger
+Rooms: TEP 1403
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 05-682 METALS Project 2>
+
+<start course description for 05-682 METALS Project 2>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: Experiential learning is key component of the METALS program. Through a substantial team project, students apply classroom knowledge in analysis and evaluation, implementation and design, and develop skills working in multidisciplinary teams. The project begins in the spring semester before graduation and continues full-time through the final summer semester; it must be taken in consecutive spring and summer semesters. The course number for spring is 05-681 and for summer 05-682.
+</end course description for 05-682 METALS Project 2>

@@ -1,0 +1,16 @@
+<start course metadata for 98-157 Student Taught Courses (STUCO): Music: Deep-Diving Artists and Genres>
+Semester: Spring 2024 (aka S24)
+Course Name: Student Taught Courses (STUCO): Music: Deep-Diving Artists and Genres
+Course Number: 98-157
+Department: StuCo (Student Led Courses)
+Number of Units: 3
+Prerequisites: None
+Instructors: Stephanie Mao
+Rooms: GHC 4215
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 98-157 Student Taught Courses (STUCO): Music: Deep-Diving Artists and Genres>
+
+<start course description for 98-157 Student Taught Courses (STUCO): Music: Deep-Diving Artists and Genres>
+Semester: Spring 2024 (aka S24)
+Course Description: Deep dive into different genres of music and current events in the music industry such as controversy between sampling and copying, idol culture in the east vs celebrities in the west. In-depth discussions on how specific artists have shaped pop culture in general.
+</end course description for 98-157 Student Taught Courses (STUCO): Music: Deep-Diving Artists and Genres>

@@ -1,0 +1,16 @@
+<start course metadata for 39-602 Additive Manufacturing and Materials>
+Semester: Fall 2023 (aka F23)
+Course Name: Additive Manufacturing and Materials
+Course Number: 39-602
+Department: CIT Interdisciplinary
+Number of Units: 12
+Prerequisites: None
+Instructors: Anthony Rollett
+Rooms: POS 146
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 39-602 Additive Manufacturing and Materials>
+
+<start course description for 39-602 Additive Manufacturing and Materials>
+Semester: Fall 2023 (aka F23)
+Course Description: This course will develop the understanding required for materials science and engineering for additive manufacturing. The emphasis will be on powder bed machines for printing metal parts, reflecting the research emphasis at CMU. The full scope of methods in use, however, will also be covered. The topics are intended to enable students to understand which materials are feasible for 3D printing. Accordingly, high power density welding methods such as electron beam and laser welding will be discussed, along with the characteristic defects. Since metal powders are a key input, powder-making methods will be discussed. Components once printed must satisfy various property requirements hence microstructure-property relationships will be discussed because the microstructures that emerge from the inherently high cooling rates differ strongly from conventional materials. Defect structures are important to performance and therefore inspection. Porosity is a particularly important feature of 3D printed metals and its occurrence depends strongly on the input materials and on the processing conditions. The impact of data science on this area offers many possibilities such as the automatic recognition of materials origin and history. Finally the context for the course will be discussed, i.e. the rapidly growing penetration of the technology and its anticipated impact on manufacturing.
+</end course description for 39-602 Additive Manufacturing and Materials>

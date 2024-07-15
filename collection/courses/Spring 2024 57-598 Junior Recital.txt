@@ -1,0 +1,16 @@
+<start course metadata for 57-598 Junior Recital>
+Semester: Spring 2024 (aka S24)
+Course Name: Junior Recital
+Course Number: 57-598
+Department: Music
+Number of Units: 1
+Prerequisites: None
+Instructors: Alberto Almarza, Andres Cardenes, Andrew Carlisle, Angela Park, Anne Williams, Christopher Allen, Christopher Wu, Craig Knox, Cynthia Dealmeida, David Harding, Frederic Chiu, George Vosburgh, Gretchen Van Hoesen, Instructor TBA, Jack Howell, James Gorton, James Houlik, Jason Kush, Jeffrey Dee, Jeremy Branson, John Marcinizyn, Lance Laduke, Lorna McGhee, Micah Howard, Michael Rusinek, Nancy Goeres, Neal Berntsen, Paul Evans, Peter Sullivan, Rebecca Cherian, Sergey Schepkin, Stephen Kostyniak, William Caballero, William van der Sloot
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-598 Junior Recital>
+
+<start course description for 57-598 Junior Recital>
+Semester: Spring 2024 (aka S24)
+Course Description: A half recital required of all junior performance majors.
+</end course description for 57-598 Junior Recital>

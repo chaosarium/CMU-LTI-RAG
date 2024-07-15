@@ -1,0 +1,16 @@
+<start course metadata for 03-362 Cellular Neuroscience>
+Semester: Fall 2023 (aka F23)
+Course Name: Cellular Neuroscience
+Course Number: 03-362
+Department: Biological Sciences
+Number of Units: 9
+Prerequisites: 03-161 or 03-320 or 03-230 or 42-202 or 85-219
+Instructors: Aryn Gittis
+Rooms: HH B131
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 03-362 Cellular Neuroscience>
+
+<start course description for 03-362 Cellular Neuroscience>
+Semester: Fall 2023 (aka F23)
+Course Description: Modern neuroscience is an interdisciplinary field that seeks to understand the function of the brain and nervous system. This course provides a comprehensive survey of cellular and molecular neuroscience ranging from molecules to simple neural circuits. Topics covered will include the properties of biological membranes, the electrical properties of neurons, neural communication and synaptic transmission, mechanisms of brain plasticity and the analysis of simple neural circuits. In addition to providing information the lectures will describe how discoveries were made and will develop students' abilities to design experiments and interpret data.
+</end course description for 03-362 Cellular Neuroscience>

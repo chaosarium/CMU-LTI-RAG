@@ -1,0 +1,16 @@
+<start course metadata for 57-312 Bagpipe Advanced Theory>
+Semester: Spring 2024 (aka S24)
+Course Name: Bagpipe Advanced Theory
+Course Number: 57-312
+Department: Music
+Number of Units: 3
+Prerequisites: None
+Instructors: Andrew Carlisle
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-312 Bagpipe Advanced Theory>
+
+<start course description for 57-312 Bagpipe Advanced Theory>
+Semester: Spring 2024 (aka S24)
+Course Description: None
+</end course description for 57-312 Bagpipe Advanced Theory>

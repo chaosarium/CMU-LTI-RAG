@@ -1,0 +1,16 @@
+<start course metadata for 45-840 Negotiations>
+Semester: Spring 2024 (aka S24)
+Course Name: Negotiations
+Course Number: 45-840
+Department: Business Administration
+Number of Units: 6
+Prerequisites: 45-742 or 45-740
+Instructors: Catherine Shea
+Rooms: TEP 2202
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-840 Negotiations>
+
+<start course description for 45-840 Negotiations>
+Semester: Spring 2024 (aka S24)
+Course Description: In this course, students will examine the theory and practice of negotiation across a variety of settings. The course is designed to address a broad spectrum of negotiation problems that are faced by managers and professionals. It provides students with the opportunity to develop their negotiation skills experientially in a series of role-playing exercises that highlight various bargaining and negotiation processes. This course is designed to complement the technical and diagnostic skills learned in other courses at the Tepper School. A basic premise of this course is that while a manager needs analytical skills to develop optimal solutions to problems, a broad array of skills is needed for these solutions to be accepted and implemented. Thus the content is relevant to students interested in management, marketing, sales, real estate, consulting, entrepreneurship, mergers and acquisitions, and other fields that require expertise in bargaining, negotiation, and/or dispute resolution. The class will include negotiation exercises, debriefings, class discussions, and lectures.
+</end course description for 45-840 Negotiations>

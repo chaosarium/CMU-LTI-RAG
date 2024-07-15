@@ -1,0 +1,16 @@
+<start course metadata for 85-506 Readings in Psychology>
+Semester: Spring 2024 (aka S24)
+Course Name: Readings in Psychology
+Course Number: 85-506
+Department: Psychology
+Number of Units: N/A
+Prerequisites: None
+Instructors: Instructor TBA
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 85-506 Readings in Psychology>
+
+<start course description for 85-506 Readings in Psychology>
+Semester: Spring 2024 (aka S24)
+Course Description: As the name implies, the emphasis in the reading course is on reading articles and books in some specified area. The students work in the course must lead to the production of a written paper which will be read by a psychology faculty instructor directing the readings. Often the reading is related to a research project which the student may wish to conduct. Reading courses have also been used to give students an opportunity to receive instruction in areas which are not included elsewhere in our course listing. The course may be taken for any number of units up to 9, depending upon the amount of work to be done.  This course is special permission and can only be added in consultation with a psychology faculty member and registered by the Undergraduate administrator, Emilie O'Leary emilier@andrew.cmu.edu.
+</end course description for 85-506 Readings in Psychology>

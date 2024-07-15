@@ -1,0 +1,16 @@
+<start course metadata for 36-710 Advanced Statistical Theory>
+Semester: Fall 2023 (aka F23)
+Course Name: Advanced Statistical Theory
+Course Number: 36-710
+Department: Statistics and Data Science
+Number of Units: 12
+Prerequisites: None
+Instructors: Jing Lei
+Rooms: POS 145
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 36-710 Advanced Statistical Theory>
+
+<start course description for 36-710 Advanced Statistical Theory>
+Semester: Fall 2023 (aka F23)
+Course Description: This is a core Ph.D. course in theoretical statistics. The class will cover a selection of modern topics in mathematical statistics, focussing on high-dimensional parametric models and non-parametric models. The main goal of the course is to provide the students with adequate theoretical background and mathematical tools to read and understand the current statistical literature on high-dimensional models. Topics will include: concentration inequalities, covariance estimation, principal component analysis, penalized linear regression, maximal inequalities for empirical processes, Rademacher and Gaussian complexities, non-parametric regression and minimax theory.
+</end course description for 36-710 Advanced Statistical Theory>

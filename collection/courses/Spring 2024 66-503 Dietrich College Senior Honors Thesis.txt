@@ -1,0 +1,16 @@
+<start course metadata for 66-503 Dietrich College Senior Honors Thesis>
+Semester: Spring 2024 (aka S24)
+Course Name: Dietrich College Senior Honors Thesis
+Course Number: 66-503
+Department: Dietrich College Interdisciplinary
+Number of Units: 18
+Prerequisites: None
+Instructors: Christina Fong
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 66-503 Dietrich College Senior Honors Thesis>
+
+<start course description for 66-503 Dietrich College Senior Honors Thesis>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is a one-semester alternative to the two-semester Dietrich College Senior Honors Thesis sequence 66-501/66-502.  The course is open only to students who have been approved for entry into the Dietrich College Senior Honors Program, and whose senior honors thesis project has been approved as a one-semester undertaking.  Thesis topics are selected by faculty and students, and reviewed and approved through the senior honors program application process.  The thesis culminates in an original independent research or creative project. Dietrich College senior honors students are also required to participate in the annual Meeting of the Minds Undergraduate Research Symposium, offering either an oral presentation or poster session based on their senior honors thesis.
+</end course description for 66-503 Dietrich College Senior Honors Thesis>

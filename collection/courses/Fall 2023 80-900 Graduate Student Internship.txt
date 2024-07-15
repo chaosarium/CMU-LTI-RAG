@@ -1,0 +1,16 @@
+<start course metadata for 80-900 Graduate Student Internship>
+Semester: Fall 2023 (aka F23)
+Course Name: Graduate Student Internship
+Course Number: 80-900
+Department: Philosophy
+Number of Units: N/A
+Prerequisites: None
+Instructors: Adam Bjorndahl
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 80-900 Graduate Student Internship>
+
+<start course description for 80-900 Graduate Student Internship>
+Semester: Fall 2023 (aka F23)
+Course Description: Internship for Philosophy Graduate Students.
+</end course description for 80-900 Graduate Student Internship>

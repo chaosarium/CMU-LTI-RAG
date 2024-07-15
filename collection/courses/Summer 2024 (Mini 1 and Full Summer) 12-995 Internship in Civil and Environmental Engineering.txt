@@ -1,0 +1,16 @@
+<start course metadata for 12-995 Internship in Civil and Environmental Engineering>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Internship in Civil and Environmental Engineering
+Course Number: 12-995
+Department: Civil & Environmental Engineering
+Number of Units: N/A
+Prerequisites: None
+Instructors: Instructor TBA
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 12-995 Internship in Civil and Environmental Engineering>
+
+<start course description for 12-995 Internship in Civil and Environmental Engineering>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: This Section R Course consists on an internship undertaken in absentia from Carnegie Mellon University. Units earned for this course are not eligible for graduate requirements. Enrollment is limited to graduate students in Civil and Environmental Engineering.
+</end course description for 12-995 Internship in Civil and Environmental Engineering>

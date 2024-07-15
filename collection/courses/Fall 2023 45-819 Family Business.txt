@@ -1,0 +1,16 @@
+<start course metadata for 45-819 Family Business>
+Semester: Fall 2023 (aka F23)
+Course Name: Family Business
+Course Number: 45-819
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Meredith Meyer Grelli
+Rooms: TEP 2119
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-819 Family Business>
+
+<start course description for 45-819 Family Business>
+Semester: Fall 2023 (aka F23)
+Course Description: Accounting for 80% of all businesses in the global economy, there is no more significant structure of enterprise worldwide than the family business. Studies show that family firms, on average, outperform and outlast non-family businesses. The family business also represents a uniquely complex enterprise to manage.   This course is geared to students who are involved with management of a family business, whether their own or someone else's. The course will also be useful to those interested in family firms as prospective targets/participants in mergers and acquisitions, as well as students interested in a career supporting family enterprises via succession planning, estate planning, or through management consulting.  Through a rich diversity of media including pop culture films and tv shows, readings, podcasts, and lectures and by exploring students' and guest speakers' own experiences, we will consider family systems, questions around ownership, sources of conflict and effective resolution, attracting and retaining family and non-family talent, estate planning and financing private enterprises.
+</end course description for 45-819 Family Business>

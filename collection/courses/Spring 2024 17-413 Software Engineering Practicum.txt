@@ -1,0 +1,16 @@
+<start course metadata for 17-413 Software Engineering Practicum>
+Semester: Spring 2024 (aka S24)
+Course Name: Software Engineering Practicum
+Course Number: 17-413
+Department: Software & Societal Systems
+Number of Units: 12
+Prerequisites: 17-313
+Instructors: Christopher Timperley
+Rooms: WEH 6403
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 17-413 Software Engineering Practicum>
+
+<start course description for 17-413 Software Engineering Practicum>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is a project-based course in which students conduct a semester-long project for a real client in small teams. This is not a lecture-based course; after the first few weeks the course consists primarily of weekly team meetings with the course instructors, with teams making regular presentations on their software development process. Students will leave the course with a firsthand understanding of the software engineering realities that drive SE practices, will have concrete experience with these practices, and will have engaged in active reflection on this experience. After the course, students will have the teamwork, process, and product skills to be immediately competent in a software engineering organization, and will be able to evaluate the new processes and techniques they will encounter in the workplace.
+</end course description for 17-413 Software Engineering Practicum>

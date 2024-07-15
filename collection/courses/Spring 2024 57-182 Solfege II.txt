@@ -1,0 +1,16 @@
+<start course metadata for 57-182 Solfege II>
+Semester: Spring 2024 (aka S24)
+Course Name: Solfege II
+Course Number: 57-182
+Department: Music
+Number of Units: 3
+Prerequisites: 57-180 or 57-181
+Instructors: Anne Moskal
+Rooms: CFA M160
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-182 Solfege II>
+
+<start course description for 57-182 Solfege II>
+Semester: Spring 2024 (aka S24)
+Course Description: Continues 57-181 Solfege I.
+</end course description for 57-182 Solfege II>

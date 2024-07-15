@@ -1,0 +1,16 @@
+<start course metadata for 54-830 Make-Up for Designers>
+Semester: Spring 2024 (aka S24)
+Course Name: Make-Up for Designers
+Course Number: 54-830
+Department: Drama
+Number of Units: 6
+Prerequisites: None
+Instructors: Brian Russman
+Rooms: PCA A19
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-830 Make-Up for Designers>
+
+<start course description for 54-830 Make-Up for Designers>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is structured as a lecture/demonstration and lab employing and exploring the principles of stage makeup, the variety of materials available and the practical application of these materials.  The course is designed to provide the student with a working knowledge of broad-based application procedures, materials and techniques.  We will also explore the principles of characterization allowing for the development, planning, and execution of effectual character makeup designs.  The student should also be able to determine the stage-worthiness of a makeup application and how light will influence its appearance.
+</end course description for 54-830 Make-Up for Designers>

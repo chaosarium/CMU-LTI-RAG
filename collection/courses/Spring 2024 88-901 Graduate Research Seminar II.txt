@@ -1,0 +1,16 @@
+<start course metadata for 88-901 Graduate Research Seminar II>
+Semester: Spring 2024 (aka S24)
+Course Name: Graduate Research Seminar II
+Course Number: 88-901
+Department: Social & Decision Sciences
+Number of Units: 6
+Prerequisites: None
+Instructors: Gretchen Chapman
+Rooms: PH 223D
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 88-901 Graduate Research Seminar II>
+
+<start course description for 88-901 Graduate Research Seminar II>
+Semester: Spring 2024 (aka S24)
+Course Description: tba
+</end course description for 88-901 Graduate Research Seminar II>

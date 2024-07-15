@@ -1,0 +1,16 @@
+<start course metadata for 16-474 Robotics Capstone>
+Semester: Spring 2024 (aka S24)
+Course Name: Robotics Capstone
+Course Number: 16-474
+Department: Robotics
+Number of Units: 12
+Prerequisites: 16-450
+Instructors: Cameron Riviere, David Wettergreen
+Rooms: NSH 1305
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 16-474 Robotics Capstone>
+
+<start course description for 16-474 Robotics Capstone>
+Semester: Spring 2024 (aka S24)
+Course Description: In this course students refine the design of, build, integrate, test, and demonstrate the robot they designed in the prerequisite Systems Engineering course (16-450). The students are expected to continue to apply the process and methods of systems engineering to track requirements, evaluate alternatives, refine the cyberphysical architectures, plan and devise tests, verify the design, and validate system performance. The course consists of lectures, class meetings, reviews, and a final demonstration. Lectures cover special topics in project management. During class meetings the students and instructor review progress on the project and discuss technical and project-execution challenges. There are three major reviews, approximately at the end of each of the first three months of the semester. For each review, students give a presentation and submit an updated version of the System Design and Development Document. The course culminates in a System Performance Validation Demonstration at the end of the semester. Students also hold a special demonstration of their robotic system for the broader Robotics community.
+</end course description for 16-474 Robotics Capstone>

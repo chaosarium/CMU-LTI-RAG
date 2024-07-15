@@ -1,0 +1,16 @@
+<start course metadata for 82-173 Introduction to Japanese I>
+Semester: Fall 2023 (aka F23)
+Course Name: Introduction to Japanese I
+Course Number: 82-173
+Department: Modern Languages
+Number of Units: 9
+Prerequisites: None
+Instructors: Bo Zhan
+Rooms: PH 126A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 82-173 Introduction to Japanese I>
+
+<start course description for 82-173 Introduction to Japanese I>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is the first part of a two-semester sequence (82-173, 82-174) for students with no background in Japanese. Since it covers the first half of 82-171 in one semester, it is suitable for those students who need sufficient practice time both in and outside of class to begin their study of Japanese. It emphasizes the development of communicative language proficiency through oral practice, aural comprehension, reading, writing, and the study of cultural aspects of Japanese society. Regular homework, quizzes, tests, presentations, and class participation are mandatory (three in-class hours per week plus six hours of required homework). The elementary level is also designed to help students learn to reflect and draw upon strategies used by good language learners in their second language study. Students who intend to minor or major Japanese should consult with their Japanese minor or major advisor before deciding on 82-171 or 82-173.  Students with prior knowledge of Japanese must take the placement exam.
+</end course description for 82-173 Introduction to Japanese I>

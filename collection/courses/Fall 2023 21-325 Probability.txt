@@ -1,0 +1,16 @@
+<start course metadata for 21-325 Probability>
+Semester: Fall 2023 (aka F23)
+Course Name: Probability
+Course Number: 21-325
+Department: Mathematical Sciences
+Number of Units: 9
+Prerequisites: 21-259 or 21-269 or 21-268 or 21-256
+Instructors: Agoston Pisztora
+Rooms: DH 1211; GHC 5222; WEH 8220
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-325 Probability>
+
+<start course description for 21-325 Probability>
+Semester: Fall 2023 (aka F23)
+Course Description: This course focuses on  the understanding of basic concepts in probability theory  and illustrates how these concepts can be applied to develop and analyze a variety  of models arising in computational biology, finance, engineering and computer science. The firm grounding in the fundamentals is aimed at providing students the  flexibility to build and analyze models from diverse applications as well as preparing the interested student for advanced work in these areas.  The course will cover core concepts such as probability spaces, random variables, random vectors, multivariate densities, distributions, expectations, sampling and simulation; independence, conditioning, conditional distributions and expectations;  limit theorems such as the strong law of large numbers and the central limit theorem; as well as additional topics such as large deviations, random walks and Markov chains, as time permits.  (Three 50 minute lectures)
+</end course description for 21-325 Probability>

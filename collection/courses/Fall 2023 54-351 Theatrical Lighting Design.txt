@@ -1,0 +1,16 @@
+<start course metadata for 54-351 Theatrical Lighting Design>
+Semester: Fall 2023 (aka F23)
+Course Name: Theatrical Lighting Design
+Course Number: 54-351
+Department: Drama
+Number of Units: 9
+Prerequisites: 54-252
+Instructors: Robert Thomson
+Rooms: PCA 211
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-351 Theatrical Lighting Design>
+
+<start course description for 54-351 Theatrical Lighting Design>
+Semester: Fall 2023 (aka F23)
+Course Description: The student's ability to analyze and translate information in the script to descriptive stage pictures is developed in a more in-depth process. Verbal, written and visual communication of ideas is emphasized and explored through texts and lab work. Issues of collaboration with the director and other members of the design team are discussed as part of the design process.  Prerequisites: 54252
+</end course description for 54-351 Theatrical Lighting Design>

@@ -1,0 +1,16 @@
+<start course metadata for 54-212 Actor Dance II>
+Semester: Spring 2024 (aka S24)
+Course Name: Actor Dance II
+Course Number: 54-212
+Department: Drama
+Number of Units: 3
+Prerequisites: 54-101 and 54-102 and 54-211
+Instructors: James Caton
+Rooms: PCA 306
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-212 Actor Dance II>
+
+<start course description for 54-212 Actor Dance II>
+Semester: Spring 2024 (aka S24)
+Course Description: Beginning Ballet. A continuation of Classical technique (Ballet) and a unit of social dance styles, waltz, polka, foxtrot, tango, swing.   Course closed: Only for Acting majors in Drama.
+</end course description for 54-212 Actor Dance II>

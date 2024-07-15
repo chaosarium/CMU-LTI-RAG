@@ -1,0 +1,4 @@
+publication venue: Nature Climate Change
+title: Co-benefits of carbon neutrality in enhancing and stabilizing solar and wind energy
+year: 2023
+authors: Yadong Lei, Zhili Wang, Deying Wang, Xiaoye Zhang, H. Che, Xu Yue, Chenguang Tian, J. Zhong, Lifeng Guo, Lei Li, Hao Zhou, Lin Liu, Yangyang Xu

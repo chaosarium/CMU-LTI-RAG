@@ -1,0 +1,16 @@
+<start course metadata for 67-490 Practicum in Information Systems>
+Semester: Spring 2024 (aka S24)
+Course Name: Practicum in Information Systems
+Course Number: 67-490
+Department: Information Systems Program
+Number of Units: N/A
+Prerequisites: None
+Instructors: Daniel Phelps
+Rooms: DNM DNM
+Locations: Doha, Qatar
+</end course metadata for 67-490 Practicum in Information Systems>
+
+<start course description for 67-490 Practicum in Information Systems>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is offered only at Carnegie Mellon's campus in Qatar.  The practicum in information systems allows students interested in applying skills acquired in the field of information systems in the context of a working environment. Students will complete a project and be accountable to a stakeholder that is external to their program of study. They may shadow and observe practices in the field of information systems, and also perform tasks as assigned. A hands-on experience is expected.  By completing this course, students practice desirable skills for employability, such as time management, project management, team work, and professional development.
+</end course description for 67-490 Practicum in Information Systems>

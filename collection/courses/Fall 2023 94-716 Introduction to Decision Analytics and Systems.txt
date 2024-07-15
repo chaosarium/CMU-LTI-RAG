@@ -1,0 +1,16 @@
+<start course metadata for 94-716 Introduction to Decision Analytics and Systems>
+Semester: Fall 2023 (aka F23)
+Course Name: Introduction to Decision Analytics and Systems
+Course Number: 94-716
+Department: Heinz College Wide Courses
+Number of Units: 6
+Prerequisites: None
+Instructors: Amelia Haviland, Raja Sooriamurthi
+Rooms: HBH 1206
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 94-716 Introduction to Decision Analytics and Systems>
+
+<start course description for 94-716 Introduction to Decision Analytics and Systems>
+Semester: Fall 2023 (aka F23)
+Course Description: This course introduces students to the analytics toolkit (data systems, Operations Research, Machine Learning, Statistics. and causal inference) and what it takes to use formulate problems, scope them and understand how to intervene to support decision making to achieve policy objectives. In short, it introduces you to the art and science of translating analytics into action using "curated examples" and case studies from the real world. These case studies will introduce you to key elements of the data-driven and model-based approaches to decision-making. The approaches you will be exposed to in this course find wide application. Examples include the creation of transportation systems (bus, on-demand rideshare, bike share) to equitably serve all neighborhoods, the responsible use of AI in systems to hire people for positions, and optimally delivering covid vaccine boosters to disadvantaged and hard to reach populations.
+</end course description for 94-716 Introduction to Decision Analytics and Systems>

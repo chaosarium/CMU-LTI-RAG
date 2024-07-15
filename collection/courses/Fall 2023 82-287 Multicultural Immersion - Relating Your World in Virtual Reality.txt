@@ -1,0 +1,16 @@
+<start course metadata for 82-287 Multicultural Immersion - Relating Your World in Virtual Reality>
+Semester: Fall 2023 (aka F23)
+Course Name: Multicultural Immersion - Relating Your World in Virtual Reality
+Course Number: 82-287
+Department: Modern Languages
+Number of Units: 6
+Prerequisites: None
+Instructors: Stephan Caspar, Tatiana Usova
+Rooms: 
+Locations: Doha, Qatar
+</end course metadata for 82-287 Multicultural Immersion - Relating Your World in Virtual Reality>
+
+<start course description for 82-287 Multicultural Immersion - Relating Your World in Virtual Reality>
+Semester: Fall 2023 (aka F23)
+Course Description: In this unique course, taught across two campuses in Pittsburgh and CMU-Q, Doha we will explore the ways cultures and identities often intersect, relate and contradict one another. Using Virtual Reality (VR), a technology that provides a type of immersion, we can see the world through other people's points of view. But can we really harness this technology to tell stories about languages and cultures, can we really empathize and understand another culture using VR? To discover the affordances of VR, we will use this immersive technology to tell stories and relate our understanding of the world for others to see, thus exploring cultural understandings. Learning through telecollaboration, in online, virtual and in-person workshops, this will be an opportunity to collaborate, blend ideas, gain valuable skills and build on new experiences. During the course, students will create 360 video outcomes that others will view and experience through headsets and immersive spaces. No technology knowledge is required.
+</end course description for 82-287 Multicultural Immersion - Relating Your World in Virtual Reality>

@@ -1,0 +1,16 @@
+<start course metadata for 57-572 Music and Technology Project>
+Semester: Spring 2024 (aka S24)
+Course Name: Music and Technology Project
+Course Number: 57-572
+Department: Music
+Number of Units: 12
+Prerequisites: None
+Instructors: Jesse Stiles, Riccardo Schulz, Richard Stern, Roger Dannenberg, Sharon Johnston, Thomas Sullivan
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-572 Music and Technology Project>
+
+<start course description for 57-572 Music and Technology Project>
+Semester: Spring 2024 (aka S24)
+Course Description: TBA
+</end course description for 57-572 Music and Technology Project>

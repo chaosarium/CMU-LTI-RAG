@@ -1,0 +1,16 @@
+<start course metadata for 47-739 Topics in Consumer Behavior>
+Semester: Fall 2023 (aka F23)
+Course Name: Topics in Consumer Behavior
+Course Number: 47-739
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Christopher Olivola
+Rooms: TEP 5219
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 47-739 Topics in Consumer Behavior>
+
+<start course description for 47-739 Topics in Consumer Behavior>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is designed with three main goals:   1)    To help you understand what makes for good research in consumer behavior. 2)    To give you an overview of a selection of topics in social and cognitive psychology as they inform consumer behavior and decision-making. 3)    To expose you to a range of methodological techniques that might inspire novel research.
+</end course description for 47-739 Topics in Consumer Behavior>

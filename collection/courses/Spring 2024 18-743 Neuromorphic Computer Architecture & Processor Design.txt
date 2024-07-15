@@ -1,0 +1,16 @@
+<start course metadata for 18-743 Neuromorphic Computer Architecture & Processor Design>
+Semester: Spring 2024 (aka S24)
+Course Name: Neuromorphic Computer Architecture & Processor Design
+Course Number: 18-743
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: 18-740
+Instructors: John Shen
+Rooms: B23 211; GHC 4307
+Locations: Pittsburgh, Pennsylvania; San Jose, California
+</end course metadata for 18-743 Neuromorphic Computer Architecture & Processor Design>
+
+<start course description for 18-743 Neuromorphic Computer Architecture & Processor Design>
+Semester: Spring 2024 (aka S24)
+Course Description: This course focuses on the investigation of biologically inspired neural networks that mimic both the functional behavior as well as organizational structure of the mammalian neocortex, with the objective of engineering silicon-based implementations possessing brain-like capabilities.   This course introduces a taxonomy of Neural Networks (NN), based on: 1) Neuron Model, 2) Neural Coding, and 3) Learning Paradigm. The taxonomy includes three major classes of NNs: Artificial Neural Networks (ANN), Spiking Neural Networks (SNN) and Temporal Neural Networks (TNN). This course focuses mainly on TNNs because of their "neuromorphic" attributes that strongly adhere to biological plausibility. Based on TNNs, this course explores the potential of designing sensory signal processors, or NeuroMorphic Processing Units (NMPUs), that exhibit both brain-like processing performance and brain-like energy efficiency.  In this course, students will work in small teams to pursue semester-long research projects on exploring and prototyping special-purpose NMPUs. These team projects will span applications, architectures, microarchitecture designs, and CMOS implementations of NMPUs. Each team will have the opportunity to define and carry out a specific project with support and guidance from the teaching staff and industry advisors. The team projects can help prepare students for joining industry innovation teams on AI/ML accelerators or academia teams on neuromorphic computing research.  Registration in the course is by invitation only: Student's must send their resume to instructors who will extend invitations to students based on their qualifications and experience.
+</end course description for 18-743 Neuromorphic Computer Architecture & Processor Design>

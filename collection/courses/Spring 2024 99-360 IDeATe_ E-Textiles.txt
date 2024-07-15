@@ -1,0 +1,16 @@
+<start course metadata for 99-360 IDeATe: E-Textiles>
+Semester: Spring 2024 (aka S24)
+Course Name: IDeATe: E-Textiles
+Course Number: 99-360
+Department: Carnegie Mellon University-Wide Studies
+Number of Units: 1
+Prerequisites: None
+Instructors: Lea Albaugh
+Rooms: HL A10
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 99-360 IDeATe: E-Textiles>
+
+<start course description for 99-360 IDeATe: E-Textiles>
+Semester: Spring 2024 (aka S24)
+Course Description: NOTE: The specific meeting dates for the A3 section of this micro course are Jan 27, Feb 3, Feb 17, and Feb 24. In this class, students learn to create active, responsive and flexible textile artifacts using soft circuitry, artisanal sensing, and deployable fabric structures. This course also provides an overview of what has been done in the field, the current state of the art in e-textiles, and the possibilities and difficulties that arise from working with flexible materials.
+</end course description for 99-360 IDeATe: E-Textiles>

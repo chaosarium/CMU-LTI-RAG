@@ -1,0 +1,16 @@
+<start course metadata for 24-791 Graduate Seminar I>
+Semester: Spring 2024 (aka S24)
+Course Name: Graduate Seminar I
+Course Number: 24-791
+Department: Mechanical Engineering
+Number of Units: 0
+Prerequisites: None
+Instructors: Chris Hertz, Kate Whitefoot
+Rooms: SH 105
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-791 Graduate Seminar I>
+
+<start course description for 24-791 Graduate Seminar I>
+Semester: Spring 2024 (aka S24)
+Course Description: Graduate seminar speakers include faculty, students, and invited guests from industry and academia. Through seminars, students widen their perspectives and become more aware of other topics in mechanical engineering
+</end course description for 24-791 Graduate Seminar I>

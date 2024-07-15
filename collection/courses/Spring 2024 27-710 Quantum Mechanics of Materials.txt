@@ -1,0 +1,16 @@
+<start course metadata for 27-710 Quantum Mechanics of Materials>
+Semester: Spring 2024 (aka S24)
+Course Name: Quantum Mechanics of Materials
+Course Number: 27-710
+Department: Materials Science & Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Noa Marom
+Rooms: DH 1209
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 27-710 Quantum Mechanics of Materials>
+
+<start course description for 27-710 Quantum Mechanics of Materials>
+Semester: Spring 2024 (aka S24)
+Course Description: Course Description: Quantum mechanical phenomena enable devices, such as transistors, solar cells, light emitting diodes (LEDs), lasers, and more. This course will cover the foundations of quantum mechanics and solid state physics as they relate to materials properties and device applications. It is intended for graduate students with no background in physics.    Justification: Despite the technological importance of quantum mechanics and solid state physics in device applications, most engineering students receive no rigorous training on these subjects in undergraduate programs.   This course is intended to fill the gap and equip students with foundational knowledge related to many areas of current research in materials science and engineering.  Undergraduates may take with special permission from instructor.
+</end course description for 27-710 Quantum Mechanics of Materials>

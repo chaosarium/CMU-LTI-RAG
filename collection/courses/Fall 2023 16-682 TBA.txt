@@ -1,0 +1,16 @@
+<start course metadata for 16-682 TBA>
+Semester: Fall 2023 (aka F23)
+Course Name: TBA
+Course Number: 16-682
+Department: Robotics
+Number of Units: 15
+Prerequisites: None
+Instructors: Dimitrios Apostolopoulos, John Dolan
+Rooms: GHC 4303
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 16-682 TBA>
+
+<start course description for 16-682 TBA>
+Semester: Fall 2023 (aka F23)
+Course Description: Required core course for MRSD second-year students. This course is the second semester in a two-semester sequence intended to enable student teams to design and implement robot systems from the requirements development phase through implementation, verification, and demonstration of a working prototype. Teams of 4-5 students continue work on a project provided by industrial and academic partners, refine design requirements, refine or create new subsystems, and integrate and demonstrate the full system.
+</end course description for 16-682 TBA>

@@ -1,0 +1,16 @@
+<start course metadata for 53-230 Programming for Game Designers>
+Semester: Spring 2024 (aka S24)
+Course Name: Programming for Game Designers
+Course Number: 53-230
+Department: Entertainment Technology
+Number of Units: 12
+Prerequisites: 15-104 or 60-210 or 15-110 or 15-112 or 60-212
+Instructors: Philip Light
+Rooms: HL 106B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 53-230 Programming for Game Designers>
+
+<start course description for 53-230 Programming for Game Designers>
+Semester: Spring 2024 (aka S24)
+Course Description: Game design sits at the crossroads of many different disciplines--programming, art, writing, design, engineering, psychology, and more. This course takes a practical approach to programming and how it can be used to make one a better game designer. Through individual & collaborative projects, students will learn programming tools, techniques for working with data, methods of working with teams, and prototyping strategies. This course is geared toward non-programmers looking to add programming to their game design toolset.
+</end course description for 53-230 Programming for Game Designers>

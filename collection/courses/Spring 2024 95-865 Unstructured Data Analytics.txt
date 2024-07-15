@@ -1,0 +1,16 @@
+<start course metadata for 95-865 Unstructured Data Analytics>
+Semester: Spring 2024 (aka S24)
+Course Name: Unstructured Data Analytics
+Course Number: 95-865
+Department: Information Systems:Sch of IS & Mgt
+Number of Units: 6
+Prerequisites: 95-888 or 90-819 or 95-898
+Instructors: George Chen
+Rooms: DNM DNM; HBH 1206; HBH A301
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 95-865 Unstructured Data Analytics>
+
+<start course description for 95-865 Unstructured Data Analytics>
+Semester: Spring 2024 (aka S24)
+Course Description: Companies, governments, and other organizations now collect massive amounts of data such as text, images, audio, and video. How do we turn this heterogeneous mess of data into actionable insights? A common problem is that we often do not know what structure underlies the data ahead of time, hence the data often being referred to as "unstructured". This course takes a practical approach to unstructured data analysis via a two-step approach:      We first examine how to identify possible structure present in the data via visualization and other exploratory methods.     Once we have clues for what structure is present in the data, we turn toward exploiting this structure to make predictions.  Many examples are given for how these methods help solve real problems faced by organizations. Along the way, we encounter many of the most popular methods in analyzing unstructured data, from modern classics in manifold learning, clustering, and topic modeling to some of the latest developments in deep neural networks for analyzing text, images, and time series. We will write lots of Python code and also work with Amazon Web Services (AWS) for cloud computing.
+</end course description for 95-865 Unstructured Data Analytics>

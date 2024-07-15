@@ -1,0 +1,192 @@
+MLT Student Handbook 2023 - 2024 
+5 Academic Policies  
+5.1 MLT Academic Policies  
+5.1.1 Duration of Study  
+MLT students enrolled for full -time study are expected to complete the degree in two calendar 
+years (24 months).  This includes two summers of full -time directed research.  
+See also the “ Statute of Lim itations” policy.  
+5.1.2 Double-Dipping 
+A Masters student who uses courses taken as part of another degree program (at Carnegie 
+Mellon or elsewhere) toward their program requirements cannot use those same courses 
+MLT Graduate Student Handbook  Page 21 
+ toward any other M.S. degree offered by the School of Computer Science without prior 
+approval. This is an SCS- wide policy.  
+5.1.3 Pass/Fail Grades  
+Pass/fail grades are not permitted for courses used to satisfy a degree requirement. Graduate 
+students who are required to take additional undergraduate courses to build up the core 
+foundations of computer science may not elect the pass/fail option for these courses.  
+5.1.4 Independent Study  
+For an Independent Study to satisfy a n MLT  student’s coursework requirements, it must be 
+approved by the MLT Program Director in advance .  In consultation with the CMU faculty 
+member who will be supervising the Independent Study, the student should produce a short (half -page to one page) description of the goals of the Independent Study, and how the results 
+will be evaluated, and submit it to the Program Director before the end of the Add period of the semester of the proposed study. The study should be planned so that it is finished in time for the supervising faculty member to give a grade at the end of the semester.  Independent studies may be undertaken for 6 or 12 units. Normally only one Independent Study would be 
+approved during a student’s MLT coursework.  
+5.1.5 Transfer Credit  
+An equivalent graduate course previously completed at another institution may be permitted to 
+satisfy one of the MLT course requirements. The decision on whether a course may be 
+transferred is made by the MLT Program Director. Typically , the student will provide the 
+Program Director with the syllabus of the external course, and the Program Director will use that and the student’s transcript to make the decision.  
+See the section on “Definition of transfer credit versus course exemption .” 
+All MLT students are required to take a minimum of 96 units of coursework at CMU.  
+5.1.6 External Internships 
+MLT students may only engage in internships if their advisors recommend it, since the program is 24 months, including summers. International students are required to consult with the Office 
+of International Education for eligibility before  seeking an internship/co -op or signing a n offer 
+contract.  
+We caution all students to be aware of potential intellectual property (IP) problems with internships, and to review any IP agreements with their advisors before signing them. It is possible to lose ownership of your ideas.  
+Important:  See also section 4.2.3, External Employment/Consulting.  
+MLT Graduate Student Handbook  Page 22 
+ 5.1.7 Transferring Into the MLT Program  
+Transfers into the MLT program are not permitted during a student’s first semester at CMU. 
+Students must begin their study at CMU in the program that admitted them; this  is a university 
+policy.  
+Students may request to transfer into the MLT program after completing their first semester. The student must make the request in writing (or email) to the MLT/PhD Admissions Chair. The 
+MLT/PhD Admissions Chair will inform the student about what application materials are 
+required;  for example, an explanation of why a transfer is desired, a proposed plan of study, a 
+proposed advisor, and CMU transcripts. Students that are already enrolled in an LTI degree program are not required to retake GRE and TOEFL exams or to produce new transcripts from other universities. The MLT program will conduct an expedited admissions process after receiving such a request.   
+5.1.8 Transferring Out of the MLT Program  
+The MLT program does not prevent students from transferring to another degree program. Each degree program has its own rules about whether and when transfers into the program are permitted. A student that is interested in transferring out of the MLT degree program should 
+consult the handbook and Pr ogram Director of the desired degree program to learn whether 
+transfers are permitted, and if so, how and when to request such a transfer.  
+5.1.9 Drop/Add/Withdraw Procedures  
+Students taking undergraduate and Masters’ level courses must follow the procedures and 
+deadlines for adding, dropping, and withdrawing from courses as identified on the academic 
+calendar. Information can be found at https://www.cmu.edu/hub/registrar/course-
+changes.index . Please note that there is a separate calendar for doctoral courses that does not 
+apply to Masters’ students.  
+5.1.10   Statute of Limitations  
+As outlined in the Master’s Students Statute of Limitations, 
+https://www.cmu.edu/policies/student-and-student- life/masters -students-statute- of- 
+limitations.html. Students will complete all requirements for the m a sters’ degree within a 
+maximum of seven years from original matriculation as a masters’  student, or less if required by 
+a more restrictive department, school, or college policy.  Once this time -to-degree limit has 
+lapsed, the person may resume work towards a masters’ degree only if newly admitted to a 
+currently offered master s’ degree program under criteria determined by that program.  
+See also the ‘Duration of Study’ policy.  
+MLT Graduate Student Handbook  Page 23 
+ 5.1.11   Teaching Requirements  
+MLT students do not normally serve as Teaching Assistants (TAs).  If an MLT student wants to 
+TA a course, they must get the approval of their research advisor.  
+In the unusual case of an MLT student TAing, note that graduate students are required to have a certain level of fluency in English before they can instruct in Pennsylvania, as required by the English Fluency in Higher Education Act of 1990. Through this Act, all institutions of higher 
+education in the state are required to evaluate and certify the English fluency of all instructional 
+personnel, including teaching assistants and interns. The full University policy can be reviewed at 
+https://www.cmu.edu/policies/faculty/evaluation- certification -english -fluency-
+instructors.html . 
+The fluency of all instructional personnel will be rated by Language Support in the S tudent 
+Academic Success Center to determine at what level of responsibility the student can TA. In addition to administering the International Teaching Assistant (ITA) Test (a mandatory screening for all non -native speakers of English), Language Support in the Student Academic 
+Success Center helps teaching assistants who are non- native English speakers develop fluency 
+and cultural understanding to teach successfully at Carnegie Mellon. Visit the Student Academic 
+Success Center website for additional information: https://www.cmu.edu/student- success/
+.  
+5.2 LTI Academic Policies  
+5.2.1 “Grandfather” policy  
+A student can graduate under the policies in effect at the time that the student entered the 
+program; or, at the student's choice, the student can graduate under policies that are adopted after the student entered the program. If it is not realistic to follow a particular policy exactly, the department may approximate the policy as closely as possible; this situation is rare and typically arises only when a student is enrolled in the program for an extended period of time.  
+5.2.2 Definition of transfer credit  versus course exemption  
+The LTI may grant transfer credit or issue an exemption  for equivalent graduate courses 
+previously completed at another institution. This decision rests with the chair of the particular program. If a student is exempt  from a required course due to prior courses or experience, the 
+student can replace that course with an open elective. The student does not receive credit for the external course, but can take any course that could normally count toward the degree in its place. If a student receives c redit  for prior coursework completed at CMU or elsewhere, the 
+student receives that many units of credit, and the total amount of required coursework is 
+reduced by that amount.  
+MLT Graduate Student Handbook  Page 24 
+ 5.2.3 External Employment/Consulting  
+Students funded by LTI research projects are nor mally expected to work exclusively for those 
+projects. Since consulting may provide  useful experience, students are generally permitted to 
+consult, at most , one eight -hour day per seven -day week, only with the advisor's consent. 
+International students must also have approval in advance from the Office of International 
+Education (OIE); otherwise, they may be in violation of their visa status.  
+Important: Any work for pay outside of the funding research project must be approved in 
+advance by the advisor (and OIE, for international students).   This includes paid TAing, 
+consulting, online free -lancing, etc.  
+5.2.4 Leave of Absence  
+The LTI discourages Leaves of Absence (LOA), since students usually do not return, despite good intentions. However, a student in good standing may be granted a LOA of at most 1 year, upon written request to the Program Director and with consent of the student's advisor. It is the 
+responsibility of the student on LOA to contact the LTI to initiate a return to the program.  
+5.2.5 Satisfactory Progress  
+If a student does not make satisfactory progress each semester toward completing the degree, 
+the LTI may remove the student from the program.  See section on “End of Semester 
+Evaluation .” 
+5.2.6 Winter and Summer Breaks  
+Students supported by research projects are expected to remain on campus working during breaks in classes. A two -week vacation is ty pically allowed in the summer. The normal winter 
+break policy is that the student works 40 hours per week for two weeks, and takes vacation for the other two weeks.  
+5.3 CMU Academic Policies  
+5.3.1 Assistance for Individuals with Disabilities 
+http://www.cmu.edu/disability- resources   
+The Office of Disability Resources at Carnegie Mellon University has a continued mission to provide physical and programmatic campus access to all events and information within the Carnegie Mellon community.  We work to ensure that qualified individuals rec eive reasonable 
+accommodations as guaranteed by the Americans with Disabilitie s Act (ADA) and Section  504 of 
+the Rehabilitation Act of 1973.  Students who would like to receive accommodations can begin 
+MLT Graduate Student Handbook  Page 25 
+ the process through Disability Resources’ secure online portal  or email 
+access@andrew.cmu.edu  to begin the interactive accommodation proce ss.   
+Students with physical, sensory, cognitive, or emotional disabilities are encouraged to self -
+identify with the Office of Disability Resources and request needed accommodations. Any 
+questions about the process can be directed to access@andrew.cmu.edu  or call 412 -268- 6121.  
+5.3.2 Summary of Graduate Student Appeal and Grievance Procedures  
+https://www.cmu.edu/graduate/policies/appeal- grievance -procedures.html  
+Graduate students will find the Summary of Graduate Student Appeal and Grievance Procedures on the Graduate Education Resource webpage. This document summarizes  
+processes available to graduate students who seek review of academic and non- academic 
+issues. Generally, graduate students are expected to seek informal resolution of all concerns within the applicable department, unit, or program before invoking formal p rocesses. When an 
+informal resolution cannot be reached, however, a graduate student who seeks further review of the matter is to follow the for mal procedures outlined here. T hese appeal and grievance 
+procedures shall apply to students in all graduate programs of the University. Students should refer to the department specific information in this handbook for department and college 
+information about the administration and aca demic policies of the program.  
+ 
+5.3.3 Process for Appealing Final Grades  
+https://www.cmu.edu/student-affairs/theword/academic/appeal -of-grades -and academic -
+actions.html    
+Final grades will be changed only in exceptional circumstances and only with the approval of 
+the instructor and the department, unit, or program. Grading is a  matter of sound discretion of 
+the instructor, and final grades are rarely changed without the consent of the instructor who assigned the grade. The following circumstances are the unusual exceptions that may warrant a grade appeal:  
+a) The final grade assigned for a course is based on manifest error (e.g., a clear error such as arithmetic error in computing a grade or failure to grade one of the answers on an exam)  
+b) The faculty or staff member who assigned the grade did so in violation of 
+University policy.  
+ 
+MLT Graduate Student Handbook  Page 26 
+ 5.3.4 Safeguarding Educational Equity:  
+Sexual Misconduct Policy  
+The University prohibits sex -based discrimination, sexual harassment, sexual assault, dating/ 
+domestic violence, and stalking.  The University also prohibits retaliation against individuals 
+who bring forward such concerns or allegations in good faith.  The University’s Sexual 
+Misconduct Policy is available at https://www.cmu.edu/policies/administrative -and-
+governance/sexual -misconduct/index.html .  The University’s Policy Against Retaliation is available 
+at https://www.cmu.edu/policies/administrative -and-governance/whistleblower.html .  If you have 
+been impacted by any of these issues, you are encouraged to  make contact with any of the 
+following resources:  
+•    Offic e of Title IX Initiatives,  https://www.cmu.edu/title-ix/    412- 268-7125, tix@cmu.edu  
+•    University Police, 412 -268-2323  
+Additional resources and information can be found at:  https://www.cmu.edu/title-ix/resources-
+and-information/resources.html . 
+ 
+5.3.5 Gestational and Parental  Accommodatio n 
+https://www.cmu.edu/graduate/programs- services/maternity -accommodation protocol.html   
+ 
+Providing holistic student support is a top priority at Carnegie Mellon. The protocols on this page are designed to support the parental needs of students and their families.  
+Students seeking any of the parental accommodations described below must register with the Office of the Dean of Students by contacting the office for an appointment by calling 412-268- 2075.  
+Students are encouraged to register with the Office of the Dean of Students ninety (90) days in advance of the anticipated arrival of the child as applicable in the individual circumstances. At 
+the time  of registration, students will have the opportunity to consult about resources, 
+procedures, funding options, and preparation for discussing academic accommodations with 
+the student’s academic department. Students should also consult with their academic advisors either before or in conjunction with registering with the Office of the Dean of Students.  
+Accommodations for Gestational Parents  
+The birth of a child is a significant life event that may require time away from academic pursuits for delivery and reco very from delivery of a newly born child. Students whose anticipated 
+delivery date is during the course of a semester  may need to take time away from their 
+academic responsibilities. Carnegie Mellon students seeking time away are afforded two 
+options as a possible accommodation:  
+MLT Graduate Student Handbook  Page 27 
+ • Short -term accommodation for gestational parents  – A short -term absence 
+from academic responsibilities up to a maximum of six (6) weeks. Short term 
+accommodations may be extended by two (2) weeks for a total of eight (8) weeks, wher e a longer absence is medically necessary. Prior to the absence 
+students must work with relevant university faculty and staff to adjust their course work, research, teaching and other academic responsibilities during the period of absence. This may include  extensions of time to complete assignments, 
+incomplete grades, and/or dropping courses, shifting research  responsibilities 
+and adjusting TA assignments. Students who take a  short-t erm ac commodation 
+will remain enrolled.  
+• Formal Leave of Absence - A formal leave of absence under the Student Leave 
+Policy. Generally, the Student Leave Policy permits students to take a leave of absence for a full -semester, mini- semester, or for the time remaining in the 
+semester during which the leave is taken.  Students who take a Formal Leave of 
+Absence (
+https://www.cmu.edu/policies/student-and-student-life/student-
+leave.html) drop all remaining courses for the semester and are unenrolled for 
+the semester. International students must consult with the Office of International Education (https://www.cmu.edu/oie/) before considering this  
+option due to visa implications.  
+Financial Assistance for Student Parents  
+Carnegie Mellon also offers the following options for financial assistance to students who become parents while enrolled:  
+Interest- free Loan – Any student who becomes a parent is eligible to apply for an interest- free 
+parental loan ( https://www.cmu.edu/student- affairs/dean/loans/
+) from the Office of the Dean 
+of Students.  

@@ -1,0 +1,16 @@
+<start course metadata for 36-491 Undergraduate Research II>
+Semester: Spring 2024 (aka S24)
+Course Name: Undergraduate Research II
+Course Number: 36-491
+Department: Statistics and Data Science
+Number of Units: N/A
+Prerequisites: None
+Instructors: Peter Freeman
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 36-491 Undergraduate Research II>
+
+<start course description for 36-491 Undergraduate Research II>
+Semester: Spring 2024 (aka S24)
+Course Description: This course allows students to continue work on projects begun as part of 36-490, Undergraduate Research. Enrollment is at the discretion of the external advisor for the 36-490 project and the Department of Statistics & Data Science.
+</end course description for 36-491 Undergraduate Research II>

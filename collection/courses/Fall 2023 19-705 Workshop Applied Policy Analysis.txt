@@ -1,0 +1,16 @@
+<start course metadata for 19-705 Workshop Applied Policy Analysis>
+Semester: Fall 2023 (aka F23)
+Course Name: Workshop Applied Policy Analysis
+Course Number: 19-705
+Department: Engineering & Public Policy
+Number of Units: 6
+Prerequisites: None
+Instructors: Peter Adams
+Rooms: WEH 4623
+Locations: Lisbon, Portugal; Pittsburgh, Pennsylvania
+</end course metadata for 19-705 Workshop Applied Policy Analysis>
+
+<start course description for 19-705 Workshop Applied Policy Analysis>
+Semester: Fall 2023 (aka F23)
+Course Description: This workshop course is about learning how to structure messy un-structured policy problems.  It is designed to provide experience in setting up, analyzing, and writing about policy problems of the type that are used in the EPP Part B qualifying exam. Over the course of the semester, the class works through six or seven policy case problems. Much of the work is done in small groups. The principal focus is on integrating the qualitative and quantitative aspects of the problems and on identifying and practicing general problem-solving strategies. Remote option is only with permission of instructor. Students are expected to attend in person.
+</end course description for 19-705 Workshop Applied Policy Analysis>

@@ -1,0 +1,16 @@
+<start course metadata for 51-227 Prototyping Lab I: Communications>
+Semester: Fall 2023 (aka F23)
+Course Name: Prototyping Lab I: Communications
+Course Number: 51-227
+Department: Design
+Number of Units: 4
+Prerequisites: None
+Instructors: Andrew Twigg
+Rooms: MM 211
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-227 Prototyping Lab I: Communications>
+
+<start course description for 51-227 Prototyping Lab I: Communications>
+Semester: Fall 2023 (aka F23)
+Course Description: Learn the core methods and tools of visual communication design, with a focus on Adobe CC: particularly InDesign, Illustrator, Photoshop, Prototyping tools, and After Effects. The learning of software ideally will align with the activities conducted in the Communications Studio. This is a requirement for Design sophomores studying Communications.
+</end course description for 51-227 Prototyping Lab I: Communications>

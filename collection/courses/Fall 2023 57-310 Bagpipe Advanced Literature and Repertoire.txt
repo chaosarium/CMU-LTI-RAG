@@ -1,0 +1,16 @@
+<start course metadata for 57-310 Bagpipe Advanced Literature and Repertoire>
+Semester: Fall 2023 (aka F23)
+Course Name: Bagpipe Advanced Literature and Repertoire
+Course Number: 57-310
+Department: Music
+Number of Units: 3
+Prerequisites: None
+Instructors: Andrew Carlisle
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-310 Bagpipe Advanced Literature and Repertoire>
+
+<start course description for 57-310 Bagpipe Advanced Literature and Repertoire>
+Semester: Fall 2023 (aka F23)
+Course Description: This course prepares students who have covered all other courses for the Graduate Exam from the Institute of Piping in Scotland.  It covers all aspects of theory, history, and practical ability.  An in-depth paper should also be prepared by the students in this course on a piping topic of their choice.
+</end course description for 57-310 Bagpipe Advanced Literature and Repertoire>

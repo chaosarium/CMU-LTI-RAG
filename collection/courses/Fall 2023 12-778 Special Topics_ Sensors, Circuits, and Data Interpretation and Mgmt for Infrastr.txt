@@ -1,0 +1,16 @@
+<start course metadata for 12-778 Special Topics: Sensors, Circuits, and Data Interpretation and Mgmt for Infrastr>
+Semester: Fall 2023 (aka F23)
+Course Name: Special Topics: Sensors, Circuits, and Data Interpretation and Mgmt for Infrastr
+Course Number: 12-778
+Department: Civil & Environmental Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Mario Berges
+Rooms: GHC 5222
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 12-778 Special Topics: Sensors, Circuits, and Data Interpretation and Mgmt for Infrastr>
+
+<start course description for 12-778 Special Topics: Sensors, Circuits, and Data Interpretation and Mgmt for Infrastr>
+Semester: Fall 2023 (aka F23)
+Course Description: The proliferation of low-cost and high-performing sensors has led to sensing in the built environment across a broad range of civil and environmental engineering applications. The applicability of such sensing technologies has been profoundly impacted by advancements in wireless communication and cloud computing, which have enabled the implementation of wireless sensing networks in structural, transportation, geotechnical, and environmental systems, to name a few. This course conveys recent advancements that have led to technologies from across engineering disciplines becoming increasingly relevant (and available) to our field, and emphasizes the critical role that civil and environmental engineers must play in leveraging our domain knowledge to augment these advances. As a result, this course studies sensors from a physics-based perspective in which the development and use of sensors stems directly from principles of mechanics (i.e., how physical processes can be measured and filtered using electrical analog signals and then converted to digital information for interpretation), and builds upon this perspective to provide a better understanding of the "upstream" tasks of a sensing system (e.g., data interpretation and management). This course will cover the practical and theoretical knowledge of sensor technologies for implementation in civil and environmental infrastructure systems. This includes the fundamentals of measurement and instrumentation theory, fabrication, operation, and deployment of capacitive, resistive, inductive, piezoelectric, and microelectromechanical systems. The course also covers DC and AC circuit analysis, signal amplification, interface circuits, filter design, frequency analysis, and analog-to-digital converter architectures. This physics-based perspective on the topic prepares students to extrapolate beyond the sensors to interpret data.
+</end course description for 12-778 Special Topics: Sensors, Circuits, and Data Interpretation and Mgmt for Infrastr>

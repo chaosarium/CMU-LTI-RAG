@@ -1,0 +1,16 @@
+<start course metadata for 06-421 Chemical Process Systems Design>
+Semester: Fall 2023 (aka F23)
+Course Name: Chemical Process Systems Design
+Course Number: 06-421
+Department: Chemical Engineering
+Number of Units: 12
+Prerequisites: 06-364 and 06-361
+Instructors: Ana Ines Torres
+Rooms: GHC 4215
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 06-421 Chemical Process Systems Design>
+
+<start course description for 06-421 Chemical Process Systems Design>
+Semester: Fall 2023 (aka F23)
+Course Description: Screening of processing alternatives. Computational strategies for preliminary material and energy balances in large chemical processes. Preliminary sizing of process equipment. Cost estimation, economics, and evaluation for chemical plants. Strategies for synthesizing energy networks and separation sequences. Preliminary design of a large industrial project.
+</end course description for 06-421 Chemical Process Systems Design>

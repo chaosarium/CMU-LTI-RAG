@@ -1,0 +1,16 @@
+<start course metadata for 10-718 Machine Learning in Practice>
+Semester: Fall 2023 (aka F23)
+Course Name: Machine Learning in Practice
+Course Number: 10-718
+Department: Machine Learning
+Number of Units: 12
+Prerequisites: None
+Instructors: Rayid Ghani
+Rooms: HOA 160
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 10-718 Machine Learning in Practice>
+
+<start course description for 10-718 Machine Learning in Practice>
+Semester: Fall 2023 (aka F23)
+Course Description: This is a project-based course designed to provide students training and experience in solving real-world problems using machine learning, while exploring the interface between research and practice with a particular focus on topics in fairness and explainability.  The goal of this course is to give students exposure to the nuance of applying machine learning to the real-world, where common assumptions (like iid and stationarity) break down, and the growing needs for (and limitations of) approaches to improve fairness and explainability of these applications. Through project assignments, lectures, discussions, and readings, students will learn about and experience building machine learning systems for real-world problems and data, as well as applying and evaluating the utility of proposed methods for enhancing the interpretability and fairness of machine learning models. Through the course, students will develop skills in problem formulation, working with messy (aka real) data, making ML design choices appropriate for the problem at hand, model selection, model interpretability, understanding and mitigating bias & disparities, and evaluating the impact of deployed models.
+</end course description for 10-718 Machine Learning in Practice>

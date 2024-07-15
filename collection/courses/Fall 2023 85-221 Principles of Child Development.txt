@@ -1,0 +1,16 @@
+<start course metadata for 85-221 Principles of Child Development>
+Semester: Fall 2023 (aka F23)
+Course Name: Principles of Child Development
+Course Number: 85-221
+Department: Psychology
+Number of Units: 9
+Prerequisites: None
+Instructors: David Rakison, Jocelyn Belanger
+Rooms: CMB 3048; MM 103
+Locations: Doha, Qatar; Pittsburgh, Pennsylvania
+</end course metadata for 85-221 Principles of Child Development>
+
+<start course description for 85-221 Principles of Child Development>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is about normal development from conception through adolescence. Topics include physical, perceptual, cognitive, emotional and social development. Students will learn facts about children at various points in development, theories about how development works, and research methods for studying development in infants and children. Students will be encouraged to relate the facts, theories and methods of developmental psychology to everyday problems, social issues and real world concerns.
+</end course description for 85-221 Principles of Child Development>

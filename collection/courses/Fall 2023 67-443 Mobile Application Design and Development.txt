@@ -1,0 +1,16 @@
+<start course metadata for 67-443 Mobile Application Design and Development>
+Semester: Fall 2023 (aka F23)
+Course Name: Mobile Application Design and Development
+Course Number: 67-443
+Department: Information Systems Program
+Number of Units: 12
+Prerequisites: 67-272
+Instructors: Larry Heimann
+Rooms: POS 145; SH 238
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 67-443 Mobile Application Design and Development>
+
+<start course description for 67-443 Mobile Application Design and Development>
+Semester: Fall 2023 (aka F23)
+Course Description: This course provides students with the concepts and techniques to design and develop innovative mobile applications. Students will develop a series of smaller mobile applications in weekly lab sessions (using either iOS or Android frameworks). In addition, student teams will build a larger mobile application, as part of a semester-long project, that fills a demand not effectively met in the current market. In the process of developing these applications, students will gain a strong understanding of mobile application development, mobile-centered design, the process of creating and testing innovative application design, and larger principles of software engineering. In weekly labs, students can choose either the Swift/iOS or Kotlin/Android track to complete course work, but lectures will primarily use Swift to illustrate larger points of software architecture and engineering. This course is open only to seniors in the IS major.
+</end course description for 67-443 Mobile Application Design and Development>

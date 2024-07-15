@@ -1,0 +1,241 @@
+MCDS Handbook 23-24 AY
+4 Academic Policies 
+4.1 MCDS Academic Policies 
+4.1.1 Duration of Study 
+MCDS students enrolled for full-time studies are normally expected to complete the 
+degree in three semesters (16 months). This includes a summer internship. 
+4.1.2 Double-Dipping 
+A Masters student who uses courses taken as part of another degree program (at 
+Carnegie Mellon or elsewhere) toward their program requirements cannot use those 
+same courses toward any other M.S. degree offered by the School of Computer Science 
+without prior approval. 
+4.1.3 Pass/Fail and Audit Grades 
+Pass/fail and audit grades are not permitted for courses used to satisfy a degree 
+requirement. Graduate students who are required to take additional undergraduate 
+courses to build up the core foundations of computer science may not elect the pass/fail 
+or audit option for these courses. 
+4.1.4 Transfer Credit 
+An equivalent graduate course previously completed at Carnegie Mellon, or another 
+institution, may be permitted to satisfy one of the MCDS course requirements, with 
+permission from the Director. Students must petition for transfer credit by providing 
+the Program Director with the prior course syllabus and other details that may be 
+required by the Director in order to make a decision. See the section on “Definition of 
+transfer credit versus course exemption”. NOTE: In all cases, credit may only be 
+transferred from another degree program for courses deemed “free electives” - i.e., 
+courses which were not used to satisfy a core requirement or total units requirement in 
+a prior degree program. 
+ 
+All MS students are required to take a minimum of 96 units of coursework at CMU. 
+4.1.5 External Internships and Job Interviewing 
+MCDS students are expected to attain an external internship during the summer. 
+International students must coordinate carefully with the University, due to visa 
+restrictions. International students are required to consult with the Office of 
+International Education for eligibility before seeking an internship/co-op or signing an 
+offer contract. 
+ 
+We caution all students to be aware of potential intellectual property (IP) implications 
+with internships, and to review any IP agreements with their academic advisor before 
+signing them. It is possible to lose ownership of your own inventions if they occur during 
+an external internship. 
+ 
+While it is necessary for students to travel off-campus for job interviews, it is not 
+acceptable for a student to miss a course requirement or a capstone project commitment 
+due to interview travel. Students should work proactively with prospective employers to 
+arrange interview travel in a way that minimizes the impact on their final semester 
+course work. 
+4.1.6 Transferring into the MCDS Program 
+Direct transfers into the MCDS program are not permitted. Students who are currently 
+enrolled at Carnegie Mellon who wish to transfer into the MCDS program must do so by 
+applying to the MCDS program via the normal admissions process. As specified in Sec. 
+4.1.4 in this document, some transfer credit and/or exemption from MCDS requirements 
+may be possible on a case-by-case basis. 
+4.1.7 Transferring Out of the MCDS Program 
+The MCDS program does not prevent students from transferring to another degree 
+program. Each degree program has its own rules about whether and when transfers into 
+the program are permitted. A student that is interested in transferring out of the MCDS 
+degree program should consult the handbook and Program Director of the desired 
+degree program to learn whether transfers are permitted, and if so, how and when to 
+request such a transfer. 
+4.1.8 Statute of Limitations 
+https://www.cmu.edu/policies/student-and-student-life/masters-students-statute-of- 
+limitations.html   
+ 
+As outlined in the Master’s Students Statute of Limitations (link above), students will 
+complete all requirements for the master’s degree within a maximum of seven years 
+from original matriculation as a master’s student, or less if required by a more restrictive 
+department, school or college policy. Once this time-to-degree limit has lapsed, the 
+person may resume work towards a master’s degree only if newly admitted to a currently 
+offered master’s degree program under criteria determined by that program. 
+ 
+Under extraordinary circumstances, such as leave of absence, military or public service, 
+family or parental leave, or temporary disability, a school or college may, upon the 
+relevant department's recommendation and with the written approval of the dean (or 
+designate), defer the lapse for a period commensurate with the duration of that 
+interruption. Students who are pursuing a master’s degree as part-time students for all 
+semesters of their program, as approved by their program, may also appeal to their 
+program or department for extension of the time to degree limit. 
+4.2 LTI Academic Policies 
+4.2.1 “Grandfather” policy 
+A student can graduate under the policies in effect at the time that the student entered 
+the program; or, at the student's choice, the student can graduate under policies that are 
+adopted after the student entered the program. In unusual cases, the Director may 
+approve exceptions to the program requirements. 
+4.2.2 Course Drop/Add/withdrawal procedures 
+Students taking undergraduate and Master’s level courses must follow the procedures and 
+deadlines for adding, dropping, or withdrawing from courses as identified on the 
+academic calendar. Information can be found at: 
+ https://www.cmu.edu/hub/registrar/course-changes/index.html . 
+ 
+There is a separate calendar for masters level courses.  
+ 
+4.2.3 Courses with restricted enrollment 
+MCDS students have priority for the program core courses. The MCDS program 
+administrators cannot intercede with other departments to secure seats for its students 
+in other courses as all departments reserve seats for their accepted students. Usually all 
+remaining open seats are assigned on a first- come, first-served basis.  Students can, 
+ on occasion, contact the assigned course instructor in order to plead his/her case for 
+admission to the course. Admission may be granted at the discretion of the instructor. 
+The policy of the department offering the course(s) is always followed. 
+4.2.4 Definition of transfer credit versus course exemption 
+The LTI may grant transfer credit or issue an exemption for equivalent graduate courses 
+previously completed at another institution. This decision rests with the Director of the 
+particular program. If a student is exempt from a required course due to prior courses or 
+experience, the student can replace that course with an open elective. The student does 
+not receive credit for the external course but can take any course that could normally 
+count toward the degree in its place. If a student receives credit for prior coursework 
+completed at CMU or elsewhere, the student receives that many units of credit, and the 
+total amount of required coursework is reduced by that amount. 
+4.2.5 External Employment/Consulting 
+Since the MCDS program places heavy demands on student time, external employment 
+and/or consulting are strongly discouraged. Exceptional students who wish to consult 
+should discuss this with their advisor. International students must also have approval in 
+advance from the Office of International Education (OIE) for any outside employment. 
+4.2.6 Leave of Absence 
+A student in good standing may be granted a LOA of at most 1 year, upon written request 
+to the Program Director and with consent of the student's advisor. It is the responsibility 
+of the student on LOA to contact the program administrator to apply for a return to the 
+program. 
+4.2.7 Withdrawal from Program 
+Students may voluntarily withdraw from the MCDS program. If a student decides to 
+withdraw, or is considering a withdrawal, she/he should contact the program 
+administrator to schedule an advising meeting as soon as possible.  
+ 
+The university’s general withdrawal policy can be found here: 
+ 
+https://www.cmu.edu/hub/registrar/leaves-and-withdrawals/   
+4.2.8 Satisfactory Progress 
+If a student does not make satisfactory progress each semester toward completing the 
+degree, the LTI may remove the student from the program. See section on “End of 
+Semester Evaluation”. In particular, students in the three-semester program who fail one 
+of their first-semester MCDS core required courses are strongly encouraged to consider 
+switching to the four-semester program. 
+4.2.9 Winter and Summer Breaks 
+ 
+ 30Students supported by research projects or working in an on-campus internship are 
+expected to remain on campus working during breaks in classes. A two-week vacation is 
+typically allowed in the summer for the students who are working on campus (not 
+pursuing an external internship). Supported students should arrange their winter break 
+time with their supervisor. 
+ 
+4.3 CMU Academic Policies  
+4.3.1 Assistance for Individuals with Disabilities  
+http://www.cmu.edu/education-office/disability-resources/   
+The Office of Disability Resources at Carnegie Mellon University has a continued mission 
+to provide physical, digital, and programmatic access to ensure that students with 
+disabilities have equal access to their educational experience. We work to ensure that 
+qualified individuals receive reasonable accommodations as guaranteed by the 
+Americans with Disabilities Act (ADA) and Section 504 of the Rehabilitation Act of 1973. 
+Students who would like to receive accommodations can begin the process through 
+Disability Resources' secure online portal  
+(https://rainier.accessiblelearning.com/cmu/ ) or email access@andrew.cmu.edu to 
+begin the interactive accommodation process. 
+ 
+Students with physical, sensory, cognitive, or emotional disabilities are encouraged to 
+self-identify with the Office of Disability Resources and request needed accommodations. 
+Any questions about the process can be directed to access@andrew.cmu.edu, or call (412) 
+268-6121. 
+4.3.2 Summary of Graduate Student Appeal and Grievance Procedures  
+Graduate students will find the Summary of Graduate Student Appeal and Grievance 
+Procedures on the Graduate Education Resource webpage. This document summarizes 
+processes available to graduate students who seek review of academic and non-academic 
+issues. Generally, graduate students are expected to seek informal resolution of all 
+concerns within the applicable department, unit or program before invoking formal 
+processes. When an informal resolution cannot be reached, however, a graduate student 
+who seeks further review of the matter is to follow the formal procedures outlined here. 
+These appeal and grievance procedures shall apply to students in all graduate programs 
+of the University. Students should refer to the department specific information in this 
+handbook for department and college information about the administration and 
+academic policies of the program.  
+ 
+You can review a summary of the university’s graduate student’s appeal and grievance 
+procedures here: 
+https://www.cmu.edu/graduate/policies/appeal-grievance-procedures.html  
+4.3.3 Safeguarding Educational Equity: Sexual Harassment and Sexual Assault  
+ 
+ 31The University prohibits sex-based discrimination, sexual harassment, sexual assault, 
+dating/ domestic violence and stalking. The University also prohibits retaliation against 
+individuals who bring forward such concerns or allegations in good faith. The 
+University’s Sexual Misconduct Policy is available at 
+https://www.cmu.edu/policies/administrative-and-governance/sexual-
+misconduct/index.html . 
+ 
+The University’s Policy Against Retaliation is available at: 
+https://www.cmu.edu/policies/administrative-and-governance/whistleblower.html   
+ 
+If you have been impacted by any of these issues, you are encouraged to 
+make contact with any of the following resources: 
+ Office of Title IX Initiatives: http://www.cmu.edu/title-ix/ , 412-268-7125, 
+tix@cmu.edu 
+ University Police: https://www.cmu.edu/police/ , 412-268-2323 
+ Additional resources and information can be found at: 
+https://www.cmu.edu/title-ix/resources-and-information/index.html   
+ 
+4.3.4 Consensual Intimate Relationship Policy Regarding Undergraduate Students  
+ 
+https://www.cmu.edu/policies/student-and-student-life/consensual-relationships.html   
+ 
+This policy addresses the circumstances in which romantic, sexual or amorous 
+relationships/interactions with undergraduate students, even if consensual, are 
+inappropriate and prohibited. The purpose of this policy is to assure healthy 
+professional relationships. This policy is not intended to discourage consensual 
+intimate relationships unless there is a conflicting professional relationship in which 
+one party has authority over the other as in the policy. 
+4.3.5 Gestational and Parental Accommodations  
+https://www.cmu.edu/graduate/programs-services/maternity-accommodation-
+protocol.html    
+ 
+Students whose anticipated delivery date is during the course of the semester may 
+consider taking time away from their coursework and/or research responsibilities. Any 
+student who gives birth to a child while engaged in coursework or research is eligible to 
+take either a short-term absence or formal leave of absence. Students are encouraged to 
+consult with relevant university faculty and staff as soon as possible as they begin 
+making plans regarding time away. 
+ Students must contact the Office of the Dean of Student Affairs to register for 
+Maternity Accommodations. Students will complete an information form and 
+meet with a member of the Dean’s Office staff to determine resources and 
+procedures appropriate for the individual student. 
+ 
+ 32o Planning for the student’s discussion with appropriate academic contact(s) 
+(advisor, associate dean, etc.) may be reviewed during this meeting. 
+ 
+ 
+ Students in course work should consider options for the semester of the 
+anticipated birth such as working with their course instructors to receive 
+incomplete grades, electing to drop to part-time status or taking a full semester 
+leave of absence. 
+ Students engaged in research must work with their faculty to develop plans for 
+the research for the time they are away and for resuming upon return. 
+ Master's students who receive an academic stipend funded by Carnegie Mellon 
+are eligible to continue to receive stipend funding for up to six (6) weeks during a 
+Short-Term Maternity Accommodation or a Formal Leave of Absence. Continued 
+academic stipend funding may be extended by two (2) weeks, for a total of eight 
+(8) weeks, if an absence longer than six weeks is medically necessary. To receive 
+this support students must be registered with the Office of the Dean of Students. 
+ 
+4.3.6 Change of Address  
+MCDS students are responsible for notifying MCDS and the HUB of all address changes 
+in a timely manner. Students will be held responsible for any failure to receive official 
+college notices due to not having a correct address on file; F-1 students may jeopardize 
+their status if address information is not kept current. 
+Students can change their address using SIO, which is available via the HUB website: 
+http://www.cmu.edu/hub/index.html  

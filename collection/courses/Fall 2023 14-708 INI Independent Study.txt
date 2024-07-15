@@ -1,0 +1,16 @@
+<start course metadata for 14-708 INI Independent Study>
+Semester: Fall 2023 (aka F23)
+Course Name: INI Independent Study
+Course Number: 14-708
+Department: Information Networking Institute
+Number of Units: N/A
+Prerequisites: None
+Instructors: Dena Tsamitis
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania; San Jose, California
+</end course metadata for 14-708 INI Independent Study>
+
+<start course description for 14-708 INI Independent Study>
+Semester: Fall 2023 (aka F23)
+Course Description: If there is a special topic that interests a student and is relevant to their degree program, the student may negotiate an Independent Study mentored by a Carnegie Mellon faculty member.  Through an Independent Study, students can either focus on learning a topic area that is not otherwise available at Carnegie Mellon, or they can assist the faculty advisor and relevant partners in exploring research and/or development opportunities in new areas.  The student must provide compelling justification as to (1) why an Independent Study on this topic or project is relevant to their degree program and should be allowed, (2) why the chosen faculty member is an appropriate Independent Study advisor, and (3) the learning objectives and expected deliverables of the Independent Study.  Specific proposal requirements and processes are detailed in the INI Student Handbook.  This course is open to INI students only, and special permission is required to enroll.  Eligible students should contact the INI Academic Affairs Office regarding Independent Study proposal submission.
+</end course description for 14-708 INI Independent Study>

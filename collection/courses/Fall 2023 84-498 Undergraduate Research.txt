@@ -1,0 +1,16 @@
+<start course metadata for 84-498 Undergraduate Research>
+Semester: Fall 2023 (aka F23)
+Course Name: Undergraduate Research
+Course Number: 84-498
+Department: Institute for Politics and Strategy
+Number of Units: N/A
+Prerequisites: None
+Instructors: Audrey Cronin, Baruch Fischhoff, Daniel Silverman, Geoffrey Mcgovern, Hanzhang Liu, Ignacio Arana, Instructor TBA, John Chin, Jonathan Cervas, Joshua Schwartz, Justin Canfil, Mark Kamlet, Molly Dunigan
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 84-498 Undergraduate Research>
+
+<start course description for 84-498 Undergraduate Research>
+Semester: Fall 2023 (aka F23)
+Course Description: Students conduct research under the supervision of a faculty member. Students who wish to engage in research should seek out a faculty member whose interests are appropriate to the research. Prerequisite: Students must also complete an "Independent Study/Research for Credit" form, available from the Deputy Director or on the CMIST website. Permission of a faculty sponsor.
+</end course description for 84-498 Undergraduate Research>

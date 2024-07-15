@@ -1,0 +1,16 @@
+<start course metadata for 99-362 IDeATe: Intelligent Learning Spaces>
+Semester: Spring 2024 (aka S24)
+Course Name: IDeATe: Intelligent Learning Spaces
+Course Number: 99-362
+Department: Carnegie Mellon University-Wide Studies
+Number of Units: 9
+Prerequisites: None
+Instructors: Nina Marie Barbuto
+Rooms: HL A5
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 99-362 IDeATe: Intelligent Learning Spaces>
+
+<start course description for 99-362 IDeATe: Intelligent Learning Spaces>
+Semester: Spring 2024 (aka S24)
+Course Description: Intelligent Learning Spaces explores the interactions between human learning and the spaces in which learning occurs. In this project-based course, students discuss, analyze, define, and apply theory from education, architecture and the arts to their project work. Students investigate precedents and existing experiences to create their own learning manifestos and designs.  Imagination, in-class participation, speculation, empathy and 360-degree awareness are key components of this class. Students work on scaffolded projects that build on their knowledge to showcase their intentions and creativity, reacting to a variety of contexts relevant to learning. Students have opportunities to develop creative inquiry skills and apply critical perspectives through project-based work that requires experimentations, hands-on learning, reflection, and documentation.
+</end course description for 99-362 IDeATe: Intelligent Learning Spaces>

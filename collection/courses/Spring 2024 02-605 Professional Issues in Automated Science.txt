@@ -1,0 +1,16 @@
+<start course metadata for 02-605 Professional Issues in Automated Science>
+Semester: Spring 2024 (aka S24)
+Course Name: Professional Issues in Automated Science
+Course Number: 02-605
+Department: Computational Biology
+Number of Units: 3
+Prerequisites: None
+Instructors: Joshua Kangas
+Rooms: GHC 4101
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 02-605 Professional Issues in Automated Science>
+
+<start course description for 02-605 Professional Issues in Automated Science>
+Semester: Spring 2024 (aka S24)
+Course Description: This course gives MS in Automated Science students an opportunity to develop professional skills necessary for a successful career in computational biology. This course will include assistance with resume writing, interview preparation, presentation skills, and job search techniques. This course will also include opportunities to network with computational biology professionals and academic researchers.
+</end course description for 02-605 Professional Issues in Automated Science>

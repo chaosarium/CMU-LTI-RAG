@@ -1,0 +1,16 @@
+<start course metadata for 12-451 Advanced Environmental Engineering>
+Semester: Spring 2024 (aka S24)
+Course Name: Advanced Environmental Engineering
+Course Number: 12-451
+Department: Civil & Environmental Engineering
+Number of Units: 9
+Prerequisites: 12-221 and 12-351 and 12-353 and 12-355
+Instructors: Sarah Fakhreddine
+Rooms: PH A18C
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 12-451 Advanced Environmental Engineering>
+
+<start course description for 12-451 Advanced Environmental Engineering>
+Semester: Spring 2024 (aka S24)
+Course Description: Building on fundamental concepts from 12-221, 12-351, and 12-353, this course focuses on the physical, chemical, and biological processes controlling the quality of water, soil, air -- and ultimately human and ecosystem health. Students will learn how these processes regulate the cycling of contaminants and nutrients in the environment. Key topics include material and energy balances, advective-dispersive transport with reacting solutes, and partitioning of contaminants and nutrients across different media.  Students will also gain familiarity with (1) how regulatory agencies and decision-makers account for these processes in environmental protection efforts and (2) related challenges and opportunities around climate change.
+</end course description for 12-451 Advanced Environmental Engineering>

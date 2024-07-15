@@ -1,0 +1,16 @@
+<start course metadata for 21-292 Operations Research I>
+Semester: Spring 2024 (aka S24)
+Course Name: Operations Research I
+Course Number: 21-292
+Department: Mathematical Sciences
+Number of Units: 9
+Prerequisites: (21-122) and (21-240 or 21-241 or 21-242) and (21-228 or 15-251)
+Instructors: David Offner
+Rooms: POS 151
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-292 Operations Research I>
+
+<start course description for 21-292 Operations Research I>
+Semester: Spring 2024 (aka S24)
+Course Description: Operations research offers a scientific approach to decision making, most commonly involving the allocation of scarce resources. This course develops some of the fundamental methods used. Linear programming: the simplex method and its linear algebra foundations, duality, post-optimality and sensitivity analysis; the transportation problem; the critical path method; non-linear programming methods.  (Three 50 minute lectures, one 50 minute recitation)
+</end course description for 21-292 Operations Research I>

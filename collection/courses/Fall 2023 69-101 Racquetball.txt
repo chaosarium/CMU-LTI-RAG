@@ -1,0 +1,16 @@
+<start course metadata for 69-101 Racquetball>
+Semester: Fall 2023 (aka F23)
+Course Name: Racquetball
+Course Number: 69-101
+Department: Physical Education
+Number of Units: 3
+Prerequisites: None
+Instructors: Brandon Bowman, Timothy Connelly
+Rooms: CUC COURTS
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 69-101 Racquetball>
+
+<start course description for 69-101 Racquetball>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is designed to aid in developing the fundamental skills involved in racquetball.  Techniques, rules and strategy are stressed.  It is hoped that the student will develop a reasonable level of proficiency to enable participation on a leisure-time basis.
+</end course description for 69-101 Racquetball>

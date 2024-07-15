@@ -1,0 +1,16 @@
+<start course metadata for 88-252 Cause and Effect>
+Semester: Spring 2024 (aka S24)
+Course Name: Cause and Effect
+Course Number: 88-252
+Department: Social & Decision Sciences
+Number of Units: 9
+Prerequisites: 36-202 or 36-309 or 70-208 or 85-309
+Instructors: Andrea Kiss
+Rooms: PH A18B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 88-252 Cause and Effect>
+
+<start course description for 88-252 Cause and Effect>
+Semester: Spring 2024 (aka S24)
+Course Description: Causal questions are pervasive in the social and behavioral sciences, and empirical researchers often use regression analysis as a tool for tackling such questions.  This course focuses on the scientific problem of analyzing causal hypotheses in real-world settings, not on the mathematical details of regression.  After clearly distinguishing prediction from causation, we discuss how to represent causal hypotheses and how to use regressions to analyze both predictive and causal hypotheses.     Using in-class data exercises throughout, we will examine how to move from an interesting but somewhat vague question about the world (e.g., do police discriminate based on race and gender, do NFL athletes choke under high pressure, does parenthood improve happiness) to a clear statistical model that, when estimated, meaningfully addresses the question asked.  The course emphasizes causal analysis as the main research goal and multivariate linear regression as the main statistical tool.  After mastering basic techniques, we will introduce students to more advanced econometric approaches such as panel regressions and instrumental variables to deal with trickier settings in which causal inference is more challenging (e.g., do more guns lead to more violence?).    In keeping with the hands-on philosophy of the course, a central focus of the semester will be a group research paper/presentation where students will have the opportunity to formulate and empirically test a research question of their choosing.  Students will learn how to find, clean, and analyze a new dataset, and then concisely communicate their findings in the form of a scientific paper (and accompanying presentation).  The research project makes this course excellent preparation for any student who hopes to ultimately write an undergraduate thesis.
+</end course description for 88-252 Cause and Effect>

@@ -1,0 +1,16 @@
+<start course metadata for 84-690 Social Media, Technology, and Conflict>
+Semester: Spring 2024 (aka S24)
+Course Name: Social Media, Technology, and Conflict
+Course Number: 84-690
+Department: Institute for Politics and Strategy
+Number of Units: 12
+Prerequisites: None
+Instructors: William Marcellino
+Rooms: CMU REMOTE
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 84-690 Social Media, Technology, and Conflict>
+
+<start course description for 84-690 Social Media, Technology, and Conflict>
+Semester: Spring 2024 (aka S24)
+Course Description: This course will examine the role that social media and technology have had on conflict at multiple levels, both between and within nations. Interconnectedness has expanded dramatically and continues to expand, allowing the formerly disconnected¿individuals with shared political views, states and diaspora populations¿to be intimately connected. The Arab Spring uprisings were significantly influenced by the use of cell phones, social media, and text-messaging as organizing tools. Insurgent groups like the Islamic States harnessed the power of social media and emerging technologies, and now extremist groups in the US and Europe are using Twitter, YouTube, Telegram and other social media platforms to their advantage. Information war is a critical factor in Russia's invasion of Ukraine,  as both sides work to support/exploit kinetic warfare. Social media is used both to recruit for and fund violent extremism, while the internet has become a channel for radicalizing individuals into violent ideologies. Loss of trust in media and institutions, and the proliferation of mis/disinformation, conspiracy theories, and malign information operations over social media has introduced a new dimensions to conflict and relations between individuals, small groups, non-state actors, and nation-states.
+</end course description for 84-690 Social Media, Technology, and Conflict>

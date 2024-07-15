@@ -1,0 +1,16 @@
+<start course metadata for 06-900 Ph.D. Thesis Research>
+Semester: Fall 2023 (aka F23)
+Course Name: Ph.D. Thesis Research
+Course Number: 06-900
+Department: Chemical Engineering
+Number of Units: N/A
+Prerequisites: None
+Instructors: Anne Robinson
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 06-900 Ph.D. Thesis Research>
+
+<start course description for 06-900 Ph.D. Thesis Research>
+Semester: Fall 2023 (aka F23)
+Course Description: None
+</end course description for 06-900 Ph.D. Thesis Research>

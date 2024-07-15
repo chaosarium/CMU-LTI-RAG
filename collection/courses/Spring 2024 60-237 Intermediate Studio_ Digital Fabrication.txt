@@ -1,0 +1,16 @@
+<start course metadata for 60-237 Intermediate Studio: Digital Fabrication>
+Semester: Spring 2024 (aka S24)
+Course Name: Intermediate Studio: Digital Fabrication
+Course Number: 60-237
+Department: Art
+Number of Units: 10
+Prerequisites: None
+Instructors: Britt Ransom
+Rooms: DH B302
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 60-237 Intermediate Studio: Digital Fabrication>
+
+<start course description for 60-237 Intermediate Studio: Digital Fabrication>
+Semester: Spring 2024 (aka S24)
+Course Description: Digital fabrication is an intermediate studio course that explores the applied use of 3D scanning, 3D modeling, and CAD/CAM processes that are used in sculpture and installation based studio practices. In this class students will explore 3D scanning, 3D modeling, and various digital drafting softwares to generate files and objects for physical output using digital fabrication tools. Students will be able to produce computer generated objects and physically realize them through hands-on experience and experimentation with 3D printing, laser cutting/engraving, and CNC machining. As a class, we explore the iterative nature of digital fabrication techniques and processes while developing projects and concepts that respond to the nature of introducing these machines into a studio practice. Experimentation will be emphasized through the creation of multiples, techniques for assembly, and building beyond the build footprint of the machine. This course will focus on technical skill based projects that are linked to studio based ideas and concepts that build on one another throughout the semester. Students will utilize additive and subtractive processes to develop a base knowledge for fabrication with these tools with the aim to move beyond and push their initial output possibilities. As a class we will discuss the history of artists using and engaging with these tools as a regular part of their creative processes. This course is open to students at all skill levels and no previous fabrication experience is necessary.
+</end course description for 60-237 Intermediate Studio: Digital Fabrication>

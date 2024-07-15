@@ -1,0 +1,16 @@
+<start course metadata for 14-757 Introduction to Adversarial Machine Learning>
+Semester: Spring 2024 (aka S24)
+Course Name: Introduction to Adversarial Machine Learning
+Course Number: 14-757
+Department: Information Networking Institute
+Number of Units: 12
+Prerequisites: None
+Instructors: David Varodayan
+Rooms: B23 118; CIC 1201
+Locations: Pittsburgh, Pennsylvania; San Jose, California
+</end course metadata for 14-757 Introduction to Adversarial Machine Learning>
+
+<start course description for 14-757 Introduction to Adversarial Machine Learning>
+Semester: Spring 2024 (aka S24)
+Course Description: This course serves as an introduction to machine learning (ML) as well as an introduction to adversarial attacks and defenses. Students will complete programming problems on implementation, attack and defense of spam filters, image classifiers, network anomaly detectors, human activity classifiers, real estate pricing models, search engines, and more. The course will cover the following ML problems and tools: classification, regression, dimensionality reduction, clustering, expectation-maximization, Markov models and neural networks. Grading will be based on biweekly Python programming assignments.
+</end course description for 14-757 Introduction to Adversarial Machine Learning>

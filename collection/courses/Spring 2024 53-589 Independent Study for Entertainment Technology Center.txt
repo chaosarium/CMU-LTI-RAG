@@ -1,0 +1,16 @@
+<start course metadata for 53-589 Independent Study for Entertainment Technology Center>
+Semester: Spring 2024 (aka S24)
+Course Name: Independent Study for Entertainment Technology Center
+Course Number: 53-589
+Department: Entertainment Technology
+Number of Units: N/A
+Prerequisites: None
+Instructors: John Balash, Olivia Robinson, Robert Zacharias
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 53-589 Independent Study for Entertainment Technology Center>
+
+<start course description for 53-589 Independent Study for Entertainment Technology Center>
+Semester: Spring 2024 (aka S24)
+Course Description: The Entertainment Technology Center offers independent study opportunities to non-ETC students on a very limited basis.  Registering for the independent study allows students, in essence, to work be a part of ETC project course, the description of which follows:     Project courses are "group independent studies," where teams of 3-6 students work on a focused project(s) during that semester. The number of projects per semester will vary.  The primary objective of the courses is to provide a hands-on working experience with teammates who are from different backgrounds and disciplines. Other objectives are to experience project management, and have the possibility of working with an external client (some projects have external collaborators).     The requirements for a project are that:     - the team contain students from both technology and non-technology   backgrounds   - the team must prototype and produce a tangible artifact (not a paper)   - the work must be supervised by a faculty member approved by the ETC for   this project - registration in the course needs a work outline turned in before the semester add period is over.
+</end course description for 53-589 Independent Study for Entertainment Technology Center>

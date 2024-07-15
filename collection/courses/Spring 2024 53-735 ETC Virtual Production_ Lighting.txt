@@ -1,0 +1,16 @@
+<start course metadata for 53-735 ETC Virtual Production: Lighting>
+Semester: Spring 2024 (aka S24)
+Course Name: ETC Virtual Production: Lighting
+Course Number: 53-735
+Department: Entertainment Technology
+Number of Units: 12
+Prerequisites: None
+Instructors: Gerard Klug, Thomas Corbett
+Rooms: PTC 5208
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 53-735 ETC Virtual Production: Lighting>
+
+<start course description for 53-735 ETC Virtual Production: Lighting>
+Semester: Spring 2024 (aka S24)
+Course Description: Film and television production is moving towards a combination of physical sets and actors combined with actors and costumes to realize modern storytelling. This class begins by hands-on workshops teaching the basics of traditional cinematic lighting then moves into using those skills and adapting them with virtual tools such as Maya and Unreal 5.
+</end course description for 53-735 ETC Virtual Production: Lighting>

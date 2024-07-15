@@ -1,0 +1,16 @@
+<start course metadata for 17-673 Studio Project III>
+Semester: Fall 2023 (aka F23)
+Course Name: Studio Project III
+Course Number: 17-673
+Department: Software & Societal Systems
+Number of Units: 36
+Prerequisites: None
+Instructors: Bradley Schmerl, Eduardo Miranda, Jeffrey Gennari, Jim Berardone, Michael Riley, Scott Pavetti
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 17-673 Studio Project III>
+
+<start course description for 17-673 Studio Project III>
+Semester: Fall 2023 (aka F23)
+Course Description: Registration in the Software Development Studio is limited to those students who have been accepted into the Master of Software Engineering Program or those students who are invited by the faculty to register.  The Studio provides students with a laboratory for direct application of concepts learned in core courses.
+</end course description for 17-673 Studio Project III>

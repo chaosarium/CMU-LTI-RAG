@@ -1,0 +1,16 @@
+<start course metadata for 48-240 History of World Architecture, I>
+Semester: Spring 2024 (aka S24)
+Course Name: History of World Architecture, I
+Course Number: 48-240
+Department: Architecture
+Number of Units: 9
+Prerequisites: None
+Instructors: Diane Shaw
+Rooms: MM A14
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-240 History of World Architecture, I>
+
+<start course description for 48-240 History of World Architecture, I>
+Semester: Spring 2024 (aka S24)
+Course Description: This survey cuts a broad swath through time, geography and cultures, surveying critical episodes in the built environment of Europe, the Middle East, Asia, Africa, and the Americas from ancient times through the nineteenth century. Reflecting the inseparable relation between building and human needs, this course is not only a history of architecture, but also a history through architecture. Over the semester, we will examine architecture as a form of cultural expression unique to its time and place. Through readings and lectures, we will study the ways that the design, use, meaning, and legacy of a building and its site was conditioned not only by the architect's will or the patron's desire, but also by a web of technological, religious, social, cultural, economic, and political factors of the time. There will be several exams over the course of the semester including during finals week.
+</end course description for 48-240 History of World Architecture, I>

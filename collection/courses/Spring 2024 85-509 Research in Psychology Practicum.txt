@@ -1,0 +1,16 @@
+<start course metadata for 85-509 Research in Psychology Practicum>
+Semester: Spring 2024 (aka S24)
+Course Name: Research in Psychology Practicum
+Course Number: 85-509
+Department: Psychology
+Number of Units: 1
+Prerequisites: None
+Instructors: Chante Cox-Boyd, Emilie Rendulic
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 85-509 Research in Psychology Practicum>
+
+<start course description for 85-509 Research in Psychology Practicum>
+Semester: Spring 2024 (aka S24)
+Course Description: All students registered for research units via 85-198 or 85-507/508 * to register, in addition, for this 1 unit course.  This course will meet every other week (online, at a time to be determined by survey).  This course will provide students with an opportunity to frame their research experience in a broader professional and scholastic perspective, as well as an opportunity to get feedback on ongoing research experiences.  Topics to be covered include professional development, protections for researchers and participants (including Title IX), problem solving, and communication.  Students will complete short homework assignments in relation to each topic as a way of maintaining engagement with the course materials, as well as brief written assignments reflecting on their research experience.  Students will be connected with resources like the Global Communications Center and the Career and Professional Development Center to help students contextualize their research experience in ways that contribute to their ongoing professional aspirations.
+</end course description for 85-509 Research in Psychology Practicum>

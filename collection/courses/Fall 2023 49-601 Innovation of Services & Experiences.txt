@@ -1,0 +1,16 @@
+<start course metadata for 49-601 Innovation of Services & Experiences>
+Semester: Fall 2023 (aka F23)
+Course Name: Innovation of Services & Experiences
+Course Number: 49-601
+Department: Integrated Innovation Institute
+Number of Units: 10
+Prerequisites: 49-600
+Instructors: Julie Saunders
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 49-601 Innovation of Services & Experiences>
+
+<start course description for 49-601 Innovation of Services & Experiences>
+Semester: Fall 2023 (aka F23)
+Course Description: MIIPS Online & Certificate Students Only - Product Design Innovation Certificate   This course will define and study services, experiences, and related systems.  Students will also learn the basics of designing services and experiences. Innovators who focus on services and experiences create new offerings for businesses with a primary focus on the quality of the human interactions and experience that are often engendered in the context of functional and/or tangible products, meaning that this course will push students to consider holistic "product" offerings that span UI/UX, physical products, and human activity.  In this course students will first study the nature of services and experiences and then work in small project teams to analyze leading designed solutions as well as to create new ones. Service and experience design frameworks will also be used both for the analysis of existing offerings as well as to propose and innovative solutions.    The learning will take place via lectures, studio projects, and verbal and written exposition. Students will be working in familiar and unfamiliar forms including concepts for products, documents, events, spaces, activities, scripts, and software. Classwork will be done individually and in teams.  By the end of this course, students should be able to:  Easily distinguish and shift between different perspectives on the same design problem space, leverage service and experience innovation frameworks to explain how an offering unfolds for people, speak articulately about offerings that are made up of systems of products, services and other components.
+</end course description for 49-601 Innovation of Services & Experiences>

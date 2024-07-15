@@ -1,0 +1,16 @@
+<start course metadata for 21-124 Calculus II for Biologists and Chemists>
+Semester: Spring 2024 (aka S24)
+Course Name: Calculus II for Biologists and Chemists
+Course Number: 21-124
+Department: Mathematical Sciences
+Number of Units: 10
+Prerequisites: 21-112 or 21-120
+Instructors: Timothy Flaherty
+Rooms: WEH 5409
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-124 Calculus II for Biologists and Chemists>
+
+<start course description for 21-124 Calculus II for Biologists and Chemists>
+Semester: Spring 2024 (aka S24)
+Course Description: This is intended as a second calculus course for biology and chemistry majors.  It uses a variety of computational techniques based around the use of MATLAB or a similar system. Topics to be covered include: Integration: techniques and numerical integration. Ordinary differential equations: techniques for solving ODEs and numerical methods. Modeling with ODEs (e.g., infection, population models). Linear algebra: matrices, complex numbers, eigenvalues, eigenvectors. Systems of ordinary differential equations (if time allows: stability of differential systems). Probability: discrete and continuum probability, conditional probability and independence, limit theorems, important distributions, probabilistic models.  (Three 50 minute lectures, two 50 minute recitations)
+</end course description for 21-124 Calculus II for Biologists and Chemists>

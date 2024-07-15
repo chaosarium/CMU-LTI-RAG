@@ -1,0 +1,16 @@
+<start course metadata for 82-242 Intermediate Spanish II>
+Semester: Fall 2023 (aka F23)
+Course Name: Intermediate Spanish II
+Course Number: 82-242
+Department: Modern Languages
+Number of Units: 9
+Prerequisites: 82-241 or 82-243
+Instructors: Candace Skibba
+Rooms: HOA 107
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 82-242 Intermediate Spanish II>
+
+<start course description for 82-242 Intermediate Spanish II>
+Semester: Fall 2023 (aka F23)
+Course Description: Intermediate Spanish II is the second part of a two-semester course sequence (82-241, 82-242) designed to familiarize students with the cultures and perspectives of the Spanish-speaking world. Students will develop self-expression across a range of culturally significant topics, improving their speaking, listening, reading, and writing skills while working with longer passages of language in context through reading, writing and listening/viewing (e.g. tv series, movies, short novels, plays) and frequently working in groups and pairs, and utilizing technologies that enhance learning opportunities and promote skill development. The course provides extracurricular opportunities to interact with members of the Spanish-speaking community.
+</end course description for 82-242 Intermediate Spanish II>

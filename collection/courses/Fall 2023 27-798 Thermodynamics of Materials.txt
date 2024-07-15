@@ -1,0 +1,16 @@
+<start course metadata for 27-798 Thermodynamics of Materials>
+Semester: Fall 2023 (aka F23)
+Course Name: Thermodynamics of Materials
+Course Number: 27-798
+Department: Materials Science & Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Thomas O'Connor
+Rooms: HH B103
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 27-798 Thermodynamics of Materials>
+
+<start course description for 27-798 Thermodynamics of Materials>
+Semester: Fall 2023 (aka F23)
+Course Description: This course offers a practical introduction to the principles of statistical thermodynamics that links the microscopic atomic details of materials to their macroscopic behavior, and applies these principles to multicomponent material equilibria. The laws and concepts of classical thermodynamics and probability are briefly reviewed, and then applied to introduce the atomic statistical definitions for temperature, entropy, and thermodynamic equilibrium. Statistical methods for enumerating the microscopic configurations of fluids, magnets, solid crystals, and polymers will be covered and applied to evaluate thermodynamic free energies subject to varying macroscopic constraints. These will be used to relate equilibrium properties and phase behavior to the engineerable molecular details of materials. Applications will include equilibrium phase diagrams (binary and ternary), predominance diagrams, chemical reactions, thermodynamics of surfaces, and electrochemistry.
+</end course description for 27-798 Thermodynamics of Materials>

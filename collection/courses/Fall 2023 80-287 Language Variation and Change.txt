@@ -1,0 +1,16 @@
+<start course metadata for 80-287 Language Variation and Change>
+Semester: Fall 2023 (aka F23)
+Course Name: Language Variation and Change
+Course Number: 80-287
+Department: Philosophy
+Number of Units: 9
+Prerequisites: None
+Instructors: Christina Bjorndahl
+Rooms: PH A18C
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 80-287 Language Variation and Change>
+
+<start course description for 80-287 Language Variation and Change>
+Semester: Fall 2023 (aka F23)
+Course Description: We all know that languages differ and change, and that even two people who know the "same" language can sound quite different to each other, use different words, or even different sentence structures.  This course takes students on a tour through linguistic difference across languages, within languages, and over time.  We will look at how historical linguists reconstruct dead languages, how sociolinguists model language change, and how linguistic typologists assess whether some linguistic features (e.g., word order) are more or less common than others.  We will also explore how linguistic variation and change are related to issues of social status and political power, and we'll investigate explanations for variation and change, drawing on literature from computational modelling and psycholinguistics.  There is no prerequisite, and no prior linguistic knowledge is assumed.
+</end course description for 80-287 Language Variation and Change>

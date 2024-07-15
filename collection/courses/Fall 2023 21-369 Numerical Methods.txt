@@ -1,0 +1,16 @@
+<start course metadata for 21-369 Numerical Methods>
+Semester: Fall 2023 (aka F23)
+Course Name: Numerical Methods
+Course Number: 21-369
+Department: Mathematical Sciences
+Number of Units: 12
+Prerequisites: (15-110 or 15-112) and (21-268 or 21-259 or 21-269) and (21-241 or 21-240 or 21-242 or 33-232) and (21-260 or 21-630 or 21-261 or 33-231)
+Instructors: Noel Walkington
+Rooms: GHC 4301; WEH 7218
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-369 Numerical Methods>
+
+<start course description for 21-369 Numerical Methods>
+Semester: Fall 2023 (aka F23)
+Course Description: This course provides an introduction to the use of computers to solve scientific problems. Methods for the computational solution of linear algebra systems, nonlinear equations, the interpolation and approximation of functions, differentiation and integration, and ordinary differential equations. Analysis of roundoff and discretization errors and programming techniques. 21-268 or 21-269 are recommended prerequisites, rather than 21-259. (Three 50 minute lectures, one 50 minute recitation)
+</end course description for 21-369 Numerical Methods>

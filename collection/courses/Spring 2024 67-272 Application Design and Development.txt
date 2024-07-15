@@ -1,0 +1,16 @@
+<start course metadata for 67-272 Application Design and Development>
+Semester: Spring 2024 (aka S24)
+Course Name: Application Design and Development
+Course Number: 67-272
+Department: Information Systems Program
+Number of Units: 12
+Prerequisites: (15-122 or 15-121) and (67-262)
+Instructors: Houda Bouamor, Larry Heimann, Shihong Huang
+Rooms: BH 237B; CMB 2152; SH 234; SH 238; WEH 4623
+Locations: Doha, Qatar; Pittsburgh, Pennsylvania
+</end course metadata for 67-272 Application Design and Development>
+
+<start course description for 67-272 Application Design and Development>
+Semester: Spring 2024 (aka S24)
+Course Description: This course provides students with the concepts and techniques to design and develop software applications, and to understand the design process. Students will learn the importance of user-centered design and will develop a prototype of a web application as a course project. In the process of developing the application, students will learn how to design and create relational databases, how to acquire competency in new programming languages quickly, how to use the Model-View-Controller pattern to develop software applications, how to ensure technical quality in software development, and how to apply principles of user-centered design. This course is a required professional core course and is open only to sophomores and juniors in the IS major.
+</end course description for 67-272 Application Design and Development>

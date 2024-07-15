@@ -1,0 +1,16 @@
+<start course metadata for 09-231 Mathematical Methods for Chemists>
+Semester: Fall 2023 (aka F23)
+Course Name: Mathematical Methods for Chemists
+Course Number: 09-231
+Department: Chemistry
+Number of Units: 9
+Prerequisites: (09-106 or 09-107) and (21-124 or 21-122)
+Instructors: Maria Kurnikova
+Rooms: WEH 5403
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 09-231 Mathematical Methods for Chemists>
+
+<start course description for 09-231 Mathematical Methods for Chemists>
+Semester: Fall 2023 (aka F23)
+Course Description: This course uses mathematical approaches to develop models for chemical systems and materials from the bottom up, i.e. from atoms and molecules to substances. This course focuses on statistical mechanics and does not cover quantum mechanics basics. Math will be covered in the context of chemical phenomena, and combine topics from probability theory and statistics, 3-dimensional calculus, differential equations, and linear algebra. 3 hrs. lec.
+</end course description for 09-231 Mathematical Methods for Chemists>

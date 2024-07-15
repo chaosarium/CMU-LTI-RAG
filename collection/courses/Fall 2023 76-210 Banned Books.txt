@@ -1,0 +1,16 @@
+<start course metadata for 76-210 Banned Books>
+Semester: Fall 2023 (aka F23)
+Course Name: Banned Books
+Course Number: 76-210
+Department: English
+Number of Units: 9
+Prerequisites: None
+Instructors: Kathleen Newman
+Rooms: PH A18A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 76-210 Banned Books>
+
+<start course description for 76-210 Banned Books>
+Semester: Fall 2023 (aka F23)
+Course Description: Literature is powerful! Indeed, we're interested in books that are so controversial that people will shout, argue, and try to change laws in order to have a book removed from a curriculum, a school or public library, or a prison. At the same time we'll learn about how, in response, other people work extremely hard to defend books against removal and censorship.  The term "banned books," can be a bit misleading in the US context; only in very rare cases does the US federal government get involved in trying to ban or censor a published work. Nonetheless, the US is a hot spot for those who seek to attack books, and for those who seek to defend them. In this course you will find that the actions of attackers and the actions of defenders are often mutually reinforcing.  Every student in this course will contribute to a public facing website called The CMU Banned Books project. This website is used by journalists, scholars and activists around the world. This semester's books for reading and discussion include some of the most frequently banned and challenged books of the last five years, including The Handmaid's Tale, Gender Queer, The 1619 Project, and The Absolutely True Diary of a Part-Time Indian. Since 2020, organizations that track book banning tell us that the numbers of books banned and/or challenged are at an all-time high.
+</end course description for 76-210 Banned Books>

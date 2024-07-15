@@ -1,0 +1,16 @@
+<start course metadata for 90-775 Decision and Risk Modeling>
+Semester: Spring 2024 (aka S24)
+Course Name: Decision and Risk Modeling
+Course Number: 90-775
+Department: Public Policy & Mgt:Sch of Pub Pol & Mgt
+Number of Units: 6
+Prerequisites: None
+Instructors: Jonathan Caulkins
+Rooms: HBH 2008; HBH A301
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 90-775 Decision and Risk Modeling>
+
+<start course description for 90-775 Decision and Risk Modeling>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is one of several introductory courses in analytics and management science that survey a variety of hands-on quantitative modeling methods that are useful to decision makers and business and policy analysts.  They overlap considerably but are tailored for particular programs based on student career paths and interests.
+</end course description for 90-775 Decision and Risk Modeling>

@@ -1,0 +1,16 @@
+<start course metadata for 47-950 Seminar in Business Tech: Human-AI Interactions in Business Decision Making>
+Semester: Fall 2023 (aka F23)
+Course Name: Seminar in Business Tech: Human-AI Interactions in Business Decision Making
+Course Number: 47-950
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Zoey Jiang
+Rooms: TEP 5222
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 47-950 Seminar in Business Tech: Human-AI Interactions in Business Decision Making>
+
+<start course description for 47-950 Seminar in Business Tech: Human-AI Interactions in Business Decision Making>
+Semester: Fall 2023 (aka F23)
+Course Description: Innovations in algorithms and artificial intelligence (AI) are changing the way business and policy decisions are made. For example, inventory and pricing algorithms are developed to help retail managers make better operational decisions; forecasting algorithms are developed to help nurse managers make patient admission decisions given hospital capacity constraints; risk assessment algorithms are developed to help public service workers make child maltreatment hotline screening decisions.  How should business managers or policy makers use these algorithms effectively? How do human workers "collaborate" with these algorithms in decision making processes? How to improve the effectiveness of such collaborative decision making between humans and algorithms? These are the questions we will explore in this course.  This is a doctoral-level class in the business technologies area. The primary goal is to create a conceptual understanding of the key factors to consider when looking at humanAI interactions in business or policy decision making contexts. Economics models (both empirical and theoretical) and frameworks will be leveraged to build such understanding. This class also prepares students to conduct their own work in this fast-growing research area; and hopefully benefit their research career going forward.
+</end course description for 47-950 Seminar in Business Tech: Human-AI Interactions in Business Decision Making>

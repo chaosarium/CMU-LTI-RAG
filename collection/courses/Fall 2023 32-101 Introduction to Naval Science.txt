@@ -1,0 +1,16 @@
+<start course metadata for 32-101 Introduction to Naval Science>
+Semester: Fall 2023 (aka F23)
+Course Name: Introduction to Naval Science
+Course Number: 32-101
+Department: Naval Science - ROTC
+Number of Units: 6
+Prerequisites: None
+Instructors: Joshua Oberley
+Rooms: HBH 1005
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 32-101 Introduction to Naval Science>
+
+<start course description for 32-101 Introduction to Naval Science>
+Semester: Fall 2023 (aka F23)
+Course Description: A general introduction to the naval profession and to concepts of Seapower. Instruction emphasizes the mission, organization, and warfare components of the Navy and Marine Corps. Included is an overview of officer and enlisted ranks and rates, training and education, and career patterns. The course also covers naval courtesy and customs, military justice, leadership, and nomenclature. This course exposes the student to the professional competencies required to become a naval officer.
+</end course description for 32-101 Introduction to Naval Science>

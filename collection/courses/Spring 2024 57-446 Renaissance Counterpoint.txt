@@ -1,0 +1,16 @@
+<start course metadata for 57-446 Renaissance Counterpoint>
+Semester: Spring 2024 (aka S24)
+Course Name: Renaissance Counterpoint
+Course Number: 57-446
+Department: Music
+Number of Units: 6
+Prerequisites: 57-408
+Instructors: R. James Whipple
+Rooms: CFA A2
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-446 Renaissance Counterpoint>
+
+<start course description for 57-446 Renaissance Counterpoint>
+Semester: Spring 2024 (aka S24)
+Course Description: In this course the student will study how to write vocal counterpoint using the classic "species" approach, based on the style of Renaissance masters Palestrina, Lassus, and Victoria. The latter part of the course will extend the study to instrumental music of the 16th century, and explore the development of chromaticism in avant-garde composers of the time.  Reading about and listening to Renaissance music and composers will be included as background context for the theory work.  Daily writing exercises in the first part of the course will lead to a term project producing a performable piece of music by the end of the semester.  This course is designed for composers (both for writing technique and college teaching preparation), theory minors, early music lovers, choral singers and conductors, church musicians, and anyone who wants to sharpen their writing skills.  Prerequisite: Harmony I or permission of the instructor (demonstrated competence in reading treble and bass clef, and intervals).
+</end course description for 57-446 Renaissance Counterpoint>

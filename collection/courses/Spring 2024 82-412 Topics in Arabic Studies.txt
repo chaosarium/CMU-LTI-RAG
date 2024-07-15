@@ -1,0 +1,16 @@
+<start course metadata for 82-412 Topics in Arabic Studies>
+Semester: Spring 2024 (aka S24)
+Course Name: Topics in Arabic Studies
+Course Number: 82-412
+Department: Modern Languages
+Number of Units: 9
+Prerequisites: None
+Instructors: Anouar Rahmani
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 82-412 Topics in Arabic Studies>
+
+<start course description for 82-412 Topics in Arabic Studies>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is designed for students who have completed Advanced Arabic. Students will study written, audio, and video material taken from well-known Arabic-language media outlets such as Al-Jazeera, BBC Arabic, al-Arabiyya, etc. Linguistically, this course focuses on Modern Standard Arabic (MSA) because the media is one of the main domains in which MSA is significantly utilized in our modern age. Students will utilize reading, writing, and speaking skills to engage actively in class activities such as group discussions, debates, interviews, short presentations, etc. Students will prepare and present a final project in Arabic to share with the class.  **The course can be repeated but after consent of instructor.**
+</end course description for 82-412 Topics in Arabic Studies>

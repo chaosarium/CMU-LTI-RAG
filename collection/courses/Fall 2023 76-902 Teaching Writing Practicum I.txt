@@ -1,0 +1,16 @@
+<start course metadata for 76-902 Teaching Writing Practicum I>
+Semester: Fall 2023 (aka F23)
+Course Name: Teaching Writing Practicum I
+Course Number: 76-902
+Department: English
+Number of Units: 3
+Prerequisites: None
+Instructors: David Brown
+Rooms: BH 154A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 76-902 Teaching Writing Practicum I>
+
+<start course description for 76-902 Teaching Writing Practicum I>
+Semester: Fall 2023 (aka F23)
+Course Description: This practicum, a requirement for new First-Year Writing teachers who are graduate student instructors, supports new first-year writing teachers. Within the context of these meetings, we cover various methods for conducting lesson plans, facilitating group work and responding to student writing. At points within the semester, we calibrate our expectations for effective student writing at Carnegie Mellon. Successful completion of the course requires effective teaching as a T.A. in mini 1 and effective teaching as instructor of record in mini 2.
+</end course description for 76-902 Teaching Writing Practicum I>

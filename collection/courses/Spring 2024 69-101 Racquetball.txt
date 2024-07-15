@@ -1,0 +1,16 @@
+<start course metadata for 69-101 Racquetball>
+Semester: Spring 2024 (aka S24)
+Course Name: Racquetball
+Course Number: 69-101
+Department: Physical Education
+Number of Units: 3
+Prerequisites: None
+Instructors: Benjamin Gibboney, Brandon Bowman, Sara Gauntner, Timothy Connelly
+Rooms: CUC COURTS
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 69-101 Racquetball>
+
+<start course description for 69-101 Racquetball>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is designed to aid in developing the fundamental skills involved in racquetball.  Techniques, rules and strategy are stressed.  It is hoped that the student will develop a reasonable level of proficiency to enable participation on a leisure-time basis.
+</end course description for 69-101 Racquetball>

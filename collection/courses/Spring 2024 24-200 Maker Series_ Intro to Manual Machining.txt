@@ -1,0 +1,16 @@
+<start course metadata for 24-200 Maker Series: Intro to Manual Machining>
+Semester: Spring 2024 (aka S24)
+Course Name: Maker Series: Intro to Manual Machining
+Course Number: 24-200
+Department: Mechanical Engineering
+Number of Units: 1
+Prerequisites: None
+Instructors: Edward Wojciechowski
+Rooms: HH C110
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-200 Maker Series: Intro to Manual Machining>
+
+<start course description for 24-200 Maker Series: Intro to Manual Machining>
+Semester: Spring 2024 (aka S24)
+Course Description: 24-200  Machine Shop Practices    Fall and Spring Semesters, 1 units, 6 week mini course    This course familiarizes students with the operation and safety of machine tools. This gives students knowledge of what goes into engineering designs in building a prototype and also enables them to operate shop machinery as a part of future courses.    Prerequisite:  Undergraduate Mechanical Engineering standing    2 hours lab    Machine Shop Practices should be completed prior to Design II 24-441.
+</end course description for 24-200 Maker Series: Intro to Manual Machining>

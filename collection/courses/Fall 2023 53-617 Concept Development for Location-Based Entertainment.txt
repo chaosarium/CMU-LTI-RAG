@@ -1,0 +1,16 @@
+<start course metadata for 53-617 Concept Development for Location-Based Entertainment>
+Semester: Fall 2023 (aka F23)
+Course Name: Concept Development for Location-Based Entertainment
+Course Number: 53-617
+Department: Entertainment Technology
+Number of Units: 12
+Prerequisites: None
+Instructors: Estefania Pickens
+Rooms: PTC 2301
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 53-617 Concept Development for Location-Based Entertainment>
+
+<start course description for 53-617 Concept Development for Location-Based Entertainment>
+Semester: Fall 2023 (aka F23)
+Course Description: You've been asked to develop an idea for a Location-Based Entertainment (LBE) experience - where do you go from here?  How do you develop an idea into a fully-formed concept?  What different disciplines must you consider for various projects, from theme park attractions to cruise ships to VR games?  In this class, we will discuss the thought processes and deliverables that go into successfully turning the spark of an idea into a fully-formed project pitch.  We will take real-world "briefs" (assignments) for LBE experiences and, working in teams, turn them into full concepts that hit requirements, and we will practice demonstrating the thought processes and communication skills that get us there.  This class is appropriate for anyone interested in the creative process and early project development.
+</end course description for 53-617 Concept Development for Location-Based Entertainment>

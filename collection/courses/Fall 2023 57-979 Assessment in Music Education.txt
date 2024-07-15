@@ -1,0 +1,16 @@
+<start course metadata for 57-979 Assessment in Music Education>
+Semester: Fall 2023 (aka F23)
+Course Name: Assessment in Music Education
+Course Number: 57-979
+Department: Music
+Number of Units: 9
+Prerequisites: None
+Instructors: Jane Wall
+Rooms: HOA 223
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-979 Assessment in Music Education>
+
+<start course description for 57-979 Assessment in Music Education>
+Semester: Fall 2023 (aka F23)
+Course Description: TBA
+</end course description for 57-979 Assessment in Music Education>

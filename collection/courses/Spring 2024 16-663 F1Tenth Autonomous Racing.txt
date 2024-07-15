@@ -1,0 +1,16 @@
+<start course metadata for 16-663 F1Tenth Autonomous Racing>
+Semester: Spring 2024 (aka S24)
+Course Name: F1Tenth Autonomous Racing
+Course Number: 16-663
+Department: Robotics
+Number of Units: 12
+Prerequisites: None
+Instructors: John Dolan
+Rooms: NSH 1305
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 16-663 F1Tenth Autonomous Racing>
+
+<start course description for 16-663 F1Tenth Autonomous Racing>
+Semester: Spring 2024 (aka S24)
+Course Description: This hands-on, lab-centered course is for senior undergraduates and graduate students interested in the fields of artificial perception, motion planning, control theory, and applied machine learning. It is also for studentsinterested in the burgeoning field of autonomous driving. This course introduces the students to the hardware, software and algorithms involved in building and racing an autonomous race car. Every week, students take two lectures and complete an extensive hands-on lab. By Week 6, the students will have built, programmed and driven a 1/10th scale autonomous race car. By Week 10, the students will have learned fundamental principles in perception, planning and control and will race using map-based approaches. In the last 6 weeks, they develop and implement advanced racing strategies, computer vision and machine learning algorithms that will give their team the edge in the race that concludes the course.
+</end course description for 16-663 F1Tenth Autonomous Racing>

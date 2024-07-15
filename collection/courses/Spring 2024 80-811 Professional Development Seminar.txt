@@ -1,0 +1,16 @@
+<start course metadata for 80-811 Professional Development Seminar>
+Semester: Spring 2024 (aka S24)
+Course Name: Professional Development Seminar
+Course Number: 80-811
+Department: Philosophy
+Number of Units: 6
+Prerequisites: None
+Instructors: Francesca Zaffora Blando
+Rooms: BH 145C
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 80-811 Professional Development Seminar>
+
+<start course description for 80-811 Professional Development Seminar>
+Semester: Spring 2024 (aka S24)
+Course Description: This class is for professional development of masters and PhD students in the philosophy department.  All students who are in their first three years of graduate programs should enroll in this course.     Section A: First year Masters and PhD students   Section B: 2nd year Masters and PhD students   Section C: 3rd year PhD students
+</end course description for 80-811 Professional Development Seminar>

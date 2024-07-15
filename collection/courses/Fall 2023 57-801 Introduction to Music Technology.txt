@@ -1,0 +1,16 @@
+<start course metadata for 57-801 Introduction to Music Technology>
+Semester: Fall 2023 (aka F23)
+Course Name: Introduction to Music Technology
+Course Number: 57-801
+Department: Music
+Number of Units: 6
+Prerequisites: None
+Instructors: Benjamin Opie
+Rooms: HOA A10
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-801 Introduction to Music Technology>
+
+<start course description for 57-801 Introduction to Music Technology>
+Semester: Fall 2023 (aka F23)
+Course Description: This course gives an overview of music technology through practical information and several hands-on projects. Concepts such as MIDI and digital audio are introduced and specific topics are covered in detail including sequencing, music notation, digital recording, mixing, and  production. Throughout the course, students are required to complete several projects and create musical compositions in styles of their own choosing. The student is not graded on the "musicality" of these compositions, but instead on how  well they meet the stated project goals by correctly using specific equipment and/or computer programs.
+</end course description for 57-801 Introduction to Music Technology>

@@ -1,0 +1,16 @@
+<start course metadata for 54-996 Directing>
+Semester: Spring 2024 (aka S24)
+Course Name: Directing
+Course Number: 54-996
+Department: Drama
+Number of Units: N/A
+Prerequisites: None
+Instructors: Instructor TBA, Joe Pino, Kim Weild
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-996 Directing>
+
+<start course description for 54-996 Directing>
+Semester: Spring 2024 (aka S24)
+Course Description: Assignment to professional theatre organizations designed to meet the professional needs of advanced-standing students.  By permission of the Head of the Department.
+</end course description for 54-996 Directing>

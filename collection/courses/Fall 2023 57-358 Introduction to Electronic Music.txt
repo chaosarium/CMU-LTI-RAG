@@ -1,0 +1,16 @@
+<start course metadata for 57-358 Introduction to Electronic Music>
+Semester: Fall 2023 (aka F23)
+Course Name: Introduction to Electronic Music
+Course Number: 57-358
+Department: Music
+Number of Units: 9
+Prerequisites: None
+Instructors: Freida Abtan
+Rooms: HL A10A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-358 Introduction to Electronic Music>
+
+<start course description for 57-358 Introduction to Electronic Music>
+Semester: Fall 2023 (aka F23)
+Course Description: This course will allow students to produce original works of electronic music composition in response to strategic listening assignments presented within their historical context. Students will learn critical listening and analytical skills, and be assessed on their electronic music production as well as on their ability to articulate context and structure.  This course is for undergraduate music students.  Other students may register for it with the permission of the instructor.
+</end course description for 57-358 Introduction to Electronic Music>

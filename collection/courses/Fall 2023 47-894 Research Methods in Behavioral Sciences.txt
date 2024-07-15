@@ -1,0 +1,16 @@
+<start course metadata for 47-894 Research Methods in Behavioral Sciences>
+Semester: Fall 2023 (aka F23)
+Course Name: Research Methods in Behavioral Sciences
+Course Number: 47-894
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Catherine Shea
+Rooms: TEP 4219
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 47-894 Research Methods in Behavioral Sciences>
+
+<start course description for 47-894 Research Methods in Behavioral Sciences>
+Semester: Fall 2023 (aka F23)
+Course Description: This course provides an introduction to research methodology applicable to organizational behavior with an emphasis on experimentation. The course will survey the major research methodologies used in organizational behavior and social psychology, and will focus on both theoretical and practical considerations of research methods. This is not a statistics course (though an introduction to basic principles is part of the course). The purpose of the course is to give you the background to choose the methods that are most appropriate for your area of study, help you anticipate the shortcomings and problems you will encounter executing your chosen methodologies, and to defend your methodological choices against criticism in your interactions with investigators from allied and not-so-allied disciplines.
+</end course description for 47-894 Research Methods in Behavioral Sciences>

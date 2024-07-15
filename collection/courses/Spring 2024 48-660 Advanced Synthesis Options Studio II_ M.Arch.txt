@@ -1,0 +1,16 @@
+<start course metadata for 48-660 Advanced Synthesis Options Studio II: M.Arch>
+Semester: Spring 2024 (aka S24)
+Course Name: Advanced Synthesis Options Studio II: M.Arch
+Course Number: 48-660
+Department: Architecture
+Number of Units: 18
+Prerequisites: None
+Instructors: Sarosh Anklesaria
+Rooms: MM 312
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-660 Advanced Synthesis Options Studio II: M.Arch>
+
+<start course description for 48-660 Advanced Synthesis Options Studio II: M.Arch>
+Semester: Spring 2024 (aka S24)
+Course Description: The vertically-integrated advanced studios encourage interdisciplinary collaboration from arts, technology, research and design. They range from large scale urban and ecological projects, to detailed investigations of materials, and fabrication strategies.
+</end course description for 48-660 Advanced Synthesis Options Studio II: M.Arch>

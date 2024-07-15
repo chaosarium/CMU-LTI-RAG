@@ -1,0 +1,16 @@
+<start course metadata for 15-740 Computer Architecture>
+Semester: Fall 2023 (aka F23)
+Course Name: Computer Architecture
+Course Number: 15-740
+Department: Computer Science
+Number of Units: 12
+Prerequisites: None
+Instructors: Nathan Beckmann
+Rooms: GHC 4303
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-740 Computer Architecture>
+
+<start course description for 15-740 Computer Architecture>
+Semester: Fall 2023 (aka F23)
+Course Description: This course attempts to provide a deep understanding of the issues and challenges involved in designing and implementing modern computer systems. Our primary goal is to help students become more skilled in their use of computer systems, including the development of applications and system software. Users can benefit greatly from understanding how computer systems work, including their strengths and weaknesses. This is particularly true in developing applications where performance is an issue.  Please refer to http://www.cs.cmu.edu/~csd-grad/courseschedulef22.html for the most recent schedule updates.
+</end course description for 15-740 Computer Architecture>

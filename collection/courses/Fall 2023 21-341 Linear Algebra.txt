@@ -1,0 +1,16 @@
+<start course metadata for 21-341 Linear Algebra>
+Semester: Fall 2023 (aka F23)
+Course Name: Linear Algebra
+Course Number: 21-341
+Department: Mathematical Sciences
+Number of Units: 9
+Prerequisites: (21-241 or 21-242) and (21-373)
+Instructors: Ernest Schimmerling
+Rooms: WEH 8220
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-341 Linear Algebra>
+
+<start course description for 21-341 Linear Algebra>
+Semester: Fall 2023 (aka F23)
+Course Description: A mathematically rigorous treatment of Linear Algebra over an arbitrary field. Topics studied will include abstract vector spaces, linear  transformations, determinants, eigenvalues, eigenvectors, inner products, invariant subspaces, canonical forms, the spectral theorem and the singular value decomposition. 21-373 recommended. (Three 50 minute lectures)
+</end course description for 21-341 Linear Algebra>

@@ -1,0 +1,16 @@
+<start course metadata for 57-817 Graduate Opera Workshop>
+Semester: Fall 2023 (aka F23)
+Course Name: Graduate Opera Workshop
+Course Number: 57-817
+Department: Music
+Number of Units: 6
+Prerequisites: None
+Instructors: Jennifer Aylmer, Kelly Trumbull
+Rooms: CFA KRESGE
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-817 Graduate Opera Workshop>
+
+<start course description for 57-817 Graduate Opera Workshop>
+Semester: Fall 2023 (aka F23)
+Course Description: TBA
+</end course description for 57-817 Graduate Opera Workshop>

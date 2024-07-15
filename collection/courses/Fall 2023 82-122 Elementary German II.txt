@@ -1,0 +1,16 @@
+<start course metadata for 82-122 Elementary German II>
+Semester: Fall 2023 (aka F23)
+Course Name: Elementary German II
+Course Number: 82-122
+Department: Modern Languages
+Number of Units: 12
+Prerequisites: 82-121 or 82-123
+Instructors: Stephen Brockmann
+Rooms: PH A19A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 82-122 Elementary German II>
+
+<start course description for 82-122 Elementary German II>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is designed for students who have taken first-semester German at Carnegie Mellon or learned its equivalent as determined by placement. Using a proficiency-oriented approach, students will expand contextually appropriate interpersonal communication skills in both written and spoken German, continue to develop reading and listening skills through the use of various media, review previously learned and practice new grammar and vocabulary, and gain a further understanding of German cultures through class activities. The elementary level is also designed to help students learn to reflect and draw upon strategies used by good language learners in their second language study. Regular homework, quizzes, tests, presentations, and class participation are mandatory (four in-class hours per week). A student with prior experience in German must take the placement exam.
+</end course description for 82-122 Elementary German II>

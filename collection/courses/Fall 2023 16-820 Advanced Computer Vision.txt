@@ -1,0 +1,16 @@
+<start course metadata for 16-820 Advanced Computer Vision>
+Semester: Fall 2023 (aka F23)
+Course Name: Advanced Computer Vision
+Course Number: 16-820
+Department: Robotics
+Number of Units: 12
+Prerequisites: None
+Instructors: David Held
+Rooms: TEP 1403
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 16-820 Advanced Computer Vision>
+
+<start course description for 16-820 Advanced Computer Vision>
+Semester: Fall 2023 (aka F23)
+Course Description: 16-820 is a required core course for MSCV students and is intended to move at a slightly faster pace compared to 16-720.  This course introduces the fundamental techniques used in computer vision, that is, the analysis of patterns in visual images to reconstruct and understand the objects and scenes that generated them. Topics covered include camera geometry and calibration, multi-view stereo, 3D reconstruction, image detection, segmentation, and tracking, and physics-based vision. The homeworks involve considerable Python programming exercises.
+</end course description for 16-820 Advanced Computer Vision>

@@ -1,0 +1,16 @@
+<start course metadata for 90-440 Critical Analysis of Policy Research>
+Semester: Spring 2024 (aka S24)
+Course Name: Critical Analysis of Policy Research
+Course Number: 90-440
+Department: Public Policy & Mgt:Sch of Pub Pol & Mgt
+Number of Units: 12
+Prerequisites: None
+Instructors: Brian Kovak
+Rooms: HBH 1006
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 90-440 Critical Analysis of Policy Research>
+
+<start course description for 90-440 Critical Analysis of Policy Research>
+Semester: Spring 2024 (aka S24)
+Course Description: This course prepares students to understand, interpret, and critique existing policy research. The course focuses on the development of three essential skills for policy analysts: 1) Read and interpret empirical results in published research. 2) Understand the assumptions needed to infer causal relationships and assess their plausibility. 3) Recognize common problems in policy research, including reverse causality, omitted variables, measurement error, etc., and use graphical methods to determine the direction of the resulting statistical bias. Using these three skills, students will practice understanding and critiquing policy research. Moreover, by identifying and understanding potential problems, students can make valid conclusions even from seriously flawed research. At the end of the class, students demonstrate these skills by independently evaluating an existing piece of research of their choice, presenting their findings in a written report and in-class presentation.  Note that the posted syllabus is for a mini-length version of the course.  Moving forward, the course will be semester-long.  The material covered will be very similar, but with more detail, supplementary topics, and more opportunities for students to practice their skills prior to the culminating final project.
+</end course description for 90-440 Critical Analysis of Policy Research>

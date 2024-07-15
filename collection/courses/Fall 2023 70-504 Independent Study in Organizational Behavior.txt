@@ -1,0 +1,16 @@
+<start course metadata for 70-504 Independent Study in Organizational Behavior>
+Semester: Fall 2023 (aka F23)
+Course Name: Independent Study in Organizational Behavior
+Course Number: 70-504
+Department: Business Administration
+Number of Units: N/A
+Prerequisites: None
+Instructors: George Burton Hollifield, Muhammad Farooqi
+Rooms: DNM DNM
+Locations: Doha, Qatar; Pittsburgh, Pennsylvania
+</end course metadata for 70-504 Independent Study in Organizational Behavior>
+
+<start course description for 70-504 Independent Study in Organizational Behavior>
+Semester: Fall 2023 (aka F23)
+Course Description: Students with a special interest in Organizational Behavior not covered by a formal Business course may develop an Independent Study Course in that area.  Readings and work to be completed are by agreement between the student and an individual faculty member.  Enrollment by permission of the BA Program.
+</end course description for 70-504 Independent Study in Organizational Behavior>

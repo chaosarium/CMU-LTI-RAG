@@ -1,0 +1,16 @@
+<start course metadata for 33-896 Supervised Reading in Mathematical Physics>
+Semester: Spring 2024 (aka S24)
+Course Name: Supervised Reading in Mathematical Physics
+Course Number: 33-896
+Department: Physics
+Number of Units: N/A
+Prerequisites: None
+Instructors: Instructor TBA
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 33-896 Supervised Reading in Mathematical Physics>
+
+<start course description for 33-896 Supervised Reading in Mathematical Physics>
+Semester: Spring 2024 (aka S24)
+Course Description: None
+</end course description for 33-896 Supervised Reading in Mathematical Physics>

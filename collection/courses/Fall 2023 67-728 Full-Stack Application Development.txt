@@ -1,0 +1,16 @@
+<start course metadata for 67-728 Full-Stack Application Development>
+Semester: Fall 2023 (aka F23)
+Course Name: Full-Stack Application Development
+Course Number: 67-728
+Department: Information Systems Program
+Number of Units: 9
+Prerequisites: None
+Instructors: Chad Hershberger, Geoffrey Dobson
+Rooms: WEH 5312
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 67-728 Full-Stack Application Development>
+
+<start course description for 67-728 Full-Stack Application Development>
+Semester: Fall 2023 (aka F23)
+Course Description: Web 2.0, Mashups, Mobile Apps, and Cloud Computing are just a few of the new terms people are using to describe emerging technologies for building complex, distributed applications. Protocol standards, web services, open-APIs, increasingly more powerful mobile devices, and the Internet have enabled new possibilities for weaving complex applications using globally-distributed data and computing resources. Application development has largely left any single computer, and is distributed across a wide range of hardware and software platforms. This class will explore these developing technologies and models for structuring their complexity, while building projects that go from mobile to the cloud.
+</end course description for 67-728 Full-Stack Application Development>

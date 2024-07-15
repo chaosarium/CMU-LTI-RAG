@@ -1,0 +1,16 @@
+<start course metadata for 82-789 Guided Research>
+Semester: Fall 2023 (aka F23)
+Course Name: Guided Research
+Course Number: 82-789
+Department: Modern Languages
+Number of Units: N/A
+Prerequisites: None
+Instructors: Instructor TBA, Katharine Burns, Keiko Koda, Kenya Dworkin, Khaled Al Masaeed, Seth Wiener, Yasufumi Iwasaki
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 82-789 Guided Research>
+
+<start course description for 82-789 Guided Research>
+Semester: Fall 2023 (aka F23)
+Course Description: Individual study/research under the supervision of a faculty member, which provides the student with additional opportunities to conduct research which may lead to a thesis or dissertation.
+</end course description for 82-789 Guided Research>

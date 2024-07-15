@@ -1,0 +1,16 @@
+<start course metadata for 57-746 Opera Coaching>
+Semester: Fall 2023 (aka F23)
+Course Name: Opera Coaching
+Course Number: 57-746
+Department: Music
+Number of Units: 3
+Prerequisites: None
+Instructors: Jocelyn Dueck
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-746 Opera Coaching>
+
+<start course description for 57-746 Opera Coaching>
+Semester: Fall 2023 (aka F23)
+Course Description: A course designed for pianists with focus on all styles of operatic literature. Emphasis placed on techniques of preparation and rehearsal of ensembles as well as solo repertoire. Effective means of producing orchestral textures at the piano are studied.
+</end course description for 57-746 Opera Coaching>

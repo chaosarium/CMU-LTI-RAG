@@ -1,0 +1,16 @@
+<start course metadata for 57-855 Secondary Guided Teaching>
+Semester: Spring 2024 (aka S24)
+Course Name: Secondary Guided Teaching
+Course Number: 57-855
+Department: Music
+Number of Units: 3
+Prerequisites: None
+Instructors: Jeremy Olisar
+Rooms: HOA 224
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-855 Secondary Guided Teaching>
+
+<start course description for 57-855 Secondary Guided Teaching>
+Semester: Spring 2024 (aka S24)
+Course Description: This course develops understanding and application of appropriate and acceptable instructional practices in the secondary school.  The student will spend a portion of the course in an assigned public or private school teaching internship.
+</end course description for 57-855 Secondary Guided Teaching>

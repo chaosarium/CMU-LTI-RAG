@@ -1,0 +1,16 @@
+<start course metadata for 33-225 Quantum Physics and Structure of Matter>
+Semester: Fall 2023 (aka F23)
+Course Name: Quantum Physics and Structure of Matter
+Course Number: 33-225
+Department: Physics
+Number of Units: 9
+Prerequisites: 33-107 or 33-132 or 33-112 or 33-142 or 33-152 or 33-122
+Instructors: Jyoti Katoch
+Rooms: SH 238
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 33-225 Quantum Physics and Structure of Matter>
+
+<start course description for 33-225 Quantum Physics and Structure of Matter>
+Semester: Fall 2023 (aka F23)
+Course Description: This course introduces the basic theory used to describe the microscopic world of electrons, atoms, and photons. The duality between wave-like and particle-like phenomena is introduced along with the deBroglie relations which link them. We develop a wave description appropriate for quanta which are partially localized and discuss the interpretation of these wavefunctions. The wave equation of quantum mechanics is developed and applied to the hydrogen atom from which we extrapolate the structure of the Periodic Table. Other materials-related applications are developed, for example, Boltzmann and quantum statistics and properties of electrons in crystals. This course is intended primarily for non-physics majors who have not taken 33-211.
+</end course description for 33-225 Quantum Physics and Structure of Matter>

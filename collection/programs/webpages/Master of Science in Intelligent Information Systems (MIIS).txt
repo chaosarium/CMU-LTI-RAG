@@ -1,0 +1,282 @@
+Overview: The Master's in Intelligent Information Systems degree focuses on recognizing and extracting meaning from text, spoken language and video. As an MIIS student, you’ll receive the department’s deepest exposure to content analysis and machine learning. In addition to completing the program’s coursework, you’ll work on directed study projects with your faculty advisor for two semesters; participate in a summer internship; and collaborate with your peers on a semester-long, group-oriented capstone project. This combination of classroom instruction, professional experience, and using new skills in significant projects with world-class colleagues will help prepare you for a successful career in industry or government. Our alumni have gone on to exciting careers at places like Apple, IBM and Google, and most have job offers within six weeks of graduation.
+Requirements: The Intelligent Information Systems degree offers students the flexibility to create their own course of study in consultation with their advisor. 
+
+MIIS students gain three types of practical experience: software development supervised by their advisor (24 units equivalent to two courses); a summer internship (which can be waived for students that have sufficient prior professional experience); and a capstone project executed in a group of peers (42 units equivalent to three 12-unit courses and one 6-unit course). This combination is proven to help IIS students to broaden their skills quickly. The MIIS degree is offered in two options:
+
+Option 1. Standard MIIS degree (MIIS-16) - A 16-month track that is completed in three academic semesters (fall, spring, fall) and a summer internship.  
+
+Option 2. MIIS: Advanced Study degree (MIIS-21) - A 21-month track that is completed in four academic semesters (fall, spring, fall, spring) and a summer internship.
+
+MIIS: Advanced Study track offers indepth degree in one of the following areas of concentration:
+
+Human Language for Language Technologies
+Language Technology Application
+Machine Learning for Language Technologies
+Part-time education option is available in some cases. 
+
+MIIS-16 students must take at least 84 units (typically 7 courses) of qualifying and elective courses that satisfy human language, machine learning, and language technology applications breadth requirements. MIIS-21 students have to take at least two more courses from the selected concentration area to satisfy their degree requirements, making it total of 108 units (typically 9 courses) of qualifying and elective courses, that also satisfy breadth requirements.
+
+For a full list of requirements, read the MIIS Handbook.
+Curriculum: Click one of the two options below: 
+
+ 
+
+MIIS-16
+
+MIIS-21
+
+ 
+
+Here are some example schedules for completing the MIIS-16 program.
+
+Example Course of Study #1
+
+This schedule would satisfy course requirements for a student interested in text mining, text analytics and question-answering systems.
+
+Fall 1
+
+Spring
+
+Summer
+
+Fall 2
+
+Machine Learning
+
+Search Engines
+
+Design and Engineering of Intelligent Systems\ Directed Study
+
+Language and Statistics
+
+Natural Language Processing
+
+Question Answering
+
+Directed Study
+
+MIIS Capstone Planning Seminar
+
+Internship
+
+Machine Learning for Text Mining
+
+MIIS Capstone Project
+
+ 
+
+Example Course of Study #2
+
+This schedule would satisfy course requirements for a student interested in voice-based computer applications.
+
+Fall 1
+
+Spring
+
+Summer
+
+Fall 2
+
+Machine Learning
+
+Algorithms for NLP
+
+Speech Recognition and Understanding
+
+Directed Study
+
+Applied Machine Learning
+
+Competitive Engineering
+
+Design and Implementation of Speech Recognition Systems
+
+Directed Study
+
+MIIS Capstone Planning Seminar
+
+Internship
+
+Conversational Interfaces
+
+MIIS Capstone Project
+
+ 
+
+Example Course of Study #3
+
+This example would satisfy course requirements for a student interested in text mining, text analytics and question-answering systems who has petitioned to have the summer internship waived.
+
+Fall 1
+
+Spring
+
+Summer
+
+Search Engines
+
+Analysis of Social Media
+
+Design and Engineering of Intelligent Systems
+
+Directed Study
+
+Machine Learning
+
+Natural Language Processing
+
+Question Answering
+
+Directed Study
+
+MIIS Capstone Planning Seminar
+
+Academic Research Practices and Scientific Communities
+
+MIIS Capstone Project
+
+ 
+
+Here are some example schedules for completing the MIIS-21 program.
+
+Example Course of Study #1
+
+This schedule would satisfy course requirements for a student interested in deepening their expertise in Machine Learning area of concentration.
+
+Fall 1	Spring 1	Summer	Fall 2	Spring 2
+Search Engines
+
+Algorithms for NLP
+
+Intro to ML (MLD)
+
+MIIS Directed Study
+
+Question Answering
+
+Intro to Deep Learning
+
+MIIS Capstone Planning Seminar
+
+MIIS Directed Study
+
+Internship	
+MIIS Capstone Project
+
+Applied ML
+
+ML for Text Mining
+
+ML for Signal Processing
+
+Elective
+
+ 
+
+Example Course of Study #2
+
+This schedule would satisfy course requirements for a student interested in deepening their expertise in Language Technology Applications area of concentration.
+
+Fall 1	Spring 1	Summer	Fall 2	Spring 2
+Search Engines
+
+Algorithms for NLP
+
+Intro to ML (MLD)
+
+MIIS Directed Study
+
+Question Answering
+
+Intro to Deep Learning
+
+MIIS Capstone Planning Seminar
+
+MIIS Directed Study
+
+Internship	
+MIIS Capstone Project
+
+Machine Translation
+
+Comp Semantics for NLP
+
+Neural Networks for NLP
+
+Elective
+
+ 
+
+Example Course of Study #3
+
+This example would satisfy course requirements for a student interested in deepening their expertise in Human Language area of concentration
+
+Fall 1	Spring 1	Summer	Fall 2	Spring 2
+Natural Language Processing
+
+Algorithms for NLP
+
+Intro to ML (MLD)
+
+MIIS Directed Study
+
+Question Answering
+
+Intro to Deep Learning
+
+MIIS Capstone Planning Seminar
+
+MIIS Directed Study
+
+Internship	
+MIIS Capstone Project
+
+Language and Statistics
+
+Comp Semantics for NLP
+
+ML for Signal Processing
+
+Elective
+Admission: Carnegie Mellon's School of Computer Science has a centralized online application process. Applications and all supporting documentation for fall admission to any of the LTI's graduate programs must be received by the application deadline. Incomplete applications will not be considered. The application period for Fall 2024 will open on September 6, 2023.
+
+*Please note, we no longer require mailed, hard versions of transcripts or test scores at the time of application. Do not mail anything to the admissions office. If you are accepted to a program, you will be given instruction to then mail your materials.
+
+Final Application Deadline
+
+December 13, 2023 at 3:00 p.m. EST.
+
+Cost
+
+$100 per program, $80 for applications submitted before November 29, 2023 at 3:00 p.m. EST (early deadline).
+Fee Waivers
+
+Fee waivers may be available in cases of financial hardship, or for participants in select "pipeline" programs. For more information, please refer to the School of Computer Science Fee Waiver page.
+
+Requirements
+
+The School of Computer Science requires the following for all Master's applications.
+
+GRE scores: MIIS applicants must submit their GRE scores. The scores must be less than five years old. The GRE Subject Test is not required, but is recommended. Our Institution Code is 2074; Department Code is 0402.
+Proof of English Language Proficiency:
+
+If you will be studying on an F-1 or J-1 visa, and English is not a native language for you (native language…meaning spoken at home and from birth), we are required to formally evaluate your English proficiency. We require applicants who will be studying on an F-1 or J-1 visa, and for whom English is not a native language, to demonstrate English proficiency via one of these standardized tests: TOEFL (preferred), IELTS, or Duolingo.  We discourage the use of the "TOEFL ITP Plus for China," since speaking is not scored.
+
+We do not issue waivers for non-native speakers of English.  In particular, we do not issue waivers based on previous study at a U.S. high school, college, or university.  We also do not issue waivers based on previous study at an English-language high school, college, or university outside of the United States.  No amount of educational experience in English, regardless of which country it occurred in, will result in a test waiver. Submit valid, recent scores: If as described above you are required to submit proof of English proficiency, your TOEFL, IELTS or Duolingo test scores will be considered valid as follows: If you have not received a bachelor’s degree in the U.S., you will need to submit an English proficiency score no older than two years. (scores from exams taken before Sept. 1, 2021, will not be accepted.)
+
+If you are currently working on or have received a bachelor's and/or a master's degree in the U.S., you may submit an expired test score up to five years old. (scores from exams taken before Sept. 1, 2018, will not be accepted.)Additional details about English proficiency requirements are provided on the FAQ page.
+
+Official transcripts from each university you have attended, regardless of whether you received your degree there.
+Current resume.
+Statement of Purpose.
+Three letters of recommendation.
+For more details on these requirements, please see the SCS Master's Admissions page.
+
+In addition to the SCS guidelines, the MIIS requires:
+
+A short (1-3 minute) video of yourself. There will be a prompt question that you will respond to. You will have three attempts.
+No incomplete applications will be eligible for consideration.
+
+For specific application/admissions questions, please contact Brianna Eriksen.
+Handbook: For a complete breakdown of the MIIS program and its policies, including information about internships, please view the PDF iconMIIS Handbook.
+Additional Info: For more information on the MIIS program, please contact Brianna Eriksen.

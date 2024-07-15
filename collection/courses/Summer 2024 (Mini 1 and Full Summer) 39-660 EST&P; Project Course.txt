@@ -1,0 +1,16 @@
+<start course metadata for 39-660 EST&P; Project Course>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: EST&P; Project Course
+Course Number: 39-660
+Department: CIT Interdisciplinary
+Number of Units: N/A
+Prerequisites: None
+Instructors: Paul Salvador
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 39-660 EST&P; Project Course>
+
+<start course description for 39-660 EST&P; Project Course>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: This project course is designed for EST&P; students who are working on an independent investigation on a project related to energy with the advice and approval of the program advisor and/or affiliated faculty member.  Summary report, presentation or poster on work accomplished must be submitted at completion of semester. Once you have determined a suitable topic area, found an engineering faculty member who has agreed to supervise the project work, send the EST&P; project approval form to the EST&P; director for enrollment.  Variable units.  Restricted to EST&P; students
+</end course description for 39-660 EST&P; Project Course>

@@ -1,0 +1,16 @@
+<start course metadata for 54-271 Technical Management>
+Semester: Fall 2023 (aka F23)
+Course Name: Technical Management
+Course Number: 54-271
+Department: Drama
+Number of Units: 6
+Prerequisites: 54-157 and 54-158
+Instructors: Miso Wei
+Rooms: PCA 307
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-271 Technical Management>
+
+<start course description for 54-271 Technical Management>
+Semester: Fall 2023 (aka F23)
+Course Description: Required for all sophomore Design and PTM students. This class establishes a set of standards for creative project management and introduces students to several software packages that can be utilized within these tasks.
+</end course description for 54-271 Technical Management>

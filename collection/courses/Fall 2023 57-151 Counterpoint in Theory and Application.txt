@@ -1,0 +1,16 @@
+<start course metadata for 57-151 Counterpoint in Theory and Application>
+Semester: Fall 2023 (aka F23)
+Course Name: Counterpoint in Theory and Application
+Course Number: 57-151
+Department: Music
+Number of Units: 6
+Prerequisites: 57-153 or 57-150
+Instructors: Alexander Marthaler, John Ito
+Rooms: HOA 223; HOA 224
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-151 Counterpoint in Theory and Application>
+
+<start course description for 57-151 Counterpoint in Theory and Application>
+Semester: Fall 2023 (aka F23)
+Course Description: In Counterpoint in Theory and Application, students begin by learning the traditional five species of counterpoint in a tonal context.  They then build on this foundation, learning to analyze music in terms of the underlying counterpoint and to apply this analysis to performance, and producing original tonal compositions in two voices.
+</end course description for 57-151 Counterpoint in Theory and Application>

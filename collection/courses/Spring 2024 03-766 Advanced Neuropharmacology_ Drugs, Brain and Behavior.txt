@@ -1,0 +1,16 @@
+<start course metadata for 03-766 Advanced Neuropharmacology: Drugs, Brain and Behavior>
+Semester: Spring 2024 (aka S24)
+Course Name: Advanced Neuropharmacology: Drugs, Brain and Behavior
+Course Number: 03-766
+Department: Biological Sciences
+Number of Units: 12
+Prerequisites: None
+Instructors: Kate Hong
+Rooms: WEH 5415
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 03-766 Advanced Neuropharmacology: Drugs, Brain and Behavior>
+
+<start course description for 03-766 Advanced Neuropharmacology: Drugs, Brain and Behavior>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is designed to give students a comprehensive understanding of the major neurotransmitter systems in the brain.  Students will explore qualitative and quantitative approaches to understanding how various neurotransmitters function as well as how they are modulated by endogenous and exogenous agents.  The qualitative exploration will include basic principles of neural communication, signal transduction and second messenger systems, main classes of neurotransmitters, and the effects of medications and drugs of abuse.  Quantitatively, we will explore the kinetics of neurotransmitter binding, affinity of different receptors for their neurotransmitters, and apply concepts of competitive, uncompetitive, and mixed inhibition to understanding the effects of exogenous agonists and antagonists on these receptors.  Students will learn how these qualitative and quantitative biochemical processes affect the endocrine system, neuroinflammatory responses, addictive behaviors, and neurotoxic or degenerative conditions.
+</end course description for 03-766 Advanced Neuropharmacology: Drugs, Brain and Behavior>

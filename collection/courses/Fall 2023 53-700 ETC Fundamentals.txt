@@ -1,0 +1,16 @@
+<start course metadata for 53-700 ETC Fundamentals>
+Semester: Fall 2023 (aka F23)
+Course Name: ETC Fundamentals
+Course Number: 53-700
+Department: Entertainment Technology
+Number of Units: 9
+Prerequisites: None
+Instructors: Gerard Klug, drew davidson
+Rooms: PTC MPR
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 53-700 ETC Fundamentals>
+
+<start course description for 53-700 ETC Fundamentals>
+Semester: Fall 2023 (aka F23)
+Course Description: The Fundamentals of ETC covers the breadth and specificity of the field of entertainment technology. A main focus of this course will be to create and establish a shared interdisciplinary vocabulary of the design and development aspects pertinent to the field. Similarly, presentation skills will be emphasized to enable students to communicate their ideas effectively across a variety of perspectives. Also, project management techniques will be explored that will be directly applicable to ETC projects. Throughout the semester, ETC faculty and industry professionals will provide historical context and experiential referents in relation to entertainment technology. Students will have the opportunity to begin shaping their professional networks as well as establishing a fundamental understanding of how experiences engage and inform. This course is reserved for ETC students.
+</end course description for 53-700 ETC Fundamentals>

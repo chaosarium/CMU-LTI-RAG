@@ -1,0 +1,16 @@
+<start course metadata for 09-714 Advanced Organic Chemistry>
+Semester: Spring 2024 (aka S24)
+Course Name: Advanced Organic Chemistry
+Course Number: 09-714
+Department: Chemistry
+Number of Units: 12
+Prerequisites: 09-218 or 09-220
+Instructors: Gloria Silva
+Rooms: WEH 6423
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 09-714 Advanced Organic Chemistry>
+
+<start course description for 09-714 Advanced Organic Chemistry>
+Semester: Spring 2024 (aka S24)
+Course Description: This course will expose the students to modern methods of organic synthesis including insights into the basis and mechanisms of chemical reactions. Topics include but are not limited to: modern spectroscopic analysis and structure determination, synthetic methods, retrosynthesis, organic reaction mechanisms, and references to separation techniques and some analytical methods. Upon completion of the course students should be able to design reaction schemes using scientific literature sources, evaluate their suitability for use in the lab and develop an aptitude in identifying the use of modern reagents that are more efficient, specific, safer and environmentally friendly. It is assumed that at minimum students will have completed at least two semesters of undergraduate coursework in organic chemistry and suggested that they have completed 09-222 and 09-321, the organic laboratory courses. 3 hrs. lec
+</end course description for 09-714 Advanced Organic Chemistry>

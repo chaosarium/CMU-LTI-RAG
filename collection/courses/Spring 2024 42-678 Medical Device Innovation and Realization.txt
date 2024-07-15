@@ -1,0 +1,16 @@
+<start course metadata for 42-678 Medical Device Innovation and Realization>
+Semester: Spring 2024 (aka S24)
+Course Name: Medical Device Innovation and Realization
+Course Number: 42-678
+Department: Biomedical Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Denver Faulk
+Rooms: DH 1211
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 42-678 Medical Device Innovation and Realization>
+
+<start course description for 42-678 Medical Device Innovation and Realization>
+Semester: Spring 2024 (aka S24)
+Course Description: The increasing pace of medical discoveries and emerging technologies presents a unique and exciting time for medical devices. Medical devices range from biomaterials that stimulate the body to repair itself to drug eluting stints to robotic surgical systems. Because they seek to improve and prolong human health, there are unique requirements and challenges for medical device development compared to most other industries. This class will look at how medical device innovation is currently practiced as well as the drivers which govern it, such as the FDA, intellectual property, reimbursement, and funding. By the end of this course, students should be able to: (1) obtain a broad understanding of medical devices; (2) identify new product opportunities; (3) understand the drivers that affect medical device development; and (4) develop strategies to address those drivers within the overall medical device development plan.
+</end course description for 42-678 Medical Device Innovation and Realization>

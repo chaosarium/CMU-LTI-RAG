@@ -1,0 +1,16 @@
+<start course metadata for 84-701 Regression Analysis for Political Science I>
+Semester: Fall 2023 (aka F23)
+Course Name: Regression Analysis for Political Science I
+Course Number: 84-701
+Department: Institute for Politics and Strategy
+Number of Units: 12
+Prerequisites: None
+Instructors: Mark Kamlet
+Rooms: POS 147
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 84-701 Regression Analysis for Political Science I>
+
+<start course description for 84-701 Regression Analysis for Political Science I>
+Semester: Fall 2023 (aka F23)
+Course Description: Regression Analysis for Political Science I (RAPS I) will teach students to conduct bivariate and multivariate linear regression models. Students will learn about analysis of variance, parameter estimation, hypothesis testing, interpretation of estimates, model fit, models with dummy variables, model predictions, model diagnostics, and basic data visualizations. RAPS I will train political science graduate students in using R statistical software, making them competent in this key research tool in the field of political science. Materials for this course will include instructions and examples using R, and there will be a strong emphasis in conducting exercises and learning from applied examples.
+</end course description for 84-701 Regression Analysis for Political Science I>

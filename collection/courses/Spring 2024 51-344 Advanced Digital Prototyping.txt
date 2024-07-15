@@ -1,0 +1,16 @@
+<start course metadata for 51-344 Advanced Digital Prototyping>
+Semester: Spring 2024 (aka S24)
+Course Name: Advanced Digital Prototyping
+Course Number: 51-344
+Department: Design
+Number of Units: 6
+Prerequisites: 51-249 or 51-324 or 51-245
+Instructors: Matthew Sass
+Rooms: PH A23
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-344 Advanced Digital Prototyping>
+
+<start course description for 51-344 Advanced Digital Prototyping>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is an advanced course using SolidWorks computer modeling.  It is a prerequisite for Production Prototyping. This course is intended for undergraduate Design majors.
+</end course description for 51-344 Advanced Digital Prototyping>

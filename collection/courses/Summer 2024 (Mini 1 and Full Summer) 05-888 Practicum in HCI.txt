@@ -1,0 +1,16 @@
+<start course metadata for 05-888 Practicum in HCI>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Practicum in HCI
+Course Number: 05-888
+Department: Human-Computer Interaction
+Number of Units: N/A
+Prerequisites: None
+Instructors: Jeffrey Bigham, Susan Kravitz
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 05-888 Practicum in HCI>
+
+<start course description for 05-888 Practicum in HCI>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: All HCII graduate students on external internship should register for this course.  For PhD students, units of this course may be substituted for required units of 05-997 Reading and Research in HCI.  Activities undertaken during an internship may vary widely, but a brief report of internship activities indicating educational relevance is required for credit. Students of the Emerging Media Graduate Program should first see the Emerging Media Graduate office for the internship proposal form and instructions, before registering for this course.
+</end course description for 05-888 Practicum in HCI>

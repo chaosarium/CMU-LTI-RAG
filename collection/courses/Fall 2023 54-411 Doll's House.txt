@@ -1,0 +1,16 @@
+<start course metadata for 54-411 Doll's House>
+Semester: Fall 2023 (aka F23)
+Course Name: Doll's House
+Course Number: 54-411
+Department: Drama
+Number of Units: 16
+Prerequisites: 54-311 and 54-312
+Instructors: Catherine Moore, Kaja Dunn, Kyle Haden, Lisa Velten-Smith, Tome' Cousin
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-411 Doll's House>
+
+<start course description for 54-411 Doll's House>
+Semester: Fall 2023 (aka F23)
+Course Description: Participation outside of class requirements in departmental productions. Putting into practice the techniques acquired over the years of training and exploring the development of a performance played before the public over two weeks.
+</end course description for 54-411 Doll's House>

@@ -1,0 +1,16 @@
+<start course metadata for 03-602 Quantitative Biology Internship>
+Semester: Spring 2024 (aka S24)
+Course Name: Quantitative Biology Internship
+Course Number: 03-602
+Department: Biological Sciences
+Number of Units: 3
+Prerequisites: None
+Instructors: Daniel Brasier
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 03-602 Quantitative Biology Internship>
+
+<start course description for 03-602 Quantitative Biology Internship>
+Semester: Spring 2024 (aka S24)
+Course Description: This course allows a student to gain quantitative biology experience in a "real-world" setting. Internships vary widely in scope, but common to all is the chance to practice quantitative biology skills acquired in the classroom. Typically, students seek and secure their own internships. Students are required to write written reflections summarizing their internship work and submit those to the course instructor.
+</end course description for 03-602 Quantitative Biology Internship>

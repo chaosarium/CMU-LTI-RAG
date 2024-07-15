@@ -1,0 +1,16 @@
+<start course metadata for 03-709 Applied Cell and Molecular Biology>
+Semester: Fall 2023 (aka F23)
+Course Name: Applied Cell and Molecular Biology
+Course Number: 03-709
+Department: Biological Sciences
+Number of Units: 12
+Prerequisites: None
+Instructors: Daniel Brasier, Stephanie Wong-Noonan
+Rooms: MI 348
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 03-709 Applied Cell and Molecular Biology>
+
+<start course description for 03-709 Applied Cell and Molecular Biology>
+Semester: Fall 2023 (aka F23)
+Course Description: This course can serve a wide range of students, but it is primarily for students in Masters programs in life sciences. The purpose of this course is to review key cellular and molecular phenomenon in biological pathways with strong emphasis on latest experimental techniques used in applications including but not limited to disease diagnosis, therapeutics, large-scale genomic and proteomic analysis.  Knowledge gained from this course will be both conceptual and analytical.  Students will periodically write extensive research reports on select topics and give oral presentations on a select few, while critically analyzing primary literature.
+</end course description for 03-709 Applied Cell and Molecular Biology>

@@ -1,0 +1,16 @@
+<start course metadata for 98-288 Student Taught Courses (StuCo): Star Wars: The Course Awakens>
+Semester: Spring 2024 (aka S24)
+Course Name: Student Taught Courses (StuCo): Star Wars: The Course Awakens
+Course Number: 98-288
+Department: StuCo (Student Led Courses)
+Number of Units: 3
+Prerequisites: None
+Instructors: Charlie Murphy, David Durdaller, Seth Williams
+Rooms: WEH 5409
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 98-288 Student Taught Courses (StuCo): Star Wars: The Course Awakens>
+
+<start course description for 98-288 Student Taught Courses (StuCo): Star Wars: The Course Awakens>
+Semester: Spring 2024 (aka S24)
+Course Description: We will spend each class focusing on a specific topic in the Star Wars universe starting with plot discussion, clip viewing, fun facts, and opinions on each of the canon films. Then we will look more into the details of what makes Star Wars the worldwide pop culture phenomenon that it is by discussing other aspects of the franchise in the remaining classes.
+</end course description for 98-288 Student Taught Courses (StuCo): Star Wars: The Course Awakens>

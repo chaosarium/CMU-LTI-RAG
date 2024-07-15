@@ -1,0 +1,16 @@
+<start course metadata for 36-601 Modern Regression>
+Semester: Spring 2024 (aka S24)
+Course Name: Modern Regression
+Course Number: 36-601
+Department: Statistics and Data Science
+Number of Units: 9
+Prerequisites: None
+Instructors: Larry Wasserman
+Rooms: SH 234
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 36-601 Modern Regression>
+
+<start course description for 36-601 Modern Regression>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is an introduction to the real world of statistics and data analysis. We will explore real data sets, examine various models for the data, assess the validity of their assumptions, and determine which conclusions we can make (if any). Data analysis is a bit of an art; there may be several valid approaches. We will strongly emphasize the importance of critical thinking about the data and the question of interest. Our overall goal is to use a basic set of modeling tools to explore and analyze data and to present the results in a scientific report. Students may enroll by special permission only.
+</end course description for 36-601 Modern Regression>

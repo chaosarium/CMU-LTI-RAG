@@ -1,0 +1,16 @@
+<start course metadata for 10-301 Introduction to Machine Learning>
+Semester: Spring 2024 (aka S24)
+Course Name: Introduction to Machine Learning
+Course Number: 10-301
+Department: Machine Learning
+Number of Units: 12
+Prerequisites: (15-122) and (21-128 or 21-127 or 15-151) and (36-219 or 15-259 or 36-225 or 21-325 or 36-217 or 36-235 or 15-359 or 36-218 or 36-220)
+Instructors: Henry Chai, Hoda Heidari, Matthew Gormley
+Rooms: GHC 4401; TEP 1403
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 10-301 Introduction to Machine Learning>
+
+<start course description for 10-301 Introduction to Machine Learning>
+Semester: Spring 2024 (aka S24)
+Course Description: Machine Learning is concerned with computer programs that automatically improve their performance through experience (e.g., programs that learn to recognize human faces, recommend music and movies, and drive autonomous robots). This course covers the theory and practical algorithms for machine learning from a variety of perspectives. We cover topics such as decision tree learning, neural networks, statistical learning methods, unsupervised learning and reinforcement learning. The course covers theoretical concepts such as inductive bias, the PAC learning framework, Bayesian learning methods, and Occam's Razor. Programming assignments include hands-on experiments with various learning algorithms. Technologies used in this course include Python, NumPy, PyTorch, and Google Colab. This course is designed to give a graduate-level student a thorough grounding in the methodologies, technologies, mathematics and algorithms currently needed by people who do research in machine learning. 10-301 and 10-601 are identical. Undergraduates must register for 10-301 and graduate students must register for 10-601. 10-301 is recommended for undergraduates who are not SCS majors. (SCS majors should instead take 10-315.)
+</end course description for 10-301 Introduction to Machine Learning>

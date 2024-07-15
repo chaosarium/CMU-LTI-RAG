@@ -1,0 +1,16 @@
+<start course metadata for 48-692 Shaping Daylight Through Simulation and Virtual Reality>
+Semester: Spring 2024 (aka S24)
+Course Name: Shaping Daylight Through Simulation and Virtual Reality
+Course Number: 48-692
+Department: Architecture
+Number of Units: 9
+Prerequisites: None
+Instructors: Azadeh Sawyer
+Rooms: MM 415IW
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-692 Shaping Daylight Through Simulation and Virtual Reality>
+
+<start course description for 48-692 Shaping Daylight Through Simulation and Virtual Reality>
+Semester: Spring 2024 (aka S24)
+Course Description: Light is one of the critical aspects of valued architectural spaces, influencing ambiance, the overall atmosphere, and occupant perception, whether positively or negatively. In this course, we will explore the quantities and qualities of light.  We will study how we can design with and for light while understanding the paradox of lighting design¿that it is both science and art. Digital design and simulation tools will be augmented with virtual reality (VR) to extend quantitative measurements of lighting to include qualitative aspects of light such as its influence on occupants' subjective impressions of a space, wellbeing and comfort.
+</end course description for 48-692 Shaping Daylight Through Simulation and Virtual Reality>

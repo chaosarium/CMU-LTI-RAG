@@ -1,0 +1,16 @@
+<start course metadata for 27-390 Internship>
+Semester: Spring 2024 (aka S24)
+Course Name: Internship
+Course Number: 27-390
+Department: Materials Science & Engineering
+Number of Units: N/A
+Prerequisites: None
+Instructors: Robert Heard
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 27-390 Internship>
+
+<start course description for 27-390 Internship>
+Semester: Spring 2024 (aka S24)
+Course Description: None
+</end course description for 27-390 Internship>

@@ -1,0 +1,16 @@
+<start course metadata for 67-331 Technology Consulting in the Global Community>
+Semester: Spring 2024 (aka S24)
+Course Name: Technology Consulting in the Global Community
+Course Number: 67-331
+Department: Information Systems Program
+Number of Units: N/A
+Prerequisites: None
+Instructors: Joseph Mertz
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 67-331 Technology Consulting in the Global Community>
+
+<start course description for 67-331 Technology Consulting in the Global Community>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is by invitation only for participants in the Technology Consulting in the Global Community program. Admitted ONLY BY Permission of Instructor
+</end course description for 67-331 Technology Consulting in the Global Community>

@@ -1,0 +1,16 @@
+<start course metadata for 57-436 English/Contemporary Literature and Repertoire>
+Semester: Spring 2024 (aka S24)
+Course Name: English/Contemporary Literature and Repertoire
+Course Number: 57-436
+Department: Music
+Number of Units: 3
+Prerequisites: None
+Instructors: Daniel Teadt
+Rooms: HOA 225
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-436 English/Contemporary Literature and Repertoire>
+
+<start course description for 57-436 English/Contemporary Literature and Repertoire>
+Semester: Spring 2024 (aka S24)
+Course Description: The course provides a bibliography of repertoire in the English language. Material will be limited to art songs and will be presented via individual student or group performances in class, and recorded performances. Research assignments will be required for selected anthologies or for works by specific composers. Repertoire will be examined according to vocal requirements, musical style, and programmatic function. The repertoire will consist primarily of works by British and American composers, but works by Russian and Spanish composers will also be included.
+</end course description for 57-436 English/Contemporary Literature and Repertoire>

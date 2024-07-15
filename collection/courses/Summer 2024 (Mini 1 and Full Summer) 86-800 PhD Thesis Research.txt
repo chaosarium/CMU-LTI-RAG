@@ -1,0 +1,16 @@
+<start course metadata for 86-800 PhD Thesis Research>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: PhD Thesis Research
+Course Number: 86-800
+Department: Neuroscience Institute
+Number of Units: N/A
+Prerequisites: None
+Instructors: Melissa Stupka
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 86-800 PhD Thesis Research>
+
+<start course description for 86-800 PhD Thesis Research>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: None
+</end course description for 86-800 PhD Thesis Research>

@@ -1,0 +1,16 @@
+<start course metadata for 51-850 Design Thesis Project>
+Semester: Fall 2023 (aka F23)
+Course Name: Design Thesis Project
+Course Number: 51-850
+Department: Design
+Number of Units: N/A
+Prerequisites: None
+Instructors: Stacie Rohrbach
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-850 Design Thesis Project>
+
+<start course description for 51-850 Design Thesis Project>
+Semester: Fall 2023 (aka F23)
+Course Description: Student defined project in the culmination of the Master of Design program. Instructor permission only.
+</end course description for 51-850 Design Thesis Project>

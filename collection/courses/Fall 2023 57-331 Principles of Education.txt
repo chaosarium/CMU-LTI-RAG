@@ -1,0 +1,16 @@
+<start course metadata for 57-331 Principles of Education>
+Semester: Fall 2023 (aka F23)
+Course Name: Principles of Education
+Course Number: 57-331
+Department: Music
+Number of Units: 9
+Prerequisites: None
+Instructors: Jeremy Olisar
+Rooms: HOA 225
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-331 Principles of Education>
+
+<start course description for 57-331 Principles of Education>
+Semester: Fall 2023 (aka F23)
+Course Description: This course introduces students to the art and science of being an educator. Content includes views of the academic and social structure of the school, physiological & social characteristics of learners that influence instruction, widely recognized research on learning & teaching, and appropriate & effective class preparation and teaching strategies.
+</end course description for 57-331 Principles of Education>

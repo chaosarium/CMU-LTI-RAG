@@ -1,0 +1,16 @@
+<start course metadata for 47-853 Special Topics in Combinatorial Optimization>
+Semester: Spring 2024 (aka S24)
+Course Name: Special Topics in Combinatorial Optimization
+Course Number: 47-853
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Ravindran Kannan
+Rooms: TEP 4219
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 47-853 Special Topics in Combinatorial Optimization>
+
+<start course description for 47-853 Special Topics in Combinatorial Optimization>
+Semester: Spring 2024 (aka S24)
+Course Description: Menger (1927) showed that the maximum number of disjoint st-paths is equal to the minimum cardinality of an st-cut. Dilworth (1950) proved that the minimum number of chains needed to cover a poset is equal to the maximum cardinality of an antichain. These classic results are what started the field of Packing and Covering. In this course, we will see many theorems of this form, and study the underlying graph theoretic and geometric attributes that lead to such min-max and max-min results.
+</end course description for 47-853 Special Topics in Combinatorial Optimization>

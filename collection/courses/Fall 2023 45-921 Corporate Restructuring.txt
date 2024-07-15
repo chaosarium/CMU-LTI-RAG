@@ -1,0 +1,16 @@
+<start course metadata for 45-921 Corporate Restructuring>
+Semester: Fall 2023 (aka F23)
+Course Name: Corporate Restructuring
+Course Number: 45-921
+Department: Business Administration
+Number of Units: 6
+Prerequisites: 45-720 and 45-820
+Instructors: Robert Dammon
+Rooms: TEP 2111
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-921 Corporate Restructuring>
+
+<start course description for 45-921 Corporate Restructuring>
+Semester: Fall 2023 (aka F23)
+Course Description: FOR MBA STUDENTS ONLY.    Corporate restructuring (45921) analyzes the financial, economic, and strategic reasons for major corporate restructuring transactions, such as mergers and acquisitions, divestitures, leverage buyouts and private equity deals, financial restructurings, and bankruptcy reorganizations. We will analyze in class each type of restructuring transaction, focusing on how the transaction is structured, why it occurs, and whether it creates value empirically. Students will work in groups to analyze real-world case studies dealing with each type of restructuring transaction, prepare written reports, and make presentations.
+</end course description for 45-921 Corporate Restructuring>

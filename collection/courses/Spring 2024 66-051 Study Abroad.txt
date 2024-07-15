@@ -1,0 +1,16 @@
+<start course metadata for 66-051 Study Abroad>
+Semester: Spring 2024 (aka S24)
+Course Name: Study Abroad
+Course Number: 66-051
+Department: Dietrich College Interdisciplinary
+Number of Units: 0
+Prerequisites: None
+Instructors: Instructor TBA
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 66-051 Study Abroad>
+
+<start course description for 66-051 Study Abroad>
+Semester: Spring 2024 (aka S24)
+Course Description: None
+</end course description for 66-051 Study Abroad>

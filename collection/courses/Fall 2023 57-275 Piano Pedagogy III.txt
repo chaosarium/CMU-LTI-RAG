@@ -1,0 +1,16 @@
+<start course metadata for 57-275 Piano Pedagogy III>
+Semester: Fall 2023 (aka F23)
+Course Name: Piano Pedagogy III
+Course Number: 57-275
+Department: Music
+Number of Units: 6
+Prerequisites: 57-274
+Instructors: Luz Manriquez
+Rooms: CFA M150
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-275 Piano Pedagogy III>
+
+<start course description for 57-275 Piano Pedagogy III>
+Semester: Fall 2023 (aka F23)
+Course Description: Continuation of 57-274.  Intermediate literature, analysis, teaching, and performance will be covered.  Topics include "What is style?"
+</end course description for 57-275 Piano Pedagogy III>

@@ -1,0 +1,16 @@
+<start course metadata for 57-847 Electronic and Computer Music>
+Semester: Spring 2024 (aka S24)
+Course Name: Electronic and Computer Music
+Course Number: 57-847
+Department: Music
+Number of Units: 6
+Prerequisites: None
+Instructors: Benjamin Opie
+Rooms: HOA A10
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-847 Electronic and Computer Music>
+
+<start course description for 57-847 Electronic and Computer Music>
+Semester: Spring 2024 (aka S24)
+Course Description: The purpose of this course is to introduce the students to the Computer-Electronic Music Studio and to elementary techniques of composition utilizing the synthesizer and other sophisticated electronic equipment.  Different digital and analog devices such as tape recorders, mixers, various synthesizers, as well as a range of computer music software will be demonstrated and discussed.
+</end course description for 57-847 Electronic and Computer Music>

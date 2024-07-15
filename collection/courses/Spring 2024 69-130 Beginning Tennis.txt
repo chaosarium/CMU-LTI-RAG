@@ -1,0 +1,16 @@
+<start course metadata for 69-130 Beginning Tennis>
+Semester: Spring 2024 (aka S24)
+Course Name: Beginning Tennis
+Course Number: 69-130
+Department: Physical Education
+Number of Units: 3
+Prerequisites: None
+Instructors: Patricia Stragar
+Rooms: CUC TENNIS
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 69-130 Beginning Tennis>
+
+<start course description for 69-130 Beginning Tennis>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is designed to familiarize the student with the rules of tennis and to develop the skills needed to become proficient for recreational play.  During the first half of the course, all tennis strokes will be covered and reviewed in detail.  The second half of the course will focus mostly on competitive games and match-play.
+</end course description for 69-130 Beginning Tennis>

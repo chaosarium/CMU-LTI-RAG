@@ -1,0 +1,16 @@
+<start course metadata for 27-734 Methods of Computational Materials Science>
+Semester: Spring 2024 (aka S24)
+Course Name: Methods of Computational Materials Science
+Course Number: 27-734
+Department: Materials Science & Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Thomas O'Connor
+Rooms: POS 152
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 27-734 Methods of Computational Materials Science>
+
+<start course description for 27-734 Methods of Computational Materials Science>
+Semester: Spring 2024 (aka S24)
+Course Description: This course introduces students to the theory and practice of computational materials science  from the electronic to the microstructural scale. Both the underlying physical models and their  implementation as computational algorithms will be discussed. Topics will include:  Density functional theory Molecular dynamics Monte Carlo methods Phase field models Cellular automata Data science  Examples and homework problems will be taken from all areas of materials science. Coursework  will utilize both software packages and purpose-built computer codes. Students should be comfortable  writing, compiling, and running simple computer programs in MatLab, Python, or comparable environment.
+</end course description for 27-734 Methods of Computational Materials Science>

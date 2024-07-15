@@ -1,0 +1,16 @@
+<start course metadata for 82-590 Special Topics Russian Studies>
+Semester: Fall 2023 (aka F23)
+Course Name: Special Topics Russian Studies
+Course Number: 82-590
+Department: Modern Languages
+Number of Units: N/A
+Prerequisites: None
+Instructors: David Parker
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 82-590 Special Topics Russian Studies>
+
+<start course description for 82-590 Special Topics Russian Studies>
+Semester: Fall 2023 (aka F23)
+Course Description: Independent study for Russian Studies majors and minors only.
+</end course description for 82-590 Special Topics Russian Studies>

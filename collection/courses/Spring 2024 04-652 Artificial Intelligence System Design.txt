@@ -1,0 +1,16 @@
+<start course metadata for 04-652 Artificial Intelligence System Design>
+Semester: Spring 2024 (aka S24)
+Course Name: Artificial Intelligence System Design
+Course Number: 04-652
+Department: Information & Communication Technology
+Number of Units: 12
+Prerequisites: None
+Instructors: Charles Wiecha, Michael Perkins
+Rooms: CMR F203
+Locations: Kigali, Rwanda
+</end course metadata for 04-652 Artificial Intelligence System Design>
+
+<start course description for 04-652 Artificial Intelligence System Design>
+Semester: Spring 2024 (aka S24)
+Course Description: Artificial Intelligence can be defined as the study of the design of rational agents where an agent is something that acts, and rational means that the agent acts to achieve the best-expected outcome. AI has a long history, extending at least as far back as the 1950s. Machine learning can be considered as a sub-field of AI focused on how a rational agent can adapt to new circumstances as well as detect and extrapolate patterns. The implementation of an AI system typically relies on many different hardware and software components.  This course focuses on two aspects of AI system design: - Performing ML inferences in resource-constrained edge devices such as one might find in an IoT network. - ML model performance analysis and maintenance in the cloud. Students will study Edge ML in the context of Raspberry Pi's connected to Arduinos, and use TensorFlow to design models. They will use various AWS and web technologies to learn how to design distributed and cloud-based systems for analyzing and maintaining ML models. This course provides a foundation students can use to design and implement complex AI systems that use both edge and cloud components.
+</end course description for 04-652 Artificial Intelligence System Design>

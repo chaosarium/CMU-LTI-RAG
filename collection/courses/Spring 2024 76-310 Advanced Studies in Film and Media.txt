@@ -1,0 +1,16 @@
+<start course metadata for 76-310 Advanced Studies in Film and Media>
+Semester: Spring 2024 (aka S24)
+Course Name: Advanced Studies in Film and Media
+Course Number: 76-310
+Department: English
+Number of Units: 9
+Prerequisites: 76-239
+Instructors: Jeffrey Hinkelman
+Rooms: BH 235B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 76-310 Advanced Studies in Film and Media>
+
+<start course description for 76-310 Advanced Studies in Film and Media>
+Semester: Spring 2024 (aka S24)
+Course Description: This course will focus on several key technical components of filmmaking and the ways they function within the film text, as well as the ways they can be read as an indication of the underlying ideology of a work. Individual units of the course will concentrate on performance, production design, photography, editing and music. Films will be drawn from a variety of national cinemas from around the world. A primary goal of the course will be the development of skills useful for filmmaking, film analysis and scholarship. Students will engage in focused projects designed to facilitate the pedagogical goals of each unit.
+</end course description for 76-310 Advanced Studies in Film and Media>

@@ -1,0 +1,16 @@
+<start course metadata for 80-447 Global Justice>
+Semester: Spring 2024 (aka S24)
+Course Name: Global Justice
+Course Number: 80-447
+Department: Philosophy
+Number of Units: 9
+Prerequisites: None
+Instructors: Danielle Wenner
+Rooms: BH 145C
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 80-447 Global Justice>
+
+<start course description for 80-447 Global Justice>
+Semester: Spring 2024 (aka S24)
+Course Description: Until recently, the dominant view of international relations has been that the governments and citizens of one country have no moral obligations to those beyond their borders.  With the rapid growth in globalization has come a drastic shift in attitudes about our obligations to those with whom we share global institutions of trade but neither legal systems nor national identities.  This course aims to introduce students to the problem of global distributive justice in the context of a globalized world, with emphases on both theoretical accounts of justice and the practical implications of those accounts for important current issues. Theoretical topics will include the nature of justice, the sources and limits of our moral obligations, and how and whether those notions of justice extend to global society; while applied topics will include our obligations with regard to the environment, human rights deficits, the status of women, and global economic policy.
+</end course description for 80-447 Global Justice>

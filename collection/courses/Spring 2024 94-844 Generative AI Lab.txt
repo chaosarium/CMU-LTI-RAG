@@ -1,0 +1,16 @@
+<start course metadata for 94-844 Generative AI Lab>
+Semester: Spring 2024 (aka S24)
+Course Name: Generative AI Lab
+Course Number: 94-844
+Department: Heinz College Wide Courses
+Number of Units: 6
+Prerequisites: None
+Instructors: Beibei Li
+Rooms: HBH 1202
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 94-844 Generative AI Lab>
+
+<start course description for 94-844 Generative AI Lab>
+Semester: Spring 2024 (aka S24)
+Course Description:  Pre-Requisites  PPM students - 90819  This lab course immerses students in the exciting world of Generative Artificial Intelligence (GenAI) through practical, hands-on experiences. Designed to complement theoretical knowledge with real-world applications, this course equips students with the skills and expertise needed to build and deploy GenAI models across diverse domains.   Through a combination of interactive labs, coding exercises, and collaborative projects, students will gain a deep understanding of GenAI techniques and their practical implementation. Throughout the course, students will also engage in peer-to-peer learning and real-world problem solving. By the end of the lab course, students will have hands-on experience with various GenAI techniques and will be prepared to apply these skills in research, industry, and creative applications.
+</end course description for 94-844 Generative AI Lab>

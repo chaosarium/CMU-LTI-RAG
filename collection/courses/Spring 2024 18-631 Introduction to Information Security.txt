@@ -1,0 +1,16 @@
+<start course metadata for 18-631 Introduction to Information Security>
+Semester: Spring 2024 (aka S24)
+Course Name: Introduction to Information Security
+Course Number: 18-631
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Limin Jia
+Rooms: B23 211; B23 212; BH A53; HH B131
+Locations: Pittsburgh, Pennsylvania; San Jose, California
+</end course metadata for 18-631 Introduction to Information Security>
+
+<start course description for 18-631 Introduction to Information Security>
+Semester: Spring 2024 (aka S24)
+Course Description: Our growing reliance on information systems for daily activities, ranging from remote communications to financial exchanges, has made information security a central issue of our critical infrastructure. The course introduces the technical and policy foundations of information security. The main objective of the course is to enable students to reason about information systems from a security engineering perspective, taking into account technical, economic and policy factors. Topics covered in the course include elementary cryptography; access control; common software vulnerabilities; common network vulnerabilities; policy and export control laws, in the U.S., Japan, and elsewhere; privacy; management and assurance; economics of security; and special topics in information security.    Prerequisites: The course assumes a basic working knowledge of computers, networks, C and UNIX programming, as well as an elementary mathematics background, but does not assume any prior exposure to topics in computer or communications security. Students lacking technical background (e.g., students without any prior exposure to programming) are expected to catch up through self-study.
+</end course description for 18-631 Introduction to Information Security>

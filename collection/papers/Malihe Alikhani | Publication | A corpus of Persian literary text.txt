@@ -1,0 +1,6 @@
+publication venue: Language Resources and Evaluation
+title: A corpus of Persian literary text
+authors: Shahab Raji, Malihe Alikhani, Gerard de Melo, Matthew Stone
+year: 2023
+tldr: The corpus, the tools, and experiments described in this paper can be used not only for digital humanities studies of Persian literature but also for processing Persian texts in general, as well as in other broader cross-linguistic applications.
+abstract: None

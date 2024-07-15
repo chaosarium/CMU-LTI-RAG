@@ -1,0 +1,16 @@
+<start course metadata for 18-662 Principles and Engineering Applications of AI>
+Semester: Spring 2024 (aka S24)
+Course Name: Principles and Engineering Applications of AI
+Course Number: 18-662
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: 18-751 or 36-219 or 36-218
+Instructors: Azizuddin Biyabani, Ozan Tonguz
+Rooms: CMR F305; WEH 4623
+Locations: Kigali, Rwanda; Pittsburgh, Pennsylvania
+</end course metadata for 18-662 Principles and Engineering Applications of AI>
+
+<start course description for 18-662 Principles and Engineering Applications of AI>
+Semester: Spring 2024 (aka S24)
+Course Description: This is a first-year graduate course in Principles and Engineering Applications of AI. The course will review the basic principles of AI. Some of the specific topics that will be covered are the following: 1) Intelligent Agents; 2) Single-Agents and Multi-Agent Systems (MAS); 3) Uncertain Knowledge and Reasoning (Probabilistic Reasoning and Probabilistic Reasoning over Time, Bayesian Networks, Dynamic Bayesian Networks, Hidden Markov Models, Kalman Filters, MCMC algorithms, etc.); 4) Learning; 5) Communicating, Perceiving, and Acting; 6) Robotics.  The course will involve completing a set of challenging engineering applications of AI that will include: Medical applications, Video Games, Autonomous driving, Autonomous Robots, Finance and Economics, Military, Art, Advertising.  Students should have a good background in basic probability theory, maturity in mathematical topics, and good programming skills. For seniors who would like to take the course but do not have the necessary prerequisites, instructor's permission will be required.  Although students in 18462 will share lectures with students in 18662, students in 18462 will receive distinct homework assignments, distinct projects, and distinct exams from the ones given to students in 18662. Specifically, the homework assignments, projects, and exams that are given to the 18662 students will be more challenging than those given to the 18462 students.
+</end course description for 18-662 Principles and Engineering Applications of AI>

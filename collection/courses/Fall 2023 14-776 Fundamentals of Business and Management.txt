@@ -1,0 +1,16 @@
+<start course metadata for 14-776 Fundamentals of Business and Management>
+Semester: Fall 2023 (aka F23)
+Course Name: Fundamentals of Business and Management
+Course Number: 14-776
+Department: Information Networking Institute
+Number of Units: 12
+Prerequisites: None
+Instructors: David Lamont
+Rooms: INI DEC
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 14-776 Fundamentals of Business and Management>
+
+<start course description for 14-776 Fundamentals of Business and Management>
+Semester: Fall 2023 (aka F23)
+Course Description: This class will combine both economic and business topics. The class will contain applied microeconomics topics focused on resource allocation and efficiency in different market structures. We will explore perfect competition, monopoly and monopolistic competition and oligopic market structures. We will also explore macro-economic ideas so as to understand the context within which businesses operate. It is anticipated that these topics will occupy 1/3 of the class. The other 2/3 of the class will focus on business management from an applied, integrated view. The majority of the business topics will involve team based work. We will cover 7 basic areas of management: Financial and Managerial Accounting Corporate Finance Marketing Operations Management Corporate Strategy Organizations Business Communications
+</end course description for 14-776 Fundamentals of Business and Management>

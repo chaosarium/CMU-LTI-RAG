@@ -1,0 +1,16 @@
+<start course metadata for 48-753 Intro to Urban Design Media>
+Semester: Fall 2023 (aka F23)
+Course Name: Intro to Urban Design Media
+Course Number: 48-753
+Department: Architecture
+Number of Units: 6
+Prerequisites: None
+Instructors: Jared Abraham
+Rooms: CFA 206A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-753 Intro to Urban Design Media>
+
+<start course description for 48-753 Intro to Urban Design Media>
+Semester: Fall 2023 (aka F23)
+Course Description: The methods and media used to represent the urban environment are essential tools for documenting existing conditions, proposing new interventions, illustrating suppressed or hidden characteristics, and communicating ideas to fellow practitioners as well as the broader public. The successful communication of Urban Design thinking relies not only on the quality of the subject but also on the caliber of the media used to represent it. This course explores new forms of media and representation in Urban Design. The seminar is a project-based course consisting of bi-weekly exercises and reading assignments. Students will adopt their own hometown as the primary site for their analysis and representation. Throughout the semester, students are tasked with identifying a specific subject unique to their site of inquiry. They will then analyze, interpret and re-represent their subject through a variety of media, including collages, maps, images, renders, matrices, and animated GIFs, and AI-generated imagery. Consideration will be given to drawing/image quality, technique and aesthetics.
+</end course description for 48-753 Intro to Urban Design Media>

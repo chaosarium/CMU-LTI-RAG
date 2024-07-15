@@ -1,0 +1,16 @@
+<start course metadata for 24-771 Linear Systems>
+Semester: Fall 2023 (aka F23)
+Course Name: Linear Systems
+Course Number: 24-771
+Department: Mechanical Engineering
+Number of Units: 12
+Prerequisites: 24-451
+Instructors: Soummya Kar
+Rooms: PH A18A; POS 151
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-771 Linear Systems>
+
+<start course description for 24-771 Linear Systems>
+Semester: Fall 2023 (aka F23)
+Course Description: Topics include review of classical feedback control; solution of differential and difference equations; Laplace and Z-transforms, matrix algebra, and convolution; state variable modeling of dynamic continuous and discrete processes; linearization of nonlinear processes; state variable differential and difference equations; computer-aided analysis techniques for control system design; state variable control principles of controllability, observability, stability, and performance specifications; trade-offs between state variable and transfer function control engineering design techniques; and design problems chosen from chemical, electrical, and mechanical processes. 4 hrs. lec.    Prerequisite: An undergraduate course in classical control engineering or consent of the instructor.
+</end course description for 24-771 Linear Systems>

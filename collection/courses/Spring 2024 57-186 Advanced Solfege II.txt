@@ -1,0 +1,16 @@
+<start course metadata for 57-186 Advanced Solfege II>
+Semester: Spring 2024 (aka S24)
+Course Name: Advanced Solfege II
+Course Number: 57-186
+Department: Music
+Number of Units: 3
+Prerequisites: 57-185
+Instructors: Anne Moskal
+Rooms: CFA M160
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-186 Advanced Solfege II>
+
+<start course description for 57-186 Advanced Solfege II>
+Semester: Spring 2024 (aka S24)
+Course Description: Continues 57-185 Advanced Solfege I.
+</end course description for 57-186 Advanced Solfege II>

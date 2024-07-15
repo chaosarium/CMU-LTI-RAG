@@ -1,0 +1,16 @@
+<start course metadata for 45-868 Design Thinking>
+Semester: Spring 2024 (aka S24)
+Course Name: Design Thinking
+Course Number: 45-868
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Ming Ming Chapman
+Rooms: TEP 2118
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-868 Design Thinking>
+
+<start course description for 45-868 Design Thinking>
+Semester: Spring 2024 (aka S24)
+Course Description: Description In the rapidly evolving business landscape, innovation remains a constant pursuit. Design Thinking has emerged as a powerful process for fostering creativity, empathy, and collaboration to address complex challenges. This course introduces Design Thinking principles, methods, and tools, exploring techniques from problem framing to creative ideation, digital prototyping, and user testing. We leverage design tools like Figma to enhance the Design Thinking journey, and develop creative and innovative solutions together. This equips us to navigate the dynamic business landscape eectively, emphasizing leadership, strategic thinking, and visual communication. This course empowers students to become adaptable, user-centric leaders capable of driving positive transformations within organizations. Key Topics ¿ Introduction to Design Thinking: Understand the fundamentals of design thinking, emphasizing empathy, collaboration, and its application in solving complex problems. ¿ User-Centered Design: Dive into user research and identifying user needs to inform your design solutions. ¿ Ideation and Prototyping: Techniques for generating creative ideas and creating and testing low-fidelity prototypes to enhance the design iteration process. ¿ Design Thinking in Professional Practice: Explore how design thinking can drive innovation, user-centric strategies, and be applied eectively in the professional context. Prerequisite Knowledge None. This course is open to individuals from diverse backgrounds and does not require prior Design Thinking knowledge or experience. All that is needed is a curious mind and a willingness to embrace new ways of problem-solving.
+</end course description for 45-868 Design Thinking>

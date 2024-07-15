@@ -1,0 +1,16 @@
+<start course metadata for 57-889 Practice Teaching (Elementary)>
+Semester: Spring 2024 (aka S24)
+Course Name: Practice Teaching (Elementary)
+Course Number: 57-889
+Department: Music
+Number of Units: N/A
+Prerequisites: None
+Instructors: Adrianne Kelly, Paul Gerlach, Robert Dell
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-889 Practice Teaching (Elementary)>
+
+<start course description for 57-889 Practice Teaching (Elementary)>
+Semester: Spring 2024 (aka S24)
+Course Description: Experience in working with elementary students in a public school setting.  The teaching is supervised by an experienced public school teacher and members of the CMU music education faculty.
+</end course description for 57-889 Practice Teaching (Elementary)>

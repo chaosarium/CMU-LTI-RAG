@@ -1,0 +1,16 @@
+<start course metadata for 46-874 Principles of Product Management II>
+Semester: Fall 2023 (aka F23)
+Course Name: Principles of Product Management II
+Course Number: 46-874
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Arun Venkatadri
+Rooms: TEP 2202
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 46-874 Principles of Product Management II>
+
+<start course description for 46-874 Principles of Product Management II>
+Semester: Fall 2023 (aka F23)
+Course Description: TBD
+</end course description for 46-874 Principles of Product Management II>

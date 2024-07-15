@@ -1,0 +1,16 @@
+<start course metadata for 27-210 TBA>
+Semester: Fall 2023 (aka F23)
+Course Name: TBA
+Course Number: 27-210
+Department: Materials Science & Engineering
+Number of Units: 6
+Prerequisites: 21-120 or 21-122
+Instructors: Rachel Kurchin, Robert Heard
+Rooms: WEH 5409
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 27-210 TBA>
+
+<start course description for 27-210 TBA>
+Semester: Fall 2023 (aka F23)
+Course Description: This course approaches professional skill holistically, having materials science and engineering students understand that being a professional includes having competencies and responsibilities that are personal, organizational and professional.
+</end course description for 27-210 TBA>

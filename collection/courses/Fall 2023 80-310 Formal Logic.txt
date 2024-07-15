@@ -1,0 +1,16 @@
+<start course metadata for 80-310 Formal Logic>
+Semester: Fall 2023 (aka F23)
+Course Name: Formal Logic
+Course Number: 80-310
+Department: Philosophy
+Number of Units: 9
+Prerequisites: 80-210 or 80-211 or 21-127 or 15-251
+Instructors: Krzysztof Mierzewski
+Rooms: GHC 5222
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 80-310 Formal Logic>
+
+<start course description for 80-310 Formal Logic>
+Semester: Fall 2023 (aka F23)
+Course Description: Among the most significant developments in modern logic is the formal analysis of the notions of provability and logical consequence for the logic of relations and quantification, known as first-order logic. These notions are related by the soundness and completeness theorems: a logical formula is provable if and only if it is true under every interpretation. This course provides a formal specification of the syntax and semantics of first-order logic and then proves the soundness and completeness theorems. Other topics may include: basic model theory, intuitionistic, modal, and higher-order logics.
+</end course description for 80-310 Formal Logic>

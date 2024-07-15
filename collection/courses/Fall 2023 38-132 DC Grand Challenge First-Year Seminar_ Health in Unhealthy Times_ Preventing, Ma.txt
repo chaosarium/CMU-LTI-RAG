@@ -1,0 +1,16 @@
+<start course metadata for 38-132 DC Grand Challenge First-Year Seminar: Health in Unhealthy Times: Preventing, Ma>
+Semester: Fall 2023 (aka F23)
+Course Name: DC Grand Challenge First-Year Seminar: Health in Unhealthy Times: Preventing, Ma
+Course Number: 38-132
+Department: MCS Interdisciplinary
+Number of Units: 9
+Prerequisites: None
+Instructors: Andreea Ritivoi, Jason D'Antonio, Julie Downs
+Rooms: SH 234
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 38-132 DC Grand Challenge First-Year Seminar: Health in Unhealthy Times: Preventing, Ma>
+
+<start course description for 38-132 DC Grand Challenge First-Year Seminar: Health in Unhealthy Times: Preventing, Ma>
+Semester: Fall 2023 (aka F23)
+Course Description: We live in times when health is a major global concern, whether we worry about the development of novel Covid-19 mutations or continue to grapple with chronic illnesses such as obesity, diabetes, autoimmune diseases, cancer as well as depression and anxiety. Health and illness are key drivers of the human experience. And yet, health is fundamentally impacted by different human experiences. This first year Grand Challenges seminar will introduce students to core concepts in the life sciences that will enable them to better appreciate the scientific aspects of health. Building on this knowledge, students will then explore important psychosocial determinants, ethical constraints, and historical roots of health. Students will also develop a familiarity with the cultural and communicative skills required to argue about health, make decisions, and engage empathically with others in their health stories. We will read and discuss a broad variety of materials from medical science articles to social psychological experimental reports and personal or literary narratives about health. The course is divided into three components: health and preventative behaviors; coping with disruptive health experiences; managing chronic health challenges. We will provide a broad overview for each category, followed by a deep dive focused on particular health issues: diet and exercise (prevention); anxiety and depression (management); epidemics/Covid-19/cancer (disruption). Given the broad array of topics discussed, we believe these components can engage students on a personal level.
+</end course description for 38-132 DC Grand Challenge First-Year Seminar: Health in Unhealthy Times: Preventing, Ma>

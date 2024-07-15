@@ -1,0 +1,16 @@
+<start course metadata for 06-606 Computational Methods for Large Scale Process Design & Analysis>
+Semester: Fall 2023 (aka F23)
+Course Name: Computational Methods for Large Scale Process Design & Analysis
+Course Number: 06-606
+Department: Chemical Engineering
+Number of Units: 9
+Prerequisites: 06-262 and 06-361
+Instructors: Lorenz Biegler
+Rooms: GHC 4301
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 06-606 Computational Methods for Large Scale Process Design & Analysis>
+
+<start course description for 06-606 Computational Methods for Large Scale Process Design & Analysis>
+Semester: Fall 2023 (aka F23)
+Course Description: This course deals with the underlying computer-aided design techniques for steady-state and dynamic simulation, numerical solution and decomposition strategies for large systems of sparse nonlinear algebraic equations, stiff ordinary differential equations, strategies for mixed algebraic/differential systems and computer architectures for flowsheeting systems.
+</end course description for 06-606 Computational Methods for Large Scale Process Design & Analysis>

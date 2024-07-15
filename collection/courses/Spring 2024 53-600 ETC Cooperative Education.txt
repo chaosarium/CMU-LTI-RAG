@@ -1,0 +1,16 @@
+<start course metadata for 53-600 ETC Cooperative Education>
+Semester: Spring 2024 (aka S24)
+Course Name: ETC Cooperative Education
+Course Number: 53-600
+Department: Entertainment Technology
+Number of Units: 36
+Prerequisites: 53-610 or 53-605 or 53-607
+Instructors: David Culyba
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 53-600 ETC Cooperative Education>
+
+<start course description for 53-600 ETC Cooperative Education>
+Semester: Spring 2024 (aka S24)
+Course Description: During the semester, students on coop are considered full-time, registered Carnegie Mellon students, and pay full tuition. A contact person at the company must agree to act as the local representative to the ETC faculty, and the representative, the student, and the ETC Director will establish what activities the student will participate in during the coop (during which time the student may be paid by the company, as well). The student must be able to discuss his or her work with the ETC faculty and community in some level of detail. When on coop, it is customary (but not guaranteed) that students will have the elective course requirement waived.   Students on coop will be advised by the Director. As faculty advisor, the director will contact the student's supervisor to set academic expectations for the coop. Then the faculty will talk with the supervisor and the student twice during the semester (around midterm and the end of the semester). The supervisor will evaluate the student's performance at each of these discussions.
+</end course description for 53-600 ETC Cooperative Education>

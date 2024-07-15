@@ -1,0 +1,16 @@
+<start course metadata for 70-462 Uncertainty and Risk Modeling>
+Semester: Fall 2023 (aka F23)
+Course Name: Uncertainty and Risk Modeling
+Course Number: 70-462
+Department: Business Administration
+Number of Units: 9
+Prerequisites: 36-200 or 36-201 or 36-207 or 36-220 or 36-225 or 70-207
+Instructors: Shubham Akshat
+Rooms: TEP 2702
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 70-462 Uncertainty and Risk Modeling>
+
+<start course description for 70-462 Uncertainty and Risk Modeling>
+Semester: Fall 2023 (aka F23)
+Course Description: This course takes the perspective of the consultant whose job is to analyze existing or potential business processes and provide recommendations for managerial decision-making. Recognizing that most businesses are subject to high levels of variability, risk and uncertainty, it will adopt a stochastic approach to characterize the behavior of business systems and processes, and explore the effects of alternative decisions in this context.  Two modeling methodologies will be covered: (i) stochastic modeling, and (ii) stochastic simulation. Examples are drawn from different managerial domains, such as supply chain management, risk management, marketing, and project management. The lectures, homework assignments, exam and term project will focus on modeling, computational, and analytical skills. Computational implementations will be done in Excel using the @Risk add-in (during the first half of the course to build simple simulation models) and the Arena software (during the second half of the course to build more complex models based on discrete-event simulation).    This course may use third-party course material that is not available for individual purchase from the publisher.   If so, the third-party course material will be secured and provided by the Tepper School to students enrolled in the course, and students enrolled in the course will be required to pay to the University the associated additional course materials fee for the third-party course material provided.   The amount of the course materials fee is dependent on the University's cost of the particular materials provided, and typically ranges from $13 to $75.
+</end course description for 70-462 Uncertainty and Risk Modeling>

@@ -1,0 +1,16 @@
+<start course metadata for 03-744 Membrane Trafficking>
+Semester: Spring 2024 (aka S24)
+Course Name: Membrane Trafficking
+Course Number: 03-744
+Department: Biological Sciences
+Number of Units: 9
+Prerequisites: 03-240 or 03-320
+Instructors: Adam Linstedt, Christina Lee
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 03-744 Membrane Trafficking>
+
+<start course description for 03-744 Membrane Trafficking>
+Semester: Spring 2024 (aka S24)
+Course Description: While the focus of this course is to analyze membrane/protein traffic along both the biosynthetic and endocyctic pathways, our general goal is to teach students how to read and interpret the literature. In particular, we emphasize the conclusions and discuss their validity. The course is updated each year to include topics in which new and interesting developments have occurred. Emphasis is placed on how membrane traffic is regulated and where applicable how it is disrupted or subverted during disease processes. The course is of general interest to students, fellows, and faculty interested in cell biology, immunology, neurobiology, pharmacology and virology.
+</end course description for 03-744 Membrane Trafficking>

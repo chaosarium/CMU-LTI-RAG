@@ -1,0 +1,16 @@
+<start course metadata for 48-755 Introduction to Architectural Robotics>
+Semester: Fall 2023 (aka F23)
+Course Name: Introduction to Architectural Robotics
+Course Number: 48-755
+Department: Architecture
+Number of Units: 9
+Prerequisites: None
+Instructors: Joshua Bard
+Rooms: MM C4
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-755 Introduction to Architectural Robotics>
+
+<start course description for 48-755 Introduction to Architectural Robotics>
+Semester: Fall 2023 (aka F23)
+Course Description: This course provides a practical, hands-on introduction to the application of industrial robotics in architectural and related construction domains. It also provides students with the necessary knowledge and safety protocols to work in the architectural robotics lab at CMU SoA. Through lectures, labs, and project work you will learn the industrial robotic fundamentals of on-line programming, off-line programming, simulation, end-of-arm-tool (EOT) development, workcell development, and interacting with peripheral sensors. This course is a prerequisite for more advanced engagement with the lab equipment through SoA courses, student thesis projects, and research.   No prior knowledge of industrial robotics is required to succeed in the course. Students should have basic knowledge of Rhinoceros 3D modeling and visual scripting in Grasshopper. Prior programming experience is recommended, but not required. All students should exhibit careful attention to lab safety policies and the determination to test ideas through physical making and iteration.
+</end course description for 48-755 Introduction to Architectural Robotics>

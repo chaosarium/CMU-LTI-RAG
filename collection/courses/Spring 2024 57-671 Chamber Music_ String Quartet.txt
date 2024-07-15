@@ -1,0 +1,16 @@
+<start course metadata for 57-671 Chamber Music: String Quartet>
+Semester: Spring 2024 (aka S24)
+Course Name: Chamber Music: String Quartet
+Course Number: 57-671
+Department: Music
+Number of Units: 3
+Prerequisites: None
+Instructors: Andrew Wickesberg, Angela Park, Christopher Wu, David Harding, Dimitrios Papadimitriou, Jennifer Aylmer, Sarah Steranka, Sung-Im Kim
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-671 Chamber Music: String Quartet>
+
+<start course description for 57-671 Chamber Music: String Quartet>
+Semester: Spring 2024 (aka S24)
+Course Description: Provides an opportunity for students to play in small ensembles, advised by faculty coaches. The performers will develop effective rehearsal techniques, explore chamber music repertoire, deal with issues of intonation and balance, and arrive at interpretive conclusions that are stylistically sound, yet individualistic and creative. A performance is required each semester.
+</end course description for 57-671 Chamber Music: String Quartet>

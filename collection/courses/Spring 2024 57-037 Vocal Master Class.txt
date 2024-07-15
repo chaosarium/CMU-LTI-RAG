@@ -1,0 +1,16 @@
+<start course metadata for 57-037 Vocal Master Class>
+Semester: Spring 2024 (aka S24)
+Course Name: Vocal Master Class
+Course Number: 57-037
+Department: Music
+Number of Units: 0
+Prerequisites: None
+Instructors: Daniel Teadt
+Rooms: CFA M157
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-037 Vocal Master Class>
+
+<start course description for 57-037 Vocal Master Class>
+Semester: Spring 2024 (aka S24)
+Course Description: TBA
+</end course description for 57-037 Vocal Master Class>

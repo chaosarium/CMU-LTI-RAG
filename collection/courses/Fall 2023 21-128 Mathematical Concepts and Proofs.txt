@@ -1,0 +1,16 @@
+<start course metadata for 21-128 Mathematical Concepts and Proofs>
+Semester: Fall 2023 (aka F23)
+Course Name: Mathematical Concepts and Proofs
+Course Number: 21-128
+Department: Mathematical Sciences
+Number of Units: 12
+Prerequisites: 21-120 or 21-112 or 15-112 or 21-108
+Instructors: John Mackey
+Rooms: BH A51
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-128 Mathematical Concepts and Proofs>
+
+<start course description for 21-128 Mathematical Concepts and Proofs>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is intended for MCS first-semester students who are interested in pursuing a major in mathematical sciences.  The course introduces the basic concepts, ideas and tools involved in doing mathematics.  As such, its main focus in on presenting informal logic, and the methods of mathematical proof.  These subjects are closely related to the application of mathematics in many areas, particularly computer science.  Topics discussed include a basic introduction to elementary number theory, induction, the algebra of sets, relations, equivalence relations, congruences, partitions, and functions, including injections, surjections, and bijections.  A basic introduction to the real numbers, rational and irrational numbers.  Supremum and infimum of a set.  (Three 50 minute lectures, two 50 minute recitations)
+</end course description for 21-128 Mathematical Concepts and Proofs>

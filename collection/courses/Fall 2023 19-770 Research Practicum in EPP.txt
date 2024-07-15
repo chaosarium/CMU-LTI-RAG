@@ -1,0 +1,16 @@
+<start course metadata for 19-770 Research Practicum in EPP>
+Semester: Fall 2023 (aka F23)
+Course Name: Research Practicum in EPP
+Course Number: 19-770
+Department: Engineering & Public Policy
+Number of Units: N/A
+Prerequisites: None
+Instructors: Deanna Matthews, Nicholas Muller
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 19-770 Research Practicum in EPP>
+
+<start course description for 19-770 Research Practicum in EPP>
+Semester: Fall 2023 (aka F23)
+Course Description: Research Practicum in EPP
+</end course description for 19-770 Research Practicum in EPP>

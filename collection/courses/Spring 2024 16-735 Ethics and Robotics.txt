@@ -1,0 +1,16 @@
+<start course metadata for 16-735 Ethics and Robotics>
+Semester: Spring 2024 (aka S24)
+Course Name: Ethics and Robotics
+Course Number: 16-735
+Department: Robotics
+Number of Units: 12
+Prerequisites: None
+Instructors: Illah Nourbakhsh
+Rooms: GHC 5222
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 16-735 Ethics and Robotics>
+
+<start course description for 16-735 Ethics and Robotics>
+Semester: Spring 2024 (aka S24)
+Course Description: This course contextualizes robotics, AI, and machine learning within cultural conversation, ethics, and power relationships in society. It will draw upon "AI and Humanity" as well as numerous other texts, including Mindless by Simon Head, Drone Theory by Grégoire Chamayou, and news articles. The course will culminate in team-based design and futuring project addressing the ways in which robotic technologies will influence society and values in the near future. Our target audience is students who will participate in computer science and robotics research and can use this course to inform future research and career decisions.
+</end course description for 16-735 Ethics and Robotics>

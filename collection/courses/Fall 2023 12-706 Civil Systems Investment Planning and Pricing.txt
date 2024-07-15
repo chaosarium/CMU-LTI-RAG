@@ -1,0 +1,16 @@
+<start course metadata for 12-706 Civil Systems Investment Planning and Pricing>
+Semester: Fall 2023 (aka F23)
+Course Name: Civil Systems Investment Planning and Pricing
+Course Number: 12-706
+Department: Civil & Environmental Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Destenie Nock
+Rooms: DH 1211
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 12-706 Civil Systems Investment Planning and Pricing>
+
+<start course description for 12-706 Civil Systems Investment Planning and Pricing>
+Semester: Fall 2023 (aka F23)
+Course Description: This course introduces students to the fundamental principles and quantitative methods used in engineering systems, and how to communicate results. Its primary audience is first year graduate students in engineering.  The course covers economic-based decision making methods, such as decision trees, benefit-cost and cost-effectiveness analysis, and more advanced decision and risk analysis methods like sensitivity analysis, multi-attribute, and simulation. The integration of uncertainty into formal methods is a fundamental component of the course, and tells us how confident we should be in our answers. The primary applications in this course will deal with infrastructure systems planning and environmental policy.
+</end course description for 12-706 Civil Systems Investment Planning and Pricing>

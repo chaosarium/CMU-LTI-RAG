@@ -1,0 +1,16 @@
+<start course metadata for 76-260 Introduction to Writing Fiction>
+Semester: Spring 2024 (aka S24)
+Course Name: Introduction to Writing Fiction
+Course Number: 76-260
+Department: English
+Number of Units: 9
+Prerequisites: (76-101) or (76-102) or (76-106 and 76-107) or (76-106 and 76-108) or (76-107 and 76-108)
+Instructors: Jason England, Kevin Gonzalez
+Rooms: BH 255B; WEH 5304
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 76-260 Introduction to Writing Fiction>
+
+<start course description for 76-260 Introduction to Writing Fiction>
+Semester: Spring 2024 (aka S24)
+Course Description: Section A: This is an introduction to the reading and writing of short fiction. The concepts of character development, scene, form, precise prose, and narrative will be our principal focus. Reading assignments will illustrate a variety of elements of fiction, and students will analyze and discuss stories from a writer's point of view. Frequent writing exercises will be assigned in tandem with sthe fiction we read, with an eye on each student producing one complete short story by semester's end.  Section B: This is an introduction to the reading and writing of short fiction.
+</end course description for 76-260 Introduction to Writing Fiction>

@@ -1,0 +1,16 @@
+<start course metadata for 57-386 Collaborative Piano VI>
+Semester: Fall 2023 (aka F23)
+Course Name: Collaborative Piano VI
+Course Number: 57-386
+Department: Music
+Number of Units: N/A
+Prerequisites: 57-385
+Instructors: Mark Carver
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-386 Collaborative Piano VI>
+
+<start course description for 57-386 Collaborative Piano VI>
+Semester: Fall 2023 (aka F23)
+Course Description: Continues 57-385 Accompanying V.
+</end course description for 57-386 Collaborative Piano VI>

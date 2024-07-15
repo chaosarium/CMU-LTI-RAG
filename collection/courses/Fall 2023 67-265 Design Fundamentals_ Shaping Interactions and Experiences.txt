@@ -1,0 +1,16 @@
+<start course metadata for 67-265 Design Fundamentals: Shaping Interactions and Experiences>
+Semester: Fall 2023 (aka F23)
+Course Name: Design Fundamentals: Shaping Interactions and Experiences
+Course Number: 67-265
+Department: Information Systems Program
+Number of Units: 9
+Prerequisites: None
+Instructors: Susan Hagan
+Rooms: SH 238
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 67-265 Design Fundamentals: Shaping Interactions and Experiences>
+
+<start course description for 67-265 Design Fundamentals: Shaping Interactions and Experiences>
+Semester: Fall 2023 (aka F23)
+Course Description: This course offers hands-on experience based on theoretical grounding linked to fundamental design practices. The first fundamental idea is stakeholders need an interesting and organized pre-task environment as a precursor to engaging with a task. A pre-task environment is one that invites stakeholders to engage with and stay in a designed space because they can see that they will enjoy performing tasks that meet their goals. This useful, usable, and desirable task environment is developed by exploring compositional guidelines, color theory, and basic typography. With pre-task knowledge in hand, students explore meaning-making that emerges through the synthesis of image, word, and typeface as they design and prototype interactive solutions to problems that real users face, employing user studies and usability evaluations to create effective solutions.
+</end course description for 67-265 Design Fundamentals: Shaping Interactions and Experiences>

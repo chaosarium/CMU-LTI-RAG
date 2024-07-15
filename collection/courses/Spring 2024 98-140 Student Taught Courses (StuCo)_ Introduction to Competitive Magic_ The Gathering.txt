@@ -1,0 +1,16 @@
+<start course metadata for 98-140 Student Taught Courses (StuCo): Introduction to Competitive Magic: The Gathering>
+Semester: Spring 2024 (aka S24)
+Course Name: Student Taught Courses (StuCo): Introduction to Competitive Magic: The Gathering
+Course Number: 98-140
+Department: StuCo (Student Led Courses)
+Number of Units: 3
+Prerequisites: None
+Instructors: Braden Yates, Miles Pride
+Rooms: POS 145
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 98-140 Student Taught Courses (StuCo): Introduction to Competitive Magic: The Gathering>
+
+<start course description for 98-140 Student Taught Courses (StuCo): Introduction to Competitive Magic: The Gathering>
+Semester: Spring 2024 (aka S24)
+Course Description: Magic: The Gathering, the originator of collectible card game genre, was created by mathematician Richard Garfield in 1993 and now has an estimated 40 million worldwide players. The game combines strategic thinking, deck construction, game theory, and in-depth planning. Magic has a very large dedicated competitive scene that has been around for all its existence. Whether you're a new player who has an interest in learning the game or an experienced veteran, this course is perfect for you!  Taught by a former gold level professional player, Pro Tour top 8 competitor, along with other competitors, this course will give you the tools to improve your Magic play.  In this course, you will learn the fundamentals of competitive Magic, such as deck building, game theory, strategy, tactics, and metagame analysis along with the current state of Magic tournaments. No prior experience in Magic is required. Time during class will be spent playing Magic, learning about Magic theory, watching recordings, building decks, and listening to guest lectures from professional players. The semester will end with a final tournament to show off the skills that you've mastered.
+</end course description for 98-140 Student Taught Courses (StuCo): Introduction to Competitive Magic: The Gathering>

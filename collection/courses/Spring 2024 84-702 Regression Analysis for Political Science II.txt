@@ -1,0 +1,16 @@
+<start course metadata for 84-702 Regression Analysis for Political Science II>
+Semester: Spring 2024 (aka S24)
+Course Name: Regression Analysis for Political Science II
+Course Number: 84-702
+Department: Institute for Politics and Strategy
+Number of Units: 12
+Prerequisites: 84-701
+Instructors: Jonathan Cervas
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 84-702 Regression Analysis for Political Science II>
+
+<start course description for 84-702 Regression Analysis for Political Science II>
+Semester: Spring 2024 (aka S24)
+Course Description: By the end of RAPS II, students will be able to critically evaluate most studies that use statistical tools in political science research. Students will be able to design and carry out original research applying quantitative methods. There will be an emphasis in using graphical tools to aid interpretation and presentation of results.
+</end course description for 84-702 Regression Analysis for Political Science II>

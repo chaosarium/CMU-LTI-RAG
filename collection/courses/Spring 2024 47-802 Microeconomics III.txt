@@ -1,0 +1,16 @@
+<start course metadata for 47-802 Microeconomics III>
+Semester: Spring 2024 (aka S24)
+Course Name: Microeconomics III
+Course Number: 47-802
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Ali Shourideh
+Rooms: TEP 5222
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 47-802 Microeconomics III>
+
+<start course description for 47-802 Microeconomics III>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is the last course in the core micro sequence of the economics PhD program. The topics studied are advanced topics in economic theory. They often include but are not limited to contract theory and economics of information, repeated games and advanced models of choice and individual behavior, i.e., behavioral economics.
+</end course description for 47-802 Microeconomics III>

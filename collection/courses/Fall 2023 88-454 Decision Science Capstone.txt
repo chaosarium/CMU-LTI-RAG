@@ -1,0 +1,16 @@
+<start course metadata for 88-454 Decision Science Capstone>
+Semester: Fall 2023 (aka F23)
+Course Name: Decision Science Capstone
+Course Number: 88-454
+Department: Social & Decision Sciences
+Number of Units: 9
+Prerequisites: 88-302
+Instructors: Erin Carbone
+Rooms: GHC 4102
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 88-454 Decision Science Capstone>
+
+<start course description for 88-454 Decision Science Capstone>
+Semester: Fall 2023 (aka F23)
+Course Description: The Capstone in Decision Science is a seminar that applies the theories, concepts, and statistical techniques mastered in prior courses to an applied project. Students will work closely both in teams and individually with the instructor on a project that will address an applied problem that decision science can help to solve. Students will work to structure the problem, define a focused research question, design a study that addresses the question, collect and analyze the data, and make policy or practice recommendations based on the findings. Students will manage the project, drive the scientific question and approach, and make a formal presentation to a panel of experts.
+</end course description for 88-454 Decision Science Capstone>

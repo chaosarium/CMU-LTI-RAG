@@ -1,0 +1,16 @@
+<start course metadata for 82-793 Teaching Methodologies for the Foreign Language Classroom>
+Semester: Fall 2023 (aka F23)
+Course Name: Teaching Methodologies for the Foreign Language Classroom
+Course Number: 82-793
+Department: Modern Languages
+Number of Units: 9
+Prerequisites: None
+Instructors: Bonnie Youngs
+Rooms: POS 235
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 82-793 Teaching Methodologies for the Foreign Language Classroom>
+
+<start course description for 82-793 Teaching Methodologies for the Foreign Language Classroom>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is intended to expose students to different language teaching methodologies. We will study the development and history of teaching approaches and methods, and examine the intersection of Second Language Acquisition (SLA) theories of language learning to approaches and methods. Students will also apply the content of this course by way of their classroom observations for the 82-893 Practicum I course. Students will leave this course more comfortable as language teachers and able to adapt and apply their knowledge to new teaching situations.
+</end course description for 82-793 Teaching Methodologies for the Foreign Language Classroom>

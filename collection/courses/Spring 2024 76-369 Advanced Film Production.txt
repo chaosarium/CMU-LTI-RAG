@@ -1,0 +1,16 @@
+<start course metadata for 76-369 Advanced Film Production>
+Semester: Spring 2024 (aka S24)
+Course Name: Advanced Film Production
+Course Number: 76-369
+Department: English
+Number of Units: 9
+Prerequisites: 76-292
+Instructors: Melissa Martin
+Rooms: WEH 4707
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 76-369 Advanced Film Production>
+
+<start course description for 76-369 Advanced Film Production>
+Semester: Spring 2024 (aka S24)
+Course Description: This course reiterates and expands upon basic narrative filmmaking principles.  Students will further cement practical and cretive processes. From the screenplay to completed short films students will master foundations and techniques in small filmmaking.
+</end course description for 76-369 Advanced Film Production>

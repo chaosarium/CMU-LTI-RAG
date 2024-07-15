@@ -1,0 +1,16 @@
+<start course metadata for 54-316 Jazz III>
+Semester: Spring 2024 (aka S24)
+Course Name: Jazz III
+Course Number: 54-316
+Department: Drama
+Number of Units: 2
+Prerequisites: 54-315
+Instructors: Tome' Cousin
+Rooms: PCA 306
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-316 Jazz III>
+
+<start course description for 54-316 Jazz III>
+Semester: Spring 2024 (aka S24)
+Course Description: This course continues to expand the versatility of the student dancer to master more complex exercises, in dynamics, direction and rhythm using Jazz styles examined by decades. Understanding the 20th century historical background of the 20's, 30's 40's, 50's 60's and 70's.  Course closed: Only for Music Theatre majors in Drama.
+</end course description for 54-316 Jazz III>

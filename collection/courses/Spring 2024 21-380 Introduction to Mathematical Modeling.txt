@@ -1,0 +1,16 @@
+<start course metadata for 21-380 Introduction to Mathematical Modeling>
+Semester: Spring 2024 (aka S24)
+Course Name: Introduction to Mathematical Modeling
+Course Number: 21-380
+Department: Mathematical Sciences
+Number of Units: 9
+Prerequisites: (21-241 or 21-242) and (21-260 or 21-261)
+Instructors: Dylan Altschuler
+Rooms: WEH 8220
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-380 Introduction to Mathematical Modeling>
+
+<start course description for 21-380 Introduction to Mathematical Modeling>
+Semester: Spring 2024 (aka S24)
+Course Description: This course shall examine mathematical models, which may be used to describe natural phenomena. Examples, which have been studied include: continuum description of highway traffic, discrete velocity models of a monotonic gas, chemotactic behavior in biological systems, European options pricing, and cellular-automata. Systems such as the first four are described by partial differential equations; the last involves discrete-time and discrete-phase dynamical systems, which have been used to successfully represent both physical and biological systems. The course will develop these models and then examine the behavior of the underlying systems, both analytically and numerically. The mathematical tools required will be developed in the course.  (Three 50 minute lectures)
+</end course description for 21-380 Introduction to Mathematical Modeling>

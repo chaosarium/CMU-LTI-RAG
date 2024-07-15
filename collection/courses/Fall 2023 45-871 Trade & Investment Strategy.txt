@@ -1,0 +1,16 @@
+<start course metadata for 45-871 Trade & Investment Strategy>
+Semester: Fall 2023 (aka F23)
+Course Name: Trade & Investment Strategy
+Course Number: 45-871
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Robert Miller
+Rooms: TEP 2118
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-871 Trade & Investment Strategy>
+
+<start course description for 45-871 Trade & Investment Strategy>
+Semester: Fall 2023 (aka F23)
+Course Description: "Trade and Investment Strategy" is a strategy elective on the microstructure of trade and growth in private enterprise. It combines analytic with experimental methods to investigate strategic interactions in bidding, buying, selling, designing trading mechanisms, consumption based portfolio analysis, investment dynamics, and governance. We begin with an explanation of trading in electronic limit order markets, an exchange mechanism that has been widely adopted in the financial sector, is paradigmatic of most markets, and holds great promise for efficiently regulating procurement practices and inventory control in micromarkets. To analyze optimal trading rules, we investigate the role of arbitrage in limit order markets, and then probe more deeply into auctions, which are essentially one sided limit order markets. We describe the main kinds of auctions, investigate optimal bidding behavior, and compare revenue outcomes from different auction formats. Individual valuations form the basis for bidding and trading, and in the third section of the course we investigate how those valuations are determined. We analyze how investment profiles are valued from their underlying dynamic choice profiles, we characterize attitudes towards risk, and we explain preferences for consumption at different points in time. Armed with estimates of risk tolerance and timing preferences for consumption over the life cycle, we derive optimal consumption smoothing, which determines investment and portfolio choices, and motivates the demand for mutual and pension funds, hedging practices, and more generally a financial retail sector. This leads us to our last topic, problems peculiar to large investors, whose decisions affect the affect of the operations of the firm. We focus on the goals of the board members, their willingness to deviate from expected value maximization, and the means to implement their goals through managerial compensation po
+</end course description for 45-871 Trade & Investment Strategy>

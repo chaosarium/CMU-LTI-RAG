@@ -1,0 +1,16 @@
+<start course metadata for 95-702 Distributed Systems for Information Systems Management>
+Semester: Spring 2024 (aka S24)
+Course Name: Distributed Systems for Information Systems Management
+Course Number: 95-702
+Department: Information Systems:Sch of IS & Mgt
+Number of Units: 12
+Prerequisites: (95-712) or (17-681 and 17-683)
+Instructors: Martin Barrett, Michael Mccarthy
+Rooms: HBH A301
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 95-702 Distributed Systems for Information Systems Management>
+
+<start course description for 95-702 Distributed Systems for Information Systems Management>
+Semester: Spring 2024 (aka S24)
+Course Description: Prerequisite: 95-712 Object-oriented programming With the emergence of the Internet as a computing platform, distributed applications are being widely deployed by organizations. Understanding the principles/theory and the technologies underlying distributed computing and systems design is increasingly important. Examples of technologies supporting such deployment include JEE architecture and Web services. This course has three major objectives. First, it is designed to introduce students to the principles underlying distributed computing and the design of distributed systems. Second, it aims to provide students with the opportunity to exercise these principles in the context of real applications by having the students use technologies such as XML, SOAP, Web services, and JEE-based application servers. Finally, it seeks to endow students with the capacity to analyze, design, evaluate and recommend distributed computing solutions skills in response to business problems. Distributed Computing Principles -    Distributed computing architectures: P2P, client server -    Inter-process communication -    Distributed objects and remote invocation -    Naming and Name services -    Time and Global State Management -    Transactions and Concurrency control -    Distributed Transactions  Internet-enabled Distributed Computing Technologies -    Application Server architectures: JEE -    Extensions of the Java Distributed Object model and the DCOM component-based architectures -    Web Services: WSDL, UDDI, SOAP, XML -    http-based RPC combined with standards for interface definition and naming. -    Discussion and application of select API's from the API layer of the JEE architecture to illustrate distributed transactions, middleware access protocols (MQ Series API), and Messaging services (JMS).  The course employs project oriented teaching with implementation components to get students hands on skills with JEE frameworks.
+</end course description for 95-702 Distributed Systems for Information Systems Management>

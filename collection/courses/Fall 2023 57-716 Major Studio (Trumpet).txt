@@ -1,0 +1,16 @@
+<start course metadata for 57-716 Major Studio (Trumpet)>
+Semester: Fall 2023 (aka F23)
+Course Name: Major Studio (Trumpet)
+Course Number: 57-716
+Department: Music
+Number of Units: 9
+Prerequisites: None
+Instructors: George Vosburgh, Neal Berntsen
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-716 Major Studio (Trumpet)>
+
+<start course description for 57-716 Major Studio (Trumpet)>
+Semester: Fall 2023 (aka F23)
+Course Description: A one hour private lesson per week for all music majors.
+</end course description for 57-716 Major Studio (Trumpet)>

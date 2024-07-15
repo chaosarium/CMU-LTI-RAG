@@ -1,0 +1,207 @@
+MCDS Handbook 23-24 AY
+1 Welcome 
+Welcome to the Language Technologies Institute, Master of 
+Computational Data Science Program. While this handbook is specific to 
+your academic experience in the department, there are several other 
+resources and offices graduate students are encouraged to consult during 
+their tenure at Carnegie Mellon University. Information about The Word, 
+the student handbook, the Office of Graduate and Postdoctoral Affairs, the 
+Office of the Dean of Students, and others are included in Appendix A of 
+this handbook. 
+1.1 The MCDS Degree 
+The MCDS Degree The Master of Computational Data Science (MCDS) 
+degree is a professional Master of Science degree offered by the Language 
+Technologies Institute (LTI), a department in the School of Computer 
+Science at Carnegie Mellon University. The MCDS degree offers students 
+with a Bachelor's degree the opportunity to improve their training with 
+advanced study in Computer Science and Machine Learning. We cater to 
+students with basic analytic skills and a strong aptitude for mathematics, 
+programming, and logical reasoning. An undergraduate degree in 
+Computer Science is not required. Most students will complete the 
+program in three semesters; students coming from other disciplines and 
+students focus on developing applied research skills in preparation for 
+further graduate study or research-oriented employment may require an 
+additional fourth semester. 
+ 
+The MCDS Program offers a core curriculum and several concentrations; 
+students entering the program enroll in core courses in their first 
+semester and select further courses to satisfy at least one concentration 
+(see Section 3.3.6). Students construct their own course of study, in 
+consultation with their academic advisor, in order to satisfy broad 
+guidelines. Thus, a student may tailor their coursework in a given 
+concentration to follow a particular area of emphasis. The MCDS program 
+is typically a 16-month program consisting of courses, seminars, a 
+required Capstone Project and a required summer internship or practical 
+training. While some MCDS graduates continue on to PhD programs in the 
+LTI or other leading universities, most graduates go on to jobs in 
+corporate research and development laboratories. 
+ 
+The program consists entirely of coursework and a Capstone Project, and 
+no Master’s Thesis is required. All Capstone projects are structured as 
+research activities and may lead to a publication. There is no Doctoral 
+program in Computational Data Science. Because of the highly selective 
+nature of the MCDS program and quality of the MCDS curriculum, 
+performing well in the program will give a boost to a PhD application. MS 
+graduates are welcome to apply to CMU PhD programs but will not receive 
+preferential treatment. 
+ 
+There are significant differences between CMU's different departments 
+and degree programs in philosophical approach, procedures, policies and 
+regulations. Each department issues a handbook that informs graduate 
+students of their program requirements and procedures and ensures that 
+students have written access to the standard information outlined below. 
+This handbook describes the policies, procedures, and requirements for 
+the Master of Computational Data Science (MCDS) degree. 
+All policies not explicitly described in this document conform to School of 
+Computer Science (SCS) policies and university policies described in The 
+Word, Carnegie Mellon University Student Handbook and at the 
+University Policies website. 
+1.2 Vision 
+Carnegie Mellon University will have a transformative impact on society 
+through continual innovation in education, research, creativity, and 
+entrepreneurship. 
+1.3 Mission 
+To create a transformative educational experience  for students focused on 
+deep disciplinary knowledge; problem solving; leadership, 
+communication, and interpersonal skills; and personal health and well-
+being. 
+To cultivate a transformative university community  committed to (a) 
+attracting and retaining diverse, world-class talent; (b) creating a 
+collaborative environment open to the free exchange of ideas, where 
+research, creativity, innovation, and entrepreneurship can flourish; and 
+(c) ensuring individuals can achieve their full potential. 
+To impact society in a transformative way  — regionally, nationally, and 
+globally — by engaging with partners outside the traditional borders of the 
+university campus. 
+1.4 MCDS Contact Information 
+The people responsible for administering the MCDS degree are: 
+ 
+Jennifer M Lucas  
+Academic Program Manager 
+Master of Computational Data Science  
+Language Technologies Institute 
+School of Computer Science  
+Carnegie Mellon University 
+Gates-Hillman Center 6415 
+5000 Forbes Avenue, Pgh, PA 15213 
+Phone: (412) 268-9870 
+Fax: (412) 268-7287 
+  Carolyn Penstein Rosé, Director  
+Master of Computational Data Science  
+Language Technologies Institute 
+School of Computer Science 
+Carnegie Mellon University 
+Gates-Hillman Center 5419 
+5000 Forbes Avenue, Pgh, PA 15213 
+Phone: (412) 268-4525 
+Fax: (412) 268-7287 
+Robert Frederking  
+Graduate Program Chair 
+Language Technologies Institute 
+School of Computer Science  
+Carnegie Mellon University 
+Gates-Hillman Center 6515 
+5000 Forbes Avenue, Pgh, PA 15213 
+Phone: (412) 268 -6656 Mona Diab, LTI Director  
+Language Technologies Institute 
+School of Computer Science  
+Carnegie Mellon University 
+Gates-Hillman Center 5723 
+5000 Forbes Avenue, Pgh, PA 15213 
+Phone: (412) 268-3669 
+ 
+The Language Technologies Institute is located primarily on the 5th and 6th floors of the 
+Gates Hillman Complex (GHC) on Carnegie Mellon’s Pittsburgh campus: 
+ 
+Language Technologies Institute 
+Carnegie Mellon University 
+5000 Forbes Avenue 
+Gates Hillman Complex 5402, LTI 
+Pittsburgh, PA 15241-3891 
+ 
+412-268-6591 (phone) 
+412-268-6298 (fax) 
+http://www.lti.cs.cmu.edu/  
+ 
+ 91.5 University Policies and Expectations 
+Each member of the Carnegie Mellon community must be familiar with university 
+policies and guidelines. In addition to this departmental graduate student handbook, 
+the following resources are available to assist you in understanding community 
+expectations: 
+  
+The Word/Student 
+Handbook:  http://www.cmu.edu/student -
+affairs/theword/index .html   
+Academic Integrity 
+Website: https://www.cmu.edu/policies/student -and-student- 
+life/academic-integrity.html    
+University Policies 
+Website:  http://www.cmu.ed u/policies/  
+ 
+Office of Graduate and 
+Post-Doc Affairs: http://www.cmu.edu/graduate/policies/index.html  
+Please see Appendix A for additional information about university resources. 
+1.6 Carnegie Mellon University Statement of Assurance  
+Carnegie Mellon University does not discriminate in admission, employment or 
+administration of its programs or activities on the basis of race, color, national origin, 
+sex, handicap or disability, age, sexual orientation, gender identity, religion, creed, 
+ancestry, belief, veteran status or genetic information. Furthermore, Carnegie Mellon 
+University does not discriminate and is required not to discriminate in violation of 
+federal, state or local laws or executive orders. 
+ 
+Inquiries concerning the application of and compliance with this statement should be 
+directed to the university ombudsman, Carnegie Mellon University, 5000 Forbes Avenue, 
+Pittsburgh, PA 15213, telephone 412-268-1018. Obtain general information about 
+Carnegie Mellon University by calling 412-268-2000. 
+ 
+Carnegie Mellon University publishes an annual campus security and fire safety report. 
+describing the university's security, alcohol and drug, sexual assault and fire safety 
+policies, and containing statistics about the number and type of crimes committed on the 
+campus, and the number and cause of fires in campus residence facilities during the 
+preceding three years. You can obtain a copy by contacting the Carnegie Mellon Police 
+Department at 412-268-2323. The annual security and fire safety report also is available 
+online at 
+www.cmu.edu/police/annualreports .  
+ 
+Information regarding the application of Title IX, including to admission and 
+employment decisions, the sexual misconduct grievance procedures and process, 
+including how to file a 
+report or a complaint of sex discrimination, how to file a report of sexual harassment, 
+and how the university responds to such reports is available at www.cmu.edu/title-ix . The 
+Title IX 
+coordinator may be reached at 412-268-7125 or tix@cmu.edu . 
+ 
+1.7 The Carnegie Mellon Code  
+ 
+Students at Carnegie Mellon, because they are members of an academic community 
+dedicated to the achievement of excellence, are expected to meet the highest standards 
+of 
+personal, ethical and moral conduct possible. 
+ 
+These standards require personal integrity, a commitment to honesty without 
+compromise, as well as truth without equivocation and a willingness to place the good of 
+the community above the good of the self. Obligations once undertaken must be met, 
+commitments kept. 
+ 
+As members of the Carnegie Mellon community, individuals are expected to uphold the 
+standards of the community in addition to holding others accountable for said standards. 
+It is 
+rare that the life of a student in an academic community can be so private that it will not 
+affect the community as a whole or that the above standards do not apply. 
+ 
+The discovery, advancement and communication of knowledge are not possible without 
+a 
+commitment to these standards. Creativity cannot exist without acknowledgment of the 
+creativity of others. New knowledge cannot be developed without credit for prior 
+knowledge. Without the ability to trust that these principles will be observed, an 
+academic community cannot exist. 
+ 
+The commitment of its faculty, staff and students to these standards contributes to the 
+high 
+respect in which the Carnegie Mellon degree is held. Students must not destroy that 
+respect by their failure to meet these standards. Students who cannot meet them should 
+voluntarily 
+withdraw from the university. 
+ 
+The Carnegie Mellon Code can also be found on-line at: 
+https://www.cmu.edu/student-affairs/theword/ . 

@@ -1,0 +1,16 @@
+<start course metadata for 57-763 Eurhythmics III>
+Semester: Fall 2023 (aka F23)
+Course Name: Eurhythmics III
+Course Number: 57-763
+Department: Music
+Number of Units: 3
+Prerequisites: 57-762
+Instructors: Stephen Neely
+Rooms: MM 119
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-763 Eurhythmics III>
+
+<start course description for 57-763 Eurhythmics III>
+Semester: Fall 2023 (aka F23)
+Course Description: Continues 57-762 Eurhythmics II.            Eurhythmics III focuses on rhythmic transformation, rhythm patterns based on small note values, irregular sub-divisions of metric units and more complex cross-rhythms.
+</end course description for 57-763 Eurhythmics III>

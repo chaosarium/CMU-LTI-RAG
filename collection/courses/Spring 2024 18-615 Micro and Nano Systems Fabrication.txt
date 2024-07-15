@@ -1,0 +1,16 @@
+<start course metadata for 18-615 Micro and Nano Systems Fabrication>
+Semester: Spring 2024 (aka S24)
+Course Name: Micro and Nano Systems Fabrication
+Course Number: 18-615
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Gianluca Piazza
+Rooms: PH 126A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-615 Micro and Nano Systems Fabrication>
+
+<start course description for 18-615 Micro and Nano Systems Fabrication>
+Semester: Spring 2024 (aka S24)
+Course Description: This is a new course intended to introduce students to the process flow and design methodology for integrated systems fabrication. The course will present this material through two paths. Lectures will be presented on the basic unit processes of micro and nanosystems fabrication: deposition, patterning, and etching. Lectures will draw on examples from: Semiconductor device fabrication; Microelectromechanical systems (MEMS) fabrication; Magnetic device fabrication; and Optical device fabrication. Problem sets will be given based on this lecture material to allow students to quantitatively analyze certain process steps in detail. The second path for material presentation will be through a series of labs that allow students to design, fabricate and test an integrated device. These laboratories will be scheduled at regular meeting times, and will use research facilities within the ECE department.
+</end course description for 18-615 Micro and Nano Systems Fabrication>

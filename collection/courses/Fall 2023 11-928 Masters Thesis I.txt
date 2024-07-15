@@ -1,0 +1,16 @@
+<start course metadata for 11-928 Masters Thesis I>
+Semester: Fall 2023 (aka F23)
+Course Name: Masters Thesis I
+Course Number: 11-928
+Department: Language Technologies Institute
+Number of Units: N/A
+Prerequisites: None
+Instructors: Instructor TBA
+Rooms: DNM DNM
+Locations: Lisbon, Portugal; Pittsburgh, Pennsylvania
+</end course metadata for 11-928 Masters Thesis I>
+
+<start course description for 11-928 Masters Thesis I>
+Semester: Fall 2023 (aka F23)
+Course Description: This course number is intended for last semester Masters students who wish to do an optional Masters Thesis.
+</end course description for 11-928 Masters Thesis I>

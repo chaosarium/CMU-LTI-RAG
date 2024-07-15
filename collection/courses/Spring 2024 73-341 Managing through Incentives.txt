@@ -1,0 +1,16 @@
+<start course metadata for 73-341 Managing through Incentives>
+Semester: Spring 2024 (aka S24)
+Course Name: Managing through Incentives
+Course Number: 73-341
+Department: Economics
+Number of Units: 9
+Prerequisites: (21-268 or 21-259 or 21-256 or 21-269) and (36-201 or 36-202 or 70-207 or 36-207 or 36-200 or 36-217 or 36-225 or 36-218 or 36-219 or 36-220) and (73-230)
+Instructors: Alexey Kushnir
+Rooms: TEP 2612
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 73-341 Managing through Incentives>
+
+<start course description for 73-341 Managing through Incentives>
+Semester: Spring 2024 (aka S24)
+Course Description: We live in an exciting age of information and knowledge when inspiring employees within a firm becomes increasing important. Aligning the objectives of workers, managers, and owners by providing them with appropriate incentives becomes an emerging paradigm in the modern business world. In this course, we learn how to reason about incentives between managers and employees, between managers and owners, and within a team of co-workers. We cover a broad range of topics including objective and subjective performance measurements, relative performance evaluations, relational contracts, and executive compensation. The course relies on business case discussions, rigorous theoretical material, and numerous class activities.    (Lecture, 3 hours). Minimum grade of "C" required in all economics pre-requisite courses.
+</end course description for 73-341 Managing through Incentives>

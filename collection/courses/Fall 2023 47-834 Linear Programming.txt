@@ -1,0 +1,16 @@
+<start course metadata for 47-834 Linear Programming>
+Semester: Fall 2023 (aka F23)
+Course Name: Linear Programming
+Course Number: 47-834
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Karan Singh
+Rooms: TEP 5219
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 47-834 Linear Programming>
+
+<start course description for 47-834 Linear Programming>
+Semester: Fall 2023 (aka F23)
+Course Description: Linear programming lies at the basis of modern optimization theory. This course focuses primarily on linear programming theory and algorithms, leaving beyond the scope of its practical applications. The main topics to be covered include modeling examples and expressive power of linear programs, polyhedral sets and their geometry, theory of systems of linear inequalities and duality, classical linear optimization algorithms (simplex and network simplex), and decomposition approaches for large-scale optimization. If time permits polynomial time solvability of linear programs, extensions to conic optimization problems, conic duality, and an introduction to interior point methods are topics of interest in the given order.
+</end course description for 47-834 Linear Programming>

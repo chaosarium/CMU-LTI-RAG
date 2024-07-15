@@ -1,0 +1,16 @@
+<start course metadata for 82-505 Undergraduate Internship>
+Semester: Spring 2024 (aka S24)
+Course Name: Undergraduate Internship
+Course Number: 82-505
+Department: Modern Languages
+Number of Units: N/A
+Prerequisites: None
+Instructors: Instructor TBA
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 82-505 Undergraduate Internship>
+
+<start course description for 82-505 Undergraduate Internship>
+Semester: Spring 2024 (aka S24)
+Course Description: Approved upper-class language majors may receive credit in connection with work experience related to language learning and language use outside of the classroom setting. As a rule, this experience takes the form of work involving language use or research related to language study at off-campus sites or in the Department. Work or research must be done using the language of study. For off-campus internships, there must be an on-site supervisor appointed to collaborate with the faculty advisor in the final evaluation of the student's work and progress. The student will be responsible for three written reports evaluating the non-classroom experience with the language of study and several other criteria. Students must obtain prior approval for proposed work. Prerequisites: Permission of target faculty member and the Modern Languages internship advisor
+</end course description for 82-505 Undergraduate Internship>

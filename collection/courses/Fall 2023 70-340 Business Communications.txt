@@ -1,0 +1,16 @@
+<start course metadata for 70-340 Business Communications>
+Semester: Fall 2023 (aka F23)
+Course Name: Business Communications
+Course Number: 70-340
+Department: Business Administration
+Number of Units: 9
+Prerequisites: (76-102) or (76-101) or (76-106 and 76-107) or (76-106 and 76-108) or (76-107 and 76-108)
+Instructors: Carla Richards, Emily Dejeu, J Mcginnis
+Rooms: CMB 1064; TEP 2613
+Locations: Doha, Qatar; Pittsburgh, Pennsylvania
+</end course metadata for 70-340 Business Communications>
+
+<start course description for 70-340 Business Communications>
+Semester: Fall 2023 (aka F23)
+Course Description: Business Communications develops and sharpens your written, oral, and interpersonal communication, introducing you to common forms of professional writing and speaking in specific business situations. The course explores crucial rhetorical issues that impact your ability to communicate and achieve your objectives as a business leader. This course may use third-party course material that is not available for individual purchase from the publisher.   If so, the third-party course material will be secured and provided by the Tepper School to students enrolled in the course, and students enrolled in the course will be required to pay to the University the associated additional course materials fee for the third-party course material provided.   The amount of the course materials fee is dependent on the University's cost of the particular materials provided, and typically ranges from $13 to $75.
+</end course description for 70-340 Business Communications>

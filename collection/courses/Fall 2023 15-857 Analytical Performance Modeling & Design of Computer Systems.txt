@@ -1,0 +1,16 @@
+<start course metadata for 15-857 Analytical Performance Modeling & Design of Computer Systems>
+Semester: Fall 2023 (aka F23)
+Course Name: Analytical Performance Modeling & Design of Computer Systems
+Course Number: 15-857
+Department: Computer Science
+Number of Units: 12
+Prerequisites: None
+Instructors: Jalani Williams, Mor Harchol-Balter
+Rooms: GHC 4307
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-857 Analytical Performance Modeling & Design of Computer Systems>
+
+<start course description for 15-857 Analytical Performance Modeling & Design of Computer Systems>
+Semester: Fall 2023 (aka F23)
+Course Description: In designing computer systems one is usually constrained by certain performance requirements and limitations. For example, one might need to guarantee a response time SLA or certain throughput requirement, while at the same time staying within a power budget or cost budget. On the other hand, one often has many choices: One fast disk, or two slow ones? More memory, or a faster processor? A fair scheduler or one that minimizes mean response time? For multi-server systems, one can choose from a wide array of load balancing policies, a wide array of migration policies, capacity provisioning schemes, power management policies ... The possibilities are endless. The best choices are often counter-intuitive. Ideally, one would like to have answers to these questions before investing the time and money to build a system. This class will introduce students to analytic stochastic modeling with the aim of answering the above questions.
+</end course description for 15-857 Analytical Performance Modeling & Design of Computer Systems>

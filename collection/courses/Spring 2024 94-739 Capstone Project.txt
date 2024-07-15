@@ -1,0 +1,16 @@
+<start course metadata for 94-739 Capstone Project>
+Semester: Spring 2024 (aka S24)
+Course Name: Capstone Project
+Course Number: 94-739
+Department: Heinz College Wide Courses
+Number of Units: N/A
+Prerequisites: None
+Instructors: Anand Rao, Ari Lightman, Instructor TBA
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 94-739 Capstone Project>
+
+<start course description for 94-739 Capstone Project>
+Semester: Spring 2024 (aka S24)
+Course Description: See Heinz College website for course description.
+</end course description for 94-739 Capstone Project>

@@ -1,0 +1,16 @@
+<start course metadata for 54-616 MFA Director's Lab>
+Semester: Spring 2024 (aka S24)
+Course Name: MFA Director's Lab
+Course Number: 54-616
+Department: Drama
+Number of Units: 10
+Prerequisites: None
+Instructors: Daniel Banks
+Rooms: MEL M203-A; PCA 103
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-616 MFA Director's Lab>
+
+<start course description for 54-616 MFA Director's Lab>
+Semester: Spring 2024 (aka S24)
+Course Description: TBD
+</end course description for 54-616 MFA Director's Lab>

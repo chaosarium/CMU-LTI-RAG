@@ -1,0 +1,16 @@
+<start course metadata for 06-800 Chemical Engineering Graduate Seminar>
+Semester: Spring 2024 (aka S24)
+Course Name: Chemical Engineering Graduate Seminar
+Course Number: 06-800
+Department: Chemical Engineering
+Number of Units: 1
+Prerequisites: None
+Instructors: Carl Laird
+Rooms: DH 1212
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 06-800 Chemical Engineering Graduate Seminar>
+
+<start course description for 06-800 Chemical Engineering Graduate Seminar>
+Semester: Spring 2024 (aka S24)
+Course Description: Graduate seminar session for Chemical Engineering PhD students.
+</end course description for 06-800 Chemical Engineering Graduate Seminar>

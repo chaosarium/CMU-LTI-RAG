@@ -1,0 +1,16 @@
+<start course metadata for 14-848 Cloud Infrastructure and Services>
+Semester: Fall 2023 (aka F23)
+Course Name: Cloud Infrastructure and Services
+Course Number: 14-848
+Department: Information Networking Institute
+Number of Units: 12
+Prerequisites: None
+Instructors: Mohamed Farag
+Rooms: B23 118; CIC 1201
+Locations: Pittsburgh, Pennsylvania; San Jose, California
+</end course metadata for 14-848 Cloud Infrastructure and Services>
+
+<start course description for 14-848 Cloud Infrastructure and Services>
+Semester: Fall 2023 (aka F23)
+Course Description: Cloud computing focuses on delivery of services via on-demand and fluidly scalable shared resources. This course focuses on design and implementation of networked systems and software necessary to implement the infrastructure for elastic, global-scale computing and storage clouds.  Upon successful completion of the course, students will be able to design, implement, and analyze the infrastructure underlying cloud- and edge-based services. Topics covered in this course include data center networking, cloud-scale storage, caching, large-scale distributed computing, edge computing, resource utilization and sharing, and cloud service frameworks. The course material will focus on recent and landmark research papers and existing tools and software systems.  Students will have substantial programming project work in which they design, implement, and analyze aspects of cloud infrastructure and services. Students are expected to be proficient in object-oriented programming and Linux system programming and command-line tools.
+</end course description for 14-848 Cloud Infrastructure and Services>

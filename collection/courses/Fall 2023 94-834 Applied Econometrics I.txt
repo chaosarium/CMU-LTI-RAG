@@ -1,0 +1,16 @@
+<start course metadata for 94-834 Applied Econometrics I>
+Semester: Fall 2023 (aka F23)
+Course Name: Applied Econometrics I
+Course Number: 94-834
+Department: Heinz College Wide Courses
+Number of Units: 6
+Prerequisites: 90-711 or 95-796 or 90-707 or 90-777
+Instructors: Edson Severnini
+Rooms: HBH 1005; HBH 1206; HBH 2008; HBH A301
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 94-834 Applied Econometrics I>
+
+<start course description for 94-834 Applied Econometrics I>
+Semester: Fall 2023 (aka F23)
+Course Description: Econometrics has an important place in the data sciences.  As your textbook authors say, the purpose of econometrics is to "untangle cause and effect in human affairs."  Econometrics is essential for advancing understanding in the social sciences, conducting public policy evaluation, and assessing the impact of business practice.  Both Applied Econometrics I and Applied Econometrics II are "hands on" courses in which you will not only learn to read and interpret existing studies, but will also conduct econometric analyses of your own.  The goal is to help you take your first few steps toward becoming a "Metrics Master"! One of those steps is becoming competent and confident in the use of Stata to conduct empirical analyses.  Pre-requisites:  Applied Econometrics I: Students are presumed to have a solid grounding in basic statistics, at the level of 90-711 (Empirical Methods for Public Policy and Management), 90-786 (Intermediate Empirical Methods) or 95-796 (Statistics for IT Managers).  We will make good use of the material covered in those courses.
+</end course description for 94-834 Applied Econometrics I>

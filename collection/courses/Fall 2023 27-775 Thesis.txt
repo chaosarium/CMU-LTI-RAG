@@ -1,0 +1,16 @@
+<start course metadata for 27-775 Thesis>
+Semester: Fall 2023 (aka F23)
+Course Name: Thesis
+Course Number: 27-775
+Department: Materials Science & Engineering
+Number of Units: N/A
+Prerequisites: None
+Instructors: Elizabeth Dickey, Suzanne Smith
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 27-775 Thesis>
+
+<start course description for 27-775 Thesis>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is designed to give students enrolled in the Ph.D. program an opportunity to conduct extensive research over the course of their studies. Variable hrs.
+</end course description for 27-775 Thesis>

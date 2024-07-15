@@ -1,0 +1,16 @@
+<start course metadata for 03-750 Graduate Seminar>
+Semester: Spring 2024 (aka S24)
+Course Name: Graduate Seminar
+Course Number: 03-750
+Department: Biological Sciences
+Number of Units: 1
+Prerequisites: None
+Instructors: John Woolford
+Rooms: MI 348
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 03-750 Graduate Seminar>
+
+<start course description for 03-750 Graduate Seminar>
+Semester: Spring 2024 (aka S24)
+Course Description: Each semester, all Department of Biological Sciences graduate students are required to register for and attend the weekly departmental Research Seminar (03-750; 1 unit). Graduate students are strongly urged to meet the speakers to broaden their knowledge of cutting-edge biological science, to discuss career paths and strategies and to make useful contacts; the faculty host can arrange group meetings for interested students.
+</end course description for 03-750 Graduate Seminar>

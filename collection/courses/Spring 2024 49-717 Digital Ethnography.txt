@@ -1,0 +1,16 @@
+<start course metadata for 49-717 Digital Ethnography>
+Semester: Spring 2024 (aka S24)
+Course Name: Digital Ethnography
+Course Number: 49-717
+Department: Integrated Innovation Institute
+Number of Units: 6
+Prerequisites: None
+Instructors: Megan Guidi
+Rooms: CA 108
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 49-717 Digital Ethnography>
+
+<start course description for 49-717 Digital Ethnography>
+Semester: Spring 2024 (aka S24)
+Course Description: Students will study the basic principles of ethnography and then conduct a 6-week project as a participant observer in a digital setting. This course provides an opportunity to hone and refine skills from the User Research Methods course, and dive deeper into one method. You will plan the research, collect data, analyze and synthesize what was learned and present a research report that identifies not only what was observed but also interpret its meaning and make indications about opportunities to innovate with new offerings. Research topics will be provided, however you may propose a topic. Priority enrollment to III graduate students; students outside the III can register with the permission of the instructor.
+</end course description for 49-717 Digital Ethnography>

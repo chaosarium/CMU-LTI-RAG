@@ -1,0 +1,16 @@
+<start course metadata for 42-998 Biomedical Engineering PhD Prospectus>
+Semester: Fall 2023 (aka F23)
+Course Name: Biomedical Engineering PhD Prospectus
+Course Number: 42-998
+Department: Biomedical Engineering
+Number of Units: 0
+Prerequisites: None
+Instructors: Maryia Rakach
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 42-998 Biomedical Engineering PhD Prospectus>
+
+<start course description for 42-998 Biomedical Engineering PhD Prospectus>
+Semester: Fall 2023 (aka F23)
+Course Description: PhD Thesis Prospectus.
+</end course description for 42-998 Biomedical Engineering PhD Prospectus>

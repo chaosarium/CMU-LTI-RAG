@@ -1,0 +1,16 @@
+<start course metadata for 47-920 Seminar in Ethical Theory>
+Semester: Fall 2023 (aka F23)
+Course Name: Seminar in Ethical Theory
+Course Number: 47-920
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Tae Wan Kim
+Rooms: TEP 4219
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 47-920 Seminar in Ethical Theory>
+
+<start course description for 47-920 Seminar in Ethical Theory>
+Semester: Fall 2023 (aka F23)
+Course Description: This seminar offers a survey of recent research in ethical theory, with a focus on its implications for business and emerging technology. The main goal of this seminar is to enhance students' thorough understanding of the importance of ethical theory in their research endeavors and assist them in identifying distinctive research topics.
+</end course description for 47-920 Seminar in Ethical Theory>

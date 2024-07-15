@@ -1,0 +1,16 @@
+<start course metadata for 49-768 Dynamic Teams>
+Semester: Fall 2023 (aka F23)
+Course Name: Dynamic Teams
+Course Number: 49-768
+Department: Integrated Innovation Institute
+Number of Units: 6
+Prerequisites: None
+Instructors: Jorge Taborga
+Rooms: B23 118
+Locations: San Jose, California
+</end course metadata for 49-768 Dynamic Teams>
+
+<start course description for 49-768 Dynamic Teams>
+Semester: Fall 2023 (aka F23)
+Course Description: Dynamic teamwork and collaboration is a critical success factor and a major source of competitive advantage and frustration for companies worldwide. Many startups have engineering teams based in low cost parts of the world. Established companies have disturbed teams working in R&D; and Engineering in different geographies. Mobile and remote communication technologies have transformed the global business landscape. Super-flexible teams drive and execute entrepreneurship and innovation. This course will focus on profiles of dynamic collaborative teams, what it takes to balance different priorities, create trust and alignment, interact with diverse stakeholders, and perform under time pressures and resource constraints, all under complex, fast-moving and unpredictable global markets. This course will study critical success factors in driving innovation and explore how super-flexibility enables rapid, real time adaptation. The course will describe practical action steps for organizing and managing super-flexible teams, study and apply fundamental findings in cognitive psychology that support adaptability and creativity of teams, introduce methods for training cross-functional teams to excel at innovation, and learn how to use practical tools and techniques that can turn ideas into action. Priority registration will be given to Technology Ventures (MSTV) students.
+</end course description for 49-768 Dynamic Teams>

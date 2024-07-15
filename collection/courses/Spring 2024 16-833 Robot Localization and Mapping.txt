@@ -1,0 +1,16 @@
+<start course metadata for 16-833 Robot Localization and Mapping>
+Semester: Spring 2024 (aka S24)
+Course Name: Robot Localization and Mapping
+Course Number: 16-833
+Department: Robotics
+Number of Units: 12
+Prerequisites: None
+Instructors: Michael Kaess
+Rooms: NSH 1305
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 16-833 Robot Localization and Mapping>
+
+<start course description for 16-833 Robot Localization and Mapping>
+Semester: Spring 2024 (aka S24)
+Course Description: Robot localization and mapping are fundamental capabilities for mobile robots operating in the real world. Even more challenging than these individual problems is their combination: simultaneous localization and mapping (SLAM). Robust and scalable solutions are needed that can handle the uncertainty inherent in sensor measurements, while providing localization and map estimates in real-time. We will explore suitable efficient probabilistic inference algorithms at the intersection of linear algebra and probabilistic graphical models. We will also explore state-of-the-art systems.
+</end course description for 16-833 Robot Localization and Mapping>

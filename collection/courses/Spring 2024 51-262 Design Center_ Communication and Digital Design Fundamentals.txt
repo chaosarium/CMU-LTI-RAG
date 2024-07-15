@@ -1,0 +1,16 @@
+<start course metadata for 51-262 Design Center: Communication and Digital Design Fundamentals>
+Semester: Spring 2024 (aka S24)
+Course Name: Design Center: Communication and Digital Design Fundamentals
+Course Number: 51-262
+Department: Design
+Number of Units: 9
+Prerequisites: None
+Instructors: Mackenzie Dunn, Victoria Crowley
+Rooms: MM 107; MM A11
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-262 Design Center: Communication and Digital Design Fundamentals>
+
+<start course description for 51-262 Design Center: Communication and Digital Design Fundamentals>
+Semester: Spring 2024 (aka S24)
+Course Description: A one-semester course that introduces non-majors to the field of communication design. Through studio projects, lectures, and demonstrations, students become familiar with the visual and verbal language of communication designers, the design process, and the communicative value of word and image. Macintosh proficiency required.
+</end course description for 51-262 Design Center: Communication and Digital Design Fundamentals>

@@ -1,0 +1,16 @@
+<start course metadata for 47-952 Estimating Dynamic and Structural Models>
+Semester: Spring 2024 (aka S24)
+Course Name: Estimating Dynamic and Structural Models
+Course Number: 47-952
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Param Singh
+Rooms: TEP 4219
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 47-952 Estimating Dynamic and Structural Models>
+
+<start course description for 47-952 Estimating Dynamic and Structural Models>
+Semester: Spring 2024 (aka S24)
+Course Description: The seminar is intended to provide students with hand-on training in some cutting edge empirical frameworks and models. The topics we will cover would include (but are not limited to): latent class models, hidden Markov models, Bayesian learning models, single agent dynamic structural models, and dynamic structural game models. The class is purely applied and hands-on class. The main focus of the class is to introduce students to the methods for estimating these models.  Each class we will be covering only one topic (1-2 papers). I will provide students with a dataset on which we will estimate the model using the estimation strategy learned in the class. Students need to know at least one programming language (preferably Matlab or R) to take this course. I will share my codes in Matlab.
+</end course description for 47-952 Estimating Dynamic and Structural Models>

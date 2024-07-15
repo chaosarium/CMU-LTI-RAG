@@ -1,0 +1,16 @@
+<start course metadata for 91-729 Business Analytics for Managers>
+Semester: Spring 2024 (aka S24)
+Course Name: Business Analytics for Managers
+Course Number: 91-729
+Department: Public Management:Sch of Pub Pol & Mgt
+Number of Units: 6
+Prerequisites: (90-728 or 93-732 or 90-838) and (91-801)
+Instructors: Vijay Vadlamudi
+Rooms: CMU REMOTE; HBH 1005
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 91-729 Business Analytics for Managers>
+
+<start course description for 91-729 Business Analytics for Managers>
+Semester: Spring 2024 (aka S24)
+Course Description: Business analytics is defined by Thomas Davenport as 'the broad use of data and quantitative analysis for decision making within organizations.'  Business analytics encompasses both the reporting of performance and the attempt to understand and predict it, emphasizing statistically and mathematically-derived insights.  This course will cover the underlying fundamental concepts and principles behind business analytics, focusing on those the manager needs to understand to both envision opportunities, and work effectively with data scientists to realize those opportunities. Read more at http://heinz.cmu.edu/academic-resources/course-results/course-details/index.aspx?cid=611
+</end course description for 91-729 Business Analytics for Managers>

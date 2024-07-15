@@ -1,0 +1,16 @@
+<start course metadata for 03-363 Systems Neuroscience>
+Semester: Spring 2024 (aka S24)
+Course Name: Systems Neuroscience
+Course Number: 03-363
+Department: Biological Sciences
+Number of Units: 9
+Prerequisites: 03-161 or 85-219 or 03-320 or 03-240 or 42-202 or 03-230
+Instructors: Eric Yttri, Nesrine Affara
+Rooms: CMB 3048; DH 1212
+Locations: Doha, Qatar; Pittsburgh, Pennsylvania
+</end course metadata for 03-363 Systems Neuroscience>
+
+<start course description for 03-363 Systems Neuroscience>
+Semester: Spring 2024 (aka S24)
+Course Description: Modern neuroscience is an interdisciplinary field that seeks to understand the function of the brain and nervous system.  This course provides a comprehensive survey of systems neuroscience, a rapidly growing scientific field that seeks to link the structure and function of brain circuitry to perception and behavior.  This course will explore brain systems through a combination of classical, Nobel prize-winning data and cutting edge primary literature.  Topics will include sensory systems, motor function, animal behavior and human behavior in health and disease.  Lectures will provide fundamental information as well as a detailed understanding of experimental designs that enabled discoveries.  Finally, students will learn to interpret and critique the diverse and multimodal data that drives systems neuroscience.
+</end course description for 03-363 Systems Neuroscience>

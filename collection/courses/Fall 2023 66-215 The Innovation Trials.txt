@@ -1,0 +1,16 @@
+<start course metadata for 66-215 The Innovation Trials>
+Semester: Fall 2023 (aka F23)
+Course Name: The Innovation Trials
+Course Number: 66-215
+Department: Dietrich College Interdisciplinary
+Number of Units: 9
+Prerequisites: None
+Instructors: Elisabeth Healey
+Rooms: WEH 4707
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 66-215 The Innovation Trials>
+
+<start course description for 66-215 The Innovation Trials>
+Semester: Fall 2023 (aka F23)
+Course Description: This course will examine some of the most influential intellectual property court battles throughout history and their impact on innovation.   This course is geared toward students curious about Americas industrial development and interested in the political and business strategies behind the greatest innovations and technological advances of the past several centuries.  The course will answer the who, what, where, when, why and how of a number of legal cases involving various technologies and areas of innovation and place them in their historical context.
+</end course description for 66-215 The Innovation Trials>

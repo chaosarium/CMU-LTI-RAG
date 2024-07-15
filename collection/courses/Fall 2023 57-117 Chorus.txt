@@ -1,0 +1,16 @@
+<start course metadata for 57-117 Chorus>
+Semester: Fall 2023 (aka F23)
+Course Name: Chorus
+Course Number: 57-117
+Department: Music
+Number of Units: 6
+Prerequisites: 57-117
+Instructors: Thomas Douglas
+Rooms: MM 119
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-117 Chorus>
+
+<start course description for 57-117 Chorus>
+Semester: Fall 2023 (aka F23)
+Course Description: tba
+</end course description for 57-117 Chorus>

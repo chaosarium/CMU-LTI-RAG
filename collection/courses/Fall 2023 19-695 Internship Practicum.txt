@@ -1,0 +1,16 @@
+<start course metadata for 19-695 Internship Practicum>
+Semester: Fall 2023 (aka F23)
+Course Name: Internship Practicum
+Course Number: 19-695
+Department: Engineering & Public Policy
+Number of Units: N/A
+Prerequisites: None
+Instructors: Deanna Matthews
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 19-695 Internship Practicum>
+
+<start course description for 19-695 Internship Practicum>
+Semester: Fall 2023 (aka F23)
+Course Description: Experiential learning opportunities are important educational options for undergraduate and graduate students. One such option is an internship, or practicum. If an internship is an explicit part of an academic program or is supervised by a faculty member, this course number may be used.  Please consult the supervising faculty member concerning grading options and the appropriate number of units. NOTE: Special Permission required to register for this course
+</end course description for 19-695 Internship Practicum>

@@ -1,0 +1,16 @@
+<start course metadata for 12-648 CEE Research Project>
+Semester: Spring 2024 (aka S24)
+Course Name: CEE Research Project
+Course Number: 12-648
+Department: Civil & Environmental Engineering
+Number of Units: N/A
+Prerequisites: None
+Instructors: Gregory Lowry, Jerry Wang, Pingbo Tang, Sarah Fakhreddine
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 12-648 CEE Research Project>
+
+<start course description for 12-648 CEE Research Project>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is designed to give students the opportunity to work on an open-ended project under the direction of a faculty member in the Civil & Environmental Engineering department.  To register for this course, a student must have the approval of the faculty member for both the research topic and the number of units.  A student in this course must write a proposal and submit progress reports to the advisor. The student must also make a formal presentation of the project results and submit a final report to the department.  Senior standing in CEE and permission of the project advisor Units: 9-12
+</end course description for 12-648 CEE Research Project>

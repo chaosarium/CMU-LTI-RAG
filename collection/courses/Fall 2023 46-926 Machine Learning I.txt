@@ -1,0 +1,16 @@
+<start course metadata for 46-926 Machine Learning I>
+Semester: Fall 2023 (aka F23)
+Course Name: Machine Learning I
+Course Number: 46-926
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Ronald Yurko
+Rooms: BRD 507; TCS 250
+Locations: New York, New York; Pittsburgh, Pennsylvania
+</end course metadata for 46-926 Machine Learning I>
+
+<start course description for 46-926 Machine Learning I>
+Semester: Fall 2023 (aka F23)
+Course Description: The first in a two-part sequence covering statistical machine learning aimed at quantitative finance. This first course covers tools and approaches for prediction, including both regression and classification. The focus is on understanding the foundations of the methods so that they can be both applied and modified. Topics include foundations of supervised learning, bias-variance tradeoffs, model validation and assessment, classification and classification metrics, regularized and nonparametric regression, generalized additive models, support vector machines, and tree-based methods.  Non-MSCF students may not take this course without written permission from the instructor. To be eligible, you must be a BSCF student or a graduate student enrolled in an MSCF participating college (Dietrich, Heinz, Tepper or Mellon). PhD students with relevant research may be eligible with permission from the instructor.
+</end course description for 46-926 Machine Learning I>

@@ -1,0 +1,16 @@
+<start course metadata for 57-745 Chamber Music Coaching>
+Semester: Fall 2023 (aka F23)
+Course Name: Chamber Music Coaching
+Course Number: 57-745
+Department: Music
+Number of Units: 3
+Prerequisites: None
+Instructors: Luz Manriquez
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-745 Chamber Music Coaching>
+
+<start course description for 57-745 Chamber Music Coaching>
+Semester: Fall 2023 (aka F23)
+Course Description: The collaborative piano student will observe various coaches in vocal, instrumental, and chamber music venues. Pedagogical techniques will be reinforced in the studio.
+</end course description for 57-745 Chamber Music Coaching>

@@ -1,0 +1,16 @@
+<start course metadata for 17-668 Network Analysis: The Hidden Structures behind the Webs We Weave>
+Semester: Fall 2023 (aka F23)
+Course Name: Network Analysis: The Hidden Structures behind the Webs We Weave
+Course Number: 17-668
+Department: Software & Societal Systems
+Number of Units: 12
+Prerequisites: None
+Instructors: Bogdan Vasilescu, Patrick Park
+Rooms: PH A18B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 17-668 Network Analysis: The Hidden Structures behind the Webs We Weave>
+
+<start course description for 17-668 Network Analysis: The Hidden Structures behind the Webs We Weave>
+Semester: Fall 2023 (aka F23)
+Course Description: Have you wondered how Linux and the subsequent development of open-source software ecosystems could thrive despite weak economic incentives? Why do large-scale complex software systems sometimes fail despite well-developed guardrails and practices? What makes a recommendation system on social media so effective and so toxic at the same time? Why do YouTube mega-influencers with tens of millions of subscribers exist, yet each of us only recognize a handful of them at best? Why do echo chambers form and polarization deepen in social media platforms despite the utopian promise of frictionless connectivity that these platforms initially envisioned? How can you land your dream jobs? How does mass adoption of technological innovations happen (e.g., Python, Bitcoin)? Underlying these seemingly unrelated questions is the powerful influence of social networks, the collection of on- and offline social connections, communications, and collaborations that people form with one another.  This course offers an introduction to the study of social networks as a powerful tool for formalizing these wide range of questions, for understanding social dynamics in various settings, and for solving real-world problems arising at the intersection of human social behavior and technological systems. The course first introduces network science concepts and their mathematical operationalizations that give rigorous definitions to fuzzy words we use to describe the social world, such as "status" and "social group". Students will subsequently learn how these network concepts were used to analyze and solve a wide range of puzzling online social phenomena. Finally, the course will introduce statistical models of networks that enable principled investigation of network formation mechanisms.
+</end course description for 17-668 Network Analysis: The Hidden Structures behind the Webs We Weave>

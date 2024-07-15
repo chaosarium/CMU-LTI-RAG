@@ -1,0 +1,16 @@
+<start course metadata for 90-836 Health Systems>
+Semester: Spring 2024 (aka S24)
+Course Name: Health Systems
+Course Number: 90-836
+Department: Public Policy & Mgt:Sch of Pub Pol & Mgt
+Number of Units: 6
+Prerequisites: None
+Instructors: Rebekah Apple
+Rooms: TEP 2118
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 90-836 Health Systems>
+
+<start course description for 90-836 Health Systems>
+Semester: Spring 2024 (aka S24)
+Course Description: Health Policy and Delivery Systems is a foundation course intended to introduce students to many of the broad subjects that will be detailed in more advanced course work. This introduction provides a framework to aid students in navigating from public policy through to healthcare delivery.  Public policy is the study of the written and unwritten principles on which law is based.  Laws and regulations translate policy into action. Public policy and laws form the basis of health policy. Health policy is supported by:  -    Public health initiatives focused on preventing disease, prolonging life and promoting health for the entire population. (i.e. diabetes awareness) -    Population health is interested in the outcomes of individual groups and the distribution of outcomes among the groups. (i.e. income equality and infant mortality) -    Healthcare delivery is focused on access, quality, and cost. At this time in our history, Healthcare Reform best embodies the intent of this aspect of health policy.  Through the use of group assignments, students will create a model which links the external environment into healthcare delivery profitability. Modeling is a form of combining individual technical components with the greater knowledge and conceptualization of the entire process. Its promise is to promote better decision making by envisioning how micro decisions interconnect to mission, goals, and outcomes.
+</end course description for 90-836 Health Systems>

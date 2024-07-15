@@ -1,0 +1,16 @@
+<start course metadata for 51-102 Design Lab>
+Semester: Spring 2024 (aka S24)
+Course Name: Design Lab
+Course Number: 51-102
+Department: Design
+Number of Units: 10
+Prerequisites: 51-101
+Instructors: Daphne Firos, Sunki Hong
+Rooms: MM A6
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-102 Design Lab>
+
+<start course description for 51-102 Design Lab>
+Semester: Spring 2024 (aka S24)
+Course Description: Introduce concepts and methods to familiarize students with a range of analog and digital modes of working across products, communications, and environments. Students will use desktop modeling and comping methods to familiarize them with a range of basic materials to build confidence in using and manipulating material to represent ideas. This course is for freshman Design majors only.
+</end course description for 51-102 Design Lab>

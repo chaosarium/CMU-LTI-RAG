@@ -1,0 +1,16 @@
+<start course metadata for 36-708 The ABCDE of Statistical Methods in Machine Learning>
+Semester: Spring 2024 (aka S24)
+Course Name: The ABCDE of Statistical Methods in Machine Learning
+Course Number: 36-708
+Department: Statistics and Data Science
+Number of Units: 12
+Prerequisites: 36-705
+Instructors: Edward Kennedy
+Rooms: DH 1211
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 36-708 The ABCDE of Statistical Methods in Machine Learning>
+
+<start course description for 36-708 The ABCDE of Statistical Methods in Machine Learning>
+Semester: Spring 2024 (aka S24)
+Course Description: This course focuses on statistical methods for machine learning, a decades-old topic in statistics that now has a life of its own, intersecting with many other fields. While the core focus of this course is methodology (algorithms), the course will have some amount of formalization and rigor (theory/derivation/proof), and some amount of interacting with data (simulated and real). However, the primary way in which this course complements related courses in other departments is the joint ABCDE focus on (A) Algorithm design principles, (B) Bias-variance thinking, (C) Computational considerations (D) Data analysis (E) Explainability and interpretability.
+</end course description for 36-708 The ABCDE of Statistical Methods in Machine Learning>

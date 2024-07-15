@@ -1,0 +1,16 @@
+<start course metadata for 09-106 Modern Chemistry II>
+Semester: Spring 2024 (aka S24)
+Course Name: Modern Chemistry II
+Course Number: 09-106
+Department: Chemistry
+Number of Units: 10
+Prerequisites: 09-105 or 09-107
+Instructors: David Yaron, Gizelle Sherwood
+Rooms: POS A35
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 09-106 Modern Chemistry II>
+
+<start course description for 09-106 Modern Chemistry II>
+Semester: Spring 2024 (aka S24)
+Course Description: This course provides an overview of  thermodynamics, kinetics and chemical equilibrium. Topics include the flow of energy in chemical systems; the spontaneity of chemical processes, i.e. entropy and free energy; the mechanisms and rates of chemical reactions; and the use of chemical equilibrium to reason about acid-base chemistry, solubility and electrochemistry. Applications include the energy economy, biological systems and environmental chemistry. 3 hrs. lec., 2 hrs. rec.
+</end course description for 09-106 Modern Chemistry II>

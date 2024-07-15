@@ -1,0 +1,16 @@
+<start course metadata for 69-110 Personal Fitness>
+Semester: Fall 2023 (aka F23)
+Course Name: Personal Fitness
+Course Number: 69-110
+Department: Physical Education
+Number of Units: 3
+Prerequisites: None
+Instructors: Patricia Stragar, Sara Gauntner
+Rooms: CUC FITNES
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 69-110 Personal Fitness>
+
+<start course description for 69-110 Personal Fitness>
+Semester: Fall 2023 (aka F23)
+Course Description: THIS COURSE IS IN PERSON ONLY FALL 2021.  This course will be a conditioning course prescribed partially by the individual with assistance from the instructor to insure that the desired results will be achieved or at least pursued correctly. Individual goals will be the main concern. Stretching, aerobics, weight training and nutrition will be discussed.
+</end course description for 69-110 Personal Fitness>

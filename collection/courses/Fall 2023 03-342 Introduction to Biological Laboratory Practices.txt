@@ -1,0 +1,16 @@
+<start course metadata for 03-342 Introduction to Biological Laboratory Practices>
+Semester: Fall 2023 (aka F23)
+Course Name: Introduction to Biological Laboratory Practices
+Course Number: 03-342
+Department: Biological Sciences
+Number of Units: 1
+Prerequisites: None
+Instructors: Annette Vincent, Carrie Doonan, Natalie McGuier
+Rooms: DNM DNM
+Locations: Doha, Qatar; Pittsburgh, Pennsylvania
+</end course metadata for 03-342 Introduction to Biological Laboratory Practices>
+
+<start course description for 03-342 Introduction to Biological Laboratory Practices>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is designed for students in the BSA degree program. It is designed to be an introduction to basic laboratory practices.   The course will introduce biological and chemical safety training and basic laboratory practices.  Techniques of solution preparation and titration, pipetting, UV/VIS spectroscopy, and quantitation of biological compounds will be covered.
+</end course description for 03-342 Introduction to Biological Laboratory Practices>

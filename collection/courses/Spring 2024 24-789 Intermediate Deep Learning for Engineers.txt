@@ -1,0 +1,16 @@
+<start course metadata for 24-789 Intermediate Deep Learning for Engineers>
+Semester: Spring 2024 (aka S24)
+Course Name: Intermediate Deep Learning for Engineers
+Course Number: 24-789
+Department: Mechanical Engineering
+Number of Units: 6
+Prerequisites: (10-715 or 10-601 or 11-785 or 24-787) and (24-788 or 11-785)
+Instructors: Amir Barati Farimani
+Rooms: POS 152
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-789 Intermediate Deep Learning for Engineers>
+
+<start course description for 24-789 Intermediate Deep Learning for Engineers>
+Semester: Spring 2024 (aka S24)
+Course Description: This course will introduce some of the advances in deep learning technology such as sequential learning using Recurrent Neural Networks, Generative Adversarial Networks, Attention models and Transformers, and Diffusion models. Students will learn how to implement these models using deep learning libraries (Pytorch). Introduction to deep learning is the prerequisite.
+</end course description for 24-789 Intermediate Deep Learning for Engineers>

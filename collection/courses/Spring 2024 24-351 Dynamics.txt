@@ -1,0 +1,16 @@
+<start course metadata for 24-351 Dynamics>
+Semester: Spring 2024 (aka S24)
+Course Name: Dynamics
+Course Number: 24-351
+Department: Mechanical Engineering
+Number of Units: 10
+Prerequisites: 21-260 and 24-101
+Instructors: Aaron Johnson
+Rooms: GHC 4102
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-351 Dynamics>
+
+<start course description for 24-351 Dynamics>
+Semester: Spring 2024 (aka S24)
+Course Description: This first course on the modeling and analysis of dynamic systems concentrates on the motion of particles, systems of particles, and rigid bodies under the action of forces and moments. Topics include the kinematics of motion in rectangular, polar, and intrinsic coordinates; relative motion analysis with multiple reference frames; and planar kinetics through the second law, work-energy method, and impulse-momentum method. Time and frequency domain solutions to first and second order equations of motion are discussed.  3 hrs. lec. 1 hr rec.
+</end course description for 24-351 Dynamics>

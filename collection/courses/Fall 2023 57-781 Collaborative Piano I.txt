@@ -1,0 +1,16 @@
+<start course metadata for 57-781 Collaborative Piano I>
+Semester: Fall 2023 (aka F23)
+Course Name: Collaborative Piano I
+Course Number: 57-781
+Department: Music
+Number of Units: N/A
+Prerequisites: None
+Instructors: Mark Carver
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-781 Collaborative Piano I>
+
+<start course description for 57-781 Collaborative Piano I>
+Semester: Fall 2023 (aka F23)
+Course Description: A hands-on series of courses that allow the student to accompany in a professional venue.  Students will be assigned to a vocal and/or instrumental studio and will have the opportunity to coach repertoire with a professional accompanist.  Assignments may include playing for instrumental juries.
+</end course description for 57-781 Collaborative Piano I>

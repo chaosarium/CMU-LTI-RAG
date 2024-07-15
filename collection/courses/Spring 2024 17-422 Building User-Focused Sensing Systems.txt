@@ -1,0 +1,16 @@
+<start course metadata for 17-422 Building User-Focused Sensing Systems>
+Semester: Spring 2024 (aka S24)
+Course Name: Building User-Focused Sensing Systems
+Course Number: 17-422
+Department: Software & Societal Systems
+Number of Units: 12
+Prerequisites: None
+Instructors: Mayank Goel, Yuvraj Agarwal
+Rooms: WEH 5403
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 17-422 Building User-Focused Sensing Systems>
+
+<start course description for 17-422 Building User-Focused Sensing Systems>
+Semester: Spring 2024 (aka S24)
+Course Description: These days we are surrounded by sensing and computation. Smart devices, such as smartphones, smartwatches, are packed with sensors. While they are already very useful devices, we have only started to scratch the surface here. The aim of this class will be to introduce the students to building and understanding smart sensing devices. The course will include discussion into contribution of various fields, including human-computer interaction, embedded computing, computer vision, distributed systems, machine learning, signal processing, security, and privacy. We will discuss how these various disciplines are coming together to form an end-to-end system that generates useful and user-actionable data. We will take a hands-on approach towards building and evaluating these systems. The students will gain practical experience in developing sensing systems in different application domains, such as activity recognition, health sensing, gestural interaction, etc. You will learn about embedded systems and understand the advantages and limitations of different platforms. You will learn about sensors and how to interface them with the real world to be able to get useful and actionable data. You will learn how to build a network of sensors that can communicate with each other. You will also learn about storing the sensor data for visualization, analysis and presentation both locally and to the cloud. The course will be a combination of lectures, tutorials, class discussions, and demonstrations. Students will be evaluated based on 5 mini-projects/assignments, class participation, weekly reading summaries, and a final project. All hardware resources will be provided to the students and they will be given an option to take their final prototypes with them for the cost of the hardware components. Students should have reasonable programming experience and an interest in tinkering.
+</end course description for 17-422 Building User-Focused Sensing Systems>

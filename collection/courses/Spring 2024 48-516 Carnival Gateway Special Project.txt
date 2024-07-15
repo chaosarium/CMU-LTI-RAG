@@ -1,0 +1,16 @@
+<start course metadata for 48-516 Carnival Gateway Special Project>
+Semester: Spring 2024 (aka S24)
+Course Name: Carnival Gateway Special Project
+Course Number: 48-516
+Department: Architecture
+Number of Units: N/A
+Prerequisites: 48-105
+Instructors: Omar Khan
+Rooms: CFA 206A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-516 Carnival Gateway Special Project>
+
+<start course description for 48-516 Carnival Gateway Special Project>
+Semester: Spring 2024 (aka S24)
+Course Description: In this course you will fabricate and construct the Carnival Entryway Pavilion, to be completed for the 2023 CMU Carnival, April 13-15.  The course is conducted by NOMAS and advised by Professor Vicky Achnani.
+</end course description for 48-516 Carnival Gateway Special Project>

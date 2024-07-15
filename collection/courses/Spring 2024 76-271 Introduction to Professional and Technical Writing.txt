@@ -1,0 +1,16 @@
+<start course metadata for 76-271 Introduction to Professional and Technical Writing>
+Semester: Spring 2024 (aka S24)
+Course Name: Introduction to Professional and Technical Writing
+Course Number: 76-271
+Department: English
+Number of Units: 9
+Prerequisites: (76-101) or (76-102) or (76-106 and 76-107) or (76-106 and 76-108) or (76-107 and 76-108)
+Instructors: Barbara George
+Rooms: PH A19C
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 76-271 Introduction to Professional and Technical Writing>
+
+<start course description for 76-271 Introduction to Professional and Technical Writing>
+Semester: Spring 2024 (aka S24)
+Course Description: Professional and technical communicators use words and images to connect people with information. With a strong foundation in rhetoric, this course will sharpen your abilities to communicate information clearly, effectively, and responsibly to real readers, stakeholders, and decision makers. Our assignments and conversations will include a wide range of genres and rhetorical situations you can expect to encounter as a professional and technical communicator, including job application genres, narrative genres like feature articles that blend subject matter interviews with keen observation, research genres like proposals, and team writing genres like technical documentation. A high level goal for the course is to combine theory, methods, and best practices for putting real readers and users of information at the center of our communication strategies. By the end of the course, you will have a portfolio of polished work that you can use to narrate your professional strengths and interests. This course is designed for undergraduates pursuing majors and minors in a writing and communication field, and who want to explore professional and technical communication as a discipline and career area.
+</end course description for 76-271 Introduction to Professional and Technical Writing>

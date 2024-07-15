@@ -1,0 +1,16 @@
+<start course metadata for 33-339 Intermediate Electricity and Magnetism II>
+Semester: Spring 2024 (aka S24)
+Course Name: Intermediate Electricity and Magnetism II
+Course Number: 33-339
+Department: Physics
+Number of Units: 10
+Prerequisites: 33-338
+Instructors: Colin Morningstar
+Rooms: DH 2105; WEH 6423
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 33-339 Intermediate Electricity and Magnetism II>
+
+<start course description for 33-339 Intermediate Electricity and Magnetism II>
+Semester: Spring 2024 (aka S24)
+Course Description: This course focuses on electro- and magnetodynamics. Topics include Faraday's Law of induction, electromagnetic field momentum and energy, Maxwell's equations and electromagnetic waves including plane waves, waves in non-conducting and conducting media, reflection and refraction of waves, and guided waves. Electromagnetic radiation theory includes generation and characteristics of electric and magnetic dipole radiation. The Special Theory of Relativity is applied to electrodynamics: electric and magnetic fields in different reference frames, Lorentz transformations, four-vectors, invariants, and applications to particle mechanics.
+</end course description for 33-339 Intermediate Electricity and Magnetism II>

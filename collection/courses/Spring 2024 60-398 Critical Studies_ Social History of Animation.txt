@@ -1,0 +1,16 @@
+<start course metadata for 60-398 Critical Studies: Social History of Animation>
+Semester: Spring 2024 (aka S24)
+Course Name: Critical Studies: Social History of Animation
+Course Number: 60-398
+Department: Art
+Number of Units: 9
+Prerequisites: None
+Instructors: James Duesing
+Rooms: CFA 303
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 60-398 Critical Studies: Social History of Animation>
+
+<start course description for 60-398 Critical Studies: Social History of Animation>
+Semester: Spring 2024 (aka S24)
+Course Description: Social History of Animation will investigate the history of animation from early experiments with trick film through the development of major studios, to independent animation, web based work and emerging forms. Animation will be analyzed and discussed in relation to the social movements and technological innovations that affected animators and their work. This class will read related texts and view examples from around the world to explore animation as a means for personal expression and as a reflection of the context in which they were made.
+</end course description for 60-398 Critical Studies: Social History of Animation>

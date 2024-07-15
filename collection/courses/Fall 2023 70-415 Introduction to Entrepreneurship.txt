@@ -1,0 +1,16 @@
+<start course metadata for 70-415 Introduction to Entrepreneurship>
+Semester: Fall 2023 (aka F23)
+Course Name: Introduction to Entrepreneurship
+Course Number: 70-415
+Department: Business Administration
+Number of Units: 9
+Prerequisites: None
+Instructors: Maher Hakim, Meredith Meyer Grelli
+Rooms: CMB 2049; TEP 2610; TEP 2700
+Locations: Doha, Qatar; Pittsburgh, Pennsylvania
+</end course metadata for 70-415 Introduction to Entrepreneurship>
+
+<start course description for 70-415 Introduction to Entrepreneurship>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is an introductory course designed to provide an overview of entrepreneurship, develop an entrepreneurial frame of mind and learn the fundamentals of lean startup development. Students, Sophomore year or higher, interested in founding or contributing to a start-up venture, regardless of areas of discipline (engineering, design, business, computer science, music, drama, and more), are welcome. Students can expect to gain a basic understanding of functional areas such as customer discovery, sales, business planning, risk management, venture funding, and more. This class also features "The Sprint: An Entrepreneurship Competition," which affords the students the opportunity to gain experience selling their choice of product in a real-world and competitive environment. The class is a discussion- and project-based class. Class sections feature either a combination of lectures, class discussions, and activities or applied workshops in small groups. Students will be learning a mental framework for evaluating & developing any startup and then applying said framework and techniques to analyze and execute real-world business opportunities. Interdisciplinary teams will generate ideas and explore their potential as viable businesses. Numerous student teams have completed this class with real-world opportunities. Guest speakers, case studies, and exercises will also be integrated. This course may use third-party course material that is not available for individual purchase from the publisher. If so, the third-party course material will be secured and provided by the Tepper School to students enrolled in the course. Students enrolled in the course will be required to pay the University the associated additional course materials fee for the third-party course material provided ($13 to $75)
+</end course description for 70-415 Introduction to Entrepreneurship>

@@ -1,0 +1,16 @@
+<start course metadata for 51-903 Design Theory & Practice>
+Semester: Fall 2023 (aka F23)
+Course Name: Design Theory & Practice
+Course Number: 51-903
+Department: Design
+Number of Units: 12
+Prerequisites: None
+Instructors: Dina El Zanfaly
+Rooms: MM A11
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-903 Design Theory & Practice>
+
+<start course description for 51-903 Design Theory & Practice>
+Semester: Fall 2023 (aka F23)
+Course Description: This course advances your understanding of how methods from diverse disciplinary domains can inform new kinds of research and practice. Spanning 15-weeks, including a 2-day intensive workshop, you will explore the intersections of theory, practice and praxis, to develop a holistic understanding of research as reflexive theoretical and practical process. Coursework includes the design of praxis methods to shape your own research. Topics include: Research Of Design; Research For Design; Research By Design; and, Design Praxis.
+</end course description for 51-903 Design Theory & Practice>

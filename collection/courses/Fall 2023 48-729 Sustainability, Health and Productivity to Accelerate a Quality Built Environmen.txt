@@ -1,0 +1,16 @@
+<start course metadata for 48-729 Sustainability, Health and Productivity to Accelerate a Quality Built Environmen>
+Semester: Fall 2023 (aka F23)
+Course Name: Sustainability, Health and Productivity to Accelerate a Quality Built Environmen
+Course Number: 48-729
+Department: Architecture
+Number of Units: N/A
+Prerequisites: None
+Instructors: Vivian Loftness
+Rooms: MM 415IW
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-729 Sustainability, Health and Productivity to Accelerate a Quality Built Environmen>
+
+<start course description for 48-729 Sustainability, Health and Productivity to Accelerate a Quality Built Environmen>
+Semester: Fall 2023 (aka F23)
+Course Description: Given the United Nations Sustainable Development Goals and the growing demand for sustainable design by federal and private sector clients, professional practices are "tooling up" all over the world to deliver high performance and environmentally responsible buildings, infrastructures and communities.  However, investments in 'green', high performance building solutions and technologies are still limited by first cost decision-making, and life cycle tools are still largely inaccessible to professionals.  This course explores the relationship of quality buildings, building systems, infrastructures and land-use to productivity, health, well-being and a sustainable environment. The course begins with a series of lectures on high performance enclosure, mechanical, lighting, interior and networked building design decisions and extends to sustainable communities and infrastructures. The course engages students in the research literature that relates these building design decisions to multiple cost/performance impacts, including: energy, carbon, facilities management, organizational change, technological change, attraction/retention (quality of life) of employees, individual productivity, organizational productivity, salvage and waste (the circular economy), tax/ insurance/ litigation, and human health.
+</end course description for 48-729 Sustainability, Health and Productivity to Accelerate a Quality Built Environmen>

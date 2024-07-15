@@ -1,0 +1,16 @@
+<start course metadata for 79-701 Graduate Research Seminar I>
+Semester: Spring 2024 (aka S24)
+Course Name: Graduate Research Seminar I
+Course Number: 79-701
+Department: History
+Number of Units: 12
+Prerequisites: None
+Instructors: Benno Weiner
+Rooms: BH 246A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 79-701 Graduate Research Seminar I>
+
+<start course description for 79-701 Graduate Research Seminar I>
+Semester: Spring 2024 (aka S24)
+Course Description: The year-long research seminar (79-701 and 79-702), of which this is the first part, serves as the training ground in which Ph.D. students sharpen their skills as research historians and write a piece of original research of high quality that is approximately the length of a journal article. During the first semester of the seminar, students define and refine their topics, familiarize themselves with the main primary and secondary sources they will need to write a good paper, and complete significant research in both kinds of sources, resulting in a paper of about 30 pages, not including endnotes or bibliography.   They should aim for a paper in which 40% of the references are to primary sources.  We expect that students will devote the summer between the two semesters of the seminar to research in archival or other primary source material either in Pittsburgh or in archives in other places.  The department will have available a limited amount of funds to help support travel costs related to that research.
+</end course description for 79-701 Graduate Research Seminar I>

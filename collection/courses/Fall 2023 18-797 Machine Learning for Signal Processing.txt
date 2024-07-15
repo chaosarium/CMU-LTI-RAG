@@ -1,0 +1,16 @@
+<start course metadata for 18-797 Machine Learning for Signal Processing>
+Semester: Fall 2023 (aka F23)
+Course Name: Machine Learning for Signal Processing
+Course Number: 18-797
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Bhiksha Ramakrishnan
+Rooms: B23 212; CMU REMOTE; DH A302
+Locations: Kigali, Rwanda; Pittsburgh, Pennsylvania; San Jose, California
+</end course metadata for 18-797 Machine Learning for Signal Processing>
+
+<start course description for 18-797 Machine Learning for Signal Processing>
+Semester: Fall 2023 (aka F23)
+Course Description: Signal Processing is the science that deals with extraction of information from signals of various kinds. This has two distinct aspects -- characterization and categorization. Traditionally, signal characterization has been performed with mathematically-driven transforms, while categorization and classification are achieved using statistical tools. Machine learning aims to design algorithms that learn about the state of the world directly from data. An increasingly popular trend has been to develop and apply machine learning techniques to both aspects of signal processing, often blurring the distinction between the two. This course discusses the use of machine learning techniques to process signals. We cover a variety of topics, from data driven approaches for characterization of signals such as audio including speech, images and video, and machine learning methods for a variety of speech and image processing problems. 18-797 is a cross listing of 11-755 offered by LTI.
+</end course description for 18-797 Machine Learning for Signal Processing>

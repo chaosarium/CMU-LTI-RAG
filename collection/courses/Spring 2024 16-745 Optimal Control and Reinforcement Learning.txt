@@ -1,0 +1,16 @@
+<start course metadata for 16-745 Optimal Control and Reinforcement Learning>
+Semester: Spring 2024 (aka S24)
+Course Name: Optimal Control and Reinforcement Learning
+Course Number: 16-745
+Department: Robotics
+Number of Units: 12
+Prerequisites: None
+Instructors: Zachary Manchester
+Rooms: TEP 1403
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 16-745 Optimal Control and Reinforcement Learning>
+
+<start course description for 16-745 Optimal Control and Reinforcement Learning>
+Semester: Spring 2024 (aka S24)
+Course Description: This is a course about how to make robots move through and interact with their environment with speed, efficiency, and robustness. We will survey a broad range of topics from nonlinear dynamics, linear systems theory, classical optimal control, numerical optimization, state estimation, system identification, and reinforcement learning. The goal is to provide students with hands-on experience applying each of these ideas to a variety of robotic systems so that they can use them in their own research.
+</end course description for 16-745 Optimal Control and Reinforcement Learning>

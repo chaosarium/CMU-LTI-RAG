@@ -1,0 +1,16 @@
+<start course metadata for 42-890 M.S. Research>
+Semester: Fall 2023 (aka F23)
+Course Name: M.S. Research
+Course Number: 42-890
+Department: Biomedical Engineering
+Number of Units: N/A
+Prerequisites: None
+Instructors: Maryia Rakach
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 42-890 M.S. Research>
+
+<start course description for 42-890 M.S. Research>
+Semester: Fall 2023 (aka F23)
+Course Description: MS Research
+</end course description for 42-890 M.S. Research>

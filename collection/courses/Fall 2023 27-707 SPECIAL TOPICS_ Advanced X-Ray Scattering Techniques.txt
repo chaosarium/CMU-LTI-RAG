@@ -1,0 +1,16 @@
+<start course metadata for 27-707 SPECIAL TOPICS: Advanced X-Ray Scattering Techniques>
+Semester: Fall 2023 (aka F23)
+Course Name: SPECIAL TOPICS: Advanced X-Ray Scattering Techniques
+Course Number: 27-707
+Department: Materials Science & Engineering
+Number of Units: 6
+Prerequisites: None
+Instructors: Vincent Sokalski
+Rooms: DH 1209
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 27-707 SPECIAL TOPICS: Advanced X-Ray Scattering Techniques>
+
+<start course description for 27-707 SPECIAL TOPICS: Advanced X-Ray Scattering Techniques>
+Semester: Fall 2023 (aka F23)
+Course Description: X-ray diffraction (XRD) and related x-ray scattering techniques have a long history of use in the structural characterization of materials. This is due, in part, to the fact that x-rays have wavelengths comparable to interatomic spacings and that their interaction with materials are generally non-destructive. This course is primarily lab based and will focus on experimental techniques that build off fundamental understanding of crystal structure and x-ray diffraction (note that either graduate or undergraduate level "structure of materials" is a sufficient pre- requisite). Possible topics will include powder XRD, single crystal XRD, preferred texture, thin film analysis, x-ray reflectivity (XRR), epitaxy characterization, small-angle x-ray scattering (SAXS), defect analyses, and high resolution XRD with support from various software packages. The course will leverage equipment in the new x-ray lab contained within the materials characterization facility (MCF). Lab groups will meet every other week over the course of a full semester with separate timeslots for lecture and discussion.
+</end course description for 27-707 SPECIAL TOPICS: Advanced X-Ray Scattering Techniques>

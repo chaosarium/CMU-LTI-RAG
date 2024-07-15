@@ -1,0 +1,16 @@
+<start course metadata for 45-882 Digital Marketing and Social Media Strategy>
+Semester: Fall 2023 (aka F23)
+Course Name: Digital Marketing and Social Media Strategy
+Course Number: 45-882
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Param Singh
+Rooms: TEP 2112
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-882 Digital Marketing and Social Media Strategy>
+
+<start course description for 45-882 Digital Marketing and Social Media Strategy>
+Semester: Fall 2023 (aka F23)
+Course Description: 45-720 ( Marketing Management) is the pre-Req for this course. This course posits to explore strategic and analytical issues related to digital and social media marketing. This class invokes case discussion along with a hands-on analysis using real world data.   (a) Search Engine Optimization. You will learn how search engines, keyword auctions, and search engine marketing work, and how to optimize your pay per click advertisement efforts.   (b) Econo-Mining. You will also learn on how firms are getting or can get useful information from user generated content using text mining and opinion mining capabilities to drive their product development, placement and advertisement decisions. Using real world data you will analyze whether the traditional approaches for driving advertising or product development strategy are in alignment with what you learn from user generated content.   (c) Social Media Marketing. You will learn how to design a social media marketing campaign? How to engineer a Viral Campaign? What are the key ingredients that make such campaigns successful? How to run a campaign for a viral product?   (d) Forecasting Demand Using Publicly Available Online Search Data. You will learn how to build better forecasting models for demand using Google search data (Google Trends and Insights).   (e) Wisdom of the Crowds: We will then cover how to design crowdsourcing contests, what and how to crowdsource? You will also learn what prediction markets are? How they work? How to design them? When prediction markets are successful and what kinds of questions are best suited for prediction markets?
+</end course description for 45-882 Digital Marketing and Social Media Strategy>

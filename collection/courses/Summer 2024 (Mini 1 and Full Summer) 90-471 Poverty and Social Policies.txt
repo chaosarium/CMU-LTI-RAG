@@ -1,0 +1,16 @@
+<start course metadata for 90-471 Poverty and Social Policies>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Poverty and Social Policies
+Course Number: 90-471
+Department: Public Policy & Mgt:Sch of Pub Pol & Mgt
+Number of Units: 6
+Prerequisites: None
+Instructors: Silvia Borzutzky
+Rooms: HBH 1007
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 90-471 Poverty and Social Policies>
+
+<start course description for 90-471 Poverty and Social Policies>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: The goals of this course are to analyze the concept of poverty and its measurements and selected social policies pursued in Western Europe, the U.S. and in developing countries The first section will analyze and define poverty and inequality measurements (one week) The second section will focus on the concept of the Welfare State and anti-poverty policies pursued in Western Europe (one week) The third section will focus on the U.S and it will analyze health, housing, social security and welfare policies in the U.S (three weeks) The fourth section will analyze poverty and the behavior of the poor in very poor countries, or regions of the world. It will also include a discussion of specific policies such as micro financing, Conditional and Unconditional Cash Transfers, also known as Universal Basic Income.
+</end course description for 90-471 Poverty and Social Policies>

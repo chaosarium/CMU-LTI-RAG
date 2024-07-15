@@ -1,0 +1,16 @@
+<start course metadata for 24-672 Special Topics in DIY Design and Fabrication>
+Semester: Spring 2024 (aka S24)
+Course Name: Special Topics in DIY Design and Fabrication
+Course Number: 24-672
+Department: Mechanical Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Kenji Shimada
+Rooms: SH 234
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-672 Special Topics in DIY Design and Fabrication>
+
+<start course description for 24-672 Special Topics in DIY Design and Fabrication>
+Semester: Spring 2024 (aka S24)
+Course Description: The traditional principles of mass production are being challenged by concepts of highly customized and personalized goods. A growing number of do-it-yourself (DIY) inventors, designers, makers, and entrepreneurs is accelerating this trend.     This class offers students hands-on experience in DIY product design and fabrication processes. Over the course of the semester, students work individually or in small groups to design customized and personalized products of their own and build them using various DIY fabrication methods, including 3D laser scanning, 3D printing, laser cutting, molding, vacuum forming, etc.     In addition to design and fabrication skills, the course teaches students skills for communicating their ideas effectively through industrial design sketches and presenting their products with aesthetically refined graphics.
+</end course description for 24-672 Special Topics in DIY Design and Fabrication>

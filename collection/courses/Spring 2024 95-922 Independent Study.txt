@@ -1,0 +1,16 @@
+<start course metadata for 95-922 Independent Study>
+Semester: Spring 2024 (aka S24)
+Course Name: Independent Study
+Course Number: 95-922
+Department: Information Systems:Sch of IS & Mgt
+Number of Units: N/A
+Prerequisites: None
+Instructors: Rema Padman
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 95-922 Independent Study>
+
+<start course description for 95-922 Independent Study>
+Semester: Spring 2024 (aka S24)
+Course Description: None
+</end course description for 95-922 Independent Study>

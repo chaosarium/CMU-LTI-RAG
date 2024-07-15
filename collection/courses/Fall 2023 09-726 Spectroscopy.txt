@@ -1,0 +1,16 @@
+<start course metadata for 09-726 Spectroscopy>
+Semester: Fall 2023 (aka F23)
+Course Name: Spectroscopy
+Course Number: 09-726
+Department: Chemistry
+Number of Units: 6
+Prerequisites: 09-344 and 09-345
+Instructors: Linda Peteanu
+Rooms: MI 355
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 09-726 Spectroscopy>
+
+<start course description for 09-726 Spectroscopy>
+Semester: Fall 2023 (aka F23)
+Course Description: This course emphasizes the use of modern optical methods in the study of molecular properties and reactivity. Basic topics such as the use of group theory in the analysis of vibrational and electronic spectra are covered in detail. In addition, recently developed techniques such as time-resolved and nonlinear spectroscopies are discussed. This course might be appropriate for upper level undergraduate students in chemistry who have a coursework background in instrumental analysis and physical chemistry. Prerequisites: 09344 and 09345 or permission of the instructor
+</end course description for 09-726 Spectroscopy>

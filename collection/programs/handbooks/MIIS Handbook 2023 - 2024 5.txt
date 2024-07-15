@@ -1,0 +1,111 @@
+MIIS Handbook_2023 - 2024 
+6 Academic Policies  
+6.1 MIIS Academic Policies  
+ 6.1.1 Double  Counting Courses  
+A Masters student who uses courses taken as part of another degree program (at Carnegie 
+Mellon or elsewhere) toward their program requirements cannot use those same courses 
+toward any other M.S. degree offered by the School of Computer Science without prior approval. (SCS policy)  
+6.1.2 Duration of Study  
+MIIS -16 students enrolled for full- time study are expected to complete the degree in three 
+semesters of academic study and one summer internship (16 months  total).  
+MIIS -21 students  enrolled for full- time study are expected to complete the degree in four 
+semesters of academic study and one summer internship (21 months total).  
+MIIS -16 students enrolled for part -time study are expected to complete the program in six 
+semesters of academic stu dy and  one summer internship (27  months  total ).   
+MIIS -21 students enrolled for part -time study are expected to complete the program in seven 
+semesters of academic study and one summer internship (31 months total).  
+See also the ‘Statute of Limitations’ policy.  
+6.1.3 Deferral  
+MIIS students are given the opportunity to defer their enrollment. The deferral request must be approved by the program director. The deferral can only be used once for the period of one academic year.  
+6.1.4 Maximum and Minimum Course  Loads  
+A student in the program may not take  more than sixty (60 ) units per  semester without 
+permission from the program director.  
+A student in the program must be registered for a minimum  thirty -six (36) units per semester 
+to be considered a full- time  student or twelve (12) units per semester to be considered a part-
+time  student. All international students are required by US Federal law to maintain full -time 
+status. Reduced Course Load is not permitted  for MIIS students. Failure to maintain full -time 
+status will result in loss of a student visa (and, therefore, “permit of stay”).  (MIIS policy)  
+6.1.5 Transfer Credit  
+An equivalent graduate course previously completed at  Carnegie Mellon,  or another 
+institution may be permitted to satisfy one of the MIIS breadth  requirements. The decision on 
+whether a course may be used to satisfy a breadth requirement is made by the MIIS Program 
+MIIS Graduate Student Handbook  Page 25  
+ Director. Typically , the student will provide the Program Director with the syllabus of the 
+external course, and the Program Director will use that and the student’s transcript to make 
+the decision.  
+Satisfying a breadth requirement with a course from another institution does not reduce the number of CMU course units that must be taken to attain the MIIS degree.  
+See the section on “Definition of transfer credit versus course exemption”  on page 2 5. 
+6.1.6 Transferring into the MIIS Program  
+Transfers into the MIIS program are not permitted during a student’s first semester at CMU.  Students must begin their study at CMU in the program that admitted them. 
+Students may request to transfer into the MIIS program after completing their first semester 
+and before the add/drop deadline of the spring semester.  The student must make the request 
+in writing (or email) to the MIIS Program Director.  The MIIS Program D irector will inform 
+the student about what application materials are required, for example, an explanation of why 
+a transfer is desired, a proposed plan of study, a proposed advisor, and CMU transcripts.  
+Students that are already enrolled in an LTI degree  program are not required to retake GRE 
+and TOEFL /IELTS/Duolingo  exams or to produce new transcripts from other universities.   
+The MIIS program will conduct an expedited admissions process after receiving such a request.  The program will explicitly consider whether the coursework done prior to the 
+transfer will allow the student to be “on schedule” by the end of the spring semest er, so that 
+the student can participate in a capstone project with other MIIS students during the next fall semester.  
+MIIS students are allowed to switch tracks (MIIS -16 to MIIS -21 and vice versa) after 
+beginning their first semester at CMU. Ideally, all switch requests must be filed  within the 
+first semester of the program. It is highly recommended to not switch tracks more than 
+once!  Though not forbidden, multiple track switching may negatively impact immigration 
+records of international  students. Students also must  understand that extension  of their stay 
+in the program will lead to additional financial obligations.   
+U.S. citizens, virtually, have no restrictions on how many times they can switch if  it is done for 
+a legitimate  reason. To confirm legitimacy of the reason to switch tracks  ALL  students must 
+seek their advisor's approval and the approval of the Director of the MIIS program.  
+6.1.7 Transferring Out of the MIIS Program  
+The MIIS program does not prevent students from transferring to another degree program.  Each degree program has its own rules about whether and when transfers into the program are 
+permitted.  A student that is interested in transferring out of the MIIS degree program should 
+consult the handbook and Program Director of the desired degree program to learn whether 
+transfers are permitted, and if so, how,  and when to request such a transfer.  
+MIIS Graduate Student Handbook  Page 26  
+ 6.2 LTI Academic Policies  
+6.2.1 Verification  of Enrollment  
+Enrollment Services is the only University office that can provide an official letter of 
+enrollment, official transcript, and enrollment verification.  Enrollment verification can be 
+requested online through The HUB at https://www.cmu.edu/hub/registrar/student-
+records/verifications/enrollment.html. 
+6.2.2 “Grandfather” policy 
+A student can graduate under the policies in effect at the time that the student entered the 
+program; or, at the student's choice, the student can graduate under policies that are adopted 
+after the student entered the program. If it is not realistic to follow a particular policy exactly, 
+the department may approximate the policy as closely as possible; this situation is rare and 
+typically arises only when a student is enrolled in the program for an extended period . 
+6.2.3 Time Away from Academic Responsibilities  
+Graduate students should not assume that their time -off follows the academic calendar of 
+courses. Many are coming from an undergraduate environment where their university 
+employment followed their course schedule. For many graduate degree programs, there i s an 
+expectation that graduate students continue research during academic breaks and time away 
+from campus which may or may not be negotiated with the students. If there are requirements 
+for student time beyond a typical week day, this should be specified.  Clarify that University 
+Holidays are also student holidays, and students need to consult their faculty about coverage if they have challenges with taking time off during University Holidays. For example, if 
+experiments are running that need to be monitored continuously students should speak with 
+their faculty about arrangements to take an equal number of days off at another time.  
+6.2.4 Definition of transfer credit versus course exemption  
+The LTI may grant transfer credit  or issue an exemption  for equivalent graduate courses 
+previously completed at another institution. This decision rests with the director  of the 
+program . If a student is exempt  from a required course due to prior courses or experience, the 
+student can replace that course with an open elective. The student does not receive credit for 
+the external course but  can take any course that could normally count toward the degree in its 
+place. If a student receives credit  for prior coursework completed at CMU or elsewhere, the 
+student receives that many units of credit, and the total amount of required coursework is reduced by that amount.  
+ 6.2.5 External Employment/Consulting  
+Since the M IIS program places heavy demands on student time, external employment and/or 
+consulting are strongly discouraged. Exceptional students who wish to consult should discuss 
+this with their Advisor. International students must also have approval in advance from the 
+Office of International Education (OIE) for any outside employment.  
+6.2.6 Leave of Absence  
+The LTI discourages Leaves of Absence (LOA), since students usually do not return, despite 
+good intentions. However, a student in good standing may be granted a LOA of at most 1 year, upon written request to the Program Director and with consent of the student's advisor. It is the responsibility of the student on LOA to contact the LTI to initiate a return to the program.  
+6.2.7 Withdrawal of a Degree  
+The University reserves the right to withdraw a degree even though it has been granted should there be discovery that the work upon which it was based or the academic records in support 
+of it had been falsified. In such a case, withdrawal of the degree will occur promptly upon 
+discovery of the falsification. The complete reference to this University policy is available at https://www.cmu.edu/policies/student -and-student- life/withdrawal- of-a-degree.html . 
+6.2.8 Winter and Summer Breaks  
+Students supported by research projects are expected to remain on campus working during 
+breaks in classes.  A two- week vacation is typically allowed in the summer.  The normal 
+winter break policy is that the student works 40 hours per week for two weeks and  takes 
+vacation for the other two weeks.  

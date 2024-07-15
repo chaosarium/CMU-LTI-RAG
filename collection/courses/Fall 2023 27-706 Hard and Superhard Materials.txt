@@ -1,0 +1,16 @@
+<start course metadata for 27-706 Hard and Superhard Materials>
+Semester: Fall 2023 (aka F23)
+Course Name: Hard and Superhard Materials
+Course Number: 27-706
+Department: Materials Science & Engineering
+Number of Units: 6
+Prerequisites: None
+Instructors: Aharon Inspektor
+Rooms: DH 2122
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 27-706 Hard and Superhard Materials>
+
+<start course description for 27-706 Hard and Superhard Materials>
+Semester: Fall 2023 (aka F23)
+Course Description: This course will focus on the fundamental principles of hard and superhard materials. We will first discuss the origin of hardness across materials, and then describe important examples of materials prized for their intrinsic or extrinsic hardness. We will focus on the preparation, microstructure, and properties of materials such as diamond, cubic boron nitride and compound carbides. Then, we will emphasize the design of novel nano-structured and nano-composite materials and coatings, which are at the frontier of material science. Finally, the course will present examples of the architecture and processing methods used to generate hard materials and coatings in manufacturing automotive and aerospace industries.
+</end course description for 27-706 Hard and Superhard Materials>

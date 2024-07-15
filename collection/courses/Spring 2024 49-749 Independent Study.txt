@@ -1,0 +1,16 @@
+<start course metadata for 49-749 Independent Study>
+Semester: Spring 2024 (aka S24)
+Course Name: Independent Study
+Course Number: 49-749
+Department: Integrated Innovation Institute
+Number of Units: N/A
+Prerequisites: None
+Instructors: Gabrielle Rogers
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 49-749 Independent Study>
+
+<start course description for 49-749 Independent Study>
+Semester: Spring 2024 (aka S24)
+Course Description: This independent study is designed to give students an opportunity to explore pertinent subjects through faculty directed reading or research. Variable hrs. Once you and the faculty have agreed upon the independent study, send the independent study form to the manager of Integrated Innovation Institute for enrollment. Restricted to only MIIPS students.
+</end course description for 49-749 Independent Study>

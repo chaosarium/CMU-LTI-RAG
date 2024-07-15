@@ -1,0 +1,16 @@
+<start course metadata for 60-216 Intermediate Studio: Story Development for Animation>
+Semester: Fall 2023 (aka F23)
+Course Name: Intermediate Studio: Story Development for Animation
+Course Number: 60-216
+Department: Art
+Number of Units: 10
+Prerequisites: None
+Instructors: Johannes DeYoung
+Rooms: HL A10A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 60-216 Intermediate Studio: Story Development for Animation>
+
+<start course description for 60-216 Intermediate Studio: Story Development for Animation>
+Semester: Fall 2023 (aka F23)
+Course Description: This intermediate studio explores story and character development for animation. Animation is a rich and diverse field of creative inquiry - one that affords unique and expressive possibilities for communication across a wide spectrum of media. Contemporary animation is not limited to cinematic modes of storytelling, but abides across expanded forms, such as non-linear, spatial, and real-time interactive media. This course explores a variety of storytelling strategies through coursework that builds proficiency in: story structures and narrative; storyboarding; legible character posing and layout design principles; expressive cinematography, staging, and lighting; and effective timing, spacing, and editing techniques. A combination of rigorous studio practice, historical exposition, and theoretical discourse will equip students with the practical techniques and critical tools required to advance new dimensions in animated storytelling. Studio work emphasizes hands-on making through a variety of materials, exercises, and independent projects. Students will be exposed to a variety of perspectives and techniques, including outlooks and practices from both studio-industry and independent artists. Class discussion will consider affordances availed across a wide and diverse spectrum of creative and professional paths, expanding awareness and exposing new possibilities for storytellers in the Twenty-first Century.
+</end course description for 60-216 Intermediate Studio: Story Development for Animation>

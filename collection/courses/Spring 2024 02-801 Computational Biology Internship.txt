@@ -1,0 +1,16 @@
+<start course metadata for 02-801 Computational Biology Internship>
+Semester: Spring 2024 (aka S24)
+Course Name: Computational Biology Internship
+Course Number: 02-801
+Department: Computational Biology
+Number of Units: 3
+Prerequisites: None
+Instructors: Carl Kingsford
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 02-801 Computational Biology Internship>
+
+<start course description for 02-801 Computational Biology Internship>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is for students participating in an internship or co-op.
+</end course description for 02-801 Computational Biology Internship>

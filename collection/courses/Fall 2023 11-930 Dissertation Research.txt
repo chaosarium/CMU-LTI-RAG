@@ -1,0 +1,16 @@
+<start course metadata for 11-930 Dissertation Research>
+Semester: Fall 2023 (aka F23)
+Course Name: Dissertation Research
+Course Number: 11-930
+Department: Language Technologies Institute
+Number of Units: N/A
+Prerequisites: None
+Instructors: Jamie Callan
+Rooms: 
+Locations: Lisbon, Portugal; Pittsburgh, Pennsylvania
+</end course metadata for 11-930 Dissertation Research>
+
+<start course description for 11-930 Dissertation Research>
+Semester: Fall 2023 (aka F23)
+Course Description: This course number is intended for PhD dissertation research after acceptance of a student's PhD thesis proposal.
+</end course description for 11-930 Dissertation Research>

@@ -1,0 +1,16 @@
+<start course metadata for 54-454 Advanced SM: Management Styles>
+Semester: Fall 2023 (aka F23)
+Course Name: Advanced SM: Management Styles
+Course Number: 54-454
+Department: Drama
+Number of Units: 6
+Prerequisites: None
+Instructors: Tina Shackleford
+Rooms: PH A19C
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-454 Advanced SM: Management Styles>
+
+<start course description for 54-454 Advanced SM: Management Styles>
+Semester: Fall 2023 (aka F23)
+Course Description: In-depth exploration of Management Styles, examination of personal approaches, collaboration, and priorities for the future
+</end course description for 54-454 Advanced SM: Management Styles>

@@ -1,0 +1,16 @@
+<start course metadata for 18-344 Computer Systems and the Hardware-Software Interface>
+Semester: Fall 2023 (aka F23)
+Course Name: Computer Systems and the Hardware-Software Interface
+Course Number: 18-344
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: 18-213 and 18-240
+Instructors: Gregory Kesden
+Rooms: HH 1107
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-344 Computer Systems and the Hardware-Software Interface>
+
+<start course description for 18-344 Computer Systems and the Hardware-Software Interface>
+Semester: Fall 2023 (aka F23)
+Course Description: This course covers the design and implementation of computer systems from the perspective of the hardware software interface. The purpose of this course is for students to understand the relationship between the operating system, software, and computer architecture.  Students that complete the course will have learned operating system fundamentals, computer architecture fundamentals, compilation to hardware abstractions, and how software actually executes from the perspective of the hardware/software boundary. The course will focus especially on understanding the relationships between software and hardware, and how those relationships influence the design of a computer system's software and hardware. The course will convey these topics through a series of practical, implementation-oriented lab assignments.
+</end course description for 18-344 Computer Systems and the Hardware-Software Interface>

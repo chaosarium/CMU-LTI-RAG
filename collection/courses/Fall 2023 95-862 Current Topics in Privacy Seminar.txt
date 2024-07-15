@@ -1,0 +1,16 @@
+<start course metadata for 95-862 Current Topics in Privacy Seminar>
+Semester: Fall 2023 (aka F23)
+Course Name: Current Topics in Privacy Seminar
+Course Number: 95-862
+Department: Information Systems:Sch of IS & Mgt
+Number of Units: 3
+Prerequisites: None
+Instructors: Hana Habib, Norman Sadeh
+Rooms: HBH 1002
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 95-862 Current Topics in Privacy Seminar>
+
+<start course description for 95-862 Current Topics in Privacy Seminar>
+Semester: Fall 2023 (aka F23)
+Course Description: Note: Previously offered as 08-602. In this seminar course students will discuss recent papers and current public policy issues related to privacy. Privacy professionals from industry, government, and non-profits will deliver several guest lectures each semester.
+</end course description for 95-862 Current Topics in Privacy Seminar>

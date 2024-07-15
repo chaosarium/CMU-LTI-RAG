@@ -1,0 +1,16 @@
+<start course metadata for 03-117 Frontiers, Analysis, and Discovery in Biological Sciences>
+Semester: Fall 2023 (aka F23)
+Course Name: Frontiers, Analysis, and Discovery in Biological Sciences
+Course Number: 03-117
+Department: Biological Sciences
+Number of Units: 6
+Prerequisites: 03-121 or 03-151 or 03-110
+Instructors: Amanda Willard, Carrie Doonan, Emily Drill, Lynley Doonan, Natalie McGuier
+Rooms: MI 328
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 03-117 Frontiers, Analysis, and Discovery in Biological Sciences>
+
+<start course description for 03-117 Frontiers, Analysis, and Discovery in Biological Sciences>
+Semester: Fall 2023 (aka F23)
+Course Description: In this hands-on laboratory class, students will investigate a current biology problem. Students will read literature articles, design hypotheses, plan and carry out experiments, analyze and interpret data, and design future questions as part of a collaborative research team.  In addition, teams will work with faculty and fellow students to understand and explore the relevance of their projects in the field of biology and other disciplines.  Finally, teams will communicate results in an oral presentation to peers and faculty. Students will gain research skills, analytical skills, communication skills (both written and oral), and project design skills.
+</end course description for 03-117 Frontiers, Analysis, and Discovery in Biological Sciences>

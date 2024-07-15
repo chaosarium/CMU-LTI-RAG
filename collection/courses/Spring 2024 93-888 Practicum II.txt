@@ -1,0 +1,16 @@
+<start course metadata for 93-888 Practicum II>
+Semester: Spring 2024 (aka S24)
+Course Name: Practicum II
+Course Number: 93-888
+Department: Arts & Entertainment Management
+Number of Units: 1
+Prerequisites: None
+Instructors: Daniel Green
+Rooms: DNM DNM
+Locations: Los Angeles, California
+</end course metadata for 93-888 Practicum II>
+
+<start course description for 93-888 Practicum II>
+Semester: Spring 2024 (aka S24)
+Course Description: Practicum II
+</end course description for 93-888 Practicum II>

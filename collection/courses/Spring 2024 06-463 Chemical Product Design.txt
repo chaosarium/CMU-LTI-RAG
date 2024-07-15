@@ -1,0 +1,16 @@
+<start course metadata for 06-463 Chemical Product Design>
+Semester: Spring 2024 (aka S24)
+Course Name: Chemical Product Design
+Course Number: 06-463
+Department: Chemical Engineering
+Number of Units: 9
+Prerequisites: 06-421
+Instructors: Chrysanthos Gounaris
+Rooms: BH A53
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 06-463 Chemical Product Design>
+
+<start course description for 06-463 Chemical Product Design>
+Semester: Spring 2024 (aka S24)
+Course Description: Computer-aided design of a chemical product.  Course involves design of molecular structure, microstructure, or devices/processes that effect chemical change.  This is a project-based course, for which an extensive report must be submitted.
+</end course description for 06-463 Chemical Product Design>

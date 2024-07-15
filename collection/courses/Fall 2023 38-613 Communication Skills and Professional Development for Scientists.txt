@@ -1,0 +1,16 @@
+<start course metadata for 38-613 Communication Skills and Professional Development for Scientists>
+Semester: Fall 2023 (aka F23)
+Course Name: Communication Skills and Professional Development for Scientists
+Course Number: 38-613
+Department: MCS Interdisciplinary
+Number of Units: 6
+Prerequisites: None
+Instructors: Manfred Paulini
+Rooms: 3SC 110
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 38-613 Communication Skills and Professional Development for Scientists>
+
+<start course description for 38-613 Communication Skills and Professional Development for Scientists>
+Semester: Fall 2023 (aka F23)
+Course Description: This course explores the theory and practice of science communication geared toward students enrolled in the MS program in Data Analytics for Science but will be open and valuable for all graduate students in the sciences at CMU. Students will learn how to deliver excellent presentations, create figures, write clearly, and start to prepare for their future career acquiring professional development skills through a combination of in-class lectures and discussions, written assignments and oral presentations. Other types of communication might also be considered, such as the use of social media in promoting science or pitching an idea to a venture capitalist. Guest lecturers from CMU's Student Academic Success Center, Career & Professional Development Center and Public Communication for Researchers (PCR) will enhance the course experience.
+</end course description for 38-613 Communication Skills and Professional Development for Scientists>

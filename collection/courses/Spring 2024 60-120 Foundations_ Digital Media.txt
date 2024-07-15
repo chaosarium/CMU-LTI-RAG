@@ -1,0 +1,16 @@
+<start course metadata for 60-120 Foundations: Digital Media>
+Semester: Spring 2024 (aka S24)
+Course Name: Foundations: Digital Media
+Course Number: 60-120
+Department: Art
+Number of Units: 10
+Prerequisites: None
+Instructors: Golan Levin, Paolo Pedercini
+Rooms: CFA 318; WEH 5202
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 60-120 Foundations: Digital Media>
+
+<start course description for 60-120 Foundations: Digital Media>
+Semester: Spring 2024 (aka S24)
+Course Description: Foundations: Digital Media is a practical introduction to expanded modes of creative practice made possible by the computer. In this studio course, you will develop the skills and confidence necessary to produce interactive, generative, and immersive artworks; discuss your work in relation to current and historic praxes of electronic art; and engage new technologies critically. Topics will include no-code and low-code approaches to: internet art, immersive world-building, and environmental storytelling; generative art and experimentation with learning machines; creative interventions and performance in social platforms; and the development of branching narratives and games.
+</end course description for 60-120 Foundations: Digital Media>

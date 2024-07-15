@@ -1,0 +1,16 @@
+<start course metadata for 15-883 Computational Models of Neural Systems>
+Semester: Fall 2023 (aka F23)
+Course Name: Computational Models of Neural Systems
+Course Number: 15-883
+Department: Computer Science
+Number of Units: 12
+Prerequisites: None
+Instructors: David Touretzky
+Rooms: GHC 4211
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-883 Computational Models of Neural Systems>
+
+<start course description for 15-883 Computational Models of Neural Systems>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is an in-depth study of information processing in real neural systems from a computer science perspective. We will examine several brain areas, such as the hippocampus and cerebellum, where processing is sufficiently well understood that it can be discussed in terms of specific representations and algorithms. We will focus primarily on computer models of these systems, after establishing the necessary anatomical, physiological, and psychophysical context. There will be some neuroscience tutorial lectures for those with no prior background in this area.
+</end course description for 15-883 Computational Models of Neural Systems>

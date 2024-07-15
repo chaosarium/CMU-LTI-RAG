@@ -1,0 +1,16 @@
+<start course metadata for 15-455 Undergraduate Complexity Theory>
+Semester: Spring 2024 (aka S24)
+Course Name: Undergraduate Complexity Theory
+Course Number: 15-455
+Department: Computer Science
+Number of Units: 9
+Prerequisites: 15-251
+Instructors: Klaus Sutner
+Rooms: GHC 5222
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-455 Undergraduate Complexity Theory>
+
+<start course description for 15-455 Undergraduate Complexity Theory>
+Semester: Spring 2024 (aka S24)
+Course Description: Complexity theory is the study of how much of a resource (such as time, space, parallelism, or randomness) is required to perform some of the computations that interest us the most. In a standard algorithms course, one concentrates on giving resource efficient methods to solve interesting problems. In this course, we concentrate on techniques that prove or suggest that there are no efficient methods to solve many important problems.  We will develop the theory of various complexity classes, such as P, NP, co-NP, PH, #P, PSPACE, NC, AC, L, NL, UP, RP, BPP, IP, and PCP. We will study techniques to classify problems according to our available taxonomy. By developing a subtle pattern of reductions between classes we will suggest an (as yet unproven!) picture of how by using limited amounts of various resources, we limit our computational power.
+</end course description for 15-455 Undergraduate Complexity Theory>

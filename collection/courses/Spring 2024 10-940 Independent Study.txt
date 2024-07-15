@@ -1,0 +1,16 @@
+<start course metadata for 10-940 Independent Study>
+Semester: Spring 2024 (aka S24)
+Course Name: Independent Study
+Course Number: 10-940
+Department: Machine Learning
+Number of Units: N/A
+Prerequisites: None
+Instructors: Tom Mitchell
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 10-940 Independent Study>
+
+<start course description for 10-940 Independent Study>
+Semester: Spring 2024 (aka S24)
+Course Description: Independent Study to be used to work on research with a Machine Learning faculty member.
+</end course description for 10-940 Independent Study>

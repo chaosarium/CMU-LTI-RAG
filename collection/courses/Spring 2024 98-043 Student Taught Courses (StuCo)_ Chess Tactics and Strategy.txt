@@ -1,0 +1,16 @@
+<start course metadata for 98-043 Student Taught Courses (StuCo): Chess Tactics and Strategy>
+Semester: Spring 2024 (aka S24)
+Course Name: Student Taught Courses (StuCo): Chess Tactics and Strategy
+Course Number: 98-043
+Department: StuCo (Student Led Courses)
+Number of Units: 3
+Prerequisites: None
+Instructors: Andrew Peng, Ethan Gu, Vionnie Khong
+Rooms: WEH 5415
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 98-043 Student Taught Courses (StuCo): Chess Tactics and Strategy>
+
+<start course description for 98-043 Student Taught Courses (StuCo): Chess Tactics and Strategy>
+Semester: Spring 2024 (aka S24)
+Course Description: Chess is a strategy game that teaches many different useful skills. Themes such as problem solving and pattern recognition are prominent in chess and can be applied in many areas of life, such as academics. This course will cover vital principles of chess such as tactics, piece development, center control, common pawn structures, and more. The course will look at elementary endgame positions and themes, such as king activity and the value of passed pawns. We will look at famous games like the Opera Game to illustrate various chess concepts. Finally, we will of course need to put our learning into practice and will have time towards the end of each class to play games of chess. This course is suitable for students who know the basic rules of chess and are interested in improving their game.
+</end course description for 98-043 Student Taught Courses (StuCo): Chess Tactics and Strategy>

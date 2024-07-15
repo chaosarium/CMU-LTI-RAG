@@ -1,0 +1,16 @@
+<start course metadata for 03-240 Cell Biology>
+Semester: Spring 2024 (aka S24)
+Course Name: Cell Biology
+Course Number: 03-240
+Department: Biological Sciences
+Number of Units: 9
+Prerequisites: (03-121 or 03-120 or 03-151) and (03-232 or 03-233 or 03-231)
+Instructors: Mohamed Bouaouina
+Rooms: CMB 3046
+Locations: Doha, Qatar
+</end course metadata for 03-240 Cell Biology>
+
+<start course description for 03-240 Cell Biology>
+Semester: Spring 2024 (aka S24)
+Course Description: The course provides descriptive information and mechanistic details concerning key cellular processes in six areas: membrane function, protein targeting, signaling, cytoskeleton, cell division, and cell interaction. An attempt will be made to introduce the methodology that was used to obtain this information and to discuss how our understanding of these processes relates to human diseases. In this course, we will use different pedagogical tools (In-class activities, props, online modules, lecture slides...) to keep students engaged and to make the concepts easy to understand. In addition we will have various assessment types (weekly quizzes, problem sets, tests...) to gage students' proper understanding of the taught science. This course builds on previous knowledge that students have acquired in other courses (prerequisite courses like Honors modern Biology and Biochemistry) to give them a deeper and more detailed understanding of how the cell works. Finally, this course will require from you, beside some memorization effort, to think critically about scientific data and experimental procedures and to work collaboratively with other students (e.g. end-of-semester cell bio fair project). These are important skills that will empower your growth as a scientist inside and outside the lab.
+</end course description for 03-240 Cell Biology>

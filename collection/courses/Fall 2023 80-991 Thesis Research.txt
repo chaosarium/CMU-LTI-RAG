@@ -1,0 +1,16 @@
+<start course metadata for 80-991 Thesis Research>
+Semester: Fall 2023 (aka F23)
+Course Name: Thesis Research
+Course Number: 80-991
+Department: Philosophy
+Number of Units: N/A
+Prerequisites: None
+Instructors: Adam Bjorndahl, Alex London, Christina Bjorndahl, Clark Glymour, Danielle Wenner, Instructor TBA, Jeremy Avigad, Joseph Ramsey, Kevin Kelly, Kevin Zollman, Mandy Simons, Peter Spirtes, Simon Cullen, Steve Awodey, Teddy Seidenfeld, Tom Werner, Wilfried Sieg
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 80-991 Thesis Research>
+
+<start course description for 80-991 Thesis Research>
+Semester: Fall 2023 (aka F23)
+Course Description: Thesis Research
+</end course description for 80-991 Thesis Research>

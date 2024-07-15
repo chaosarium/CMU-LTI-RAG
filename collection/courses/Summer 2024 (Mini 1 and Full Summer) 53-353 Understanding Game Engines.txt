@@ -1,0 +1,16 @@
+<start course metadata for 53-353 Understanding Game Engines>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Understanding Game Engines
+Course Number: 53-353
+Department: Entertainment Technology
+Number of Units: 9
+Prerequisites: None
+Instructors: Thomas Corbett
+Rooms: CMU REMOTE
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 53-353 Understanding Game Engines>
+
+<start course description for 53-353 Understanding Game Engines>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: This course is designed for non-programmers who wish to learn how to use modern game engines such as Unity (which will be the primary tool used for this course). Students will learn the fundamental components and features of game engines (such as objects, inputs, movement, interactions, physics, UI, artwork and animation, sound, and more) and the terminology and theory behind them. Students will attend lectures and participate in example exercises to illustrate these concepts, and put these concepts to practice in their assignment work.  This course does not have pre-requisites, but a basic understanding of common code concepts (variables, loops, conditional statements) is recommended.
+</end course description for 53-353 Understanding Game Engines>

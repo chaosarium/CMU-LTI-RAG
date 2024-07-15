@@ -1,0 +1,16 @@
+<start course metadata for 06-777 Colloids, Polymers and Surfaces (CPS) Lab III: Adv. Characterization Methods>
+Semester: Spring 2024 (aka S24)
+Course Name: Colloids, Polymers and Surfaces (CPS) Lab III: Adv. Characterization Methods
+Course Number: 06-777
+Department: Chemical Engineering
+Number of Units: 6
+Prerequisites: None
+Instructors: Jim Schneider
+Rooms: DH 3200
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 06-777 Colloids, Polymers and Surfaces (CPS) Lab III: Adv. Characterization Methods>
+
+<start course description for 06-777 Colloids, Polymers and Surfaces (CPS) Lab III: Adv. Characterization Methods>
+Semester: Spring 2024 (aka S24)
+Course Description: *Graduate level standing in engineering or science required, 06-607 or 06-609 recommended.  In this graduate level laboratory course, students will learn techniques for the characterization of fine particles, macromolecules and interfaces relevant to complex fluids engineering (CFE).  Experiments will be based on methods currently used in CFE research including microelectrophoresis, rheology, dynamic surface tension using the bubble pressure method, contact angle hysteresis measurement, surface excess concentration measurement using ellipsometry, measurement of streaming potential of solid surfaces, Atomic Force Microscopy (AFM), and particle sizing by dynamic light scattering.
+</end course description for 06-777 Colloids, Polymers and Surfaces (CPS) Lab III: Adv. Characterization Methods>

@@ -1,0 +1,16 @@
+<start course metadata for 48-383 Ethics and Decision Making in Architecture>
+Semester: Spring 2024 (aka S24)
+Course Name: Ethics and Decision Making in Architecture
+Course Number: 48-383
+Department: Architecture
+Number of Units: 6
+Prerequisites: None
+Instructors: Valentina Vavasis
+Rooms: MM 103
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-383 Ethics and Decision Making in Architecture>
+
+<start course description for 48-383 Ethics and Decision Making in Architecture>
+Semester: Spring 2024 (aka S24)
+Course Description: This course investigates ethics for architecture and the built environment. Students will learn about ethics as a discipline, how to identify an ethical issue, and how one might work through an ethical problem. Frameworks will be presented with case studies for practice and discussion. On a macro scale, we will consider the entanglement of architecture with capital as well as sustainability and climate change. We will also touch upon day-to-day concerns regarding safety, zoning, contracts, material selection, internet of things and workplace discrimination. Reading responses and class discussions are the primary format for learning. Each student will also conduct an ethical assessment of one of their studio projects. Non-architects are welcome.
+</end course description for 48-383 Ethics and Decision Making in Architecture>

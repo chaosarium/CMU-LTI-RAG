@@ -1,0 +1,16 @@
+<start course metadata for 95-748 Software and Security>
+Semester: Spring 2024 (aka S24)
+Course Name: Software and Security
+Course Number: 95-748
+Department: Information Systems:Sch of IS & Mgt
+Number of Units: 6
+Prerequisites: 95-752
+Instructors: Hasan Yasar
+Rooms: HBH 1206
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 95-748 Software and Security>
+
+<start course description for 95-748 Software and Security>
+Semester: Spring 2024 (aka S24)
+Course Description: This course exposes students with limited exposure to programming and software engineering development foundational concepts to enable further understanding of the challenges of insecure and vulnerable software. Students are exposed to basic programming constructs (such as variables, control structures, data structures, programming syntax) as well as the basic principles of object-oriented programming languages. The course also surveys the types of threats and vulnerabilities inherent in software and the origins of these deficiencies. A brief overview of secure coding concepts, principles and techniques are provided to students to provide exposure to how software can be made more secure and resilient and how security can be part of overall software development process.
+</end course description for 95-748 Software and Security>

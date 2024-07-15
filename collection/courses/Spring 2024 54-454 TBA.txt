@@ -1,0 +1,16 @@
+<start course metadata for 54-454 TBA>
+Semester: Spring 2024 (aka S24)
+Course Name: TBA
+Course Number: 54-454
+Department: Drama
+Number of Units: 6
+Prerequisites: None
+Instructors: Tina Shackleford
+Rooms: PCA 307
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-454 TBA>
+
+<start course description for 54-454 TBA>
+Semester: Spring 2024 (aka S24)
+Course Description: For Production Management and Stage Management majors.
+</end course description for 54-454 TBA>

@@ -1,0 +1,16 @@
+<start course metadata for 57-487 Advanced Solfege III>
+Semester: Fall 2023 (aka F23)
+Course Name: Advanced Solfege III
+Course Number: 57-487
+Department: Music
+Number of Units: 3
+Prerequisites: 57-186
+Instructors: Anne Moskal
+Rooms: CFA M160
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-487 Advanced Solfege III>
+
+<start course description for 57-487 Advanced Solfege III>
+Semester: Fall 2023 (aka F23)
+Course Description: Covers the same concepts as Solfege IV in more challenging material, from Bach chorales in open score to excerpts by Bartok, Honegger, Stockhausen, or Boulez. Dictations are three-part contrapuntal and difficult harmonic three and four parts.
+</end course description for 57-487 Advanced Solfege III>

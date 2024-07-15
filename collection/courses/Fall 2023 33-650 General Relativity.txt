@@ -1,0 +1,16 @@
+<start course metadata for 33-650 General Relativity>
+Semester: Fall 2023 (aka F23)
+Course Name: General Relativity
+Course Number: 33-650
+Department: Physics
+Number of Units: 9
+Prerequisites: 33-211 and 33-339
+Instructors: Tiziana Di Matteo
+Rooms: DH A301D
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 33-650 General Relativity>
+
+<start course description for 33-650 General Relativity>
+Semester: Fall 2023 (aka F23)
+Course Description: General Relativity is the classical theory of gravity. It is widely recognized as a beautiful theory - equating gravity and the geometry of spacetime leads to a profound conceptual change in the way we regard the universe. The predictions of the theory are relevant to systems as varied as high precision measurements of the earth's gravitational field or the strongly curved space-times around black holes. In this course, we will gradually develop an understanding of the geometries which are the solutions of the Einstein equation, with an emphasis on their relevance to physical situations. We will motivate the theory step by step and eventually introduce the Einstein equation itself.
+</end course description for 33-650 General Relativity>

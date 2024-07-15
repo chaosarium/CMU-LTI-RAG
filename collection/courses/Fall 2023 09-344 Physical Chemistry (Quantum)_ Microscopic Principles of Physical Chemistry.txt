@@ -1,0 +1,16 @@
+<start course metadata for 09-344 Physical Chemistry (Quantum): Microscopic Principles of Physical Chemistry>
+Semester: Fall 2023 (aka F23)
+Course Name: Physical Chemistry (Quantum): Microscopic Principles of Physical Chemistry
+Course Number: 09-344
+Department: Chemistry
+Number of Units: 9
+Prerequisites: (09-105 or 09-107) and (33-141 or 33-111 or 33-106 or 33-121 or 33-151)
+Instructors: Michael Hendrich
+Rooms: GHC 5222
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 09-344 Physical Chemistry (Quantum): Microscopic Principles of Physical Chemistry>
+
+<start course description for 09-344 Physical Chemistry (Quantum): Microscopic Principles of Physical Chemistry>
+Semester: Fall 2023 (aka F23)
+Course Description: We will connect your qualitative understanding of atoms and molecules to a more quantitative treatment, so that each of you can independently assess the extent to which chemistry is based on fundamental principles.  To do this we must study the basic principles of quantum theory, because atoms and molecules are quantum particles.  These principles influence every aspect of how you think of chemistry and the course will challenge you to think in different ways about the stuff around you.   Throughout the course we shall apply quantum principles to develop an understanding of molecular and atomic spectroscopy, and a concurrent understanding of how spectroscopy can be used to learn about the microscopic properties of atoms and molecules. 3 hrs. lec., 1 hr. rec.
+</end course description for 09-344 Physical Chemistry (Quantum): Microscopic Principles of Physical Chemistry>

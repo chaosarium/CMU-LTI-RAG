@@ -1,0 +1,16 @@
+<start course metadata for 11-441 Machine Learning for Text and Graph-based Mining>
+Semester: Fall 2023 (aka F23)
+Course Name: Machine Learning for Text and Graph-based Mining
+Course Number: 11-441
+Department: Language Technologies Institute
+Number of Units: 9
+Prerequisites: None
+Instructors: Yiming Yang
+Rooms: HH B131
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 11-441 Machine Learning for Text and Graph-based Mining>
+
+<start course description for 11-441 Machine Learning for Text and Graph-based Mining>
+Semester: Fall 2023 (aka F23)
+Course Description: This course provides a comprehensive introduction to the theory and implementation of algorithms for organizing and searching large text collections. The first half of the course studies text search engines for enterprise and Web environments; the open-source Indri search engine is used as a working example. The second half studies text mining techniques such as clustering, categorization, and information extraction. Programming assignments give hands-on experience with document ranking algorithms, categorizing documents into browsing hierarchies, and related topics.
+</end course description for 11-441 Machine Learning for Text and Graph-based Mining>

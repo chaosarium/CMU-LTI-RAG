@@ -1,0 +1,16 @@
+<start course metadata for 45-942 Organizational Change>
+Semester: Spring 2024 (aka S24)
+Course Name: Organizational Change
+Course Number: 45-942
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Denise Rousseau
+Rooms: TEP 2202
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-942 Organizational Change>
+
+<start course description for 45-942 Organizational Change>
+Semester: Spring 2024 (aka S24)
+Course Description: This course focuses on processes of organizational change. The goals are to provide frameworks and tools for effectively introducing and sustaining organizational change. Topics include initiation, implementation and institutionalization of change in various organizational contexts. The course is organized around readings, cases, lectures, videos discussions and outside projects.
+</end course description for 45-942 Organizational Change>

@@ -1,0 +1,16 @@
+<start course metadata for 32-312 Naval Ship Systems II-Weapons>
+Semester: Spring 2024 (aka S24)
+Course Name: Naval Ship Systems II-Weapons
+Course Number: 32-312
+Department: Naval Science - ROTC
+Number of Units: 9
+Prerequisites: None
+Instructors: Benjamin Stewart
+Rooms: HBH 1005
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 32-312 Naval Ship Systems II-Weapons>
+
+<start course description for 32-312 Naval Ship Systems II-Weapons>
+Semester: Spring 2024 (aka S24)
+Course Description: This course outlines the theory and employment of weapons systems. The student explores the processes of detection, evaluation, threat analysis, weapon selection, delivery, guidance and explosives. Fire control systems and major weapon types are discussed, including capabilities and limitations. The physical aspects of radar and underwater sound are described in detail. The facets of command, control, and communications are explored as a means of weapons system integration.
+</end course description for 32-312 Naval Ship Systems II-Weapons>

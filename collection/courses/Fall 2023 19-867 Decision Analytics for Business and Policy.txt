@@ -1,0 +1,16 @@
+<start course metadata for 19-867 Decision Analytics for Business and Policy>
+Semester: Fall 2023 (aka F23)
+Course Name: Decision Analytics for Business and Policy
+Course Number: 19-867
+Department: Engineering & Public Policy
+Number of Units: 12
+Prerequisites: 90-722 and 90-760 and 90-819
+Instructors: Peter Zhang
+Rooms: HBH 1202; HBH 1204
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 19-867 Decision Analytics for Business and Policy>
+
+<start course description for 19-867 Decision Analytics for Business and Policy>
+Semester: Fall 2023 (aka F23)
+Course Description: This course introduces modeling frameworks and computational tools to address complex, ill-defined, large-scale decision-making problems that arise in policy and business. Using a combination of lecturing, case studies and class discussions, it covers advanced methods of decision-making under uncertainty in four major areas: large-scale optimization, discrete event simulation, stochastic optimization and queuing theory. The application of such methods are drawn from a variety of real-world settings in a variety of domains such as transportation, energy, information systems, health care, supply chain management, etc. Participants are expected to take active learning roles in the computational application of the materials presented in class using the R programming language and the CPLEX optimization solver. A term project simulates realistic and challenging professional situations where new solutions need to be developed, implemented and communicated. The prerequisite is an introductory course in Operations Research, such as Management Science I and II or Decision-Making under Uncertainty.   The learning objectives of this course fall into the following categories  learning advanced quantitative modeling and solution algorithms from the fields of Operations Research and Management Science (OR/MS)  applying OR/MS methods systematically to model complex decision-making problems faced in practice  implementing simulation and optimization methods with large-scale datasets using state-of-the-art software  evaluating the challenges and trade-offs in quantitative modeling and computation  communicating technical models and results effectively based on the context and the audience
+</end course description for 19-867 Decision Analytics for Business and Policy>

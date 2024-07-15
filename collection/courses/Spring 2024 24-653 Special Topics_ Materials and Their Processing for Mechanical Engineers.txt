@@ -1,0 +1,16 @@
+<start course metadata for 24-653 Special Topics: Materials and Their Processing for Mechanical Engineers>
+Semester: Spring 2024 (aka S24)
+Course Name: Special Topics: Materials and Their Processing for Mechanical Engineers
+Course Number: 24-653
+Department: Mechanical Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: B. Reeja Jayan
+Rooms: BH 235A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-653 Special Topics: Materials and Their Processing for Mechanical Engineers>
+
+<start course description for 24-653 Special Topics: Materials and Their Processing for Mechanical Engineers>
+Semester: Spring 2024 (aka S24)
+Course Description: The study of the major classes of materials (e.g., metals, alloys, ceramics, polymers, composites) and their structure-processing-property relationships is integral to many engineering disciplines. This course will introduce the fundamental concepts behind how the processing of materials influences their atomic/molecular structures and resulting properties. The course will adopt a game-based learning approach in which students will utilize the virtual Minecraft environment to study crystal structures, imperfections (defects), diffusion, and phase equilibria. These concepts are then applied to characterize and interpret the (mechanical, electrical, magnetic, and optical) properties of various material systems as part of a final collaborative group project.
+</end course description for 24-653 Special Topics: Materials and Their Processing for Mechanical Engineers>

@@ -1,0 +1,16 @@
+<start course metadata for 03-900 Doctoral Thesis Research>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Doctoral Thesis Research
+Course Number: 03-900
+Department: Biological Sciences
+Number of Units: N/A
+Prerequisites: None
+Instructors: Veronica Hinman
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 03-900 Doctoral Thesis Research>
+
+<start course description for 03-900 Doctoral Thesis Research>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: Doctoral Thesis Research consists of an independent investigation on a project selected from a major area of research study with the advice and approval of the faculty advisor.
+</end course description for 03-900 Doctoral Thesis Research>

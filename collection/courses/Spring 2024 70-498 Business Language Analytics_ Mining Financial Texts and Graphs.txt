@@ -1,0 +1,16 @@
+<start course metadata for 70-498 Business Language Analytics: Mining Financial Texts and Graphs>
+Semester: Spring 2024 (aka S24)
+Course Name: Business Language Analytics: Mining Financial Texts and Graphs
+Course Number: 70-498
+Department: Business Administration
+Number of Units: 9
+Prerequisites: 70-122
+Instructors: Jinghong Liang
+Rooms: TEP 2612
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 70-498 Business Language Analytics: Mining Financial Texts and Graphs>
+
+<start course description for 70-498 Business Language Analytics: Mining Financial Texts and Graphs>
+Semester: Spring 2024 (aka S24)
+Course Description: This course provides students with accounting concepts and tools to create structures in financial data and some hands-on experience in applying economic, statistical, and data- mining tools to analyze corporate business language, both text and numbers, used in formal documents written following specific accounting language rules. ¿ Accounting numbers: Accounting numbers such as those in published corporate financial statements obey a basic double-entry bookkeeping structure leading to a matrix or graph representation beyond the typical numerical data structure. After a basic introduction of using corporate financial data, much of the course covers the concepts and tools that process corporate accounting data using the graph representation. ¿ Accounting texts: While texts in accounting documents are written in natural language, they must obey regulatory disclosure requirements in both substance and form. The remaining part of the course shows students how data in text form from accounting disclosures such as annual reports can be examined systematically using textual analysis techniques to gain further insight and knowledge about firms and industries beyond those inferred from non-textual data.  This course may use third-party copyright material. If so, the third-party course material will be secured and provided by the Tepper School to students enrolled in the course, and students enrolled in the course will be required to pay to the University the associated additional course materials fee for the third-party course material provided.   The amount of the course materials fee is dependent on the University's cost of the particular materials provided, and typically ranges from $13 to $75.
+</end course description for 70-498 Business Language Analytics: Mining Financial Texts and Graphs>

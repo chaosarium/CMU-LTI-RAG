@@ -1,0 +1,6 @@
+Name: David Mortensen
+Title: Assistant Research Professor
+Email dmortens@cs.cmu.edu
+Phone: 412-268-2894
+Office: 5707 Gates & Hillman Centers
+Interests: Natural Language Processing and Computational Linguistics, Corpus Annotation and Resources

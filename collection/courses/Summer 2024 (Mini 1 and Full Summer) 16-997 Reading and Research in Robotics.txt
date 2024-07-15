@@ -1,0 +1,16 @@
+<start course metadata for 16-997 Reading and Research in Robotics>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Reading and Research in Robotics
+Course Number: 16-997
+Department: Robotics
+Number of Units: N/A
+Prerequisites: None
+Instructors: David Wettergreen
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 16-997 Reading and Research in Robotics>
+
+<start course description for 16-997 Reading and Research in Robotics>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: Missing Course Description - please contact the teaching department.
+</end course description for 16-997 Reading and Research in Robotics>

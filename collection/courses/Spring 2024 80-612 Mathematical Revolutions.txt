@@ -1,0 +1,16 @@
+<start course metadata for 80-612 Mathematical Revolutions>
+Semester: Spring 2024 (aka S24)
+Course Name: Mathematical Revolutions
+Course Number: 80-612
+Department: Philosophy
+Number of Units: 12
+Prerequisites: None
+Instructors: Wilfried Sieg
+Rooms: BH 150
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 80-612 Mathematical Revolutions>
+
+<start course description for 80-612 Mathematical Revolutions>
+Semester: Spring 2024 (aka S24)
+Course Description: Mathematics is a central part of our intellectual experience. It is connected to sophisticated philosophical perspectives, say, in the work of Plato, Descartes, Leibniz, Kant, as well as in contemporary analytic philosophy; it is equally connected to fundamental views in the sciences, say, in the work of Ptolemy, Galileo, Newton, Einstein, as well as in contemporary cosmology. The common view that mathematics - if not directly "static" - is evolving in a linear fashion, does not withstand historical scrutiny. Indeed, there are many dramatic conceptual changes concerning the very nature and object of mathematics.
+</end course description for 80-612 Mathematical Revolutions>

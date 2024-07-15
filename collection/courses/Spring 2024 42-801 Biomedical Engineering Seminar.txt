@@ -1,0 +1,16 @@
+<start course metadata for 42-801 Biomedical Engineering Seminar>
+Semester: Spring 2024 (aka S24)
+Course Name: Biomedical Engineering Seminar
+Course Number: 42-801
+Department: Biomedical Engineering
+Number of Units: 3
+Prerequisites: None
+Instructors: Rosalyn Abbott
+Rooms: DH 2315
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 42-801 Biomedical Engineering Seminar>
+
+<start course description for 42-801 Biomedical Engineering Seminar>
+Semester: Spring 2024 (aka S24)
+Course Description: The Biomedical Engineering Seminar is required each semester for all BME graduate students in residence. It provides opportunities to learn about research in various and related fields being conducted at other universities, industry, and hospitals. All graduate students must register for this course during each semester of full-time study. Attendance is mandatory. Students may register for either 0 unit as 42-701 Biomedical Engineering Seminar or 3 units as Biomedical Engineering Seminar with Self-Study.  Students registering for 42-701 receive a pass/fail grade based on the submission of notes taken at the seminars. Students registering for 42-801 receive a letter grade based on both notes taken at the seminar and reports from 2 hours of self-study following each seminar.
+</end course description for 42-801 Biomedical Engineering Seminar>

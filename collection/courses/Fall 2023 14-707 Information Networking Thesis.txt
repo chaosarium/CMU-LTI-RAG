@@ -1,0 +1,16 @@
+<start course metadata for 14-707 Information Networking Thesis>
+Semester: Fall 2023 (aka F23)
+Course Name: Information Networking Thesis
+Course Number: 14-707
+Department: Information Networking Institute
+Number of Units: N/A
+Prerequisites: None
+Instructors: Dena Tsamitis
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania; San Jose, California
+</end course metadata for 14-707 Information Networking Thesis>
+
+<start course description for 14-707 Information Networking Thesis>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is for INI students who are defending and submitting an academic research-based masters thesis.  Enrollment requires special permission,therefore, the INI Academic Affairs Office will enroll those who should be.
+</end course description for 14-707 Information Networking Thesis>

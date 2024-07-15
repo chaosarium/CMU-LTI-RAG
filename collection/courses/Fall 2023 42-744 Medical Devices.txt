@@ -1,0 +1,16 @@
+<start course metadata for 42-744 Medical Devices>
+Semester: Fall 2023 (aka F23)
+Course Name: Medical Devices
+Course Number: 42-744
+Department: Biomedical Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Boyle Cheng
+Rooms: HH B131
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 42-744 Medical Devices>
+
+<start course description for 42-744 Medical Devices>
+Semester: Fall 2023 (aka F23)
+Course Description: This survey course is an introduction to the engineering, clinical, legal, regulatory and business aspects of medical device performance and failure. Topics covered include a broad range of successful medical devices in clinical use, as well as historical case studies of devices that were withdrawn from the market as a consequence of noted failures. In-depth study of specific medical devices will include cardiovascular, orthopedic, and neurological disciplines. We will study best practices employed in the clinical setting, principles governing the design processes, and modes of failure as a risk to the patient population. Additional lectures will provide fundamental topics concerning biomaterials used for implantable medical devices (metals, polymers, ceramics), biocompatibility, imaging, patient risks and mechanisms of failure (wear, corrosion, fatigue, fretting, etc.). The level of technical content will require junior standing for MCS and CIT students, a degree in science or engineering for non-MCS or non-CIT graduate students, or permission of the instructor for all other students.  42-744 should only be taken for graduate credit.
+</end course description for 42-744 Medical Devices>

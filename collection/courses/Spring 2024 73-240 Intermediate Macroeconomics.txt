@@ -1,0 +1,16 @@
+<start course metadata for 73-240 Intermediate Macroeconomics>
+Semester: Spring 2024 (aka S24)
+Course Name: Intermediate Macroeconomics
+Course Number: 73-240
+Department: Economics
+Number of Units: 9
+Prerequisites: (21-256 and 73-100) or (73-103 and 73-102 and 21-256) or (73-100 and 21-259) or (73-102 and 73-103 and 21-259) or (73-104)
+Instructors: Liyan Shi
+Rooms: TEP 2700
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 73-240 Intermediate Macroeconomics>
+
+<start course description for 73-240 Intermediate Macroeconomics>
+Semester: Spring 2024 (aka S24)
+Course Description: Through macroeconomic models built upon microeconomic foundations, insights are developed into economic growth processes and business cycles.  Topics include aggregation and measurement, national income, business cycle measurement, economic welfare theorems and social inefficiencies, the effect of government fiscal policy upon employment and productivity, and the relationship between investment, interest rates and economic growth.  (Lecture, 3 hours; Recitation, 1 hour). Minimum grade of "C" required in all economics pre-requisite courses.
+</end course description for 73-240 Intermediate Macroeconomics>

@@ -1,0 +1,16 @@
+<start course metadata for 54-955 Production Data Manipulation>
+Semester: Fall 2023 (aka F23)
+Course Name: Production Data Manipulation
+Course Number: 54-955
+Department: Drama
+Number of Units: 9
+Prerequisites: None
+Instructors: David Holcomb, Sayantee Sahoo
+Rooms: WEH 5201
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-955 Production Data Manipulation>
+
+<start course description for 54-955 Production Data Manipulation>
+Semester: Fall 2023 (aka F23)
+Course Description: In depth analysis of how to work with production data across multiple software platforms to allow the Production Manager to make more informed decisions. Required for Production Management / Stage Management majors.
+</end course description for 54-955 Production Data Manipulation>

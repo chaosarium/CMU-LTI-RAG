@@ -1,0 +1,16 @@
+<start course metadata for 04-623 Cyber Defense>
+Semester: Spring 2024 (aka S24)
+Course Name: Cyber Defense
+Course Number: 04-623
+Department: Information & Communication Technology
+Number of Units: 12
+Prerequisites: 04-720 or 04-721 or 18-731
+Instructors: Jema David Ndibwile
+Rooms: CMR F205
+Locations: Kigali, Rwanda
+</end course metadata for 04-623 Cyber Defense>
+
+<start course description for 04-623 Cyber Defense>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is designed to teach students the principles of cyber security and how they correlate to security practitioners and cyber adversaries. The course integrates networking and system management principles with a focus on system security through defensive strategies. Students will learn how to think like an attacker, how modern cyber-attacks and defenses work in practice, and how to evaluate risks and security systems. They will learn in a hands-on setting and participate in real-world internships while developing strong critical thinking skills. Students will learn necessary core skills and gain understanding about typical risks and weaknesses, as well as how to design a safe system using fundamental concepts and methodologies.
+</end course description for 04-623 Cyber Defense>

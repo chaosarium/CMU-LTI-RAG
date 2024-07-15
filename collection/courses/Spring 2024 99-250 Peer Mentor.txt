@@ -1,0 +1,16 @@
+<start course metadata for 99-250 Peer Mentor>
+Semester: Spring 2024 (aka S24)
+Course Name: Peer Mentor
+Course Number: 99-250
+Department: Carnegie Mellon University-Wide Studies
+Number of Units: 1
+Prerequisites: None
+Instructors: Caitlin Ortis, Katharine Walsh, Wesley Hood
+Rooms: POS 280-2
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 99-250 Peer Mentor>
+
+<start course description for 99-250 Peer Mentor>
+Semester: Spring 2024 (aka S24)
+Course Description: SPECIAL PERMISSION REQUIRED: YES The purpose of this training course is to provide undergraduates with the knowledge, skills, and experience necessary to become effective Peer Tutors. Throughout the course, students will be exposed to the mission and goals of Academic Development and the Peer Tutoring Program. The class lasts approximately nine weeks and is generally offered in the spring term from February through April. The course explores the roles and responsibilities of the tutor while offering insights into effective tutoring strategies through interactive discussion and role plays. In addition, trainees work hands-on with experienced tutors to troubleshoot potential problems and situations. Students will gain experience in group dynamics, communication skills, study strategies, referral resources, leadership, and creating a supportive learning environment. Teaching practice is an integral part of the training program. Students must complete an application in person or electronically at: https://www.cmu.edu/acadev/jobs/index.html and then be interviewed by the instructor(s) to determine if the student possesses the basic qualifications.
+</end course description for 99-250 Peer Mentor>

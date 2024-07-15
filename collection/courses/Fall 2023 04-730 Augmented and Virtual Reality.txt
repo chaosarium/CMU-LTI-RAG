@@ -1,0 +1,16 @@
+<start course metadata for 04-730 Augmented and Virtual Reality>
+Semester: Fall 2023 (aka F23)
+Course Name: Augmented and Virtual Reality
+Course Number: 04-730
+Department: Information & Communication Technology
+Number of Units: 6
+Prerequisites: None
+Instructors: Michael Perkins
+Rooms: CMR F203
+Locations: Kigali, Rwanda
+</end course metadata for 04-730 Augmented and Virtual Reality>
+
+<start course description for 04-730 Augmented and Virtual Reality>
+Semester: Fall 2023 (aka F23)
+Course Description: Augmented and virtual reality systems strive to present their users with sensory experiences that feel real, but are in fact either entirely computer created (virtual reality) or add computer "augmentations" to the real world around them (augmented reality). AR/VR systems have a long history, and many now prefer the term Mixed Reality, and think in terms of a spectrum spanning reality at one end to entirely virtual experiences at the other.  The most common implementation of AR/VR systems uses headsets which the user wears, and frequently hand controllers as well.  The headsets project images into both eyes, allowing 3D perception, and the hand controllers sometimes provide tactile experiences in addition to control functions.  In this course students will study AR/VR systems from a theoretical standpoint, as well as program headsets and hand controllers in order to gain hands-on experience.  Students will learn key computer graphics principles that lie at the core of a mixed reality system's ability to generate virtual imagery to create 3D perception. They will learn the need for tracking of both head and hand motions to create acceptable experiences, and how this can be achieved. They will understand, for AR systems, the issue of registration.  Programming using Unity is a core part of the course.
+</end course description for 04-730 Augmented and Virtual Reality>

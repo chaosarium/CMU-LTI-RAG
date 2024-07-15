@@ -1,0 +1,16 @@
+<start course metadata for 45-910 Behavioral Economics>
+Semester: Fall 2023 (aka F23)
+Course Name: Behavioral Economics
+Course Number: 45-910
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: John Gasper
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-910 Behavioral Economics>
+
+<start course description for 45-910 Behavioral Economics>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is intended to give future managers and policy makers an introduction to the insights and applications of behavioral economics.  Behavioral economics is the interdisciplinary study of how people make decisions.  It draws together research from psychology, economics, and management to address topics including heuristics and biases in inference and prediction, risk perceptions and attitudes, and the roles of group and emotional processes in decision making.  This behavioral approach is different from the traditional approach of how people should make decisions, which is often the content of classic economic theory.  Studying the heuristics and biases behind how people actually make decisions is the focus of this course.
+</end course description for 45-910 Behavioral Economics>

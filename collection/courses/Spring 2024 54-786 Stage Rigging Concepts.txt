@@ -1,0 +1,16 @@
+<start course metadata for 54-786 Stage Rigging Concepts>
+Semester: Spring 2024 (aka S24)
+Course Name: Stage Rigging Concepts
+Course Number: 54-786
+Department: Drama
+Number of Units: 3
+Prerequisites: None
+Instructors: David Boevers
+Rooms: PCA 209
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-786 Stage Rigging Concepts>
+
+<start course description for 54-786 Stage Rigging Concepts>
+Semester: Spring 2024 (aka S24)
+Course Description: TBA
+</end course description for 54-786 Stage Rigging Concepts>

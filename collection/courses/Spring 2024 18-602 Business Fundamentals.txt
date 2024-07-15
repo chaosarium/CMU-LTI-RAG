@@ -1,0 +1,16 @@
+<start course metadata for 18-602 Business Fundamentals>
+Semester: Spring 2024 (aka S24)
+Course Name: Business Fundamentals
+Course Number: 18-602
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: David Lamont
+Rooms: PH A18B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-602 Business Fundamentals>
+
+<start course description for 18-602 Business Fundamentals>
+Semester: Spring 2024 (aka S24)
+Course Description: The purpose of the class is to introduce basic business management concepts and to make the connections between various business decision making frameworks so that you can use the topics to holistically approach complex unstructured business problems. The class will have a dual thread. We will teach theory and applications in a conventional lecture format. To reinforce these ideas and to show an integrated view of business, we will thread a simulated competition through the class. You will be placed on teams and you will run a computer-simulated US-based multi-national manufacturing company for 3 simulated years in an oligopic market. The simulation will cause you to apply the ideas learned in class to a complex, dynamic, and very unstructured problem. The inter-related nature of business decision-making becomes very apparent as you formulate strategies and then attempt to carry them out and deliver value for your owners. Each team will be coached as needed to make sure that their level of understanding evolves as they move through the exercise. The goal is to leave the participants with the view of a general manager of a profit center in a multi-national company.  We will cover 6 basic areas of management: Economics Topics (microeconomics - market structures; macroeconomics - central bank theory, international trade, monetary policy); Accounting Topics (financial accounting; financial statement analysis); Finance Topics (the time value of money and the Capital Asset Pricing Model; risk and portfolio theory; corporate finance, controller and treasury functions, capital budgeting and capital structure); Marketing Topics (Buyer Behavior models, market segmentation strategies, marketing tools; branding strategies); Operations Management Topics (quality management; supply chain integration; lean manufacturing techniques); Strategy Topics (strategy formulation fundamentals; strategy implementation fundamentals)
+</end course description for 18-602 Business Fundamentals>

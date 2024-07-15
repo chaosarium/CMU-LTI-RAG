@@ -1,0 +1,16 @@
+<start course metadata for 88-290 Confessions, Lies, and Gossip>
+Semester: Spring 2024 (aka S24)
+Course Name: Confessions, Lies, and Gossip
+Course Number: 88-290
+Department: Social & Decision Sciences
+Number of Units: 9
+Prerequisites: 88-120 or 85-102
+Instructors: Erin Carbone
+Rooms: PH A18B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 88-290 Confessions, Lies, and Gossip>
+
+<start course description for 88-290 Confessions, Lies, and Gossip>
+Semester: Spring 2024 (aka S24)
+Course Description: Human beings are social creatures, and sharing thoughts, feelings, and information with others is fundamental to the human experience. We engage in this type of disclosure frequently, often without conscious thought or deliberation. Yet the act of disclosing information is fraught with risk, particularly in the digital age where what we share can be widely accessed and permanently stored. This course aims to cast this ubiquitous act in a new light, investigating many of the behaviors we take for granted, and explaining common counter-normative and suboptimal phenomena, through different theoretical lenses. Why do people share information that they know might prove to be materially damaging or harmful to their reputation? Can gossiping be understood as a prosocial act, benefitting a common good? What types of information are most likely to "go viral"? This course attempts to answer these and many other questions, and to provide students with the perspective and tools necessary to improve their own disclosure decision making.
+</end course description for 88-290 Confessions, Lies, and Gossip>

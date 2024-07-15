@@ -1,0 +1,16 @@
+<start course metadata for 18-495 Speech Technology for Conversational AI>
+Semester: Spring 2024 (aka S24)
+Course Name: Speech Technology for Conversational AI
+Course Number: 18-495
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: 15-211
+Instructors: Shinji Watanabe
+Rooms: GHC 5222
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-495 Speech Technology for Conversational AI>
+
+<start course description for 18-495 Speech Technology for Conversational AI>
+Semester: Spring 2024 (aka S24)
+Course Description: This course provides both practical and theoretical knowledge on how we can leverage speech processing technologies to build a conversational AI system. The course encompasses speech recognition, speaker recognition, speech synthesis, speech enhancement, speech translation, spoken dialogue systems, speech foundation models, and other speech and audio processing tasks. In practical sessions, students will learn to build functional speech recognition and synthesis systems or utilize existing large speech and language models and integrate them to create a speech interface using existing toolkits. The course will also present details of algorithms, techniques, evaluation metrics, and limitations of state-of-the-art speech systems. This course is particularly designed for students who want to learn how to process actual data for real-world applications, applying AI and machine learning techniques while also being aware of the current technology limitations.
+</end course description for 18-495 Speech Technology for Conversational AI>

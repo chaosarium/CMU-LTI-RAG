@@ -1,0 +1,16 @@
+<start course metadata for 09-219 Modern Organic Chemistry>
+Semester: Fall 2023 (aka F23)
+Course Name: Modern Organic Chemistry
+Course Number: 09-219
+Department: Chemistry
+Number of Units: 10
+Prerequisites: 09-107 or 09-106
+Instructors: Stefanie Sydlik
+Rooms: DH 2302; POS 146
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 09-219 Modern Organic Chemistry>
+
+<start course description for 09-219 Modern Organic Chemistry>
+Semester: Fall 2023 (aka F23)
+Course Description: Traditional introductory organic chemistry courses present structure, reactivity, mechanisms and synthesis of organic compounds. Students taking 09-219 will be exposed to the same topics, but presented in greater depth and broader context, with applications to allied fields such as (1) polymer and materials science, (2) environmental science and (3) biological sciences and medicine. This will be accomplished through an extra 50 minute lecture period, where more advanced topics and applications will be discussed. Topics will include computational chemistry, green chemistry, chiral separations, photochemistry, reaction kinetics, controlled radical polymerizations and petroleum cracking. Students who complete 09-219 will have a strong foundation in organic chemistry as well as a sophisticated understanding of how organic chemistry is currently practiced. 4 hrs. lec., 1 hr. rec.
+</end course description for 09-219 Modern Organic Chemistry>

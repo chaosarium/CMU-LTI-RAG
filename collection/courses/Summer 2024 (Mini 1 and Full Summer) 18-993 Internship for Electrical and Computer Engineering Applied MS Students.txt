@@ -1,0 +1,16 @@
+<start course metadata for 18-993 Internship for Electrical and Computer Engineering Applied MS Students>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Internship for Electrical and Computer Engineering Applied MS Students
+Course Number: 18-993
+Department: Electrical & Computer Engineering
+Number of Units: 0
+Prerequisites: None
+Instructors: James Bain
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania; San Jose, California
+</end course metadata for 18-993 Internship for Electrical and Computer Engineering Applied MS Students>
+
+<start course description for 18-993 Internship for Electrical and Computer Engineering Applied MS Students>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: The Department of Electrical and Computer Engineering considers experiential learning opportunities as an important educational component for its graduate students. One such component is an internship completed during the course of the MS program. A member of the ECE Advising Group will add the course to the student's schedule. This process should be used by any Electrical and Computer Engineering graduate student who is enrolled in a program with a required internship component. International students should also be authorized by the Office of International Education (OIE). Completion of written assignments and requirements will determine the letter grade for the course. Students must have graduate standing in ECE, and an associated professional development course.
+</end course description for 18-993 Internship for Electrical and Computer Engineering Applied MS Students>

@@ -1,0 +1,16 @@
+<start course metadata for 51-913 Design Writing Workshop>
+Semester: Fall 2023 (aka F23)
+Course Name: Design Writing Workshop
+Course Number: 51-913
+Department: Design
+Number of Units: 12
+Prerequisites: None
+Instructors: Terry Irwin
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-913 Design Writing Workshop>
+
+<start course description for 51-913 Design Writing Workshop>
+Semester: Fall 2023 (aka F23)
+Course Description: This semester-long course deepens your understanding of writing, particularly within the disciplines of design. Topics related to writing styles and format (journal articles, conference papers, short articles, podcasts and digital publishing), planning a literature review and developing an argument using visual and text-based outlines will all be discussed.
+</end course description for 51-913 Design Writing Workshop>

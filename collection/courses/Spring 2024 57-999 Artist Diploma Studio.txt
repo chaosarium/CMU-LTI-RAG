@@ -1,0 +1,16 @@
+<start course metadata for 57-999 Artist Diploma Studio>
+Semester: Spring 2024 (aka S24)
+Course Name: Artist Diploma Studio
+Course Number: 57-999
+Department: Music
+Number of Units: N/A
+Prerequisites: 57-998
+Instructors: Instructor TBA
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-999 Artist Diploma Studio>
+
+<start course description for 57-999 Artist Diploma Studio>
+Semester: Spring 2024 (aka S24)
+Course Description: Missing Course Description - please contact the teaching department.
+</end course description for 57-999 Artist Diploma Studio>

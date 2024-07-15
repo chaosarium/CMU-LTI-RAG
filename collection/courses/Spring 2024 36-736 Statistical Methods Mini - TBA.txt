@@ -1,0 +1,16 @@
+<start course metadata for 36-736 Statistical Methods Mini - TBA>
+Semester: Spring 2024 (aka S24)
+Course Name: Statistical Methods Mini - TBA
+Course Number: 36-736
+Department: Statistics and Data Science
+Number of Units: 6
+Prerequisites: None
+Instructors: Instructor TBA
+Rooms: WEH 5304
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 36-736 Statistical Methods Mini - TBA>
+
+<start course description for 36-736 Statistical Methods Mini - TBA>
+Semester: Spring 2024 (aka S24)
+Course Description: TBD
+</end course description for 36-736 Statistical Methods Mini - TBA>

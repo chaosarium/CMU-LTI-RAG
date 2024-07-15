@@ -1,0 +1,16 @@
+<start course metadata for 05-888 Practicum in HCI>
+Semester: Spring 2024 (aka S24)
+Course Name: Practicum in HCI
+Course Number: 05-888
+Department: Human-Computer Interaction
+Number of Units: N/A
+Prerequisites: None
+Instructors: Geoff Kaufman, Susan Kravitz
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 05-888 Practicum in HCI>
+
+<start course description for 05-888 Practicum in HCI>
+Semester: Spring 2024 (aka S24)
+Course Description: All HCII graduate students on external internship should register for this course.  For PhD students, units of this course may be substituted for required units of 05-997 Reading and Research in HCI.  Activities undertaken during an internship may vary widely, but a brief report of internship activities indicating educational relevance is required for credit.
+</end course description for 05-888 Practicum in HCI>

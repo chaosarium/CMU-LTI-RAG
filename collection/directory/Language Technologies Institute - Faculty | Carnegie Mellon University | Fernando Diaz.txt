@@ -1,0 +1,6 @@
+Name: Fernando Diaz
+Title: Associate Professor
+Email diazf@cmu.edu
+Phone: 412-268-4229
+Office: 
+Interests: Information Retrieval: Recommender Systems, Retrieval and Ranking Models, Natural Language Processing: Fairness and Ethics in Language Technology, Creativity, Evaluation

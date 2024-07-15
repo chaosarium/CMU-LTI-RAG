@@ -1,0 +1,16 @@
+<start course metadata for 05-816 Applied Research Methods>
+Semester: Fall 2023 (aka F23)
+Course Name: Applied Research Methods
+Course Number: 05-816
+Department: Human-Computer Interaction
+Number of Units: 12
+Prerequisites: None
+Instructors: Paulo Carvalho
+Rooms: 3SC 172
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 05-816 Applied Research Methods>
+
+<start course description for 05-816 Applied Research Methods>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is for graduate students who will carry out research in domains such as social effects of the Internet, evaluation of interactive robots and agents, and the use of sensors for predicting user behavior in information systems. The course will be run as a lab and seminar involving hands-on practice of skills such as experimentation, web survey design, ethnographic observation, and content analysis. Students will complete a research project in the course.
+</end course description for 05-816 Applied Research Methods>

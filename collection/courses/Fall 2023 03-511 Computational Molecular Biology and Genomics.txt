@@ -1,0 +1,16 @@
+<start course metadata for 03-511 Computational Molecular Biology and Genomics>
+Semester: Fall 2023 (aka F23)
+Course Name: Computational Molecular Biology and Genomics
+Course Number: 03-511
+Department: Biological Sciences
+Number of Units: 9
+Prerequisites: (03-121 or 03-151) and (15-122)
+Instructors: M Durand
+Rooms: WEH 5409
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 03-511 Computational Molecular Biology and Genomics>
+
+<start course description for 03-511 Computational Molecular Biology and Genomics>
+Semester: Fall 2023 (aka F23)
+Course Description: An advanced introduction to computational molecular biology, using an applied algorithms approach.  This course provides an in-depth treatment of the algorithmic foundations of computational molecular biology.
+</end course description for 03-511 Computational Molecular Biology and Genomics>

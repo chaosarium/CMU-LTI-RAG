@@ -1,0 +1,16 @@
+<start course metadata for 51-267 Prototyping Lab I: Environments>
+Semester: Fall 2023 (aka F23)
+Course Name: Prototyping Lab I: Environments
+Course Number: 51-267
+Department: Design
+Number of Units: 4
+Prerequisites: 51-102
+Instructors: Daphne Firos
+Rooms: MM 211
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-267 Prototyping Lab I: Environments>
+
+<start course description for 51-267 Prototyping Lab I: Environments>
+Semester: Fall 2023 (aka F23)
+Course Description: This mini course will provide you with practical skills to aid you in the design of interactions in environments and how to communicate your ideas to others. These include low-fi prototyping, rapid making, high-fidelity scale models, digital 3D modeling, typography in space, UI/UX strategies, augmented reality (AR) prototyping, basic electronic prototyping, and the development of concept videos. Building upon what was learned in your first year, you will continue to use Adobe Photoshop and Illustrator, while also being introduced to Adobe AfterEffects, Aero, and SketchUp.   This course is a requirement for Design students who wish to study Environments during their time at SoD.
+</end course description for 51-267 Prototyping Lab I: Environments>

@@ -1,0 +1,16 @@
+<start course metadata for 94-894 AI & Emerging Economies>
+Semester: Fall 2023 (aka F23)
+Course Name: AI & Emerging Economies
+Course Number: 94-894
+Department: Heinz College Wide Courses
+Number of Units: 12
+Prerequisites: None
+Instructors: Ganesh Mani
+Rooms: CMU REMOTE
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 94-894 AI & Emerging Economies>
+
+<start course description for 94-894 AI & Emerging Economies>
+Semester: Fall 2023 (aka F23)
+Course Description: The unique course design offers students the opportunity to work in project teams with to gain a better understanding of different perspectives and approaches towards AI. AI and contemporary tools like ChatGPT, experiential learning, data, and a diverse set of case studies will help inculcate critical and creative thinking as well as novel problem-solving approaches. You will work on practical projects that apply your newfound knowledge to real-world scenarios. By the end of the course, you will have a deep understanding of the opportunities and challenges of AI in emerging economies, as well as the skills and experience necessary to work effectively in global teams. The course is multi- disciplinary and germane to budding technologists, entrepreneurs, and policy influencers. This is an opportunity not to be missed.
+</end course description for 94-894 AI & Emerging Economies>

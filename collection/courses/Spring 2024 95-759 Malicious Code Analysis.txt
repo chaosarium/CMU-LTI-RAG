@@ -1,0 +1,16 @@
+<start course metadata for 95-759 Malicious Code Analysis>
+Semester: Spring 2024 (aka S24)
+Course Name: Malicious Code Analysis
+Course Number: 95-759
+Department: Information Systems:Sch of IS & Mgt
+Number of Units: 6
+Prerequisites: None
+Instructors: Jason Batchelor
+Rooms: HBH 2009
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 95-759 Malicious Code Analysis>
+
+<start course description for 95-759 Malicious Code Analysis>
+Semester: Spring 2024 (aka S24)
+Course Description: The ability to develop well instrumented networks, policies, and processes are directly correlated to ones understanding of malicious code, such that it has become a requisite for any decision maker operating within a modern enterprise. Just as necessary is the ability to effectively consume and produce actionable intelligence on malicious code. This course aims to provide students with a deeper understanding of the various tactics, techniques, and procedures found when analyzing malware. Students will also develop an appreciation for the technical challenges presented by malware and how to employ strategic detections and mitigations to meet today's threat.
+</end course description for 95-759 Malicious Code Analysis>

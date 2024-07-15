@@ -1,0 +1,16 @@
+<start course metadata for 27-500 Metal-Environment Reactions>
+Semester: Fall 2023 (aka F23)
+Course Name: Metal-Environment Reactions
+Course Number: 27-500
+Department: Materials Science & Engineering
+Number of Units: 9
+Prerequisites: None
+Instructors: Bryan Webler
+Rooms: WEH 5421
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 27-500 Metal-Environment Reactions>
+
+<start course description for 27-500 Metal-Environment Reactions>
+Semester: Fall 2023 (aka F23)
+Course Description: Metals are fundamental materials of our civilization, used in an extremely large number of engineering applications. None of the most widely used metals are thermodynamically stable as metals under the conditions in which they are used. Consideration of how metals react in their service environments are critical for ensuring successful performance. In this class we will examine reactions at near-ambient temperature in the presence of water (corrosion) and at high temperatures in the presence of oxygen (oxidation). While fundamentally the same (the metal transforms to a stable oxide), the mechanism of these reactions are different. The applicability of this class covers a wide range of fields: structural steels, superalloys for power generation and transportation, stainless steel interconnects in fuel cells and batteries, biocompatibility of implants, to name a few. At the end of the class, students should be able to identify relevant thermodynamic and kinetic phenomena, describe the changes to microstructure and properties, and select/design appropriate materials for service in a variety of environments.
+</end course description for 27-500 Metal-Environment Reactions>

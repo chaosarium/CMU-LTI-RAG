@@ -1,0 +1,16 @@
+<start course metadata for 54-308 Movement III>
+Semester: Spring 2024 (aka S24)
+Course Name: Movement III
+Course Number: 54-308
+Department: Drama
+Number of Units: 5
+Prerequisites: 54-207 and 54-208
+Instructors: Tonya Lynn
+Rooms: PCA 306; PCA 313
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-308 Movement III>
+
+<start course description for 54-308 Movement III>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is designed to expand the student's movement skills to include the basic principles and techniques of unarmed stage combat and an introduction to weapons fighting. As a studio course, activities will consist of learning and performing physical techniques, reading materials pertaining to the subject matter, viewing filmed examples of work, and giving performance presentations.
+</end course description for 54-308 Movement III>

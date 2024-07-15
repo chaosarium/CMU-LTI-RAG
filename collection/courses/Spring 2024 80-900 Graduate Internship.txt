@@ -1,0 +1,16 @@
+<start course metadata for 80-900 Graduate Internship>
+Semester: Spring 2024 (aka S24)
+Course Name: Graduate Internship
+Course Number: 80-900
+Department: Philosophy
+Number of Units: N/A
+Prerequisites: None
+Instructors: Adam Bjorndahl
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 80-900 Graduate Internship>
+
+<start course description for 80-900 Graduate Internship>
+Semester: Spring 2024 (aka S24)
+Course Description: Internship for Philosophy Graduate Students.
+</end course description for 80-900 Graduate Internship>

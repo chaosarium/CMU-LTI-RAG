@@ -1,0 +1,16 @@
+<start course metadata for 90-812 Python Programming I>
+Semester: Spring 2024 (aka S24)
+Course Name: Python Programming I
+Course Number: 90-812
+Department: Public Policy & Mgt:Sch of Pub Pol & Mgt
+Number of Units: 6
+Prerequisites: None
+Instructors: John Ostlund
+Rooms: HBH 1002
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 90-812 Python Programming I>
+
+<start course description for 90-812 Python Programming I>
+Semester: Spring 2024 (aka S24)
+Course Description: This mini-length course focuses on the fundamentals of computer programming using the Python interpreted programming language.  Students will develop his or her problem solving skills using the divide-and-conquer and top-down approaches to build standalone software applications.  Assignments will include hands-on lab practice coding, weekly fundamental theoretical checkpoint quizzes, divide-and-conquer approach programming projects, and an examination to test essential programming and problem solving skills.  OOP (object oriented programming) will be used in this course. Learners will study how to build professional, user-friendly computer programs applicable to real-world usage in such areas as public policy and security analysis.  This course is designed for people with little or no programming knowledge.  After completing this course, if you are interested in building on your programming with Python experience, please register for 90-819 Intermediate Programming with Python.
+</end course description for 90-812 Python Programming I>

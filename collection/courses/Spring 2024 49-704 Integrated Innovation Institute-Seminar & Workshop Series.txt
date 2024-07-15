@@ -1,0 +1,16 @@
+<start course metadata for 49-704 Integrated Innovation Institute-Seminar & Workshop Series>
+Semester: Spring 2024 (aka S24)
+Course Name: Integrated Innovation Institute-Seminar & Workshop Series
+Course Number: 49-704
+Department: Integrated Innovation Institute
+Number of Units: 0
+Prerequisites: None
+Instructors: Ellen Ayoob, Emma Wooten
+Rooms: CA 115
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 49-704 Integrated Innovation Institute-Seminar & Workshop Series>
+
+<start course description for 49-704 Integrated Innovation Institute-Seminar & Workshop Series>
+Semester: Spring 2024 (aka S24)
+Course Description: The Integrated Innovation Seminar & Workshop Series meets multiple times throughout the fall and spring semester. Seminars will focus on intellectual content from industry leaders in innovation and product development. Workshops will focus on skill building in key areas for integrated innovators. This course is a requirement of the Master of Integrated Innovation for Products & Services degree. The seminar & workshop schedule for each semester will be released on the first day of classes. This course is intended for students in the MIIPS program.
+</end course description for 49-704 Integrated Innovation Institute-Seminar & Workshop Series>

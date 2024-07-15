@@ -1,0 +1,16 @@
+<start course metadata for 85-505 Readings In Psychology>
+Semester: Fall 2023 (aka F23)
+Course Name: Readings In Psychology
+Course Number: 85-505
+Department: Psychology
+Number of Units: N/A
+Prerequisites: None
+Instructors: Brian MacWhinney
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 85-505 Readings In Psychology>
+
+<start course description for 85-505 Readings In Psychology>
+Semester: Fall 2023 (aka F23)
+Course Description: As the name implies, the emphasis in the Reading course is on reading articles and books in some specified area. The students work in the course must lead to the production of a written paper which will be read by the instructor directing the readings. Often the reading is related to a research project which the student may wish to conduct. Readings courses have also been used to give students an opportunity to receive instruction in areas which are not included elsewhere in our course listing.  The course may be taken for any number of units up to 9, depending upon the amount of work to be done.
+</end course description for 85-505 Readings In Psychology>

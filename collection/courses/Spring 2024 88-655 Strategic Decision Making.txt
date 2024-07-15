@@ -1,0 +1,16 @@
+<start course metadata for 88-655 Strategic Decision Making>
+Semester: Spring 2024 (aka S24)
+Course Name: Strategic Decision Making
+Course Number: 88-655
+Department: Social & Decision Sciences
+Number of Units: 12
+Prerequisites: None
+Instructors: Russell Golman
+Rooms: PH A18B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 88-655 Strategic Decision Making>
+
+<start course description for 88-655 Strategic Decision Making>
+Semester: Spring 2024 (aka S24)
+Course Description: How do people navigate social interactions when their goals are in conflict? When should a person cooperate and when should a person pursue self-interest in an ongoing social interaction? How can a business establish strategic partnerships that create value and at the same time battle with competitors to take advantage of the value they create? Strategic decision making requires a framework to think through the implications of cooperation and of competition. This course gives you a systematic approach to understanding how people, firms, or countries interact with one another to achieve their own goals. We focus on the practical application of theory-based strategic principles and on their behavioral validity (whereas traditional game theory courses usually focus on formal modeling techniques). Readings will focus on real-life stories accompanied by a full analysis of the principles involved. The class will be organized as a seminar, centered around discussion, not lecture. Students will also be placed in the role of strategist in occasional simulations in class.
+</end course description for 88-655 Strategic Decision Making>

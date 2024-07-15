@@ -1,0 +1,16 @@
+<start course metadata for 03-391 Microbiology>
+Semester: Spring 2024 (aka S24)
+Course Name: Microbiology
+Course Number: 03-391
+Department: Biological Sciences
+Number of Units: 9
+Prerequisites: 03-231 or 03-232
+Instructors: Natalia Hiller
+Rooms: POS 151
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 03-391 Microbiology>
+
+<start course description for 03-391 Microbiology>
+Semester: Spring 2024 (aka S24)
+Course Description: The course provides introductory level microbial science and molecular biology that is aimed for students from all disciplines of natural science.  It covers microbiology, genetics, genomics, as well as bacterial, fungal, and protozoan pathogenesis. Topics include: the human microbiome, genome sequencing, gene transfer across species, virulence, and drug resistance.
+</end course description for 03-391 Microbiology>

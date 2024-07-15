@@ -1,0 +1,16 @@
+<start course metadata for 82-269 Immersive Digital Storytelling:Using VR/AR to Explore, Language Culture Identity>
+Semester: Summer Two 2024 (aka M24, M24 Mini 2, Summer 2024 Mini 2)
+Course Name: Immersive Digital Storytelling:Using VR/AR to Explore, Language Culture Identity
+Course Number: 82-269
+Department: Modern Languages
+Number of Units: 9
+Prerequisites: None
+Instructors: Gang Liu, Johannes DeYoung, Stephan Caspar
+Rooms: TEP 1024
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 82-269 Immersive Digital Storytelling:Using VR/AR to Explore, Language Culture Identity>
+
+<start course description for 82-269 Immersive Digital Storytelling:Using VR/AR to Explore, Language Culture Identity>
+Semester: Summer Two 2024 (aka M24, M24 Mini 2, Summer 2024 Mini 2)
+Course Description: In this course you will enjoy a series of remote and then in-person workshops, setting the groundwork for their own practical projects. Often perceived as a technology of tomorrow, students will be introduced to storytellers and content creators currently working with Virtual and Augmented Reality and other Immersive media m to tell stories about people, communities, cultures, and histories in compelling and engaging ways.  Using readily available smartphone apps and consumer-ready cameras and head-mounted displays, students will be able to create their own short immersive films and gain a better understanding of this important and emerging field.  You will produce your own short digital story using the technologies that we explore through this class. Your story will explore themes of identity, language, and culture, asking you to relate experiences and reflect on ways that you connect and interact with cultures around you. We will ask questions about the affordances of immersive technologies, how we can use them to tell stories of culture and how creators and artists are different themes through their work.
+</end course description for 82-269 Immersive Digital Storytelling:Using VR/AR to Explore, Language Culture Identity>

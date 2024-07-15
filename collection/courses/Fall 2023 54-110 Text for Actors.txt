@@ -1,0 +1,16 @@
+<start course metadata for 54-110 Text for Actors>
+Semester: Fall 2023 (aka F23)
+Course Name: Text for Actors
+Course Number: 54-110
+Department: Drama
+Number of Units: 2
+Prerequisites: None
+Instructors: Kyle Haden
+Rooms: PCA 103; PCA 115
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-110 Text for Actors>
+
+<start course description for 54-110 Text for Actors>
+Semester: Fall 2023 (aka F23)
+Course Description: This class is in conjunction with Acting I in the School of Drama.  The actor/director learns how to investigate the written text and translates it actively for performance.
+</end course description for 54-110 Text for Actors>

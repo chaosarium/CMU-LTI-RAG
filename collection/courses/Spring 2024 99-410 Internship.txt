@@ -1,0 +1,16 @@
+<start course metadata for 99-410 Internship>
+Semester: Spring 2024 (aka S24)
+Course Name: Internship
+Course Number: 99-410
+Department: Carnegie Mellon University-Wide Studies
+Number of Units: N/A
+Prerequisites: None
+Instructors: Dudley Reynolds, Korryn Mozisek
+Rooms: DNM DNM
+Locations: Doha, Qatar; Pittsburgh, Pennsylvania
+</end course metadata for 99-410 Internship>
+
+<start course description for 99-410 Internship>
+Semester: Spring 2024 (aka S24)
+Course Description: Internship units are given on a case-by-case basis.  Please contact Dr. Korryn Mozisek, to schedule an appointment to discuss your individual internship.      Email: kmozisek@andrew.cmu.edu
+</end course description for 99-410 Internship>

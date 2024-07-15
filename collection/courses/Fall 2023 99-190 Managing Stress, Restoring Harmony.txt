@@ -1,0 +1,16 @@
+<start course metadata for 99-190 Managing Stress, Restoring Harmony>
+Semester: Fall 2023 (aka F23)
+Course Name: Managing Stress, Restoring Harmony
+Course Number: 99-190
+Department: Carnegie Mellon University-Wide Studies
+Number of Units: 6
+Prerequisites: None
+Instructors: Lucy Delaney, Noah Riley
+Rooms: DH 1112
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 99-190 Managing Stress, Restoring Harmony>
+
+<start course description for 99-190 Managing Stress, Restoring Harmony>
+Semester: Fall 2023 (aka F23)
+Course Description: The course is designed to explore the subject of stress and how it can best be managed to achieve optimal health and wellbeing. Topics addressed will include: the environmental, mental and emotional components of stress, factors that affect the experience of stress, how stress contributes to illness, and an overview of various stress management techniques. Several lectures will be supported by Carnegie Mellon faculty and staff.
+</end course description for 99-190 Managing Stress, Restoring Harmony>

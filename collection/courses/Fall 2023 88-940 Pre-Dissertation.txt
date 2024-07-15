@@ -1,0 +1,16 @@
+<start course metadata for 88-940 Pre-Dissertation>
+Semester: Fall 2023 (aka F23)
+Course Name: Pre-Dissertation
+Course Number: 88-940
+Department: Social & Decision Sciences
+Number of Units: N/A
+Prerequisites: None
+Instructors: John Miller
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 88-940 Pre-Dissertation>
+
+<start course description for 88-940 Pre-Dissertation>
+Semester: Fall 2023 (aka F23)
+Course Description: None
+</end course description for 88-940 Pre-Dissertation>

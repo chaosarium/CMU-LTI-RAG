@@ -1,0 +1,16 @@
+<start course metadata for 80-330 Ethical Theory>
+Semester: Spring 2024 (aka S24)
+Course Name: Ethical Theory
+Course Number: 80-330
+Department: Philosophy
+Number of Units: 9
+Prerequisites: None
+Instructors: Derrick Gray
+Rooms: POS 145
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 80-330 Ethical Theory>
+
+<start course description for 80-330 Ethical Theory>
+Semester: Spring 2024 (aka S24)
+Course Description: This course provides a detailed survey of the structure of prominent theories of normative ethics. The space of possible consequentialist theories is surveyed in detail, allowing students to understand what distinguishes different forms of consequentialism and to assess the relative merits of these theories. The space of non-consequentialist theories is also surveyed, although in slightly less detail. The course engages classic texts from Aristotle, Kant and Mill and contemporary essays by leading philosophers.
+</end course description for 80-330 Ethical Theory>

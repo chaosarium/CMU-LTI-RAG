@@ -1,0 +1,16 @@
+<start course metadata for 46-882 Business Fundamentals for Analytic Professionals>
+Semester: Fall 2023 (aka F23)
+Course Name: Business Fundamentals for Analytic Professionals
+Course Number: 46-882
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: David Lamont
+Rooms: TEP 2110
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 46-882 Business Fundamentals for Analytic Professionals>
+
+<start course description for 46-882 Business Fundamentals for Analytic Professionals>
+Semester: Fall 2023 (aka F23)
+Course Description: TBA
+</end course description for 46-882 Business Fundamentals for Analytic Professionals>

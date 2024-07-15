@@ -1,0 +1,16 @@
+<start course metadata for 60-402 Senior Studio>
+Semester: Spring 2024 (aka S24)
+Course Name: Senior Studio
+Course Number: 60-402
+Department: Art
+Number of Units: 10
+Prerequisites: None
+Instructors: Clayton Merrell, Isla Hansen
+Rooms: CFA 303
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 60-402 Senior Studio>
+
+<start course description for 60-402 Senior Studio>
+Semester: Spring 2024 (aka S24)
+Course Description: Students continue a comprehensive two-semester capstone project. Each student pursues an ambitious and cohesive body of work with guidance by a team of School of Art faculty. Multimedia, multidisciplinary, and collaborative work is encouraged. Studio work is supplemented by group critiques, workshops on writing, professional presentation skills, career preparation, and technical instruction as needed.
+</end course description for 60-402 Senior Studio>

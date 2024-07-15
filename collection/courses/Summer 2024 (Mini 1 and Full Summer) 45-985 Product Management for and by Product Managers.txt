@@ -1,0 +1,16 @@
+<start course metadata for 45-985 Product Management for and by Product Managers>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Product Management for and by Product Managers
+Course Number: 45-985
+Department: Business Administration
+Number of Units: 12
+Prerequisites: None
+Instructors: Tim Derdenger
+Rooms: CMU REMOTE
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-985 Product Management for and by Product Managers>
+
+<start course description for 45-985 Product Management for and by Product Managers>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: This comprehensive MBA course serves as an essential introduction to the dynamic field of Product Management, equipping students with the foundational knowledge and skills necessary to excel in the ever-evolving business landscape. As organizations increasingly prioritize innovation and customer-centric strategies, product managers play a pivotal role in driving success.  Tailored to individuals intrigued by the convergence of technology, business, and management, this course delves into the unique challenges and responsibilities inherent in the role of a product manager. Often likened to the "CEO of the product," product managers operate at the nexus of diverse functions, steering the product from inception to market while intricately aligning product decisions with broader business objectives. Notably, they navigate this terrain without direct control over many resources essential for a product's success.  In this course, participants will gain a comprehensive understanding of the multifaceted skill set required of product managers. Proficiency in diverse capabilities is essential, and leadership is exercised through influence rather than formal authority. The curriculum provides students with insights into the pivotal role a product manager plays within an organization, shedding light on the intricacies of the position. By the course's conclusion, students will possess a robust foundation in digital product management, empowering them to comprehend the complexities of the role and its strategic significance within an organization.
+</end course description for 45-985 Product Management for and by Product Managers>

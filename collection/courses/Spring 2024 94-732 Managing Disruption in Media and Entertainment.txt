@@ -1,0 +1,16 @@
+<start course metadata for 94-732 Managing Disruption in Media and Entertainment>
+Semester: Spring 2024 (aka S24)
+Course Name: Managing Disruption in Media and Entertainment
+Course Number: 94-732
+Department: Heinz College Wide Courses
+Number of Units: 6
+Prerequisites: None
+Instructors: Michael Smith
+Rooms: HBH 2009
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 94-732 Managing Disruption in Media and Entertainment>
+
+<start course description for 94-732 Managing Disruption in Media and Entertainment>
+Semester: Spring 2024 (aka S24)
+Course Description: In this course we will analyze how cheap and powerful computers and communication networks can change both marketing practice and the structure of industries. We will analyze these issues in the context of the entertainment industries ¿ publishing, music, and movies. However, my goal is that the underlying principles will be generalizable across a variety of industries.
+</end course description for 94-732 Managing Disruption in Media and Entertainment>

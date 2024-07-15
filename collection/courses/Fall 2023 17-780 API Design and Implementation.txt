@@ -1,0 +1,16 @@
+<start course metadata for 17-780 API Design and Implementation>
+Semester: Fall 2023 (aka F23)
+Course Name: API Design and Implementation
+Course Number: 17-780
+Department: Software & Societal Systems
+Number of Units: 12
+Prerequisites: None
+Instructors: Joshua Bloch
+Rooms: GHC 4102
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 17-780 API Design and Implementation>
+
+<start course description for 17-780 API Design and Implementation>
+Semester: Fall 2023 (aka F23)
+Course Description: This class focuses on the design of programming interfaces, the APIs, within larger real-world software and ecosystems. We discuss the history and importance of APIs, and the principles behind designing good APIs. This includes study of specific examples of APIs, both good and bad, for inspiration and precaution. Students gain experience with the major steps of API design: gathering requirements, documenting, testing, implementing, refining, evolving, and reimplementing APIs. The principles taught are largely language-independent, though most examples are in Java or C. Students may be able to do assignments in other languages, within reason. Prerequisite: 17-214 or 15-213 or equivalent experience with permission of instructor.
+</end course description for 17-780 API Design and Implementation>

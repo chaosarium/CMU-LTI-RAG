@@ -1,0 +1,16 @@
+<start course metadata for 11-424 Subword Modeling>
+Semester: Spring 2024 (aka S24)
+Course Name: Subword Modeling
+Course Number: 11-424
+Department: Language Technologies Institute
+Number of Units: 12
+Prerequisites: 11-411 or 11-611 or 11-711
+Instructors: David Mortensen
+Rooms: PH 100
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 11-424 Subword Modeling>
+
+<start course description for 11-424 Subword Modeling>
+Semester: Spring 2024 (aka S24)
+Course Description: The goal of this course is to lead students to engage broadly with the existing NLP and computational linguistics research on subword modeling and develop new computational approaches to problems in morphology, orthography, and phonology. In addition to three other miniprojects, students will be expected to produce one piece of research that can be developed into a conference or workshop paper (though submission is not a course requirement). The paper should be suitable for the ¿Phonology, Morphology, and Word Segmentation¿ tracks of the *ACL conferences, the SIGMORPHON workshop, Coling, or LREC.
+</end course description for 11-424 Subword Modeling>

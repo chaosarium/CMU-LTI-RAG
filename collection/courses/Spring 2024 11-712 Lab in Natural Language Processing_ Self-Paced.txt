@@ -1,0 +1,16 @@
+<start course metadata for 11-712 Lab in Natural Language Processing: Self-Paced>
+Semester: Spring 2024 (aka S24)
+Course Name: Lab in Natural Language Processing: Self-Paced
+Course Number: 11-712
+Department: Language Technologies Institute
+Number of Units: 6
+Prerequisites: None
+Instructors: Robert Frederking
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 11-712 Lab in Natural Language Processing: Self-Paced>
+
+<start course description for 11-712 Lab in Natural Language Processing: Self-Paced>
+Semester: Spring 2024 (aka S24)
+Course Description: The Self-Paced Lab in NLP Algorithms is intended to complement the 11-711 lecture course by providing a chance for hands-on, in-depth exploration of various NLP paradigms. Students will study a set of on-line course materials and complete a set of programming assignments illustrating the concepts taught in the lecture course. Timing of individual assignments is left up to the student, although all assignments must be successfully completed and turned in before the end of the semester for the student to receive credit for the course.
+</end course description for 11-712 Lab in Natural Language Processing: Self-Paced>

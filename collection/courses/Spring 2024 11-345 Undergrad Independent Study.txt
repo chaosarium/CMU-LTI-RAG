@@ -1,0 +1,16 @@
+<start course metadata for 11-345 Undergrad Independent Study>
+Semester: Spring 2024 (aka S24)
+Course Name: Undergrad Independent Study
+Course Number: 11-345
+Department: Language Technologies Institute
+Number of Units: N/A
+Prerequisites: None
+Instructors: Daniel Fried, David Mortensen, Jamie Callan, Ronald Rosenfeld
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 11-345 Undergrad Independent Study>
+
+<start course description for 11-345 Undergrad Independent Study>
+Semester: Spring 2024 (aka S24)
+Course Description: None
+</end course description for 11-345 Undergrad Independent Study>

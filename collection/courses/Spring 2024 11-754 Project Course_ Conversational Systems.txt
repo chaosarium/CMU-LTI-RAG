@@ -1,0 +1,16 @@
+<start course metadata for 11-754 Project Course: Conversational Systems>
+Semester: Spring 2024 (aka S24)
+Course Name: Project Course: Conversational Systems
+Course Number: 11-754
+Department: Language Technologies Institute
+Number of Units: 6
+Prerequisites: None
+Instructors: Alexander Rudnicky
+Rooms: BH 154A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 11-754 Project Course: Conversational Systems>
+
+<start course description for 11-754 Project Course: Conversational Systems>
+Semester: Spring 2024 (aka S24)
+Course Description: This course will teach participants how to implement a complete spoken language system while providing opportunities to explore research topics of interest in the context of a functioning system. The course will produce a complete implementation of a system to access and manipulate email through voice only, for example to allow users to interact with the mail system over a telephone while away from their computer. In doing so the class will address the component activities of spoken language system building. These include, but are not limited to, task analysis and language design, application-specific acoustic and language modeling, grammar design, task design, dialog management, language generation and synthesis. The course will place particular emphasis on issues in task design and dialog management and on issues in language generation and synthesis.     For Fall, we will implement a simple telephone-based information access application. The domain is bus schedules (see http://www.speech.cs.cmu.edu/BusLine for a web-based interface to this domain) and the goal will be to create one or more usable applications that can provide a real service and can be deployed for actual use by the University community. Participants will chose individual components of the system to concentrate on and will collaborate to put together the entire system. It is perfectly acceptable for several individuals to concentrate on a single component, particularly if their work will exemplify alternative approaches to the same problem.
+</end course description for 11-754 Project Course: Conversational Systems>

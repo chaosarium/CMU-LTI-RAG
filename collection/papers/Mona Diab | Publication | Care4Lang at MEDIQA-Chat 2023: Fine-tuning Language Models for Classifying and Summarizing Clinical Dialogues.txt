@@ -1,0 +1,6 @@
+publication venue: Clinical Natural Language Processing Workshop
+title: Care4Lang at MEDIQA-Chat 2023: Fine-tuning Language Models for Classifying and Summarizing Clinical Dialogues
+authors: Amal AlQahtani, R. Salama, Mona T. Diab, Abdou Youssef
+year: 2023
+tldr: This paper presents their submission to this task using fine-tuned language models, including T5, BART and BioGPT models, and finds Flan-T5 achieved the highest aggregated score for dialogue summarization.
+abstract: Summarizing medical conversations is one of the tasks proposed by MEDIQA-Chat to promote research on automatic clinical note generation from doctor-patient conversations. In this paper, we present our submission to this task using fine-tuned language models, including T5, BART and BioGPT models. The fine-tuned models are evaluated using ensemble metrics including ROUGE, BERTScore andBLEURT. Among the fine-tuned models, Flan-T5 achieved the highest aggregated score for dialogue summarization.

@@ -1,0 +1,16 @@
+<start course metadata for 49-772 Software Engineering Management>
+Semester: Fall 2023 (aka F23)
+Course Name: Software Engineering Management
+Course Number: 49-772
+Department: Integrated Innovation Institute
+Number of Units: 6
+Prerequisites: None
+Instructors: Fang Fang
+Rooms: B23 212; B23 227
+Locations: San Jose, California
+</end course metadata for 49-772 Software Engineering Management>
+
+<start course description for 49-772 Software Engineering Management>
+Semester: Fall 2023 (aka F23)
+Course Description: In this course, you will learn the software engineering paradigms that are widely adopted in modern software industry. You will be introduced to the Software Development Life Cycles (SDLC) and its supporting process and tools in each stage. Through team based projects, you will gain firsthand experience on best practices in the art of collaboration and software engineering management.  In a high-performing team environment, you will be able to build cloud based mobile applications through iterative process of requirements definition, architecture design, implementation, integration, testing, measurement and deployment. If you have already taken 18-652, Foundations in Software Engineering, you are not eligible to register for this course. Note: enrollment into this course is reserved for incoming Master of Science in Software Management Students.
+</end course description for 49-772 Software Engineering Management>

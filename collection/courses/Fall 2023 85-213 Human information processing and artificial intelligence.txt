@@ -1,0 +1,16 @@
+<start course metadata for 85-213 Human information processing and artificial intelligence>
+Semester: Fall 2023 (aka F23)
+Course Name: Human information processing and artificial intelligence
+Course Number: 85-213
+Department: Psychology
+Number of Units: 9
+Prerequisites: 15-122 or 15-150
+Instructors: John Anderson
+Rooms: GHC 4301
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 85-213 Human information processing and artificial intelligence>
+
+<start course description for 85-213 Human information processing and artificial intelligence>
+Semester: Fall 2023 (aka F23)
+Course Description: This course will review the information-processing challenges that humans face. We will discuss how these challenges are dealt with in the domains of attention, perception, memory, problem solving, reasoning, decision-making, and language.   We will compare and contrast how these challenges are dealt with by humans and artificial intelligence applications.  The course will include a number of programming projects that try to solve specific information-processing demands that occur in particular tasks and simulate human information processing. Student must have taken or currently be taking 15-122 or 15-150.  If you will be taking 15-122 or 15-150 as a co req for this course, please contact Emilie O'Leary emilier@andrew.cmu.edu to be registered.
+</end course description for 85-213 Human information processing and artificial intelligence>

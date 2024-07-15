@@ -1,0 +1,16 @@
+<start course metadata for 14-315 Innovation in Building AI-Products>
+Semester: Spring 2024 (aka S24)
+Course Name: Innovation in Building AI-Products
+Course Number: 14-315
+Department: Information Networking Institute
+Number of Units: 3
+Prerequisites: None
+Instructors: Mohamed Farag
+Rooms: CMB 1030
+Locations: Doha, Qatar
+</end course metadata for 14-315 Innovation in Building AI-Products>
+
+<start course description for 14-315 Innovation in Building AI-Products>
+Semester: Spring 2024 (aka S24)
+Course Description: Innovation is a key element for technological entrepreneurship. Adopting Artificial Intelligence has much more to it than learning the technical aspects. In this course, we cover the basics of building AI-products and adopting Artificial Intelligence into an organization. This course is targeted to undergraduate students with interest in learning the innovation and entrepreneurship skills. Topics covered will include: understanding the principles of innovation, understanding AI-business models, defining the value proposition and user benefit of AI-products, building the AI team, and scaling-up the business. Emphasis will be on team projects. At the end of this course, students are expected to: ¿ learn the principles of innovation; ¿ understand the components of the entrepreneurship competency model and leverage it to building a successful AI-product; ¿ obtain the skillset to innovate and adopt Artificial Intelligence; ¿ apply entrepreneurial strategies in building AI-systems; ¿ understand the practices needed to grow your AI-product; and ¿ obtain self-evaluation for career direction.
+</end course description for 14-315 Innovation in Building AI-Products>

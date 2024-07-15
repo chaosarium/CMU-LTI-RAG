@@ -1,0 +1,16 @@
+<start course metadata for 16-211 Foundational Mathematics of Robotics>
+Semester: Fall 2023 (aka F23)
+Course Name: Foundational Mathematics of Robotics
+Course Number: 16-211
+Department: Robotics
+Number of Units: 12
+Prerequisites: (21-122) and (21-241)
+Instructors: George Kantor, Jeff Ichnowski
+Rooms: NSH 1305
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 16-211 Foundational Mathematics of Robotics>
+
+<start course description for 16-211 Foundational Mathematics of Robotics>
+Semester: Fall 2023 (aka F23)
+Course Description: This course will cover core mathematics concepts used in many advanced robotics courses at the RI.  Perhaps unlike prior courses in math, the focus of this class will be to ground concepts in robotics algorithms or applications.  For example:  How to move and manipulate objects in 3D space (coordinate transforms, rotations).  How to move an articulated robots end-effector in Cartesian space (Jacobians, gradient optimization).  How to have a robot learn to recognize a vision input (neural networks, back propagation).  How to plan navigate a robot optimally (dynamic programming, A* Search).
+</end course description for 16-211 Foundational Mathematics of Robotics>

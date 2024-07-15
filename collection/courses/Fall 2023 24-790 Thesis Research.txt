@@ -1,0 +1,16 @@
+<start course metadata for 24-790 Thesis Research>
+Semester: Fall 2023 (aka F23)
+Course Name: Thesis Research
+Course Number: 24-790
+Department: Mechanical Engineering
+Number of Units: N/A
+Prerequisites: None
+Instructors: Chris Hertz
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-790 Thesis Research>
+
+<start course description for 24-790 Thesis Research>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is designed to give students enrolled in the Ph.D. program an opportunity to conduct extensive research over the course of their studies. Variable hrs.
+</end course description for 24-790 Thesis Research>

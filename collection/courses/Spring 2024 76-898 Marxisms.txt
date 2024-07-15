@@ -1,0 +1,16 @@
+<start course metadata for 76-898 Marxisms>
+Semester: Spring 2024 (aka S24)
+Course Name: Marxisms
+Course Number: 76-898
+Department: English
+Number of Units: 6
+Prerequisites: None
+Instructors: Jeffrey Williams
+Rooms: BH 255B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 76-898 Marxisms>
+
+<start course description for 76-898 Marxisms>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is meant to introduce students to basic concepts in Marxist theory, such as the mode of production, base and superstructure, historical materialism, alienation, and ideology from Marx and Engels, through amendments such as Lukacs' concept of reification, Gramsci's of hegemony, Raymond Williams's of cultural materilism, and Althusser's of ideological apparatuses. It will also look at some contemporary revisions of Marxism, for instance the concept of racial capitalism and affective labor.
+</end course description for 76-898 Marxisms>

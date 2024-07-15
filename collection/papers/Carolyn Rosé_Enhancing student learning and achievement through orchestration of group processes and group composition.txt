@@ -1,0 +1,5 @@
+publication venue: International Journal of Computer-Supported Collaborative Learning
+title: Enhancing student learning and achievement through orchestration of group processes and group composition
+year: 2023
+tldr: This September issue of the International Journal of Computer-Supported Collaborative Learning reflects on the importance of productive collaborative processes, with an emphasis on feedback processes, and the scaffolding that upholds and promotes productive learning processes, whether it is explicit or implicit.
+authors: Carolyn P. Rosé, Sanna Järvelä

@@ -1,0 +1,16 @@
+<start course metadata for 54-267 Conceptual Sound Design>
+Semester: Fall 2023 (aka F23)
+Course Name: Conceptual Sound Design
+Course Number: 54-267
+Department: Drama
+Number of Units: 9
+Prerequisites: 54-166
+Instructors: Joe Pino
+Rooms: PCA 210
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-267 Conceptual Sound Design>
+
+<start course description for 54-267 Conceptual Sound Design>
+Semester: Fall 2023 (aka F23)
+Course Description: Students explore the unique qualities of audio as a design element and the development of a design process through script analysis.  Emphasis on the creative application and utilization of the studio in sound shaping and  soundscape design.   PREREQUISITE: 54-166 Introduction To Sound Design for Theater, 54-231 Design For The Stage. Drama majors have priority, however this course is also open to Music Technology majors and minors, or with permission of instructor.
+</end course description for 54-267 Conceptual Sound Design>

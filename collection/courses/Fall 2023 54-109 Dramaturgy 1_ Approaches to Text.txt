@@ -1,0 +1,16 @@
+<start course metadata for 54-109 Dramaturgy 1: Approaches to Text>
+Semester: Fall 2023 (aka F23)
+Course Name: Dramaturgy 1: Approaches to Text
+Course Number: 54-109
+Department: Drama
+Number of Units: 9
+Prerequisites: None
+Instructors: W. Arons
+Rooms: PCA 231
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-109 Dramaturgy 1: Approaches to Text>
+
+<start course description for 54-109 Dramaturgy 1: Approaches to Text>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is an introduction to dramaturgical analysis of a play; the goal of this course is to provide students with a number of text analysis "tools" to use in understanding plays for production.
+</end course description for 54-109 Dramaturgy 1: Approaches to Text>

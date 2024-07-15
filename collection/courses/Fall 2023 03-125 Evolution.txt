@@ -1,0 +1,16 @@
+<start course metadata for 03-125 Evolution>
+Semester: Fall 2023 (aka F23)
+Course Name: Evolution
+Course Number: 03-125
+Department: Biological Sciences
+Number of Units: 9
+Prerequisites: None
+Instructors: Amber Laperuta, Mohamed Bouaouina, Veronica Hinman
+Rooms: CMB 2052; WEH 7500
+Locations: Doha, Qatar; Pittsburgh, Pennsylvania
+</end course metadata for 03-125 Evolution>
+
+<start course description for 03-125 Evolution>
+Semester: Fall 2023 (aka F23)
+Course Description: Evolutionary theory is the unifying principle of biology.  A good comprehension of the concepts that underlie this theory is therefore important to properly appreciate and understand any biological process. This course is designed for students intending to continue studies in biology so that they may gain an understanding of the evolutionary framework in their more advanced courses, and also non-biology majors who want to extend their knowledge of biology at an introductory level.  The lectures will include (i) an examination of the history and development of evolutionary theory, (ii) consideration of some of the facts that have established the theory, (iii) an introduction to the concepts of phylogenetics, (iv) discussion of the patterns and mechanism that lead to the diversity and origins of the groups of life, (v) an introduction to genetics and population genetic theory, and (vi) discussion of and how this applies to natural selection and speciation.  The course will also include some more specialist topics, including evolution of development, sexual selection, evolutionary applications to medicine and conservation biology, and genome evolution.  Assessment will be based on several in-class exams and quizzes, homework assignments, a written term paper, and a final exam.
+</end course description for 03-125 Evolution>

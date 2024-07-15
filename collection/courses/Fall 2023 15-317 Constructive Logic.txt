@@ -1,0 +1,16 @@
+<start course metadata for 15-317 Constructive Logic>
+Semester: Fall 2023 (aka F23)
+Course Name: Constructive Logic
+Course Number: 15-317
+Department: Computer Science
+Number of Units: 9
+Prerequisites: 15-150
+Instructors: Karl Crary
+Rooms: DH 2315
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-317 Constructive Logic>
+
+<start course description for 15-317 Constructive Logic>
+Semester: Fall 2023 (aka F23)
+Course Description: This multidisciplinary junior-level course is designed to provide a thorough introduction to modern constructive logic, its roots in philosophy, its numerous applications in computer science, and its mathematical properties. Some of the topics to be covered are intuitionistic logic, inductive definitions, functional programming, type theory, realizability, connections between classical and constructive logic, decidable classes.
+</end course description for 15-317 Constructive Logic>

@@ -1,0 +1,16 @@
+<start course metadata for 36-705 Intermediate Statistics>
+Semester: Fall 2023 (aka F23)
+Course Name: Intermediate Statistics
+Course Number: 36-705
+Department: Statistics and Data Science
+Number of Units: 12
+Prerequisites: None
+Instructors: Sivaraman Balakrishnan
+Rooms: POS A35
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 36-705 Intermediate Statistics>
+
+<start course description for 36-705 Intermediate Statistics>
+Semester: Fall 2023 (aka F23)
+Course Description: This course covers the fundamentals of theoretical statistics. Topics  include: probability inequalities, point and interval estimation, minimax theory, hypothesis testing, data reduction, convergence concepts, Bayesian inference, nonparametric statistics, bootstrap resampling, VC dimension, prediction and model selection.  This course is primarily for PhD students in Statistics & Data Science, Machine Learning, and Computer Science; it requires an appropriate background for entering those programs.
+</end course description for 36-705 Intermediate Statistics>

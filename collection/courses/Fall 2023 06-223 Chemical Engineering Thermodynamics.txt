@@ -1,0 +1,16 @@
+<start course metadata for 06-223 Chemical Engineering Thermodynamics>
+Semester: Fall 2023 (aka F23)
+Course Name: Chemical Engineering Thermodynamics
+Course Number: 06-223
+Department: Chemical Engineering
+Number of Units: 12
+Prerequisites: (06-100) and (33-141 or 33-151 or 33-121)
+Instructors: Robert Tilton
+Rooms: DH 1212
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 06-223 Chemical Engineering Thermodynamics>
+
+<start course description for 06-223 Chemical Engineering Thermodynamics>
+Semester: Fall 2023 (aka F23)
+Course Description: This course introduces students to thermodynamic state variables and the analysis of phase and chemical equilibrium in single- and multi-component chemical systems.  Key topics include application of mass, energy and entropy balance equations to analyze processes with change of state and interconversion of energy between heat and work in open or closed systems; state property changes associated with phase change; equations of state to represent the pressure-volume-temperature relationship for pure materials and mixtures; Gibbs phase rule; phase equilibrium criteria; ideal and non-ideal mixtures; fugacity and prediction of pure liquid vapor pressure; fugacity and activity coefficients to predict multi-component vapor-liquid and liquid-liquid phase equilibrium; analysis of flash and other processes involving multi-component phase change; equilibrium constants and equilibrium conversions in chemically reacting systems.
+</end course description for 06-223 Chemical Engineering Thermodynamics>

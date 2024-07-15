@@ -1,0 +1,16 @@
+<start course metadata for 36-470 Special Topics: Statistical Methods in Health Sciences>
+Semester: Spring 2024 (aka S24)
+Course Name: Special Topics: Statistical Methods in Health Sciences
+Course Number: 36-470
+Department: Statistics and Data Science
+Number of Units: 9
+Prerequisites: 36-401
+Instructors: Weijing Tang
+Rooms: DH A302
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 36-470 Special Topics: Statistical Methods in Health Sciences>
+
+<start course description for 36-470 Special Topics: Statistical Methods in Health Sciences>
+Semester: Spring 2024 (aka S24)
+Course Description: As the volume of health and clinical data continues to expand, the integration of statistical and machine learning methods becomes increasingly important for enhancing healthcare efficiency. However, there are challenges in modeling health data, for example, annotated data is often limited or subject to incompleteness. In this course, we will introduce statistical methods that address these challenges, including survival analysis, latent variable models, clustering, semi-supervised learning, and so on. An emphasis will put on understanding methodological foundations and how to appropriately apply methods to health data. Through homework assignments, labs, paper presentations, and a final project, students will gain hands-on-experience in applying statistical methods to solve problems arising from health sciences.
+</end course description for 36-470 Special Topics: Statistical Methods in Health Sciences>

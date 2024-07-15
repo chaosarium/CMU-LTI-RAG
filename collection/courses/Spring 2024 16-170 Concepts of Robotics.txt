@@ -1,0 +1,16 @@
+<start course metadata for 16-170 Concepts of Robotics>
+Semester: Spring 2024 (aka S24)
+Course Name: Concepts of Robotics
+Course Number: 16-170
+Department: Robotics
+Number of Units: 5
+Prerequisites: 15-112
+Instructors: George Kantor
+Rooms: WEH 2302
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 16-170 Concepts of Robotics>
+
+<start course description for 16-170 Concepts of Robotics>
+Semester: Spring 2024 (aka S24)
+Course Description: The course will introduce students to the main foundational concepts and techniques used in robotics including perception, cognition, and action. Concepts will be grounded in a range of real-world robotic systems to highlight the use of common robotics components such as sensor selection, sensor processing and fusion, path planning algorithms, mechanism design, reasoning about interactions with the environment, and systems integration. Applications of robotics will be discussed along with methods for mapping application requirements to design choices for robotic systems. Students will also be introduced to ethical issues surrounding robotics, including considerations around potential future of uses of robotics technologies. The course will contain programming and written assignments designed to give students a feel for the practical aspects of robot sensing, planning, and actuation.
+</end course description for 16-170 Concepts of Robotics>

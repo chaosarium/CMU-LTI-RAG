@@ -1,0 +1,16 @@
+<start course metadata for 57-987 Advanced Music Studies Studio (Orchestral): Voice>
+Semester: Spring 2024 (aka S24)
+Course Name: Advanced Music Studies Studio (Orchestral): Voice
+Course Number: 57-987
+Department: Music
+Number of Units: 18
+Prerequisites: None
+Instructors: Alberto Almarza, Alexandra Gruber, Andres Cardenes, Andrew Carlisle, Angela Park, Anne Williams, Christopher Allen, Christopher Wu, Craig Knox, Cynthia Dealmeida, Daniel Teadt, David Harding, Frederic Chiu, George Vosburgh, Gretchen Van Hoesen, Instructor TBA, Jack Howell, James Houlik, Jason Kush, Jeffrey Dee, Jennifer Aylmer, Jeremy Branson, Jocelyn Dueck, John Marcinizyn, Katherine Pukinskis, Katherine Shields, Lance Laduke, Lorna McGhee, Luz Manriquez, Maria Spacagna, Mark Carver, Micah Howard, Michael Rusinek, Monique Mead, Nancy Galbraith, Nancy Goeres, Neal Berntsen, Paul Evans, Peter Sullivan, R. James Whipple, Rebecca Cherian, Sergey Schepkin, Stephen Kostyniak, Sung-Im Kim, William Caballero, William van der Sloot
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-987 Advanced Music Studies Studio (Orchestral): Voice>
+
+<start course description for 57-987 Advanced Music Studies Studio (Orchestral): Voice>
+Semester: Spring 2024 (aka S24)
+Course Description: TBA
+</end course description for 57-987 Advanced Music Studies Studio (Orchestral): Voice>

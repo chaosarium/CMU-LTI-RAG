@@ -1,0 +1,16 @@
+<start course metadata for 17-994 Societal Computing Practicum>
+Semester: Fall 2023 (aka F23)
+Course Name: Societal Computing Practicum
+Course Number: 17-994
+Department: Software & Societal Systems
+Number of Units: 9
+Prerequisites: None
+Instructors: Nicolas Christin
+Rooms: PH A19C
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 17-994 Societal Computing Practicum>
+
+<start course description for 17-994 Societal Computing Practicum>
+Semester: Fall 2023 (aka F23)
+Course Description: Purpose: The Practicum will fulfill its dual functions of providing an essential introduction to the discipline of Societal Computing as practiced at CMU, and to build some of the sklls that all graduate students need as they transition from an undergraduate to a graduate student mind set. Practicum Syllabus: Societal Computing Topics Literature review. Write a literature review, working with advisor to pick topic and identify research questions. Writing includes critiquing papers being synthesized in the review. This is intended to be a ¿short form¿ literature review of approximately 2-4 pages, of the sort that typically introduces a conference paper. What makes good interdisciplinary research? While each research group focuses continuously on this topic, the practicum will provide a broader view, e.g., by inviting a senior researcher from ISR or SCS to share reflections on their own research strategies, key choices they made in their careers, and advice they can offer budding researchers. What is SC about? Hear from and interact with SC faculty members to see the breadth of research topics, methods, and policy concerns within SC.
+</end course description for 17-994 Societal Computing Practicum>

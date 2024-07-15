@@ -1,0 +1,16 @@
+<start course metadata for 48-759 Value Based Design Introduction>
+Semester: Spring 2024 (aka S24)
+Course Name: Value Based Design Introduction
+Course Number: 48-759
+Department: Architecture
+Number of Units: N/A
+Prerequisites: None
+Instructors: William Bates
+Rooms: MM 409
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-759 Value Based Design Introduction>
+
+<start course description for 48-759 Value Based Design Introduction>
+Semester: Spring 2024 (aka S24)
+Course Description: This course will teach students the importance of Value Based Design across all project types & delivery methods. The student will receive a firm grasp on the roles of each project stakeholder in a range of small to large construction projects.
+</end course description for 48-759 Value Based Design Introduction>

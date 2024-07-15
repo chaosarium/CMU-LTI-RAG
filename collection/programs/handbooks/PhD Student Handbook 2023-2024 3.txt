@@ -1,0 +1,256 @@
+PhD_Student_Handbook_2023-2024
+4 Ph.D.  Academic Policies  
+4.1 Duration of Study  
+The target duration of the LTI Ph.D.  is five years, although six years is also common.  
+Carnegie Mellon graduate students are expected to complete their degree requirements within the standard length of time for their program of study as outlined in this Graduate Student Handbook. Upon completion of the graduate program degree requirements, the degree will be certified by the student’s academic program in the semester in which the student completes the 
+requirements.  
+Early Completion  
+The Ph.D. is granted when  all degree requirements are satisfied. Some students complete the 
+program in fewer than five years.  
+LTI Ph.D.  Graduate Student Handbook  Page 24 
+ Extended or Longer- than -Standard Competition  
+Longer- than -standard degree completion may occur due to academic interruptions in making 
+progress toward the d egree as defined by the academic program, interruptions of full -time study 
+or progress towards the degree due to serious, documented medical issues, or other unusual or 
+unforeseen circumstances.  
+Doctoral students who require an extended period to complete their degree requirements must consult with their academic program and  are subject to the CMU Policy on Doctoral Student 
+Status (https://www.cmu.edu/policies/student -and-student -life/doctoral -student -status.html), 
+specifically the “Time to Degree. ” 
+4.1.1 Departm ent Policy on Double Counting Courses  
+An LTI Ph.D.  student who uses courses taken as a M aster ’s degree student (at Carnegie Mellon 
+or elsewhere) toward their program requirements cannot use those same courses toward any 
+other Master’s degree offered by the school . The LTI (like other SCS units) allows its Ph.D.  
+students who have passed the requirements for an LTI Master’s degree to receive the master’s  
+degree without any additional work. Any other sharing of coursework by an LTI student between 
+more than on e CMU degree (e.g., receiving an MLD Master’s  degree that includes courses taken 
+as an LTI Ph.D.  student) must be explicitly approved by the LTI, on a case -by-case basis, in 
+advance.  
+4.1.2 External Internships  
+The LTI provides summer support for its Ph.D.  students, so Ph.D. students are expected to do 
+research at Carnegie Mellon during the summer. However, outside experience can be a valuable 
+educational experience, Ph.D. students in good standing  are allowed to do an e xternal internship. 
+Some  students may  benefit from more than one internship, especially if they require access to 
+proprietary data for their work, thus , with the approval of the student’s advisor, a student can intern up 
+to four (4) times during their Ph.D. degree. Interning more than four ( 4) times requires approval 
+from the Ph.D. P rogram Director.  
+Any internship must be planned in consultation with the student’s advisor and the LTI Ph.D.  
+Coordinator. If an internship is part of a fully -funded external fellowship (e.g., Microsoft Research 
+Fellowship), the student does not need prior LTI approval, but should still coordinate with their 
+advisor. International students must consult with Office of International Education (OIE) for eligibility before seeking an internship or signing an offer contract.  
+Internships are typically scheduled during the summer. In certain cases,  it is possible to schedule 
+an internship during the fall or spring semester; the details are complex, especially for international students, so the student should discuss this as early as possible with the Ph.D. 
+Program Director . International students must coordinate carefully with the LTI in any event, due 
+to visa restrictions.  
+LTI Ph.D.  Graduate Student Handbook  Page 25 
+ Note that self- funded Ph.D.  students (e.g., those registered for five units while on semester 
+interns hip) are not permitted to receive a partial stipend for the semester of their internship, while 
+full- time LTI -sponsored students are eligible for a partial stipend.  
+All students are caution ed to be aware of potential intellectual property (IP) problems with 
+internships, and to review any IP agreements with their advisors before signing them. It is possible 
+to lose ownership of your ideas.  
+If the student is to receive academic credit for the internship,  it must have deliverables from the 
+student commensurate with the number of units,  they are taking. This can be in the form of 
+interim and final reports on the experience, presentations in the following semester regarding the experience, assessments of their experience as it relates to their course of study, etc.  
+4.1.3 Maximum Courseload  
+Ph.D.  students are permitted to register for a maximum of 54  units of coursework per semester.  
+4.1.4 Pass/Fail Grades  
+Pass/fail grades are not permitted for courses used to satisfy a degree requirement.  
+Graduate students who are required to take additional undergraduate courses to build up the core 
+foundations of computer science may not elect the pass/fail option for th ese courses.  
+4.1.5 Transfer Credit  
+An equivalent graduate course previously completed at another institution may be permitted to 
+satisfy one of the Ph.D.  course requirements. The decision on whether a course may be transferred 
+is made by the Ph.D.  Program Direct or.  
+Typically,  the student will provide the Program Director with the syllabus of the external course, 
+and the Program Director will use that and the student’s transcript to make the decision.  
+See the section on “Definition of transfer credit versus cour se exemption .” 
+A student may not receive transfer credit for more than four courses.  
+4.1.6 Residency Requirements  
+The university requires Ph.D. s to spend at least one year of residency at Carnegie Mellon.  
+The SCS requires that all Ph.D.  students must take at Carnegie Mellon a minimum of 48  units of 
+the total coursework required by their respective programs. 
+LTI Ph.D.  Graduate Student Handbook  Page 26 
+ 4.1.7 Transferring Into the Ph.D.  Program  
+The LTI does not allow direct transfers from its master’s programs into its Ph.D.  program . The 
+student must apply for the Ph.D.  at the usual time . However, students that are already enrolled in 
+an LTI degree program are not required to retake GRE and TOEFL exams or to produce new 
+transcripts from other universities.  
+4.1.8 Transferring Out of the Ph.D.  Program  
+The Ph.D.  program doe s not prevent students from transferring to another degree program . A 
+student who is interested in transferring out of the Ph.D.  degree program should consult the 
+handbook and Program Director of the desired degree program to learn whether transfers are permitted, and if so, how, and when to request such a transfer.  
+4.2 LTI Academic Policies  
+4.2.1 “Grandfather” Policy  
+A student can graduate under the policies in effect at the time that the student entered the 
+program; or, at the student's choice, the student can graduate under policies that are adopted after 
+the student entered the program. If it is not realistic to follow a particular policy  exactly, the 
+department may approximate the policy as closely as possible; this situation is rare and typically arises only when a student is enrolled in the program for an extended period of time.  
+4.2.2 Definition of Transfer Credit  vs. Course Exemption  
+The LT I may grant transfer credit  or issue an exemption for equivalent graduate courses previously 
+completed at another institution. This decision rests with the director  of the particular program.  
+If a student is exempt  from a required course due to prior cour ses or experience, the student can 
+replace that course with an open elective. The student does not receive credit for the external course but  can take any course that could normally count toward the degree in its place.  
+If a student receives credit  for pr ior coursework completed at CMU or elsewhere, the student 
+receives that many units of credit, and the total amount of required coursework is reduced by that 
+amount.  
+4.2.3 External Employment/Consulting  
+Students funded by LTI research projects are expected to wor k primarily for those projects. Since 
+consulting provides useful experience, students are generally permitted to consult at most one 
+day per seven- day week, with the advisor's consent . International students must also have 
+approval in advance from the Office of International Education (OIE) ; otherwise, they may be in 
+violation of their visa status. See also External Internships.  
+LTI Ph.D.  Graduate Student Handbook  Page 27 
+ 4.2.4  Leave of Absence  
+The LTI discourages Leaves of Absence (LOA), since students usually do not return, despite good 
+intentions. However, a student in good standing may be granted a LOA of at most 1 year, upon written request to the Ph.D. Program Director and with consent of t he student's advisor. It is the 
+responsibility of the student on LOA to contact the LTI to initiate a return to the program.  
+Students taking or returning from a leave of absence must follow the university’s 
+leave of absence 
+process.  
+4.2.5 Satisfactory Progress  
+If a student does not make satisfactory progress each semester toward completing the degree, the  
+LTI may remove the m from the program . See section on “End of Semester Evaluation .” 
+4.2.6 Time Away from Academic Responsibilities  
+Ph.D. s tudents that are supported by sponsored research, fellowships, or scholarships are 
+expected to remain on campus and work fu lltime on their education and research throughout the 
+year, regardless of whether classes are in session or not. 40 hours per week is a common level of 
+effort.  
+Ordinarily, students are not expected to work during official university holidays , however 
+students may need to consult their advisor about expectations and alternate arrangements if there 
+are challenges with taking time off during a university holiday, for example, if an experiment requires continuous monitoring. In such situations, the student and their advisor may agree for 
+the student to take an equal number of days off at another time. 
+Students with fulltime financial support are entitled to four weeks per  year of paid vacation , 
+which must be scheduled in consultation with the ir advisor . 
+4.3 CMU Academic Policies  
+4.3.1 Drop/Add/Withdraw Procedures  
+Add, drop, withdrawals, and pass/no pass election procedures and deadlines are described on a 
+Hub web page . Note that the deadlines for doctoral courses may differ slightly; see the deadlines 
+for doctoral course sections in the Academic Calendar .  
+Doctoral students, visiting/non -degree students, and certificate students do not receive vouchers 
+and do not participate in the voucher process.  
+LTI Ph.D.  Graduate Student Handbook  Page 28 
+ 4.3.2 Doctoral Student Status 
+Carnegie Mellon’s Policy for Doctoral Student Status  covers time limits on doctoral degree 
+student status, a defi nition of All But Dissertation status, a definition of In Residence (ABD) and In 
+Absentia  (ABS) status for doctoral students and the tuition and fees charged for students In 
+Residence and students In Absentia . 
+4.3.3 ABD versus ABD in Absentia (ABS)  
+Following university policy, an LTI Ph.D.  student is considered "All -But-Dissertation" (ABD) 
+when they have completed all requirements for the LTI's Ph.D.  degree except for the thesis defense 
+(in particular, the student has had a thesis proposal accepted). Note that ABD status is different 
+from ABD in absentia (ABS) status. A student in ABS status cannot receive any support from the university (including an y research projects within the university), cannot use most university 
+facilities, and does not pay any tuition until they are ready to defend their thesis. ABS students must register for five (5) units of dissertation research in the semester they defend;  in keeping 
+with university policy, the LTI (and its projects and faculty) cannot pay for these five units. The 
+student can (and should) register for these five units only after they defend; just in case the defense 
+date slips to the next semester.  
+Student s entering ABD or ABS status must complete the All But Dissertations Status Agreement
+. 
+4.3.4 Statute of Limitations: Time to Degree  
+As outlined in the Doctoral Student Status Policy , students will complete all requirements for the 
+Ph.D. degree within a maximum of ten years from original matriculation as a doctoral student, or less if required by a more restrictive department or college policy. Once this time -to-degree limit 
+has lapsed, the person may resume work towards a doctoral degree only if newly admitted to a currently offered doctoral degree program under criteria determined by that program. Under extraordinary circumstances, such as leave of absence, military or public service, family or parental leave, or temporary disability, a school or college may, upon the relevant departmen t's 
+recommendation and with the written approval of the dean, defer the lapse of All But Dissertation status for a period commensurate with the duration of that interruption. Students, who are pursuing the Ph.D. degree as part- time students for all semesters of their program, as approved by 
+their program, may also appeal to their program or department for extension of the time to degree limit.  
+Under extraordinary circumstances, such as leave of absence, military or public service, family or parental leave, or temporary disability, a school or college may, upon the relevant department’s 
+recommendation and with the written approval of the dean, defer the lapse of All But Dissertation status for a period commensurate with the duration of that interruption.  
+ Students, who are pursuing the Ph.D. degree as part- time students for all semesters of their 
+program, as approved by their program, may also appeal to their program or department for 
+extension of the time to degree limit.  
+4.3.5 University  Financial Aid  
+Graduate  students should consult the graduate student financial aid information  found on The 
+HUB website.  Students will find the Graduate Financial Aid Guide, information about funding options and how to apply for financial aid and other helpful links.  
+4.3.6 Assistance for Individuals with Disabilities  
+The Office of Disability Resources at Carnegie Mellon University has a continued mission to 
+provide physical, digital, and programmatic access to ensure that students with disabilities have 
+equal access to their educational experience. We work to ensure that qualified individuals receive reasonable accommodations as guaranteed by the Americans with Disabilities Act (ADA) and Section 504 of the Rehabilitation Act of 1973. Students who would like to receive accommodations can begin the process through Disability Resources'
+ secu re online portal 
+(https://rainier.accessiblelearning.com/cmu/ ) or email access@andrew.cmu.edu  to begin the 
+interactive accommodation process. Students with physical, sensory, cognitive, or emotional disabilities are encouraged to self -identify with the Office of Disability Resources and request 
+needed accommodations. Any questions about the process can be directed to 
+access@andrew.cmu.edu  , or call (412) 268 -6121.   
+4.3.7 Summary of Graduate Student Appeal and Grievance Procedures  
+Graduate students will find the Summary of Graduate Student Appeal and Grievance Procedures  
+on the Graduate Education Resource webpage.  This document summarizes processes available to 
+graduate students who seek review of academic and non -academic issues. Generally, graduate 
+students are expected to seek informal resolution of all concerns within the applicable department, unit, or program before invok ing formal processes. When an informal resolution 
+cannot be reached, however, a graduate student who seeks further review of the matter is to follow the formal procedures outlined here . These appeal and grievance procedures shall apply to 
+students in all graduate programs of the University. Students should refer to the department 
+specific information in this handbook for department and college information about the 
+administration and academic policies of the program.  
+4.3.8 Sexual Misconduct Policy  
+The University  prohibits sex -based discrimination, sexual harassment, sexual assault, dating/ 
+domestic violence,  and stalking. The University also prohibits retaliation against individuals who 
+bring forward such concerns or allegations in good faith.   
+LTI Ph.D.  Graduate Student Handbook  Page 30 
+ The University’s S exual Misconduct Policy is available at  
+https://www.cmu.edu/policies/administrative -and-governance/sexual -misconduct/index.html  
+The University’s Policy Against Retaliation is available at : 
+https://www.cmu.edu/policies/administrative -and-governance/whistleblower.html  
+If you have been impacted by any of these issues, you are encouraged to make contact with any of 
+the following resources:  
+• Office for Institutional Equity and Title IX : 412 -268-7125, 
+institutionalequity@cmu.edu  
+• On campus resources for institutional equity and Title IX   
+• University Police : 412-268-2323  
+ Additional resources and information can be found at: 
+https://www.cmu.edu/title -ix/resources-
+and-information/index.html  
+4.3.9 Gestational and Parental Accommodations  
+Providing holistic student support is a top priority at Carnegie Mellon. The protocols described 
+at https://www.cmu.edu/graduate/programs -services/maternity -accommodation -protocol.html  
+are designed to support the parental needs of students and their families.  
+Students seeking any of the Parental Accommodations described below must register with 
+the Office of the Dea n of Students by contacting the office for an appointment by calling 412 -
+268- 2075.  
+Students are encouraged to register with the Office of the Dean of Students ninety (90) days in 
+advance of the anticipated arrival of the child as applicable in the individual circumstance.   At the 
+time of registering, students will have the opportunity to consult about resources, procedures, funding options and preparation for discussing academic accommodations with the student’s academic department.   Students should also co nsult with their academic advisors either before or 
+in conjunction with registering with the Office of the Dean of Students.  
+4.3.10  Accommodations for Gestational Parents 
+The birth of a child is a significant life event that may require time away from academic pu rsuits 
+for delivery and recovery from delivery of a newly born child. Students whose anticipated delivery date is during the course of a semester may need to take time away from their academic responsibilities. Carnegie Mellon students seeking time away are afforded two options as possible accommodation:  
+• Short -Term Accommodation for Gestational Parents  – A short term absence from 
+academic responsibilities up to a maximum of six (6) weeks.   Short- Term Accommodation 
+LTI Ph.D.  Graduate Student Handbook  Page 31 
+ may be extended by two (2) weeks, for a tot al of eight (8) weeks, where a longer absence 
+is medically necessary. Prior to the absence students must work with relevant university 
+faculty and staff to adjust their course work, research, teaching and other academic 
+responsibilities during the period of absence. This may include extensions of time to 
+complete assignments, incomplete grades, and/or dropping courses, shifting research 
+responsibilities and adjusting TA assignments. Students who take a Short -Term 
+Accommodation will remain enrolled.  
+• Formal Leave of Absence – A formal leave of absence under the Student Leave Policy. 
+Generally, the Student Leave Policy permits students to take a leave of absence for a full-
+semester, mini- semester, or for the time remaining in the semester during which the leave 
+is taken.   Students who take a Formal Leave of Absence 
+(https://www.cmu.edu/policies/student- and-student -life/student- leave.html ) drop all 
+remaining courses for the semester and are unenrolled for the semester. International 
+students must consult with the Office of International Education 
+(https://www.cmu.edu/oie/ ) before considering this option due to visa implications.  
+4.3.11  Parental Accommodation for Doctoral Students    
+The university offers a Parental Accommodation for qualifying doctoral student parents to include 
+up to four (4) weeks of time away from academic responsibilities with continued stipend support. This accommodation can be utilized within six months of the birth or placement of a child 
+through adoption, foster care or legal guardianship. Gestational parents may utilize both the 
+Short- Term Accommodation  for Gestational Parents and the parental accommodation.  
+Careful planning and consultation is necessary given the unique contexts and requirements of each student’s situation. Students will remain fully enrolled and will receive assistance in 
+navigating the necessary planning and consultation processes.  
+4.3.12  Financial Assistance for Student Parents 
+Carnegie Mellon also offers the following options for financial assistance to students who become 
+parents while enrolled:  
+Interest Free Loan – Any student who becomes a parent is eligible to apply for an interest -
+free parental loan  (https://www.cmu.edu/student -affairs/dean/loans/ ) from the Office of the Dean 
+of Students.   
+Doctoral Stipend Continuation (Gestational Parents) – Doctoral students who are the 
+gestational parent and who receive an academic stipend funded by Carnegie Mellon are eligible to continue to receive stipend funding for up to six (6) weeks during a Short -Term 
+Accommodation for Gestational Parents or during a Formal Leave of Absence. Continued 
+LTI Ph.D.  Graduate Student Handbook  Page 32 
+ academic stipend funding may be extended by two (2) weeks, for a total of eight (8) weeks, if an 
+absence longer than six weeks is medically necessary.   
+Doctoral Stipend Continuation (Non- gestational Parents) – Doctoral students who receive an 
+academic stipend funded by Carnegie Mellon and are becoming a parent by adoption, birth, or through guardianship are eligible to continue to receive stipend funding for up to fo ur (4) weeks 
+during a Short- Term Parental Accommodation.   
+4.3.13   Consensual Intimate Relationship Policy Regarding Undergraduate 
+Students   
+This policy addresses the circumstances in which romantic, sexual  or amorous 
+relationships/interactions with undergraduate students, even if consensual, are inappropriate and prohibited. The purpose of this policy is to assure healthy professional relationships. This policy is not intended to discourage consensual intimate relationships unless there is a conflicting professional relationship in which one party has authority over the other as in the policy.  
+https://www.cmu.ed u/policies/student -and-student -life/consensual -relationships.html  

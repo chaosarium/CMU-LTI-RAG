@@ -1,0 +1,16 @@
+<start course metadata for 79-297 Technology and Work>
+Semester: Fall 2023 (aka F23)
+Course Name: Technology and Work
+Course Number: 79-297
+Department: History
+Number of Units: 9
+Prerequisites: None
+Instructors: Whitney Laemmli
+Rooms: WEH 5312
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 79-297 Technology and Work>
+
+<start course description for 79-297 Technology and Work>
+Semester: Fall 2023 (aka F23)
+Course Description: In recent years, conversations about the relationship between technology and work seem to have been conducted with particular fervor: claims of revolutionary ease and freedom sit side-by-side with dystopian visions of exploitation, surveillance, and alienation. Will technological development lead to a new "sharing economy" or widespread deskilling? Will it bring general prosperity or enrich the few at the expense of the many?  These concerns - though especially apparent today - are by no means new.  In this course, we will examine their history, focusing in particular on North America and Europe in the past two centuries. We will examine the ways in which new technologies - from the assembly line to the washing machine to the personal computer - transformed what it meant to work, and how workers, their families, and the companies who employed them reacted to these changes. Our historical actors will include famous figures like Henry Ford, but also unnamed women, children, people with disabilities, and racial and ethnic minorities. Throughout, we will pay attention to who benefitted, who was harmed, and what broader economic, cultural, or social purposes these technologies were designed to serve.
+</end course description for 79-297 Technology and Work>

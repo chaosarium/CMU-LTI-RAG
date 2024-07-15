@@ -1,0 +1,16 @@
+<start course metadata for 12-353 Environmental Biology and Ecology>
+Semester: Spring 2024 (aka S24)
+Course Name: Environmental Biology and Ecology
+Course Number: 12-353
+Department: Civil & Environmental Engineering
+Number of Units: 9
+Prerequisites: 03-121
+Instructors: Kelvin Gregory
+Rooms: PH A7F
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 12-353 Environmental Biology and Ecology>
+
+<start course description for 12-353 Environmental Biology and Ecology>
+Semester: Spring 2024 (aka S24)
+Course Description: Profound changes are affecting our environment, including climate change, habitat loss, pollution, and invasive species. Understanding ecosystems and their inhabitants and functions is critical to engineering a sustainable future for humans. This course is an introduction to ecology and biology for environmental engineers. Ecology topics include the relationships among organisms and between organisms and their environment; and adaptations, populations, communities, and terrestrial and aquatic ecosystems. Biology subjects will focus on microbiology, as bacteria are an analog for more-complex species.  Microbiology topics include biological molecules, biochemical reactions, energetics, diversity of microbial metabolism, physiology, biofilms, biogeochemical cycles, and  the degradation of pollutants.
+</end course description for 12-353 Environmental Biology and Ecology>

@@ -1,0 +1,16 @@
+<start course metadata for 18-663 Data Analytics for the Semiconductor Industry>
+Semester: Fall 2023 (aka F23)
+Course Name: Data Analytics for the Semiconductor Industry
+Course Number: 18-663
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Andrzej Strojwas
+Rooms: SH 234
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-663 Data Analytics for the Semiconductor Industry>
+
+<start course description for 18-663 Data Analytics for the Semiconductor Industry>
+Semester: Fall 2023 (aka F23)
+Course Description: This course focuses on applying machine learning (ML) and artificial intelligence (AI) algorithms to real-world data sets to enable advanced semiconductor manufacturing. Leading-edge semiconductor companies currently handle several TB of data per day but are only able to actively deal with a fraction of this data stream. There is a huge demand for systems to process data as rapidly as possible to facilitate quick diagnostic or wafer disposition decisions with minimum human intervention and avoid storing huge quantities of raw data. This requires comprehensive data analytics systems that span the entire IC manufacturing supply chain, from front-end wafer manufacturing to fully packaged systems. Many companies worldwide have announced planned investments of more than $600 billion to build new fabrication facilities. This will create a massive number of new jobs, and data analytics skills will be in the highest demand to allow for this rapid expansion. This course offering is unique and has the support of all leading semiconductor manufacturers as well as the largest fabless companies. As a result, we are expecting students with this background to be in high demand for permanent positions and internship opportunities.  The course key focus consists of three projects aimed at solving realistic problems in semiconductor manufacturing. The real-world (although slightly obfuscated) data will be provided by leading U.S. manufacturers. These projects will be carried out in groups of 3-4 students.  This course is designed for MS and PhD students from diverse areas of interest: AI/Machine Learning, Cloud Computing, System/Hardware Design, Circuits, and Devices/Nanofabrication.
+</end course description for 18-663 Data Analytics for the Semiconductor Industry>

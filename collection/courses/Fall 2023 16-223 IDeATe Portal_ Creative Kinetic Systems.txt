@@ -1,0 +1,16 @@
+<start course metadata for 16-223 IDeATe Portal: Creative Kinetic Systems>
+Semester: Fall 2023 (aka F23)
+Course Name: IDeATe Portal: Creative Kinetic Systems
+Course Number: 16-223
+Department: Robotics
+Number of Units: 10
+Prerequisites: None
+Instructors: Garth Zeglin
+Rooms: HL A10
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 16-223 IDeATe Portal: Creative Kinetic Systems>
+
+<start course description for 16-223 IDeATe Portal: Creative Kinetic Systems>
+Semester: Fall 2023 (aka F23)
+Course Description: The art and science of machines which evoke human delight through physical movement is founded on a balance of form and computation.  This introductory physical computing course addresses the practical design and fabrication of robots, interactive gadgets, and kinetic sculptures.  The emphasis is on creating experiences for human audiences through the physical behavior of devices which embody computation with mechanism, sensing, and actuation.  Specific topics include basic electronics, elementary mechanical design, embedded programming, and parametric CAD.  A key objective is gaining an intuitive understanding of how information and energy move between the physical, electronic, and computational domains to create a compelling behavior.  The final projects are tested in the field on children and adults.  This interdisciplinary course is an IDeATe Portal Course open to students from all colleges.  For students choosing to follow an IDeATe program it is an entry into either Physical Computing or Intelligent Environments.  The structure of the class revolves around collaborative exercises and projects which introduce core physical computing and system engineering techniques in a human-centric context.  Students apply system and design thinking across multiple domains, work together to make and test several devices, and participate in wide-ranging critique which considers both technical and artistic success.
+</end course description for 16-223 IDeATe Portal: Creative Kinetic Systems>

@@ -1,0 +1,16 @@
+<start course metadata for 54-217 Jazz II>
+Semester: Fall 2023 (aka F23)
+Course Name: Jazz II
+Course Number: 54-217
+Department: Drama
+Number of Units: 2
+Prerequisites: 54-123 and 54-124
+Instructors: Tome' Cousin
+Rooms: PCA 306
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-217 Jazz II>
+
+<start course description for 54-217 Jazz II>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is designed to incorporate the strength of classical dance technique to a jazz dance style.  Training the body in a variety of contemporary Jazz styles, i.e. Latin, Blues, Lyric, African, using body isolations and rhythmic patterns.   Course closed: Only for Music Theatre majors in Drama. Prerequisite: Permission of instructor
+</end course description for 54-217 Jazz II>

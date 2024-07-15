@@ -1,0 +1,16 @@
+<start course metadata for 19-428 Special Topics: Market Engineering and Applications>
+Semester: Spring 2024 (aka S24)
+Course Name: Special Topics: Market Engineering and Applications
+Course Number: 19-428
+Department: Engineering & Public Policy
+Number of Units: 9
+Prerequisites: None
+Instructors: Ramteen Sioshansi
+Rooms: DH 2105
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 19-428 Special Topics: Market Engineering and Applications>
+
+<start course description for 19-428 Special Topics: Market Engineering and Applications>
+Semester: Spring 2024 (aka S24)
+Course Description: An introduction to market-engineering concepts and applications to contemporary market-design problems such as resource allocation, information aggregation, and decentralized control.  Concepts apply theory of linear algebra, optimization and statistics. Course reservations for Seniors; and Juniors with permission.  Application areas include:  - energy systems,  - environmental management (e.g., cap-and-trade systems),  - wildlife management (e.g., fishing licenses),  - oil-development leases,  - exchanges for organ transplants,  - information markets, and  - matching systems for medical-residency programs.
+</end course description for 19-428 Special Topics: Market Engineering and Applications>

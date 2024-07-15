@@ -1,0 +1,16 @@
+<start course metadata for 85-314 Cognitive Neuroscience Research Methods>
+Semester: Spring 2024 (aka S24)
+Course Name: Cognitive Neuroscience Research Methods
+Course Number: 85-314
+Department: Psychology
+Number of Units: 9
+Prerequisites: (36-309 or 85-309) and (85-211 or 85-219)
+Instructors: Bradford Mahon
+Rooms: BH 332P
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 85-314 Cognitive Neuroscience Research Methods>
+
+<start course description for 85-314 Cognitive Neuroscience Research Methods>
+Semester: Spring 2024 (aka S24)
+Course Description: This is a hands-on laboratory course designed to foster basic skills in the empirical approaches used in cognitive neuroscience research. Students will learn how to evaluate which cognitive neuroscience method is best suited to a research question, basic experimental design and analysis, and how to formally present empirical results. The course will focus on functional MRI, but will also cover structural MRI (diffusion imaging) and EEG, and survey various other methods. Students will work with actual datasets using the current software used by cognitive neuroscience researchers.
+</end course description for 85-314 Cognitive Neuroscience Research Methods>

@@ -1,0 +1,16 @@
+<start course metadata for 51-264 Design Center: Product Design Fundamentals: Design for Interactions for Products>
+Semester: Spring 2024 (aka S24)
+Course Name: Design Center: Product Design Fundamentals: Design for Interactions for Products
+Course Number: 51-264
+Department: Design
+Number of Units: 9
+Prerequisites: None
+Instructors: Russell Singer
+Rooms: MM 203
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-264 Design Center: Product Design Fundamentals: Design for Interactions for Products>
+
+<start course description for 51-264 Design Center: Product Design Fundamentals: Design for Interactions for Products>
+Semester: Spring 2024 (aka S24)
+Course Description: In this one-semester studio-like course non-majors are introduced to product design from the product designer's point of view. Through studio projects, lectures, and discussions, students will learn approaches to defining and visualizing product concepts for mass production. Case histories and the analysis of existing products will supplement hands-on experience in developing product concepts. This course is required for all Design minors.
+</end course description for 51-264 Design Center: Product Design Fundamentals: Design for Interactions for Products>

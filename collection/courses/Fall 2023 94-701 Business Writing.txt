@@ -1,0 +1,16 @@
+<start course metadata for 94-701 Business Writing>
+Semester: Fall 2023 (aka F23)
+Course Name: Business Writing
+Course Number: 94-701
+Department: Heinz College Wide Courses
+Number of Units: 6
+Prerequisites: None
+Instructors: Kim Hyatt
+Rooms: HBH 2003
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 94-701 Business Writing>
+
+<start course description for 94-701 Business Writing>
+Semester: Fall 2023 (aka F23)
+Course Description: This course focuses on effective writing techniques for professionals. Assignments include a business proposal, an employment letter, a memo, a performance evaluation, and interoffice correspondence. Since writing is a cumulative skill, an emphasis is placed on the revision process through in-class workshops. Students learn to communicate professionally and succinctly using a variety of business formats.
+</end course description for 94-701 Business Writing>

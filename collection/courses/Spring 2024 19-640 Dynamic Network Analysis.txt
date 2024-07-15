@@ -1,0 +1,16 @@
+<start course metadata for 19-640 Dynamic Network Analysis>
+Semester: Spring 2024 (aka S24)
+Course Name: Dynamic Network Analysis
+Course Number: 19-640
+Department: Engineering & Public Policy
+Number of Units: 12
+Prerequisites: None
+Instructors: Kathleen Carley
+Rooms: TEP 1403
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 19-640 Dynamic Network Analysis>
+
+<start course description for 19-640 Dynamic Network Analysis>
+Semester: Spring 2024 (aka S24)
+Course Description: Who knows who? Who knows what? Who communicates with whom? Who is influential? How do ideas, diseases, and technologies propagate through groups? How do social media, social, knowledge, and technology networks differ? How do these networks evolve? How do network constrain and enable behavior? How can a network be compromised or made resilient? Such questions can be addressed using Network Science. Network Science, a.k.a. social network analysis and link analysis, is a fast-growing interdisciplinary field aimed at understanding simple & high dimensional networks, from both a static and a dynamic perspective. Across an unlimited application space, graph theoretic, statistical, & simulation methodologies are used. An interdisciplinary perspective on network science is provided, with an emphasis on high-dimensional dynamic data. The fundamentals of network science, methods, theories, metrics & confidence estimation, constraints on data collection & bias, and key research findings & challenges are examined. Illustrative networks discussed include social media based (e.g., twitter), disaster response, organizational, semantic, political elite, crises, terror, & P2P networks. Critical procedures covered include: basic centralities and metrics, group and community detection, link inference, network change detection, comparative analytics, and big data techniques. Applications from business, science, art, medicine, forensics, social media & numerous other areas are explored. Key issues addressed: Conceptualization, measurement, comparison & evaluation of networks. Identification of influential nodes and hidden groups. Network emergence, evolution, change & destabilization. Graduate course taught every other year. Prerequisite: Undergraduate-level statistics course or instructor permission. Linear algebra is recommended. Students are encouraged to bring & use their own data, or to use provided data.
+</end course description for 19-640 Dynamic Network Analysis>

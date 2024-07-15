@@ -1,0 +1,16 @@
+<start course metadata for 07-131 Great Practical Ideas for Computer Scientists>
+Semester: Fall 2023 (aka F23)
+Course Name: Great Practical Ideas for Computer Scientists
+Course Number: 07-131
+Department: SCS Interdisciplinary
+Number of Units: 2
+Prerequisites: None
+Instructors: Thomas Cortina, Veronica Peet
+Rooms: GHC 4401
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 07-131 Great Practical Ideas for Computer Scientists>
+
+<start course description for 07-131 Great Practical Ideas for Computer Scientists>
+Semester: Fall 2023 (aka F23)
+Course Description: SECTION A IS OPEN TO SCS FIRST YEAR STUDENTS ONLY. Throughout your education as a Computer Scientist at Carnegie Mellon, you will take courses on programming, theoretical ideas, logic, systems, etc. As you progress, you will be expected to pick up the so-called "tools of the trade." This course is intended to help you learn what you need to know in a friendly, low-stress, high-support way. We will discuss UNIX, LaTeX, debugging and many other essential tools. Laptop required. Only undergraduate students will be able to enroll in this course.
+</end course description for 07-131 Great Practical Ideas for Computer Scientists>

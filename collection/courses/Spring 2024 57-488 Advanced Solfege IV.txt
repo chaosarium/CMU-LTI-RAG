@@ -1,0 +1,16 @@
+<start course metadata for 57-488 Advanced Solfege IV>
+Semester: Spring 2024 (aka S24)
+Course Name: Advanced Solfege IV
+Course Number: 57-488
+Department: Music
+Number of Units: 3
+Prerequisites: 57-487
+Instructors: Anne Moskal
+Rooms: CFA M160
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-488 Advanced Solfege IV>
+
+<start course description for 57-488 Advanced Solfege IV>
+Semester: Spring 2024 (aka S24)
+Course Description: Continues 57-487 Advanced Solfege III.
+</end course description for 57-488 Advanced Solfege IV>

@@ -1,0 +1,16 @@
+<start course metadata for 16-811 Mathematical Fundamentals for Robotics>
+Semester: Fall 2023 (aka F23)
+Course Name: Mathematical Fundamentals for Robotics
+Course Number: 16-811
+Department: Robotics
+Number of Units: 12
+Prerequisites: None
+Instructors: Michael Erdmann
+Rooms: PH 100
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 16-811 Mathematical Fundamentals for Robotics>
+
+<start course description for 16-811 Mathematical Fundamentals for Robotics>
+Semester: Fall 2023 (aka F23)
+Course Description: This course covers selected topics in applied mathematics useful in  robotics, taken from the following list:         1. Solution of Linear Equations.       2. Polynomial Interpolation and Approximation.       3. Solution of Nonlinear Equations.       4. Roots of Polynomials, Resultants.       5. Approximation by Orthogonal Functions (includes Fourier series).       6. Integration of Ordinary Differential Equations.       7. Optimization.       8. Calculus of Variations (with applications to Mechanics).       9. Probability and Stochastic Processes (Markov chains).       10. Computational Geometry.       11. Differential Geometry.
+</end course description for 16-811 Mathematical Fundamentals for Robotics>

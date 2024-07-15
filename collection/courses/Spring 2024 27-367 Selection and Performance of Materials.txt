@@ -1,0 +1,16 @@
+<start course metadata for 27-367 Selection and Performance of Materials>
+Semester: Spring 2024 (aka S24)
+Course Name: Selection and Performance of Materials
+Course Number: 27-367
+Department: Materials Science & Engineering
+Number of Units: 6
+Prerequisites: 27-100 and 27-301
+Instructors: Gregory Rohrer
+Rooms: MM 103
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 27-367 Selection and Performance of Materials>
+
+<start course description for 27-367 Selection and Performance of Materials>
+Semester: Spring 2024 (aka S24)
+Course Description: This course teaches the selection methodologies for materials and processes for satisfaction of a design goal. Topics such as performance under load, shape effects, material properties (intrinsic and as influenced by processing)  are discussed and applied so as to determine the fitness of use of materials for applications. Expanded topics include economics, codes and standards, environmental and safety regulations, professional ethics and life cycle analysis where applicable.  The course incorporates a project where virtual teams work to provide  material selection for a specific application problem.
+</end course description for 27-367 Selection and Performance of Materials>

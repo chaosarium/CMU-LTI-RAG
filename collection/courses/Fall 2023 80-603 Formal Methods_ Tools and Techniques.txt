@@ -1,0 +1,16 @@
+<start course metadata for 80-603 Formal Methods: Tools and Techniques>
+Semester: Fall 2023 (aka F23)
+Course Name: Formal Methods: Tools and Techniques
+Course Number: 80-603
+Department: Philosophy
+Number of Units: 6
+Prerequisites: None
+Instructors: Krzysztof Mierzewski
+Rooms: BH 145C
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 80-603 Formal Methods: Tools and Techniques>
+
+<start course description for 80-603 Formal Methods: Tools and Techniques>
+Semester: Fall 2023 (aka F23)
+Course Description: The formal methods seminar series introduces a variety of formal structures that have broad applicability to issues of philosophical interest. This mini covers some of the foundational concepts, methods, and examples of math and logic, such as: basic set theory, functions and relations, number systems, common proof techniques (e.g., mathematical induction), introductory propositional logic, and probabilistic reasoning. It can serve as preparation for 80-610 but should not be taken after this course.
+</end course description for 80-603 Formal Methods: Tools and Techniques>

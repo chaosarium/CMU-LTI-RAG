@@ -1,0 +1,16 @@
+<start course metadata for 18-220 Electronic Devices and Analog Circuits>
+Semester: Fall 2023 (aka F23)
+Course Name: Electronic Devices and Analog Circuits
+Course Number: 18-220
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: 18-100
+Instructors: Mark Budnik, Xu Zhang
+Rooms: HOA 160
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-220 Electronic Devices and Analog Circuits>
+
+<start course description for 18-220 Electronic Devices and Analog Circuits>
+Semester: Fall 2023 (aka F23)
+Course Description: This course covers fundamental topics that are common to a wide variety of electrical engineering devices and systems. The topics include an introduction to semiconductor devices and technology, DC circuit analysis techniques, operational amplifiers, energy storage elements, sinusoidal steady-state response, frequency domain analysis, filters, and transient response of first- and second-order systems. The laboratories allow students to use modern electronic instrumentation and to build and operate circuits that address specific concepts covered in the lectures, including semiconductor devices and sensors, layout, operational amplifiers, filters, signal detection and processing, power converters and circuit transients.    3 hrs. lec., 1 hr. rec., 3 hrs. lab.
+</end course description for 18-220 Electronic Devices and Analog Circuits>

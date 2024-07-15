@@ -1,0 +1,16 @@
+<start course metadata for 12-728 Remediation Engineering>
+Semester: Spring 2024 (aka S24)
+Course Name: Remediation Engineering
+Course Number: 12-728
+Department: Civil & Environmental Engineering
+Number of Units: 12
+Prerequisites: 12-351
+Instructors: Richard Wice
+Rooms: GHC 4211
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 12-728 Remediation Engineering>
+
+<start course description for 12-728 Remediation Engineering>
+Semester: Spring 2024 (aka S24)
+Course Description: Examination of the technical and management aspects of contaminated site remediation engineering, including site investigation, remedial planning and design, technology evaluation and selection, remedial construction, site closure, and post-closure monitoring and maintenance.  In situ and ex situ remediation technologies to address soil, sediment, and groundwater at impacted sites are discussed.  The risk assessment framework for contaminated site remediation planning and design is presented.  Several site-specific remedial management options will be evaluated through the use of actual case studies.
+</end course description for 12-728 Remediation Engineering>

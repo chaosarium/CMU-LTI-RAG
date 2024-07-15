@@ -1,0 +1,16 @@
+<start course metadata for 95-827 Blockchain and SQL Fundamentals>
+Semester: Fall 2023 (aka F23)
+Course Name: Blockchain and SQL Fundamentals
+Course Number: 95-827
+Department: Information Systems:Sch of IS & Mgt
+Number of Units: 6
+Prerequisites: None
+Instructors: Michael Mccarthy, Raja Sooriamurthi
+Rooms: TCS 251
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 95-827 Blockchain and SQL Fundamentals>
+
+<start course description for 95-827 Blockchain and SQL Fundamentals>
+Semester: Fall 2023 (aka F23)
+Course Description: This is a medley class that combines SQL (accessing and processing data stored in large, centralized data stores) and blockchain smart contracts (accessing and processing data stored in decentralized ledgers). There is significant interest in the industry for both approaches. The course is designed to provide the student with a serious and hands-on introduction to SQL and smart contract programming. Applications will primarily be chosen from the area of computational finance. Students should come to the class with knowledge of at least one programming language.  Students who have already taken:  a database management course that covered SQL, or 95-788 Developing Blockchain Use Cases, should not register for this course.
+</end course description for 95-827 Blockchain and SQL Fundamentals>

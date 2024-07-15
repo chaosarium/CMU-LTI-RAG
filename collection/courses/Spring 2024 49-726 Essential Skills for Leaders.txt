@@ -1,0 +1,16 @@
+<start course metadata for 49-726 Essential Skills for Leaders>
+Semester: Spring 2024 (aka S24)
+Course Name: Essential Skills for Leaders
+Course Number: 49-726
+Department: Integrated Innovation Institute
+Number of Units: 6
+Prerequisites: None
+Instructors: Carmelo Montalvo
+Rooms: CA 115
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 49-726 Essential Skills for Leaders>
+
+<start course description for 49-726 Essential Skills for Leaders>
+Semester: Spring 2024 (aka S24)
+Course Description: This course includes both the scholarship and the practice of leadership.  The content includes an exploration of major theories in the evolving understanding of leadership, the skills associated with the practice of leadership, and the many areas leadership theories, skills and practice intersect. The process of this course includes reading and viewing content, class discussions, group exercises, and ongoing reflection on personal, interpersonal, contextual and cultural complexities. The structure of the course will be built, in part, around the six pillars of change: visionary pillar, engaging pillar, ethical pillar, reflective pillar, tactical pillar, technical pillar.
+</end course description for 49-726 Essential Skills for Leaders>

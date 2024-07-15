@@ -1,0 +1,16 @@
+<start course metadata for 95-771 Data Structures and Algorithms>
+Semester: Spring 2024 (aka S24)
+Course Name: Data Structures and Algorithms
+Course Number: 95-771
+Department: Information Systems:Sch of IS & Mgt
+Number of Units: 12
+Prerequisites: 95-712 or 95-713
+Instructors: Michael Mccarthy
+Rooms: HBH 1005
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 95-771 Data Structures and Algorithms>
+
+<start course description for 95-771 Data Structures and Algorithms>
+Semester: Spring 2024 (aka S24)
+Course Description: None
+</end course description for 95-771 Data Structures and Algorithms>

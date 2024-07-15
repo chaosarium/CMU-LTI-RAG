@@ -1,0 +1,16 @@
+<start course metadata for 24-261 Mechanics I: 2D Design>
+Semester: Fall 2023 (aka F23)
+Course Name: Mechanics I: 2D Design
+Course Number: 24-261
+Department: Mechanical Engineering
+Number of Units: 10
+Prerequisites: (21-122) and (33-121 or 33-141 or 33-106 or 33-151) and (24-101)
+Instructors: Rebecca Taylor
+Rooms: WEH 7500
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-261 Mechanics I: 2D Design>
+
+<start course description for 24-261 Mechanics I: 2D Design>
+Semester: Fall 2023 (aka F23)
+Course Description: This is the first course in a three-semester sequence that integrates the principles of mechanics with hands-on projects that have students apply those principles in a design context. In the first semester, students review and extend methods of 2D statics to study single and multiple bodies, such as structures and machines. Internal loads in 2D are defined and quantified, followed by a study of stresses and strains under axial loading, bending and shear. Students will also learn engineering design process methods and skills, including concept design, detailed design, analysis, fabrication, and testing. As topics are introduced and applied by students in hands-on assignments, they will compare theoretical computations and experimental testing of their design ideas, so as to reinforce fundamentals and practice the engineering design process.
+</end course description for 24-261 Mechanics I: 2D Design>

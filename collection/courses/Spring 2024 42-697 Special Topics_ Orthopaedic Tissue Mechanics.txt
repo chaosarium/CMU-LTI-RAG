@@ -1,0 +1,16 @@
+<start course metadata for 42-697 Special Topics: Orthopaedic Tissue Mechanics>
+Semester: Spring 2024 (aka S24)
+Course Name: Special Topics: Orthopaedic Tissue Mechanics
+Course Number: 42-697
+Department: Biomedical Engineering
+Number of Units: 9
+Prerequisites: None
+Instructors: Axel Moore
+Rooms: EDS 125
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 42-697 Special Topics: Orthopaedic Tissue Mechanics>
+
+<start course description for 42-697 Special Topics: Orthopaedic Tissue Mechanics>
+Semester: Spring 2024 (aka S24)
+Course Description: In this course we will assess the composition, structure, function, failure, and repair of orthopaedic tissues, such as bone, cartilage, intervertebral disc, ligament, tendon, and meniscus. We will pay special attention to the analysis of composite materials, derivation of relevant analytical models, fitting of experimental data, and underlying assumptions. Students will have the opportunity to work in teams to assess seminal papers and explore unmet challenges in the field of orthopaedics. This course will prepare students who are interested in pursuing topics in the field of orthopaedics, rehabilitation, design of prosthetics, and tissue engineering. There are no prerequisites, but statics, dynamics, mechanics of materials, fluid mechanics, biomechanics, and biology are helpful.
+</end course description for 42-697 Special Topics: Orthopaedic Tissue Mechanics>

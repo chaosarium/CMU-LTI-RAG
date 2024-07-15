@@ -1,0 +1,16 @@
+<start course metadata for 05-814 Perception>
+Semester: Fall 2023 (aka F23)
+Course Name: Perception
+Course Number: 05-814
+Department: Human-Computer Interaction
+Number of Units: 9
+Prerequisites: None
+Instructors: Roberta Klatzky
+Rooms: BH 336B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 05-814 Perception>
+
+<start course description for 05-814 Perception>
+Semester: Fall 2023 (aka F23)
+Course Description: Perception, broadly defined, is the construction of a representation of the external world for purposes of thinking and acting. Although we often think of perception as the processing of inputs to the sense organs, the world conveyed by the senses is ambiguous, and cognitive and sensory systems interact to interpret it. In this course, we will examine the sensory-level mechanisms involved in perception by various sensory modalities, including vision, audition, and touch. We will learn how sensory coding interacts with top-down processing based on context and prior knowledge and how perception changes with learning and development. We will look at methods of psychophysics, neuroscience, and cognitive psychology. The goals include not only imparting basic knowledge about perception but also providing new insights into everyday experiences.   Prerequisites: 85102 or 85211 or 85213 or 85219
+</end course description for 05-814 Perception>

@@ -1,0 +1,16 @@
+<start course metadata for 51-330 Communications Studio IV: Designing Communications for Social Systems>
+Semester: Spring 2024 (aka S24)
+Course Name: Communications Studio IV: Designing Communications for Social Systems
+Course Number: 51-330
+Department: Design
+Number of Units: 10
+Prerequisites: 51-323
+Instructors: Kelsey Elder
+Rooms: MM 211
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-330 Communications Studio IV: Designing Communications for Social Systems>
+
+<start course description for 51-330 Communications Studio IV: Designing Communications for Social Systems>
+Semester: Spring 2024 (aka S24)
+Course Description: As the final course in a sequence of studio courses for Communication Design majors, this one builds on everything learned previously. Apply skills/knowledge learned in researching, developing, evaluating, refining communications to multi-facetted communication challenges that warrant the design of multiple communication pieces that span diverse mediums (in print and digital platforms) and function as a system; learn how to design for futuring (parts of the system yet to be determined) and for co-design where parts of the system are made for growth through contributions from audiences. This course is required of Communication Design majors in the School of Design.
+</end course description for 51-330 Communications Studio IV: Designing Communications for Social Systems>

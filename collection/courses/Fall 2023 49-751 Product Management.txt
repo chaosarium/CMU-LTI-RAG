@@ -1,0 +1,16 @@
+<start course metadata for 49-751 Product Management>
+Semester: Fall 2023 (aka F23)
+Course Name: Product Management
+Course Number: 49-751
+Department: Integrated Innovation Institute
+Number of Units: 6
+Prerequisites: 49-750
+Instructors: Adrian Ott, David Miller
+Rooms: B23 109; B23 118
+Locations: San Jose, California
+</end course metadata for 49-751 Product Management>
+
+<start course description for 49-751 Product Management>
+Semester: Fall 2023 (aka F23)
+Course Description: While Product Manager has been a key role in the high-tech industry for over 10 years, the Product Management training in this space was relatively limited. This course connects the knowledge and skills students learned from previous Software Management courses, and guides students to leverage this learning to position, design, develop, launch, measure, and grow products, particularly in the internet/software sectors. The course covers a product managers' role and the application of product ideation & positioning, feature design and documentation, product development process, go-to-market, measurement/optimization, and growth. Students in the Master of Science in Technology Ventures program should register for the 49853 version of this course.
+</end course description for 49-751 Product Management>

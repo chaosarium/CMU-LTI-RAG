@@ -1,0 +1,16 @@
+<start course metadata for 36-350 Statistical Computing>
+Semester: Fall 2023 (aka F23)
+Course Name: Statistical Computing
+Course Number: 36-350
+Department: Statistics and Data Science
+Number of Units: 9
+Prerequisites: 36-218 or 21-325 or 36-219 or 36-225 or 36-217 or 15-259 or 36-235
+Instructors: Will Townes
+Rooms: POS 152
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 36-350 Statistical Computing>
+
+<start course description for 36-350 Statistical Computing>
+Semester: Fall 2023 (aka F23)
+Course Description: Statistical Computing is a one-semester course that will introduce you to the fundamentals of computational data analysis, as carried out in the R programming language, and to the fundamentals of working with relational databases, such as SQLite. No previous knowledge of either is required.
+</end course description for 36-350 Statistical Computing>

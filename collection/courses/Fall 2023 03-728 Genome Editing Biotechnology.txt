@@ -1,0 +1,16 @@
+<start course metadata for 03-728 Genome Editing Biotechnology>
+Semester: Fall 2023 (aka F23)
+Course Name: Genome Editing Biotechnology
+Course Number: 03-728
+Department: Biological Sciences
+Number of Units: 6
+Prerequisites: 03-220 or 03-709 or 03-221 or 03-621
+Instructors: Stephanie Wong-Noonan
+Rooms: POS 153
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 03-728 Genome Editing Biotechnology>
+
+<start course description for 03-728 Genome Editing Biotechnology>
+Semester: Fall 2023 (aka F23)
+Course Description: How can we create genetically engineered cells, animals, plants, and even humans?  This course will focus on the technologies that enable genome modification, with an emphasis on the recently developed CRISPR-Cas9 system.  Specific topics will include an introduction to CRISPR technology and its history; DNA double strand break repair; Off target effects; Gene regulator CRISPRs; Alternate technologies; Ethics of modifying our genomes; Applications - cell screening; Applications - organism engineering; Applications - anti-HIV and immunotherapy; Overview of Gene therapy.  Student in-class presentations will cover late-breaking topics and specific areas of student interest.
+</end course description for 03-728 Genome Editing Biotechnology>

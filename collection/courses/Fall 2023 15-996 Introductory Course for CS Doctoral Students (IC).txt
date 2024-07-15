@@ -1,0 +1,16 @@
+<start course metadata for 15-996 Introductory Course for CS Doctoral Students (IC)>
+Semester: Fall 2023 (aka F23)
+Course Name: Introductory Course for CS Doctoral Students (IC)
+Course Number: 15-996
+Department: Computer Science
+Number of Units: 6
+Prerequisites: None
+Instructors: Karl Crary
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-996 Introductory Course for CS Doctoral Students (IC)>
+
+<start course description for 15-996 Introductory Course for CS Doctoral Students (IC)>
+Semester: Fall 2023 (aka F23)
+Course Description: This orientation course is required for incoming Computer Science Department doctoral students.
+</end course description for 15-996 Introductory Course for CS Doctoral Students (IC)>

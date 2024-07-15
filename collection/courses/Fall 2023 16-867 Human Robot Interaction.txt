@@ -1,0 +1,16 @@
+<start course metadata for 16-867 Human Robot Interaction>
+Semester: Fall 2023 (aka F23)
+Course Name: Human Robot Interaction
+Course Number: 16-867
+Department: Robotics
+Number of Units: 12
+Prerequisites: None
+Instructors: Henny Admoni
+Rooms: NSH 3002
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 16-867 Human Robot Interaction>
+
+<start course description for 16-867 Human Robot Interaction>
+Semester: Fall 2023 (aka F23)
+Course Description: Human-robot interaction (HRI) is a multidisciplinary field that aims to create successful interactions between people and robots. HRI is rapidly becoming a major area of robotics research. Topics within HRI include the technology that enables robot systems to read and respond to humans, the science of interaction between people and robots, and the design of robot systems that operate in rewarding ways with people. HRI includes techniques from robotics, artificial intelligence, human factors, cognitive psychology, interaction design, human-computer interaction, and other fields.  This course aims to provide an overview of the state of the art in HRI from these varied perspectives. To do so, it combines lectures with assignments (at-home readings, in-class presentations, and a final project) that engage students with the current challenges and approaches in the field. The course emphasizes the practice of reading and discussing scientific literature to learn and communicate about the most recent progress in HRI. It also includes guest lectures about emerging areas of research related to HRI.
+</end course description for 16-867 Human Robot Interaction>

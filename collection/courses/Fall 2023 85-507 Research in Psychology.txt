@@ -1,0 +1,16 @@
+<start course metadata for 85-507 Research in Psychology>
+Semester: Fall 2023 (aka F23)
+Course Name: Research in Psychology
+Course Number: 85-507
+Department: Psychology
+Number of Units: N/A
+Prerequisites: None
+Instructors: Abigail Noyce, Barbara Shinn-Cunningham, Bradford Mahon, Brian MacWhinney, Brooke Feeney, Catarina Vales, Chante Cox-Boyd, Danny Oppenheimer, David Plaut, David Rakison, Erik Thiessen, J. David Creswell, Jennifer Lynn Bruder, Jessica Cantlon, John Anderson, Kasey Creswell, Kody Manke-Miller, Laurie Heller, Lynne Reder, Marcel Just, Michael Tarr, Michael Trujillo, Roberta Klatzky, Roberto Vargas, Sahil Luthra, Sharon Carver, Timothy Verstynen, Vicki Helgeson
+Rooms: DNM DNM
+Locations: Doha, Qatar; Pittsburgh, Pennsylvania
+</end course metadata for 85-507 Research in Psychology>
+
+<start course description for 85-507 Research in Psychology>
+Semester: Fall 2023 (aka F23)
+Course Description: This course may include field study, applied work, or laboratory research. The student should have previous training in the basic research skills that will be used in his/her project, especially statistical methods and experimental design.  Independent Research Projects will be supervised by a faculty member and must result in a written paper. It is the students responsibility to make arrangements for independent study courses with individual faculty members. This should be done the semester before a student wishes to register for one of these courses. The course may be taken for any number of units up to 12, depending upon the amount of work to be done.  Please contact the CMU psychology faculty member you wish to work with to get approval to enroll then email Emilie Rendulic at emilier@andrew.cmu.edu in order to be registered for the course.
+</end course description for 85-507 Research in Psychology>

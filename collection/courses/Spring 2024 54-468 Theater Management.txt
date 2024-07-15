@@ -1,0 +1,16 @@
+<start course metadata for 54-468 Theater Management>
+Semester: Spring 2024 (aka S24)
+Course Name: Theater Management
+Course Number: 54-468
+Department: Drama
+Number of Units: 6
+Prerequisites: None
+Instructors: Brett Crawford
+Rooms: HBH 1006
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-468 Theater Management>
+
+<start course description for 54-468 Theater Management>
+Semester: Spring 2024 (aka S24)
+Course Description: The course examines theatre enterprises, focusing on both existing and emerging business models for producing or presenting theatre organizations from Broadway to Omaha. Theatres are uniquely responsive to their audiences and ecosystems, hence, the course will investigate how the business works - internally and externally. While programming (plays) are at the core of the theatrical exchange, this course will focus its attention on the institutional frameworks that provide the financing, staffing and audiences to those works. The course will be organized in a seminar structure. Lecture will occur to deliver core concepts but the course emphasizes discussion, individualized investigations and creative projects.
+</end course description for 54-468 Theater Management>

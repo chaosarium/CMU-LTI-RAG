@@ -1,0 +1,16 @@
+<start course metadata for 11-801 Quantitative evaluation of language technologies>
+Semester: Spring 2024 (aka S24)
+Course Name: Quantitative evaluation of language technologies
+Course Number: 11-801
+Department: Language Technologies Institute
+Number of Units: 12
+Prerequisites: None
+Instructors: Fernando Diaz
+Rooms: WEH 5421
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 11-801 Quantitative evaluation of language technologies>
+
+<start course description for 11-801 Quantitative evaluation of language technologies>
+Semester: Spring 2024 (aka S24)
+Course Description: Evaluating NLP models for properties like quality, fluency, safety, or revenue generation is a fundamental part of model development in research and engineering contexts.  This course will present fundamental principles of evaluation, focusing on both offline contexts such as benchmark datasets and online environments such as production systems.  Material will be organized into two parts.  The first part will focus on measurement of system decisions, covering the principles of metric design (i.e., what makes a metric appropriate for a given NLP task), data elicitation (i.e., how can we gather data associated with what we are trying to measure), and modeling system properties (i.e., how can we formally model the properties like quality).  The second part will focus on comparing systems given a set of measured values.  We will cover dataset construction and hypothesis testing in both offline and online contexts.  The course will include lectures from external researchers and practitioners using evaluation techniques to audit systems, design new benchmarks, and deploy production models.
+</end course description for 11-801 Quantitative evaluation of language technologies>

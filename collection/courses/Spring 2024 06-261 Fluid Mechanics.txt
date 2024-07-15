@@ -1,0 +1,16 @@
+<start course metadata for 06-261 Fluid Mechanics>
+Semester: Spring 2024 (aka S24)
+Course Name: Fluid Mechanics
+Course Number: 06-261
+Department: Chemical Engineering
+Number of Units: 9
+Prerequisites: (21-254) and (33-151 or 33-121 or 33-141) and (06-223)
+Instructors: Aditya Khair
+Rooms: DH 1212
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 06-261 Fluid Mechanics>
+
+<start course description for 06-261 Fluid Mechanics>
+Semester: Spring 2024 (aka S24)
+Course Description: The principles of fluid mechanics as applied to engineering, including unit operations, are discussed; examples include flow in conduits, process equipment, and commercial pipes, flow around submerged objects, and flow measurement. Microscopic mass and momentum balances are described, including the continuity and Navier-Stokes equations, and modern solution techniques will be explored. Microscopic flow structures will be determined for flow visualization. Boundary layer theory, turbulence, and non-Newtonian fluids are also discussed. A case-study project based on new technological advancements is also required.
+</end course description for 06-261 Fluid Mechanics>

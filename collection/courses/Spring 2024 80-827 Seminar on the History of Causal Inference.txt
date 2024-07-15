@@ -1,0 +1,16 @@
+<start course metadata for 80-827 Seminar on the History of Causal Inference>
+Semester: Spring 2024 (aka S24)
+Course Name: Seminar on the History of Causal Inference
+Course Number: 80-827
+Department: Philosophy
+Number of Units: 12
+Prerequisites: None
+Instructors: Clark Glymour
+Rooms: BH 150
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 80-827 Seminar on the History of Causal Inference>
+
+<start course description for 80-827 Seminar on the History of Causal Inference>
+Semester: Spring 2024 (aka S24)
+Course Description: Topics will include but not be confined to: 17th and 18th century methods and proposals: uncertain but bound error; Francis Bacon and" torturing" Nature: Torricelli's introduction of systematic experiments and their interaction with theory and variable selection.  Isaac Newton's argument for universal gravitation and its confirmation. Legendre, Gauss, least squares, and the importance of computational tractability early in the 19th century; Laplace, Bayes and Hume about probabilistic inference to causes; and Laplace's introduction of hypothesis tests (called for long before by Kepler). The atomic debates over "unobserved causes" in science; Darwin, "natural experiments," and causal inference from history; John Stuart Mill's methods and their problems, Epidemiology and medical experimentation in the 18th and 19th centuries: John Snow and William Farr on causes of cholera and Ignaz Semmelweis and the statistics of medical intervention. Regression and randomization in the late 19th and early 20th centuries. Early 20th century disputes over the meaning of "probability" and "causation;" Psychology and factor analysis in the early 20th century. J. Neymans' "potential outcomes" and counterfactual metaphysics; Wright's introduction of graphical path analysis models in biology and their opposition in the 1920s. R.A. Fisher on the meaning of "probability" and his statistical innovations. Goldberger and causal search in political science in the middle of the 20th century; Positivism and the idea of a "logic of discovery." Mid-century perplexities about the health effects of smoking. Fisher, Pearl, Hempel, and Cartwright on the impossibility of causal discovery by computer and/or without experimental controls Computable search methods in the late 2oth century: PC, FGS and GES algorithms; The problem of "actual causation" in law, history and society: when does one particular event cause another particular event?
+</end course description for 80-827 Seminar on the History of Causal Inference>

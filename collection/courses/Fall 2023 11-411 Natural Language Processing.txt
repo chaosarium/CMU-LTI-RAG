@@ -1,0 +1,16 @@
+<start course metadata for 11-411 Natural Language Processing>
+Semester: Fall 2023 (aka F23)
+Course Name: Natural Language Processing
+Course Number: 11-411
+Department: Language Technologies Institute
+Number of Units: 12
+Prerequisites: 15-122
+Instructors: David Mortensen, Kemal Oflazer
+Rooms: CMU REMOTE; POS A35
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 11-411 Natural Language Processing>
+
+<start course description for 11-411 Natural Language Processing>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is about a variety of ways to represent human languages (like English and Chinese) as computational systems, and how to exploit those representations to write programs that do neat stuff with text and speech data, like translation, summarization, extracting information, question answering, natural interfaces to databases, and conversational agents. This field is called Natural Language Processing or Computational Linguistics, and it is extremely multidisciplinary. This course will therefore include some ideas central to Machine Learning and to Linguistics.  We'll cover computational treatments of words, sounds, sentences, meanings, and conversations. We'll see how probabilities and real-world text data can help. We'll see how different levels interact in state-of-the-art approaches to applications like translation and information extraction.  From a software engineering perspective, there will be an emphasis on rapid prototyping, a useful skill in many other areas of Computer Science.
+</end course description for 11-411 Natural Language Processing>

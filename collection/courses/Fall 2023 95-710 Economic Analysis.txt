@@ -1,0 +1,16 @@
+<start course metadata for 95-710 Economic Analysis>
+Semester: Fall 2023 (aka F23)
+Course Name: Economic Analysis
+Course Number: 95-710
+Department: Information Systems:Sch of IS & Mgt
+Number of Units: 6
+Prerequisites: None
+Instructors: Alessandro Acquisti, Karen Clay
+Rooms: HBH 1202; HBH 1204; HBH 2009; HBH A301
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 95-710 Economic Analysis>
+
+<start course description for 95-710 Economic Analysis>
+Semester: Fall 2023 (aka F23)
+Course Description: This is a course in microeconomics and its implications for management and strategy - particularly (but not exclusively) in the context of information technology firms.   Microeconomics, as discussed in this course, focuses on the models and methods by which managers can analyze their market and organizational environment to make optimal decisions.  The key to such optimal decision-making is an understanding of the trade-offs in allocating scarce resources. The core models of microeconomics are fundamental to more applied areas of management such as strategy, marketing, production, and finance.  The course will begin with an examination of the underlying structure and models of competitive markets, and the efficiency and welfare implications of those models.  We will then examine economic models that describe firm output, pricing and entry/exit decisions.  These models will then be applied to a variety of market contexts, including monopoly, oligopoly, and competition.  As we go through this analysis, we will seek to understand the implications of the theory for information technology firms.  We will also examine interesting dynamics between information, agents and economic outcomes in the context of game theory.  Most of our discussions of the economic models will be accompanied by explorations of the ideas and examples presented in the Shapiro and Varian text.
+</end course description for 95-710 Economic Analysis>

@@ -1,0 +1,16 @@
+<start course metadata for 54-104 Speech I>
+Semester: Spring 2024 (aka S24)
+Course Name: Speech I
+Course Number: 54-104
+Department: Drama
+Number of Units: 6
+Prerequisites: 54-103
+Instructors: Gary Logan
+Rooms: PCA A41
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-104 Speech I>
+
+<start course description for 54-104 Speech I>
+Semester: Spring 2024 (aka S24)
+Course Description: The Spring course continues to develop the foundational work from the pervious term.  This includes the identification and pronunciation of the sounds of Standard American English.   Students will study the physical placement and pronunciation of each sound in isolated applications. The International Phonetic Alphabet (IPA) has been introduced and will continue with further diphthong and triphthong sounds and symbols. Further study will involve strong and weak forms of words, linking 'r' sounds and syllabic consonants; students will apply the advanced speech work to challenging extravagant material as well as exercises with commonly mispronounced words.
+</end course description for 54-104 Speech I>

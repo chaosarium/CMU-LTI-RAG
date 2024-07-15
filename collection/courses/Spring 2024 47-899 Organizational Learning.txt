@@ -1,0 +1,16 @@
+<start course metadata for 47-899 Organizational Learning>
+Semester: Spring 2024 (aka S24)
+Course Name: Organizational Learning
+Course Number: 47-899
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Linda Argote
+Rooms: TEP 5219
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 47-899 Organizational Learning>
+
+<start course description for 47-899 Organizational Learning>
+Semester: Spring 2024 (aka S24)
+Course Description: The course focuses on organizational learning and its processes of creating, retaining and transferring knowledge. The course begins with an analysis of models of organizational learning. Theoretical models and empirical findings are then presented about knowledge creation, retention and transfer.
+</end course description for 47-899 Organizational Learning>

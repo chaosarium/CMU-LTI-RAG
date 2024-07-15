@@ -1,0 +1,16 @@
+<start course metadata for 46-904 Financial Computing IV>
+Semester: Fall 2023 (aka F23)
+Course Name: Financial Computing IV
+Course Number: 46-904
+Department: Business Administration
+Number of Units: 6
+Prerequisites: 46-903 and 46-944
+Instructors: Dmitry Kramkov
+Rooms: BRD 507; TCS 250
+Locations: New York, New York; Pittsburgh, Pennsylvania
+</end course metadata for 46-904 Financial Computing IV>
+
+<start course description for 46-904 Financial Computing IV>
+Semester: Fall 2023 (aka F23)
+Course Description: The goal of this course is to refresh and expand your knowledge of several important topics of the Master Program, such as Object Oriented Programming with C++, theory of pricing and hedging of derivative securities, numerical analysis and stochastic calculus. The course is organized around a project of design and implementation of a powerful C++ library for pricing of derivative securities. You will learn important principles of implementation of financial models and master algorithms of evaluation of different types of derivative securities: European, American, standard, barrier and path dependent options on stocks and interest rates.  Non-MSCF students may not take this course without written permission from the instructor. To be eligible, you must be a BSCF student or a graduate student enrolled in an MSCF participating college (Dietrich, Heinz, Tepper or Mellon). PhD students with relevant research may be eligible with permission from the instructor.
+</end course description for 46-904 Financial Computing IV>

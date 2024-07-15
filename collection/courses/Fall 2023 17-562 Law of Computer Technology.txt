@@ -1,0 +1,16 @@
+<start course metadata for 17-562 Law of Computer Technology>
+Semester: Fall 2023 (aka F23)
+Course Name: Law of Computer Technology
+Course Number: 17-562
+Department: Software & Societal Systems
+Number of Units: 9
+Prerequisites: None
+Instructors: Michael Shamos
+Rooms: DH A302
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 17-562 Law of Computer Technology>
+
+<start course description for 17-562 Law of Computer Technology>
+Semester: Fall 2023 (aka F23)
+Course Description: A survey of how legislatures and courts cope with rapidly advancing computer technologies and how scientific information is presented to, and evaluated by, civil authorities.  The course is also an introduction to the legal process generally and the interaction between the legal system and technology organizations.  Topics include: patents, copyrights in a networked world, law of the Internet, free speech, data security, technology regulation, international law, and trans-border crime.  Open to juniors, seniors and graduate students in any school.  Open to sophomores by permission of the instructor.  Prerequisites: none.
+</end course description for 17-562 Law of Computer Technology>

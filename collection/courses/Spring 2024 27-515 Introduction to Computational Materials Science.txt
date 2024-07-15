@@ -1,0 +1,16 @@
+<start course metadata for 27-515 Introduction to Computational Materials Science>
+Semester: Spring 2024 (aka S24)
+Course Name: Introduction to Computational Materials Science
+Course Number: 27-515
+Department: Materials Science & Engineering
+Number of Units: 9
+Prerequisites: None
+Instructors: Thomas O'Connor
+Rooms: POS 152
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 27-515 Introduction to Computational Materials Science>
+
+<start course description for 27-515 Introduction to Computational Materials Science>
+Semester: Spring 2024 (aka S24)
+Course Description: This course introduces students to the theory and practice of computational materials science from the electronic to the microstructural scale. Both the underlying physical models and their implementation as computational algorithms will be discussed. Topics will include: Density functional theory Molecular dynamics Monte Carlo methods Phase field models Cellular automata Data science Coursework will utilize both software packages and purpose-built computer codes. Students should be comfortable writing, compiling, and running simple computer programs in C, C++, Fortran, MatLab, Python, or comparable environment. THIS COURSE IS FOR MSE UNDERGRADUATE STUDENTS ONLY.
+</end course description for 27-515 Introduction to Computational Materials Science>

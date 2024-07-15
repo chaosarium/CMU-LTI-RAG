@@ -1,0 +1,16 @@
+<start course metadata for 57-952 Studio Recording Laboratory>
+Semester: Fall 2023 (aka F23)
+Course Name: Studio Recording Laboratory
+Course Number: 57-952
+Department: Music
+Number of Units: 12
+Prerequisites: None
+Instructors: Riccardo Schulz
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-952 Studio Recording Laboratory>
+
+<start course description for 57-952 Studio Recording Laboratory>
+Semester: Fall 2023 (aka F23)
+Course Description: TBA
+</end course description for 57-952 Studio Recording Laboratory>

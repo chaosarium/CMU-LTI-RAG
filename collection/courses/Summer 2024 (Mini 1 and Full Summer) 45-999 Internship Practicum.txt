@@ -1,0 +1,16 @@
+<start course metadata for 45-999 Internship Practicum>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Internship Practicum
+Course Number: 45-999
+Department: Business Administration
+Number of Units: 3
+Prerequisites: None
+Instructors: Wendy Hermann
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-999 Internship Practicum>
+
+<start course description for 45-999 Internship Practicum>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: Internship Practicum course takes place over the summer semester between your first and second year of the program. The experiential nature of the course means that students will be required to have an internship or undertake some other project-based activity such as an entrepreneurship project or other faculty-supervised project where you will be able to immediately apply your learning in the course.  Students will be required to identify the goals and objectives for their summer engagement. Students will provide mid-point feedback and a final experience report no later than the Friday of the first week  of Mini 1 courses.
+</end course description for 45-999 Internship Practicum>

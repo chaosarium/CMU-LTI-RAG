@@ -1,0 +1,16 @@
+<start course metadata for 18-500 ECE Design Experience>
+Semester: Fall 2023 (aka F23)
+Course Name: ECE Design Experience
+Course Number: 18-500
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Byron Yu, Tamal Mukherjee
+Rooms: HH 1107
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-500 ECE Design Experience>
+
+<start course description for 18-500 ECE Design Experience>
+Semester: Fall 2023 (aka F23)
+Course Description: The ECE Design Experience is a capstone design course that serves to introduce students to broad- based, practical engineering design and applications through an open-ended design problem. Students will work with a team on a project of their choosing (subject to instructor approval) throughout the semester culminating with a final project presentation, report, and public demonstration. The projects will need to encompass a minimum of two ECE areas. Throughout the semester, teams will need to give both written and oral project proposals and periodic performance updates. Team-building experiences designed to educate students on group dynamics, resource management, deadline planning, Big-picture implications of engineering applications: societal, human, ethical, and long-term impact will be explored. Please note that the full prerequisite list of "All ECE Core Courses plus any two 18-xxx ECE Area Courses" is too long to be put into the registration system. As a result ALL students will be waitlisted for 18-500. Students will be registered once it has been confirmed they have completed the prerequisites, after final grades for the current semester.
+</end course description for 18-500 ECE Design Experience>

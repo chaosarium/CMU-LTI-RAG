@@ -1,0 +1,16 @@
+<start course metadata for 15-090 Computer Science Practicum>
+Semester: Fall 2023 (aka F23)
+Course Name: Computer Science Practicum
+Course Number: 15-090
+Department: Computer Science
+Number of Units: 3
+Prerequisites: None
+Instructors: Mark Stehlik
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-090 Computer Science Practicum>
+
+<start course description for 15-090 Computer Science Practicum>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is for Computer Science students who wish to have an  internship experience as part of their curriculum. Students are required  to write a one-page summary statement prior to registration that  explains how their internship connects with their CS curriculum,  specifically on how it uses material they have learned as well as  prepares them for future courses. Near the end of the internship,  students will be required to submit a reflection paper that describes  the work they did in more detail, including lessons learned about the  work experience and how they utilized their CS education to work  effectively. International students should consult with the Office of  International Education for appropriate paperwork and additional  requirements before registration. Units earned count toward the total  required units necessary for degree completion; students should speak  with an academic advisor for details. This course may be taken at most 3  times for a total of 9 units maximum. Students normally register for  this course for use during the summer semester.
+</end course description for 15-090 Computer Science Practicum>

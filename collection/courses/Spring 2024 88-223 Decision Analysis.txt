@@ -1,0 +1,16 @@
+<start course metadata for 88-223 Decision Analysis>
+Semester: Spring 2024 (aka S24)
+Course Name: Decision Analysis
+Course Number: 88-223
+Department: Social & Decision Sciences
+Number of Units: 12
+Prerequisites: 36-201 or 36-207 or 36-211 or 70-207 or 36-200 or 36-225 or 36-247 or 36-217 or 36-200
+Instructors: Russell Golman
+Rooms: DH 2302
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 88-223 Decision Analysis>
+
+<start course description for 88-223 Decision Analysis>
+Semester: Spring 2024 (aka S24)
+Course Description: This course offers practical guidance about how to make better decisions and teaches students how to use modeling to do decision analysis.  We analyze decisions involving uncertainty, risk, and time delay. In addition to methods of decision analysis, the course will also emphasize sensitivity analysis and communication of recommendations.
+</end course description for 88-223 Decision Analysis>

@@ -1,0 +1,16 @@
+<start course metadata for 36-460 Special Topics: Sports Analytics>
+Semester: Spring 2024 (aka S24)
+Course Name: Special Topics: Sports Analytics
+Course Number: 36-460
+Department: Statistics and Data Science
+Number of Units: 9
+Prerequisites: 36-401
+Instructors: Ronald Yurko
+Rooms: SH 105
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 36-460 Special Topics: Sports Analytics>
+
+<start course description for 36-460 Special Topics: Sports Analytics>
+Semester: Spring 2024 (aka S24)
+Course Description: This course introduces students to fundamental topics in sports analytics and the relevant statistical methods for tackling problems in this growing area. The first half of the course will cover foundational topics in sports analytics including models for the expected value of game states, win probability, team ratings, and hierarchical models for player evaluation. The second half of the course will focus on spatio-temporal methods appropriate for modeling complex player-tracking data. The focus is on understanding the foundations of the considered methods and introducing software for implementation. Students will develop their own sports analytics project using techniques covered in the course for their final assessment.
+</end course description for 36-460 Special Topics: Sports Analytics>

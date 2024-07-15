@@ -1,0 +1,16 @@
+<start course metadata for 48-116 Introduction to Building Performance>
+Semester: Fall 2023 (aka F23)
+Course Name: Introduction to Building Performance
+Course Number: 48-116
+Department: Architecture
+Number of Units: 3
+Prerequisites: 62-122 and 62-123 and 62-125 and 62-126
+Instructors: Nathan Sawyer
+Rooms: MM 303
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-116 Introduction to Building Performance>
+
+<start course description for 48-116 Introduction to Building Performance>
+Semester: Fall 2023 (aka F23)
+Course Description: This course will introduce fundamental concepts of building physics. The knowledge and skills obtained from this course can be applied to studio projects and beyond, improving building design and performance through standard methods of evaluation and simulation tools. Couse curriculum running concurrent with studio projects will aid students in further developing and guiding design decisions to incorporate fundamental concepts related to climate, energy, light, relationship to site, and occupant visual and thermal comfort. Students will develop a general understanding of, site analysis, building placement & form as it relates to building performance, photometric principles to evaluate lighting conditions, thermodynamic principles, and heat transfer, building energy, renewable and embodied energy. Skills, tools, and knowledge base learned in this course with enable designers and architects to employ sustainable practices at all phases of design, leading to better performing buildings.
+</end course description for 48-116 Introduction to Building Performance>

@@ -1,0 +1,16 @@
+<start course metadata for 54-951 Concert Lighting Design>
+Semester: Fall 2023 (aka F23)
+Course Name: Concert Lighting Design
+Course Number: 54-951
+Department: Drama
+Number of Units: 9
+Prerequisites: None
+Instructors: Mary Stebbins
+Rooms: PCA 115
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-951 Concert Lighting Design>
+
+<start course description for 54-951 Concert Lighting Design>
+Semester: Fall 2023 (aka F23)
+Course Description: Students will explore lighting design for concert touring. Emphasis will be on the conceptual development, design process, music analysis, methods of rendering ideas and strategies for implementation of designs.  The course will demonstrate methods of working with the tools, vocabulary and technology available to the concert lighting designer.
+</end course description for 54-951 Concert Lighting Design>

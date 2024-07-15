@@ -1,0 +1,16 @@
+<start course metadata for 94-739 Capstone Project>
+Semester: Fall 2023 (aka F23)
+Course Name: Capstone Project
+Course Number: 94-739
+Department: Heinz College Wide Courses
+Number of Units: N/A
+Prerequisites: None
+Instructors: Andrew Garin, Gabriela Gongora-Svartzman, Rema Padman, Samuel Perl, Sean Qian
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 94-739 Capstone Project>
+
+<start course description for 94-739 Capstone Project>
+Semester: Fall 2023 (aka F23)
+Course Description: This project course provides students an exciting opportunity to apply skills they develop in the classroom to a problem from a real world context. In doing so, students begin to make the transition from their academic world to the environments in which they will work once they graduate. In these environments, the challenges of team building, resource development, client relations, limited information and pressing deadlines are as real and important as the technical and managerial components of any task.  The project is a semester long, intensive team-based experience focusing on one of the specialization areas available in Heinz College programs.
+</end course description for 94-739 Capstone Project>

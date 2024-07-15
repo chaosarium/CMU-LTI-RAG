@@ -1,0 +1,16 @@
+<start course metadata for 49-723 The Pricing of Products and Services>
+Semester: Spring 2024 (aka S24)
+Course Name: The Pricing of Products and Services
+Course Number: 49-723
+Department: Integrated Innovation Institute
+Number of Units: 6
+Prerequisites: None
+Instructors: Peter Boatwright
+Rooms: CA 108
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 49-723 The Pricing of Products and Services>
+
+<start course description for 49-723 The Pricing of Products and Services>
+Semester: Spring 2024 (aka S24)
+Course Description: Why does it make so much sense for Ubers pricing to dynamically change?   Why do automobile manufacturers (e.g. Tesla, Toyota) offer bundles of features in their "technology package" or "signature entertainment package", etc.?  When setting prices for Prozac, why did Eli Lilly charge per pill instead of charging more for higher dosages?   Determining the price of a product or service is one of the most important marketing decisions. It is also one of the least understood aspects of marketing. While many marketing activities are geared toward creating value for the customer, sound pricing decisions are the fundamental tool for businesses to capture the value they create. In todays competitive environment, even slight adjustments in pricing can lead to large financial gains or losses. This course covers multiple pricing strategies, tactics and their applications as well as some relevant aspects of consumer psychology.
+</end course description for 49-723 The Pricing of Products and Services>

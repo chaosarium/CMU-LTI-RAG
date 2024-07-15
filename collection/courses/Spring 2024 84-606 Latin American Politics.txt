@@ -1,0 +1,16 @@
+<start course metadata for 84-606 Latin American Politics>
+Semester: Spring 2024 (aka S24)
+Course Name: Latin American Politics
+Course Number: 84-606
+Department: Institute for Politics and Strategy
+Number of Units: 12
+Prerequisites: None
+Instructors: Ignacio Arana
+Rooms: PH 226B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 84-606 Latin American Politics>
+
+<start course description for 84-606 Latin American Politics>
+Semester: Spring 2024 (aka S24)
+Course Description: The world's most unequal region is an area of contrasts. Ethnically diverse, stable and tumultuous, young and old, urban and rural, learned and illiterate, prosperous and poor, independent yet dependent. The social and material disparities that have characterized the region since colonial times has been a permanent source of instability and the cause of numerous political and economic experiments. Social scientists have found much material in the region to study democratic innovations, revolutions, coups, civil wars, military dictatorships, impeachments, populism, clientelism, corruption, import substitution industrialization, neoliberalism, socialism, regime changes, social movements, welfare policies, regional integration, and diversified leadership. The overarching question to be explored in this course is what forces affect the emergence, development, collapse, reemergence, and consolidation of democracy. To understand the region's present, it is necessary to study path dependence. Thus, the course centers in three historical periods. First, we will briefly examine Latin American history from its conquest to the end of World War II (1492-1945). The aim is to uncover the demographic and geographical setting with its economic, social, and political evolution. The second part centers on the Cold War (1947-1991) and its combination of political and economic experiments. The third part covers the last forty years, including the wave of transitions to democracy to the current challenges to democratic consolidation. We will also address how Latin America has integrated to globalization and how the relationship with the US and China has experienced fundamental changes since the 1990s.
+</end course description for 84-606 Latin American Politics>

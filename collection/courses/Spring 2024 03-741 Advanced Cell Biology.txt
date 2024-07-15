@@ -1,0 +1,16 @@
+<start course metadata for 03-741 Advanced Cell Biology>
+Semester: Spring 2024 (aka S24)
+Course Name: Advanced Cell Biology
+Course Number: 03-741
+Department: Biological Sciences
+Number of Units: 12
+Prerequisites: (03-240 or 03-320) and (03-232 or 03-231)
+Instructors: Adam Linstedt, Christina Lee, Huaiying Zhang, Phil Campbell
+Rooms: MI 355
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 03-741 Advanced Cell Biology>
+
+<start course description for 03-741 Advanced Cell Biology>
+Semester: Spring 2024 (aka S24)
+Course Description: This course covers fourteen topics in which significant recent advances or controversies have been reported. For each topic there is a background lecture by the instructor, student presentations of the relevant primary research articles and a general class discussion. Example topics are: extracellular matrix control of normal and cancer cell cycles, force generating mechanisms in trans-membrane protein translocation, signal transduction control of cell motility, and a molecular mechanism for membrane fusion.
+</end course description for 03-741 Advanced Cell Biology>

@@ -1,0 +1,16 @@
+<start course metadata for 76-302 Communication Support Tutoring Practicum>
+Semester: Fall 2023 (aka F23)
+Course Name: Communication Support Tutoring Practicum
+Course Number: 76-302
+Department: English
+Number of Units: N/A
+Prerequisites: (76-101) or (76-102) or (76-106 and 76-107) or (76-106 and 76-108) or (76-107 and 76-108)
+Instructors: Barbara George
+Rooms: POS 147
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 76-302 Communication Support Tutoring Practicum>
+
+<start course description for 76-302 Communication Support Tutoring Practicum>
+Semester: Fall 2023 (aka F23)
+Course Description: The Communication Support Practicum is designed to introduce students to communication scholarship and pedagogy as well as the methods and theories that inform them for the purpose of communication support and tutoring in CMU's Student Academic Success Center. Students will explore communication (written, oral, and visual) in multiple disciplines and genres with a focus on gaining knowledge and skills to respond to communicators and their texts. Lectures, discussion, and assignments will offer a chance to think critically about tutoring practices and the ideologies and values on which they are based as well as ways to challenge the bias inherent in them. There will be many occasions to reflect on and evaluate tutoring skills, observe others in tutoring situations, and practice a variety of methods that consider the different needs of communicators. Students will gain awareness of how various spaces, identities, technologies, and abilities inform textual production as well as how to create a meaningful response to meet the diverse needs.
+</end course description for 76-302 Communication Support Tutoring Practicum>

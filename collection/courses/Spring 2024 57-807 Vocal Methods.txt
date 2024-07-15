@@ -1,0 +1,16 @@
+<start course metadata for 57-807 Vocal Methods>
+Semester: Spring 2024 (aka S24)
+Course Name: Vocal Methods
+Course Number: 57-807
+Department: Music
+Number of Units: 3
+Prerequisites: None
+Instructors: Alexandra Gruber
+Rooms: CFA M160
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-807 Vocal Methods>
+
+<start course description for 57-807 Vocal Methods>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is designed to enable each student to develop a pleasant, healthy and musically expressive voice and effective vocal pedagogy.
+</end course description for 57-807 Vocal Methods>

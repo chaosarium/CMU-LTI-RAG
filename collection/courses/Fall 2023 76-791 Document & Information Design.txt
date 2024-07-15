@@ -1,0 +1,16 @@
+<start course metadata for 76-791 Document & Information Design>
+Semester: Fall 2023 (aka F23)
+Course Name: Document & Information Design
+Course Number: 76-791
+Department: English
+Number of Units: 9
+Prerequisites: 76-870
+Instructors: Suguru Ishizaki
+Rooms: CFA 318
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 76-791 Document & Information Design>
+
+<start course description for 76-791 Document & Information Design>
+Semester: Fall 2023 (aka F23)
+Course Description: This course provides students who have already learned the foundation of written communication with an opportunity to develop the ability to analyze and create visual-verbal synergy in printed documents. Students will be introduced to the basic concepts and vocabulary, as well as the practical issues of visual communication design through a series of hands-on projects in various rhetorical situations. Assigned readings will complement the projects in exploring document design from historical, theoretical, and technological perspectives. Class discussions and critiquing are an essential part of this course. Adobe InDesign, Photoshop, and Illustrator will be taught in class, and used to create the assigned projects.
+</end course description for 76-791 Document & Information Design>

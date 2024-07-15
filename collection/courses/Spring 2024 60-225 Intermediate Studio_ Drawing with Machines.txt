@@ -1,0 +1,16 @@
+<start course metadata for 60-225 Intermediate Studio: Drawing with Machines>
+Semester: Spring 2024 (aka S24)
+Course Name: Intermediate Studio: Drawing with Machines
+Course Number: 60-225
+Department: Art
+Number of Units: 10
+Prerequisites: None
+Instructors: Golan Levin
+Rooms: CFA 303
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 60-225 Intermediate Studio: Drawing with Machines>
+
+<start course description for 60-225 Intermediate Studio: Drawing with Machines>
+Semester: Spring 2024 (aka S24)
+Course Description: This is an intermediate studio course in experimental drawing, generative art, computational design, and mechatronic mishegoss. Working at the boundaries of creative code, automation, physical materials, and gestural mark-making, we will explore personal and peculiar new approaches to digital imaging; the development of ultra-niche workflows as a mode of creative practice; and the use of algorithms and machine collaborators as nontraditional intermediaries between mind, hand, and paper. Drawings will be created using AxiDraw plotters and a variety of other specialized robots. Interested students should have JavaScript and/or Python programming experience equivalent to an introductory course such as 15-104, '110 or '112.
+</end course description for 60-225 Intermediate Studio: Drawing with Machines>

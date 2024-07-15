@@ -1,0 +1,16 @@
+<start course metadata for 16-362 Mobile Robot Algorithms Laboratory>
+Semester: Fall 2023 (aka F23)
+Course Name: Mobile Robot Algorithms Laboratory
+Course Number: 16-362
+Department: Robotics
+Number of Units: 12
+Prerequisites: None
+Instructors: Kshitij Goel, Wennie Tabib
+Rooms: NSH 3002
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 16-362 Mobile Robot Algorithms Laboratory>
+
+<start course description for 16-362 Mobile Robot Algorithms Laboratory>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is an introduction to the theory and algorithms of multirotor vehicle autonomy.  Students will work individually to develop a multirotor simulator in Python and C++, add sensors, plan, and perform exploration. Lectures will cover topics to advance the capabilities of the simulator. Homeworks will be designed to increase the autonomy capabilities of the multirotor vehicle. The class will culminate in an individual project that pushes the autonomy capabilities developed throughout the course and may cover multi-robot aerial autonomy, dynamic environment modeling, or advanced planning and control. In order to succeed in the course, students must have a 2nd year science/engineering level background in mathematics (matrices, vectors, coordinate systems) and have already mastered at least one object-oriented programming language like C++ or Python. When the course is over, students will have  written a single software system that has been incrementally extended in functionality and regularly debugged throughout the semester.
+</end course description for 16-362 Mobile Robot Algorithms Laboratory>

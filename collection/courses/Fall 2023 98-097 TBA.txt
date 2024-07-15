@@ -1,0 +1,16 @@
+<start course metadata for 98-097 TBA>
+Semester: Fall 2023 (aka F23)
+Course Name: TBA
+Course Number: 98-097
+Department: StuCo (Student Led Courses)
+Number of Units: 3
+Prerequisites: None
+Instructors: Kai Diel
+Rooms: CFA 317
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 98-097 TBA>
+
+<start course description for 98-097 TBA>
+Semester: Fall 2023 (aka F23)
+Course Description: Do you want to... -Make cool 3d models? -Learn an industry standard program? -Learn more about the industries 3d art are used in     If the answer to any of those questions is YES, then this is the StuCo for you! * This course intends to give insight into the process of character creation involved in game/entertainment industry.  * This is a technical course that teaches the tools and workflow involved in Zbrush. Students will learn the basic understanding of how to use Zbrush.  * Students will work on different projects each week. * No prior experience is required.  * We will use Discord as our primary means of communication. * There will be critics of the weekly assignments.
+</end course description for 98-097 TBA>

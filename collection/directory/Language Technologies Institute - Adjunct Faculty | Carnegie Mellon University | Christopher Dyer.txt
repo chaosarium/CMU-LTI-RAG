@@ -1,0 +1,6 @@
+Name: Christopher Dyer
+Title: Senior Staff Scientist for DeepMind
+Email cdyer@cs.cmu.edu 
+Phone: 
+Office: 
+Interests: Machine Learning, Machine Translation, Natural Language Processing and Computational Linguistics

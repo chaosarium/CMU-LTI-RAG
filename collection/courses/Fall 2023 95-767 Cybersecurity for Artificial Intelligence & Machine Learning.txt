@@ -1,0 +1,16 @@
+<start course metadata for 95-767 Cybersecurity for Artificial Intelligence & Machine Learning>
+Semester: Fall 2023 (aka F23)
+Course Name: Cybersecurity for Artificial Intelligence & Machine Learning
+Course Number: 95-767
+Department: Information Systems:Sch of IS & Mgt
+Number of Units: 6
+Prerequisites: (90-812 or 95-888 or 95-898) and (90-707 or 90-711)
+Instructors: Thomas Scanlon
+Rooms: HBH 1007
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 95-767 Cybersecurity for Artificial Intelligence & Machine Learning>
+
+<start course description for 95-767 Cybersecurity for Artificial Intelligence & Machine Learning>
+Semester: Fall 2023 (aka F23)
+Course Description: Advancements in Artificial Intelligence (AI) and Machine Learning (ML) have allowed for a surge in adoption of AI & ML solutions to address problems across numerous domains. With this rising reliance on AI & ML in many organizations, it is critical that such systems are protected from malicious activities. This course will discuss AI & ML cybersecurity issues, explore case studies of AI & ML cyber incidents, present AI & ML adversarial techniques, and demonstrate secure design approaches to protect AI & ML systems. With an emphasis on machine learning, the course will focus on secure machine learning systems development approaches and secure machine learning operations (MLOps). Students are expected to have knowledge of fundamental statistics and the ability to program in Python.
+</end course description for 95-767 Cybersecurity for Artificial Intelligence & Machine Learning>

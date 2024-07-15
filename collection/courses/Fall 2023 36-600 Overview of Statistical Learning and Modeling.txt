@@ -1,0 +1,16 @@
+<start course metadata for 36-600 Overview of Statistical Learning and Modeling>
+Semester: Fall 2023 (aka F23)
+Course Name: Overview of Statistical Learning and Modeling
+Course Number: 36-600
+Department: Statistics and Data Science
+Number of Units: 12
+Prerequisites: None
+Instructors: Peter Freeman
+Rooms: SH 236
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 36-600 Overview of Statistical Learning and Modeling>
+
+<start course description for 36-600 Overview of Statistical Learning and Modeling>
+Semester: Fall 2023 (aka F23)
+Course Description: This is a first course in statistical practice, targeted specifically to CMU graduate students outside of statistics and machine learning. It is designed as a high-level introduction both to fundamental concepts of probability and statistics and to the ways by which statisticians go about approaching and analyzing data. The course will cover exploratory data analysis, parameter estimation and hypothesis testing, clustering, and common regression and classification models. If time permits, additional topics such as text mining, experimental design, and time series may be covered. Students will carry out all work using the R programming language. (Previous exposure to R is not required, nor is previous programming experience.)
+</end course description for 36-600 Overview of Statistical Learning and Modeling>

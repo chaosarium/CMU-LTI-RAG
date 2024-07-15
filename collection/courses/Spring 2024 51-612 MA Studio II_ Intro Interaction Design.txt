@@ -1,0 +1,16 @@
+<start course metadata for 51-612 MA Studio II: Intro Interaction Design>
+Semester: Spring 2024 (aka S24)
+Course Name: MA Studio II: Intro Interaction Design
+Course Number: 51-612
+Department: Design
+Number of Units: 12
+Prerequisites: None
+Instructors: Ashley Deal, Raelynn O'Leary
+Rooms: MM 121
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-612 MA Studio II: Intro Interaction Design>
+
+<start course description for 51-612 MA Studio II: Intro Interaction Design>
+Semester: Spring 2024 (aka S24)
+Course Description: In this project-based studio course, you will establish the foundational skills, perspectives, and working vocabulary of an interaction designer. Lectures and readings introduce the history of the field, along with its most influential ideas, literature, and practitioners. Exercises, projects, and critiques allow you to apply what you learn. You'll learn to think and see the world like an interaction designer, communicate your ideas effectively, and develop skills associated with interaction design methods and and processes.
+</end course description for 51-612 MA Studio II: Intro Interaction Design>

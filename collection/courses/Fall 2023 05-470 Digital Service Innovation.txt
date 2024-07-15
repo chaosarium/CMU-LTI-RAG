@@ -1,0 +1,16 @@
+<start course metadata for 05-470 Digital Service Innovation>
+Semester: Fall 2023 (aka F23)
+Course Name: Digital Service Innovation
+Course Number: 05-470
+Department: Human-Computer Interaction
+Number of Units: 12
+Prerequisites: None
+Instructors: Laura Vinchesi, Skip Shelly
+Rooms: 4SC 104
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 05-470 Digital Service Innovation>
+
+<start course description for 05-470 Digital Service Innovation>
+Semester: Fall 2023 (aka F23)
+Course Description: Attention entrepreneurs, designers, and engineers! This course teaches you to invent digital services. You will learn about value-creation in the service sector and a human-centered design process including brainstorming, story-boarding, interviewing, video sketches, and pitching. Students work in small, interdisciplinary teams to discover unmet needs of users. They conceive of a digital service and assess its technical feasibility, financial viability, and desirability. Then they  produce a plan with a business model and a video sketch and pitch it to industry professionals. Grades will be determined primarily by the quality of the team's products.
+</end course description for 05-470 Digital Service Innovation>

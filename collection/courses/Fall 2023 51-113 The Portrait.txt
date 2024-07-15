@@ -1,0 +1,16 @@
+<start course metadata for 51-113 The Portrait>
+Semester: Fall 2023 (aka F23)
+Course Name: The Portrait
+Course Number: 51-113
+Department: Design
+Number of Units: 3
+Prerequisites: None
+Instructors: Dylan Vitone
+Rooms: CMB 1032
+Locations: Doha, Qatar
+</end course metadata for 51-113 The Portrait>
+
+<start course description for 51-113 The Portrait>
+Semester: Fall 2023 (aka F23)
+Course Description: The Portrait is a micro mini course
+</end course description for 51-113 The Portrait>

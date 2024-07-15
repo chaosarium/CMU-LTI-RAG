@@ -1,0 +1,16 @@
+<start course metadata for 24-392 Mechancial Engineering Project>
+Semester: Summer Two 2024 (aka M24, M24 Mini 2, Summer 2024 Mini 2)
+Course Name: Mechancial Engineering Project
+Course Number: 24-392
+Department: Mechanical Engineering
+Number of Units: N/A
+Prerequisites: None
+Instructors: Chris Hertz
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-392 Mechancial Engineering Project>
+
+<start course description for 24-392 Mechancial Engineering Project>
+Semester: Summer Two 2024 (aka M24, M24 Mini 2, Summer 2024 Mini 2)
+Course Description: Practice in the organization, planning, and execution of appropriate engineering projects. These investigations may be assigned on an individual or a team basis and in most cases will involve experimental work.  9 hrs. lab.
+</end course description for 24-392 Mechancial Engineering Project>

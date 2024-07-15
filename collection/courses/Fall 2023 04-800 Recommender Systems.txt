@@ -1,0 +1,16 @@
+<start course metadata for 04-800 Recommender Systems>
+Semester: Fall 2023 (aka F23)
+Course Name: Recommender Systems
+Course Number: 04-800
+Department: Information & Communication Technology
+Number of Units: 12
+Prerequisites: None
+Instructors: Ben Racz, Carine Pierrett Mukamakuza, Charles Wiecha, Christine Niyizamwiyitira, Conrad Tucker, Emmanuel Ndashimye, Howdy Pierce, Jesse Thornburg, Patrick McSharry
+Rooms: CMR F203; CMR F205; CMR F309; CMU REMOTE
+Locations: Kigali, Rwanda
+</end course metadata for 04-800 Recommender Systems>
+
+<start course description for 04-800 Recommender Systems>
+Semester: Fall 2023 (aka F23)
+Course Description: Special Topics courses cover a variety of subjects. They are grouped under special topics because a unique course number has not been assigned. The courses may be distinguished from each other by looking at the section letter/number and section title.
+</end course description for 04-800 Recommender Systems>

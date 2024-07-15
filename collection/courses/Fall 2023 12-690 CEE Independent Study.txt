@@ -1,0 +1,16 @@
+<start course metadata for 12-690 CEE Independent Study>
+Semester: Fall 2023 (aka F23)
+Course Name: CEE Independent Study
+Course Number: 12-690
+Department: Civil & Environmental Engineering
+Number of Units: N/A
+Prerequisites: None
+Instructors: Andrea Francioni Rooney, Burcu Akinci, Destenie Nock, Sarah Christian
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 12-690 CEE Independent Study>
+
+<start course description for 12-690 CEE Independent Study>
+Semester: Fall 2023 (aka F23)
+Course Description: In-depth investigation of a special topic in Civil and Environmental Engineering under the direction of a faculty member.  The subject of study is determined through discussion between the student and a faculty advisor.  A student in this course must write a proposal about what they want to learn and how it can be evaluated.  Approaches can include more in-depth examination of topics in the curriculum, study of topics not in the curriculum, a design project, or other investigation.  To register for this course, a student must have the approval of the faculty member for both the subject and the number of units.
+</end course description for 12-690 CEE Independent Study>

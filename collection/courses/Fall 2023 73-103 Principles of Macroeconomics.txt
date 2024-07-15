@@ -1,0 +1,16 @@
+<start course metadata for 73-103 Principles of Macroeconomics>
+Semester: Fall 2023 (aka F23)
+Course Name: Principles of Macroeconomics
+Course Number: 73-103
+Department: Economics
+Number of Units: 9
+Prerequisites: 73-102 or 73-104
+Instructors: Nicholas Pretnar
+Rooms: TEP 3801
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 73-103 Principles of Macroeconomics>
+
+<start course description for 73-103 Principles of Macroeconomics>
+Semester: Fall 2023 (aka F23)
+Course Description: A one-semester course that teaches the fundamentals of macroeconomics. Students will learn how macroeconomic analysis can explain national economic activity and how government intervention might stabilize an economy.  Topics include: defining and measuring national wealth, economic growth, credit markets, unemployment, interest rates, inflation, and the monetary system. Additional emphasis will be paid to:  long-term economic development, political economy, financial crises and topics that are central to contemporary macroeconomic debates such as the impact of technological change, migration, and trade on the macroeconomy. Students will access macroeconomic databases, and then use basic statistics to describe and isolate empirical patterns in macro-data. Not open to students who have received credit for 73-100. (Lecture, 2 hours; Recitation, 1 hour).
+</end course description for 73-103 Principles of Macroeconomics>

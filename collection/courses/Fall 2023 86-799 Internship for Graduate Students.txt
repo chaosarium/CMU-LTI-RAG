@@ -1,0 +1,16 @@
+<start course metadata for 86-799 Internship for Graduate Students>
+Semester: Fall 2023 (aka F23)
+Course Name: Internship for Graduate Students
+Course Number: 86-799
+Department: Neuroscience Institute
+Number of Units: 3
+Prerequisites: None
+Instructors: Melissa Stupka
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 86-799 Internship for Graduate Students>
+
+<start course description for 86-799 Internship for Graduate Students>
+Semester: Fall 2023 (aka F23)
+Course Description: Internship for Graduate Students
+</end course description for 86-799 Internship for Graduate Students>

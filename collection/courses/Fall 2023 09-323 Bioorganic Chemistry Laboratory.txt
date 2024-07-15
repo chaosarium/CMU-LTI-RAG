@@ -1,0 +1,16 @@
+<start course metadata for 09-323 Bioorganic Chemistry Laboratory>
+Semester: Fall 2023 (aka F23)
+Course Name: Bioorganic Chemistry Laboratory
+Course Number: 09-323
+Department: Chemistry
+Number of Units: 12
+Prerequisites: (09-220 or 09-218) and (09-222)
+Instructors: Anna Kietrys
+Rooms: DH 1209
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 09-323 Bioorganic Chemistry Laboratory>
+
+<start course description for 09-323 Bioorganic Chemistry Laboratory>
+Semester: Fall 2023 (aka F23)
+Course Description: Bioorganic chemistry is concerned with the action of synthesized compounds on biological systems.  In order to maximize the likelihood of identifying a biologically active compound, synthetic libraries are often employed, requiring extensive familiarity with simple, efficient chemical coupling steps and protecting group chemistry.  In this inquiry based laboratory course, using a process that mimics the current practice in drug discovery by pharmaceutical companies, students will rationally design a compound library in hopes of finding a compound active against a selected biological target, search for active compounds in the library, and then quantitatively characterize any identified compounds for activity.  Working in small groups, students will develop proposals for and execute the target assay selected, the library synthesis, and the screening approach.  Students will write reports summarizing the results in each phase of the course.   Throughout the course, students will be introduced to concepts relevant to industrial scientific research, including regulatory compliance, quality control and assurance, and intellectual property.
+</end course description for 09-323 Bioorganic Chemistry Laboratory>

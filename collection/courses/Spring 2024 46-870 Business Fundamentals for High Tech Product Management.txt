@@ -1,0 +1,16 @@
+<start course metadata for 46-870 Business Fundamentals for High Tech Product Management>
+Semester: Spring 2024 (aka S24)
+Course Name: Business Fundamentals for High Tech Product Management
+Course Number: 46-870
+Department: Business Administration
+Number of Units: 12
+Prerequisites: None
+Instructors: David Lamont
+Rooms: TEP 2112
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 46-870 Business Fundamentals for High Tech Product Management>
+
+<start course description for 46-870 Business Fundamentals for High Tech Product Management>
+Semester: Spring 2024 (aka S24)
+Course Description: MSPM PROGRAM
+</end course description for 46-870 Business Fundamentals for High Tech Product Management>

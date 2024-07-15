@@ -1,0 +1,16 @@
+<start course metadata for 38-612 Informational Visualization for Scientists>
+Semester: Spring 2024 (aka S24)
+Course Name: Informational Visualization for Scientists
+Course Number: 38-612
+Department: MCS Interdisciplinary
+Number of Units: 6
+Prerequisites: 38-610
+Instructors: Joel Welling
+Rooms: 3SC 110
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 38-612 Informational Visualization for Scientists>
+
+<start course description for 38-612 Informational Visualization for Scientists>
+Semester: Spring 2024 (aka S24)
+Course Description: This course introduces the student to the concepts and tools of data visualization. Emphasis is placed on information visualization, with some exposure to visualization of scientific datasets with a spatial reference frame. The student will gain hands-on experience with a variety of visualization tools accessible from Python and R, including matplotlib, ggplot, and VisIt. This course is required for students enrolled in the MS program in Data Analytics for Science.
+</end course description for 38-612 Informational Visualization for Scientists>

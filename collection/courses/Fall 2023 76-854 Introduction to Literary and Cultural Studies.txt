@@ -1,0 +1,16 @@
+<start course metadata for 76-854 Introduction to Literary and Cultural Studies>
+Semester: Fall 2023 (aka F23)
+Course Name: Introduction to Literary and Cultural Studies
+Course Number: 76-854
+Department: English
+Number of Units: N/A
+Prerequisites: None
+Instructors: Jeffrey Williams
+Rooms: BH 255B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 76-854 Introduction to Literary and Cultural Studies>
+
+<start course description for 76-854 Introduction to Literary and Cultural Studies>
+Semester: Fall 2023 (aka F23)
+Course Description: "Cultural studies" covers a wide umbrella of practices. In this course, we will try to get a clearer sense of it by looking at its history, particularly in the UK and the US from the 1960s to the present. We will read pioneers in the formation of British cultural studies, such as Stuart Hall and Hazel Carby, French theorists such as Louis Althusser and Michel Foucault, and infuential contemporary theorists such as Edward Said and Judith Butler. In addition, we will look at those forging recent initiatives such as affect theory (Sianne Ngai), queer theory (Jack Halberstam), afro-futurism (Alondra Nelson), distant reading (Franco Moretti), and environmental humanities (Rob Nixon). Throughout, we will think about the way that cultural studies might provide alternative methods for doing criticism, and you will write several papers and develop your own research project.
+</end course description for 76-854 Introduction to Literary and Cultural Studies>

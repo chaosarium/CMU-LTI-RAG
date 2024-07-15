@@ -1,0 +1,16 @@
+<start course metadata for 05-997 Reading and Research in HCI>
+Semester: Spring 2024 (aka S24)
+Course Name: Reading and Research in HCI
+Course Number: 05-997
+Department: Human-Computer Interaction
+Number of Units: N/A
+Prerequisites: None
+Instructors: Geoff Kaufman, Susan Kravitz
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 05-997 Reading and Research in HCI>
+
+<start course description for 05-997 Reading and Research in HCI>
+Semester: Spring 2024 (aka S24)
+Course Description: Advisor-directed research in HCI.  For HCII PhD students only.
+</end course description for 05-997 Reading and Research in HCI>

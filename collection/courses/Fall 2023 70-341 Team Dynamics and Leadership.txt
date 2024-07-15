@@ -1,0 +1,16 @@
+<start course metadata for 70-341 Team Dynamics and Leadership>
+Semester: Fall 2023 (aka F23)
+Course Name: Team Dynamics and Leadership
+Course Number: 70-341
+Department: Business Administration
+Number of Units: 9
+Prerequisites: 36-200 or 36-201 or 36-207 or 36-217 or 70-207 or 36-225 or 36-247 or 36-220
+Instructors: Maria Tomprou
+Rooms: TEP 2701
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 70-341 Team Dynamics and Leadership>
+
+<start course description for 70-341 Team Dynamics and Leadership>
+Semester: Fall 2023 (aka F23)
+Course Description: Organizations have greatly expanded their use of teams to accomplish a wide variety of objectives. Teams develop new products, provide professional services, and start new businesses. Temporary teams are frequently assembled to make difficult decisions, solve cross-functional problems, and generate new ideas. Advances in communication technology allow people dispersed across the globe to collaborate virtually, creating many new opportunities and challenges for leaders of such teams. This course will provide you the knowledge and skills to communicate in teams and to lead them effectively. It will help you better communicate in and lead teams and organizations. You will learn both effective leadership practices as well as how to avoid common leadership mistakes. Our readings reflect both the scientific and practice literatures and class exercises, cases, and projects provide the opportunity to apply what you learn. This course may use third-party course material that is not available for individual purchase from the publisher.   If so, the third-party course material will be secured and provided by the Tepper School to students enrolled in the course, and students enrolled in the course will be required to pay to the University the associated additional course materials fee for the third-party course material provided.   The amount of the course materials fee is dependent on the University's cost of the particular materials provided, and typically ranges from $13 to $75.
+</end course description for 70-341 Team Dynamics and Leadership>

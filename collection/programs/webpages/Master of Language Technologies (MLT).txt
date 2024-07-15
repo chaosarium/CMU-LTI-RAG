@@ -1,0 +1,107 @@
+Overview: The MLT program prepares students for a research career in academia or industry. In this program, you’ll be immersed in research for two full years. During the academic year, your time will be evenly split between taking courses and doing research with your faculty advisor. Your summer will be devoted entirely to research. Many MLT grads continue on to Ph.D. programs at CMU and other top institutions, while others pursue careers at companies emphasizing research and rapid innovation.
+Requirements: The MLT program lasts two years (24 months), and students must complete two summers of research. Students should usually expect to graduate in August of their second year.
+
+MLT students take 120 or more course units (about 10 courses), at least 72 of which are LTI courses, and 24 of which are School of Computer Science (SCS) courses. Most of these are 12-unit courses, although lab courses are typically 6 units. Our courses generally assume knowledge of programming and data structures. The remaining units may also be taken from the LTI, or with approval from the faculty advisor, any other senior- or graduate-level course offered at CMU or Pitt.
+
+Directed research is another integral part of the MLT program; MLT students carry out directed research during their studies, with guidance from their faculty advisors.
+
+Students may also choose to complete an optional MLT thesis. Guidelines can be found in the PDF iconMLT Handbook.
+Curriculum: Here's an example of how your two years in the MLT program may break down.
+
+ 
+
+Fall
+
+Spring
+
+Summer
+
+Year 1
+
+Grammars and Lexicons
+
+Algorithms for NLP
+
+Directed Study
+
+Search Engines or Machine Learning for Text Mining
+
+Machine Translation
+
+Self-Paced Lab
+
+Directed Study
+
+Required Research
+
+ 
+
+Year 2
+
+Software Engineering for LT (I)
+
+Speech Understanding
+
+Self-Paced Lab
+
+Directed Study
+
+Software Engineering for LT (II)
+
+Directed Study
+
+Elective
+
+Required Research
+Admissions: Carnegie Mellon's School of Computer Science has a centralized online application process. Applications and all supporting documentation for fall admission to any of the LTI's graduate programs must be received by the application deadline. Incomplete applications will not be considered. The application period for Fall 2024 will open on September 6, 2023.
+
+*Please note, we no longer require mailed, hard versions of transcripts or test scores at the time of application. Do not mail anything to the admissions office. If you are accepted to a program, you will be given instruction to then mail your materials.
+
+Final Application Deadline
+
+December 13, 2023 at 3 p.m. EST.
+
+Cost
+
+$100 per program, $80 for applications submitted before November 29, 2023 at 3PM EST (early deadline).
+Fee Waivers
+
+Fee waivers may be available in cases of financial hardship, or for participants in select "pipeline" programs. For more information, please refer to the School of Computer Science Fee Waiver page.
+
+Requirements
+
+The School of Computer Science requires the following for all graduate program applications:
+
+GRE scores: GREs are now optional, but if you want to submit GRE scores:
+These must be less than five years old. A GRE subject test in science, engineering, computer science, math, etc. is not required, but you may complete one and submit the scores if you wish. Our Institution Code is 2074; Department Code is 0402.
+If you will be studying on an F-1 or J-1 visa, and English is not a native language for you (native language…meaning spoken at home and from birth), an official copy of an English proficiency score report is required. The English proficiency requirement cannot be waived for any reason. Find more information under "Test Scores" on our FAQ page.
+Successful applicants will have a minimum TOEFL score of 100. Our Institution Code is 4256; the Department Code is 78.
+Official transcripts from each university you have attended, regardless of whether you received your degree there.
+Current resume.
+Statement of Purpose.
+Three letters of recommendation.
+For more details on these requirements, please see the SCS Master's Admissions page.
+
+In addition to the SCS guidelines, the LTI requires:
+
+A short (1-3 minute) video of yourself. There will be a prompt question that you will respond to. You will have three attempts. This is not a required part of the application process, but it's strongly suggested.
+Any outside funding you are receiving must be accompanied by an official award letter.
+No incomplete applications will be eligible for consideration.
+
+For specific application/admissions questions, please contact Kate Schaich.
+
+Tuition Rates
+
+Tuition is set by the School of Computer Science and can vary by year. Current tuition rates can be found on the Graduate Tuition section of the Student Financial Services website.
+
+Financial Aid Resources
+
+Research Assistant-ships are occasionally offered by research advisors to current MLT students. These are not guaranteed and vary from semester-to-semester. They fluctuate and are dependent on the funding source, research advisor and MLT student.
+
+Student Financial Services has additional information on financial aid and billing / payments. They have a detailed outline of how to apply for financial aid on the Graduate Financial Aid Process page.
+
+Enrollment & Finances has additional resource links to assist with financial aid and tuition payments.
+
+Graduate Education – Financial Assistance provides resources for current students regarding emergency loans and conference travel grants.
+Handbook: For a complete breakdown of the MLT program and its policies, including information about internships, please view the PDF iconMLT Handbook.
+Additional Info: For more information about the MLT program, contact Kate Schaich.

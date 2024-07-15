@@ -1,0 +1,16 @@
+<start course metadata for 05-434 Machine Learning in Practice>
+Semester: Spring 2024 (aka S24)
+Course Name: Machine Learning in Practice
+Course Number: 05-434
+Department: Human-Computer Interaction
+Number of Units: 12
+Prerequisites: None
+Instructors: Carolyn Rose
+Rooms: WEH 7500
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 05-434 Machine Learning in Practice>
+
+<start course description for 05-434 Machine Learning in Practice>
+Semester: Spring 2024 (aka S24)
+Course Description: Machine Learning is concerned with computer programs that enable the behavior of a computer to be learned from examples or experience rather than dictated through rules written by hand. It has practical value in many application areas of computer science such as on-line communities and digital libraries. This class is meant to teach the practical side of machine learning for applications, such as mining newsgroup data or building adaptive user interfaces. The emphasis will be on learning the process of applying machine learning effectively to a variety of problems rather than emphasizing an understanding of the theory behind what makes machine learning work. This course does not assume any prior exposure to machine learning theory or practice. In the first 2/3 of the course, we will cover a wide range of learning algorithms that can be applied to a variety of problems. In particular, we will cover topics such as decision trees, rule based classification, support vector machines, Bayesian networks, and clustering. In the final third of the class, we will go into more depth on one application area, namely the application of machine learning to problems involving text processing, such as information retrieval or text categorization.  05-834 is the HCII graduate section. If you are an LTI student, please sign up for the LTI graduate course number (11-663) ONLY to count properly towards your degree requirements.   05-434  is the HCII undergraduate section. If you are an LTI student, please sign up for the LTI undergraduate course number (11-344) ONLY to count properly towards your degree requirements.
+</end course description for 05-434 Machine Learning in Practice>

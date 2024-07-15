@@ -1,0 +1,6 @@
+publication venue: AAAI Conference on Artificial Intelligence
+title: Contrastive Attention Networks for Attribution of Early Modern Print
+authors: Nikolai Vogler, Kartik Goyal, Kishore PV Reddy, Elizaveta Pertseva, Sam Lemley, Christopher N. Warren, M. GSell, Taylor Berg-Kirkpatrick
+year: 2023
+tldr: The method successfully improves downstream damaged type-imprint matching among printed works from this period, as validated by in-domain human experts and demonstrates potential to extend the extant historical research about the origins and content of these books.
+abstract: In this paper, we develop machine learning techniques to identify unknown printers in early modern (c.~1500--1800) English printed books.

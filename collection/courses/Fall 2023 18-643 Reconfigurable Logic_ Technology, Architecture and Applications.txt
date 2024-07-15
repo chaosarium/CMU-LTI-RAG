@@ -1,0 +1,16 @@
+<start course metadata for 18-643 Reconfigurable Logic: Technology, Architecture and Applications>
+Semester: Fall 2023 (aka F23)
+Course Name: Reconfigurable Logic: Technology, Architecture and Applications
+Course Number: 18-643
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: 18-447 or 18-341
+Instructors: James Hoe
+Rooms: SH 234
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-643 Reconfigurable Logic: Technology, Architecture and Applications>
+
+<start course description for 18-643 Reconfigurable Logic: Technology, Architecture and Applications>
+Semester: Fall 2023 (aka F23)
+Course Description: Three decades since its original inception as a lower-cost compromise to ASIC, modern Field Programmable Gate Arrays (FPGAs) are versatile and powerful systems-on-a-chip for many applications that need both hardware level efficiency and the flexibility of reprogrammability.  More recently, FPGAs have also emerged as a formidable computing substrate with applications ranging from data centers and mobile devices.  This course offers a comprehensive coverage of modern FPGAs in terms of technology, architecture and applications.  The coverage will also extend into on-going research investigations of future directions.  Students will take part in a substantial design projects applying the latest FPGA platforms to compute acceleration.  Register-Transfer Level (RTL) hardware design experience is required.
+</end course description for 18-643 Reconfigurable Logic: Technology, Architecture and Applications>

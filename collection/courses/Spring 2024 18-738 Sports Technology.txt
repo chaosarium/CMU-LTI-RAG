@@ -1,0 +1,16 @@
+<start course metadata for 18-738 Sports Technology>
+Semester: Spring 2024 (aka S24)
+Course Name: Sports Technology
+Course Number: 18-738
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Priya Narasimhan
+Rooms: GHC 4215; WEH 5409
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-738 Sports Technology>
+
+<start course description for 18-738 Sports Technology>
+Semester: Spring 2024 (aka S24)
+Course Description: The course's lecture content will cover background material on key aspects of sports technology, including topics such as computer vision, artificial intelligence, data mining, the physics of sports and understanding of real-world systems and guest lectures from experts in the field. The topics covered in depth will include the types of sensors and algorithms used in real-world systems deployments today, as well as new applications of the Internet of Things to different aspects of sports, including training, performance, coaching, etc. This course also comprises a semester-long project experience and research paper geared towards the development of skills to design realistic and practical embedded/mobile systems and applications that enhance various aspects of the training, coaching, playing and scouting of different sports, including football, hockey, baseball, soccer, etc. Students will work in teams on a project that will involve the hands-on design, configuration, engineering, implementation and testing of an embedded-system prototype of an innovative sports technology of their choice. Students will be expected to leverage proficiency and background gained from other courses, particularly with regard to embedded real-time principles, software systems and embedded programming. The project will utilize a synergistic mixture of skills in system architecture, modular system design, software engineering, subsystem integration, debugging and testing. From inception to demonstration of the prototype, the course will follow industrial project practices, such as version control, design requirements, design reviews, user studies and quality assurance plans. Advanced undergraduate or graduate standing required.
+</end course description for 18-738 Sports Technology>

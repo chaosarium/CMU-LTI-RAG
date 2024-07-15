@@ -1,0 +1,16 @@
+<start course metadata for 33-142 Physicss II for Engineering Students>
+Semester: Fall 2023 (aka F23)
+Course Name: Physicss II for Engineering Students
+Course Number: 33-142
+Department: Physics
+Number of Units: 12
+Prerequisites: (33-106) or (33-141) or (21-120 and 33-111) or (33-131) or (33-151) or (21-120 and 33-121)
+Instructors: Hael Collins
+Rooms: DH 2315
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 33-142 Physicss II for Engineering Students>
+
+<start course description for 33-142 Physicss II for Engineering Students>
+Semester: Fall 2023 (aka F23)
+Course Description: This is the second half of a two-semester calculus-based introductory physics sequence for engineering and physics students. Two fifths of the course covers electricity, including electrostatics and electric fields, Gauss' law, electric potential, and simple circuits. Two fifths cover magnetism, including magnetic forces, magnetic fields, induction and electromagnetic radiation. One fifth of the course covers mechanical waves (including standing and traveling waves, superposition, and beats) and electromagnetic waves (including mode of propagation, speed, and other properties). This course has a co-requisite of 21-122.
+</end course description for 33-142 Physicss II for Engineering Students>

@@ -1,0 +1,16 @@
+<start course metadata for 80-713 Category Theory>
+Semester: Fall 2023 (aka F23)
+Course Name: Category Theory
+Course Number: 80-713
+Department: Philosophy
+Number of Units: 12
+Prerequisites: None
+Instructors: Jonas Frey
+Rooms: GHC 4215
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 80-713 Category Theory>
+
+<start course description for 80-713 Category Theory>
+Semester: Fall 2023 (aka F23)
+Course Description: Category theory is a formal framework devoted to studying the structural relationships between mathematical objects. Developed in the mid-20th century to attack geometrical problems, subsequent progress has revealed deep connections to algebra and logic, as well as to mathematical physics and computer science. The course emphasizes two perspectives. On one hand, we develop the basic theory of categories, regarded as mathematical structures in their own right. At the same time, we will consider the application of these results to concrete examples from logic and algebra. Some familiarity with abstract algebra or logic required.
+</end course description for 80-713 Category Theory>

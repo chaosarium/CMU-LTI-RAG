@@ -1,0 +1,16 @@
+<start course metadata for 90-762 Macroeconomics>
+Semester: Fall 2023 (aka F23)
+Course Name: Macroeconomics
+Course Number: 90-762
+Department: Public Policy & Mgt:Sch of Pub Pol & Mgt
+Number of Units: 12
+Prerequisites: None
+Instructors: Robert Strauss
+Rooms: HBH 2011
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 90-762 Macroeconomics>
+
+<start course description for 90-762 Macroeconomics>
+Semester: Fall 2023 (aka F23)
+Course Description: The purpose of the course is to introduce the professional master's student to the major concepts of aggregate economic analysis, or macroeconomics. Topics include the measurement of national economic activity through aggregation and the national income and product accounts, the associated measurement of prices, labor market activity, the aggregate production function, the supply and demand for interest and non-interest bearing assets, and the conduct of national debt management and the banking sector.  Alternative theories of aggregate economic behavior are reviewed, and students will formulate, estimate statistically, and test alternative macro-economic models.   A novel feature of this one-semester course is the integration of macro-economic theory and policy, annual and quarterly macro-economic data, and the estimation of simplified and more complex statistical models of annual and quarterly macro-economic behavior.  Each student will be expected to implement the theory provided in lecture and the textbook through a series of empirical problem sets which involve the statistical estimation and interpretation of macro-economic behavioral equations and underlying parameters for the aggregate consumption, investment, the demand for cash functions, and labor and aggregate production functions.  Data from The Economic Report of the President, the US Department of Commerce's Bureau of Economic Analysis, the database available within FairModel, and the Federal Reserve Economic Data (FRED) of the St. Louis Federal Reserve Board will be placed on Blackboard in a series of Excel spreadsheets. The last problem set, which requires the estimation and simulation of the US, Indian and Chinese (mainland) economies under varying fiscal and monetary policy environments will use FairModel for the US portion.   Read more at https://www.andrew.cmu.edu/user/rs9f/
+</end course description for 90-762 Macroeconomics>

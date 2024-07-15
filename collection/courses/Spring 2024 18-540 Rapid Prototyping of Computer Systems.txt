@@ -1,0 +1,16 @@
+<start course metadata for 18-540 Rapid Prototyping of Computer Systems>
+Semester: Spring 2024 (aka S24)
+Course Name: Rapid Prototyping of Computer Systems
+Course Number: 18-540
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: (18-491 or 18-370 or 18-320) and (18-340 or 18-341 or 18-349) and (18-213) and (18-220) and (18-240) and (18-290)
+Instructors: Asim Smailagic, Nikolas Martelaro
+Rooms: DH A302
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-540 Rapid Prototyping of Computer Systems>
+
+<start course description for 18-540 Rapid Prototyping of Computer Systems>
+Semester: Spring 2024 (aka S24)
+Course Description: This is a project-oriented course which will deal with all four aspects of project development; the application, the artifact, the computer-aided design environment, and the physical prototyping facilities. The class, in conjunction with the instructors, will develop specifications for a mobile computer to assist in inspection and maintenance. The application will be partitioned between human computer interaction, electronics, industrial design, mechanical, and software components. The class will be divided into groups to specify, design, and implement the various subsystems. The goal is to produce a working hardware/software prototype of the system and to evaluate the user acceptability of the system. We will also monitor our progress in the design process by capturing our design escapes (errors) with the Orthogonal Defect Classification (ODC). Upon completion of this course the student will be able to: generate systems specifications from a perceived need; partition functionality between hardware and software; produce interface specifications for a system composed of numerous subsystems; use computer-aided design tools; fabricate, integrate, and debug a hardware/software system; and evaluate the system in the context of an end user application. Senior standing is required. This course is crosslisted as 18745
+</end course description for 18-540 Rapid Prototyping of Computer Systems>

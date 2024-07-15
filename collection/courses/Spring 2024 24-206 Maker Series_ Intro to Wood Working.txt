@@ -1,0 +1,16 @@
+<start course metadata for 24-206 Maker Series: Intro to Wood Working>
+Semester: Spring 2024 (aka S24)
+Course Name: Maker Series: Intro to Wood Working
+Course Number: 24-206
+Department: Mechanical Engineering
+Number of Units: 3
+Prerequisites: None
+Instructors: Ryan Bates
+Rooms: HH C102
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-206 Maker Series: Intro to Wood Working>
+
+<start course description for 24-206 Maker Series: Intro to Wood Working>
+Semester: Spring 2024 (aka S24)
+Course Description: This course teaches the safe operation of wood working equipment, including table saw, panel saw, and miter saw through structured hands-on activities.  A significant portion of the course is dedicated to learning optimal workflow, tool selection, and equipment selection for building structures.  Homework assignments are important for reinforcement of skills learned, and are flexible for students to complete guided or self-directed projects.
+</end course description for 24-206 Maker Series: Intro to Wood Working>

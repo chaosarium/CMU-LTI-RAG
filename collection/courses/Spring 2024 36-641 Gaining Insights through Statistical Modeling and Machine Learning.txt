@@ -1,0 +1,16 @@
+<start course metadata for 36-641 Gaining Insights through Statistical Modeling and Machine Learning>
+Semester: Spring 2024 (aka S24)
+Course Name: Gaining Insights through Statistical Modeling and Machine Learning
+Course Number: 36-641
+Department: Statistics and Data Science
+Number of Units: 6
+Prerequisites: None
+Instructors: Peter Freeman
+Rooms: CMU REMOTE
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 36-641 Gaining Insights through Statistical Modeling and Machine Learning>
+
+<start course description for 36-641 Gaining Insights through Statistical Modeling and Machine Learning>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is only for students completing the Foundations of Data Science Online Graduate Certificate. This course is designed to introduce how to approach and analyze data, topics include data input/output, basic data processing, exploratory data analysis, clustering, common regression and classification models (including those of classical statistics and of machine learning), and experimental design. Students will practice using these methods on real-world data and will subsequently apply them when analyzing data in the program's Data Science Capstone course.
+</end course description for 36-641 Gaining Insights through Statistical Modeling and Machine Learning>

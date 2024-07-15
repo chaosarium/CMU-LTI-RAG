@@ -1,0 +1,16 @@
+<start course metadata for 54-209 Voice and Speech II: Practicums>
+Semester: Spring 2024 (aka S24)
+Course Name: Voice and Speech II: Practicums
+Course Number: 54-209
+Department: Drama
+Number of Units: 3
+Prerequisites: None
+Instructors: Ausar Stewart
+Rooms: PCA A35
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-209 Voice and Speech II: Practicums>
+
+<start course description for 54-209 Voice and Speech II: Practicums>
+Semester: Spring 2024 (aka S24)
+Course Description: TBA
+</end course description for 54-209 Voice and Speech II: Practicums>

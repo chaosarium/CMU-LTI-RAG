@@ -1,0 +1,16 @@
+<start course metadata for 05-684 METALS Capstone II Part II>
+Semester: Summer Two 2024 (aka M24, M24 Mini 2, Summer 2024 Mini 2)
+Course Name: METALS Capstone II Part II
+Course Number: 05-684
+Department: Human-Computer Interaction
+Number of Units: 24
+Prerequisites: None
+Instructors: Bruce McLaren, Kenneth Koedinger
+Rooms: CMU REMOTE
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 05-684 METALS Capstone II Part II>
+
+<start course description for 05-684 METALS Capstone II Part II>
+Semester: Summer Two 2024 (aka M24, M24 Mini 2, Summer 2024 Mini 2)
+Course Description: None
+</end course description for 05-684 METALS Capstone II Part II>

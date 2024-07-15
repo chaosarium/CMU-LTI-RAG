@@ -1,0 +1,16 @@
+<start course metadata for 39-662 Communication of EST&P; Internship Experience>
+Semester: Fall 2023 (aka F23)
+Course Name: Communication of EST&P; Internship Experience
+Course Number: 39-662
+Department: CIT Interdisciplinary
+Number of Units: 1
+Prerequisites: 39-661
+Instructors: Paul Salvador
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 39-662 Communication of EST&P; Internship Experience>
+
+<start course description for 39-662 Communication of EST&P; Internship Experience>
+Semester: Fall 2023 (aka F23)
+Course Description: https://www.cmu.edu/engineering/estp/ Following their summer internship, students will participate in this Mini-1 course. The course provides a platform for students to communicate their internship experience to their peers and faculty through oral presentations. Students will also work on developing a LinkedIn profile and resume by taking advantage of the available university resources, allowing them to enhance career prospects.
+</end course description for 39-662 Communication of EST&P; Internship Experience>

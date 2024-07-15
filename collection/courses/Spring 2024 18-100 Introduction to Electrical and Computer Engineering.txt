@@ -1,0 +1,16 @@
+<start course metadata for 18-100 Introduction to Electrical and Computer Engineering>
+Semester: Spring 2024 (aka S24)
+Course Name: Introduction to Electrical and Computer Engineering
+Course Number: 18-100
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Gregory Kesden, Tom Zajdel
+Rooms: DH 2210
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-100 Introduction to Electrical and Computer Engineering>
+
+<start course description for 18-100 Introduction to Electrical and Computer Engineering>
+Semester: Spring 2024 (aka S24)
+Course Description: This course introduces students to a broad scope of electrical and computer engineering. The objectives are to prepare students for the next tier of ECE core courses and to excite them about ECE. The course covers topics such as Data Processing, Data Transmission, and Data Storage. Specific coverage includes: electronic circuits basics, computer logic, CPU, von Neumann architecture, embedded systems, capacitor, inductor, amplifiers, analog filters, analog to digital conversion, digital filters, wireless communication, fiber communication, computer network, data center and storage technologies, modern cryptography, and machine learning. On each of these subjects, the course will focus on certain topics to give an appreciative depth and help students understand the essence of the subject. Lectures will be accompanied by labs, which may include hands-on building of circuits, embedded systems, and computer networks, and a machine learning lab.
+</end course description for 18-100 Introduction to Electrical and Computer Engineering>

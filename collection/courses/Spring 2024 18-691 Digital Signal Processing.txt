@@ -1,0 +1,16 @@
+<start course metadata for 18-691 Digital Signal Processing>
+Semester: Spring 2024 (aka S24)
+Course Name: Digital Signal Processing
+Course Number: 18-691
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: 18-290
+Instructors: Richard Stern
+Rooms: SH 234
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-691 Digital Signal Processing>
+
+<start course description for 18-691 Digital Signal Processing>
+Semester: Spring 2024 (aka S24)
+Course Description: This course addresses the mathematics, implementation, design and application of the digital signal processing algorithms widely used in areas such as multimedia telecommunications and speech and image processing. Topics include discrete-time signals and systems, discrete-time Fourier transforms and Z-transforms, discrete Fourier transforms and fast Fourier transforms, digital filter design and implementation, and multi-rate signal processing. The course will include introductory discussions of 2-dimensional signal processing, linear prediction, adaptive filtering, and selected application areas. Classroom lectures are supplemented with implementation exercises using MATLAB.  Students in 18491 and 18691 will share the same lectures and recitations.  Nevertheless, students receiving credit for 18691 will be required to complete an additional capstone project at the end of the semester.  Students in 18691 may have additional homework problems on a weekly basis.
+</end course description for 18-691 Digital Signal Processing>

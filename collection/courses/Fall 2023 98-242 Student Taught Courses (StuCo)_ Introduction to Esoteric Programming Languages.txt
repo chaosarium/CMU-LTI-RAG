@@ -1,0 +1,16 @@
+<start course metadata for 98-242 Student Taught Courses (StuCo): Introduction to Esoteric Programming Languages>
+Semester: Fall 2023 (aka F23)
+Course Name: Student Taught Courses (StuCo): Introduction to Esoteric Programming Languages
+Course Number: 98-242
+Department: StuCo (Student Led Courses)
+Number of Units: 3
+Prerequisites: None
+Instructors: David Krajewski, Ethan Muchnik, Gil Shteyman, Harrison Wiseblatt
+Rooms: WEH 4623
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 98-242 Student Taught Courses (StuCo): Introduction to Esoteric Programming Languages>
+
+<start course description for 98-242 Student Taught Courses (StuCo): Introduction to Esoteric Programming Languages>
+Semester: Fall 2023 (aka F23)
+Course Description: How do you fix the following compilation error: "PROGRAMMER IS INSUFFICIENTLY POLITE"?  How do you bake a cake while printing "Hello world!"  Welcome to the wonderful world of esoteric programming languages, where everything is possible but nothing of interest is easy. Learn how to write a program that you can't see, compute factorials using Microsoft PowerPoint, and compile a painting.  Along the way, we'll answer questions like "What is a programming language?" and "Why does my compiler have indigestion?" Step into the realm of ">>[-]<<[->>+<<]" and come explore the outer boundaries of relatively sane computation.
+</end course description for 98-242 Student Taught Courses (StuCo): Introduction to Esoteric Programming Languages>

@@ -1,0 +1,16 @@
+<start course metadata for 19-303 Cryptocurrencies, Blockchains and Applications>
+Semester: Fall 2023 (aka F23)
+Course Name: Cryptocurrencies, Blockchains and Applications
+Course Number: 19-303
+Department: Engineering & Public Policy
+Number of Units: 9
+Prerequisites: None
+Instructors: Nicolas Christin
+Rooms: WEH 5403
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 19-303 Cryptocurrencies, Blockchains and Applications>
+
+<start course description for 19-303 Cryptocurrencies, Blockchains and Applications>
+Semester: Fall 2023 (aka F23)
+Course Description: Note: Previously offered as 19-355. Cryptocurrencies such as Bitcoin have gained large popularity in recent years, in no small part due to the fantastic potential applications they could facilitate. This course will first provide an overview of the technological mechanisms behind cryptocurrencies and distributed consensus and distributed ledgers ("blockchains"), introducing along the way the necessary cryptographic tools. It will then focus on more advanced blockchain applications, such as "smart contracts," that is, contracts written as code. Finally, the course will also introduce some of the legal and policy questions surrounding cryptocurrencies. Prerequisites: Introduction to Computer Systems or equivalent strongly recommended
+</end course description for 19-303 Cryptocurrencies, Blockchains and Applications>

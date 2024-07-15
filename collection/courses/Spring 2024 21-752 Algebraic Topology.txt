@@ -1,0 +1,16 @@
+<start course metadata for 21-752 Algebraic Topology>
+Semester: Spring 2024 (aka S24)
+Course Name: Algebraic Topology
+Course Number: 21-752
+Department: Mathematical Sciences
+Number of Units: 12
+Prerequisites: (21-651) and (21-355 or 21-235 or 21-455) and (21-373 or 21-237)
+Instructors: Florian Frick
+Rooms: BH 237B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-752 Algebraic Topology>
+
+<start course description for 21-752 Algebraic Topology>
+Semester: Spring 2024 (aka S24)
+Course Description: Topology is a less rigid variant of geometry that studies shapes of spaces. Algebraic topology associates algebraic invariants, such as groups or rings, to such spaces. This is achieved by building a space from simpler ones or by algebraically keeping track of how to map a simple space into a given space. This course will cover the fundamental group and covering spaces, homology theories, and the cohomology ring of a space (time permitting).  (Three 50 minute lectures)
+</end course description for 21-752 Algebraic Topology>

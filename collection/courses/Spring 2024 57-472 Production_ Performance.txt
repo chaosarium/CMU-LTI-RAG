@@ -1,0 +1,16 @@
+<start course metadata for 57-472 Production: Performance>
+Semester: Spring 2024 (aka S24)
+Course Name: Production: Performance
+Course Number: 57-472
+Department: Music
+Number of Units: 6
+Prerequisites: 57-212 and 57-340
+Instructors: Ellen Rissinger, Thomas Douglas
+Rooms: WQE ST B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-472 Production: Performance>
+
+<start course description for 57-472 Production: Performance>
+Semester: Spring 2024 (aka S24)
+Course Description: Preparation of an operatic or musical theatre production with a fully staged public performance of the production at the end of the class.
+</end course description for 57-472 Production: Performance>

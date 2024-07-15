@@ -1,0 +1,16 @@
+<start course metadata for 46-903 Financial Computing III>
+Semester: Spring 2024 (aka S24)
+Course Name: Financial Computing III
+Course Number: 46-903
+Department: Business Administration
+Number of Units: 6
+Prerequisites: 46-901 and 46-902 and 46-944
+Instructors: Dmitry Kramkov
+Rooms: BRD 507; TCS 250
+Locations: New York, New York; Pittsburgh, Pennsylvania
+</end course metadata for 46-903 Financial Computing III>
+
+<start course description for 46-903 Financial Computing III>
+Semester: Spring 2024 (aka S24)
+Course Description: In Financial Computing III we implement in C++ the key numerical routines used in the financial industry. The topics include spline interpolation, least-square fitting, finite differences, Fast Fourier Transform, and adjoint differentiation.  As usual, examples and homework exercises will be drawn from finance-related sources.
+</end course description for 46-903 Financial Computing III>

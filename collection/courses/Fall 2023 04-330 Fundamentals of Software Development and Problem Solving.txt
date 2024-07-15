@@ -1,0 +1,16 @@
+<start course metadata for 04-330 Fundamentals of Software Development and Problem Solving>
+Semester: Fall 2023 (aka F23)
+Course Name: Fundamentals of Software Development and Problem Solving
+Course Number: 04-330
+Department: Information & Communication Technology
+Number of Units: 12
+Prerequisites: None
+Instructors: Azizuddin Biyabani
+Rooms: CMR F305
+Locations: Kigali, Rwanda
+</end course metadata for 04-330 Fundamentals of Software Development and Problem Solving>
+
+<start course description for 04-330 Fundamentals of Software Development and Problem Solving>
+Semester: Fall 2023 (aka F23)
+Course Description: This course lays the foundations for approaching problem-solving in a logical, well-designed approach and implementing solutions to a range of technical problems with well-written, high-quality, and extensible software using the basic "best-practices" used in the field of software engineering. Topics include algorithm development, problem-solving (decomposition and synthesis), program design, data representation, arithmetic and logical expressions, input/output operations, basic user interfaces, and object-oriented programming and design, with an emphasis on developing good programming habits. Intensive programming assignments are required.
+</end course description for 04-330 Fundamentals of Software Development and Problem Solving>

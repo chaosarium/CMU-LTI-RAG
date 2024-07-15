@@ -1,0 +1,16 @@
+<start course metadata for 51-886 Designing Experiences for Learning>
+Semester: Spring 2024 (aka S24)
+Course Name: Designing Experiences for Learning
+Course Number: 51-886
+Department: Design
+Number of Units: 12
+Prerequisites: None
+Instructors: Stacie Rohrbach
+Rooms: MM 215
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-886 Designing Experiences for Learning>
+
+<start course description for 51-886 Designing Experiences for Learning>
+Semester: Spring 2024 (aka S24)
+Course Description: This course focuses on designing experiences that engage people in educational activities that enhance their learning through meaningful, memorable, and enjoyable interactions with information. Throughout the course, students investigate the intersection of design thinking, UI/UX design, cognitive studies, social sciences, instructional design, and educational pedagogy as a way of developing knowledge and skills in designing experiences for learners. Students study topics that are often difficult to grasp and collaboratively build a taxonomy of content types based on common and differentiating characteristics to identify design opportunities. Through readings, projects, and class exercises, students explore how people perceive and process information, what motivates them to learn, and what constitutes an experience. The course introduces students to traditional and emergent learning tools and methods as a means of defining affordances and limitations of various learning approaches and mediums. It also provides students the opportunity to apply what they learn through the design, testing, and assessment of learning experiences that they create.
+</end course description for 51-886 Designing Experiences for Learning>

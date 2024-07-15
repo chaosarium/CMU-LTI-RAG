@@ -1,0 +1,16 @@
+<start course metadata for 85-811 Professional Development>
+Semester: Spring 2024 (aka S24)
+Course Name: Professional Development
+Course Number: 85-811
+Department: Psychology
+Number of Units: 5
+Prerequisites: None
+Instructors: Erin Donahoe
+Rooms: BH 336B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 85-811 Professional Development>
+
+<start course description for 85-811 Professional Development>
+Semester: Spring 2024 (aka S24)
+Course Description: Students are required to attend the Professional Development Course, which meets twice a month for 60 to 90 minutes. The course covers a range of topics of interest to graduate students who are pursuing tenure track academic positions, non-tenure track academic positions, and positions in industry. Topics range from writing, applying for grants, mentoring, conflict management, negotiation, ethical issues in research, work/family balance, and the job application process.  These seminars will be led by professionals with appropriate expertise or faculty members, postdocs, and students in the department. Students should feel free to suggest topics of interest.   Each year the department invites a number of colloquium speakers to give a lecture to the department. Students are required to attend these lectures.  Please contact Erin Donahoe donahoe@andrew.cmu.edu for more information.
+</end course description for 85-811 Professional Development>

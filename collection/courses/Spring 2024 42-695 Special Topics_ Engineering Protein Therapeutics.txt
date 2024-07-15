@@ -1,0 +1,16 @@
+<start course metadata for 42-695 Special Topics: Engineering Protein Therapeutics>
+Semester: Spring 2024 (aka S24)
+Course Name: Special Topics: Engineering Protein Therapeutics
+Course Number: 42-695
+Department: Biomedical Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Phil Campbell
+Rooms: WEH 4625
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 42-695 Special Topics: Engineering Protein Therapeutics>
+
+<start course description for 42-695 Special Topics: Engineering Protein Therapeutics>
+Semester: Spring 2024 (aka S24)
+Course Description: The peptide/protein therapeutics market represents the fastest growing drug sector, addressing diseases that were incurable 20 years ago. These therapies are used to treat a broad range of disease states, including but not limited to cancer, metabolic, immunological, hematological, hormonal, genetic, and infectious diseases. The growth of these therapies is primarily driven by the increasing geriatric population and the growing prevalence of chronic diseases and the development of plasma-derived therapies, and also reflects advances in drug discovery. This course is meant to introduce peptide/protein therapeutic technologies to students with diverse backgrounds and will provide an understanding of the history, current state of the art and potential of these therapeutics. The course will consider major challenges associated with protein therapeutic including stability, immunogenicity, off-target effects, coformulation, and overcoming biological barriers, with a focus on clinical/commercial translation, considering not only manufacturing but delivery approaches, pharmacokinetic and pharmacological challenges.
+</end course description for 42-695 Special Topics: Engineering Protein Therapeutics>

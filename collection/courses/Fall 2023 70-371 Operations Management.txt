@@ -1,0 +1,16 @@
+<start course metadata for 70-371 Operations Management>
+Semester: Fall 2023 (aka F23)
+Course Name: Operations Management
+Course Number: 70-371
+Department: Business Administration
+Number of Units: 9
+Prerequisites: 36-220 or 36-247 or 36-225 or 36-207 or 36-200 or 36-201 or 70-207 or 36-218
+Instructors: Iman Adeinat, Sunder Kekre
+Rooms: CMB 2052; TEP 2611
+Locations: Doha, Qatar; Pittsburgh, Pennsylvania
+</end course metadata for 70-371 Operations Management>
+
+<start course description for 70-371 Operations Management>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is an introduction to production and operations management that covers both manufacturing and services. It deals with strategic issues (design of flexible supply), planning issues (capacity management), and operational issues (inventory management and information). The linkage between strategy and tactics will be emphasized. The students will learn concepts and tools that will help them to manage from the "boardroom" to the "toolroom." This course may use third-party course material that is not available for individual purchase from the publisher.   If so, the third-party course material will be secured and provided by the Tepper School to students enrolled in the course, and students enrolled in the course will be required to pay to the University the associated additional course materials fee for the third-party course material provided.   The amount of the course materials fee is dependent on the University's cost of the particular materials provided, and typically ranges from $13 to $75.
+</end course description for 70-371 Operations Management>

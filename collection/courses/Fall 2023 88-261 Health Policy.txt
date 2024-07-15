@@ -1,0 +1,16 @@
+<start course metadata for 88-261 Health Policy>
+Semester: Fall 2023 (aka F23)
+Course Name: Health Policy
+Course Number: 88-261
+Department: Social & Decision Sciences
+Number of Units: 9
+Prerequisites: None
+Instructors: Manasvini Singh
+Rooms: PH A19C
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 88-261 Health Policy>
+
+<start course description for 88-261 Health Policy>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is a deep dive into the US healthcare industry, the economy's biggest sector.  You will 1) learn about the most pressing contemporary health and healthcare issues faced by American society; 2) understand the structure of the US healthcare system and the decision-making of its main stakeholders (patients, physicians, hospitals, insurers, governments, and policymakers); and 3) deploy the tools from modern behavioral science and economics to think through policies that improve health and social welfare.
+</end course description for 88-261 Health Policy>

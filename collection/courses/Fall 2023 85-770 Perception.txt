@@ -1,0 +1,16 @@
+<start course metadata for 85-770 Perception>
+Semester: Fall 2023 (aka F23)
+Course Name: Perception
+Course Number: 85-770
+Department: Psychology
+Number of Units: N/A
+Prerequisites: None
+Instructors: Roberta Klatzky
+Rooms: BH 336B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 85-770 Perception>
+
+<start course description for 85-770 Perception>
+Semester: Fall 2023 (aka F23)
+Course Description: Perception, broadly defined, is the construction of a representation of the external world for purposes of thinking and acting.  Although we often think of perception as the processing of inputs to the sense organs, the world conveyed by the senses is ambiguous, and cognitive and sensory systems interact to interpret it.  In this course, we will examine the sensory-level mechanisms involved in perception by various sensory modalities, including vision, audition, and touch.  We will learn how sensory coding interacts with top-down processing based on context and prior knowledge and how perception changes with learning and development. We will look at methods of psychophysics, neuroscience, and cognitive psychology.  The goals include not only imparting basic knowledge about perception but also providing new insights into everyday experiences.
+</end course description for 85-770 Perception>

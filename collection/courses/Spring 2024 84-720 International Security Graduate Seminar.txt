@@ -1,0 +1,16 @@
+<start course metadata for 84-720 International Security Graduate Seminar>
+Semester: Spring 2024 (aka S24)
+Course Name: International Security Graduate Seminar
+Course Number: 84-720
+Department: Institute for Politics and Strategy
+Number of Units: 12
+Prerequisites: None
+Instructors: Caleb Lucas
+Rooms: POS 147
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 84-720 International Security Graduate Seminar>
+
+<start course description for 84-720 International Security Graduate Seminar>
+Semester: Spring 2024 (aka S24)
+Course Description: This seminar is a graduate-level introduction to the field of international security. The course focuses on issues concerning the conduct of war and military strategy, surveying both classic texts and recent works on important security policy issues. The course has three main objectives: (1) to introduce students to the complexities of the relationship between political ends, military means, and the strategy linking the two; (2) to familiarize students with major theoretical perspectives in international security; and (3) to survey key substantive areas and debates in the field, with reference where appropriate to particular case studies.  Questions animating this course include: Why is force used? What causes peace? How does the possibility of war shape international relations and domestic socio-economic arrangements? By what criteria should the use of force be considered legitimate? How can governments effectively prepare to prevent wars, or to win them if they occur? Is the world safer after the Cold War? What are the similarities and differences between inter-state wars, civil wars, and armed conflict between states and transnational actors (such as terrorist groups)?
+</end course description for 84-720 International Security Graduate Seminar>

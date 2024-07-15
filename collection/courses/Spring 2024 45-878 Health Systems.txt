@@ -1,0 +1,16 @@
+<start course metadata for 45-878 Health Systems>
+Semester: Spring 2024 (aka S24)
+Course Name: Health Systems
+Course Number: 45-878
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Rebekah Apple
+Rooms: TEP 2118
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-878 Health Systems>
+
+<start course description for 45-878 Health Systems>
+Semester: Spring 2024 (aka S24)
+Course Description: TBD
+</end course description for 45-878 Health Systems>

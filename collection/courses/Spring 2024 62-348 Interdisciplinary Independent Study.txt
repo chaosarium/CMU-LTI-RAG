@@ -1,0 +1,16 @@
+<start course metadata for 62-348 Interdisciplinary Independent Study>
+Semester: Spring 2024 (aka S24)
+Course Name: Interdisciplinary Independent Study
+Course Number: 62-348
+Department: CFA Interdisciplinary
+Number of Units: N/A
+Prerequisites: None
+Instructors: Dana Cupkova, David Oresick
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 62-348 Interdisciplinary Independent Study>
+
+<start course description for 62-348 Interdisciplinary Independent Study>
+Semester: Spring 2024 (aka S24)
+Course Description: None
+</end course description for 62-348 Interdisciplinary Independent Study>

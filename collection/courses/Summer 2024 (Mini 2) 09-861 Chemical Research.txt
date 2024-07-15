@@ -1,0 +1,16 @@
+<start course metadata for 09-861 Chemical Research>
+Semester: Summer Two 2024 (aka M24, M24 Mini 2, Summer 2024 Mini 2)
+Course Name: Chemical Research
+Course Number: 09-861
+Department: Chemistry
+Number of Units: N/A
+Prerequisites: None
+Instructors: Kevin Noonan
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 09-861 Chemical Research>
+
+<start course description for 09-861 Chemical Research>
+Semester: Summer Two 2024 (aka M24, M24 Mini 2, Summer 2024 Mini 2)
+Course Description: None
+</end course description for 09-861 Chemical Research>

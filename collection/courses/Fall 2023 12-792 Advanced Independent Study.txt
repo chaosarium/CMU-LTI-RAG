@@ -1,0 +1,16 @@
+<start course metadata for 12-792 Advanced Independent Study>
+Semester: Fall 2023 (aka F23)
+Course Name: Advanced Independent Study
+Course Number: 12-792
+Department: Civil & Environmental Engineering
+Number of Units: N/A
+Prerequisites: None
+Instructors: Corey Harper, David Rounce, Donald Coffelt, Gregory Lowry, Jerry Wang, Katherine Flanigan, Pingbo Tang, Sarah Christian
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 12-792 Advanced Independent Study>
+
+<start course description for 12-792 Advanced Independent Study>
+Semester: Fall 2023 (aka F23)
+Course Description: In-Depth investigfation of selected advanced topics not offered in formal courses.  By special arrangement upon demand and with approval of the instructor.  Prerequisites: Permission of instructor.
+</end course description for 12-792 Advanced Independent Study>

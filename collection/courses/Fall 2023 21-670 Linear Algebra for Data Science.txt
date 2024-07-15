@@ -1,0 +1,16 @@
+<start course metadata for 21-670 Linear Algebra for Data Science>
+Semester: Fall 2023 (aka F23)
+Course Name: Linear Algebra for Data Science
+Course Number: 21-670
+Department: Mathematical Sciences
+Number of Units: 6
+Prerequisites: (21-355 or 21-235 or 21-455) and (21-373)
+Instructors: Michail Sarantis
+Rooms: DH 2122
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-670 Linear Algebra for Data Science>
+
+<start course description for 21-670 Linear Algebra for Data Science>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is designed to present and discuss those aspects of Linear Algebra that are most important in Data Analytics. The emphasis will be on developing intuition and understanding how to use linear algebra, rather than on proofs.  (Three 50 minute lectures)
+</end course description for 21-670 Linear Algebra for Data Science>

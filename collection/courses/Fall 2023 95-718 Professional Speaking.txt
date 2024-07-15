@@ -1,0 +1,16 @@
+<start course metadata for 95-718 Professional Speaking>
+Semester: Fall 2023 (aka F23)
+Course Name: Professional Speaking
+Course Number: 95-718
+Department: Information Systems:Sch of IS & Mgt
+Number of Units: 6
+Prerequisites: None
+Instructors: Rebekah Fitzsimmons, Stefan Labash
+Rooms: HBH 1004; HBH 1006; HBH 1208; HBH 2009
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 95-718 Professional Speaking>
+
+<start course description for 95-718 Professional Speaking>
+Semester: Fall 2023 (aka F23)
+Course Description: Enrollment: limited to 10 students per section    Students must attend the first meeting if they intend to enroll in the class.          Whether we like it or not, all the skill, talent, and creativity in the world isn't enough in the workplace. The ability to actively communicate ideas quickly, credibly, and memorably is a key "soft skill" that is a requirement for senior workers, and a prerequisite for advancement in almost every industry.  This course gives students who aren't natural-born presenters (which is about 99% of the population) some key skills, techniques, tricks, and insights into the essence of verbal communication in the enterprise, and will help you give your ideas the noticeability and power they need in todays marketplace. Whether you're looking for a job, a raise, a way to have your voice heard more convincingly and effectively in meetings, or funding for a big idea, your ability to effectively present yourself and your ideas is a critical and often overlooked skill.
+</end course description for 95-718 Professional Speaking>

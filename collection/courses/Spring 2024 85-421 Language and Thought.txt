@@ -1,0 +1,16 @@
+<start course metadata for 85-421 Language and Thought>
+Semester: Spring 2024 (aka S24)
+Course Name: Language and Thought
+Course Number: 85-421
+Department: Psychology
+Number of Units: 9
+Prerequisites: 80-150 or 80-180 or 85-211 or 85-213
+Instructors: Brian MacWhinney
+Rooms: BH 336B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 85-421 Language and Thought>
+
+<start course description for 85-421 Language and Thought>
+Semester: Spring 2024 (aka S24)
+Course Description: This course allows the student to explore ways in which the mind shapes language and language shapes the mind. Why are humans the only species with a full linguistic system? Some of the questions to be explored are: What kinds of mental abilities allow the child to learn language? What are the cognitive abilities needed to support the production and comprehension of sentences in real time? How do these abilities differ between people? Are there universal limits on the ways in which languages differ? Where do these limitations come from cognition in general or the specific language facility? Why is it so hard to learn a second language? Are there important links between language change and cultural change that point to links between language and culture?
+</end course description for 85-421 Language and Thought>

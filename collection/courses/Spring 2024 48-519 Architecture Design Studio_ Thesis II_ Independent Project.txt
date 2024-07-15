@@ -1,0 +1,16 @@
+<start course metadata for 48-519 Architecture Design Studio: Thesis II/ Independent Project>
+Semester: Spring 2024 (aka S24)
+Course Name: Architecture Design Studio: Thesis II/ Independent Project
+Course Number: 48-519
+Department: Architecture
+Number of Units: N/A
+Prerequisites: None
+Instructors: Mary-Lou Arscott, Sarah Rafson
+Rooms: MM 312
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-519 Architecture Design Studio: Thesis II/ Independent Project>
+
+<start course description for 48-519 Architecture Design Studio: Thesis II/ Independent Project>
+Semester: Spring 2024 (aka S24)
+Course Description: An architectural thesis is a proposition that results from a critique and reexamination of the role of architecture as a critical participant in the conditioning of (public) space. Marking the transition between academic and professional practices, the thesis project is an exciting opportunity for students to define their unique positionality and modes of practice relative to the discipline of architecture. Thesis topics reflect the diversity of student experiences and interests, ranging from building construction, design research, emerging technologies and materiality, social issues, landscape, urbanism, spatial perception and methods of conceptual thinking. Students will present their questions and propositions through an exhibition, thesis book, and symposium.
+</end course description for 48-519 Architecture Design Studio: Thesis II/ Independent Project>

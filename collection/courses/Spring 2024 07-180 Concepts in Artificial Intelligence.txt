@@ -1,0 +1,16 @@
+<start course metadata for 07-180 Concepts in Artificial Intelligence>
+Semester: Spring 2024 (aka S24)
+Course Name: Concepts in Artificial Intelligence
+Course Number: 07-180
+Department: SCS Interdisciplinary
+Number of Units: 5
+Prerequisites: 15-112 or 15-122
+Instructors: Reid Simmons
+Rooms: HOA 160
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 07-180 Concepts in Artificial Intelligence>
+
+<start course description for 07-180 Concepts in Artificial Intelligence>
+Semester: Spring 2024 (aka S24)
+Course Description: The course will introduce students to the main foundational concepts and techniques used in Artificial Intelligence (AI), including representation, heuristic search, probabilistic reasoning, decision making, and machine learning. Concepts will be grounded in a range of real-world applications in which AI is currently used. Students will be introduced to ethical issues surrounding AI, as well as the potential future of a world in which AI is commonplace. Programming and written assignments will enable students to get a feel for how to implement and use AI techniques.
+</end course description for 07-180 Concepts in Artificial Intelligence>

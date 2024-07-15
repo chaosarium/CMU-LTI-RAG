@@ -1,0 +1,16 @@
+<start course metadata for 45-862 Supply Chain Management>
+Semester: Spring 2024 (aka S24)
+Course Name: Supply Chain Management
+Course Number: 45-862
+Department: Business Administration
+Number of Units: 6
+Prerequisites: 45-760
+Instructors: Inki Sul
+Rooms: TEP 2112
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-862 Supply Chain Management>
+
+<start course description for 45-862 Supply Chain Management>
+Semester: Spring 2024 (aka S24)
+Course Description: A supply chain is a network of facilities and distribution options that performs the functions of procurement of materials, transformation of these materials into intermediate and finished products, and the distribution of these finished products to customers (Ganeshan and Harrison, 1995).  However, facilities are not necessarily connected in a serial fashion, despite its name. Therefore, a supply chain really describes a network of interconnected value-add transformations.  Supply chain management (SCM) is the coordination of production, inventory, location, and transportation among the participants in a supply chain to achieve the best mix of responsiveness and efficiency for the market being served (Hugos, 2011).  SCM includes the strategic design of this network, the tactical planning of supply, production, inventory, transportation, and distribution as well as the operational control of the flows of materials, information, money and physical goods.  Traditionally, the goal of SCM has been to maximize profitability or minimize cost.  Typically, this is achieved by matching supply and demand. Increasingly, the concept of risk, arising from uncertainty, disruptions, and need for rapid reaction, have also brought on the need to incorporate agility and responsiveness in the mix of goals.  This course explores how firms can make better SCM decisions, focusing mostly on tactical challenges, but also touching on some strategic and operational topics.  Throughout, this course illustrates qualitative as well as quantitative principles and business analytics applied to real SCM challenges ¿ the tools of SCM ¿ with an emphasis on approaches to increase responsiveness to manage risk.
+</end course description for 45-862 Supply Chain Management>

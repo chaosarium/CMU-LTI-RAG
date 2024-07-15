@@ -1,0 +1,16 @@
+<start course metadata for 48-704 Internship (MS & PhD)>
+Semester: Spring 2024 (aka S24)
+Course Name: Internship (MS & PhD)
+Course Number: 48-704
+Department: Architecture
+Number of Units: N/A
+Prerequisites: None
+Instructors: Instructor TBA, Joshua Lee, Vivian Loftness
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-704 Internship (MS & PhD)>
+
+<start course description for 48-704 Internship (MS & PhD)>
+Semester: Spring 2024 (aka S24)
+Course Description: Missing Course Description - please contact the teaching department.
+</end course description for 48-704 Internship (MS & PhD)>

@@ -1,0 +1,16 @@
+<start course metadata for 54-117 Design Collaboration Project>
+Semester: Spring 2024 (aka S24)
+Course Name: Design Collaboration Project
+Course Number: 54-117
+Department: Drama
+Number of Units: 3
+Prerequisites: None
+Instructors: Dick Block, Olivera Gajic, Robert Thomson, Stewart Blackwood, W. Arons
+Rooms: PCA 118
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-117 Design Collaboration Project>
+
+<start course description for 54-117 Design Collaboration Project>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is intended to provide students with hands-on experience in the process of collaboration on a design for a production. Students in the course will work in teams to design a hypothetical production of a given play.
+</end course description for 54-117 Design Collaboration Project>

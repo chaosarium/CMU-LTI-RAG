@@ -1,0 +1,16 @@
+<start course metadata for 73-274 Econometrics I>
+Semester: Spring 2024 (aka S24)
+Course Name: Econometrics I
+Course Number: 73-274
+Department: Economics
+Number of Units: 9
+Prerequisites: (21-256 or 21-259 or 21-268 or 21-269) and (73-265) and (73-230 or 73-240)
+Instructors: Anton Badev
+Rooms: TEP 2701
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 73-274 Econometrics I>
+
+<start course description for 73-274 Econometrics I>
+Semester: Spring 2024 (aka S24)
+Course Description: Data tools are important in guiding decisions and strategies for individuals, businesses, and policymakers. This course will prepare you for data-driven decision making, providing both theoretical backgrounds and empirical illustrations of the techniques that are necessary to cope with real-world (imperfect) data. Specifically, the course covers tools and methods for estimating economic relationships, testing economic theories, and evaluating business and government policy. This course builds on either of the two Statistical Reasoning courses (36-200/201) and the Economics and Data Science course (73-265), and it sets underpinnings for Econometrics II (73-275) for more advanced tools and insights for business and economics data analyses. Students pursuing the ECOMTH or MTHECO degrees may enroll in 73-274 after the completion of 36-225. Minimum grade of "C" required in all economics and statistics pre-requisite courses.
+</end course description for 73-274 Econometrics I>

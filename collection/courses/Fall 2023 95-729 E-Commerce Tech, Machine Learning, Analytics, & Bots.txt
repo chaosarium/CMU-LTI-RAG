@@ -1,0 +1,16 @@
+<start course metadata for 95-729 E-Commerce Tech, Machine Learning, Analytics, & Bots>
+Semester: Fall 2023 (aka F23)
+Course Name: E-Commerce Tech, Machine Learning, Analytics, & Bots
+Course Number: 95-729
+Department: Information Systems:Sch of IS & Mgt
+Number of Units: 6
+Prerequisites: None
+Instructors: Andrew Wright
+Rooms: HBH 2009
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 95-729 E-Commerce Tech, Machine Learning, Analytics, & Bots>
+
+<start course description for 95-729 E-Commerce Tech, Machine Learning, Analytics, & Bots>
+Semester: Fall 2023 (aka F23)
+Course Description: What will come next in e-commerce? What stable foundations will continue to matter?  In E-Commerce Tech, you will learn about software engineering design principles, and patterns for leveraging technology through the lens of e-commerce. We will explore how Artificial Intelligence (AI), Machine Learning (ML), and Conversational User Interfaces (CUI) are used at the intersection of technology, and microeconomics.  To explore these topics, you will apply what you are learning, choosing from an array of team and solo projects that cover third-party integration, user experience (UX), servers and APIs, data querying and analytics, machine learning, conversational bots, and user engagement. In order to participate in this course, you need a laptop, and you must bring your laptop to each class/lab.
+</end course description for 95-729 E-Commerce Tech, Machine Learning, Analytics, & Bots>

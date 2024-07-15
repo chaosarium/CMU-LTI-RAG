@@ -1,0 +1,16 @@
+<start course metadata for 95-408 IT Project Management>
+Semester: Fall 2023 (aka F23)
+Course Name: IT Project Management
+Course Number: 95-408
+Department: Information Systems:Sch of IS & Mgt
+Number of Units: 6
+Prerequisites: None
+Instructors: Brett Tucker
+Rooms: HBH 1007
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 95-408 IT Project Management>
+
+<start course description for 95-408 IT Project Management>
+Semester: Fall 2023 (aka F23)
+Course Description: From the smallest to the largest organization, the electronic storage and flow of information is critical to the successful achievement of goals, objectives and the provision of products and services. To manage that delivery process, we now find the construct mechanism for the delivery of those products and services to be the "Project" rather than a series of non-integrated tasks. The increased dependence upon projects necessitates the need for both improved project management and oversight. The purpose of this course is to assist professionals in understanding the components of complex projects, manage those project components, and to form and lead a project team.  Project Management tools and techniques will be introduced, discussed, and applied.
+</end course description for 95-408 IT Project Management>

@@ -1,0 +1,16 @@
+<start course metadata for 05-391 Designing Human Centered Software>
+Semester: Spring 2024 (aka S24)
+Course Name: Designing Human Centered Software
+Course Number: 05-391
+Department: Human-Computer Interaction
+Number of Units: 12
+Prerequisites: 15-112 or 15-110 or 15-104 or 15-122
+Instructors: Aaron Steinfeld, Christopher Harrison, David Lindlbauer, Sherry Tongshua Wu
+Rooms: 3SC 172; 4SC 104
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 05-391 Designing Human Centered Software>
+
+<start course description for 05-391 Designing Human Centered Software>
+Semester: Spring 2024 (aka S24)
+Course Description: Why are things so hard to use these days? Why doesn't this thing I just bought work? Why is this web site so hard to use? These are frustrations that we have all faced from systems not designed with people in mind. The question this course will focus on is: how can we design human-centered systems that people find useful and usable? This course is an introduction to designing, prototyping, and evaluating user interfaces. If you take only one course in Human-Computer Interaction, this is the course for you. This class is a core course for undergrads in the HCI Minor but open to all undergrads and grad students, with either technical or non-technical backgrounds. We will cover theory as well as practical application of ideas from Human-Computer Interaction. Course work includes lectures, class discussion, homework, class presentations, and group project. Students will need a prerequisite of a fundamental computer programming course. This course can only be taken synchronously. Students in the HCI Minor and SCS concentration have priority registration for this course for graduation requirement purposes. When registering for this course, undergraduate students are automatically placed the wait list.
+</end course description for 05-391 Designing Human Centered Software>

@@ -1,0 +1,16 @@
+<start course metadata for 05-691 Learning Media Design>
+Semester: Fall 2023 (aka F23)
+Course Name: Learning Media Design
+Course Number: 05-691
+Department: Human-Computer Interaction
+Number of Units: 12
+Prerequisites: None
+Instructors: Marti Louw
+Rooms: HL 106B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 05-691 Learning Media Design>
+
+<start course description for 05-691 Learning Media Design>
+Semester: Fall 2023 (aka F23)
+Course Description: [IDeATe collaborative course] Learning is a complex human phenomenon with cognitive, social and personal dimensions that need to be accounted for in the design of technology enhanced learning experiences. In this studio course students will apply learning science concepts to critique existing forms of learning media, establish a set of design precedents to guide project work and produce a series of design concepts that support learning interactions in a real-world context. Collaborating in small interdisciplinary teams, students will partner with a local informal learning organization (e.g. museum, after school program provider, maker space) to conduct learning design research studies, synthesize findings, establish learning goals and iteratively prototype and assess design concepts. As final deliverables, students will present their design research findings, design concepts, and prototypes to stakeholders, and draft a media-rich proposal for their learning media concept to pitch to a local funder.  Please note that there may be usage/materials fees associated with this course. Please note that there may be usage/materials fees associated with this course.
+</end course description for 05-691 Learning Media Design>

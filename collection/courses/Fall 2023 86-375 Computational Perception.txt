@@ -1,0 +1,16 @@
+<start course metadata for 86-375 Computational Perception>
+Semester: Fall 2023 (aka F23)
+Course Name: Computational Perception
+Course Number: 86-375
+Department: Neuroscience Institute
+Number of Units: 9
+Prerequisites: 15-112 and 21-241 and 21-122
+Instructors: Tai-Sing Lee
+Rooms: WEH 4708
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 86-375 Computational Perception>
+
+<start course description for 86-375 Computational Perception>
+Semester: Fall 2023 (aka F23)
+Course Description: In this course, we will first cover the biological and psychological foundational knowledge of biological perceptual systems, and then apply computational thinking to investigate the principles and mechanisms underlying natural perception. The course will focus on vision this year, but will also touch upon other sensory modalities.  You will learn how to reason scientifically and computationally about problems and issues in perception, how to extract the essential computational properties of those abstract ideas, and finally how to convert these into explicit mathematical models and computational algorithms.  Topics include perceptual representation and inference, perceptual organization, perceptual constancy, object recognition, learning and scene analysis. Prerequisites: First year college calculus, some basic knowledge of linear algebra and probability and some programming experience are desirable.
+</end course description for 86-375 Computational Perception>

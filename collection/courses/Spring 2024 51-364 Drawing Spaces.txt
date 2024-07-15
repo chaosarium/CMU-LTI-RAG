@@ -1,0 +1,16 @@
+<start course metadata for 51-364 Drawing Spaces>
+Semester: Spring 2024 (aka S24)
+Course Name: Drawing Spaces
+Course Number: 51-364
+Department: Design
+Number of Units: 9
+Prerequisites: None
+Instructors: Mark Mentzer
+Rooms: MM A11
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-364 Drawing Spaces>
+
+<start course description for 51-364 Drawing Spaces>
+Semester: Spring 2024 (aka S24)
+Course Description: The natural and built environment will comprise the subjects of inquiry in this course.  We will investigate systems of spatial and physical organization as found in the landscape in various forms and structures from forest to farm and from tent to tenement as examples. The intersection of these systems found in accessible locals will be investigated in the field through on site drawings using simple media and sketchbooks. These studies will then form the basis for the iteration of more developed images depicting environments both existing and imagined. Some time will be spent on observing people and various life forms as they populate and interact within these spaces to various ends.
+</end course description for 51-364 Drawing Spaces>

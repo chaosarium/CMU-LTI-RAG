@@ -1,0 +1,16 @@
+<start course metadata for 19-625 Sustainable Energy for the Developing World>
+Semester: Spring 2024 (aka S24)
+Course Name: Sustainable Energy for the Developing World
+Course Number: 19-625
+Department: Engineering & Public Policy
+Number of Units: 12
+Prerequisites: None
+Instructors: Paulina Jaramillo
+Rooms: BH A53
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 19-625 Sustainable Energy for the Developing World>
+
+<start course description for 19-625 Sustainable Energy for the Developing World>
+Semester: Spring 2024 (aka S24)
+Course Description: This course examines the current state of the energy system in developing countries and the challenges these countries will face in sustainably meeting their energy needs in the 21st century. The following are examples of questions and issues we will cover throughout the semester.      What is the current status of the energy system in the    developing world?      What is the role of energy in supporting economic growth and alleviating poverty?      What are the future energy needs of developing countries?      What are the challenges developing countries will face as they build/improve their energy systems?      What technologies are available to meet the energy challenges in the developing world?
+</end course description for 19-625 Sustainable Energy for the Developing World>

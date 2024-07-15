@@ -1,0 +1,16 @@
+<start course metadata for 45-850 Applications of Operations Research>
+Semester: Fall 2023 (aka F23)
+Course Name: Applications of Operations Research
+Course Number: 45-850
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Andrew Li
+Rooms: TEP 2111
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-850 Applications of Operations Research>
+
+<start course description for 45-850 Applications of Operations Research>
+Semester: Fall 2023 (aka F23)
+Course Description: Operations research techniques are often used in industry to solve difficult managerial problems.  In this course, we extend the set of techniques covered in the core "Optimization" course and illustrate their use through readings on real-world projects.  The course will concentrate on applications from recent years, with an emphasis on techniques and applications most applicable in practice.
+</end course description for 45-850 Applications of Operations Research>

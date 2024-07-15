@@ -1,0 +1,16 @@
+<start course metadata for 85-198 Research Training: Psychology>
+Semester: Spring 2024 (aka S24)
+Course Name: Research Training: Psychology
+Course Number: 85-198
+Department: Psychology
+Number of Units: 9
+Prerequisites: None
+Instructors: Bradford Mahon, Catarina Vales, Erik Thiessen, Instructor TBA, J. David Creswell, Kasey Creswell, Kenneth Koedinger, Laurie Heller, Michael Tarr, Michael Trujillo, Paulo Carvalho, Simon Cullen, Vicki Helgeson
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 85-198 Research Training: Psychology>
+
+<start course description for 85-198 Research Training: Psychology>
+Semester: Spring 2024 (aka S24)
+Course Description: See https://www.cmu.edu/dietrich/students/undergraduate/programs/research-training-program.html and click on (forms and guides informational handout page) then click on current freshman-sophmore research training courses for listing of research training course descriptions.
+</end course description for 85-198 Research Training: Psychology>

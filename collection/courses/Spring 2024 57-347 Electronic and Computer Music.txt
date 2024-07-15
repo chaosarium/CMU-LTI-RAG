@@ -1,0 +1,16 @@
+<start course metadata for 57-347 Electronic and Computer Music>
+Semester: Spring 2024 (aka S24)
+Course Name: Electronic and Computer Music
+Course Number: 57-347
+Department: Music
+Number of Units: 6
+Prerequisites: 57-101 or 57-171
+Instructors: Benjamin Opie
+Rooms: HOA A10
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-347 Electronic and Computer Music>
+
+<start course description for 57-347 Electronic and Computer Music>
+Semester: Spring 2024 (aka S24)
+Course Description: This course builds on the concepts learned in Introduction to Music Technology (57-101) and gives added knowledge in the areas of composition using digital and analog devices as well as various computer programs. Building computer models of both analog and digital synthesizers as well as drum machines, loop players and various other sound processing effects will be covered in detail. Students will be required to produce several projects throughout the course demonstrating their understanding of various concepts in electronic music. More emphasis is placed on the overall quality of the end musical product than in 57-101 in order to prepare students for music production in a professional setting.
+</end course description for 57-347 Electronic and Computer Music>

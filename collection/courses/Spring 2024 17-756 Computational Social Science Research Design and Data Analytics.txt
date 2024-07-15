@@ -1,0 +1,16 @@
+<start course metadata for 17-756 Computational Social Science Research Design and Data Analytics>
+Semester: Spring 2024 (aka S24)
+Course Name: Computational Social Science Research Design and Data Analytics
+Course Number: 17-756
+Department: Software & Societal Systems
+Number of Units: 12
+Prerequisites: None
+Instructors: Patrick Park
+Rooms: GHC 4101
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 17-756 Computational Social Science Research Design and Data Analytics>
+
+<start course description for 17-756 Computational Social Science Research Design and Data Analytics>
+Semester: Spring 2024 (aka S24)
+Course Description: This course surveys how digital trace data of human activity online, combined with careful research design and data analytics, have led to surprising discoveries and development of novel theoretical explanations in the field of computational social science (CSS). The course has three aims. (a) It is intended to stimulate new ways of formulating research questions on pressing/emerging societal issues of interest (e.g., political polarization, gender representation in open-source software development, decentralized governance based on blockchain technology) given the possibilities afforded by a wide array of digital trace data (e.g., social media, open-source software collaboration, cryptocurrency transactions, satellite imagery). This course will (b) discuss exemplary works in CSS that made novel discoveries or made theoretical and/or methodological breakthroughs and (c) cover practical considerations that commonly arise in a CSS research project cycle. These issues may include, but are not limited to, data collection (sampling methods and bias), repurposing existing datasets that were collected in a different research context, constructing metrics based on theoretical insights, analytic approaches adequate for a given research question (statistical modeling, network analysis, online experiments, simulation-based theory development), big data processing and analytic tools (distributed data processing frameworks, visualization), ethical considerations, and data sharing. In the end, this course will help participants develop "good taste" for theoretically insightful, methodologically creative, and well thought out research, while learning to identify potential pitfalls that could arise in their own research.
+</end course description for 17-756 Computational Social Science Research Design and Data Analytics>

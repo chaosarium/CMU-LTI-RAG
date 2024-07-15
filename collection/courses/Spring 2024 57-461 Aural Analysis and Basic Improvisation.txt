@@ -1,0 +1,16 @@
+<start course metadata for 57-461 Aural Analysis and Basic Improvisation>
+Semester: Spring 2024 (aka S24)
+Course Name: Aural Analysis and Basic Improvisation
+Course Number: 57-461
+Department: Music
+Number of Units: 9
+Prerequisites: 57-408
+Instructors: John Ito
+Rooms: HOA 225
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-461 Aural Analysis and Basic Improvisation>
+
+<start course description for 57-461 Aural Analysis and Basic Improvisation>
+Semester: Spring 2024 (aka S24)
+Course Description: Where are we now? Musicians often face analytical questions in performing situations. What scale degree is the trumpet playing? What chord are we playing now? What countermelody are the altos singing? What is the form, and where are we in it? The purpose of this course is to enhance students' abilities to answer these kinds of questions in real-time, real-world performance situations, apart from the score. The primary skills developed in the course will be hearing melodic scale degrees, hearing harmonies, memorizing short melodic fragments, identifying short harmonic idioms by ear, hearing two-voice contrapuntal music, and improvising over repeated chord progressions. A variety of conventional and unconventional games and exercises will be employed, involving notating, singing, and using the students' main instruments. We will also put these skills to use in doing larger-scale analysis by ear of longer passages, focusing especially on form, including entire movements. Improvisation comes into the course because perception and production are deeply intertwined; fun improvisation exercises, mostly using the idioms of popular music, will strengthen aural abilities much more than passive identification and dictation exercises could alone.
+</end course description for 57-461 Aural Analysis and Basic Improvisation>

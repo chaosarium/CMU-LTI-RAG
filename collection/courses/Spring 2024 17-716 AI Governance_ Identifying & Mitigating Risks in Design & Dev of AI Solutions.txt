@@ -1,0 +1,16 @@
+<start course metadata for 17-716 AI Governance: Identifying & Mitigating Risks in Design & Dev of AI Solutions>
+Semester: Spring 2024 (aka S24)
+Course Name: AI Governance: Identifying & Mitigating Risks in Design & Dev of AI Solutions
+Course Number: 17-716
+Department: Software & Societal Systems
+Number of Units: 6
+Prerequisites: None
+Instructors: Norman Sadeh
+Rooms: CMU REMOTE; HH B131
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 17-716 AI Governance: Identifying & Mitigating Risks in Design & Dev of AI Solutions>
+
+<start course description for 17-716 AI Governance: Identifying & Mitigating Risks in Design & Dev of AI Solutions>
+Semester: Spring 2024 (aka S24)
+Course Description: With AI and ML finding their way into an increasingly broad range of products and services, it is important to identify and mitigate the risks associated with the adoption of these technologies. This course reviews the different types of risks associated with AI and discusses methodologies and techniques available to identify and mitigate these risks. The course introduces students to ethical frameworks available to identify and analyze risks. It also examines best practices emerging from both government and industry efforts in this area. This includes looking at new regulations such as the EU AI Act as well as emerging frameworks such as the one developed by NIST. The course also examines frameworks developed by leading companies and how these frameworks combine both technical and non-technical approaches. It further discusses changes that need to be enacted by organizations to adopt more systematic approaches to AI governance. This course combines a mix of technical, policy, and management discussions.
+</end course description for 17-716 AI Governance: Identifying & Mitigating Risks in Design & Dev of AI Solutions>

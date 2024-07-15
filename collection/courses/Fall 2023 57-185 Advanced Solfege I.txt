@@ -1,0 +1,16 @@
+<start course metadata for 57-185 Advanced Solfege I>
+Semester: Fall 2023 (aka F23)
+Course Name: Advanced Solfege I
+Course Number: 57-185
+Department: Music
+Number of Units: 3
+Prerequisites: None
+Instructors: Anne Moskal
+Rooms: CFA M160
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-185 Advanced Solfege I>
+
+<start course description for 57-185 Advanced Solfege I>
+Semester: Fall 2023 (aka F23)
+Course Description: This course improves the student's ability to analyze music aurally and to sing at sight in traditional meters and tonalities using the "fixed do" system. Solfege is the integration of the three cognitive skills: reading music, hearing music, and writing what one hears. Section assignment is determined by a placement test.  It includes advanced work for experienced students and those with perfect pitch.
+</end course description for 57-185 Advanced Solfege I>

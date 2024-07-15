@@ -1,0 +1,16 @@
+<start course metadata for 15-652 Foundations of Programming Languages>
+Semester: Spring 2024 (aka S24)
+Course Name: Foundations of Programming Languages
+Course Number: 15-652
+Department: Computer Science
+Number of Units: 12
+Prerequisites: None
+Instructors: Stephanie Balzer
+Rooms: BH A36
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-652 Foundations of Programming Languages>
+
+<start course description for 15-652 Foundations of Programming Languages>
+Semester: Spring 2024 (aka S24)
+Course Description: This course discusses in depth many of the concepts underlying the design, definition, implementation, and use of modern programming languages. Formal approaches to defining the syntax and semantics are used to describe the fundamental concepts underlying programming languages. A variety of programming paradigms are covered such as imperative, functional, logic, and concurrent programming. In addition to the formal studies, experience with programming in the languages is used to illustrate how different design goals can lead to radically different languages and models of computation.
+</end course description for 15-652 Foundations of Programming Languages>

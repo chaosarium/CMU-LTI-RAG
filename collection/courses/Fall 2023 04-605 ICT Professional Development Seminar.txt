@@ -1,0 +1,16 @@
+<start course metadata for 04-605 ICT Professional Development Seminar>
+Semester: Fall 2023 (aka F23)
+Course Name: ICT Professional Development Seminar
+Course Number: 04-605
+Department: Information & Communication Technology
+Number of Units: 6
+Prerequisites: None
+Instructors: Christine Niyizamwiyitira
+Rooms: CMR F203
+Locations: Kigali, Rwanda
+</end course metadata for 04-605 ICT Professional Development Seminar>
+
+<start course description for 04-605 ICT Professional Development Seminar>
+Semester: Fall 2023 (aka F23)
+Course Description: The seminar prepares second-year students for professional life beyond CMU. Objectives may include finding a job, securing a promotion or transfer in an existing company, preparing to become managers and leaders, entrepreneurship, or applying to a PhD program. Students explore career opportunities in ICT through individual and group projects, presentations, and discussions. Students draw on internships, work experiences, team projects, selected readings, and guest lectures to examine the role of global professional, managerial, leadership, and technical skills critical to success and to develop strategies for lifelong learning and professional development.
+</end course description for 04-605 ICT Professional Development Seminar>

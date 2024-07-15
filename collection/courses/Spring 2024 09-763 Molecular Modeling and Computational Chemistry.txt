@@ -1,0 +1,16 @@
+<start course metadata for 09-763 Molecular Modeling and Computational Chemistry>
+Semester: Spring 2024 (aka S24)
+Course Name: Molecular Modeling and Computational Chemistry
+Course Number: 09-763
+Department: Chemistry
+Number of Units: 12
+Prerequisites: None
+Instructors: Maria Kurnikova
+Rooms: MI 355
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 09-763 Molecular Modeling and Computational Chemistry>
+
+<start course description for 09-763 Molecular Modeling and Computational Chemistry>
+Semester: Spring 2024 (aka S24)
+Course Description: Computer modeling is playing an increasingly important role in chemical, biological and materials research. This course provides an overview of computational chemistry techniques including molecular mechanics, molecular dynamics, electronic structure theory and continuum medium approaches. Sufficient theoretical background is provided for students to understand the uses and limitations of each technique. An integral part of the course is hands on experience with state-of-the-art computational chemistry tools running on graphics workstations. This is the graduate equivalent of 09-563.  Students enrolled in the graduate level course will complete an additional independent project.  3 hrs. lec.
+</end course description for 09-763 Molecular Modeling and Computational Chemistry>

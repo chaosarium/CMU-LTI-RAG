@@ -1,0 +1,16 @@
+<start course metadata for 03-232 Biochemistry I>
+Semester: Summer Two 2024 (aka M24, M24 Mini 2, Summer 2024 Mini 2)
+Course Name: Biochemistry I
+Course Number: 03-232
+Department: Biological Sciences
+Number of Units: 9
+Prerequisites: 09-105 or 09-107 or 06-221 or 06-223
+Instructors: Gordon Rule
+Rooms: WEH 4709
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 03-232 Biochemistry I>
+
+<start course description for 03-232 Biochemistry I>
+Semester: Summer Two 2024 (aka M24, M24 Mini 2, Summer 2024 Mini 2)
+Course Description: None
+</end course description for 03-232 Biochemistry I>

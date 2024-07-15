@@ -1,0 +1,16 @@
+<start course metadata for 54-995 Internship>
+Semester: Fall 2023 (aka F23)
+Course Name: Internship
+Course Number: 54-995
+Department: Drama
+Number of Units: N/A
+Prerequisites: None
+Instructors: Kim Weild
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-995 Internship>
+
+<start course description for 54-995 Internship>
+Semester: Fall 2023 (aka F23)
+Course Description: Theater related Internship with external company or organization.
+</end course description for 54-995 Internship>

@@ -1,0 +1,16 @@
+<start course metadata for 51-442 BME Design Project>
+Semester: Spring 2024 (aka S24)
+Course Name: BME Design Project
+Course Number: 51-442
+Department: Design
+Number of Units: 9
+Prerequisites: None
+Instructors: Conrad Zapanta, Wayne Chung
+Rooms: POS 153
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-442 BME Design Project>
+
+<start course description for 51-442 BME Design Project>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is the second in sequence of prototyping and testing a proposed medical device product.  The course consists of modules for the development of a project plan, background research, hazard analysis, setting product specifications based on user requirements, detailed design and analysis, prototype development and final documentation and presentation.  All products developed will respond to the needs of appropriate market segments; resulting products will be deemed safe, effective, useful, usable and desirable by those segments. Students will produce a form model, functional prototype, marketing plan, and manufacturing plan of their product.  Prerequisite: 51-441 (3 units, Fall) Foundations of Biomedical Engineering Design (or permission of the instructor). Junior level design or higher with studio training.  Solid modeling or surface modeling recommended.
+</end course description for 51-442 BME Design Project>

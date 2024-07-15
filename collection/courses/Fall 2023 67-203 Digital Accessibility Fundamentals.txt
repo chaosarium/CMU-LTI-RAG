@@ -1,0 +1,16 @@
+<start course metadata for 67-203 Digital Accessibility Fundamentals>
+Semester: Fall 2023 (aka F23)
+Course Name: Digital Accessibility Fundamentals
+Course Number: 67-203
+Department: Information Systems Program
+Number of Units: 3
+Prerequisites: None
+Instructors: Divakaran Liginlal
+Rooms: CMB 1032
+Locations: Doha, Qatar
+</end course metadata for 67-203 Digital Accessibility Fundamentals>
+
+<start course description for 67-203 Digital Accessibility Fundamentals>
+Semester: Fall 2023 (aka F23)
+Course Description: This course provides an introduction to digital accessibility and why it serves to ensure universal participation in the information society. Students who take this course will gain a deep understanding of the diverse problems faced by people with disabilities in their interactions in a digital space and how the use of assistive technologies help them surmount the related accessibility barriers. They will learn about inclusive design principles and how to author content with consideration of design decisions that impact digital accessibility. Students will learn how to create electronic documents (e.g., MS Word and pdf) that can be easily accessed by people unhindered by a variety of disabilities such as visual or hearing impairments. They will also gain a high-level understanding of Web Content Accessibility Guidelines (WCAG) and how to use basic tools and techniques to detect non-conformance of a website with accessibility standards.
+</end course description for 67-203 Digital Accessibility Fundamentals>

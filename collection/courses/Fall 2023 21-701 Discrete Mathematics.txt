@@ -1,0 +1,16 @@
+<start course metadata for 21-701 Discrete Mathematics>
+Semester: Fall 2023 (aka F23)
+Course Name: Discrete Mathematics
+Course Number: 21-701
+Department: Mathematical Sciences
+Number of Units: 12
+Prerequisites: (21-355 or 21-235 or 21-455) and (21-373 or 21-237)
+Instructors: Florian Frick
+Rooms: WEH 8220
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-701 Discrete Mathematics>
+
+<start course description for 21-701 Discrete Mathematics>
+Semester: Fall 2023 (aka F23)
+Course Description: Combinatorial analysis, graph theory with applications to problems in computational complexity, networks, and other areas.  (Three 50 minute lectures)
+</end course description for 21-701 Discrete Mathematics>

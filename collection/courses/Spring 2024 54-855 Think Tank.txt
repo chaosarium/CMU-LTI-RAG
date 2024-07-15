@@ -1,0 +1,16 @@
+<start course metadata for 54-855 Think Tank>
+Semester: Spring 2024 (aka S24)
+Course Name: Think Tank
+Course Number: 54-855
+Department: Drama
+Number of Units: 4
+Prerequisites: None
+Instructors: Kim Weild
+Rooms: PCA 321
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-855 Think Tank>
+
+<start course description for 54-855 Think Tank>
+Semester: Spring 2024 (aka S24)
+Course Description: Think Tank is a four semester set of courses for MFA directors in project research and development.  The class has two main components: field research and skill building projects. Directors will work on projects developing, proposing, pitching, producing and documenting their work. Directors will pair these development projects with field research that will include interviews with theater practitioners and mini projects with playwrights, designers, producers, and presenters.
+</end course description for 54-855 Think Tank>

@@ -1,0 +1,16 @@
+<start course metadata for 95-874 Agile Methods>
+Semester: Spring 2024 (aka S24)
+Course Name: Agile Methods
+Course Number: 95-874
+Department: Information Systems:Sch of IS & Mgt
+Number of Units: 6
+Prerequisites: None
+Instructors: John Davis
+Rooms: HBH A301
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 95-874 Agile Methods>
+
+<start course description for 95-874 Agile Methods>
+Semester: Spring 2024 (aka S24)
+Course Description: Businesses must compete in new ways for growth and relevancy, driven by rapidly expanding digital innovation and complexity. As a result, organizations have become reliant upon an ability of their people and leaders to embrace continuous change for strategic gain while delivering continuous, incremental value.  This explains the shift industry is making to Agile Methods; replacing outdated ways of organizing and managing software development and delivery. In this course we learn the history of agile methods, we explore Kanban, DevOps and, more deeply, the Scrum Framework, as it is the most popular and sits at the root of most every enterprise framework used to "scale agility" throughout large organizations.      We teach what it means to be a modern Entrepreneurial Leader through effective Product Ownership.     We teach what it means to lead effective High-Performance Teaming through Self-Leadership, Values and Principles.     We teach what kind of Leadership makes or breaks this in organizations big and small, and offer many case studies, storytelling and deeper insights through in-class teaming exercises.  Who this course benefits:  Many are in pursuit of playing strategic Product Owner and Scrum Master roles, as well as supporting roles in Product management, development and deliver - if this is you, this is a course you really must consider - speak to your student network about the value it brings in your career goals.
+</end course description for 95-874 Agile Methods>

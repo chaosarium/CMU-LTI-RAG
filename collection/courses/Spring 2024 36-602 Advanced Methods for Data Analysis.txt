@@ -1,0 +1,16 @@
+<start course metadata for 36-602 Advanced Methods for Data Analysis>
+Semester: Spring 2024 (aka S24)
+Course Name: Advanced Methods for Data Analysis
+Course Number: 36-602
+Department: Statistics and Data Science
+Number of Units: 9
+Prerequisites: 36-601
+Instructors: Cosma Shalizi
+Rooms: DH 2315
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 36-602 Advanced Methods for Data Analysis>
+
+<start course description for 36-602 Advanced Methods for Data Analysis>
+Semester: Spring 2024 (aka S24)
+Course Description: This course introduces modern methods of data analysis, building on the theory and application of linear models from 36-601.  Topics include nonlinear regression, nonparametric smoothing, density estimation, generalized linear and generalized additive models, simulation and predictive model-checking, cross-validation, bootstrap uncertainty estimation, multivariate methods including factor analysis and mixture models, and graphical models and causal inference. Students will analyze real-world data from a range of fields, coding small programs and writing reports.  Students may enroll by special permission only.
+</end course description for 36-602 Advanced Methods for Data Analysis>

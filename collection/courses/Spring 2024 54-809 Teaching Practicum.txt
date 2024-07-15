@@ -1,0 +1,16 @@
+<start course metadata for 54-809 Teaching Practicum>
+Semester: Spring 2024 (aka S24)
+Course Name: Teaching Practicum
+Course Number: 54-809
+Department: Drama
+Number of Units: 9
+Prerequisites: None
+Instructors: Kim Weild, Rob Handel
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-809 Teaching Practicum>
+
+<start course description for 54-809 Teaching Practicum>
+Semester: Spring 2024 (aka S24)
+Course Description: This is a practicum course designed to engage School of Drama MFA students as independent teachers of undergraduate courses for which they serve as instructor of record. Students will engage in the Eberly Center's Future Faculty programming and check in regularly with their faculty mentor throughout the semester. Students will be assigned to a course as the instructor of record and be responsible for designing the syllabus, management of the course and assessment of students. This is a repeatable course that students will take each semester that they are teaching.
+</end course description for 54-809 Teaching Practicum>

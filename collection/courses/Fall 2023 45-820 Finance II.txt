@@ -1,0 +1,16 @@
+<start course metadata for 45-820 Finance II>
+Semester: Fall 2023 (aka F23)
+Course Name: Finance II
+Course Number: 45-820
+Department: Business Administration
+Number of Units: 6
+Prerequisites: 45-720
+Instructors: Lars-Alexander Kuehn
+Rooms: TEP 2111
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-820 Finance II>
+
+<start course description for 45-820 Finance II>
+Semester: Fall 2023 (aka F23)
+Course Description: Finance II is the prerequisite for all finance electives.  The course develops the concepts and tools needed to analyze publicly traded securities, and to apply the tools to real world situations problems such as optimal portfolio formation, cost of capital estimation, interest rate risk management, and basic derivatives valuation techniques.
+</end course description for 45-820 Finance II>

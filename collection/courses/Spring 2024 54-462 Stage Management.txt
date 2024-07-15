@@ -1,0 +1,16 @@
+<start course metadata for 54-462 Stage Management>
+Semester: Spring 2024 (aka S24)
+Course Name: Stage Management
+Course Number: 54-462
+Department: Drama
+Number of Units: N/A
+Prerequisites: None
+Instructors: C. Todd Brown, Tina Shackleford
+Rooms: PCA 118
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-462 Stage Management>
+
+<start course description for 54-462 Stage Management>
+Semester: Spring 2024 (aka S24)
+Course Description: Participation in School of Drama productions, usually in supervisory roles in design or production.
+</end course description for 54-462 Stage Management>

@@ -1,0 +1,16 @@
+<start course metadata for 12-720 Water Resources Chemistry>
+Semester: Fall 2023 (aka F23)
+Course Name: Water Resources Chemistry
+Course Number: 12-720
+Department: Civil & Environmental Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Joe Moore
+Rooms: PH A7F
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 12-720 Water Resources Chemistry>
+
+<start course description for 12-720 Water Resources Chemistry>
+Semester: Fall 2023 (aka F23)
+Course Description: This course provides a rigorous yet practical basis for applying the principles of physical chemistry to understanding the composition of natural waters and to the engineering of water and wastewater treatment processes. Topics covered include chemical equilibrium and kinetics; acid-base equilibria and buffering; solid precipitation and dissolution; oxidation and reduction reactions; adsorption on solids; and computer-aided problem solving. The primary objective of the course is to be able to formulate and solve chemical equilibrium models for complex aqueous systems. Knowledge of college-level general chemistry is assumed.
+</end course description for 12-720 Water Resources Chemistry>

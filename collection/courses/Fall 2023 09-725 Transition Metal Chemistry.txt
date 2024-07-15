@@ -1,0 +1,16 @@
+<start course metadata for 09-725 Transition Metal Chemistry>
+Semester: Fall 2023 (aka F23)
+Course Name: Transition Metal Chemistry
+Course Number: 09-725
+Department: Chemistry
+Number of Units: 12
+Prerequisites: None
+Instructors: Isaac Garcia Bosch
+Rooms: MI 355
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 09-725 Transition Metal Chemistry>
+
+<start course description for 09-725 Transition Metal Chemistry>
+Semester: Fall 2023 (aka F23)
+Course Description: This class is focused understanding the structure, spectroscopy and reactivity of 3d metal complexes. Based on ligand field theory, we will analyze the electronic structure of these metal complexes and we will briefly describe the main spectroscopic techniques that will allow for studying this topic (X-ray diffraction analysis, UV-vis, EPR, NMR, EXAFS and Mossbauer). The main focus of the course will be on analyzing the reactivity of 3d metal complexes in the context of metalloenzymes and small-molecule bioinspired complexes. The natural and synthetic metal complexes involved in O2 reduction, H2O oxidation, N2 reduction, H2 formation and functionalization of organic molecules (e.g. hydroxylation of C-H bonds, dehydrogenation of alcohols, etc.), and the reaction pathways by which these important processes take place will be studied in detail. (Graduate Course: 12 units, 09-725) 3 hrs. lec.
+</end course description for 09-725 Transition Metal Chemistry>

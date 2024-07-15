@@ -1,0 +1,16 @@
+<start course metadata for 27-796 Structure and Characterization of Materials>
+Semester: Fall 2023 (aka F23)
+Course Name: Structure and Characterization of Materials
+Course Number: 27-796
+Department: Materials Science & Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Marc Degraef
+Rooms: HH B103
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 27-796 Structure and Characterization of Materials>
+
+<start course description for 27-796 Structure and Characterization of Materials>
+Semester: Fall 2023 (aka F23)
+Course Description: The objective of this course is for the student to be able to understand important crystal structures of both inorganic and organic materials in terms of their building blocks (atom positions, Bravais lattices, structural units, symmetry groups, stacking and packing configurations) and also to understand how modern experimental materials characterization techniques (including x-ray, electron, and neutron diffraction and spectroscopic techniques) are used to obtain structural and chemical information.
+</end course description for 27-796 Structure and Characterization of Materials>

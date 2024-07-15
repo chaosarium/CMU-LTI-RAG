@@ -1,0 +1,16 @@
+<start course metadata for 11-927 MIIS Capstone Project>
+Semester: Fall 2023 (aka F23)
+Course Name: MIIS Capstone Project
+Course Number: 11-927
+Department: Language Technologies Institute
+Number of Units: 36
+Prerequisites: None
+Instructors: Ralf Brown
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 11-927 MIIS Capstone Project>
+
+<start course description for 11-927 MIIS Capstone Project>
+Semester: Fall 2023 (aka F23)
+Course Description: The capstone project course is a group-oriented demonstration of student skill in one or more areas covered by the degree. Typically the result of the capstone project is a major software application. The capstone project course consists of two components.  The classroom component guides students in project planning, team management, development of requirements and design specifications, and software tools for managing group-oriented projects.  The lab component provides project-specific technical guidance and expertise, for example in the development of a question answering system, dialog, or sentiment analysis application.  Thus, each project receives two types of supervision, often from two separate members of the faculty.
+</end course description for 11-927 MIIS Capstone Project>

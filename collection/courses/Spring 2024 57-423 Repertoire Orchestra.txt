@@ -1,0 +1,16 @@
+<start course metadata for 57-423 Repertoire Orchestra>
+Semester: Spring 2024 (aka S24)
+Course Name: Repertoire Orchestra
+Course Number: 57-423
+Department: Music
+Number of Units: 3
+Prerequisites: None
+Instructors: Daniel Curtis
+Rooms: CFA ACH
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-423 Repertoire Orchestra>
+
+<start course description for 57-423 Repertoire Orchestra>
+Semester: Spring 2024 (aka S24)
+Course Description: This course thoroughly acquaints participants with the standard works one would expect to encounter as part of a career as an orchestral player.  Assigned repertoire will be read each class session.  All students are eligible to register for this course by special permission.  Students who are not placed in the Carnegie Mellon Philharmonic are given priority for registration.
+</end course description for 57-423 Repertoire Orchestra>

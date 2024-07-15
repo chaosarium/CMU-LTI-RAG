@@ -1,0 +1,16 @@
+<start course metadata for 14-763 Systems and Tool Chains for AI Engineers>
+Semester: Fall 2023 (aka F23)
+Course Name: Systems and Tool Chains for AI Engineers
+Course Number: 14-763
+Department: Information Networking Institute
+Number of Units: 12
+Prerequisites: None
+Instructors: Guannan Qu, Mohamed Farag
+Rooms: CIC 1201
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 14-763 Systems and Tool Chains for AI Engineers>
+
+<start course description for 14-763 Systems and Tool Chains for AI Engineers>
+Semester: Fall 2023 (aka F23)
+Course Description: Adopting Artificial Intelligence in the modern era has much more to it than learning the theoretical foundation of AI algorithms. The implementation of Machine Learning and Artificial Intelligence at a large scale requires solid technical infrastructure to support its complex, heavy processes. In this course, students will learn to be effective users of AI systems. Students will gain hands-on experience with modern ML frameworks and infrastructure tools, in the context of large real-world datasets and under conditions requiring engineering design choices. This experience will be gained in conjunction with the practical application of class topics in a real cloud environment.    The premise of this course is to build a broad and solid foundation in Artificial Intelligence Infrastructure that will pay significant dividends throughout a students research and work career across data science and Artificial Intelligence related fields. In this class, we will focus on the following topics:   Data Collection and Storage.   Data Streaming.   Data Engineering   Modern ML Frameworks.   Model Validation and Monitoring.   Neural Network Design and Implementation   Embedded Machine Learning   Deployment of ML Models to the Cloud.   The course material will focus on recent and landmark research papers and existing tools and software systems. Students will have substantial programming project work in which they design, implement, and analyze aspects of AI-model infrastructure. This course will use an IoT-relevant dataset throughout the semester. The format of this course will be a mix of lectures and hands-on labs. Students will be responsible for readings, and completing a hands-on project focused on developing applications on Apache Spark, TensorFlow, Apache Kafka, and PostgreSQL. Readings will be selected from recent conference proceedings and journals.
+</end course description for 14-763 Systems and Tool Chains for AI Engineers>

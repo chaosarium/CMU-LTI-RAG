@@ -1,0 +1,16 @@
+<start course metadata for 95-865 Unstructured Data Analytics>
+Semester: Fall 2023 (aka F23)
+Course Name: Unstructured Data Analytics
+Course Number: 95-865
+Department: Information Systems:Sch of IS & Mgt
+Number of Units: 6
+Prerequisites: 95-888 or 90-819 or 95-898
+Instructors: George Chen
+Rooms: HBH 1002; HBH 1004; HBH A301
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 95-865 Unstructured Data Analytics>
+
+<start course description for 95-865 Unstructured Data Analytics>
+Semester: Fall 2023 (aka F23)
+Course Description: Companies, governments, and other organizations now collect massive amounts of data such as text, images, audio, and video. How do we turn this heterogeneous mess of data into actionable insights? A common problem is that we often do not know what structure underlies the data ahead of time, hence the data often being referred to as "unstructured". This course takes a practical approach to unstructured data analysis via a two-step approach. We first examine how to identify possible structure present in the data via visualization and other exploratory methods. Once we have clues for what structure is present in the data, we turn toward exploiting this structure to make predictions. Many examples are given for how these methods help solve real problems faced by organizations. Along the way, we encounter many of the most popular methods in analyzing unstructured data, from modern classics in manifold learning, clustering, and topic modeling to some of the latest developments in deep neural networks for analyzing text, images, and time series. We will be coding lots of Python and working with Amazon Web Services (AWS) for cloud computing (including using GPUs). Note that students cannot receive credit for both 95-865 ("Unstructured Data Analytics") and 94-775 ("Unstructured Data Analytics for Policy"). More information is available at the course webpage: http://www.andrew.cmu.edu/user/georgech/95-865/
+</end course description for 95-865 Unstructured Data Analytics>

@@ -1,0 +1,16 @@
+<start course metadata for 47-836 Network Optimization II>
+Semester: Fall 2023 (aka F23)
+Course Name: Network Optimization II
+Course Number: 47-836
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Ben Moseley
+Rooms: TEP 4219
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 47-836 Network Optimization II>
+
+<start course description for 47-836 Network Optimization II>
+Semester: Fall 2023 (aka F23)
+Course Description: Network Optimization 1 & 2 (47-835 & 836) are a pair of doctoral level classes that cover basic topics in the intersection of graph algorithms and mathematical optimization. Topics covered include packing and covering problems in graphs such as flows, cuts, and matchings, as well as graph connectivity problems. The courses will demonstrate important tools used in these areas such as total unimodularity, the primal-dual and iterative methods, spectral graph techniques and matroids, and discuss research directions in network optimization. It is appropriate for students enrolled in the ACO program as well as those interested in research in graph theory, combinatorial optimization, and approximation algorithms.
+</end course description for 47-836 Network Optimization II>

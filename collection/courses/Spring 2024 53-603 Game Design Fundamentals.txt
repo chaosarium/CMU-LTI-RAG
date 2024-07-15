@@ -1,0 +1,16 @@
+<start course metadata for 53-603 Game Design Fundamentals>
+Semester: Spring 2024 (aka S24)
+Course Name: Game Design Fundamentals
+Course Number: 53-603
+Department: Entertainment Technology
+Number of Units: 12
+Prerequisites: None
+Instructors: Stone Librande
+Rooms: CMU REMOTE
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 53-603 Game Design Fundamentals>
+
+<start course description for 53-603 Game Design Fundamentals>
+Semester: Spring 2024 (aka S24)
+Course Description: This course offers an introduction to the fundamentals of game design through lectures and by experimenting with simple games in a collaborative workshop environment.  In addition to the in-class activities, each student will build and playtest their own personal board game outside of class. This game will be iteratively improved throughout the semester, and the final version will be playtested in the last class.
+</end course description for 53-603 Game Design Fundamentals>

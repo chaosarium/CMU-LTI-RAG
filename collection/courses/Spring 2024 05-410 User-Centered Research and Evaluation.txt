@@ -1,0 +1,16 @@
+<start course metadata for 05-410 User-Centered Research and Evaluation>
+Semester: Spring 2024 (aka S24)
+Course Name: User-Centered Research and Evaluation
+Course Number: 05-410
+Department: Human-Computer Interaction
+Number of Units: 12
+Prerequisites: None
+Instructors: Hong Shen, Raelin Musuraca
+Rooms: DH 1212
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 05-410 User-Centered Research and Evaluation>
+
+<start course description for 05-410 User-Centered Research and Evaluation>
+Semester: Spring 2024 (aka S24)
+Course Description: This course provides and overview and introduction to the field of human-computer interaction (HCI). It introduces students to tools, techniques, and sources of information about HCI and provides a systematic approach to design. The course increases awareness of good and bad design through observation of existing technology, and teaches the basic skills of task analysis, and analytic and empirical evaluation methods. This is a companion course to courses in visual design (51-422) and software implementation (05-430, 05-431). When registering for this course, undergraduate students are automatically placed the wait list. Students will be then moved into the class, based on if they are in the BHCI second major and year in school e.g. seniors, juniors, etc. In the FALL: This course is NOT open to students outside the HCI major. When registering for this course, undergraduate students are automatically placed the wait list. Students will be then moved into the class, based on if they are in the BHCI second major and year in school. SPRING offering is open to other students.  This course is not open to first-year students.
+</end course description for 05-410 User-Centered Research and Evaluation>

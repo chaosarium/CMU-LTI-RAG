@@ -1,0 +1,16 @@
+<start course metadata for 82-208 Eastern Europe: Society and Culture>
+Semester: Spring 2024 (aka S24)
+Course Name: Eastern Europe: Society and Culture
+Course Number: 82-208
+Department: Modern Languages
+Number of Units: 9
+Prerequisites: None
+Instructors: Naum Kats
+Rooms: POS 343
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 82-208 Eastern Europe: Society and Culture>
+
+<start course description for 82-208 Eastern Europe: Society and Culture>
+Semester: Spring 2024 (aka S24)
+Course Description: This course surveys the societies and culture of modern Eastern Europe, from the Baltic States and Poland to the Balkans and Bulgaria. It will attend to this region's complex and turbulent history and consider the dynamics that shape it from geographical, geopolitical, cultural, and socioeconomic points of view. By reading texts by Milan Kundera, Mihail Sebastian, and Olga Tokarczuk, among others, we will explore topics such as the formation of nation states and nationalism, the violent conflicts of the 20th century, the Holocaust, communist regimes, and post-communist political formations. Students will come away with a better understanding of the socio-cultural circumstances that shape present day Eastern Europe. All readings will be in English, and no prior knowledge of Slavic languages or cultures is required.
+</end course description for 82-208 Eastern Europe: Society and Culture>

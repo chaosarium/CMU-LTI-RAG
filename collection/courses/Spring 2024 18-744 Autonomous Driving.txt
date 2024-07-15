@@ -1,0 +1,16 @@
+<start course metadata for 18-744 Autonomous Driving>
+Semester: Spring 2024 (aka S24)
+Course Name: Autonomous Driving
+Course Number: 18-744
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Ragunathan Rajkumar
+Rooms: BH 237B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-744 Autonomous Driving>
+
+<start course description for 18-744 Autonomous Driving>
+Semester: Spring 2024 (aka S24)
+Course Description: Autonomous vehicles (AVs) promise to (a) significantly reduce or even eliminate fatalities, injuries and damage from automotive crashes; (b) replace driving times with other productive work; and (c) provide independence, flexibility and a better quality of life to legally-blind and differently-abled individuals by giving them transportation options.   At the same time, driving is one of the most complex tasks performed by humans on a regular basis.  Put together, autonomous driving has become a deep engineering and technological challenge of our times.  This course will expose students to the software architecture used in autonomous vehicles (AVs), and discuss in-depth each of the many layers underlying AVs. These layers include sensing, perception, localization, driving behaviors, route planning, path planning,  vehicular communications, control, fault management and user interfaces.
+</end course description for 18-744 Autonomous Driving>

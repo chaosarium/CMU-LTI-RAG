@@ -1,0 +1,16 @@
+<start course metadata for 05-672 MHCI Project II>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: MHCI Project II
+Course Number: 05-672
+Department: Human-Computer Interaction
+Number of Units: 48
+Prerequisites: 05-571 or 05-671
+Instructors: Anthony Levin-Decanini, Derek Wahila, Gin-Ding Tsai, Jessica Hammer, John Beck, Julie Saunders, Laura Vinchesi, Megan Guidi, Skip Shelly
+Rooms: 3SC 172
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 05-672 MHCI Project II>
+
+<start course description for 05-672 MHCI Project II>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: This is the second consecutive course of the two-semester HCI Project course. Experiential learning is a key component of the MHCI program. Through a substantial team project, students apply classroom knowledge in analysis and evaluation, implementation and design, and develop skills working in multidisciplinary teams on client-based industry-related projects. The project begins in the spring semester before graduation and continues full-time through the final summer semester; it must be taken in consecutive spring and summer semesters. Pre-reqs: 05-571 or 05-671.
+</end course description for 05-672 MHCI Project II>

@@ -1,0 +1,16 @@
+<start course metadata for 33-658 Quantum Computation and Quantum Information Theory>
+Semester: Fall 2023 (aka F23)
+Course Name: Quantum Computation and Quantum Information Theory
+Course Number: 33-658
+Department: Physics
+Number of Units: 10
+Prerequisites: 33-234
+Instructors: Michael Widom
+Rooms: WEH 7316
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 33-658 Quantum Computation and Quantum Information Theory>
+
+<start course description for 33-658 Quantum Computation and Quantum Information Theory>
+Semester: Fall 2023 (aka F23)
+Course Description: This course provides an overview of recent developments in quantum computation and quantum information theory. The topics include: a review of relevant concepts in quantum mechanics and in information theory. It will then cover quantum channels, both ideal and noisy, quantum cryptography, an introduction to computational complexity, Shors factorization algorithm, Grovers search algorithm, and proposals for the physical realization of quantum devices, such as correlated photons, ions in traps, and nuclear magnetic resonance. It will also include hands-on experience running programs on cloud quantum computers.
+</end course description for 33-658 Quantum Computation and Quantum Information Theory>

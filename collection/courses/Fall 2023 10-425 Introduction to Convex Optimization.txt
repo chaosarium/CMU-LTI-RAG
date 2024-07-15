@@ -1,0 +1,16 @@
+<start course metadata for 10-425 Introduction to Convex Optimization>
+Semester: Fall 2023 (aka F23)
+Course Name: Introduction to Convex Optimization
+Course Number: 10-425
+Department: Machine Learning
+Number of Units: 12
+Prerequisites: (21-240 or 21-241) and (21-325 or 36-219 or 36-217 or 15-359) and (21-254 or 11-485 or 21-256 or 21-259 or 10-301 or 10-315) and (21-127 or 15-151) and (15-122)
+Instructors: Matthew Gormley
+Rooms: WEH 7500
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 10-425 Introduction to Convex Optimization>
+
+<start course description for 10-425 Introduction to Convex Optimization>
+Semester: Fall 2023 (aka F23)
+Course Description: As machine learning grows in prominence, so also has optimization become a mainstay for machine learning, particularly techniques for convex optimization. Most learning problems are formulated as optimization of some objective function, sometimes subject to constraints. This course explores the optimization algorithms used to solve these machine learning problems. We characterize the properties of the optimization problems that enable these techniques to be efficient (e.g. convexity, smoothness, linearity, separability) as well as properties that inhibit efficient optimization (e.g. nonconvexity). Core topics include first order methods (gradient descent, subgradient methods, proximal and stochastic gradient descent), duality and linear programming, and second-order/quasi-Newton methods. We also consider advanced techniques ranging from those that have spurred the growth of deep learning (e.g. adaptive gradient methods, momentum) and those that enable large-scale distributed optimization. The course will focus both on theory and practical applications, frequently drawing motivation from examples in machine learning. The course is designed so that a machine learning (ML) course could be taken after or before this one; ML is not a prerequisite. Students will gain the tools to both implement and analyze modern optimization techniques.
+</end course description for 10-425 Introduction to Convex Optimization>

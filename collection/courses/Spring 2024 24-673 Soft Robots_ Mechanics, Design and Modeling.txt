@@ -1,0 +1,16 @@
+<start course metadata for 24-673 Soft Robots: Mechanics, Design and Modeling>
+Semester: Spring 2024 (aka S24)
+Course Name: Soft Robots: Mechanics, Design and Modeling
+Course Number: 24-673
+Department: Mechanical Engineering
+Number of Units: 12
+Prerequisites: 24-262
+Instructors: Carmel Majidi
+Rooms: WEH 5302
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-673 Soft Robots: Mechanics, Design and Modeling>
+
+<start course description for 24-673 Soft Robots: Mechanics, Design and Modeling>
+Semester: Spring 2024 (aka S24)
+Course Description: Soft, elastically-deformable machines and electronics will dramatically improve the functionality, versatility, and biological compatibility of future robotic systems.  In contrast to conventional robots and machines, these ?soft robots? will be composed of elastomers, gels, fluids, gas, and other non-rigid matter.  We will explore emerging paradigms in soft robotics and study their design principles using classical theories in solid mechanics, thermodynamics, and electrostatics.  Specific topics include artificial muscles, peristaltic robotics, soft pneumatic robotics, fluid-embedded elastomers, and particle jamming.  This course will include a final project in which students may work individually or as a team.  For the project, students are expected to design and simulate and/or build all or part (eg. sensors, actuators, grippers, etc.) of a soft robot. Prerequisites:  Statics and Stress Analysis or equivalents.
+</end course description for 24-673 Soft Robots: Mechanics, Design and Modeling>

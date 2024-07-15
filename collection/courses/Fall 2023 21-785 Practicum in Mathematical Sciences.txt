@@ -1,0 +1,16 @@
+<start course metadata for 21-785 Practicum in Mathematical Sciences>
+Semester: Fall 2023 (aka F23)
+Course Name: Practicum in Mathematical Sciences
+Course Number: 21-785
+Department: Mathematical Sciences
+Number of Units: N/A
+Prerequisites: None
+Instructors: Dejan Slepcev
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-785 Practicum in Mathematical Sciences>
+
+<start course description for 21-785 Practicum in Mathematical Sciences>
+Semester: Fall 2023 (aka F23)
+Course Description: None
+</end course description for 21-785 Practicum in Mathematical Sciences>

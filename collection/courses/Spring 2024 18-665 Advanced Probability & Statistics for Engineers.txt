@@ -1,0 +1,16 @@
+<start course metadata for 18-665 Advanced Probability & Statistics for Engineers>
+Semester: Spring 2024 (aka S24)
+Course Name: Advanced Probability & Statistics for Engineers
+Course Number: 18-665
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Osman Yagan
+Rooms: B23 211; BH A36
+Locations: Pittsburgh, Pennsylvania; San Jose, California
+</end course metadata for 18-665 Advanced Probability & Statistics for Engineers>
+
+<start course description for 18-665 Advanced Probability & Statistics for Engineers>
+Semester: Spring 2024 (aka S24)
+Course Description: This course will help masters and undergraduate students to obtain the background necessary for excelling in courses and careers in machine learning, artificial intelligence, and related fields. We will cover basic concepts of probability prerequisite to understanding the material typically taught in a ML course. We will also cover slightly more advanced topics including Markov Chains, hypothesis testing, and maximum-likelihood estimation. The remaining part of the semester will be devoted to introducing machine learning concepts such as supervised/unsupervised learning, model identification, clustering, expectation maximization, etc. Students should be familiar with basic calculus, linear algebra.  Although students in 18465 will share lectures with students in 18665, students in 18465 will receive distinct homework assignments, distinct projects, and distinct exams from the ones given to students in 18665. Specifically, the homework assignments, projects, and exams that are given to the 18665 students will be more challenging than those given to the 18465 students.
+</end course description for 18-665 Advanced Probability & Statistics for Engineers>

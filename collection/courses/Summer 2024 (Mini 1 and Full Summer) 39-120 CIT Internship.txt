@@ -1,0 +1,16 @@
+<start course metadata for 39-120 CIT Internship>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: CIT Internship
+Course Number: 39-120
+Department: CIT Interdisciplinary
+Number of Units: 0
+Prerequisites: None
+Instructors: Instructor TBA
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 39-120 CIT Internship>
+
+<start course description for 39-120 CIT Internship>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: None
+</end course description for 39-120 CIT Internship>

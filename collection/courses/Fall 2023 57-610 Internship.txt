@@ -1,0 +1,16 @@
+<start course metadata for 57-610 Internship>
+Semester: Fall 2023 (aka F23)
+Course Name: Internship
+Course Number: 57-610
+Department: Music
+Number of Units: N/A
+Prerequisites: None
+Instructors: Katherine Shields, Sharon Johnston
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-610 Internship>
+
+<start course description for 57-610 Internship>
+Semester: Fall 2023 (aka F23)
+Course Description: A student can receive credit for an unpaid internship in a music related field.  The amount of credit is determined by the number of internship hours.
+</end course description for 57-610 Internship>

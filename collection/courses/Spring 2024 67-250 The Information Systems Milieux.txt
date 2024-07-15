@@ -1,0 +1,16 @@
+<start course metadata for 67-250 The Information Systems Milieux>
+Semester: Spring 2024 (aka S24)
+Course Name: The Information Systems Milieux
+Course Number: 67-250
+Department: Information Systems Program
+Number of Units: 9
+Prerequisites: None
+Instructors: Chadi Aoun, Divakaran Liginlal, Jeria Quesenberry, Naama Ilany-Tzur
+Rooms: CMB 2062; GHC 4211; PH A18B; PH A18C; WEH 5409; WEH 5415
+Locations: Doha, Qatar; Pittsburgh, Pennsylvania
+</end course metadata for 67-250 The Information Systems Milieux>
+
+<start course description for 67-250 The Information Systems Milieux>
+Semester: Spring 2024 (aka S24)
+Course Description: Information systems (IS) are changing work practices, reshaping organizations, transforming cultures, and giving new meaning to the ways we see the world. This course is designed to help students understand the role of IS in the enterprise and the means by which these systems are created, utilized and maintained. The course will focus on enterprise information architecture including the components of enterprise strategy, business, application, information, and infrastructure layers. This course provides not only a framework for understanding information systems, but also a language to identify their dynamic complexities and interdependencies.
+</end course description for 67-250 The Information Systems Milieux>

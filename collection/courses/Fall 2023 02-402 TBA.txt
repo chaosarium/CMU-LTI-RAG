@@ -1,0 +1,16 @@
+<start course metadata for 02-402 TBA>
+Semester: Fall 2023 (aka F23)
+Course Name: TBA
+Course Number: 02-402
+Department: Computational Biology
+Number of Units: 3
+Prerequisites: None
+Instructors: Oana Carja
+Rooms: OFF PITT
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 02-402 TBA>
+
+<start course description for 02-402 TBA>
+Semester: Fall 2023 (aka F23)
+Course Description: This course consists of weekly invited presentations on current computational biology research topics by leading scientists.  Attendance is mandatory for a passing grade.  You must sign in and attend at least 80% of the seminars.  See course website for seminar locations.  Some will be at the University of Pittsburgh and some will be at Carnegie Mellon.
+</end course description for 02-402 TBA>

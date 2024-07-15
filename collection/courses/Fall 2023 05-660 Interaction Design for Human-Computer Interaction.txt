@@ -1,0 +1,16 @@
+<start course metadata for 05-660 Interaction Design for Human-Computer Interaction>
+Semester: Fall 2023 (aka F23)
+Course Name: Interaction Design for Human-Computer Interaction
+Course Number: 05-660
+Department: Human-Computer Interaction
+Number of Units: 12
+Prerequisites: None
+Instructors: Auldyn Matthews, Daniel Saffer, Gregory Weinstein, John Beck, Julie Saunders, Laura Vinchesi, Skip Shelly
+Rooms: 3SC 172; 4SC 104
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 05-660 Interaction Design for Human-Computer Interaction>
+
+<start course description for 05-660 Interaction Design for Human-Computer Interaction>
+Semester: Fall 2023 (aka F23)
+Course Description: IXD Fundamentals introduces the human-centered design process as well as fundamental interaction design principles, methods, and practices. The course is for both students who may only enroll in one interaction design course and those who intend to build upon their HCI learning by taking advanced interaction design courses. Students must work effectively as individuals and in small teams to learn interaction design concepts and apply them to real-world problems.  By the end of this course students should be able to;  -Apply appropriate interaction design methods in a human-centered design process. -Create persuasive interim and final design artifacts that demonstrate communication design fundamentals. -Facilitate productive and structured critique across the class and with instructors. -Explain and apply fundamental interaction design principles. -Create clarity and readability in artifacts, including GUIs and deliverables, through the disciplined application of visual design principles such as typography, color and composition. -Practice reframing a given problem in order to create opportunities that drive generating multiple solutions. -Demonstrate habits that foster the creative process, including drawing, divergent thinking, and creative experimentation. -Identify and explore with interaction design materials.  This course serves as a prerequisite for Advanced Interaction Design Studio (number TBD).   Students who are required to take this course have priority and will be enrolled first.   No coding is required.
+</end course description for 05-660 Interaction Design for Human-Computer Interaction>

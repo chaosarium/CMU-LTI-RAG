@@ -1,0 +1,16 @@
+<start course metadata for 84-726 International Relations Graduate Seminar>
+Semester: Fall 2023 (aka F23)
+Course Name: International Relations Graduate Seminar
+Course Number: 84-726
+Department: Institute for Politics and Strategy
+Number of Units: 12
+Prerequisites: None
+Instructors: Bryan Rooney
+Rooms: DH 2105
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 84-726 International Relations Graduate Seminar>
+
+<start course description for 84-726 International Relations Graduate Seminar>
+Semester: Fall 2023 (aka F23)
+Course Description: In this graduate seminar, we will explore major puzzles, problems, and questions that define the field of international relations (IR). IR is a diverse subfield of political science that attempts to explain the interactions of states and other actors across international borders. We will grapple with both foundational contributions to the field as well as state-of-the-art theoretical, empirical, and applied research. Our focus will primarily be on solving the puzzles and answering the questions that animate modern IR scholarship, and less on identifying major paradigms or "grand theories." In doing so, this seminar will give you the practical tools you need to understand world politics, explain foreign policy choices, and make original contributions to the field of IR.
+</end course description for 84-726 International Relations Graduate Seminar>

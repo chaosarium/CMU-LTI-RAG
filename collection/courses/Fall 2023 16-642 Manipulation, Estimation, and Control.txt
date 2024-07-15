@@ -1,0 +1,16 @@
+<start course metadata for 16-642 Manipulation, Estimation, and Control>
+Semester: Fall 2023 (aka F23)
+Course Name: Manipulation, Estimation, and Control
+Course Number: 16-642
+Department: Robotics
+Number of Units: 12
+Prerequisites: None
+Instructors: Jiaoyang Li
+Rooms: NSH 3002
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 16-642 Manipulation, Estimation, and Control>
+
+<start course description for 16-642 Manipulation, Estimation, and Control>
+Semester: Fall 2023 (aka F23)
+Course Description: Required core course for MRSD first-year students. This course provides an overview of the current techniques that allow robots to locomote and interact with the world. The kinematics and dynamics of electromechanical systems will be covered with a particular focus on their application to robotic arms. Some basic principles of robot control will be discussed, ranging from independent- joint PID tracking to coupled computed torque approaches. The practice and theory of robotic mobility will be investigated through various mobile robot platforms, including wheeled and tracked vehicle and legged robots. Hands-on experience with some of the topics in the class will be provided through practical demonstrations and lab assignments. Please note that this course is for MRSD students only.
+</end course description for 16-642 Manipulation, Estimation, and Control>

@@ -1,0 +1,16 @@
+<start course metadata for 90-989 Phd Internship>
+Semester: Spring 2024 (aka S24)
+Course Name: Phd Internship
+Course Number: 90-989
+Department: Public Policy & Mgt:Sch of Pub Pol & Mgt
+Number of Units: N/A
+Prerequisites: None
+Instructors: George Chen
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 90-989 Phd Internship>
+
+<start course description for 90-989 Phd Internship>
+Semester: Spring 2024 (aka S24)
+Course Description: The internship option offers PhD students the opportunity to supplement their research program. Students may intern with a for-profit or non-profit firm, or a research lab, or a government agency that provides them an opportunity to collect data relevant for their research, or implement their research via field study within the firm, or collaborate with other researchers on a project.      The work must be approved by their faculty advisor as well as by the firm. The faculty advisor should also define deliverables clearly and be willing to provide a pass/fail grade. They will need an approval from their faculty advisor and the PhD program director before registering for the course.
+</end course description for 90-989 Phd Internship>

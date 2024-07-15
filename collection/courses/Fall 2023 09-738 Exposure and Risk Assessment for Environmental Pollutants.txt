@@ -1,0 +1,16 @@
+<start course metadata for 09-738 Exposure and Risk Assessment for Environmental Pollutants>
+Semester: Fall 2023 (aka F23)
+Course Name: Exposure and Risk Assessment for Environmental Pollutants
+Course Number: 09-738
+Department: Chemistry
+Number of Units: 12
+Prerequisites: 09-105 or 09-107 or 09-106
+Instructors: Carrie McDonough
+Rooms: MI 448
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 09-738 Exposure and Risk Assessment for Environmental Pollutants>
+
+<start course description for 09-738 Exposure and Risk Assessment for Environmental Pollutants>
+Semester: Fall 2023 (aka F23)
+Course Description: Our world is full of synthetic and naturally occurring toxic chemicals, presenting an imminent but difficult-to-quantify threat for human and ecosystem health. In this papers-based course we will ask the question, "How do we decide what's 'safe'?" in the context of exposure and risk assessment for toxic environmental pollutants. We will complete a series of case studies featuring current and seminal literature, in-class activities, and project-based assignments. Each case study will focus on a distinct contaminant exposure scenario and will be linked back to the common theme of using chemistry to understand how external exposure leads to internal dose and subsequent health impacts for diverse environmental pollutants. We will discuss how knowledge generated in the laboratory can be translated and used to inform regulatory decisions. The first half of the course will focus on contaminant bioavailability, exposure, and toxic effects in aquatic organisms. In the second half of the course, we will discuss human exposure to toxic pollutants and strategies to assess risks in the human population, including the human exposome concept, -omics-based research, and strategies for discovering novel harmful contaminants.
+</end course description for 09-738 Exposure and Risk Assessment for Environmental Pollutants>

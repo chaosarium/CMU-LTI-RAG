@@ -1,0 +1,16 @@
+<start course metadata for 85-310 Research Methods in Cognitive Psychology>
+Semester: Fall 2023 (aka F23)
+Course Name: Research Methods in Cognitive Psychology
+Course Number: 85-310
+Department: Psychology
+Number of Units: 9
+Prerequisites: (85-211 and 36-309) or (36-309 and 85-213) or (85-309 and 85-211) or (85-309 and 85-213)
+Instructors: Abigail Noyce
+Rooms: BH 336B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 85-310 Research Methods in Cognitive Psychology>
+
+<start course description for 85-310 Research Methods in Cognitive Psychology>
+Semester: Fall 2023 (aka F23)
+Course Description: This is a course in which students develop the research skills associated with cognitive psychology and cognitive science. Students learn how to design and conduct experiments, and analyze and interpret the data they collect. The course covers a variety of experimental designs, e.g., factorial, Latin Squares. Analyses of response times, qualitative data, and signal detection are also covered. Cognitive modeling will also be discussed. Topics include mental imagery, memory, and perception. The class format consists of lectures, discussions and student presentations.
+</end course description for 85-310 Research Methods in Cognitive Psychology>

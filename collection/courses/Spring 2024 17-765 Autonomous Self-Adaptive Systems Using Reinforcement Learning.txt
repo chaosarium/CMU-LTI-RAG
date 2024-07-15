@@ -1,0 +1,16 @@
+<start course metadata for 17-765 Autonomous Self-Adaptive Systems Using Reinforcement Learning>
+Semester: Spring 2024 (aka S24)
+Course Name: Autonomous Self-Adaptive Systems Using Reinforcement Learning
+Course Number: 17-765
+Department: Software & Societal Systems
+Number of Units: 6
+Prerequisites: None
+Instructors: Ehab Al-Shaer
+Rooms: GHC 4101
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 17-765 Autonomous Self-Adaptive Systems Using Reinforcement Learning>
+
+<start course description for 17-765 Autonomous Self-Adaptive Systems Using Reinforcement Learning>
+Semester: Spring 2024 (aka S24)
+Course Description: Today's growing diversity and scale of Internet technology is driving an exponential increase of the complexity of managing and protecting computing systems. As adversaries become highly dynamic and sophisticated, system attacks and failures become not only inevitable but hard to timely diagnose and mitigate. This challenge dramatically reduces overall system agility to protect network services (particularly critical infrastructure) and places a heavy burden on organizations and experienced software engineers to maintain IT operations. Developing self-adaptive software that are capable to steer and manage its operations autonomously is mandatory for next-generation systems to address these challenges.  This minicourse will provide a deep and practical insight of the models, architectures and development environments of self-adaptive software systems for security, resiliency, and manageability. The minicourse will cover the theoretical foundations, development toolkit and evaluation of autonomous self-adaptive systems using reinforcement learning (RL). Students taking this course will explore developing various case studies of RL-based self-adaptive systems using OpenAI Gym and UCB Ray to improve security, resilience, and quality of experience of interconnected systems. In addition, the course will cover assurability and robustness of self-adaptive systems against adversarial learning. Examples of application domains include robust mission planning, cyber deterrence, security orchestration and response, and cyber deception.
+</end course description for 17-765 Autonomous Self-Adaptive Systems Using Reinforcement Learning>

@@ -1,0 +1,16 @@
+<start course metadata for 51-711 MDES/MPS Studio I: Designing for Interactions>
+Semester: Fall 2023 (aka F23)
+Course Name: MDES/MPS Studio I: Designing for Interactions
+Course Number: 51-711
+Department: Design
+Number of Units: 15
+Prerequisites: None
+Instructors: Andrew Twigg, Dina El Zanfaly
+Rooms: MM 215
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-711 MDES/MPS Studio I: Designing for Interactions>
+
+<start course description for 51-711 MDES/MPS Studio I: Designing for Interactions>
+Semester: Fall 2023 (aka F23)
+Course Description: Multiple introductory projects in interaction design, capitalizing on past design experience and utilizing skills being developed in parallel IxD and CD Labs, targeted at designing for services with a business emphasis, and designing for social innovation with a policy emphasis. This course is intended for MDES & MPS students in Design; all other students by permission of the instructor.
+</end course description for 51-711 MDES/MPS Studio I: Designing for Interactions>

@@ -1,0 +1,286 @@
+PhD_Student_Handbook_2023-2024
+3 Standard Degree Requirements & Degree Certification                                        
+3.1 LTI Ph.D. Degree Requirements  
+To complete the Ph.D.  in Language and Information Technologies degree, the student must satisfy 
+the following requirements:  
+• Pass at least 96  units of graduate level courses, with additional requirements detailed 
+below ; 
+• Satisfy proficiencies in Writing, Presentation, Programming, and Teaching ; 
+• Propose , write, and defend a Ph.D.  dissertation (thesis) ; 
+• Attend the LTI Colloquium (11 -700) each semester ; and 
+• Satisfy the Research Speaking Requirement.   
+The sections below provide more detail about each of these requirements.  
+3.1.1 Course Requirements  
+To complete the course requirements for the Ph.D. in Language and Information Technologies 
+degree, the student must pass 96  or more course units of graduate courses, and meet the following 
+criteria:  
+• At least 72 units of “LTI” courses and 24  units of “SCS” courses, 
+• At least one class in each “LTI Focus Area”, and  
+• At least two labs, in two different research areas . 
+For definitions of quoted terms, see the section on “Definitions of LTI Terminology”.  
+Unless approved by the Program Director in advance, the course requirements must be satisfied 
+by actual classroom courses, not credit given for research or independent study.  
+An “LTI course ” is any 12 -unit course with a number of 11 -XXX; a  6-unit course with 11 -XXX 
+counts as one- half of an LTI course. Unless otherwise specified, "course" means an actual 
+classroom course, not  credit given for research or independent study. Note that the LTI  allow s 
+any one MLD (10 -XXX) graduate course to count as an "LTI course".  
+An “SCS course” is any 12 -unit course with a course number indicating a unit of the School of 
+Computer Science (including LTI); a 6 -unit course with such a number counts as one -half of an 
+SCS course. Unless otherwise specified, "course" means an actual classroom course, not credit given for research or independent study. Note: Recommended electives that are technically  
+LTI Ph.D.  Graduate Student Handbook  Page 15 
+ outside of the SCS now count towards this requirement; for example, Digital Signal Processing in 
+ECE. Please see the Program Director for approval of electives as “SCS.”  
+“LTI Focus Areas” are sets of courses defined on the LTI course webpage under “Course Categories.” If a student believes a new course should be added to a Focus Area, they should make a request to  the Ph.D. Program Director . They  will decide, with advice from faculty in the 
+appropriate area, whether it should be in the Focus Area. I f approved , it will be added to the LTI 
+Focus Area webpage.  
+A “Task -Orientation Focus Course ” is a course belonging to that LTI Focus Area, as listed on 
+the LTI’s “Course Categories” webpage.  
+An LTI “ lab course ” is a course in the list of lab courses defined o n the LTI ’s “Course Categories” 
+webpage . 
+3.1.2 Grade Requirements  
+Students must demonstrate their mastery of material taught in courses and their success in applying their skills in directed stu dy by satisfying the following grade requirements . 
+Minimum grade:  Only courses with a grade of B (3.0) or higher are counted as satisfying a degree 
+requirement. 
+Pass/fail:  Pass/fail grades are not permitted for courses and projects used to satisfy a degree  
+requirement. 
+3.1.3 Proficiency Requirements  
+The LTI Ph.D.  does not require any Qualifying Exams.  Instead, a LTI Ph.D.  student is required to 
+demonstrate proficiency in the following four areas.  
+• Writing: This is satisfied by producing a peer -reviewed conference paper, or the 
+equivalent (a written report that at least two SCS faculty certify as being of conference -
+paper quality).  
+ 
+• Presentation: This is satisfied by the oral presentation of a conference paper, or the 
+equivalent (an oral presentation that at least t wo SCS faculty certify as being of 
+conference- talk quality).  
+ 
+• Programming:  This is satisfied by demonstrating competence in computer programming 
+of language technology; this is normally satisfied in the course of the student's research 
+and/or project work.  
+ 
+LTI Ph.D.  Graduate Student Handbook  Page 16 
+ • Teaching:  This is satisfied by two (2) successful Teaching Assistantships ( TA-ships), as 
+determined by the faculty member for whom the student serves as TA . Typically,  one of 
+these will be for an undergraduate class, and one for a graduate -level class. O ne of the two 
+TA-ships may be in some form of pre -approved "alternate service", such as an SCS “v -unit .”  
+ 
+The Program Coordinator must be notified in advance of a TA-ship,  or it may not be accepted .  
+Graduate students are required to have a certain level of fluency in English before they can instruct in Pennsylvania, as required by the English Fluency in Higher Education Act of 1990. Through this 
+Act, all institutions of higher education in the state are required to evaluate and certify the English 
+fluency of all instructional personnel, including teaching assistants and interns. The full university policy can be reviewed at:  
+https://www.cmu.edu/policies/faculty/evaluation -certification -english -fluency -instructors.html
+ 
+The fluency of all instructional personnel will be rated  by Language Support in the Student 
+Academic Success Center to determine at what level of responsibility the student can TA.  
+In addition to administering the International Teaching Assistant (ITA) Test (a mandatory 
+screening test for any non- native speake r of English), Language Support in the Student Academic 
+Success Center helps teaching assistants who are non -native English speakers develop fluency 
+and cultural understanding to teach successfully at Carnegie Mellon. Visit the Student Academic Success Center website for additional information:  
+https://www.cmu.edu/student- success/
+ 
+3.1.4 The Ph.D. Dissertation  
+The Ph.D.  dissertation is the defining feature of a Ph.D.  degree. The process of completing a Ph.D. 
+dissertation has three important milestones. 
+• Thesis Topic : During the Ph.D.  student’s third year, the student should be working hard 
+to find a thesis topic. The thesis topic typically develops from the directed research that 
+the student has been carrying out with the student’s advisor.  The topic is a well- defined 
+research problem that is interesting and unsolved, and for which the student has a 
+believable proposed solution.  When the dissertation is finished, there will be a “thesis 
+statement” that describes the claimed solution to the research problem that is the thesis 
+topic.  
+ 
+• Thesis Proposal:  Near the end of the student’s third year, the student will compose a 
+dissertation proposal. In this document, the student will specify the problem the research addresses (the thesis topic); the significance of the problem and expected scientific 
+contributions; other relevant research, including competing approaches; some preliminary results; the work that still must be completed; evaluation metrics for that work; and a 
+LTI Ph.D.  Graduate Student Handbook  Page 17 
+ projected timeline for completion. Before presenting the proposal, the student will also 
+secure approval for a dissertation committee, which consists of the student’s advisor, at least two other SCS faculty members working in language technologies, and at least one external member.  
+ University rules require that the time and place of the proposal presentation be publicly announced at least one week before the presentation. The student should coordinate this with the Ph.D.  Program Coordinator. The public thesis proposal protects the student by 
+guaranteeing that the proposed research is interesting to the larger scientific community and demonstrating that the student will finish the program if the work is completed as outlined.  
+ 
+• Thesis Defense:  The dissertation document itself, normally expected at the end of the fifth 
+year, will include a detailed description of all the work done, including a clear evaluation 
+and a discussion of its scientific contributions. There are no fixed style or document length guidelines or requirements; the only format requirement is that the title page should be suitable to be issued as an LTI Technical Report. The dissertation defense is a public 
+presentation and defense of the dissertation results.  
+ 
+Note: University rules again require that the time and place of the dissertation defense be publicly an nounced at least one week prior to the defense. This should also be coordinated 
+with Ph.D.  Program Coordinator.   
+ Note: At the time of the public announcement, a draft of the thesis document must be 
+made available online.  
+3.1.5 Research Speaking Requirement  
+To emphasize student research, improve public speaking skills and increase internal awareness of LTI work, all LTI Ph.D.  students must complete an oral presentation at the LTI each year (by 
+the end of May). The presentation should consist of a 20- minute ta lk plus time for discussion. It 
+must be advertised to the LTI mailing lists at least one week before your presentation, and the public will be invited. (The thesis proposal and defense each count towards this requirement.)  
+At least two LTI faculty members will attend the presentation, including the research advisor. 
+After the presentation, these faculty members will convene and provide written feedback to both the student and the Program Director  of graduate programs (the form for this is available on the 
+LTI website). This feedback will help the student refine speaking skills with respect to talk 
+structure, content,  and delivery.  
+3.2 Advising  
+Each student has a faculty advisor charged with guiding the education and monitoring the 
+progress of the student through the program. The advisor also supervises the student's directed 
+LTI Ph.D.  Graduate Student Handbook  Page 18 
+ study projects. This personal student -advisor relationship ensures that every student receives the 
+necessary faculty mentoring. The advisor also provides the student with career advice.  
+How a nd when the advisor is selected  (The Matching  Process) : Advisors are selected during 
+the first month of the program. Students are expected to attend the LTI's Orientation lectures,  
+(Section 3.3) in which faculty describe their interests and areas of expertise, and to be proactive 
+about meeting individually with potential advisors. After meeting with several potential advisors, 
+each student will be asked to indicate a first, second and third choice for advisor. Meanwhile,  the 
+potential advisors determine how many new students they can take and  indicate their 
+preferences. Finally, the entire LTI faculty meets as a " Matching  Committee" to determine the best 
+set of matches.  
+Until a student finds a specific advisor, the Progr am Director  of the LTI graduate programs serves 
+as the advisor.  
+How to change advisors:  The initial advisor selection should be made carefully. However, it is 
+possible to change advisors. To do so, the student should find another faculty member willing to 
+serve as an advisor, and then make a request to the Program Director to switch advisors. The LTI 
+follows the long- standing SCS policy that both the new and old advisors need to agree to the 
+change; typically, this is not a problem (assuming the new advisor  has agreed in advance, as 
+described here). It is to the student's advantage to avoid switching advisors, especially late in their graduate studies, because forging a strong student -advisor relationship takes time.  
+3.3 LTI Orientation  
+At the beginning of each Fall semester, the LTI provides 2 -3 weeks of lectures and talks to help 
+students learn about the work done by CMU faculty and to provide an opportunity for advisors to recruit new students. Students are expected to attend them and treat them as seriously a s a 
+standard course, because they provide a good introduction to the broad range of research done at 
+the LTI. Students do not register for the LTI Orientation, nor do they receive a grade; however, the department is serious about its expectation that new students will attend these talks.  
+For many years, these talks were called "the Immigration Course (IC)." The intuition behind this 
+name is that the talks help orient newly -arrived students – immigrants into the CMU 
+environment. As a result, some students u nderstood the name to indicate that the talks would be 
+about US immigration and visa requirements. The older name has been retired; however, people who have been at CMU a long time may occasionally use the older name . 
+3.4 End of Semester Evaluation  
+Near the e nd of each semester, the student must prepare a statement that describes his or her 
+achievements in the current semester and plans for the next semester.  
+At the end of the semester, the faculty evaluates each student's academic progress. The student's 
+advisor serves as the student's advocate in this process. The result of the evaluation is a letter from 
+LTI Ph.D.  Graduate Student Handbook  Page 19 
+ the faculty to the student that indicates whether the student is making satisfactory progress 
+towards completing the degree.  
+A good letter typically indicates that the student is making satisfactory progress. If the student is doing exceptionally good work, a stronger adjective such as excellent might be used, but this is unusual.  
+If a student seems to be having trouble, the faculty determines whether it believes that the student 
+can finish the degree, and if so, what needs to be accomplished to get back on track. This type of 
+letter should be considered a serious warning. It is not a permanent "black mark" on the student's record; if the student begins makin g satisfactory progress again, there is no official record of the 
+letter in the student's transcript. 
+In the most serious cases, the faculty gives the student an “N -1” letter that specifies a list of 
+conditions that the student must satisfy by specific deadlines. Failure to meet all t he specified 
+conditions may result in the student's termination from the program.  
+3.5 Electives Outside of SCS  
+Students may  take elective courses outside the SCS, at Carnegie Mellon or cross -registered at the 
+University of Pittsburgh, as long as the student fulfills the requirements of their program as 
+described above. The student should discuss any such electives in advance w ith their advisor . 
+Typical choices might include ECE courses for Speech students, Pitt Linguistics courses, or 
+Statistics courses.  
+Students interested in taking recommended electives outside the SCS should pay particular 
+attention to the following issues. 
+• Recommended electives outside of the SCS count towards the “SCS” course requirement. Please see the Program Director for approval of an elective as an “SCS  course” .  
+• Students need advance approval for any courses not covered by their normal tuition (e.g.,  
+summer courses).  
+• The grading of outside courses is the responsibility of the department offering the course; however, the LTI's Minimum Course Grade Policy described above still applies (“B” is the minimum for Ph.D. ).  
+3.6 Completing a n M.S. Degree Enroute t o a Ph.D. 
+Courses that satisfy LTI Ph.D. degree requirements may also be used to satisfy requirements for 
+one M.S. degree. The most common choice is the LTI’s Master of Language Technologies (MLT) 
+degree because its requirements are similar (but not identical) to the Ph.D. requirements. Other M.S. degrees within the LTI and outside of the LTI are also possible.  
+LTI Ph.D.  Graduate Student Handbook  Page 20 
+ Students interested in an M.S. degree other than the MLT degree should  discuss their plans with 
+their Ph.D. advisor due to the additional courses and project work that may be involved.  
+3.7 Grading and Evaluation  
+3.7.1 University Policy on Grades  
+Carnegie Mellon’s Grading  policy offers details concerning university grading principles for 
+students taking courses and covers the specifics of assigning and c hanging grades, grading 
+options, drop/ withdrawals, and course repeats.   It also defines the undergraduate and graduate 
+grading standards.  
+Process for Appealing Final Grades  
+Final grades will be changed only in exceptional circumstances and only with the approval of the 
+instructor and the department, unit, or program.  
+Grading is a matter of sound discretion of the instructor and final grades are rarely changed without the consent of the instructor who assigned the grade. The following circumstances are 
+the unusual exceptions that may warrant a grade appeal: (a) the final grade assigned for a course 
+is based on manifest error (e.g., a clear error such as arithmetic error in computing a grade or 
+failure to grade one of the answers on an exam), or (b) the faculty or staff member who assigned the grade did so in violation of a university  policy.  
+See the university’s Summary of Graduate Student Appeal and Grievance Procedures
+ web page 
+for more information.  https://www.cmu.edu/student -affairs/theword/academic/appeal -of-
+grades -and-academic- actions.html  
+3.7.2 University Policy on Grades for Transfer Courses  
+https://www.cmu.edu/policies/student- and-student -life/transfer- credit -
+evaluation -and-assignment.html  
+Carnegie Mellon University offers students the opportunity to take courses for credit through a cross- registration program (see Pittsburgh Council on Higher Education (PCHE) and Cross-
+registration below) and through the receipt of transfer credit from othe r accredited institutions. 
+The Carnegie Mellon University transcript will include information on such courses as follows: Carnegie Mellon courses and courses taken through the university's cross -registration program 
+will have grades recorded on the transcr ipt and be factored into the QPA. All other courses will 
+be recorded on this transcript indicating where the course was taken, but without grade. Such courses will not be taken into account for academic actions, honors or QPA calculations.  
+ 
+LTI Ph.D.  Graduate Student Handbook  Page 21 
+ 3.8 Academic Integrity  
+In the midst of self- exploration, the high demands of a challenging academic environment can 
+create situations where some students have difficulty exercising good judgment. Academic 
+challenges can provide many opportunities for high standards to evolv e if students actively reflect 
+on these challenges and if the community supports discussions to aid in this process. It is the 
+responsibility of the entire community to establish and maintain the integrity of our university.  
+Carnegie Mellon University edu cates its students to become professionals who will serve society 
+with integrity. The university also creates and disseminates new knowledge and expressions of 
+knowledge in ways that benefit society.  
+Carnegie Mellon strives to serve the changing needs of society through the three primary goals outlined in its mission statement: T o create and disseminate knowledge and art through research 
+and artistic expression, teaching and learning and transfer to society; to serve students by teaching them leadership, problem- solving skills, and the values of quality, ethical behavior, 
+responsibility to society and commitments to work; and to pursue the advantages provided by a 
+diverse community, open to the exchange of ideas, where discovery and artistic creativity can  
+flourish.  
+In any presentation, creative, artistic or research, it is the ethical responsibility of each student to 
+identify the conceptual sources of the work submitted. Failure to do so is dishonest and is the basis for a charge of cheating or plagiarism, which is subject to disciplinary action.  
+Please review the University Policy on Academic Integrity
+. 
+The policy includes the University expectations around academic integrity and provides 
+definitions of cheating, plagiarism, and unauthorized assistance.  
+A review of the University’s Academic Disciplinary Actions  procedures is also recommended.  
+Important note: The LTI implements the above policy’s option of “conven[ing] a disciplinary 
+hearing according to the procedures of the department/program.” Our procedure is as follows: A first violation is grounds for dismissal from the graduate program. If we decide not to immediately dismiss, the first violation will result in the student being on disciplinary probation.  
+If the student commits a second violation while on probation, the penalty is dismissal from the 
+graduate program. 
+These procedures outline the process for investigating, reporting, and adjudicating violations of 
+the University Policy on Academic Integrity. The procedures also outline the appeal process.  
+Please see the Appeals of Course Level Action section  of The Word and the 
+Office of Community 
+Standards & Integrity w eb page for more information.  
+LTI Ph.D.  Graduate Student Handbook  Page 22 
+ 3.9 Withdrawal of a Degree 
+The University reserves the right to withdraw a degree even though it has been granted should 
+there be discovery that the work upon which it was based or the academic records in support of it had been falsified. In such a case, withdrawal of the degree will occur promptly upon discovery of the falsification. See the university’s Withdrawal of a Degree
+ policy for more information.  
+3.10 Employment Eligibility Verification  
+If you are receiving a stipend, are a TA, or are planning to have a position with CMU then Employment Eligibility Verification is required. Form I -9 must be completed within 3 business 
+days of beginning work for any type of compensation (stipend or employment). Additional details are highlighted below. To ensure compliance with federal law, Carnegie Mellon University 
+maintains the Employment Eligibility Verification (I- 9) Policy [pdf] covering the university’s 
+I-9 and E -Verify requirements : 
+• Every individual receiving a stipend from CMU or employed by CMU must comply with 
+the I -9 Policy by completing the Form I -9 within three business days following the first 
+day of stipend start date/employment.  
+• Individuals who expect to work on a federally  funded project are further responsible for 
+submitting an E -Verify Processing Request Form to the Office of Human Resources if 
+required.  
+• For more information, please see CMU’s Guidance for Completing the Form I -9 and E -
+Verify Requirements at CMU [pdf] , or visit the Human Resources Service website to 
+learn more about Form I -9 and E -Verify and to schedule an appointment to complete the 
+Form I -9. 
+• Students who fail to complete the Form I -9 in a timely manner may have stipend payments 
+suspended.   If employed by the university, an individual who fails to timely complete the 
+Form I -9 may be subject to disciplinary action up to and including termination of 
+employment.  
+For more information : 
+• See CMU’s Guidance for Completing the Form I -9 and E -Verify Requirements at CMU , 
+or 
+• Visit the Human Resources Service website to learn more about Form I -9 and E -Verify  
+and to schedule an appointment to complete the Form I -9.” 
+3.11 Additional Guidance for Students  
+LTI Ph.D.  Graduate Student Handbook  Page 23 
+ 3.11.1 Program of Study   
+Students seeking guidance about their program of study and degree requirements should consult 
+with their academic advisor and/or appropriate associate dean.  
+3.11.2  Financial Aid and Student Account   
+Students are expected to make normal progress toward their degree in order to graduate within the standard timeframe for their program of study. Under U.S. Federal Title IV regulations, student eligibility for federal financial aid is contingent upon enrollment in and successful completion of courses that are counted as credit toward their current degree program. To receive the maximum amount of federal financial aid for which they may be eligible, students must enroll each semester in at least 36 units that count toward their current degree level. (See separate 
+guidance regarding integrated degree completion.)   
+Students should consult with their designated college liaison in The HUB regarding billing and financial aid, particularly for early completion, longer -than -standard completion, or integrated 
+undergraduate and master’s degree programs.    
+3.11.3  International Students  
+Immigration status for students in F- 1 and J- 1 non -immigrant status is tied to making normal 
+progress toward completing degree requirements. Therefore, F -1 and J -1 students who are 
+considering completing their degree requirements early, anticipating longer -than -standard 
+completion, or moving from an undergraduate to a graduate student classification (integ rated 
+undergraduate -graduate study) should consult with their designated advisor in the Office of 
+International Education (OIE) to ensure compliance with immigration regulations.  

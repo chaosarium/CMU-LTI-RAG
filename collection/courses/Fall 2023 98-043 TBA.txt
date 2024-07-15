@@ -1,0 +1,16 @@
+<start course metadata for 98-043 TBA>
+Semester: Fall 2023 (aka F23)
+Course Name: TBA
+Course Number: 98-043
+Department: StuCo (Student Led Courses)
+Number of Units: 3
+Prerequisites: None
+Instructors: Ethan Gu
+Rooms: WEH 5415
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 98-043 TBA>
+
+<start course description for 98-043 TBA>
+Semester: Fall 2023 (aka F23)
+Course Description: Chess is a strategy game that teaches many different useful skills. Themes such as problem solving and pattern recognition prominent in chess can be applied in many areas of life, such as academics. This course will cover vital principles of chess such as tactics, piece development, center control, common pawn structures, and more. The course will look at elementary endgame positions and themes like king activity and the value of passed pawns. We will look at famous games (such as the Opera Game) to illustrate various chess concepts. Finally, we will of course need to put our learning into practice, and so we will have time towards the end of each class to play games of chess. This course is suitable for students who know the basic rules of chess and are interested in improving their game.
+</end course description for 98-043 TBA>

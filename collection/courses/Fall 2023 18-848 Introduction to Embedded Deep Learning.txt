@@ -1,0 +1,16 @@
+<start course metadata for 18-848 Introduction to Embedded Deep Learning>
+Semester: Fall 2023 (aka F23)
+Course Name: Introduction to Embedded Deep Learning
+Course Number: 18-848
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Ziad Youssfi
+Rooms: DH 1112; WEH 4709
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-848 Introduction to Embedded Deep Learning>
+
+<start course description for 18-848 Introduction to Embedded Deep Learning>
+Semester: Fall 2023 (aka F23)
+Course Description: Please refer to the ECE website for descriptions of each topic: https://courses.ece.cmu.edu/
+</end course description for 18-848 Introduction to Embedded Deep Learning>

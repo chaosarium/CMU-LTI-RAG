@@ -1,0 +1,16 @@
+<start course metadata for 21-375 Mathematical Paradoxes>
+Semester: Spring 2024 (aka S24)
+Course Name: Mathematical Paradoxes
+Course Number: 21-375
+Department: Mathematical Sciences
+Number of Units: 9
+Prerequisites: 21-373
+Instructors: Clinton Conley
+Rooms: BH 237B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-375 Mathematical Paradoxes>
+
+<start course description for 21-375 Mathematical Paradoxes>
+Semester: Spring 2024 (aka S24)
+Course Description: Typical of courses that might be offered from time to time are elliptic curves, commutative algebra, and theory of Boolean functions.  (Three 50 minute lectures)
+</end course description for 21-375 Mathematical Paradoxes>

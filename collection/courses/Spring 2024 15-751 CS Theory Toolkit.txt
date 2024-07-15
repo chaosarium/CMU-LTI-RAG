@@ -1,0 +1,16 @@
+<start course metadata for 15-751 CS Theory Toolkit>
+Semester: Spring 2024 (aka S24)
+Course Name: CS Theory Toolkit
+Course Number: 15-751
+Department: Computer Science
+Number of Units: 12
+Prerequisites: None
+Instructors: Aayush Jain, Ryan O'Donnell
+Rooms: POS 152
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-751 CS Theory Toolkit>
+
+<start course description for 15-751 CS Theory Toolkit>
+Semester: Spring 2024 (aka S24)
+Course Description: This course will take a random walk through various mathematical topics that come in handy for theoretical computer science. It is intended mainly for students earlier in their graduate studies (or very strong undergraduates) who want to do theory research. The idea for the course comes from other courses by Arora (2002, 2007), Håstad (2004/05), Kelner (2007, 2009), and Tulsiani (2013). Students should have a solid undergraduate background in math (e.g., elementary combinatorics, graph theory, discrete probability, basic algebra/calculus) and theoretical computer science (running time analysis, big-O/Omega/Theta, P and NP, basic fundamental algorithms).
+</end course description for 15-751 CS Theory Toolkit>

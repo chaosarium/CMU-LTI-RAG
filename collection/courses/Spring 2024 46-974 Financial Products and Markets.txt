@@ -1,0 +1,16 @@
+<start course metadata for 46-974 Financial Products and Markets>
+Semester: Spring 2024 (aka S24)
+Course Name: Financial Products and Markets
+Course Number: 46-974
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Mykhaylo Shkolnikov
+Rooms: BRD 507; TCS 250
+Locations: New York, New York; Pittsburgh, Pennsylvania
+</end course metadata for 46-974 Financial Products and Markets>
+
+<start course description for 46-974 Financial Products and Markets>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is concerned with the structure and functioning of financial markets and products with focus on areas that are not covered, or only partially covered, elsewhere in the MSCF curriculum. The course will be organized into modules, with each module primarily taught by an industry expert in the topic area of that module. Emphasis will be placed on issues of practical importance in an industry context.
+</end course description for 46-974 Financial Products and Markets>

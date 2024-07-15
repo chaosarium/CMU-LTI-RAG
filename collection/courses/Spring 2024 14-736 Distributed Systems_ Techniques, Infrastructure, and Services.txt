@@ -1,0 +1,16 @@
+<start course metadata for 14-736 Distributed Systems: Techniques, Infrastructure, and Services>
+Semester: Spring 2024 (aka S24)
+Course Name: Distributed Systems: Techniques, Infrastructure, and Services
+Course Number: 14-736
+Department: Information Networking Institute
+Number of Units: 12
+Prerequisites: 18-600 or 15-513
+Instructors: Patrick Tague
+Rooms: B23 118; CIC 1201
+Locations: Pittsburgh, Pennsylvania; San Jose, California
+</end course metadata for 14-736 Distributed Systems: Techniques, Infrastructure, and Services>
+
+<start course description for 14-736 Distributed Systems: Techniques, Infrastructure, and Services>
+Semester: Spring 2024 (aka S24)
+Course Description: This course explores both foundational and contemporary topics in distributed systems, such as communication, coordinating time, synchronization, consensus, impossibility of agreement, replica management, file systems, distributed SQL and noSQL databases, CAP, ACID, BASE, distributed hashing, anonymous communication, models of computation, and higher-level tools. The course project work focuses on the implementation of scalable, fault-tolerant distributed systems.
+</end course description for 14-736 Distributed Systems: Techniques, Infrastructure, and Services>

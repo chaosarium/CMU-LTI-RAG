@@ -1,0 +1,16 @@
+<start course metadata for 54-265 Advanced Fabrication 1>
+Semester: Spring 2024 (aka S24)
+Course Name: Advanced Fabrication 1
+Course Number: 54-265
+Department: Drama
+Number of Units: 6
+Prerequisites: None
+Instructors: Bernard Carter
+Rooms: PCA 107
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-265 Advanced Fabrication 1>
+
+<start course description for 54-265 Advanced Fabrication 1>
+Semester: Spring 2024 (aka S24)
+Course Description: This class sets forth to gain a comprehensive understanding of the various tools found in a well-equipped fabrication shop . Shop safety will be emphasized at all times and rigorously promoted per tool. Understanding the differences between tools and when to choose each will be a constant theme. Exploring the various ways of achieving a certain result but with different tools will be a recurring theme. Since most shops use tools for multiple applications, understanding how various materials relate to various tools will be discussed in detail. For TDs only.  The first task will be to do an overview of all of the common tools used for woodworking and metalworking. Then we will go through the shop tool-by-tool and make sure everyone understands what the tool was designed for, how it is used, and how it may be utilized for alternative uses.
+</end course description for 54-265 Advanced Fabrication 1>

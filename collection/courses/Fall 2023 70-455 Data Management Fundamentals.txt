@@ -1,0 +1,16 @@
+<start course metadata for 70-455 Data Management Fundamentals>
+Semester: Fall 2023 (aka F23)
+Course Name: Data Management Fundamentals
+Course Number: 70-455
+Department: Business Administration
+Number of Units: 9
+Prerequisites: 15-110 or 70-110 or 15-112 or 15-104
+Instructors: Robert Monroe, Sameer Mathur
+Rooms: CMB 2147; TEP 2610
+Locations: Doha, Qatar; Pittsburgh, Pennsylvania
+</end course metadata for 70-455 Data Management Fundamentals>
+
+<start course description for 70-455 Data Management Fundamentals>
+Semester: Fall 2023 (aka F23)
+Course Description: Data drives modern business. Transactional data systems keep the world's economy operating smoothly by tracking and processing the movement of bits, money, atoms, and attention across the planet. Analytic systems help managers understand and optimize their businesses. Robotic systems (both physical machines and software bots) are automating a tremendous amount of the work that has historically been done by people. In this course you will learn to use a set of data management tools to capture, manage, analyze, and understand data so to help your organization do business better, faster, and cheaper. This course was previously titled Modern Data Management. This course may use third-party course material that is not available for individual purchase from the publisher.   If so, the third-party course material will be secured and provided by the Tepper School to students enrolled in the course, and students enrolled in the course will be required to pay to the University the associated additional course materials fee for the third-party course material provided.   The amount of the course materials fee is dependent on the University's cost of the particular materials provided, and typically ranges from $13 to $75.
+</end course description for 70-455 Data Management Fundamentals>

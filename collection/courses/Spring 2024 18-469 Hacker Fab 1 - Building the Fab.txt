@@ -1,0 +1,16 @@
+<start course metadata for 18-469 Hacker Fab 1 - Building the Fab>
+Semester: Spring 2024 (aka S24)
+Course Name: Hacker Fab 1 - Building the Fab
+Course Number: 18-469
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Alexander Hakim, Elio Bourcart, James Bain
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-469 Hacker Fab 1 - Building the Fab>
+
+<start course description for 18-469 Hacker Fab 1 - Building the Fab>
+Semester: Spring 2024 (aka S24)
+Course Description: Please refer to the ECE website for topic descriptions: https://courses.ece.cmu.edu/
+</end course description for 18-469 Hacker Fab 1 - Building the Fab>

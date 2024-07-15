@@ -1,0 +1,16 @@
+<start course metadata for 57-782 Collaborative Piano II>
+Semester: Fall 2023 (aka F23)
+Course Name: Collaborative Piano II
+Course Number: 57-782
+Department: Music
+Number of Units: N/A
+Prerequisites: 57-781
+Instructors: Mark Carver
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-782 Collaborative Piano II>
+
+<start course description for 57-782 Collaborative Piano II>
+Semester: Fall 2023 (aka F23)
+Course Description: Continues 57-781 Accompanying I.
+</end course description for 57-782 Collaborative Piano II>

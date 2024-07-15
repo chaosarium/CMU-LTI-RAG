@@ -1,0 +1,16 @@
+<start course metadata for 57-964 Repertoire Analysis>
+Semester: Fall 2023 (aka F23)
+Course Name: Repertoire Analysis
+Course Number: 57-964
+Department: Music
+Number of Units: 6
+Prerequisites: None
+Instructors: George Vosburgh
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-964 Repertoire Analysis>
+
+<start course description for 57-964 Repertoire Analysis>
+Semester: Fall 2023 (aka F23)
+Course Description: TBA
+</end course description for 57-964 Repertoire Analysis>

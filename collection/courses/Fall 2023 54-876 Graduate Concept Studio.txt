@@ -1,0 +1,16 @@
+<start course metadata for 54-876 Graduate Concept Studio>
+Semester: Fall 2023 (aka F23)
+Course Name: Graduate Concept Studio
+Course Number: 54-876
+Department: Drama
+Number of Units: 3
+Prerequisites: None
+Instructors: Lawrence Shea
+Rooms: BH 154A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-876 Graduate Concept Studio>
+
+<start course description for 54-876 Graduate Concept Studio>
+Semester: Fall 2023 (aka F23)
+Course Description: This seminar is for all graduate students in the Video & Media Design option for every semester of the program. It serves as a place for us to develop a common vocabulary for the ever-changing work we do and a place to reflect on the larger contexts for our practice. Through readings, discussion and design critiques we explore the state of the art. Each semester starts with a series of readings around a general topic picked by Larry and then students create annotated bibliographies of several new readings provoked by this topic. One reading from each students bibliography is then read and discussed by the class. Students are expected to thoroughly read all materials and actively participate in discussions and through this process, develop multiple areas of interest for further study.     This course helps ground the design process in ideas, prepares students for the academic research component of their future thesis projects and ideally, sets the stage for a life of informed conceptual exploration. Required for all VMD Grads (1,2,3). Not open to others.
+</end course description for 54-876 Graduate Concept Studio>

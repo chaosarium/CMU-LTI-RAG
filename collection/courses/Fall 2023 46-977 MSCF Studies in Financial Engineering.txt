@@ -1,0 +1,16 @@
+<start course metadata for 46-977 MSCF Studies in Financial Engineering>
+Semester: Fall 2023 (aka F23)
+Course Name: MSCF Studies in Financial Engineering
+Course Number: 46-977
+Department: Business Administration
+Number of Units: 6
+Prerequisites: 46-973 and 46-945 and 46-932 and 46-971
+Instructors: Duane Seppi
+Rooms: BRD 507; TCS 250
+Locations: New York, New York; Pittsburgh, Pennsylvania
+</end course metadata for 46-977 MSCF Studies in Financial Engineering>
+
+<start course description for 46-977 MSCF Studies in Financial Engineering>
+Semester: Fall 2023 (aka F23)
+Course Description: This is a course about using Financial Engineering to solve practical risk management and trading problems and about the sales process for selling derivative deals. The focus is on designing and pricing derivative securities to trade on and hedge customized risk exposures - particularly those involving non-linear, path-dependent, and/or multi-variable exposures to interest rates, equity prices, credit events, and commodity prices, - pitching these exotic securities to clients, and managing any associated risks. The valuation frameworks used to price these derivatives are Risk Neutral Valuation and Monte Carlo Simulation. Specific models include local volatility and stochastic volatility equity option pricing models, Hull-White style interest rate models, HJM term structure model, and statistical credit risk models. The course also highlights practical issues about model calibration, model risk, and static and dynamic hedging. The highlight of the course is a series of in-class team case presentations. While pricing and hedging techniques are important, so too are practical issues such as deciding which risks to share contractually and knowing how to pitch a derivative deal. The in-class presentations are a chance to practice standing in front of a client or boss and sell/explain complicated financial products.  Non-MSCF students may not take this course without written permission from the instructor. To be eligible, you must be a BSCF student or a graduate student enrolled in an MSCF participating college (Dietrich, Heinz, Tepper or Mellon). PhD students with relevant research may be eligible with permission from the instructor.
+</end course description for 46-977 MSCF Studies in Financial Engineering>

@@ -1,0 +1,16 @@
+<start course metadata for 18-731 Network Security>
+Semester: Fall 2023 (aka F23)
+Course Name: Network Security
+Course Number: 18-731
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: 18-631 or 18-730 or 14-741 or 18-330
+Instructors: Jema David Ndibwile
+Rooms: CMR F307
+Locations: Kigali, Rwanda
+</end course metadata for 18-731 Network Security>
+
+<start course description for 18-731 Network Security>
+Semester: Fall 2023 (aka F23)
+Course Description: Some of today's most damaging attacks on computer systems involve exploitation of network infrastructure, either as the target of attack or as a vehicle to advance attacks on end systems. This course provides an in-depth study of network attack techniques and methods to defend against them. Topics include firewalls and virtual private networks; network intrusion detection; denial of service (DoS) and distributed denial-of-service (DDoS) attacks; DoS and DDoS detection and reaction; worm and virus propagation; tracing the source of attacks; traffic analysis; techniques for hiding the source or destination of network traffic; secure routing protocols; protocol scrubbing; and advanced techniques for reacting to network attacks.     Prerequisite: 18-630 OR 18-730, and senior or graduate standing.
+</end course description for 18-731 Network Security>

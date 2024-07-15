@@ -1,0 +1,16 @@
+<start course metadata for 12-271 Computation and Data Science for Civil & Environmental Engineering>
+Semester: Spring 2024 (aka S24)
+Course Name: Computation and Data Science for Civil & Environmental Engineering
+Course Number: 12-271
+Department: Civil & Environmental Engineering
+Number of Units: 9
+Prerequisites: (21-120) and (33-141) and (15-112 or 15-110) and (21-122)
+Instructors: Jerry Wang
+Rooms: BH A51
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 12-271 Computation and Data Science for Civil & Environmental Engineering>
+
+<start course description for 12-271 Computation and Data Science for Civil & Environmental Engineering>
+Semester: Spring 2024 (aka S24)
+Course Description: Computational science and computer applications play an important role in modern engineering practice and research. This course provides students with an introduction to the fundamentals of computation and data science using both deterministic and stochastic techniques. Topics include numerical methods for approximation, differentiation, integration, Monte Carlo simulation, quantifying error and uncertainty, regression, solving linear systems of equations and ordinary differential equations, root finding, and optimization; the use of several computing paradigms (numerical, symbolic, and spreadsheet) for enhancing engineering workflows with modeling and data, with an emphasis on identifying the appropriate tool for various engineering problems; the importance of and approaches for effective visual presentation of data; and the future of computer-based methods in engineering. Mathematical concepts from calculus, probability, and linear algebra are introduced as needed. Through application of these principles, students will develop the computational reasoning skills that are required to design and deploy computer-based solutions for a variety of problems in civil and environmental engineering.
+</end course description for 12-271 Computation and Data Science for Civil & Environmental Engineering>

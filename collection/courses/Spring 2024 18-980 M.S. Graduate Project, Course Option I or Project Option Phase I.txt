@@ -1,0 +1,16 @@
+<start course metadata for 18-980 M.S. Graduate Project, Course Option I or Project Option Phase I>
+Semester: Spring 2024 (aka S24)
+Course Name: M.S. Graduate Project, Course Option I or Project Option Phase I
+Course Number: 18-980
+Department: Electrical & Computer Engineering
+Number of Units: N/A
+Prerequisites: None
+Instructors: James Bain
+Rooms: 
+Locations: Kigali, Rwanda; Pittsburgh, Pennsylvania; San Jose, California
+</end course metadata for 18-980 M.S. Graduate Project, Course Option I or Project Option Phase I>
+
+<start course description for 18-980 M.S. Graduate Project, Course Option I or Project Option Phase I>
+Semester: Spring 2024 (aka S24)
+Course Description: The Department of Electrical and Computer Engineering at Carnegie Mellon considers experiential learning opportunities to be important   educational options for its graduate students. One such option is conducting   graduate research with a faculty member. An ECE graduate student completing the course or project option of their program may request to be enrolled in this course. To enroll, the student should first complete the online application for their project on the ECE Student Project Tracker website. Once the application has been submitted and approved by the faculty member with whom the student is conducting the research, the ECE Advising Team will add the course to the student's schedule. Typically, credit is granted according to one hour of research per week is equal to one unit of credit.
+</end course description for 18-980 M.S. Graduate Project, Course Option I or Project Option Phase I>

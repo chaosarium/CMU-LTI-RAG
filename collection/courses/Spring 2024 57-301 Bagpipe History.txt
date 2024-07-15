@@ -1,0 +1,16 @@
+<start course metadata for 57-301 Bagpipe History>
+Semester: Spring 2024 (aka S24)
+Course Name: Bagpipe History
+Course Number: 57-301
+Department: Music
+Number of Units: 3
+Prerequisites: None
+Instructors: Andrew Carlisle
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-301 Bagpipe History>
+
+<start course description for 57-301 Bagpipe History>
+Semester: Spring 2024 (aka S24)
+Course Description: This course covers all types of bagpipe music, including Ceol Mor and Ceol Beag, and studies the prominent composers from MacCrimmon to the present day.  Students compose their own material in all time signatures commonly used.  The course covers Piobaireachd, Marches, Strathspeys, Reels, Hornpipes, and Jigs, as well as harmony and the ability to write out tunes from repetitive listening.
+</end course description for 57-301 Bagpipe History>

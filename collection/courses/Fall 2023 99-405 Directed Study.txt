@@ -1,0 +1,16 @@
+<start course metadata for 99-405 Directed Study>
+Semester: Fall 2023 (aka F23)
+Course Name: Directed Study
+Course Number: 99-405
+Department: Carnegie Mellon University-Wide Studies
+Number of Units: N/A
+Prerequisites: None
+Instructors: Korryn Mozisek
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 99-405 Directed Study>
+
+<start course description for 99-405 Directed Study>
+Semester: Fall 2023 (aka F23)
+Course Description: This is a Directed Study course option.  Registration by SPECIAL PERMISSION ONLY.  Please contact Dr. Korryn Mozisek with any questions.  Her email is kmozisek@andrew.cmu.edu.  Thank you.
+</end course description for 99-405 Directed Study>

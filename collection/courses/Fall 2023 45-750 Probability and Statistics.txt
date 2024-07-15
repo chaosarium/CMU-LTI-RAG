@@ -1,0 +1,16 @@
+<start course metadata for 45-750 Probability and Statistics>
+Semester: Fall 2023 (aka F23)
+Course Name: Probability and Statistics
+Course Number: 45-750
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Ben Moseley, Javier Pena
+Rooms: TEP 2110
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-750 Probability and Statistics>
+
+<start course description for 45-750 Probability and Statistics>
+Semester: Fall 2023 (aka F23)
+Course Description: This course introduces tools for decision making under uncertainty, ranging from the fundamentals of probability theory, decision theory and statistical models to simple software for data analysis. Topics include statistical independence, conditional probability, Bayes theorem, discrete and continuous distributions, expectation and variance, decision trees, sampling and sampling distributions, interval estimation, hypothesis testing, p-value, correlation and simple regression.
+</end course description for 45-750 Probability and Statistics>

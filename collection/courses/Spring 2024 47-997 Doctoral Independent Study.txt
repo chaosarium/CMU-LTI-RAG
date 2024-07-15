@@ -1,0 +1,16 @@
+<start course metadata for 47-997 Doctoral Independent Study>
+Semester: Spring 2024 (aka S24)
+Course Name: Doctoral Independent Study
+Course Number: 47-997
+Department: Business Administration
+Number of Units: N/A
+Prerequisites: None
+Instructors: Instructor TBA
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 47-997 Doctoral Independent Study>
+
+<start course description for 47-997 Doctoral Independent Study>
+Semester: Spring 2024 (aka S24)
+Course Description: this course allows for directed independent study
+</end course description for 47-997 Doctoral Independent Study>

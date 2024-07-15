@@ -1,0 +1,16 @@
+<start course metadata for 12-212 Statics>
+Semester: Fall 2023 (aka F23)
+Course Name: Statics
+Course Number: 12-212
+Department: Civil & Environmental Engineering
+Number of Units: 9
+Prerequisites: None
+Instructors: Sarah Christian
+Rooms: WEH 5415
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 12-212 Statics>
+
+<start course description for 12-212 Statics>
+Semester: Fall 2023 (aka F23)
+Course Description: Introduction to vector mechanics; equivalent systems of forces; equilibrium of rigid bodies; free body diagram; distributed forces, hydrostatic forces, effective forces, centroids; applications to simple statically determinate trusses, beams, frames, cables and other physical systems; friction.
+</end course description for 12-212 Statics>

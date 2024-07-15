@@ -1,0 +1,16 @@
+<start course metadata for 33-466 Extragalactic Astrophysics and Cosmology>
+Semester: Spring 2024 (aka S24)
+Course Name: Extragalactic Astrophysics and Cosmology
+Course Number: 33-466
+Department: Physics
+Number of Units: 9
+Prerequisites: 33-224 and 33-234
+Instructors: Hy Trac
+Rooms: WEH 5320
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 33-466 Extragalactic Astrophysics and Cosmology>
+
+<start course description for 33-466 Extragalactic Astrophysics and Cosmology>
+Semester: Spring 2024 (aka S24)
+Course Description: Starting from the expanding universe of galaxies, this course lays out the structure of the universe from the Local Group of galaxies to the largest structures observed. The observational pinnacle of the Big Bang theory, the microwave background radiation, is shown to provide us with many clues to conditions in the early universe and to the parameters which control the expansion and fate of the universe. Current theories for the development of galaxies and clusters of galaxies are outlined in terms of our current understanding of dark matter. Observational cosmology continues to enjoy a golden era of discovery and the latest observational results will be interpreted in terms of the basic cosmological parameters.
+</end course description for 33-466 Extragalactic Astrophysics and Cosmology>

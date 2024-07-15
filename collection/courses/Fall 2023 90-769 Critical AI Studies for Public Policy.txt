@@ -1,0 +1,16 @@
+<start course metadata for 90-769 Critical AI Studies for Public Policy>
+Semester: Fall 2023 (aka F23)
+Course Name: Critical AI Studies for Public Policy
+Course Number: 90-769
+Department: Public Policy & Mgt:Sch of Pub Pol & Mgt
+Number of Units: 6
+Prerequisites: None
+Instructors: Hong Shen
+Rooms: HBH 1007
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 90-769 Critical AI Studies for Public Policy>
+
+<start course description for 90-769 Critical AI Studies for Public Policy>
+Semester: Fall 2023 (aka F23)
+Course Description: With the rapid development of algorithmic and computing power as well as tech industry's capacity to collect massive data, Artificial Intelligence (AI) techniques have increasingly become a ubiquitous part of our everyday lives, ranging from fields such as communication, healthcare, finance, policing and workplace management. Instead of studying AI as a purely technical subject, in this course, we will critically examine the most recent developments and deployments of AI from a social, cultural and policy perspective.  Drawing upon real-world cases, this course will introduce students to the basic concepts and main topics to think AI socially, help them understand the potential benefits and pitfalls of various contemporary AI applications, and think toward future AI systems that can deliver greater social good.  The course will include a mix of lectures, group discussions, guest lectures and small group in-class activities. Students will be asked to come to class having carefully read the required readings, submit response and discussion questions on Canvas respond to each other. Building on concepts and cases discussed in this class, students will also be asked to write two policy memos (one mini, one final) on the topic of their choice.
+</end course description for 90-769 Critical AI Studies for Public Policy>

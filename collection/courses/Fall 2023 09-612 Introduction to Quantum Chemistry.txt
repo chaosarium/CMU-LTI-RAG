@@ -1,0 +1,16 @@
+<start course metadata for 09-612 Introduction to Quantum Chemistry>
+Semester: Fall 2023 (aka F23)
+Course Name: Introduction to Quantum Chemistry
+Course Number: 09-612
+Department: Chemistry
+Number of Units: 6
+Prerequisites: None
+Instructors: Hyung Kim
+Rooms: MI 448
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 09-612 Introduction to Quantum Chemistry>
+
+<start course description for 09-612 Introduction to Quantum Chemistry>
+Semester: Fall 2023 (aka F23)
+Course Description: This course provides an introduction to principles of time-independent quantum mechanics, needed to understand various molecular properties and phenomena. The main topics to be covered include: postulates of quantum mechanics, i.e., the Schrödinger equation and the wavefunction description, a particle in a box, tunneling, a particle on a sphere, a rigid rotor, a harmonic oscillator, hydrogen-like atoms, many-electron atoms and diatomic molecules.  The variational principle is also introduced.
+</end course description for 09-612 Introduction to Quantum Chemistry>

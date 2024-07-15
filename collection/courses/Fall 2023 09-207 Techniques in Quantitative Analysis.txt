@@ -1,0 +1,16 @@
+<start course metadata for 09-207 Techniques in Quantitative Analysis>
+Semester: Fall 2023 (aka F23)
+Course Name: Techniques in Quantitative Analysis
+Course Number: 09-207
+Department: Chemistry
+Number of Units: 9
+Prerequisites: 09-106 or 09-107
+Instructors: Mahmoud Maksoud, Niharika Krishn Botcha, Simon Faulkner
+Rooms: CMB 3178; DH 2302
+Locations: Doha, Qatar; Pittsburgh, Pennsylvania
+</end course metadata for 09-207 Techniques in Quantitative Analysis>
+
+<start course description for 09-207 Techniques in Quantitative Analysis>
+Semester: Fall 2023 (aka F23)
+Course Description: 09-207 is the first of two chemistry lab courses required for the BS and BA degrees in biological sciences and the intercollege major in biological sciences and psychology. It is also suitable for fulfilling the requirement for two general chemistry labs for admission to programs in the health professions. The experimental work emphasizes the techniques of quantitative chemical analysis. Included are projects dealing with a variety of instrumental and wet chemical techniques. A mixture of individual and partner experiments are conducted during the semester. In addition to laboratory techniques, safety, and written communication skills are emphasized.
+</end course description for 09-207 Techniques in Quantitative Analysis>

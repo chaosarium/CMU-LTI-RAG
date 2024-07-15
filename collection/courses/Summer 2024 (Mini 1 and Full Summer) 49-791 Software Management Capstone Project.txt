@@ -1,0 +1,16 @@
+<start course metadata for 49-791 Software Management Capstone Project>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Software Management Capstone Project
+Course Number: 49-791
+Department: Integrated Innovation Institute
+Number of Units: N/A
+Prerequisites: None
+Instructors: Gladys Mercier
+Rooms: DNM DNM
+Locations: San Jose, California
+</end course metadata for 49-791 Software Management Capstone Project>
+
+<start course description for 49-791 Software Management Capstone Project>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: Student teams continue work on their product or business idea. Student teams may refine or rework ideas, or continue to extend the work started in previous semesters. A plan, including milestones and deliverables, which is developed by the team must be submitted to and approved by the faculty advisor at the start of this course.
+</end course description for 49-791 Software Management Capstone Project>

@@ -1,0 +1,16 @@
+<start course metadata for 17-628 Applied Quantum Computing>
+Semester: Spring 2024 (aka S24)
+Course Name: Applied Quantum Computing
+Course Number: 17-628
+Department: Software & Societal Systems
+Number of Units: 6
+Prerequisites: None
+Instructors: Daniel Justice, Derek Wang
+Rooms: 3SC 265
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 17-628 Applied Quantum Computing>
+
+<start course description for 17-628 Applied Quantum Computing>
+Semester: Spring 2024 (aka S24)
+Course Description: Quantum computers can solve specific problems more efficiently than their classical counterparts¿in theory. But in practice, today's quantum devices are too small and noisy to run many flagship algorithms. However, with carefully crafted hardware-software-algorithm-application stacks, quantum computers can already be used as interesting scientific tools for applications including fundamental physics, chemistry, and machine learning.  In this course, we will learn about quantum applications in practice by understanding each component of a full-stack quantum computer. First, we will survey potential applications for quantum computers and identify which ones are both feasible and useful in the near-term. We will focus on applications involving simulation and machine learning, and then dive deep into relevant hybrid quantum-classical and all-quantum algorithms. Then, to achieve a deep understanding of the need for hardware-efficient algorithms, we will survey various physical platforms for quantum computers coupled with strategies for mitigating quantum errors based on fundamental concepts in quantum information theory. Throughout the course, concepts will be reinforced through practical coding exercises using modern software tools that will culminate in a final project to implement a quantum application at the cutting-edge of the field.
+</end course description for 17-628 Applied Quantum Computing>

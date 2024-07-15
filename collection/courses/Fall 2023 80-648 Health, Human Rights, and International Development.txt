@@ -1,0 +1,16 @@
+<start course metadata for 80-648 Health, Human Rights, and International Development>
+Semester: Fall 2023 (aka F23)
+Course Name: Health, Human Rights, and International Development
+Course Number: 80-648
+Department: Philosophy
+Number of Units: 12
+Prerequisites: None
+Instructors: Danielle Wenner
+Rooms: WEH 4623
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 80-648 Health, Human Rights, and International Development>
+
+<start course description for 80-648 Health, Human Rights, and International Development>
+Semester: Fall 2023 (aka F23)
+Course Description: Approximately 767 million people, or more than 10% of the world's population, live in a condition the World Bank refers to as "extreme poverty".  Those who live in extreme poverty frequently lack effective access to proper nutrition, adequate shelter, safe drinking water, and sanitation.  As a result, they also bear the greatest burdens of famine and epidemic disease and frequently face social and political conditions of unrest and systematic oppression.  This course aims to introduce students to the problem of global public health and its intersection with claims of human rights.  We will focus on theoretical accounts of human rights and questions arising from them: What constitutes a human right, and on what basis or bases might the existence of human rights be defended?  If human rights exist, whose responsibility is it to see that they are defended/provided/not violated, and why? What is the relationship between health deficits and human rights deficits, and what would a "human right to health" look like?  Are global institutions such as the protection of strong intellectual property rights consistent with respect for a human right to health?
+</end course description for 80-648 Health, Human Rights, and International Development>

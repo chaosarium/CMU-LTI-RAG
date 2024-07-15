@@ -1,0 +1,16 @@
+<start course metadata for 18-441 Computer Networks>
+Semester: Fall 2023 (aka F23)
+Course Name: Computer Networks
+Course Number: 18-441
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: 18-213
+Instructors: Swarun Kumar
+Rooms: HOA 160
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-441 Computer Networks>
+
+<start course description for 18-441 Computer Networks>
+Semester: Fall 2023 (aka F23)
+Course Description: The Internet has transformed our everyday lives, bringing people closer together and powering multi-billion dollar industries. The mobile revolution has brought Internet connectivity to the last-mile, connecting billions of users worldwide. But how does the Internet work? What do oft repeated acronyms like "LTE", "TCP", "WWW" or a "HTTP" actually mean and how do they work? This course introduces fundamental concepts of computer networks that form the building blocks of the Internet. We trace the journey of messages sent over the Internet from bits in a computer or phone to packets and eventually signals over the air or wires. We describe concepts that are common to and differentiate traditional wired computer networks from wireless and mobile networks. Finally, we build up to exciting new trends in computer networks such as the Internet of Things, 5-G and software defined networking. Topics include: physical layer and coding (CDMA, OFDM, etc.); data link protocol; flow control, congestion control, routing; local area networks (Ethernet, Wi-Fi, etc.); transport layer; and introduction to cellular (LTE) and 5-G networks. A final project asks you to a build a HTTP video server of your own.   This course is cross-listed with 18-741 - both editions will share Lectures and Recitations. However, students in the two courses will receive different exams and will have a different project. The students in the two versions of the course will be graded on a separate curve.
+</end course description for 18-441 Computer Networks>

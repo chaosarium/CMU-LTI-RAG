@@ -1,0 +1,16 @@
+<start course metadata for 90-728 Introduction to Database Management>
+Semester: Spring 2024 (aka S24)
+Course Name: Introduction to Database Management
+Course Number: 90-728
+Department: Public Policy & Mgt:Sch of Pub Pol & Mgt
+Number of Units: 6
+Prerequisites: None
+Instructors: Xiaoying Tu
+Rooms: HBH 1204; HBH 1206
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 90-728 Introduction to Database Management>
+
+<start course description for 90-728 Introduction to Database Management>
+Semester: Spring 2024 (aka S24)
+Course Description: Databases provide a powerful tool for any policy analyst and are the information backbones of organizations of all kinds. This course introduces the relational database model entity-relationship diagrams data flow diagrams structured query language query by example forms reports and macros using the MICROSOFT ACCESS database package. Applications include data import cleaning and aggregation for policy analysis and database systems for delivery and management of services.
+</end course description for 90-728 Introduction to Database Management>

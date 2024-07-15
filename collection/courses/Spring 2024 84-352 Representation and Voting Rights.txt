@@ -1,0 +1,16 @@
+<start course metadata for 84-352 Representation and Voting Rights>
+Semester: Spring 2024 (aka S24)
+Course Name: Representation and Voting Rights
+Course Number: 84-352
+Department: Institute for Politics and Strategy
+Number of Units: 9
+Prerequisites: None
+Instructors: Jonathan Cervas
+Rooms: BH A51
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 84-352 Representation and Voting Rights>
+
+<start course description for 84-352 Representation and Voting Rights>
+Semester: Spring 2024 (aka S24)
+Course Description: What does it mean to be represented? Who is represented, who is not? What is the nature of that representation? In practice, does representation result in policy congruence? In this course, we will explore the concept of representation, what it means in theory, and how it works in practice. We will investigate the theoretical underpinnings of representation from a democratic norms' perspective, the legal and constitutional nature of U.S. institutions, and evaluate empirically how well represented the public is. The class will have a central theme of how race and racial attitudes affect representation. Voting rights, the Voting Rights Act, and subsequent court cases will be highlighted.  In the United States, legislative elections are held in single-member districts, which require the drawing of district boundaries every decade. Several weeks of the course will be devoted to understanding this process. The course will culminate with a final project in which we will draw electoral maps that could act as alternatives or remedies to maps enacted this decade.
+</end course description for 84-352 Representation and Voting Rights>

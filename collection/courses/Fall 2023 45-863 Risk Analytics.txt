@@ -1,0 +1,16 @@
+<start course metadata for 45-863 Risk Analytics>
+Semester: Fall 2023 (aka F23)
+Course Name: Risk Analytics
+Course Number: 45-863
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Shubham Akshat
+Rooms: TEP 2110
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-863 Risk Analytics>
+
+<start course description for 45-863 Risk Analytics>
+Semester: Fall 2023 (aka F23)
+Course Description: It is well accepted that firms must take risks to be competitive.  Managers often refer to risk management as combining risk agility with risk resiliency to achieve sustainable growth.  In other words, risk management enables firms to grow without endangering their business.  This course (i) takes a broad view of business risk, from market to operational risk; (ii) introduces students to foundational business risk analytics tools; and (iii) illustrates their use in a variety of applications, from managing traded risk in financial, energy, and commodity markets to managing non-traded risk in supply chains exposed to operational uncertainty.  In particular, this course emphasizes (i) hands-on experience with state-of-the-art, yet practical business risk analytics tools to provide actionable solutions to business problems; and (ii) exposure to successful business risk management practices.  The course learning objectives are to (i) give students a broad view of business risk; (ii) provide students a hands-on introduction to fundamental business risk analytics tools; and (iii) demonstrate their practical applications in a wide range of business settings.  The perspective of this course is that of a sophisticated consultant or manager involved in risk management analysis using business risk analytics.  This course thus includes essential content for students seeking consulting and managerial careers in a wide range of industries and settings.
+</end course description for 45-863 Risk Analytics>

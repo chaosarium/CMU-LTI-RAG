@@ -1,0 +1,16 @@
+<start course metadata for 36-731 Foundations of Causal Inference>
+Semester: Fall 2023 (aka F23)
+Course Name: Foundations of Causal Inference
+Course Number: 36-731
+Department: Statistics and Data Science
+Number of Units: 6
+Prerequisites: None
+Instructors: Edward Kennedy
+Rooms: GHC 4102
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 36-731 Foundations of Causal Inference>
+
+<start course description for 36-731 Foundations of Causal Inference>
+Semester: Fall 2023 (aka F23)
+Course Description: This course will provide an introduction to the fundamentals of causal inference. Causal inference is concerned with whether and how one can go beyond statistical associations to draw causal conclusions from observational data. Topics will include: counterfactuals (potential outcomes and graphs), identification and estimation of average treatment effects in experiments and observational studies, nonparametric bounds, sensitivity analysis, instrumental variables, effect modification, and longitudinal studies.
+</end course description for 36-731 Foundations of Causal Inference>

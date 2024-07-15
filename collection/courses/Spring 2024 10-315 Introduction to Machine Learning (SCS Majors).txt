@@ -1,0 +1,16 @@
+<start course metadata for 10-315 Introduction to Machine Learning (SCS Majors)>
+Semester: Spring 2024 (aka S24)
+Course Name: Introduction to Machine Learning (SCS Majors)
+Course Number: 10-315
+Department: Machine Learning
+Number of Units: 12
+Prerequisites: (15-122) and (21-128 or 21-127 or 15-151) and (15-359 or 21-325 or 15-259 or 36-225 or 36-218 or 36-217 or 36-235 or 36-219) and (21-241 or 21-240 or 21-242)
+Instructors: Patrick Virtue
+Rooms: SH 105
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 10-315 Introduction to Machine Learning (SCS Majors)>
+
+<start course description for 10-315 Introduction to Machine Learning (SCS Majors)>
+Semester: Spring 2024 (aka S24)
+Course Description: Machine learning is a subfield of computer science with the goal of exploring, studying, and developing learning systems, methods, and algorithms that can improve their performance with learning from data. This course is designed to give undergraduate students a one-semester-long introduction to the main principles, algorithms, and applications of machine learning and is specifically designed for the SCS undergrad majors. After completing the course, students will be able to: *select and apply an appropriate supervised learning algorithm for classification problems and understand its underlying assumptions (e.g., naive Bayes, perceptron, support vector machine, logistic regression). *select and apply an appropriate supervised learning algorithm for regression problems and understand its underlying assumptions (e.g., linear regression, ridge regression). *recognize different types of unsupervised learning problems, and select and apply appropriate algorithms (e.g., clustering, linear and nonlinear dimensionality reduction). *work with probabilities (Bayes rule, conditioning, expectations, independence), linear algebra (vector and matrix operations, eigenvectors), and calculus (gradients) to derive machine learning methods such as linear regression, naive Bayes, and principal components analysis. *understand machine learning principles such as model selection, overfitting, and underfitting, and techniques such as cross-validation and regularization. *implement machine learning algorithms such as logistic regression via stochastic gradient descent, linear regression (using a linear algebra toolbox), perceptron, or k-means clustering. *run appropriate supervised and unsupervised learning algorithms on real and synthetic data sets and interpret the results.
+</end course description for 10-315 Introduction to Machine Learning (SCS Majors)>

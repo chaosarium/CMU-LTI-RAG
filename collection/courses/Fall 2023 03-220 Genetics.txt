@@ -1,0 +1,16 @@
+<start course metadata for 03-220 Genetics>
+Semester: Fall 2023 (aka F23)
+Course Name: Genetics
+Course Number: 03-220
+Department: Biological Sciences
+Number of Units: 9
+Prerequisites: 03-121 or 03-151
+Instructors: Ihab Younis, Joel Mcmanus, Stephanie Wong-Noonan
+Rooms: CMB 3048; DH 2302
+Locations: Doha, Qatar; Pittsburgh, Pennsylvania
+</end course metadata for 03-220 Genetics>
+
+<start course description for 03-220 Genetics>
+Semester: Fall 2023 (aka F23)
+Course Description: The mechanisms of transmission of inherited traits in viruses, bacteria, fungi, plants and animals are discussed. Molecular mechanisms of gene expression and gene regulation are analyzed. Recombinant DNA and its applications in genetic analysis, biotechnology, forensics, agriculture, medicine, and the pharmaceutical industry are presented. Special topics in human genetics are considered, such as the genetics of cancer. Principles and methods for the study of developmental genetics, population genetics and complex traits are also introduced.
+</end course description for 03-220 Genetics>

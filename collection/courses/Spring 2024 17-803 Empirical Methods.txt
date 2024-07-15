@@ -1,0 +1,16 @@
+<start course metadata for 17-803 Empirical Methods>
+Semester: Spring 2024 (aka S24)
+Course Name: Empirical Methods
+Course Number: 17-803
+Department: Software & Societal Systems
+Number of Units: 12
+Prerequisites: None
+Instructors: Bogdan Vasilescu
+Rooms: WEH 4708
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 17-803 Empirical Methods>
+
+<start course description for 17-803 Empirical Methods>
+Semester: Spring 2024 (aka S24)
+Course Description: This course provides an overview and hands on experience with a core of qualitative and quantitative empirical methods, including interviews, qualitative coding, survey design, and large-scale mining and analysis of data. We will mine and integrate data from and across online repositories such as Twitter, GitHub, and Stack Overflow, and employ a spectrum of data analysis techniques, ranging from statistical modeling to social network analysis. Each student will undertake a semester-long project based on their own research.
+</end course description for 17-803 Empirical Methods>

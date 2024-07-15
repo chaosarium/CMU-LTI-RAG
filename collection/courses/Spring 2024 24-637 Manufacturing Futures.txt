@@ -1,0 +1,16 @@
+<start course metadata for 24-637 Manufacturing Futures>
+Semester: Spring 2024 (aka S24)
+Course Name: Manufacturing Futures
+Course Number: 24-637
+Department: Mechanical Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Rahul Panat
+Rooms: WEH 2302
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-637 Manufacturing Futures>
+
+<start course description for 24-637 Manufacturing Futures>
+Semester: Spring 2024 (aka S24)
+Course Description: The course will introduce an array of technologies that will contribute to the future of making things and will be organized into 4 logical modules that will culminate in a team-based design project. Module 1 (Manufacturing Visions and Design Methodolgy): David Bourne. Module 2 (Manufacturing Processes and Process Tradeoffs): Brandon Bodily. Module 3 (Electronic Manufacturing): Rahul Panat. Module 4 (Workforce Development) : David Bourne.
+</end course description for 24-637 Manufacturing Futures>

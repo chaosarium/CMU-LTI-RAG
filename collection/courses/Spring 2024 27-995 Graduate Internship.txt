@@ -1,0 +1,16 @@
+<start course metadata for 27-995 Graduate Internship>
+Semester: Spring 2024 (aka S24)
+Course Name: Graduate Internship
+Course Number: 27-995
+Department: Materials Science & Engineering
+Number of Units: N/A
+Prerequisites: None
+Instructors: Elizabeth Dickey
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 27-995 Graduate Internship>
+
+<start course description for 27-995 Graduate Internship>
+Semester: Spring 2024 (aka S24)
+Course Description: This course allows a student to gain experience through an internship off-campus in the field of Materials Science and Engineering. Graduate students in the MSE department may enroll in this course for three units in the summer session only. The internship must be approved by faculty and academic advisor prior to enrolling in the course. International students interested in registering for this course must also be authorized for Curricular Practical Training (CPT). Further information is available on the Office of International Education's website: www.cmu.edu/oie.
+</end course description for 27-995 Graduate Internship>

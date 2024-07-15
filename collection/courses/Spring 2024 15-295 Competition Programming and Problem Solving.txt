@@ -1,0 +1,16 @@
+<start course metadata for 15-295 Competition Programming and Problem Solving>
+Semester: Spring 2024 (aka S24)
+Course Name: Competition Programming and Problem Solving
+Course Number: 15-295
+Department: Computer Science
+Number of Units: 5
+Prerequisites: (15-195 or 15-295) and (15-122)
+Instructors: Daniel Sleator
+Rooms: GHC 4307
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-295 Competition Programming and Problem Solving>
+
+<start course description for 15-295 Competition Programming and Problem Solving>
+Semester: Spring 2024 (aka S24)
+Course Description: Each year, Carnegie Mellon fields two teams for participation in the ACM-ICPC Regional Programming Contest. During many recent years, one of those teams has earned the right to represent Carnegie Mellon at the ACM-ICPC World Finals.  This course is a vehicle for those who consistently and rigorously train in preparation for the contests to earn course credit for their effort and achievement.  Preparation involves the study of algorithms, the practice of programming and debugging, the development of test sets, and the growth of team, communication, and problem solving skills.  Neither the course grade nor the number of units earned are dependent on ranking in any contest.  Students are not required to earn course credit to participate in practices or to compete in ACM-ICPC events.
+</end course description for 15-295 Competition Programming and Problem Solving>

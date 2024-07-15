@@ -1,0 +1,16 @@
+<start course metadata for 03-135 Structure and Function of the Human Body>
+Semester: Fall 2023 (aka F23)
+Course Name: Structure and Function of the Human Body
+Course Number: 03-135
+Department: Biological Sciences
+Number of Units: 9
+Prerequisites: None
+Instructors: Jason D'Antonio
+Rooms: HH B131
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 03-135 Structure and Function of the Human Body>
+
+<start course description for 03-135 Structure and Function of the Human Body>
+Semester: Fall 2023 (aka F23)
+Course Description: Structure and Function of the Human Body is a non-majors course designed to explore fundamental relationships between form and function of the human body. The anatomy and physiology of major organ systems will be studied in the context of normal and disease states. Students will learn about critical biological processes such as the central dogma, membrane diffusion and transport, cell signaling, gas exchange, blood flow, nutrient absorption, blood pH balance, and action potential generation and propagation. Students will then apply this knowledge to understand how organs respond to various inputs in maintaining homeostasis. Hands-on demonstrations will be incorporated to provide a practical framework for the information presented in lectures. At the culmination of the semester, students will gain a broad understanding of how the body systems function at the cellular, tissue and organ levels and be able to relate simple physiological processes to better understand highly prevalent diseases in society.
+</end course description for 03-135 Structure and Function of the Human Body>

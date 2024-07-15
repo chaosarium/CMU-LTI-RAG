@@ -1,0 +1,16 @@
+<start course metadata for 53-762 Advanced Look Development: The Two Worlds of Texture>
+Semester: Spring 2024 (aka S24)
+Course Name: Advanced Look Development: The Two Worlds of Texture
+Course Number: 53-762
+Department: Entertainment Technology
+Number of Units: 9
+Prerequisites: None
+Instructors: Ricardo Washington
+Rooms: HL 106C
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 53-762 Advanced Look Development: The Two Worlds of Texture>
+
+<start course description for 53-762 Advanced Look Development: The Two Worlds of Texture>
+Semester: Spring 2024 (aka S24)
+Course Description: This class will provide students with strategies for creating textures and materials for 3D games or animation assets by focusing on meaningful details. Many texture creation applications offer artists efficient ways to create compelling material networks. While mastering technical procedures is essential, we will apply a deeper understanding of the art and intent behind the techniques to create a more robust visual storytelling experience. This course gives students an environment to focus on art and intent by slowing down and zeroing in on the fine point of a physical paintbrush touching a physical model. Students will paint small dioramas, characters, and props using physical model painting. Next, they will digitally recreate and enhance their creators using texture painting software. The course is designed to encourage students to apply the artistic principles of physical model painting to guide the technical texture creation skills on the digital 3D side.
+</end course description for 53-762 Advanced Look Development: The Two Worlds of Texture>

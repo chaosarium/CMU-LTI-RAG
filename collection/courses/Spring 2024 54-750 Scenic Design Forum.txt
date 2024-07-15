@@ -1,0 +1,16 @@
+<start course metadata for 54-750 Scenic Design Forum>
+Semester: Spring 2024 (aka S24)
+Course Name: Scenic Design Forum
+Course Number: 54-750
+Department: Drama
+Number of Units: 1
+Prerequisites: None
+Instructors: Chelsea Warren, Dick Block
+Rooms: PCA 307
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-750 Scenic Design Forum>
+
+<start course description for 54-750 Scenic Design Forum>
+Semester: Spring 2024 (aka S24)
+Course Description: Required weekly meeting of all Scenic Designers.
+</end course description for 54-750 Scenic Design Forum>

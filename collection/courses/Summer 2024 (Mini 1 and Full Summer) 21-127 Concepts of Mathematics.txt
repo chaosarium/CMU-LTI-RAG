@@ -1,0 +1,16 @@
+<start course metadata for 21-127 Concepts of Mathematics>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Concepts of Mathematics
+Course Number: 21-127
+Department: Mathematical Sciences
+Number of Units: 12
+Prerequisites: 21-120 or 21-112 or 15-112 or 21-108
+Instructors: Noha Abdelghany
+Rooms: SH 105
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-127 Concepts of Mathematics>
+
+<start course description for 21-127 Concepts of Mathematics>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: This course introduces the basic concepts, ideas and tools involved in doing mathematics. As such, its main focus is on presenting informal logic, and the methods of mathematical proof. These subjects are closely related to the application of mathematics in many areas, particularly computer science. Topics discussed include a basic introduction to elementary number theory, induction, the algebra of sets, relations, equivalence relations, congruences, partitions, and functions, including injections, surjections, and bijections.  A basic introduction to the real numbers, rational and irrational numbers.  Supremum and infimum of a set.  3 hrs. lec., 2 hrs. rec.
+</end course description for 21-127 Concepts of Mathematics>

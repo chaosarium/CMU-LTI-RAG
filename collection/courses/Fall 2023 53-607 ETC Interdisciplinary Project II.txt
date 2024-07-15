@@ -1,0 +1,16 @@
+<start course metadata for 53-607 ETC Interdisciplinary Project II>
+Semester: Fall 2023 (aka F23)
+Course Name: ETC Interdisciplinary Project II
+Course Number: 53-607
+Department: Entertainment Technology
+Number of Units: 36
+Prerequisites: 53-608 and 53-711 and 53-700 and 53-831
+Instructors: Brenda Harger, Charles Johnson, David Culyba, Heather Kelley, Instructor TBA, John Dessler, Jonathan Walton, Michael Christel, Moshe Mahler, Ralph Vituccio, Ricardo Washington, Ruth Comley, Scott Stevens, Shirley Saldamarco, Thomas Corbett
+Rooms: PTC MPR
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 53-607 ETC Interdisciplinary Project II>
+
+<start course description for 53-607 ETC Interdisciplinary Project II>
+Semester: Fall 2023 (aka F23)
+Course Description: The central part of the ETC curriculum is the project course. In this course, students are in small, interdisciplinary teams, creating artifacts under direct faculty supervision. An artifact may be a web site, a piece of software, a piece of hardware, a design document, or a number of other things. Artifacts are typically intended to be prototypes, not production models. Each project team, working with their faculty member, must design what they are going to create, the mechanisms by which they will create it, and then actually create it.
+</end course description for 53-607 ETC Interdisciplinary Project II>

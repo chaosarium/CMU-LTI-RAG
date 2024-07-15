@@ -1,0 +1,16 @@
+<start course metadata for 84-799 Graduate Thesis>
+Semester: Spring 2024 (aka S24)
+Course Name: Graduate Thesis
+Course Number: 84-799
+Department: Institute for Politics and Strategy
+Number of Units: 18
+Prerequisites: None
+Instructors: Audrey Cronin, Baruch Fischhoff, Daniel Silverman, Forrest Morgan, Geoffrey Mcgovern, Hanzhang Liu, Ignacio Arana, John Chin, Jonathan Cervas, Joshua Schwartz, Justin Canfil, Mark Kamlet, Molly Dunigan
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 84-799 Graduate Thesis>
+
+<start course description for 84-799 Graduate Thesis>
+Semester: Spring 2024 (aka S24)
+Course Description: Master of Science in International Relations and Politics students are expected to dedicate a minimum of 18 hours per week to work on the thesis for the duration of the semester.  The student is expected to meet regularly (once per week, on average) with the thesis adviser.  It is the student's responsibility to schedule regular meetings with the thesis adviser and develop and maintain a work timeline. Upon completion of the research and writing of the thesis, the student will defend his/her work through an open forum oral presentation.  A completed thesis will include 1) a Master's Thesis Signature Page; 2) a formal master's thesis paper of publishable quality between 20 and 40 pages in length.
+</end course description for 84-799 Graduate Thesis>

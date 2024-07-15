@@ -1,0 +1,16 @@
+<start course metadata for 85-480 Internship in Clinical>
+Semester: Fall 2023 (aka F23)
+Course Name: Internship in Clinical
+Course Number: 85-480
+Department: Psychology
+Number of Units: N/A
+Prerequisites: 85-104 or 85-261
+Instructors: Kasey Creswell
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 85-480 Internship in Clinical>
+
+<start course description for 85-480 Internship in Clinical>
+Semester: Fall 2023 (aka F23)
+Course Description: This course allows students to gain applied clinical experience in a mental health setting. Students will work alongside psychology professionals at designated field placements. This course is designed to help students apply and expand their knowledge of clinical psychology and to develop appropriate professional work standards. Students will spend the majority of their time (8 hours per week) in an applied clinical setting, with a one hour per week supervision meeting with Dr. Creswell. Instructor permission is required, 85-104 Psychopathology can be taken as either a pre req or a co req. Please contact Dr. Kasey Creswell.
+</end course description for 85-480 Internship in Clinical>

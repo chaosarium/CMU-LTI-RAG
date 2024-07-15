@@ -1,0 +1,16 @@
+<start course metadata for 16-695 MSR Independent Study>
+Semester: Spring 2024 (aka S24)
+Course Name: MSR Independent Study
+Course Number: 16-695
+Department: Robotics
+Number of Units: N/A
+Prerequisites: None
+Instructors: Dimitrios Apostolopoulos
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 16-695 MSR Independent Study>
+
+<start course description for 16-695 MSR Independent Study>
+Semester: Spring 2024 (aka S24)
+Course Description: The MSR independent study course is offered to structure a research plan that enables students to gain in-depth knowledge and experience in a focused area of research.
+</end course description for 16-695 MSR Independent Study>

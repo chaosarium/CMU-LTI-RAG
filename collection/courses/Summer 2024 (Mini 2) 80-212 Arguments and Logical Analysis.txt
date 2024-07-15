@@ -1,0 +1,16 @@
+<start course metadata for 80-212 Arguments and Logical Analysis>
+Semester: Summer Two 2024 (aka M24, M24 Mini 2, Summer 2024 Mini 2)
+Course Name: Arguments and Logical Analysis
+Course Number: 80-212
+Department: Philosophy
+Number of Units: 9
+Prerequisites: None
+Instructors: Philip Sink
+Rooms: PH 126A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 80-212 Arguments and Logical Analysis>
+
+<start course description for 80-212 Arguments and Logical Analysis>
+Semester: Summer Two 2024 (aka M24, M24 Mini 2, Summer 2024 Mini 2)
+Course Description: Are there rational methods that can further our knowledge? The notion of rational inquiry presupposes that there are appropriate methods for the pursuit of knowledge. In this course, we will investigate the means by which a successful argument justifies its conclusion, as well as various subtle ways in which other arguments fail. The course will explore the use of logic as an instrument in the study of arguments and reasoning, and it will serve as a gentle introduction to the elementary concepts of formal logic. We will take a historically informed approach to studying logic and argumentative fallacies, and we will discover that logical tools and methods are useful for constructing and analyzing arguments in all disciplines, from philosophy and history to psychology and physics. Our goals are to acquire a solid grasp of some fundamental tools of modern logic, and learn how to use them to make our thinking and writing clearer, more precise, and more critical. To this end, our coursework will consist in homework and exams on topics in logic, as well as writing assignments on a variety of topics. This course is intended for students from any discipline who would like to improve their writing and critical thinking skills, as well as students who are interested in learning logic without having had prior contact with the subject.
+</end course description for 80-212 Arguments and Logical Analysis>

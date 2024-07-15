@@ -1,0 +1,16 @@
+<start course metadata for 54-938 Stretch Techniques>
+Semester: Spring 2024 (aka S24)
+Course Name: Stretch Techniques
+Course Number: 54-938
+Department: Drama
+Number of Units: 9
+Prerequisites: 54-814 and 54-813
+Instructors: Hugh Hanson
+Rooms: PCA 308
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-938 Stretch Techniques>
+
+<start course description for 54-938 Stretch Techniques>
+Semester: Spring 2024 (aka S24)
+Course Description: Stretch Techniques is a full semester exploration of pattern development and garment construction using stretch fabrics. The course begins with a study of the historical development of stretch textiles and the accompanying evolution of machines and techniques for making them into resilient garments. Next the special considerations for patterning stretch garments are demonstrated and practiced. A series of garment projects allows students to reinforce the patterning principles while utilizing industry standards for construction.
+</end course description for 54-938 Stretch Techniques>

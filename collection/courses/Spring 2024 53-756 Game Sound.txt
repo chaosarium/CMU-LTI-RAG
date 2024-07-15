@@ -1,0 +1,16 @@
+<start course metadata for 53-756 Game Sound>
+Semester: Spring 2024 (aka S24)
+Course Name: Game Sound
+Course Number: 53-756
+Department: Entertainment Technology
+Number of Units: 6
+Prerequisites: None
+Instructors: Heather Kelley, Kristian Tchetchko
+Rooms: PTC 5208
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 53-756 Game Sound>
+
+<start course description for 53-756 Game Sound>
+Semester: Spring 2024 (aka S24)
+Course Description: Using a commercial game engine (such as Unreal) and interactive audio middleware (such as FMOD or WWISE), students will design, create, edit, and implement interactive audio into sample video game projects.  Industry guest speakers will provide insight and perspectives on student work, and offer career advice.
+</end course description for 53-756 Game Sound>

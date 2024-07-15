@@ -1,0 +1,16 @@
+<start course metadata for 17-639 Applied Distributed Systems>
+Semester: Spring 2024 (aka S24)
+Course Name: Applied Distributed Systems
+Course Number: 17-639
+Department: Software & Societal Systems
+Number of Units: 6
+Prerequisites: None
+Instructors: Hasan Yasar
+Rooms: CMU REMOTE
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 17-639 Applied Distributed Systems>
+
+<start course description for 17-639 Applied Distributed Systems>
+Semester: Spring 2024 (aka S24)
+Course Description: Modern computing systems are frequently hosted on the cloud. That is, they are inherently distributed systems. To appropriately build and deploy these systems developers should know not only about development tools such as container management tools but also the structure of the cloud - in particular how it utilizes virtual machines, containers and networks. They should also understand security mechanisms both in the internet and how to authorize users and maintain credentials securely. Finally, to protect the system once it is placed into production, a developer needs to know how to enable the detection of problems during execution through collection and navigation of logs produced by the system. These are the topics covered by this course.
+</end course description for 17-639 Applied Distributed Systems>

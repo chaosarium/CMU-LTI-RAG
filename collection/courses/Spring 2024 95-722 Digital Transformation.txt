@@ -1,0 +1,16 @@
+<start course metadata for 95-722 Digital Transformation>
+Semester: Spring 2024 (aka S24)
+Course Name: Digital Transformation
+Course Number: 95-722
+Department: Information Systems:Sch of IS & Mgt
+Number of Units: 6
+Prerequisites: None
+Instructors: Ari Lightman, James Riel
+Rooms: DNM DNM; HBH 1002; HBH 1202; HBH 1206; HBH 2009
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 95-722 Digital Transformation>
+
+<start course description for 95-722 Digital Transformation>
+Semester: Spring 2024 (aka S24)
+Course Description: This course serves as a capstone course integrating technological and managerial aspects of information technology. We will take the culmination of your previous learning of technological and managerial subjects and apply it to real-world scenarios. Each section will consider the information and communication technologies that play multiple roles within an organizational context through two perspectives:  -    From a technological perspective, these define the information and communication infrastructures of the firm and they enable new ways to digitize business processes.  -    From a managerial perspective, these facilitate new coordination and communication within and across entities, enable new organizational forms, change the information environment underlying the business, and permit new incentive structures.
+</end course description for 95-722 Digital Transformation>

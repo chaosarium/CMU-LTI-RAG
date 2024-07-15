@@ -1,0 +1,16 @@
+<start course metadata for 46-927 Machine Learning II>
+Semester: Spring 2024 (aka S24)
+Course Name: Machine Learning II
+Course Number: 46-927
+Department: Business Administration
+Number of Units: 6
+Prerequisites: 46-921 and 46-923 and 46-926
+Instructors: Alexander Reinhart
+Rooms: BRD 507; TCS 250
+Locations: New York, New York; Pittsburgh, Pennsylvania
+</end course metadata for 46-927 Machine Learning II>
+
+<start course description for 46-927 Machine Learning II>
+Semester: Spring 2024 (aka S24)
+Course Description: The second in a two-course sequence covering statistical machine learning aimed at quantitative finance.  The course further covers methods for regression and classification, along with other advanced topics in statistics and machine learning.  Topics will be drawn from boosting and ensemble methods, clustering, mixture models and topic modeling, natural language processing, Markov decision processes and reinforcement learning, and neural networks/deep learning.
+</end course description for 46-927 Machine Learning II>

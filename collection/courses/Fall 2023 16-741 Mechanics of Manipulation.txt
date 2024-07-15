@@ -1,0 +1,16 @@
+<start course metadata for 16-741 Mechanics of Manipulation>
+Semester: Fall 2023 (aka F23)
+Course Name: Mechanics of Manipulation
+Course Number: 16-741
+Department: Robotics
+Number of Units: 12
+Prerequisites: None
+Instructors: Zackory Erickson
+Rooms: WEH 2302
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 16-741 Mechanics of Manipulation>
+
+<start course description for 16-741 Mechanics of Manipulation>
+Semester: Fall 2023 (aka F23)
+Course Description: Mechanics of Manipulation is a graduate level course that dives into the fundamentals of robotic manipulation. Through this course you will learn the kinematics, statics, and dynamics of robotic manipulators as they interact with the world to accomplish tasks. You will gain experience with the intelligent use of kinematic constraint, gravity, and frictional forces. Additional topics include rigid body mechanics, automatic planning based on mechanics, deformable manipulation, and simulation of dynamic manipulation. Applications of robotic manipulation are drawn from physical human-robot interaction, manufacturing, and other domains.
+</end course description for 16-741 Mechanics of Manipulation>

@@ -1,0 +1,16 @@
+<start course metadata for 03-133 Neurobiology of Disease>
+Semester: Summer Two 2024 (aka M24, M24 Mini 2, Summer 2024 Mini 2)
+Course Name: Neurobiology of Disease
+Course Number: 03-133
+Department: Biological Sciences
+Number of Units: 9
+Prerequisites: None
+Instructors: Daniel Brasier
+Rooms: DH 1211
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 03-133 Neurobiology of Disease>
+
+<start course description for 03-133 Neurobiology of Disease>
+Semester: Summer Two 2024 (aka M24, M24 Mini 2, Summer 2024 Mini 2)
+Course Description: None
+</end course description for 03-133 Neurobiology of Disease>

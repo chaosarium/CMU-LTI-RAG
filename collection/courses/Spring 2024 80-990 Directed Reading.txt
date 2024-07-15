@@ -1,0 +1,16 @@
+<start course metadata for 80-990 Directed Reading>
+Semester: Spring 2024 (aka S24)
+Course Name: Directed Reading
+Course Number: 80-990
+Department: Philosophy
+Number of Units: N/A
+Prerequisites: None
+Instructors: Adam Bjorndahl, Alex London, Christina Bjorndahl, Danielle Wenner, Francesca Zaffora Blando, Instructor TBA, Jeremy Avigad, Kevin Kelly, Kevin Zollman, Mandy Simons, Peter Spirtes, Steve Awodey, Teddy Seidenfeld, Tom Werner, Wayne Wu, Wilfried Sieg
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 80-990 Directed Reading>
+
+<start course description for 80-990 Directed Reading>
+Semester: Spring 2024 (aka S24)
+Course Description: Directed Reading
+</end course description for 80-990 Directed Reading>

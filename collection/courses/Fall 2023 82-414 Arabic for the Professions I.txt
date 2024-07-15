@@ -1,0 +1,16 @@
+<start course metadata for 82-414 Arabic for the Professions I>
+Semester: Fall 2023 (aka F23)
+Course Name: Arabic for the Professions I
+Course Number: 82-414
+Department: Modern Languages
+Number of Units: 9
+Prerequisites: None
+Instructors: Lama Nassif
+Rooms: CMB 3044
+Locations: Doha, Qatar
+</end course metadata for 82-414 Arabic for the Professions I>
+
+<start course description for 82-414 Arabic for the Professions I>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is offered only at Carnegie Mellon's campus in Qatar. The aim of this course is to develop the students' linguistic abilities in Modern Standard Arabic (MSA) for professional  purposes through reading articles and documents, writing summaries, reports, memos and e-mails, and giving oral presentations of projects.
+</end course description for 82-414 Arabic for the Professions I>

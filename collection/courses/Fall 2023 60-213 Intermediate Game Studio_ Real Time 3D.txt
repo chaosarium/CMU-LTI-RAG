@@ -1,0 +1,16 @@
+<start course metadata for 60-213 Intermediate Game Studio: Real Time 3D>
+Semester: Fall 2023 (aka F23)
+Course Name: Intermediate Game Studio: Real Time 3D
+Course Number: 60-213
+Department: Art
+Number of Units: 10
+Prerequisites: None
+Instructors: Paolo Pedercini
+Rooms: CFA 303; WEH 5202
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 60-213 Intermediate Game Studio: Real Time 3D>
+
+<start course description for 60-213 Intermediate Game Studio: Real Time 3D>
+Semester: Fall 2023 (aka F23)
+Course Description: Game Studio: Real Time 3D is a hands-on intermediate course focused on immersive environments, world building, character creation, and real time experiences at the boundaries of gaming. On a conceptual level we'll look at practices within digital art and independent game development: virtual architecture and sculpture, walking simulators, avatar-based performances, and other playable media. On a technical level the course will introduce you to 3D modeling for real time applications (using Blender) and game engine workflows (using Unity) as a scaffolding for advanced courses. Students will work individually. Experience with game engines and 3D modeling is not required.
+</end course description for 60-213 Intermediate Game Studio: Real Time 3D>

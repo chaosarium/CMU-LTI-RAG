@@ -1,0 +1,16 @@
+<start course metadata for 67-240 Mobile Web Design & Development>
+Semester: Fall 2023 (aka F23)
+Course Name: Mobile Web Design & Development
+Course Number: 67-240
+Department: Information Systems Program
+Number of Units: 9
+Prerequisites: 15-104 or 15-112 or 15-110
+Instructors: Naama Ilany-Tzur, Sara Moussawi
+Rooms: GHC 4102; HL 106B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 67-240 Mobile Web Design & Development>
+
+<start course description for 67-240 Mobile Web Design & Development>
+Semester: Fall 2023 (aka F23)
+Course Description: The Mobile Web Design and Development course provides a solid web design and development foundation focusing on responsive, user-centered design, and client-side components. Throughout the course, students work with HTML5, CSS3, Twitter Bootstrap, and JavaScript, and learn how the various web components function together. The course utilizes a hands-on approach to guide students through learning and understanding the design and development process. In this course, students work on in-class activities, individual assignments and a group project with a client using the current standards and best practices of web design and development. This course is primarily designed for students with minimal technical experience. By the end of the course, students will be able to plan, design, and implement a basic functioning mobile website/ app.
+</end course description for 67-240 Mobile Web Design & Development>

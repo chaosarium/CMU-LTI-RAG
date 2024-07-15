@@ -1,0 +1,16 @@
+<start course metadata for 90-707 Statistical Reasoning>
+Semester: Fall 2023 (aka F23)
+Course Name: Statistical Reasoning
+Course Number: 90-707
+Department: Public Policy & Mgt:Sch of Pub Pol & Mgt
+Number of Units: 12
+Prerequisites: None
+Instructors: Mariana Escallon Barrios
+Rooms: HBH 1002; HBH 1005; HBH 1006; HBH 1202
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 90-707 Statistical Reasoning>
+
+<start course description for 90-707 Statistical Reasoning>
+Semester: Fall 2023 (aka F23)
+Course Description: This course will provide an introduction to the principles of data collection, description and analysis. You will learn the basic tools of statistical inference and modeling, as well as how to interpret results, measure the uncertainty in result, and understand the limitations of results. You will also learn how to interpret statistical output, and how not to be fooled by statistical studies.
+</end course description for 90-707 Statistical Reasoning>

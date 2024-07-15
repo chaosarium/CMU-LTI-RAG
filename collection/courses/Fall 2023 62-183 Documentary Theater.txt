@@ -1,0 +1,16 @@
+<start course metadata for 62-183 Documentary Theater>
+Semester: Fall 2023 (aka F23)
+Course Name: Documentary Theater
+Course Number: 62-183
+Department: CFA Interdisciplinary
+Number of Units: 9
+Prerequisites: None
+Instructors: Elizabeth Thoni, Lara Miller
+Rooms: PH A20
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 62-183 Documentary Theater>
+
+<start course description for 62-183 Documentary Theater>
+Semester: Fall 2023 (aka F23)
+Course Description: Creating theater from real life is as ancient as the art form itself. Yet since the early 20th century, the emergence of "documentary" or "verbatim" theater has opened up new possibilities for theater-makers as artists, investigators, and cultural influencers. This course will introduce you to the theory and practice of documentary theater, as well as its intersections with multimodal oral history and digital storytelling. From Moisés Kaufman's The Laramie Project to Adrian Jones's Pittsburgh-based app Looking Glass, topics will include history, ethics, and practical methodologies including interviewing and creative interpretation of journalistic information. By the end of this course, you will create and iterate on a short, original piece that feels important to your work and inquiry in the world.
+</end course description for 62-183 Documentary Theater>

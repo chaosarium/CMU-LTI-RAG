@@ -1,0 +1,16 @@
+<start course metadata for 80-992 Directed Reading Mini>
+Semester: Fall 2023 (aka F23)
+Course Name: Directed Reading Mini
+Course Number: 80-992
+Department: Philosophy
+Number of Units: N/A
+Prerequisites: None
+Instructors: Adam Bjorndahl, Alex London, Christina Bjorndahl, Danielle Wenner, Instructor TBA, Jeremy Avigad, Joel Smith, Kevin Kelly, Kevin Zollman, Mandy Simons, Peter Spirtes, Simon Cullen, Steve Awodey, Teddy Seidenfeld, Tom Werner, Wayne Wu, Wilfried Sieg
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 80-992 Directed Reading Mini>
+
+<start course description for 80-992 Directed Reading Mini>
+Semester: Fall 2023 (aka F23)
+Course Description: Directed Reading Mini for Philosophy Graduate Students
+</end course description for 80-992 Directed Reading Mini>

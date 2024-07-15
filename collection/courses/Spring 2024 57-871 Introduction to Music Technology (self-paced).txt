@@ -1,0 +1,16 @@
+<start course metadata for 57-871 Introduction to Music Technology (self-paced)>
+Semester: Spring 2024 (aka S24)
+Course Name: Introduction to Music Technology (self-paced)
+Course Number: 57-871
+Department: Music
+Number of Units: 6
+Prerequisites: None
+Instructors: Benjamin Opie
+Rooms: HOA A10
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-871 Introduction to Music Technology (self-paced)>
+
+<start course description for 57-871 Introduction to Music Technology (self-paced)>
+Semester: Spring 2024 (aka S24)
+Course Description: This course gives an overview of music technology through practical information and several hands-on projects. Concepts such as MIDI and digital audio are introduced and specific topics are covered in detail including sequencing, music notation, digital recording, mixing, and  production. Throughout the course, students are required to complete several projects and create musical compositions in styles of their own choosing. The student is not graded on the "musicality" of these compositions, but instead on how  well they meet the stated project goals by correctly using specific equipment and/or computer programs.   This is a self-paced version of the 57-801 course.  There are no required classes, and students should be prepared to make time in the evenings or weekend to work on their projects in either the MTC (MM119A) or some other cluster.  There is a "help session" every week where the students can come to work on their projects or to ask questions about the material.  All material and project descriptions are on Blackboard. In addition to the required projects, there is a final exam which can be taken either on paper or online.
+</end course description for 57-871 Introduction to Music Technology (self-paced)>

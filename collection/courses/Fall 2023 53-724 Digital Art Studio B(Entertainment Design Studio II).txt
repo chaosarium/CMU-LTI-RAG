@@ -1,0 +1,16 @@
+<start course metadata for 53-724 Digital Art Studio B(Entertainment Design Studio II)>
+Semester: Fall 2023 (aka F23)
+Course Name: Digital Art Studio B(Entertainment Design Studio II)
+Course Number: 53-724
+Department: Entertainment Technology
+Number of Units: 12
+Prerequisites: 53-723
+Instructors: Ricardo Washington
+Rooms: PTC 5208
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 53-724 Digital Art Studio B(Entertainment Design Studio II)>
+
+<start course description for 53-724 Digital Art Studio B(Entertainment Design Studio II)>
+Semester: Fall 2023 (aka F23)
+Course Description: A continuation of 53-723, this class students will use projects and self-directed learning goals, designed with the help of the instructor, to explore areas of art and design of their choosing. The class serves as an environment to practice skills and apply fundamental design principles to projects in a setting that encourages robust and active learning and discovery for students of all skill levels. It is a good time to work on portfolio materials, improve specific skills and practices, or deepen understanding of art and aesthetics in general.
+</end course description for 53-724 Digital Art Studio B(Entertainment Design Studio II)>

@@ -1,0 +1,16 @@
+<start course metadata for 02-425 Computational Methods for Proteogenomics and Metabolomics>
+Semester: Spring 2024 (aka S24)
+Course Name: Computational Methods for Proteogenomics and Metabolomics
+Course Number: 02-425
+Department: Computational Biology
+Number of Units: 9
+Prerequisites: 02-604 or 02-250 or 02-251
+Instructors: Hosein Mohimani
+Rooms: SH 238
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 02-425 Computational Methods for Proteogenomics and Metabolomics>
+
+<start course description for 02-425 Computational Methods for Proteogenomics and Metabolomics>
+Semester: Spring 2024 (aka S24)
+Course Description: Proteomics and metabolomics are the large scale study of proteins and metabolites, respectively.  In contrast to genomes, proteomes and metabolomes vary with time and the specific stress or conditions an organism is under. Applications of proteomics and metabolomics include determination of protein and metabolite functions (including in immunology and neurobiology) and discovery of biomarkers for disease. These applications require advanced computational methods to analyze experimental measurements, create models from them, and integrate with information from diverse sources.  This course specifically covers computational mass spectrometry, structural proteomics, proteogenomics, metabolomics, genome mining and metagenomics.
+</end course description for 02-425 Computational Methods for Proteogenomics and Metabolomics>

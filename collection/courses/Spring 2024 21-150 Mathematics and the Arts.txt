@@ -1,0 +1,16 @@
+<start course metadata for 21-150 Mathematics and the Arts>
+Semester: Spring 2024 (aka S24)
+Course Name: Mathematics and the Arts
+Course Number: 21-150
+Department: Mathematical Sciences
+Number of Units: 9
+Prerequisites: None
+Instructors: Zelealem Yilma
+Rooms: CMB 2049
+Locations: Doha, Qatar
+</end course metadata for 21-150 Mathematics and the Arts>
+
+<start course description for 21-150 Mathematics and the Arts>
+Semester: Spring 2024 (aka S24)
+Course Description: Mathematics and the creative arts have long, interlinked histories.  This course touches upon a broad range of mathematical ideas and the writers, artists, and art movements that were influenced and inspired by them. Topics include the use of geometric patterns in Islamic art, the influence of non-Euclidean geometry on Cubism, the constrained writing experiments of the Oulipo, and literary works exploring the concept of infinity.
+</end course description for 21-150 Mathematics and the Arts>

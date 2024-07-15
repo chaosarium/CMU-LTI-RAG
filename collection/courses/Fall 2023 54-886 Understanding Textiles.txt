@@ -1,0 +1,16 @@
+<start course metadata for 54-886 Understanding Textiles>
+Semester: Fall 2023 (aka F23)
+Course Name: Understanding Textiles
+Course Number: 54-886
+Department: Drama
+Number of Units: 3
+Prerequisites: None
+Instructors: Hugh Hanson
+Rooms: PCA 308
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-886 Understanding Textiles>
+
+<start course description for 54-886 Understanding Textiles>
+Semester: Fall 2023 (aka F23)
+Course Description: Understanding Textiles is a half-semester introduction to the textiles used for the performing arts.  This course begins with an overview of the historical development of textile technology and the role cloth plays in world economies. Next it examines weaving structures and how they impact suitability for particular applications.  Techniques for identifying fibers, weaves and fabric density are learned.  The course culminates with a project that uses all the explored skills, a fabric in history swatch book.  Each student takes an era of history, researches cloth production at that time, finds period appropriate swatches, accurately identifies them and suggests uses for each.  These individual chapters are combined into a large resource book, a copy of which each participant keeps for future reference.
+</end course description for 54-886 Understanding Textiles>

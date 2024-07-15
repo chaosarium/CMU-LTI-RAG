@@ -1,0 +1,16 @@
+<start course metadata for 57-030 Percussion Studio Performance Class>
+Semester: Fall 2023 (aka F23)
+Course Name: Percussion Studio Performance Class
+Course Number: 57-030
+Department: Music
+Number of Units: 0
+Prerequisites: None
+Instructors: Christopher Allen, Jeremy Branson, Paul Evans
+Rooms: CFA A1
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-030 Percussion Studio Performance Class>
+
+<start course description for 57-030 Percussion Studio Performance Class>
+Semester: Fall 2023 (aka F23)
+Course Description: TBA
+</end course description for 57-030 Percussion Studio Performance Class>

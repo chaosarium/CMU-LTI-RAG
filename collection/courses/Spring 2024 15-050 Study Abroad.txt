@@ -1,0 +1,16 @@
+<start course metadata for 15-050 Study Abroad>
+Semester: Spring 2024 (aka S24)
+Course Name: Study Abroad
+Course Number: 15-050
+Department: Computer Science
+Number of Units: 0
+Prerequisites: None
+Instructors: Mark Stehlik
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-050 Study Abroad>
+
+<start course description for 15-050 Study Abroad>
+Semester: Spring 2024 (aka S24)
+Course Description: Students who are interested in studying abroad should first contact the Office of International Education. More information on Study Abroad is available on OIE's Study Abroad page and at the CS Undergraduate Office.
+</end course description for 15-050 Study Abroad>

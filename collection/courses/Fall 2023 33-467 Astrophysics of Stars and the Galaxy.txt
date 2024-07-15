@@ -1,0 +1,16 @@
+<start course metadata for 33-467 Astrophysics of Stars and the Galaxy>
+Semester: Fall 2023 (aka F23)
+Course Name: Astrophysics of Stars and the Galaxy
+Course Number: 33-467
+Department: Physics
+Number of Units: 9
+Prerequisites: 33-224 and 33-234
+Instructors: Katelyn Breivik
+Rooms: DH 2105
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 33-467 Astrophysics of Stars and the Galaxy>
+
+<start course description for 33-467 Astrophysics of Stars and the Galaxy>
+Semester: Fall 2023 (aka F23)
+Course Description: The physics of stars is introduced from first principles, leading from star formation to nuclear fusion to late stellar evolution and the end points of stars: white dwarfs, neutron stars and black holes. The theory of stellar structure and evolution is elegant and impressively powerful, bringing together all branches of physics to predict the life cycles of the stars. The basic physical processes in the interstellar medium will also be described, and the role of multi-wavelength astronomy will be used to illustrate our understanding of the structure of the Milky Way Galaxy, from the massive black hole at the center to the halo of dark matter which emcompasses it.
+</end course description for 33-467 Astrophysics of Stars and the Galaxy>

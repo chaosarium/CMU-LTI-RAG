@@ -1,0 +1,16 @@
+<start course metadata for 21-901 Master's Degree Research>
+Semester: Spring 2024 (aka S24)
+Course Name: Master's Degree Research
+Course Number: 21-901
+Department: Mathematical Sciences
+Number of Units: N/A
+Prerequisites: None
+Instructors: Amzi Jeffs, Boris Bukh, Clinton Conley, Dejan Slepcev, Gautam Iyer, Giovanni Leoni, Ian Tice, Instructor TBA, Irina Gheorghiciuc, James Cummings, Martin Larsson, Tom Bohman, Tomasz Tkocz
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-901 Master's Degree Research>
+
+<start course description for 21-901 Master's Degree Research>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is for students admitted to the Mathematical Sciences Honors Degree Program.  It allows for students to engage in research activities related to their Master's thesis, under the supervision of their thesis supervisor.  The supervisor should be contacted prior to enrollment in 21-901, as they are required to provide consent for the student's enrollment to the Academic Program Coordinator, who authorizes enrollment in this course.
+</end course description for 21-901 Master's Degree Research>

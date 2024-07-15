@@ -1,0 +1,16 @@
+<start course metadata for 88-281 Topics in Law: 1st Amendment>
+Semester: Fall 2023 (aka F23)
+Course Name: Topics in Law: 1st Amendment
+Course Number: 88-281
+Department: Social & Decision Sciences
+Number of Units: 9
+Prerequisites: None
+Instructors: Mary Jo Miller
+Rooms: PH A18A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 88-281 Topics in Law: 1st Amendment>
+
+<start course description for 88-281 Topics in Law: 1st Amendment>
+Semester: Fall 2023 (aka F23)
+Course Description: In their firm desire to perfect the new Constitution, which defined and limited the powers and roles of their new government, the founding fathers insisted on explicit statements that would protect the rights of the new nation's citizens.   Indeed, the protection of these essential rights in many ways drove and defined their successful rebellion from Britain.  This impulse resulted in ten amendments to the Constitution, which we have come to know as the Bill of Rights.   The very first (and arguably considered at the time as the most essential) of these was the First Amendment, which we sometimes call the "free speech" amendment to the Constitution.  This amendment guarantees every U.S. citizen five freedoms: freedom of religion, speech, press, peaceable assembly, and the freedom to petition the government for redress of grievances.  This course examines the historical and philosophical roots of this key constitutional amendment, how it has been fleshed out and defined over time through case law, and the bases of some more recent critics of this amendments and current interpretations.
+</end course description for 88-281 Topics in Law: 1st Amendment>

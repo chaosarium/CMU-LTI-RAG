@@ -1,0 +1,16 @@
+<start course metadata for 24-214 IDeATe Special Topics: Mazes>
+Semester: Fall 2023 (aka F23)
+Course Name: IDeATe Special Topics: Mazes
+Course Number: 24-214
+Department: Mechanical Engineering
+Number of Units: 9
+Prerequisites: None
+Instructors: Nestor Gomez
+Rooms: HL A10
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-214 IDeATe Special Topics: Mazes>
+
+<start course description for 24-214 IDeATe Special Topics: Mazes>
+Semester: Fall 2023 (aka F23)
+Course Description: Labyrinths have been a part of our culture for millennia, from Greek myths to Renaissance palaces, to childrens pastime. The mental challenge of traversing a maze combines both the intuitive and the systematic processes that delight our human experience. As our society becomes more sedentary, the rebirth of the physical maze can serve as a bridge from the pure mental exercise to increased mobility, especially if they are modernized to become more dynamic, more adaptable, more portable, more modern. This course will allow students to study the history of labyrinths and to discover how to design and build fun, challenging, technically-enhanced, and community-engaging mazes.
+</end course description for 24-214 IDeATe Special Topics: Mazes>

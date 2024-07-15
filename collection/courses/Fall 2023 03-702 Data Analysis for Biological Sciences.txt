@@ -1,0 +1,16 @@
+<start course metadata for 03-702 Data Analysis for Biological Sciences>
+Semester: Fall 2023 (aka F23)
+Course Name: Data Analysis for Biological Sciences
+Course Number: 03-702
+Department: Biological Sciences
+Number of Units: 6
+Prerequisites: 03-701 or 03-708
+Instructors: En Cai
+Rooms: HH B131
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 03-702 Data Analysis for Biological Sciences>
+
+<start course description for 03-702 Data Analysis for Biological Sciences>
+Semester: Fall 2023 (aka F23)
+Course Description: In this course, first-year Ph.D. students in the biological sciences will apply knowledge of statistics and programming to real biological problems and data analysis project.  The course will be organized into four modules, each focusing on a different biological problem domain and type of data to be analyzed. Each of these modules will have a co-lecturer who is an expert in the problem domain and whose data the class will be examining.  This course is appropriate for all incoming biological sciences Ph.D. students who want to apply their knowledge of statistics to their research design and gain a breadth of experience with problems in different domains in biology. The course is also required for MS Quantitative Biology & Bioinformatics students.
+</end course description for 03-702 Data Analysis for Biological Sciences>

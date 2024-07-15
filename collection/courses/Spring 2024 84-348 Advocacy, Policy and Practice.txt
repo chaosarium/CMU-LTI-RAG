@@ -1,0 +1,16 @@
+<start course metadata for 84-348 Advocacy, Policy and Practice>
+Semester: Spring 2024 (aka S24)
+Course Name: Advocacy, Policy and Practice
+Course Number: 84-348
+Department: Institute for Politics and Strategy
+Number of Units: 6
+Prerequisites: None
+Instructors: Beverley Wheeler
+Rooms: MDC 522
+Locations: Washington, District of Columbia:Dulles
+</end course metadata for 84-348 Advocacy, Policy and Practice>
+
+<start course description for 84-348 Advocacy, Policy and Practice>
+Semester: Spring 2024 (aka S24)
+Course Description: This course examines the role that advocacy and advocacy organizations play at all stages of the policymaking and implementation process, from grassroots to professional advocacy organizations, public facing communications initiatives to internal policy-focused actions. Part of the course will focus on the history of advocacy in policy making, and case studies will be used to explore the players, outcomes, and influences of advocates when designing and implementing policy.
+</end course description for 84-348 Advocacy, Policy and Practice>

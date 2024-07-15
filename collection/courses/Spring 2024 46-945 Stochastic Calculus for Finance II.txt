@@ -1,0 +1,16 @@
+<start course metadata for 46-945 Stochastic Calculus for Finance II>
+Semester: Spring 2024 (aka S24)
+Course Name: Stochastic Calculus for Finance II
+Course Number: 46-945
+Department: Business Administration
+Number of Units: 6
+Prerequisites: 46-944
+Instructors: Steven Shreve
+Rooms: BRD 507; TCS 250
+Locations: New York, New York; Pittsburgh, Pennsylvania
+</end course metadata for 46-945 Stochastic Calculus for Finance II>
+
+<start course description for 46-945 Stochastic Calculus for Finance II>
+Semester: Spring 2024 (aka S24)
+Course Description: This course uses stochastic calculus to develop models for equity and fixed income derivatives.  Change of measure is critical in such models, and the course begins with a detailed discussion of that, including the role and limitations of risk-neutral pricing.  The use of forward measures in fixed income models and the change of measure associated with change of currency will be developed.  There is also a discussion of the effect of funding and collateral on the Black-Scholes pricing formula.
+</end course description for 46-945 Stochastic Calculus for Finance II>

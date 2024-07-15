@@ -1,0 +1,16 @@
+<start course metadata for 57-145 Elective Studio (Solfege)>
+Semester: Spring 2024 (aka S24)
+Course Name: Elective Studio (Solfege)
+Course Number: 57-145
+Department: Music
+Number of Units: N/A
+Prerequisites: 57-143
+Instructors: Instructor TBA
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-145 Elective Studio (Solfege)>
+
+<start course description for 57-145 Elective Studio (Solfege)>
+Semester: Spring 2024 (aka S24)
+Course Description: No course description provided.
+</end course description for 57-145 Elective Studio (Solfege)>

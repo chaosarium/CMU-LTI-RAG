@@ -1,0 +1,16 @@
+<start course metadata for 52-291 BXA Seminar II: Transferring Knowledge>
+Semester: Spring 2024 (aka S24)
+Course Name: BXA Seminar II: Transferring Knowledge
+Course Number: 52-291
+Department: BXA Intercollege Degree Programs
+Number of Units: 4
+Prerequisites: None
+Instructors: M. Stephanie Murray
+Rooms: HOA 211F
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 52-291 BXA Seminar II: Transferring Knowledge>
+
+<start course description for 52-291 BXA Seminar II: Transferring Knowledge>
+Semester: Spring 2024 (aka S24)
+Course Description: BXA Seminar II considers how interdisciplinary work can be produced, analyzed, justified andmost importantlycontextualized. By taking a deep dive into a single object or text, we'll explore how context situates the creator, the audience, and their relationship. At the end of the course, students will have a better understanding of how disciplinary methods establish context, and they'll be able to use this understanding to help guide their academic choices.
+</end course description for 52-291 BXA Seminar II: Transferring Knowledge>

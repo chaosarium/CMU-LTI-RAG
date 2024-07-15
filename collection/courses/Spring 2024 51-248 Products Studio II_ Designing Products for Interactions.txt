@@ -1,0 +1,16 @@
+<start course metadata for 51-248 Products Studio II: Designing Products for Interactions>
+Semester: Spring 2024 (aka S24)
+Course Name: Products Studio II: Designing Products for Interactions
+Course Number: 51-248
+Department: Design
+Number of Units: 9
+Prerequisites: 51-245
+Instructors: Sunki Hong
+Rooms: PH A27
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-248 Products Studio II: Designing Products for Interactions>
+
+<start course description for 51-248 Products Studio II: Designing Products for Interactions>
+Semester: Spring 2024 (aka S24)
+Course Description: This course provides essential methodologies for the conceiving, planning, and realization of three dimensional objects and is coordinated with the Prototyping Lab 2 course to provide for an experiential understanding of the relationship between designing and making. From an operational standpoint, this course gives primacy to the material object to probe its characteristics more deeply and to critically explore an object's role as part of the assemblage of interaction and experience. Students will develop three-dimensional visual literacy, emphasizing the relationship between form factors and overall visual/physical impact in service of supporting human interactions. Through a hands-on approach, this course covers the "how" and the "why" of product/object development through the primary lens of "design for interactions."
+</end course description for 51-248 Products Studio II: Designing Products for Interactions>

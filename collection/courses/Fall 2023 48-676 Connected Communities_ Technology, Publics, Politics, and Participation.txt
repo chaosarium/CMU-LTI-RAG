@@ -1,0 +1,16 @@
+<start course metadata for 48-676 Connected Communities: Technology, Publics, Politics, and Participation>
+Semester: Fall 2023 (aka F23)
+Course Name: Connected Communities: Technology, Publics, Politics, and Participation
+Course Number: 48-676
+Department: Architecture
+Number of Units: 6
+Prerequisites: None
+Instructors: Daragh Byrne
+Rooms: MM 409
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-676 Connected Communities: Technology, Publics, Politics, and Participation>
+
+<start course description for 48-676 Connected Communities: Technology, Publics, Politics, and Participation>
+Semester: Fall 2023 (aka F23)
+Course Description: This seminar examines how smart and connected technologies can be designed for neighborhoods, what considerations are involved, and what effects such technologies create for communities. We will introduce and critically examine the relationships between smart systems with the places, infrastructures, histories, politics, publics and problems that surround them. To do this, we will survey topics across research and practice across different domains. These will reveal approaches, methods and design factors to designing systems for communities, as well as the challenges created when computing becomes a non-human participant in communities and publics. The first five weeks of this mini-course will introduce a series of topical readings, cases, guest lectures, case studies, and design exercises. The rest of the course will invite students to investigate topics and contexts of interest to them. By the end of the course, students will be familiar with the socio-technical considerations for designing systems for places and publics.
+</end course description for 48-676 Connected Communities: Technology, Publics, Politics, and Participation>

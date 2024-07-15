@@ -1,0 +1,16 @@
+<start course metadata for 80-211 Logic and Mathematical Inquiry>
+Semester: Fall 2023 (aka F23)
+Course Name: Logic and Mathematical Inquiry
+Course Number: 80-211
+Department: Philosophy
+Number of Units: 9
+Prerequisites: None
+Instructors: Krzysztof Mierzewski
+Rooms: PH 226C
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 80-211 Logic and Mathematical Inquiry>
+
+<start course description for 80-211 Logic and Mathematical Inquiry>
+Semester: Fall 2023 (aka F23)
+Course Description: Since ancient times, mathematical arguments have served as a paradigm for rational inquiry. We will study fundamental mathematical concepts and informal proofs as they occur in everyday mathematics. We will also use the methods of mathematical logic, which provides formal symbolic languages, to help us understand the structure of a mathematical argument. Finally, we will make use of a new computational "proof assistant," called Lean, to develop fully rigorous, machine-checked proofs.
+</end course description for 80-211 Logic and Mathematical Inquiry>

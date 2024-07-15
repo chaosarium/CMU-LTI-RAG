@@ -1,0 +1,16 @@
+<start course metadata for 49-704 iii Seminar Series>
+Semester: Fall 2023 (aka F23)
+Course Name: iii Seminar Series
+Course Number: 49-704
+Department: Integrated Innovation Institute
+Number of Units: 0
+Prerequisites: None
+Instructors: Ellen Ayoob, Emma Wooten
+Rooms: CA 115
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 49-704 iii Seminar Series>
+
+<start course description for 49-704 iii Seminar Series>
+Semester: Fall 2023 (aka F23)
+Course Description: This recurring course meets regularly throughout the fall and spring semester, giving students exposure to a wide array of industry leaders in innovation and product development. Students can expect expert guests to offer a combination of talks, activities, advice, hands-on skill sessions, and general Q&A; sessions to share their expertise  The seminar schedule for each semester is frequently updated and, depending on the guest, may require minor preparation for the session. This is a required course in the MIIPS degree program.
+</end course description for 49-704 iii Seminar Series>

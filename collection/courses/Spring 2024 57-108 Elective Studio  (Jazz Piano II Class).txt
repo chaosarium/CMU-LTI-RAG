@@ -1,0 +1,16 @@
+<start course metadata for 57-108 Elective Studio  (Jazz Piano II Class)>
+Semester: Spring 2024 (aka S24)
+Course Name: Elective Studio  (Jazz Piano II Class)
+Course Number: 57-108
+Department: Music
+Number of Units: 3
+Prerequisites: None
+Instructors: Christopher Capizzi
+Rooms: CFA M160
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-108 Elective Studio  (Jazz Piano II Class)>
+
+<start course description for 57-108 Elective Studio  (Jazz Piano II Class)>
+Semester: Spring 2024 (aka S24)
+Course Description: None
+</end course description for 57-108 Elective Studio  (Jazz Piano II Class)>

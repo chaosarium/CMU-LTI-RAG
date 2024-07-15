@@ -1,0 +1,16 @@
+<start course metadata for 09-302 Undergraduate Seminar IV>
+Semester: Spring 2024 (aka S24)
+Course Name: Undergraduate Seminar IV
+Course Number: 09-302
+Department: Chemistry
+Number of Units: 1
+Prerequisites: None
+Instructors: Karen Stump
+Rooms: DH 2302
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 09-302 Undergraduate Seminar IV>
+
+<start course description for 09-302 Undergraduate Seminar IV>
+Semester: Spring 2024 (aka S24)
+Course Description: Students attend seminars presented by senior chemistry majors. Students provide peer evaluations of the seminars and through the process students become familiar with special topics in chemistry.  The course establishes what should be included in a good seminar. This seminar courses is one of 6 required for the chemistry major. If a schedule conflict exists, students may, with permission of the instructor, attend other chemistry seminars or make other arrangements to fulfill the requirement. 1 hr.
+</end course description for 09-302 Undergraduate Seminar IV>

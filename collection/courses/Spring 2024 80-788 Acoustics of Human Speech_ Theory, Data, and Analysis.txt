@@ -1,0 +1,16 @@
+<start course metadata for 80-788 Acoustics of Human Speech: Theory, Data, and Analysis>
+Semester: Spring 2024 (aka S24)
+Course Name: Acoustics of Human Speech: Theory, Data, and Analysis
+Course Number: 80-788
+Department: Philosophy
+Number of Units: 12
+Prerequisites: None
+Instructors: Christina Bjorndahl
+Rooms: WEH 5312
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 80-788 Acoustics of Human Speech: Theory, Data, and Analysis>
+
+<start course description for 80-788 Acoustics of Human Speech: Theory, Data, and Analysis>
+Semester: Spring 2024 (aka S24)
+Course Description: In this course, students will learn how to acoustically analyse human speech, and in so doing, will learn about both universal and language-particular acoustic characteristics of human speech.  The class, which will comprise both lectures and a lab component, will introduce the basic principles of the physics of sound and how the source spectrum is modified by the vocal tract, but the focus throughout will be towards developing a solid understanding of how to perform the relevant analyses.  Each week will introduce a new topic, chosen to exemplify a particular acoustic phenomenon.  Lectures for that week will provide the theoretical basis for understanding the phenomenon, both in terms of acoustic theory and in articulatory terms.  The lab for that week will provide students with relevant acoustic data to analyse using PRAAT, an open-source software used for acoustic analysis.   Potential topics include: What does it mean to say someone speaks with "vocal fry", and how do we measure this?  Why do children replace [r] with [w]?  How can we compare sounds in two different languages?  For example, what are the acoustic characteristics of [r] and [l] in English and Japanese, such that these sounds count as two different sounds in English, but are so similar in Japanese?  What makes an [s] so noisy compared to an [f]?  What happens to speech sounds when we talk quickly, or when we're sick and our nose is stuffed up?    At the conclusion of the course, students will have a solid understanding of the acoustic characteristics of human speech, both in terms of the underlying theory and how to measure such phenomena.  Further, they will be able to translate questions about speech into measurable acoustic variables.   There is no prerequisite for this course.  While technical material will be covered, no background in linguistics, acoustics, physics, or math is assumed, and all required skills will be taught as needed.
+</end course description for 80-788 Acoustics of Human Speech: Theory, Data, and Analysis>

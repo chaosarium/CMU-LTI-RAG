@@ -1,0 +1,16 @@
+<start course metadata for 19-700 Directed Study in EPP: Graduate>
+Semester: Fall 2023 (aka F23)
+Course Name: Directed Study in EPP: Graduate
+Course Number: 19-700
+Department: Engineering & Public Policy
+Number of Units: N/A
+Prerequisites: None
+Instructors: Deanna Matthews, Nicholas Muller
+Rooms: DNM DNM
+Locations: Lisbon, Portugal; Pittsburgh, Pennsylvania
+</end course metadata for 19-700 Directed Study in EPP: Graduate>
+
+<start course description for 19-700 Directed Study in EPP: Graduate>
+Semester: Fall 2023 (aka F23)
+Course Description: Directed Study in EPP: Graduate
+</end course description for 19-700 Directed Study in EPP: Graduate>

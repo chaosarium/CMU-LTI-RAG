@@ -1,0 +1,16 @@
+<start course metadata for 54-200 Dramaturgy Forum>
+Semester: Spring 2024 (aka S24)
+Course Name: Dramaturgy Forum
+Course Number: 54-200
+Department: Drama
+Number of Units: 1
+Prerequisites: None
+Instructors: Annie Nguyen, Rowan Dunlop, Valerie Nayak
+Rooms: PCA A41
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-200 Dramaturgy Forum>
+
+<start course description for 54-200 Dramaturgy Forum>
+Semester: Spring 2024 (aka S24)
+Course Description: Programmed and taught by senior students in the Dramaturgy program, this course is required for all Dramaturgy majors and meets once per week to discuss issues and topics of significance to the dramaturgy community.
+</end course description for 54-200 Dramaturgy Forum>

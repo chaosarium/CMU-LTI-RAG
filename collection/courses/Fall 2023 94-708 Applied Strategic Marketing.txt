@@ -1,0 +1,16 @@
+<start course metadata for 94-708 Applied Strategic Marketing>
+Semester: Fall 2023 (aka F23)
+Course Name: Applied Strategic Marketing
+Course Number: 94-708
+Department: Heinz College Wide Courses
+Number of Units: 6
+Prerequisites: None
+Instructors: Ari Lightman
+Rooms: HBH 1204
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 94-708 Applied Strategic Marketing>
+
+<start course description for 94-708 Applied Strategic Marketing>
+Semester: Fall 2023 (aka F23)
+Course Description: Marketing is going through a radical shift from traditional to digital, broadcast to hyper targeted, internally focused to collaborative across the extended organization.  In addition, we are seeing a dramatic shift from a concentration on products and services driven through sales to focusing on customer experience and engagement.  Historically, marketing decisions were based on intuition, anecdotal information, company capacity and what has worked in the past.  John Wanamaker, a successful United States merchant who opened one of the first and most successful department stores in the United States, which grew to 16 stores and eventually became part of Macy's, coined the term - "Half the money I spend on advertising is wasted; the trouble is I don't know which half". Dramatic shifts in the marketspace have resulted in changes in consumption, shocks to the supply chain and changes in how organization engage and interact with consumers.  In addition, disruption patterns result in fragmentation threatening market share especially for incumbents. Marketing is increasingly being called on to assess organizational strategies to deal with these shifts.  With an increasingly digitized society, data has allowed marketers to assess different channels for interaction, monitor the customer journey and measure interaction, brand awareness and consumer sentiment.  Marketers are looking to develop individualized consumer experiences which is predicated on data as well as revising processes and interaction across the extended enterprise.  Anticipation, resiliency and adaption to these evolving industry dynamics, shocks to the system and changing consumer expectations, is key for staying relevant and being able to take advantages of opportunities as they present themselves.   This class is designed to provide students basics of modern marketing but more importantly how they are applied in today's environment.
+</end course description for 94-708 Applied Strategic Marketing>

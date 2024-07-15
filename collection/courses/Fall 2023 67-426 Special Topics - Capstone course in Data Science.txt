@@ -1,0 +1,16 @@
+<start course metadata for 67-426 Special Topics - Capstone course in Data Science>
+Semester: Fall 2023 (aka F23)
+Course Name: Special Topics - Capstone course in Data Science
+Course Number: 67-426
+Department: Information Systems Program
+Number of Units: 9
+Prerequisites: None
+Instructors: Houda Bouamor
+Rooms: CMB 3048
+Locations: Doha, Qatar
+</end course metadata for 67-426 Special Topics - Capstone course in Data Science>
+
+<start course description for 67-426 Special Topics - Capstone course in Data Science>
+Semester: Fall 2023 (aka F23)
+Course Description: TBA
+</end course description for 67-426 Special Topics - Capstone course in Data Science>

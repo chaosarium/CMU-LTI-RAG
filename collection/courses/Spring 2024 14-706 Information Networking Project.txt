@@ -1,0 +1,16 @@
+<start course metadata for 14-706 Information Networking Project>
+Semester: Spring 2024 (aka S24)
+Course Name: Information Networking Project
+Course Number: 14-706
+Department: Information Networking Institute
+Number of Units: N/A
+Prerequisites: None
+Instructors: Dena Tsamitis
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 14-706 Information Networking Project>
+
+<start course description for 14-706 Information Networking Project>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is for INI students who are defending their development-based project and submitting a technical report.  Enrollment requires special permission, therefore, the INI Academic Affairs Office will register those who should be.
+</end course description for 14-706 Information Networking Project>

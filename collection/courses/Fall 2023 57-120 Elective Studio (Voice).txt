@@ -1,0 +1,16 @@
+<start course metadata for 57-120 Elective Studio (Voice)>
+Semester: Fall 2023 (aka F23)
+Course Name: Elective Studio (Voice)
+Course Number: 57-120
+Department: Music
+Number of Units: N/A
+Prerequisites: None
+Instructors: Daniel Teadt, Elizabeth Lawrence, Giovanna Reyes-Mir, Instructor TBA, Jennifer Aylmer, Maria Abreu, Richard Teaster
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-120 Elective Studio (Voice)>
+
+<start course description for 57-120 Elective Studio (Voice)>
+Semester: Fall 2023 (aka F23)
+Course Description: Private lessons for non-music majors on orchestral instruments, voice, keyboard, guitar, Alexander Technique, jazz improvisation, composition, and bagpipes.  An appropriate fee will be charged according to length of lesson.  Practice facilities and instrument ownership are the responsibility of the student.  Instructor permission required.
+</end course description for 57-120 Elective Studio (Voice)>

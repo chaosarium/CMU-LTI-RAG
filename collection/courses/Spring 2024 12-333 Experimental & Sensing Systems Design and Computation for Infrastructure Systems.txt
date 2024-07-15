@@ -1,0 +1,16 @@
+<start course metadata for 12-333 Experimental & Sensing Systems Design and Computation for Infrastructure Systems>
+Semester: Spring 2024 (aka S24)
+Course Name: Experimental & Sensing Systems Design and Computation for Infrastructure Systems
+Course Number: 12-333
+Department: Civil & Environmental Engineering
+Number of Units: 4
+Prerequisites: 12-356
+Instructors: Fethiye Ozis
+Rooms: PH 107E
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 12-333 Experimental & Sensing Systems Design and Computation for Infrastructure Systems>
+
+<start course description for 12-333 Experimental & Sensing Systems Design and Computation for Infrastructure Systems>
+Semester: Spring 2024 (aka S24)
+Course Description: Civil and environmental engineers must decide what information they need to collect, how to collect it, how to analyze the data and how to use that data to develop solutions for a changing world. Data are often incorporated into computational models to gain further insight and understanding of the problem and potential solutions. In this course, students will learn and develop different approaches to solve problems like field testing, laboratory experimentation, computer simulation, and data analytics. Students will design their own testing protocols and develop computer models to simulate situations that are difficult or expensive to sense in the real-world. Pre- and post-laboratory assignments or reports will be completed to document plans and to present an analysis of results.
+</end course description for 12-333 Experimental & Sensing Systems Design and Computation for Infrastructure Systems>

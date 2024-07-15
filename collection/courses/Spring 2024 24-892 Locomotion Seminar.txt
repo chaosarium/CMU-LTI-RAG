@@ -1,0 +1,16 @@
+<start course metadata for 24-892 Locomotion Seminar>
+Semester: Spring 2024 (aka S24)
+Course Name: Locomotion Seminar
+Course Number: 24-892
+Department: Mechanical Engineering
+Number of Units: 0
+Prerequisites: None
+Instructors: Aaron Johnson
+Rooms: WEH 4623
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-892 Locomotion Seminar>
+
+<start course description for 24-892 Locomotion Seminar>
+Semester: Spring 2024 (aka S24)
+Course Description: The CMU Bipedal Locomotion Seminar is a weekly meeting amongst students  and professors who study bipedal locomotion using a variety of approaches.  Each week, one graduate student participant gives a presentation on a topic of  their choosing related to their research. We encourage discussion and  interaction, especially from fellow students. Each meeting is intended to work  like a small, informal conference discussion or workshop, providing students  with new perspectives on their projects, practice presenting and answering  questions, and a forum for meeting colleagues. We encourage participation  from all interested students and faculty, including members of Carnegie Mellon,  The University of Pittsburgh, and Disney Research Pittsburgh. Please join the waitlist and contact one of the instructors for admission.
+</end course description for 24-892 Locomotion Seminar>

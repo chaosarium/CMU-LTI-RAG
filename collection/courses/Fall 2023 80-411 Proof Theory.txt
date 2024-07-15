@@ -1,0 +1,16 @@
+<start course metadata for 80-411 Proof Theory>
+Semester: Fall 2023 (aka F23)
+Course Name: Proof Theory
+Course Number: 80-411
+Department: Philosophy
+Number of Units: 9
+Prerequisites: 21-300 or 80-310 or 80-311
+Instructors: Jeremy Avigad
+Rooms: PH 226C
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 80-411 Proof Theory>
+
+<start course description for 80-411 Proof Theory>
+Semester: Fall 2023 (aka F23)
+Course Description: An introduction to the general study of deductive systems and their properties. Topics include the natural deduction and sequent calculi; cut-elimination and normalization theorems; metamathematical properties of first-order logic and theories of arithmetic; and conservation theorems.
+</end course description for 80-411 Proof Theory>

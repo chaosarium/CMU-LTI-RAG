@@ -1,0 +1,16 @@
+<start course metadata for 45-700 Financial and Managerial Accounting I>
+Semester: Fall 2023 (aka F23)
+Course Name: Financial and Managerial Accounting I
+Course Number: 45-700
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Austin Sudbury
+Rooms: TEP 2202
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-700 Financial and Managerial Accounting I>
+
+<start course description for 45-700 Financial and Managerial Accounting I>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is the first of two required accounting courses designed to lay the accounting foundation necessary for any MBA students.  Accounting is critical because accounting statements are the most common way of communication inside and outside a business entity. This first course introduces students to (1) corporate financial statements and (2) basic cost concepts and its uses. By the end of the course, you will have an improved ability to analyze the information content of financial and managerial accounting statements for decision making. To meet this broad objective, you will develop an analytic framework of how accounting statements inform about the underlying operating, investing, and financing activities, grasp the key accounting concepts that underlie common reporting practices, and understand the way in which accounting measures are sensitive to variations in estimates, methods and possible manipulation. The course divides naturally into three related parts. The first introduces the basic bookkeeping model, including the concepts, definitions, and relationships required for a fundamental understanding of the process that produces the balance sheet, income statement, and cash flow statement.  The second part introduces basic concepts of economic and accounting costs and their use in short-term decisions faced by managers. The third part considers in more detail  measurement and disclosure issues that are associated with assets, liabilities and equities shown in financial statements.
+</end course description for 45-700 Financial and Managerial Accounting I>

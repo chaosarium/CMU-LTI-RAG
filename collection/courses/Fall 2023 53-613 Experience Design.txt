@@ -1,0 +1,16 @@
+<start course metadata for 53-613 Experience Design>
+Semester: Fall 2023 (aka F23)
+Course Name: Experience Design
+Course Number: 53-613
+Department: Entertainment Technology
+Number of Units: 12
+Prerequisites: None
+Instructors: Ruth Comley
+Rooms: PTC 5208
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 53-613 Experience Design>
+
+<start course description for 53-613 Experience Design>
+Semester: Fall 2023 (aka F23)
+Course Description: Experience Design is intended to give Location Based Entertainment (LBE) students knowledge and experience within the realm of designing interactive user based experiences. This hands-on-class will develop experiences within pre-built themed sets to allow the projects to explore the realm of user experience, storytelling, and lighting without having to build physical environments. Hardware and tools knowledge will also be gained through these projects. The class has a regular meeting time that allows for lectures and workshops on specific theories, principles, and tools related to the field of study. Students then work individually or within teams on specific theme based projects to explore concepts covered in class.
+</end course description for 53-613 Experience Design>

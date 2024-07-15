@@ -1,0 +1,16 @@
+<start course metadata for 79-800 Readings>
+Semester: Fall 2023 (aka F23)
+Course Name: Readings
+Course Number: 79-800
+Department: History
+Number of Units: N/A
+Prerequisites: None
+Instructors: Abigail Owen, Allyson Creasman, Benno Weiner, Christopher Phillips, Donna Harsch, Edda Fields-Black, Edmund Russell, Emanuela Grama, Instructor TBA, Jay Aronson, Joe Trotter, John Soluri, Lisa Tetrault, Michal Friedman, Nico Slate, Paul Eiss, Scott Sandage, Steven Schlossman, Wendy Goldman
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 79-800 Readings>
+
+<start course description for 79-800 Readings>
+Semester: Fall 2023 (aka F23)
+Course Description: None
+</end course description for 79-800 Readings>

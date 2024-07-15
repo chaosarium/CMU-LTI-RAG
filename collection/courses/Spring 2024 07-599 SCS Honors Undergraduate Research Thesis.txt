@@ -1,0 +1,16 @@
+<start course metadata for 07-599 SCS Honors Undergraduate Research Thesis>
+Semester: Spring 2024 (aka S24)
+Course Name: SCS Honors Undergraduate Research Thesis
+Course Number: 07-599
+Department: SCS Interdisciplinary
+Number of Units: N/A
+Prerequisites: None
+Instructors: Giselle Reis, Ryan Riley, Thomas Cortina
+Rooms: DNM DNM
+Locations: Doha, Qatar; Pittsburgh, Pennsylvania
+</end course metadata for 07-599 SCS Honors Undergraduate Research Thesis>
+
+<start course description for 07-599 SCS Honors Undergraduate Research Thesis>
+Semester: Spring 2024 (aka S24)
+Course Description: Available only to students registered in the CS Senior Research Thesis Program.
+</end course description for 07-599 SCS Honors Undergraduate Research Thesis>

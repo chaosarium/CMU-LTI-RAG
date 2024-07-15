@@ -1,0 +1,16 @@
+<start course metadata for 03-401 Undergraduate Colloquium for Seniors>
+Semester: Fall 2023 (aka F23)
+Course Name: Undergraduate Colloquium for Seniors
+Course Number: 03-401
+Department: Biological Sciences
+Number of Units: N/A
+Prerequisites: None
+Instructors: Amanda Willard
+Rooms: GHC 4307
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 03-401 Undergraduate Colloquium for Seniors>
+
+<start course description for 03-401 Undergraduate Colloquium for Seniors>
+Semester: Fall 2023 (aka F23)
+Course Description: The purpose of this seminar series is to update biology undergraduates about university and departmental functions, seminars, etc. that are pertinent or useful. In addition, research talks by faculty and undergraduates will be used to introduce students to the research being conducted in faculty laboratories. Additional topics may include graduate and medical school applications, career options, topics in the press, and important scientific discoveries.
+</end course description for 03-401 Undergraduate Colloquium for Seniors>

@@ -1,0 +1,16 @@
+<start course metadata for 21-260 Differential Equations>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Differential Equations
+Course Number: 21-260
+Department: Mathematical Sciences
+Number of Units: 9
+Prerequisites: 21-122
+Instructors: David Handron
+Rooms: HH B103
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-260 Differential Equations>
+
+<start course description for 21-260 Differential Equations>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: Ordinary differential equations: first and second order equations, applications, Laplace transforms; partial differential equations: partial derivatives, separation of variables, Fourier series; systems of ordinary differential equations; applications. 21-259 or 21-268 or 21-269 are recommended. 3 hrs. lec., 1 hr. rec.
+</end course description for 21-260 Differential Equations>

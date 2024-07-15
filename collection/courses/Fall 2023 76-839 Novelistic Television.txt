@@ -1,0 +1,16 @@
+<start course metadata for 76-839 Novelistic Television>
+Semester: Fall 2023 (aka F23)
+Course Name: Novelistic Television
+Course Number: 76-839
+Department: English
+Number of Units: N/A
+Prerequisites: None
+Instructors: David Shumway
+Rooms: BH 255B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 76-839 Novelistic Television>
+
+<start course description for 76-839 Novelistic Television>
+Semester: Fall 2023 (aka F23)
+Course Description: Topics vary by semester. Fall 2023: Novelistic Television: In this course we will look at television series defined by narrative complexity developed over the course of a season and beyond.  We will watch whole seasons of such shows as The Sopranos, Mad Men, The Wire, Six Feet Under, and Slings and Arrows, which bear greater similarity to the novel than to traditional, episodic TV. We will trace the development of the novelistic form of television from the first wave of "quality television" series in the 1990s, in which HBO changed the way people conceived of the artistic possibilities of the medium, through the 2000s, when The Wire and Mad Men fully exploited the new form, and finally into the streaming era, when it has become common but less innovative. We will read media history and theory, and narrative theory to develop an understanding how and why the new form emerged. We will endeavor to understand these shows as expressions of and commentaries on the social and political conditions under which they were produced.  We may read a novel or two for purposes formal comparison, and we will watch some episodes of more traditional TV series.  Likely theorists include Raymond Williams, Linda Williams, Jason Mittell, Pierre Bourdieu, and Fredric Jameson.
+</end course description for 76-839 Novelistic Television>

@@ -1,0 +1,16 @@
+<start course metadata for 90-804 Media & Communication Design II>
+Semester: Spring 2024 (aka S24)
+Course Name: Media & Communication Design II
+Course Number: 90-804
+Department: Public Policy & Mgt:Sch of Pub Pol & Mgt
+Number of Units: 6
+Prerequisites: None
+Instructors: Gary Franko
+Rooms: WEH 5201
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 90-804 Media & Communication Design II>
+
+<start course description for 90-804 Media & Communication Design II>
+Semester: Spring 2024 (aka S24)
+Course Description: This course builds on the Media & Communication Design I class. In the Media & Communication Design II class we focused on print design, in the Media & Communication Design II class we will expand to infographic design, audio, animation and video. We will explore Adobe Illustrator to create info graphics. We will be using Adobe Audition to create a podcast, Adobe After Effects CC to create animations and Apple Final Cut Pro/Adobe Premiere to create videos. The goal of this course is produce professional materials using type, color, illustrations, images, sound, animation and video. These materials will be able to engage and influence your target audience. This course will teach a combination of media design skills and software skills. Throughout the course students will learn the skills of the following applications:  Adobe Illustrator CC  Apple Final Cut Pro  Adobe Audition  Adobe Premiere  Adobe After Effects CC. Each of the above software programs will have one project/assignment that will be completed by the student. These applications are available in the classroom as well as several public clusters. While the class offers a jump-start to these applications, students are expected to explore the higher level features on their own. Another resource is the Internet - which offers a wealth of tips and techniques for these applications.  Prerequisite: Desktop Publishing 90-801
+</end course description for 90-804 Media & Communication Design II>

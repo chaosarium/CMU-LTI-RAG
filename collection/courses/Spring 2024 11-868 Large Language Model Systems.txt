@@ -1,0 +1,16 @@
+<start course metadata for 11-868 Large Language Model Systems>
+Semester: Spring 2024 (aka S24)
+Course Name: Large Language Model Systems
+Course Number: 11-868
+Department: Language Technologies Institute
+Number of Units: 12
+Prerequisites: 11-785 and 11-711
+Instructors: Lei Li
+Rooms: POS A35
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 11-868 Large Language Model Systems>
+
+<start course description for 11-868 Large Language Model Systems>
+Semester: Spring 2024 (aka S24)
+Course Description: Recent progress of Artificial Intelligence has been largely driven by advances in large language models (LLMs) and other generative methods. These models are often very large (e.g. 175 billion parameters for GPT3) and requires increasingly larger data to train (e.g. 300 billion tokens for ChatGPT). Training, serving, fine-tuning, and evaluating LLMs require sophisticated engineering with modern hardware and software stacks. Developing scalable systems for large language models is critical to advance AI.  In this course, students will learn the essential skills to design and implement LLM systems. This includes algorithms and system techniques to efficiently train LLMs with huge data, efficient embedding storage and retrieval, data efficient fine-tuning, communication efficient algorithms, efficient implementation of reinforcement learning with human feedback, acceleration on GPU and other hardware, model compression for deployment, and online maintenance. We will cover the latest advances about LLM systems in machine learning, natural language processing, and system research.
+</end course description for 11-868 Large Language Model Systems>

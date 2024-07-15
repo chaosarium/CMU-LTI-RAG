@@ -1,0 +1,16 @@
+<start course metadata for 39-610 Energy Conversion and Supply>
+Semester: Fall 2023 (aka F23)
+Course Name: Energy Conversion and Supply
+Course Number: 39-610
+Department: CIT Interdisciplinary
+Number of Units: 6
+Prerequisites: None
+Instructors: Paul Salvador
+Rooms: GHC 4102
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 39-610 Energy Conversion and Supply>
+
+<start course description for 39-610 Energy Conversion and Supply>
+Semester: Fall 2023 (aka F23)
+Course Description: This is the first course in the ESTP core mini-course sequence where master?s students learn the basic workings of the systems that supply, distribute, and utilize energy. This class will consider fossil energy, nuclear energy, and renewable energy resources. The course will provide some basic thermodynamics and will cover both conventional and emerging energy conversion technologies. Specific technology examples may vary from semester to semester selected from such important topics as photovoltaics, fuel cells, carbon sequestration and biofuels.
+</end course description for 39-610 Energy Conversion and Supply>

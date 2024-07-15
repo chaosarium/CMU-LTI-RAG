@@ -1,0 +1,6 @@
+publication venue: Annual Meeting of the Association for Computational Linguistics
+title: Towards Open-Domain Twitter User Profile Inference
+authors: Haoyang Wen, Zhenxin Xiao, E. Hovy, Alexander Hauptmann
+year: 2023
+tldr: None
+abstract: ,

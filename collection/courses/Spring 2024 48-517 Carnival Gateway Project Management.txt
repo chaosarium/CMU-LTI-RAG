@@ -1,0 +1,16 @@
+<start course metadata for 48-517 Carnival Gateway Project Management>
+Semester: Spring 2024 (aka S24)
+Course Name: Carnival Gateway Project Management
+Course Number: 48-517
+Department: Architecture
+Number of Units: N/A
+Prerequisites: None
+Instructors: Omar Khan, Vicky Achnani
+Rooms: CFA 206A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-517 Carnival Gateway Project Management>
+
+<start course description for 48-517 Carnival Gateway Project Management>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is for the team responsible or the design and project management of the Carnival Entryway Pavilion, to be completed for the 2023 CMU Carnival, April 13-15.  The course is conducted by NOMAS and advised by Professor Vicky Achnani.
+</end course description for 48-517 Carnival Gateway Project Management>

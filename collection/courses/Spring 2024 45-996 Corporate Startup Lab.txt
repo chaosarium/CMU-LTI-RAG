@@ -1,0 +1,16 @@
+<start course metadata for 45-996 Corporate Startup Lab>
+Semester: Spring 2024 (aka S24)
+Course Name: Corporate Startup Lab
+Course Number: 45-996
+Department: Business Administration
+Number of Units: 12
+Prerequisites: None
+Instructors: Jim Jen, Melissa Murphy
+Rooms: TEP 2110; TEP 2111
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-996 Corporate Startup Lab>
+
+<start course description for 45-996 Corporate Startup Lab>
+Semester: Spring 2024 (aka S24)
+Course Description: Course Description In this course, teams of students (formed by the instructors) will be assigned to one client organization. Each of these organizations is an established company that's looking to start new businesses and be more entrepreneurial. Each of them will have some idea for a business they might want to start. Your mission as a team: become entrepreneurs and advance that idea as far as you can.   Take your idea and run with it. Make it more specific. Look at different versions of it. Talk to potential customers and key partners. Look at the market, at competitors, and at substitutes. Figure out what assumptions need to be true for the business idea to succeed, then design little experiments (which we'll call Minimally Awesome Products, aka Minimally Viable Products) to find out how accurate those assumptions are.   Throughout the course, we'll give you tools to help you do that. You'll apply tools to help think about the moving parts of the business idea, to help clarify the boundaries and advantages of the idea, and to help look at the idea from different perspectives and communicate with a variety of stakeholders who may have those perspectives.
+</end course description for 45-996 Corporate Startup Lab>

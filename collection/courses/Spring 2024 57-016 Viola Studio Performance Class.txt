@@ -1,0 +1,16 @@
+<start course metadata for 57-016 Viola Studio Performance Class>
+Semester: Spring 2024 (aka S24)
+Course Name: Viola Studio Performance Class
+Course Number: 57-016
+Department: Music
+Number of Units: 0
+Prerequisites: None
+Instructors: David Harding
+Rooms: CFA KRESGE; HOA 226
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-016 Viola Studio Performance Class>
+
+<start course description for 57-016 Viola Studio Performance Class>
+Semester: Spring 2024 (aka S24)
+Course Description: TBA
+</end course description for 57-016 Viola Studio Performance Class>

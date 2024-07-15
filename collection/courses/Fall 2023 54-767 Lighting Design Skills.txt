@@ -1,0 +1,16 @@
+<start course metadata for 54-767 Lighting Design Skills>
+Semester: Fall 2023 (aka F23)
+Course Name: Lighting Design Skills
+Course Number: 54-767
+Department: Drama
+Number of Units: 6
+Prerequisites: None
+Instructors: Robert Thomson
+Rooms: PCA 211
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-767 Lighting Design Skills>
+
+<start course description for 54-767 Lighting Design Skills>
+Semester: Fall 2023 (aka F23)
+Course Description: Students will concentrate on developing the skills necessary for lighting designers to successfully implement their designs in the theatre. Content includes communication, CAD programs, paperwork, focusing the show, programming conventional and moving light consoles, cue writing and expectations and responsibilities of the design assistant.  Corequisite: 54751
+</end course description for 54-767 Lighting Design Skills>

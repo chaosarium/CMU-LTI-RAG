@@ -1,0 +1,16 @@
+<start course metadata for 54-826 Seminar in Costume Management>
+Semester: Fall 2023 (aka F23)
+Course Name: Seminar in Costume Management
+Course Number: 54-826
+Department: Drama
+Number of Units: 4
+Prerequisites: None
+Instructors: Tiia Lager
+Rooms: PCA 305
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-826 Seminar in Costume Management>
+
+<start course description for 54-826 Seminar in Costume Management>
+Semester: Fall 2023 (aka F23)
+Course Description: This mini course focuses on the fundamentals of organizational paperwork surrounding costume production and basic operational protocol.  The evolution of this paperwork and its usefulness in multiple professional applications is covered.
+</end course description for 54-826 Seminar in Costume Management>

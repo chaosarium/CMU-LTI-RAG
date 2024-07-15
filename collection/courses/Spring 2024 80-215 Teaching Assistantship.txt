@@ -1,0 +1,16 @@
+<start course metadata for 80-215 Teaching Assistantship>
+Semester: Spring 2024 (aka S24)
+Course Name: Teaching Assistantship
+Course Number: 80-215
+Department: Philosophy
+Number of Units: N/A
+Prerequisites: None
+Instructors: Joel Smith
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 80-215 Teaching Assistantship>
+
+<start course description for 80-215 Teaching Assistantship>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is designed for students doing an unpaid teaching assistantship in the Department of Philosophy.
+</end course description for 80-215 Teaching Assistantship>

@@ -1,0 +1,16 @@
+<start course metadata for 94-808 Management Consulting>
+Semester: Spring 2024 (aka S24)
+Course Name: Management Consulting
+Course Number: 94-808
+Department: Heinz College Wide Courses
+Number of Units: 12
+Prerequisites: None
+Instructors: Chris Brussalis
+Rooms: HBH 1005
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 94-808 Management Consulting>
+
+<start course description for 94-808 Management Consulting>
+Semester: Spring 2024 (aka S24)
+Course Description: This is an applications course exploring the profession of management consulting and the art and science of providing management counsel to organizations in the public and private sectors. The course is designed to provide a framework for collaborating with organizations to solve problems and to execute projects efficiently and effectively. Students will explore and utilize practical tools that will enable them to solve problems and execute projects as external or internal consultants or as individual contributors or leaders within organizations. The course introduces frameworks as well as quantitative and qualitative methods that are typically used in management consulting.
+</end course description for 94-808 Management Consulting>

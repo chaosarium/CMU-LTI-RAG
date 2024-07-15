@@ -1,0 +1,16 @@
+<start course metadata for 67-306 Management of Computer and Information Systems>
+Semester: Spring 2024 (aka S24)
+Course Name: Management of Computer and Information Systems
+Course Number: 67-306
+Department: Information Systems Program
+Number of Units: 6
+Prerequisites: None
+Instructors: Christopher Kowalsky
+Rooms: WEH 5302
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 67-306 Management of Computer and Information Systems>
+
+<start course description for 67-306 Management of Computer and Information Systems>
+Semester: Spring 2024 (aka S24)
+Course Description: The course provides the overall knowledge of how Information Technology departments are managed in organizations of all sizes. It is about the technology people, the necessary best practice processes, and how innovation occurs transforming organizations in the way they operate and compete.
+</end course description for 67-306 Management of Computer and Information Systems>

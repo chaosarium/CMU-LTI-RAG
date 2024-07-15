@@ -1,0 +1,16 @@
+<start course metadata for 82-111 Elementary Arabic I>
+Semester: Fall 2023 (aka F23)
+Course Name: Elementary Arabic I
+Course Number: 82-111
+Department: Modern Languages
+Number of Units: 12
+Prerequisites: None
+Instructors: Nevine Abraham, Seth McCombie
+Rooms: PH 125C; PH A19C; PH A19D
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 82-111 Elementary Arabic I>
+
+<start course description for 82-111 Elementary Arabic I>
+Semester: Fall 2023 (aka F23)
+Course Description: This course introduces learners to Modern Standard Arabic (MSA) in its written and spoken forms to achieve communicative competence at the elementary level in all language skills (listening, speaking, reading, and writing). To this end the course follows a proficiency-oriented approach to language teaching. In addition to MSA, the course introduces students to one of the popular spoken dialects in the Arab world such as Egyptian, Levantine, or Moroccan (depending upon the instructor's background/expertise). Students will also study various cultural aspects of the Arab world through written, audio-visual and online-based materials.  Students with prior knowledge of Arabic must take the placement exam.
+</end course description for 82-111 Elementary Arabic I>

@@ -1,0 +1,16 @@
+<start course metadata for 17-735 Engineering Privacy in Software>
+Semester: Spring 2024 (aka S24)
+Course Name: Engineering Privacy in Software
+Course Number: 17-735
+Department: Software & Societal Systems
+Number of Units: 12
+Prerequisites: None
+Instructors: Hana Habib
+Rooms: DNM DNM; POS 146
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 17-735 Engineering Privacy in Software>
+
+<start course description for 17-735 Engineering Privacy in Software>
+Semester: Spring 2024 (aka S24)
+Course Description: Privacy harms that involve personal data can often be traced back to software design failures, which can be prevented through sound engineering practices. In this course, students will learn how to identify privacy threats due to surveillance activities that enhance modern information systems, including location tracking, behavioral profiling, recommender systems, and social networking. Students will learn to analyze systems to identify the core operating principles and technical means that introduce privacy threats, and they will learn to evaluate and mitigate privacy risks to individuals by investigating system design alternatives. Strategies to mitigating privacy risk will be based on emerging standards and reliable privacy preference data. Students will have the opportunity to study web-, mobile- and cyber-physical systems across a range of domains, including advertising, healthcare, law enforcement and social networking. In addition, students will know how, and when, to interface with relevant stakeholders, including legal, marketing and other developers in order to align software design with privacy policy and law.
+</end course description for 17-735 Engineering Privacy in Software>

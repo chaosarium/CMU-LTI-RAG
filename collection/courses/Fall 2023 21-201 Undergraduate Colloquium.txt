@@ -1,0 +1,16 @@
+<start course metadata for 21-201 Undergraduate Colloquium>
+Semester: Fall 2023 (aka F23)
+Course Name: Undergraduate Colloquium
+Course Number: 21-201
+Department: Mathematical Sciences
+Number of Units: 1
+Prerequisites: None
+Instructors: Jason Howell
+Rooms: MM A14
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-201 Undergraduate Colloquium>
+
+<start course description for 21-201 Undergraduate Colloquium>
+Semester: Fall 2023 (aka F23)
+Course Description: The purpose of this course is to introduce math majors to the different degree programs in Mathematical Sciences, and to inform math majors about relevant topics such as advising, math courses, graduate schools, and typical career paths in the mathematical sciences. The Career and Professional Development Center will present modules on professional communication, developing interview and networking skills, and preparing for career fairs.  (One 50 minute session)
+</end course description for 21-201 Undergraduate Colloquium>

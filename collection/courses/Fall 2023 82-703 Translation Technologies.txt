@@ -1,0 +1,16 @@
+<start course metadata for 82-703 Translation Technologies>
+Semester: Fall 2023 (aka F23)
+Course Name: Translation Technologies
+Course Number: 82-703
+Department: Modern Languages
+Number of Units: N/A
+Prerequisites: None
+Instructors: Mary Jayne McCullough
+Rooms: PH A19C
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 82-703 Translation Technologies>
+
+<start course description for 82-703 Translation Technologies>
+Semester: Fall 2023 (aka F23)
+Course Description: TBD
+</end course description for 82-703 Translation Technologies>

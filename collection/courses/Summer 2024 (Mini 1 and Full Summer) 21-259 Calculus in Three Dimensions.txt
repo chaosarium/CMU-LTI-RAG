@@ -1,0 +1,16 @@
+<start course metadata for 21-259 Calculus in Three Dimensions>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Calculus in Three Dimensions
+Course Number: 21-259
+Department: Mathematical Sciences
+Number of Units: 10
+Prerequisites: 21-122
+Instructors: Gregory Johnson
+Rooms: DH 1212
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-259 Calculus in Three Dimensions>
+
+<start course description for 21-259 Calculus in Three Dimensions>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: Vectors, lines, planes, quadratic surfaces, polar, cylindrical and spherical coordinates, partial derivatives, directional derivatives, gradient, divergence, curl, chain rule, maximum-minimum problems, multiple integrals, parametric surfaces and curves, line integrals, surface integrals, Green-Gauss theorems. 3 hrs. lec., 1 hr. rec.
+</end course description for 21-259 Calculus in Three Dimensions>

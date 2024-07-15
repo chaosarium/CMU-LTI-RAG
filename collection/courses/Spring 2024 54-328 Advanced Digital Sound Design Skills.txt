@@ -1,0 +1,16 @@
+<start course metadata for 54-328 Advanced Digital Sound Design Skills>
+Semester: Spring 2024 (aka S24)
+Course Name: Advanced Digital Sound Design Skills
+Course Number: 54-328
+Department: Drama
+Number of Units: 9
+Prerequisites: 54-267
+Instructors: Joe Pino
+Rooms: PCA 210
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-328 Advanced Digital Sound Design Skills>
+
+<start course description for 54-328 Advanced Digital Sound Design Skills>
+Semester: Spring 2024 (aka S24)
+Course Description: Sound Design Majors ONLY. Advanced sound creation and manipulation through student designed and constructed software and hardware. Prerequisite: Conceptual Sound Design I.
+</end course description for 54-328 Advanced Digital Sound Design Skills>

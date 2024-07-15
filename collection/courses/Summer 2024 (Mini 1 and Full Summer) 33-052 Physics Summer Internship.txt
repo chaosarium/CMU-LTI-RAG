@@ -1,0 +1,16 @@
+<start course metadata for 33-052 Physics Summer Internship>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Physics Summer Internship
+Course Number: 33-052
+Department: Physics
+Number of Units: 3
+Prerequisites: None
+Instructors: Gillian Ryan
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 33-052 Physics Summer Internship>
+
+<start course description for 33-052 Physics Summer Internship>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: The Department of Physics considers experiential learning opportunities important educational options for its undergraduate students. One such option is a summer internship. Students do not need to officially register for an internship unless they want it listed on their official transcripts. The Director of Undergraduate Affairs (or designee) will add the course to the student's schedule, and the student will be assessed tuition for 3 units. Upon completion of the internship, students must submit a 1-2 page report on their work experience to the Director of Undergraduate Affairs (or other designated faculty member). Verification by the internship supervisor must be received prior to a grade being awarded. After the reports have been reviewed and approved, and verification received, a "P" grade will be assigned. Special permission of Instructor is required to register for this course.
+</end course description for 33-052 Physics Summer Internship>

@@ -1,0 +1,16 @@
+<start course metadata for 94-706 Healthcare Information Systems>
+Semester: Spring 2024 (aka S24)
+Course Name: Healthcare Information Systems
+Course Number: 94-706
+Department: Heinz College Wide Courses
+Number of Units: 12
+Prerequisites: None
+Instructors: Rema Padman
+Rooms: HBH 1005
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 94-706 Healthcare Information Systems>
+
+<start course description for 94-706 Healthcare Information Systems>
+Semester: Spring 2024 (aka S24)
+Course Description: In a value-based care delivery environment with its emphasis on improving costs and service efficiency without risking quality of care, information technology has emerged as a powerful driving force in helping to achieve multiple goals within healthcare organizations. The explosive advances in information technology combined with the current challenges facing healthcare delivery have created the need for skilled individuals who can develop, understand, manage, and integrate healthcare information systems in organizations. This course will explore the concepts and application of major information systems methodologies and approaches in the delivery of modern healthcare systems, including traditional face-to-face, online, and mobile and social media enabled care delivery. A semester-long group project that synthesizes the different topics via the design and implementation of a working, integrated, healthcare decision support application will be a required component of the course.
+</end course description for 94-706 Healthcare Information Systems>

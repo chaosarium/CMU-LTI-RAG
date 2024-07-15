@@ -1,0 +1,16 @@
+<start course metadata for 51-809 Design Thesis Progress I>
+Semester: Fall 2023 (aka F23)
+Course Name: Design Thesis Progress I
+Course Number: 51-809
+Department: Design
+Number of Units: 3
+Prerequisites: None
+Instructors: Bruce Hanington
+Rooms: MM 215
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-809 Design Thesis Progress I>
+
+<start course description for 51-809 Design Thesis Progress I>
+Semester: Fall 2023 (aka F23)
+Course Description: MDES students in their second year receive faculty guidance for thesis preparation.
+</end course description for 51-809 Design Thesis Progress I>

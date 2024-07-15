@@ -1,0 +1,16 @@
+<start course metadata for 98-019 Student Taught Courses (StuCo): Every Day Carry & Community>
+Semester: Spring 2024 (aka S24)
+Course Name: Student Taught Courses (StuCo): Every Day Carry & Community
+Course Number: 98-019
+Department: StuCo (Student Led Courses)
+Number of Units: 3
+Prerequisites: None
+Instructors: Jeffery John
+Rooms: WEH 5304
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 98-019 Student Taught Courses (StuCo): Every Day Carry & Community>
+
+<start course description for 98-019 Student Taught Courses (StuCo): Every Day Carry & Community>
+Semester: Spring 2024 (aka S24)
+Course Description: This course aims to explore the items and training individuals can carry with them to build their communities and improve resilience. From radios and first aid to HDMI cords and bystander intervention, we'll discuss how to better care for those around us at personal, local, and regional levels.
+</end course description for 98-019 Student Taught Courses (StuCo): Every Day Carry & Community>

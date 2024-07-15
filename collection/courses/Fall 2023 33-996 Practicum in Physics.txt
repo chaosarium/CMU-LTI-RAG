@@ -1,0 +1,16 @@
+<start course metadata for 33-996 Practicum in Physics>
+Semester: Fall 2023 (aka F23)
+Course Name: Practicum in Physics
+Course Number: 33-996
+Department: Physics
+Number of Units: N/A
+Prerequisites: None
+Instructors: Markus Deserno
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 33-996 Practicum in Physics>
+
+<start course description for 33-996 Practicum in Physics>
+Semester: Fall 2023 (aka F23)
+Course Description: None
+</end course description for 33-996 Practicum in Physics>

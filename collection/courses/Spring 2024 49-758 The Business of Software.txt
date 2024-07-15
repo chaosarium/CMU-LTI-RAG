@@ -1,0 +1,16 @@
+<start course metadata for 49-758 The Business of Software>
+Semester: Spring 2024 (aka S24)
+Course Name: The Business of Software
+Course Number: 49-758
+Department: Integrated Innovation Institute
+Number of Units: 6
+Prerequisites: None
+Instructors: Ravi Thomas
+Rooms: B23 118
+Locations: San Jose, California
+</end course metadata for 49-758 The Business of Software>
+
+<start course description for 49-758 The Business of Software>
+Semester: Spring 2024 (aka S24)
+Course Description: Project teams develop a complete business plan for a software product, including revenue and expense models, as well as sales, marketing, and support mechanisms to define the structure of a successful software business. Priority registration for this course will be designated to Master of Science in Software Management students. Note: The R section of this course is specifically reserved for students in the Part-Time Remote Master of Science in Software Management program.
+</end course description for 49-758 The Business of Software>

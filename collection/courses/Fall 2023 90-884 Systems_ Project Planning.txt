@@ -1,0 +1,16 @@
+<start course metadata for 90-884 Systems: Project Planning>
+Semester: Fall 2023 (aka F23)
+Course Name: Systems: Project Planning
+Course Number: 90-884
+Department: Public Policy & Mgt:Sch of Pub Pol & Mgt
+Number of Units: 3
+Prerequisites: None
+Instructors: Denise Lawson, Devon Halley, LaToya Robinson
+Rooms: 
+Locations: Washington, District of Columbia
+</end course metadata for 90-884 Systems: Project Planning>
+
+<start course description for 90-884 Systems: Project Planning>
+Semester: Fall 2023 (aka F23)
+Course Description: No course description provided.
+</end course description for 90-884 Systems: Project Planning>

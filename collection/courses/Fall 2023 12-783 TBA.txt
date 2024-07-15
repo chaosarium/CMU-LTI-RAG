@@ -1,0 +1,16 @@
+<start course metadata for 12-783 TBA>
+Semester: Fall 2023 (aka F23)
+Course Name: TBA
+Course Number: 12-783
+Department: Civil & Environmental Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Corey Harper
+Rooms: TEP 1308
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 12-783 TBA>
+
+<start course description for 12-783 TBA>
+Semester: Fall 2023 (aka F23)
+Course Description: Geographic Information Systems (GIS) are information systems specifically designed to store and analyze geographic data. GIS represents almost all elements on the earth, such as roadways, rivers, utilities, cities, mountains, natural resources, energy infrastructure and so forth. GIS is used to visualize, analyze and compute the data about the world and human activities. What makes GIS different from other IS is that the data is stored and visualized on a map. The spatial analysis on the map reveals unique patterns in the geographic scope, which is the main advantage over table or text based data representation.
+</end course description for 12-783 TBA>

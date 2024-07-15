@@ -1,0 +1,16 @@
+<start course metadata for 11-641 Machine Learning for Text and Graph-based Mining>
+Semester: Fall 2023 (aka F23)
+Course Name: Machine Learning for Text and Graph-based Mining
+Course Number: 11-641
+Department: Language Technologies Institute
+Number of Units: 12
+Prerequisites: None
+Instructors: Yiming Yang
+Rooms: HH B131
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 11-641 Machine Learning for Text and Graph-based Mining>
+
+<start course description for 11-641 Machine Learning for Text and Graph-based Mining>
+Semester: Fall 2023 (aka F23)
+Course Description: This course studies the theory, design, and implementation of text-based information systems. The Information Retrieval core components of the course include statistical characteristics of text, representation of information needs and documents, several important retrieval models (Boolean, vector space, probabilistic, inference net, language modeling), clustering algorithms, automatic text categorization, and experimental evaluation. The software architecture components include design and implementation of high-capacity text retrieval and text filtering systems. A variety of current research topics are also covered, including cross-lingual retrieval, document summarization, machine learning, topic detection and tracking, and multi-media retrieval. Prerequisites: Programming and data-structures at the level of 15-212 or higher. Algorithms comparable to the undergraduate CS algorithms course (15-451) or higher. Basic linear algebra (21-241 or 21-341). Basic statistics (36-202) or higher.
+</end course description for 11-641 Machine Learning for Text and Graph-based Mining>

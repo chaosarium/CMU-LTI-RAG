@@ -1,0 +1,16 @@
+<start course metadata for 85-732 Data Science for Psychology & Neuroscience>
+Semester: Spring 2024 (aka S24)
+Course Name: Data Science for Psychology & Neuroscience
+Course Number: 85-732
+Department: Psychology
+Number of Units: 9
+Prerequisites: None
+Instructors: Timothy Verstynen
+Rooms: CMU REMOTE
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 85-732 Data Science for Psychology & Neuroscience>
+
+<start course description for 85-732 Data Science for Psychology & Neuroscience>
+Semester: Spring 2024 (aka S24)
+Course Description: This course will cover advanced topics in statistics and experimental design necessary for applied research in modern psychology, including information design, exploratory data analysis, data visualization, nonparametric statistics, data and inference errors (multicollinearity, overfitting, Simpson's and Robinson's paradox), sanitization (data anonymization, de-identification), and linear models (including conditional process models). Students will get hands on experience with simulating, analyzing, and visualizing data in the R statistical environment.
+</end course description for 85-732 Data Science for Psychology & Neuroscience>

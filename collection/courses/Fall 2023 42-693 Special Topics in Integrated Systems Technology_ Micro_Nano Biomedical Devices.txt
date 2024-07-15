@@ -1,0 +1,16 @@
+<start course metadata for 42-693 Special Topics in Integrated Systems Technology: Micro/Nano Biomedical Devices>
+Semester: Fall 2023 (aka F23)
+Course Name: Special Topics in Integrated Systems Technology: Micro/Nano Biomedical Devices
+Course Number: 42-693
+Department: Biomedical Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Siyang Zheng
+Rooms: SH 234
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 42-693 Special Topics in Integrated Systems Technology: Micro/Nano Biomedical Devices>
+
+<start course description for 42-693 Special Topics in Integrated Systems Technology: Micro/Nano Biomedical Devices>
+Semester: Fall 2023 (aka F23)
+Course Description: Biomedical devices constantly call for innovations. Micro/nano fabrication not only miniaturizes devices and instruments, but also can enable new biomedical devices and significantly boost device performance. This course introduces fundamental micro/nano fabrication technologies and related materials of biomedical devices. The biomedical background and design principles of various biomedical devices will be presented. Both diagnostic and therapeutic devices will be discussed, including point-of-care diagnostic devices, biosensors, DNA sequencers, medical implants, prosthetic devices, drug delivery systems, medical robots, etc.
+</end course description for 42-693 Special Topics in Integrated Systems Technology: Micro/Nano Biomedical Devices>

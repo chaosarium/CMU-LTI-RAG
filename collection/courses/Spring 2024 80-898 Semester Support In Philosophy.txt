@@ -1,0 +1,16 @@
+<start course metadata for 80-898 Semester Support In Philosophy>
+Semester: Spring 2024 (aka S24)
+Course Name: Semester Support In Philosophy
+Course Number: 80-898
+Department: Philosophy
+Number of Units: 1
+Prerequisites: None
+Instructors: Adam Bjorndahl
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 80-898 Semester Support In Philosophy>
+
+<start course description for 80-898 Semester Support In Philosophy>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is for PhD students who are using a departmental free semester or schedule incentive.
+</end course description for 80-898 Semester Support In Philosophy>

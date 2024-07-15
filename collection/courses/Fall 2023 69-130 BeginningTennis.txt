@@ -1,0 +1,16 @@
+<start course metadata for 69-130 BeginningTennis>
+Semester: Fall 2023 (aka F23)
+Course Name: BeginningTennis
+Course Number: 69-130
+Department: Physical Education
+Number of Units: 3
+Prerequisites: None
+Instructors: Andrew Girard, Michael Belmonte
+Rooms: CUC TENNIS
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 69-130 BeginningTennis>
+
+<start course description for 69-130 BeginningTennis>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is designed to familiarize the student with the rules of tennis and to develop the skills needed to become proficient for recreational play.  During the first half of the course, all tennis strokes will be covered and reviewed in detail.  The second half of the course will focus mostly on competitive games and match-play.
+</end course description for 69-130 BeginningTennis>

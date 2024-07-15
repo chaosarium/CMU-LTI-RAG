@@ -1,0 +1,16 @@
+<start course metadata for 91-804 Financial Analysis for Managers>
+Semester: Fall 2023 (aka F23)
+Course Name: Financial Analysis for Managers
+Course Number: 91-804
+Department: Public Management:Sch of Pub Pol & Mgt
+Number of Units: 12
+Prerequisites: None
+Instructors: William Gogolak
+Rooms: HBH 1004; HBH 1007
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 91-804 Financial Analysis for Managers>
+
+<start course description for 91-804 Financial Analysis for Managers>
+Semester: Fall 2023 (aka F23)
+Course Description: Financial Analysis is a course designed to introduce critical reading of financial information (not just formal statements) and deepen an understanding of financial analysis tools and concepts that are not addressed in Accounting courses but are essential to everyday management. The course is broken down into discrete sections to offer the student two functional focuses for success in financial analysis,regardless of its profit motives or stakeholders.   Assessing Financial Health & Planning Financial Performance: financial information identification and analysis, cost behaviors and types, cash flow and working capital analysis, and time value of money. These practices are objective, and considered the ¿tools of the trade.¿ These tools are relatively universal and easily modified for applicability to Non-profit and For-profit alike. Interpretation and recommendation. This is the managerial use of the information provided by the assessments and analyses described above. These practices can be highly objective, intuitive and heavily reliant upon common-sense and an understanding of accounting.
+</end course description for 91-804 Financial Analysis for Managers>

@@ -1,0 +1,16 @@
+<start course metadata for 62-314 The Art of Personal Finance>
+Semester: Fall 2023 (aka F23)
+Course Name: The Art of Personal Finance
+Course Number: 62-314
+Department: CFA Interdisciplinary
+Number of Units: 6
+Prerequisites: None
+Instructors: Tiffany Benigni
+Rooms: DH 1112
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 62-314 The Art of Personal Finance>
+
+<start course description for 62-314 The Art of Personal Finance>
+Semester: Fall 2023 (aka F23)
+Course Description: Money is an inevitable part of our everyday lives.  Managing the money we earn and living within our means is essential to ensure that we have the freedom to do what we want to do with our lives. However, even if we successfully eliminate debt and save for the future, true financial freedom will not exist unless we have a plan to guide us on our way. In this course, students will create a simple one-page financial plan that they can use to guide them through their next several years as they cultivate the skills that will ensure their artistic success.  Additionally, they will develop the tools needed to support the execution of the plan and create a sourcebook of information they can refer to in the future as their lives (and their financial plans) change.
+</end course description for 62-314 The Art of Personal Finance>

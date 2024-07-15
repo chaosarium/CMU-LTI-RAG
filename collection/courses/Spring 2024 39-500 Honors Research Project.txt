@@ -1,0 +1,16 @@
+<start course metadata for 39-500 Honors Research Project>
+Semester: Spring 2024 (aka S24)
+Course Name: Honors Research Project
+Course Number: 39-500
+Department: CIT Interdisciplinary
+Number of Units: N/A
+Prerequisites: None
+Instructors: Kurt Larsen
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 39-500 Honors Research Project>
+
+<start course description for 39-500 Honors Research Project>
+Semester: Spring 2024 (aka S24)
+Course Description: Juniors who have an accumulated QPA of at least 3.5 receive an invitation to participate in the program.       This course, open by invitation only, will provide the opportunity for close interaction with a faculty member through independent honors research in a number of disciplinary and interdisciplinary areas, as part of the CIT Honors Research Program. Students will work on their projects during their senior year, earning the equivalent of 18-24 units. Students are required to register for CIT Honor Research Project 39-500. To receive CIT College Honors, a student must complete at least 18 units in 39-500 on the same research topic and submit a 1-page executive summary of your research. Lastly, students must present their research findings at the Undergraduate Research Symposium, "Meeting of the Minds" in May. Although "Meeting of the Minds" is open to any undergraduate research initiatives occurring on campus, it is a requirement for College of Engineering Honors Research students.
+</end course description for 39-500 Honors Research Project>

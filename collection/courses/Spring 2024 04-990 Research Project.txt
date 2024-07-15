@@ -1,0 +1,16 @@
+<start course metadata for 04-990 Research Project>
+Semester: Spring 2024 (aka S24)
+Course Name: Research Project
+Course Number: 04-990
+Department: Information & Communication Technology
+Number of Units: N/A
+Prerequisites: None
+Instructors: George Okeyo, Instructor TBA, Jason Hong, Jema David Ndibwile, Moise Busogi
+Rooms: DNM DNM
+Locations: Kigali, Rwanda
+</end course metadata for 04-990 Research Project>
+
+<start course description for 04-990 Research Project>
+Semester: Spring 2024 (aka S24)
+Course Description: This Research Project is for students selecting the academic focus for their MSIT. When selecting this course, the student will replace the 24 units MSIT practicum by 36 units of research project. The research project is conducted under the supervision of a faculty research adviser who first approves it based on the student's skills and mutual interest.  This project can only be performed in 3rd and/or 4th semester of MSIT. Students will be required to present and defend their research thesis in front of a research committee (public invited). The research committee consists of 3 members including the adviser, and may include one external member. Students can contact a faculty research adviser at any time during their MSIT to discuss the option of taking this "course". The faculty research adviser may recommend pre-requisite courses based on the student's skills or the subject of the research project. Students selecting this course (and the MSIT academic focus) cannot take 04-980 Independent study.  Course registration: A brief (no more than four pages) document should be submitted to the Associate Director at least two weeks before the beginning of the project. More information about the registration can be find here. Student assessment: Students will be required to present and defend their research thesis in front of a research committee (public invited). The research committee consists of 3 members including the adviser, and may include one external member. Pre-requisites: Dependent on Research Topic
+</end course description for 04-990 Research Project>

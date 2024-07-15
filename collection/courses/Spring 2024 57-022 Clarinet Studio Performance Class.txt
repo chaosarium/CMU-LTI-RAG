@@ -1,0 +1,16 @@
+<start course metadata for 57-022 Clarinet Studio Performance Class>
+Semester: Spring 2024 (aka S24)
+Course Name: Clarinet Studio Performance Class
+Course Number: 57-022
+Department: Music
+Number of Units: 0
+Prerequisites: None
+Instructors: Instructor TBA
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-022 Clarinet Studio Performance Class>
+
+<start course description for 57-022 Clarinet Studio Performance Class>
+Semester: Spring 2024 (aka S24)
+Course Description: The purpose of this class is to have performance before an audience (studio class members) to ease performance anxiety.  The class meets once a week, is not for credit and is not mandatory.  In addition to playing, the class listens to recordings of various styles of clarinet playing.
+</end course description for 57-022 Clarinet Studio Performance Class>

@@ -1,0 +1,16 @@
+<start course metadata for 54-374 Musical Theater Audition>
+Semester: Spring 2024 (aka S24)
+Course Name: Musical Theater Audition
+Course Number: 54-374
+Department: Drama
+Number of Units: 5
+Prerequisites: None
+Instructors: Rick Edinger
+Rooms: PCA 321
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-374 Musical Theater Audition>
+
+<start course description for 54-374 Musical Theater Audition>
+Semester: Spring 2024 (aka S24)
+Course Description: Missing Course Description - please contact the teaching department.
+</end course description for 54-374 Musical Theater Audition>

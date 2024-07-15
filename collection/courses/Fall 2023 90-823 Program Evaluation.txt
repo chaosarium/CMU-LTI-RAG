@@ -1,0 +1,16 @@
+<start course metadata for 90-823 Program Evaluation>
+Semester: Fall 2023 (aka F23)
+Course Name: Program Evaluation
+Course Number: 90-823
+Department: Public Policy & Mgt:Sch of Pub Pol & Mgt
+Number of Units: 12
+Prerequisites: None
+Instructors: Christopher Spera
+Rooms: DNM DNM
+Locations: Washington, District of Columbia
+</end course metadata for 90-823 Program Evaluation>
+
+<start course description for 90-823 Program Evaluation>
+Semester: Fall 2023 (aka F23)
+Course Description: In this course you will learn how to gather and synthesize evidence to address this question. Program evaluation is the systematic application of social science methods to assess each aspect of a program: the need for the program, the program's design and implementation, and ultimately the program¿s impact on relevant outcomes. A completed program evaluation results in (1) information regarding the program¿s merit, worth, or significance, (2) an accounting of the objective strengths and limitations of this information and (3) the implications of both (1) and (2) for decision making.  Program evaluations differ as much as the social programs they evaluate. Social programs may carry them out internally, or an external organization may be brought in. An evaluation may be highly quantitative or entirely qualitative; it may focus exclusively on needs assessment or assessing program implementation. Evaluations and their results may be highly politically charged or of interest only to direct stakeholders. There are excellent program evaluations that have had tremendous positive impacts on programs and their target populations. There are also poor or flawed program evaluations that provide weaker information than could have been obtained, provide incorrect information, or are misleading.  This course is designed to familiarize the student with the central concepts and methods of program evaluation. Students will be taught how to conduct basic program evaluations as well as how to critique and monitor more comprehensive program evaluations. Successful completion of this course will prepare students to be contributing members of teams that design and carry out program evaluations or that commission program evaluations and make decisions based upon their results.
+</end course description for 90-823 Program Evaluation>

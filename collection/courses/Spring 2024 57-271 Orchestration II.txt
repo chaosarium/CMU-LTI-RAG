@@ -1,0 +1,16 @@
+<start course metadata for 57-271 Orchestration II>
+Semester: Spring 2024 (aka S24)
+Course Name: Orchestration II
+Course Number: 57-271
+Department: Music
+Number of Units: 6
+Prerequisites: 57-257
+Instructors: Alexander Marthaler
+Rooms: HOA 223
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-271 Orchestration II>
+
+<start course description for 57-271 Orchestration II>
+Semester: Spring 2024 (aka S24)
+Course Description: Students will analyze music from the Classical to Avant-Garde and use the knowledge acquired to orchestrate piano scores in the appropriate style. Style, practicality, color, and imagination are encouraged.  This course is designed for junior composition majors.  Other students may register with instructor permission after an interview.
+</end course description for 57-271 Orchestration II>

@@ -1,0 +1,16 @@
+<start course metadata for 36-613 TBA>
+Semester: Fall 2023 (aka F23)
+Course Name: TBA
+Course Number: 36-613
+Department: Statistics and Data Science
+Number of Units: 6
+Prerequisites: None
+Instructors: Ronald Yurko
+Rooms: WEH 5421
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 36-613 TBA>
+
+<start course description for 36-613 TBA>
+Semester: Fall 2023 (aka F23)
+Course Description: For Master of Statistical Practice (MSP) students only.  This course focuses on data visualization.
+</end course description for 36-613 TBA>

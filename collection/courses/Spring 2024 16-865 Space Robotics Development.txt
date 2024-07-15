@@ -1,0 +1,16 @@
+<start course metadata for 16-865 Space Robotics Development>
+Semester: Spring 2024 (aka S24)
+Course Name: Space Robotics Development
+Course Number: 16-865
+Department: Robotics
+Number of Units: 12
+Prerequisites: None
+Instructors: Heather Jones, William Red Whittaker
+Rooms: NSH 1305
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 16-865 Space Robotics Development>
+
+<start course description for 16-865 Space Robotics Development>
+Semester: Spring 2024 (aka S24)
+Course Description: THE COURSE conveys technologies, methodologies and practices of space robotics that range from principles to working directly on current rover missions. The course addresses the development of planetary robot sensing, computing, software, thermal management, communications, and operator interaction in addition to mobility, mechanics, electronics, navigation and energetics. Additionally, space systems considerations address challenges of low mass, space environment, reliability, testing and risk reduction. DISTINCTIVE STUDENT COURSE EXPERIENCES include substantive learning and exercises in contexts including design, implementation, programming, analysis, testing and mission control of flight rovers. The course is appropriate for a broad range of student disciplines and interests. Lectures convey topical content, and labs constitute subteam work sessions. COURSE LEARNING OBJECTIVES include formulation, problem solving, implementation and operation of robotic space systems. Students work in teams with guidance to master challenging technology, topical content and mission-relevant contributions. Students master the distinctions, and challenges of developing sophisticated planetary exploration rovers. 1.5 hrs lec., 3.5 hrs lab.
+</end course description for 16-865 Space Robotics Development>

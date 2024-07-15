@@ -1,0 +1,16 @@
+<start course metadata for 42-887 Biofabrication and Bioprinting>
+Semester: Spring 2024 (aka S24)
+Course Name: Biofabrication and Bioprinting
+Course Number: 42-887
+Department: Biomedical Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Rachelle Palchesko
+Rooms: CMU REMOTE
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 42-887 Biofabrication and Bioprinting>
+
+<start course description for 42-887 Biofabrication and Bioprinting>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is currently only for those enrolled in the 3D Biofabrication and Bioprinting Certificate program. This laboratory course is designed to introduce students to and give them hands-on experience using methods that are used to fabricate scaffolds that are often used in tissue engineering, drug delivery, and some medical devices. Methods that will be taught include plastic FDM (filament deposition methods) to 3d print thermoplastic materials and molds for casting soft hydrogel materials, as well as 3d Bioprinting of soft hydrogel materials into a support bath material.  This course will include a lecture component to introduce students to the concepts needed to design and fabricate the scaffolds. Lecture topics will include (but are not limited to): chemical and physical properties of biomaterials, CAD, and post-processing methods. There are no pre-requisite courses; however prior introductory lab experience is suggested.
+</end course description for 42-887 Biofabrication and Bioprinting>

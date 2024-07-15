@@ -1,0 +1,16 @@
+<start course metadata for 80-831 Responsible AI>
+Semester: Spring 2024 (aka S24)
+Course Name: Responsible AI
+Course Number: 80-831
+Department: Philosophy
+Number of Units: 12
+Prerequisites: None
+Instructors: Alex London, Hoda Heidari
+Rooms: POS 151
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 80-831 Responsible AI>
+
+<start course description for 80-831 Responsible AI>
+Semester: Spring 2024 (aka S24)
+Course Description: The development and deployment of artificial intelligence (AI) systems increasingly involves choices that impact people's lives and society at large. The responsible development and use of AI requires the integration of ethical, societal, and policy considerations into the use of AI tools and the development of AI systems in high-stakes domains, such as employment, education, lending, criminal justice, medicine, and beyond. We will discuss:  (1) the pathways through which AI can lead to or amplify problematic decision-making practices (e.g., discrimination, inscrutability, invasion of privacy, and beyond);  (2) recent technological methods and remedies to capture and alleviate these concerns; and  (3) the scope of applicability and limitations of technological remedies in the context of several contemporary application domains.  The course's primary goals are: (a) to raise awareness about the social, ethical, and policy implications of AI, and (b) to prepare students to critically analyze these issues as they emerge in the ever-expanding use of AI in socially consequential domains.
+</end course description for 80-831 Responsible AI>

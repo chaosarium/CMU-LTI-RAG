@@ -1,0 +1,16 @@
+<start course metadata for 52-390 BXA Undergraduate Research Project>
+Semester: Fall 2023 (aka F23)
+Course Name: BXA Undergraduate Research Project
+Course Number: 52-390
+Department: BXA Intercollege Degree Programs
+Number of Units: N/A
+Prerequisites: None
+Instructors: Carrie Hagan, M. Stephanie Murray
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 52-390 BXA Undergraduate Research Project>
+
+<start course description for 52-390 BXA Undergraduate Research Project>
+Semester: Fall 2023 (aka F23)
+Course Description: The BXA Undergraduate Research Project is for BXA students who want to work on a self-designed project with the one-to-one guidance of a faculty advisor. The project should be interdisciplinary in nature, and can be a scholarly and/or creative endeavor. The project may take the form of a written thesis, a compilation of creative works, an outreach project, etc. The project topic must be pre-approved by the faculty member who agrees to supervise the project and assign a letter grade for the course. Projects are to be completed in one semester, may be worth 3, 6, 9, or 12 units of academic credit, and cannot be taken concurrently with the BXA Capstone Project during the senior year. To register, students must submit an "Undergraduate Research Project Proposal Form" signed by both the student and the faculty advisor, along with a proposal, to their BXA academic advisor.
+</end course description for 52-390 BXA Undergraduate Research Project>

@@ -1,0 +1,16 @@
+<start course metadata for 54-372 Theatre for the Ear>
+Semester: Spring 2024 (aka S24)
+Course Name: Theatre for the Ear
+Course Number: 54-372
+Department: Drama
+Number of Units: 6
+Prerequisites: None
+Instructors: Joe Pino
+Rooms: PCA 103
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-372 Theatre for the Ear>
+
+<start course description for 54-372 Theatre for the Ear>
+Semester: Spring 2024 (aka S24)
+Course Description: Survey of aural storytelling with technology focusing on forms with no visual component. Topics include the history of radio drama to present day, radio sound art, cut-up and tape manipulation, comedy records and podcast dramas. Prerequisites: 54-166 Introduction To Sound Design, 54-267 Conceptual  Sound Design 1 Restrictions: The course is open to sound design majors or with  permission of the instructor.
+</end course description for 54-372 Theatre for the Ear>

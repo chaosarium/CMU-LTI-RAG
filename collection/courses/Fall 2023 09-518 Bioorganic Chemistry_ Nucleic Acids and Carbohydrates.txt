@@ -1,0 +1,16 @@
+<start course metadata for 09-518 Bioorganic Chemistry: Nucleic Acids and Carbohydrates>
+Semester: Fall 2023 (aka F23)
+Course Name: Bioorganic Chemistry: Nucleic Acids and Carbohydrates
+Course Number: 09-518
+Department: Chemistry
+Number of Units: 9
+Prerequisites: (03-121 or 03-151) and (09-220 or 09-218)
+Instructors: Danith Ly
+Rooms: WEH 5328
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 09-518 Bioorganic Chemistry: Nucleic Acids and Carbohydrates>
+
+<start course description for 09-518 Bioorganic Chemistry: Nucleic Acids and Carbohydrates>
+Semester: Fall 2023 (aka F23)
+Course Description: This course will introduce students to new developments in chemistry and biology, with emphasis on the synthesis, structural and functional aspects of nucleic acids and carbohydrates, and their applications in chemistry, biology and medicine. Later in the course, students will have the opportunity to explore cutting-edge research in this exciting new field that bridges chemistry with biology. Students will be required to keep abreast of the current literature. In addition to standard homework assignments and examinations, students will have the opportunity to work in teams to tackle contemporary problems at the forefront of chemistry and biology. The difference between the 09-518 (9-unit) and 09-718 (12-unit) is that the latter is a graduate level course. Students signed up for 09-718 will be required to turn in an original research proposal at the end of the course, in addition to all the other assignments. (Graduate Course: 12 units, 09-718) 3 hrs. lec.
+</end course description for 09-518 Bioorganic Chemistry: Nucleic Acids and Carbohydrates>

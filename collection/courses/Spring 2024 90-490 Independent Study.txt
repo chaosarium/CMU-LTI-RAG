@@ -1,0 +1,16 @@
+<start course metadata for 90-490 Independent Study>
+Semester: Spring 2024 (aka S24)
+Course Name: Independent Study
+Course Number: 90-490
+Department: Public Policy & Mgt:Sch of Pub Pol & Mgt
+Number of Units: N/A
+Prerequisites: None
+Instructors: Alessandro Acquisti
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 90-490 Independent Study>
+
+<start course description for 90-490 Independent Study>
+Semester: Spring 2024 (aka S24)
+Course Description: Course description will be available on Heinz College website.
+</end course description for 90-490 Independent Study>

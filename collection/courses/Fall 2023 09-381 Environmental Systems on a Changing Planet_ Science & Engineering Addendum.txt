@@ -1,0 +1,16 @@
+<start course metadata for 09-381 Environmental Systems on a Changing Planet: Science & Engineering Addendum>
+Semester: Fall 2023 (aka F23)
+Course Name: Environmental Systems on a Changing Planet: Science & Engineering Addendum
+Course Number: 09-381
+Department: Chemistry
+Number of Units: 3
+Prerequisites: None
+Instructors: Ryan Sullivan
+Rooms: DH 1112
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 09-381 Environmental Systems on a Changing Planet: Science & Engineering Addendum>
+
+<start course description for 09-381 Environmental Systems on a Changing Planet: Science & Engineering Addendum>
+Semester: Fall 2023 (aka F23)
+Course Description: This is 3-unit addendum to the co-requisite 09-291: Environmental Systems on a Changing Planet. These courses introduce the interconnected Earth systems that regulate our climate and ecosystems, providing the resources required to sustain all life and human societies. Please refer to the course description for 09-291 for more information. While 09-291 is designed to be accessible to students from all Colleges and majors, this addendum allows students to engage with the material with more technical depth and quantitative understanding of the function and feedbacks of complex environmental systems. The additional 3-units of 09-381 provides students with an additional weekly meeting time for further material development and discussion, and with additional assignments and exercises on top of 09-291.  09-381 is intended for students from STEM majors in CIT, MCS, and SCS, but can be taken by any student interested in exploring the environmental science topics with greater depth. Science and engineering fundamentals will be further developed and applied to develop the quantitative understanding of the function and feedbacks of complex environmental systems. A background in the natural sciences or engineering (such as introductory-level courses) is strongly recommended for students considering taking 09-381. When taken with 09-291, 09-381 will count as a technical elective for most programs in these STEM colleges, while 09-291 on its own is not considered a technical elective. 09-381 with 09-281 is the correct course for students whose home colleges are CIT, MCS, or SCS. 09-291 is the recommended course for students whose home colleges are CFA, DC, or TBS. 09-381 with 09-291 serve as the foundational Earth & Environmental Science requirement for STEM majors for both the interdisciplinary Minor and Additional Major in Environmental and Sustainability Studies.
+</end course description for 09-381 Environmental Systems on a Changing Planet: Science & Engineering Addendum>

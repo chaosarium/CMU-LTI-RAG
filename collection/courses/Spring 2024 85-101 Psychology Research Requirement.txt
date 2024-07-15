@@ -1,0 +1,16 @@
+<start course metadata for 85-101 Psychology Research Requirement>
+Semester: Spring 2024 (aka S24)
+Course Name: Psychology Research Requirement
+Course Number: 85-101
+Department: Psychology
+Number of Units: 9
+Prerequisites: None
+Instructors: Erin Donahoe
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 85-101 Psychology Research Requirement>
+
+<start course description for 85-101 Psychology Research Requirement>
+Semester: Spring 2024 (aka S24)
+Course Description: Students who enroll in Introductory Psychology Courses (100 level or 200 level) are required to complete a research requirement.  The Research Requirement Administrator attends each of these classes to describe the research requirement.  Students may fulfill this research requirement in one of two ways:  (1) participate in three experiments or (2) read a research article and answer a set of questions about it.  If students elect to participate in the experiments, they must complete a pretest questionnaire prior to their participation.
+</end course description for 85-101 Psychology Research Requirement>

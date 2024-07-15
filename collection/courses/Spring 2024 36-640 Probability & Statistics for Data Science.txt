@@ -1,0 +1,16 @@
+<start course metadata for 36-640 Probability & Statistics for Data Science>
+Semester: Spring 2024 (aka S24)
+Course Name: Probability & Statistics for Data Science
+Course Number: 36-640
+Department: Statistics and Data Science
+Number of Units: 6
+Prerequisites: None
+Instructors: Peter Freeman
+Rooms: CMU REMOTE
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 36-640 Probability & Statistics for Data Science>
+
+<start course description for 36-640 Probability & Statistics for Data Science>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is only for students completing the Foundations of Data Science Online Graduate Certificate. Students will learn how to understand fundamental terminology and techniques so they may be correctly applied in future data analysis situations. Introducing the theoretical aspects of probability and statistical inference, topics include basic probability, random variables, univariate and bivariate probability distributions, statistics, likelihood, point and interval estimation, hypothesis testing, and the frameworks underlying linear and logistic regression and Naive Bayes. Mathematical details are supplemented with computer-based examples and exercises (e.g. visualization and simulation).
+</end course description for 36-640 Probability & Statistics for Data Science>

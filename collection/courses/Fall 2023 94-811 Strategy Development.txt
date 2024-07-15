@@ -1,0 +1,16 @@
+<start course metadata for 94-811 Strategy Development>
+Semester: Fall 2023 (aka F23)
+Course Name: Strategy Development
+Course Number: 94-811
+Department: Heinz College Wide Courses
+Number of Units: 6
+Prerequisites: None
+Instructors: Laura Synnott
+Rooms: HBH 2009
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 94-811 Strategy Development>
+
+<start course description for 94-811 Strategy Development>
+Semester: Fall 2023 (aka F23)
+Course Description: Strategy can be thought of as "delineating a territory in which an organization seeks to be unique" and "the evolution of a central idea through continually changing circumstances".But the very nature of strategy and strategy development regardless of whether it's in the private, public, or nonprofit sectors is changing dramatically. Corporations are increasingly dealing with more viable competitors and emerging market opportunities, often driven by enabling technologies, from all over the world. Demand for government responses to social issues is increasing in an era of acute resource constraints. And social sector organizations are facing a wide array of competitors for smaller, more restricted pools of contributions and other forms of capital. Everybody wants to react faster, take advantage of opportunities sooner, and vanquish competitors more definitively. The notion of rigid 5-year strategic plans is becoming obsolete. This course simulates the real-world strategy development process from a senior management perspective. A historical overview of the field will be provided and a contemporary process for strategy formulation, along with alternative approaches, will be introduced and demonstrated throughout the course. Activities including situational and environmental analysis, internal capabilities assessment, and appropriate linkage to an organization's vision, mission, objectives, and historical performance will all be rigorously applied. A combination of theory and practice in all relevant aspects of strategy development will be emphasized. In addition, although these processes are most often attributed to private sector operations, this course is designed to consider the similarities and differences of strategy and strategy development in government entities and nonprofits as well.  Please see the Heinz website for more information.
+</end course description for 94-811 Strategy Development>

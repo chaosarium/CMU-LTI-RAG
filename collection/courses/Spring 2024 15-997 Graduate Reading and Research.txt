@@ -1,0 +1,16 @@
+<start course metadata for 15-997 Graduate Reading and Research>
+Semester: Spring 2024 (aka S24)
+Course Name: Graduate Reading and Research
+Course Number: 15-997
+Department: Computer Science
+Number of Units: N/A
+Prerequisites: None
+Instructors: Karl Crary
+Rooms: 
+Locations: Lisbon, Portugal; Pittsburgh, Pennsylvania
+</end course metadata for 15-997 Graduate Reading and Research>
+
+<start course description for 15-997 Graduate Reading and Research>
+Semester: Spring 2024 (aka S24)
+Course Description: This course number is for registering for reading and research while working on research and your dissertation.
+</end course description for 15-997 Graduate Reading and Research>

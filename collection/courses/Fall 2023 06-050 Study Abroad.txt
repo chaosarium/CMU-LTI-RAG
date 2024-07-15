@@ -1,0 +1,16 @@
+<start course metadata for 06-050 Study Abroad>
+Semester: Fall 2023 (aka F23)
+Course Name: Study Abroad
+Course Number: 06-050
+Department: Chemical Engineering
+Number of Units: 45
+Prerequisites: None
+Instructors: Anne Robinson
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 06-050 Study Abroad>
+
+<start course description for 06-050 Study Abroad>
+Semester: Fall 2023 (aka F23)
+Course Description: Students should register for this course if they will be attending any of the exchange programs offered by the Department of Chemical Engineering for either the appropriate semester or academic year. These programs include the exchange programs with EPFL, ITESM, Aachen, Imperial College, or any other program approved through the Office of International Education.
+</end course description for 06-050 Study Abroad>

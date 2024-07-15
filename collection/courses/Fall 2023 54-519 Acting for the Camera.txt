@@ -1,0 +1,16 @@
+<start course metadata for 54-519 Acting for the Camera>
+Semester: Fall 2023 (aka F23)
+Course Name: Acting for the Camera
+Course Number: 54-519
+Department: Drama
+Number of Units: 6
+Prerequisites: 54-302
+Instructors: Randy Kovitz
+Rooms: PCA 115
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-519 Acting for the Camera>
+
+<start course description for 54-519 Acting for the Camera>
+Semester: Fall 2023 (aka F23)
+Course Description: This course teaches the skills necessary to work as an actor in the film and television industry. Incorporating the proficiencies and techniques acquired during previous training, we'll learn and practice the additional skills required to work on camera.
+</end course description for 54-519 Acting for the Camera>

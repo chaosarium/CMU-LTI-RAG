@@ -1,0 +1,16 @@
+<start course metadata for 76-292 Introduction to Film Production>
+Semester: Fall 2023 (aka F23)
+Course Name: Introduction to Film Production
+Course Number: 76-292
+Department: English
+Number of Units: 9
+Prerequisites: (76-101) or (76-102) or (76-106 and 76-107) or (76-106 and 76-108) or (76-107 and 76-108)
+Instructors: Isabelle Strollo
+Rooms: PH A19D; PH A21
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 76-292 Introduction to Film Production>
+
+<start course description for 76-292 Introduction to Film Production>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is an introduction to the process of filmmaking. Students will develop a personal cinematic language and create a short final film from the ideation, to the synopsis and shot list, the set then to the editing room. The course will introduce technical tools to create audio and visual forms that serve the content developed in a film treatment through filming assignments, planning and producing a short film, peer review and group work. The focus will be on understanding shots and coverage of a scene, the various aspects of the cinematic language, with an emphasis on the basic visual components such as space, movement, and rhythm - and how they are used to tell the story visually. Audio layering to create a meaningful soundscape and the art of Editing will be discussed extensively.
+</end course description for 76-292 Introduction to Film Production>

@@ -1,0 +1,16 @@
+<start course metadata for 90-892 Behavioral Economics of Poverty and Development>
+Semester: Spring 2024 (aka S24)
+Course Name: Behavioral Economics of Poverty and Development
+Course Number: 90-892
+Department: Public Policy & Mgt:Sch of Pub Pol & Mgt
+Number of Units: 12
+Prerequisites: None
+Instructors: Andrea Kiss
+Rooms: PH 225B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 90-892 Behavioral Economics of Poverty and Development>
+
+<start course description for 90-892 Behavioral Economics of Poverty and Development>
+Semester: Spring 2024 (aka S24)
+Course Description: This course will introduce students to the study of economic development and poverty alleviation, with a special focus on recent insights from the intersection of psychology and economics. We will primarily focus on the health, microfinance, agriculture, and education sectors in developing countries. The course will have a methodological component largely centered on using experiments to evaluate interventions and policies that apply to households, small firms, and farms. While we will cover standard economic approaches, we will give extra attention to how a behavioral lens can help in both understanding development issues (e.g. barriers to household risk management) and in designing effective interventions (e.g. the timing of fertilizer sales).
+</end course description for 90-892 Behavioral Economics of Poverty and Development>

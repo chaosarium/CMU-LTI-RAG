@@ -1,0 +1,16 @@
+<start course metadata for 17-684 Ethics and Policy Issues in Computing>
+Semester: Fall 2023 (aka F23)
+Course Name: Ethics and Policy Issues in Computing
+Course Number: 17-684
+Department: Software & Societal Systems
+Number of Units: 12
+Prerequisites: None
+Instructors: Michael Skirpan
+Rooms: SH 236
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 17-684 Ethics and Policy Issues in Computing>
+
+<start course description for 17-684 Ethics and Policy Issues in Computing>
+Semester: Fall 2023 (aka F23)
+Course Description: Should autonomous robots make life and death decisions on their own? Should we allow them to select a target and launch weapons? To diagnose injuries and perform surgery when human doctors are not around? Who should be permitted to observe you, find out who your friends are, what you do and say with them, what you buy, and where you go? Do social media and personalized search restrict our intellectual horizons? Do we live in polarizing information bubbles, just hearing echoes of what we already know and believe? As computing technology becomes ever more pervasive and sophisticated, we are presented with an escalating barrage of decisions about who, how, when, and for what purposes technology should be used. This course will provide an intellectual framework for discussing these pressing issues of our time, as we shape the technologies that in turn shape us. We will seek insight through reading, discussion, guest lectures, and debates. Students will also undertake an analysis of a relevant issue of their choice, developing their own position, and acquiring the research skills needed to lend depth to their thinking. The course will enhance students' ability to think clearly about contentious technology choices, formulate smart positions, and support their views with winning arguments.
+</end course description for 17-684 Ethics and Policy Issues in Computing>

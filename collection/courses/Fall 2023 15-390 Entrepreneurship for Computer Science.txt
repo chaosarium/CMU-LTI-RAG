@@ -1,0 +1,16 @@
+<start course metadata for 15-390 Entrepreneurship for Computer Science>
+Semester: Fall 2023 (aka F23)
+Course Name: Entrepreneurship for Computer Science
+Course Number: 15-390
+Department: Computer Science
+Number of Units: 9
+Prerequisites: 15-112
+Instructors: Mohammad Hammoud
+Rooms: CMB 1199
+Locations: Doha, Qatar
+</end course metadata for 15-390 Entrepreneurship for Computer Science>
+
+<start course description for 15-390 Entrepreneurship for Computer Science>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is designed to develop skills related to entrepreneurship and innovation for non-business undergraduate and graduate students in the School of Computer Science.  The course assumes no background courses in business and is appropriate for those who are interested in bringing innovations to market either through new companies or existing companies.   The course provides an overview of entrepreneurship and innovation, develops an entrepreneurial frame of mind, and provides a framework for learning the rudiments of how to generate ideas.  Students come up with or are presented with potential ideas and learn how to develop these ideas into opportunities, and to explore their potential for becoming viable businesses.  They learn how to do market research, to develop go-to-market strategies, value propositions and to differentiate their products or services from potential competitors.  The focus is on understanding and developing strategies for approaching the key elements of the entrepreneurial process...opportunity, resources and team. The course consists of a balance of lectures, case studies and encounters with entrepreneurs, investors and business professionals.  The students are exposed to financial and intellectual property issues, and encounter a real world perspective on entrepreneurship, innovation and leadership.  The output of the course is a mini-business plan or venture opportunity screening document that can be developed into a business plan in a subsequent course entitled New Venture Creation or through independent study.
+</end course description for 15-390 Entrepreneurship for Computer Science>

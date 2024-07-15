@@ -1,0 +1,16 @@
+<start course metadata for 54-897 Directed Study in Design>
+Semester: Spring 2024 (aka S24)
+Course Name: Directed Study in Design
+Course Number: 54-897
+Department: Drama
+Number of Units: N/A
+Prerequisites: None
+Instructors: Lawrence Shea
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-897 Directed Study in Design>
+
+<start course description for 54-897 Directed Study in Design>
+Semester: Spring 2024 (aka S24)
+Course Description: An opportunity to pursue a predefined design project outside of the standard curriculum under the guidance and direction of a School of Drama faculty member. By special permission only.
+</end course description for 54-897 Directed Study in Design>

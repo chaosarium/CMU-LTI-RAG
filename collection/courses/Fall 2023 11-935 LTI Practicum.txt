@@ -1,0 +1,16 @@
+<start course metadata for 11-935 LTI Practicum>
+Semester: Fall 2023 (aka F23)
+Course Name: LTI Practicum
+Course Number: 11-935
+Department: Language Technologies Institute
+Number of Units: N/A
+Prerequisites: None
+Instructors: Jamie Callan
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 11-935 LTI Practicum>
+
+<start course description for 11-935 LTI Practicum>
+Semester: Fall 2023 (aka F23)
+Course Description: This course number is used for students who are on an internship as part of their graduate degree.
+</end course description for 11-935 LTI Practicum>

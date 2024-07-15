@@ -1,0 +1,16 @@
+<start course metadata for 54-307 Movement III>
+Semester: Fall 2023 (aka F23)
+Course Name: Movement III
+Course Number: 54-307
+Department: Drama
+Number of Units: 5
+Prerequisites: 54-207 and 54-208
+Instructors: Catherine Moore
+Rooms: PCA 306; PCA 313
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-307 Movement III>
+
+<start course description for 54-307 Movement III>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is designed to provide students with an introduction to the actor training method of Tadashi Suzuki in conjunction with a more advanced investigation of the Viewpoints actor training gained in the student's first year. This course examines and explores the use of language and the human body as an expressive artistic instrument. Concepts of the body in relation to Time, Space, and Energy will be explored. This is a studio course in which learning is experiential.
+</end course description for 54-307 Movement III>

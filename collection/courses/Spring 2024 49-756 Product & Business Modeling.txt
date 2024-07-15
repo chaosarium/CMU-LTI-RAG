@@ -1,0 +1,16 @@
+<start course metadata for 49-756 Product & Business Modeling>
+Semester: Spring 2024 (aka S24)
+Course Name: Product & Business Modeling
+Course Number: 49-756
+Department: Integrated Innovation Institute
+Number of Units: 6
+Prerequisites: None
+Instructors: Fang Fang, Sheryl Root
+Rooms: B23 118; B23 212
+Locations: San Jose, California
+</end course metadata for 49-756 Product & Business Modeling>
+
+<start course description for 49-756 Product & Business Modeling>
+Semester: Spring 2024 (aka S24)
+Course Description: This course explores the creation of business models for the problems that the students identified and intend to solve. In order for entrepreneurs to be successful, the ability to extract value from an innovation is essential. This course will introduce the business model framework and how to apply it to convert problem definitions and solution alternatives to economic value. Students will be able to interact persuasively with management to "sell" their product vision. Through teams, students will form specific approaches for business models for selected new business concepts and share them in class discussions.
+</end course description for 49-756 Product & Business Modeling>

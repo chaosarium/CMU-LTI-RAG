@@ -1,0 +1,16 @@
+<start course metadata for 12-760 ST: Fundamentals of Programming for Engineering Systems>
+Semester: Fall 2023 (aka F23)
+Course Name: ST: Fundamentals of Programming for Engineering Systems
+Course Number: 12-760
+Department: Civil & Environmental Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Susan Finger
+Rooms: WEH 5328
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 12-760 ST: Fundamentals of Programming for Engineering Systems>
+
+<start course description for 12-760 ST: Fundamentals of Programming for Engineering Systems>
+Semester: Fall 2023 (aka F23)
+Course Description: This course introduces advanced programming concepts to students from civil and environmental engineering. The goal of the course is to engage students in identifying engineering problems suitable for computational approaches and to enable them to effectively design and implement software solutions that leverage the work of professional programmers and other researchers. The course covers best practices in databases, object-oriented programming, knowledge-based systems, constrained-based reasoning. information lifecycle, information visualization, and data analytics. The course focuses on Python, but also covers Matlab. Students in this course will work on a sequence of projects culminating in a final term project. Students are required to already know a modern programming language (e.g., Python, Java, C++, etc.).
+</end course description for 12-760 ST: Fundamentals of Programming for Engineering Systems>

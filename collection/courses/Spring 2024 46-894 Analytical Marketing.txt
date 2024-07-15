@@ -1,0 +1,16 @@
+<start course metadata for 46-894 Analytical Marketing>
+Semester: Spring 2024 (aka S24)
+Course Name: Analytical Marketing
+Course Number: 46-894
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Alan Montgomery
+Rooms: TEP 2112
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 46-894 Analytical Marketing>
+
+<start course description for 46-894 Analytical Marketing>
+Semester: Spring 2024 (aka S24)
+Course Description: TBD
+</end course description for 46-894 Analytical Marketing>

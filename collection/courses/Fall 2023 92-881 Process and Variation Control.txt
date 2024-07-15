@@ -1,0 +1,16 @@
+<start course metadata for 92-881 Process and Variation Control>
+Semester: Fall 2023 (aka F23)
+Course Name: Process and Variation Control
+Course Number: 92-881
+Department: Medical Management:Sch of Pub Pol & Mgt
+Number of Units: 4
+Prerequisites: None
+Instructors: James Bente
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 92-881 Process and Variation Control>
+
+<start course description for 92-881 Process and Variation Control>
+Semester: Fall 2023 (aka F23)
+Course Description: Course description will be available on Heinz College website.
+</end course description for 92-881 Process and Variation Control>

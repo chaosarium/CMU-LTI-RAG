@@ -1,0 +1,6 @@
+publication venue: arXiv.org
+title: Fusion-in-T5: Unifying Document Ranking Signals for Improved Information Retrieval
+authors: S. Yu, Cheng-Chung Fan, Chenyan Xiong, David Jin, Zhiyuan Liu, Zhenghao Liu Tsinghua University, Huazhong University of Science, Technology, Microsoft Research, M. I. O. Technology, N. University
+year: 2023
+tldr: A novel re-ranker named Fusion-in-T5 (FiT5), which integrates document text information, retrieval features, and global document information into a single unified model using templated-based input and global attention, is proposed.
+abstract: Common IR pipelines are typically cascade systems that may involve multiple rankers and/or fusion models to integrate different information step-by-step. In this paper, we propose a novel re-ranker named Fusion-in-T5 (FiT5), which integrates document text information, retrieval features, and global document information into a single unified model using templated-based input and global attention. Experiments on passage ranking benchmarks MS MARCO and TREC DL show that FiT5 significantly improves ranking performance over prior pipelines. Analyses find that through global attention, FiT5 is able to jointly utilize the ranking features via gradually attending to related documents, and thus improve the detection of subtle nuances between them. Our code will be open-sourced.

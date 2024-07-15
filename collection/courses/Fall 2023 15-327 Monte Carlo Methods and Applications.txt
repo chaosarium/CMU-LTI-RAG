@@ -1,0 +1,16 @@
+<start course metadata for 15-327 Monte Carlo Methods and Applications>
+Semester: Fall 2023 (aka F23)
+Course Name: Monte Carlo Methods and Applications
+Course Number: 15-327
+Department: Computer Science
+Number of Units: 9
+Prerequisites: (21-254 or 21-256 or 21-259 or 21-266 or 21-268 or 21-269) and (15-259 or 21-325 or 36-218 or 36-219 or 36-225 or 36-235 or 18-465)
+Instructors: Gautam Iyer, Keenan Crane
+Rooms: DH A302
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-327 Monte Carlo Methods and Applications>
+
+<start course description for 15-327 Monte Carlo Methods and Applications>
+Semester: Fall 2023 (aka F23)
+Course Description: The Monte Carlo method uses random sampling to solve computational problems that would otherwise be intractable, and enables computers to model complex systems in nature that are otherwise too difficult to simulate.  This course provides a first introduction to Monte Carlo methods from complementary theoretical and applied points of view, and will include implementation of practical algorithms.  Topics include random number generation, sampling, Markov chains, Monte Carlo integration, stochastic processes, and applications in computational science.  Students need a basic background in probability, multivariable calculus, and some coding experience in any language.
+</end course description for 15-327 Monte Carlo Methods and Applications>

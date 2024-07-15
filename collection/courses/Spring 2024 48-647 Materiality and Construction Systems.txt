@@ -1,0 +1,16 @@
+<start course metadata for 48-647 Materiality and Construction Systems>
+Semester: Spring 2024 (aka S24)
+Course Name: Materiality and Construction Systems
+Course Number: 48-647
+Department: Architecture
+Number of Units: 9
+Prerequisites: None
+Instructors: Jeremy Ficca
+Rooms: POS 146
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-647 Materiality and Construction Systems>
+
+<start course description for 48-647 Materiality and Construction Systems>
+Semester: Spring 2024 (aka S24)
+Course Description: This course introduces students to contemporary methods of construction and draws attention to the materialization of architectural intent. It foregrounds the historical, technological, and conceptual basis of construction systems to understand the building as a process and cultural artifact. The course provides an overview of established and emerging construction systems to reveal how and why building processes are utilized. Materials and methods of construction are positioned as both constraints and affordances, each with distinct spatial, structural, environmental, economic, and aesthetic concerns. Through lectures, readings, and detailed analysis, students will learn about the construction of fundamental architectural conditions, including foundations, walls, frames, envelopes, and roofs. Production methods, spanning the vernacular to the digital will introduce cultures of building and design for manufacturing considerations.
+</end course description for 48-647 Materiality and Construction Systems>

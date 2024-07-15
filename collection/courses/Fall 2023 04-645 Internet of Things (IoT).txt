@@ -1,0 +1,16 @@
+<start course metadata for 04-645 Internet of Things (IoT)>
+Semester: Fall 2023 (aka F23)
+Course Name: Internet of Things (IoT)
+Course Number: 04-645
+Department: Information & Communication Technology
+Number of Units: 12
+Prerequisites: None
+Instructors: Edwin Mugume
+Rooms: CMR F307
+Locations: Kigali, Rwanda
+</end course metadata for 04-645 Internet of Things (IoT)>
+
+<start course description for 04-645 Internet of Things (IoT)>
+Semester: Fall 2023 (aka F23)
+Course Description: Traditionally, only computer devices were connected to the Internet. The Internet of Things (IoT) seeks to connect every Thing to the Internet. Things may include sensors, vehicles, home appliances, structures, etc. In this course, students will learn how to interconnect different Things to the Internet using well-known web technologies. Using well-developed and well-supported technologies makes it easier to deploy the IoT network in an affordable and secure way.  Students will also learn how to send information back to the Things for actuation purposes. Students will learn how to fuse raw sensor data in a meaningful way for large networks. The course will also cover connectivity technologies available for the IoT and how to choose the most appropriate technologies for different scenarios. The course takes a deeper look at low-power, long-range wireless protocols as well as appropriate protocols for constrained devices in the IoT ecosystem.  The students learn about printed circuit board design and hardware prototyping. The course combines several labs and a final class project to enhance student learning.
+</end course description for 04-645 Internet of Things (IoT)>

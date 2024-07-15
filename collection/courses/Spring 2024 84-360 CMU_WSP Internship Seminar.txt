@@ -1,0 +1,16 @@
+<start course metadata for 84-360 CMU/WSP Internship Seminar>
+Semester: Spring 2024 (aka S24)
+Course Name: CMU/WSP Internship Seminar
+Course Number: 84-360
+Department: Institute for Politics and Strategy
+Number of Units: 24
+Prerequisites: None
+Instructors: Dale Crowell
+Rooms: MDC 522
+Locations: Washington, District of Columbia:Dulles
+</end course metadata for 84-360 CMU/WSP Internship Seminar>
+
+<start course description for 84-360 CMU/WSP Internship Seminar>
+Semester: Spring 2024 (aka S24)
+Course Description: The internship is the experiential "core" of the Washington Semester Program.  Students intern three days per week, for approximately 24-25 hours, in offices from Capitol Hill to the White House and including opportunities in cabinet agencies, nonprofit institutions, museums, advocacy groups, policy think tanks, cultural institutions, and news organizations.  Through the internship, students gain professional experience and make long-lasting professional and personal contacts. In addition, students meet once a week with the CMU internship faculty for a 2-hour seminar to report and reflect on their internship experiences, and address pressing current issues from the perspective of their internship organization.   In addition, the weekly seminar typically includes 1-2 CMU alumni from the Washington, DC, area. Their personal and professional experiences become part of the seminar conversation, and they make themselves available to students as ongoing sources of information and advice.    THIS COURSE IS RESTRICTED TO STUDENTS PARTICIPATING IN THE CARNEGIE MELLON UNIVERSITY WASHINGTON SEMESTER PROGRAM (CMU/WSP) ONLY.
+</end course description for 84-360 CMU/WSP Internship Seminar>

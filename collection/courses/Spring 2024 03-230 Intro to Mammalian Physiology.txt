@@ -1,0 +1,16 @@
+<start course metadata for 03-230 Intro to Mammalian Physiology>
+Semester: Spring 2024 (aka S24)
+Course Name: Intro to Mammalian Physiology
+Course Number: 03-230
+Department: Biological Sciences
+Number of Units: 9
+Prerequisites: 03-121 or 03-151
+Instructors: Nesrine Affara
+Rooms: CMB 3178
+Locations: Doha, Qatar
+</end course metadata for 03-230 Intro to Mammalian Physiology>
+
+<start course description for 03-230 Intro to Mammalian Physiology>
+Semester: Spring 2024 (aka S24)
+Course Description: This course has been designed to explore human physiology at an introductory level. Emphasis will be placed on the physiological processes in an organ system framework and focus on a wide range of pertinent clinical topics. Our aim is to instill in you a deeper appreciation for the complexity and beauty of the human body, and most importantly, to motivate you to carry away physiological principles that you may need later in your profession or simply may be relevant to a real-world situation.
+</end course description for 03-230 Intro to Mammalian Physiology>

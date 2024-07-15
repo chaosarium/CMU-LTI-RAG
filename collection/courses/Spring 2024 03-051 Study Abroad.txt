@@ -1,0 +1,16 @@
+<start course metadata for 03-051 Study Abroad>
+Semester: Spring 2024 (aka S24)
+Course Name: Study Abroad
+Course Number: 03-051
+Department: Biological Sciences
+Number of Units: 0
+Prerequisites: None
+Instructors: Amanda Willard
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 03-051 Study Abroad>
+
+<start course description for 03-051 Study Abroad>
+Semester: Spring 2024 (aka S24)
+Course Description: This course number is a placeholder for biological sciences majors who are studying abroad.
+</end course description for 03-051 Study Abroad>

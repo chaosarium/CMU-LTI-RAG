@@ -1,0 +1,16 @@
+<start course metadata for 03-445 Undergraduate Research>
+Semester: Fall 2023 (aka F23)
+Course Name: Undergraduate Research
+Course Number: 03-445
+Department: Biological Sciences
+Number of Units: N/A
+Prerequisites: None
+Instructors: Amanda Willard
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 03-445 Undergraduate Research>
+
+<start course description for 03-445 Undergraduate Research>
+Semester: Fall 2023 (aka F23)
+Course Description: Students may investigate research problems under the supervision of members of the faculty. Permission of a faculty advisor required. **Students MUST contact bio-ungrad@andrew.cmu.edu and complete the application form in order to participate & register.**   BIO MAJORS: The Biology Undergraduate Office will send out the paperwork toyou on the first day of classes each semester. Paperwork and research mentor approval will be due the Friday before the add deadline. NON BIO MAJORS:Please contact the office (bio-ungrad@andrew.cmu.edu) to request the updated form.
+</end course description for 03-445 Undergraduate Research>

@@ -1,0 +1,16 @@
+<start course metadata for 18-429 Board-Level RF Systems for the Internet-of-Things>
+Semester: Fall 2023 (aka F23)
+Course Name: Board-Level RF Systems for the Internet-of-Things
+Course Number: 18-429
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Rick Carley
+Rooms: ANS C02
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-429 Board-Level RF Systems for the Internet-of-Things>
+
+<start course description for 18-429 Board-Level RF Systems for the Internet-of-Things>
+Semester: Fall 2023 (aka F23)
+Course Description: Please visit the ECE course website for a full description of special topics courses.    http://www.ece.cmu.edu/courses
+</end course description for 18-429 Board-Level RF Systems for the Internet-of-Things>

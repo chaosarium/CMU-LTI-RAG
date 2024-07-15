@@ -1,0 +1,16 @@
+<start course metadata for 09-116 Undergraduate Research Shadowing in Chemistry>
+Semester: Spring 2024 (aka S24)
+Course Name: Undergraduate Research Shadowing in Chemistry
+Course Number: 09-116
+Department: Chemistry
+Number of Units: 2
+Prerequisites: 09-115
+Instructors: Linda Peteanu
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 09-116 Undergraduate Research Shadowing in Chemistry>
+
+<start course description for 09-116 Undergraduate Research Shadowing in Chemistry>
+Semester: Spring 2024 (aka S24)
+Course Description: This is a follow-up course to 09-115, Introduction to Undergraduate Research in Chemistry, which is intended to provide laboratory training for first-year MCS students who want to participate in research in chemistry as soon as their first year, but have not been through the teaching labs yet. Near the end of the fall mini for 09-115, students will be asked to rank their faculty/group interests for possible shadowing. Based on those rankings and faculty/mentor availability, in 09-116, students will be paired with mentors from research labs for seven-week shadowing experiences. Mentors may be graduate students or advanced undergraduate students carrying out research. At the beginning of each mini, the students and mentors will identify blocks of time each week for shadowing based on their schedules. If scheduling allows, students will also be encouraged to attend group meetings (this would count toward lab time). Shadowing will continue for seven weeks, at which time the students may rotate to a second group for another shadowing experience. We request a dedicated lecture room to ensure there is adequate space for the initial pairing and for an overview on assessments, and to allow for possible additional meetings as the course develops.
+</end course description for 09-116 Undergraduate Research Shadowing in Chemistry>

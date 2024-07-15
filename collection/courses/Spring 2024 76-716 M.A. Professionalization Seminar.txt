@@ -1,0 +1,16 @@
+<start course metadata for 76-716 M.A. Professionalization Seminar>
+Semester: Spring 2024 (aka S24)
+Course Name: M.A. Professionalization Seminar
+Course Number: 76-716
+Department: English
+Number of Units: 6
+Prerequisites: None
+Instructors: John Oddo
+Rooms: PH A20A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 76-716 M.A. Professionalization Seminar>
+
+<start course description for 76-716 M.A. Professionalization Seminar>
+Semester: Spring 2024 (aka S24)
+Course Description: This six week mini introduces MA students to practicing professionals in academia and other non-academic careers to talk informally about their professional journeys, pre-professionalization, workplace experience and expectations as well as advice for how to apply the skills they gain in the humanities to careers within and beyond academia. Not only will this course provide informal networking opportunities but students will spend time workshopping their C.V.s and resumes. Students will also examine (and practice generating) texts for professional development, for example a statement to a PhD admissions committee.
+</end course description for 76-716 M.A. Professionalization Seminar>

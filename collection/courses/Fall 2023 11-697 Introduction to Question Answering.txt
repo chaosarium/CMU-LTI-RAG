@@ -1,0 +1,16 @@
+<start course metadata for 11-697 Introduction to Question Answering>
+Semester: Fall 2023 (aka F23)
+Course Name: Introduction to Question Answering
+Course Number: 11-697
+Department: Language Technologies Institute
+Number of Units: 12
+Prerequisites: None
+Instructors: Eric Nyberg, Teruko Mitamura
+Rooms: PH A18A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 11-697 Introduction to Question Answering>
+
+<start course description for 11-697 Introduction to Question Answering>
+Semester: Fall 2023 (aka F23)
+Course Description: The Introduction to Question Answering course provides a chance for hands-on, in-depth exploration of core algorithmic approaches to question answering (QA) for students who haven't worked on a QA system before.
+</end course description for 11-697 Introduction to Question Answering>

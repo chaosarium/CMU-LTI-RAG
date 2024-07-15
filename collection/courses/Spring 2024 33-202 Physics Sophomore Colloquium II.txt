@@ -1,0 +1,16 @@
+<start course metadata for 33-202 Physics Sophomore Colloquium II>
+Semester: Spring 2024 (aka S24)
+Course Name: Physics Sophomore Colloquium II
+Course Number: 33-202
+Department: Physics
+Number of Units: 2
+Prerequisites: None
+Instructors: Gillian Ryan, Matthew Walker
+Rooms: HOA 160
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 33-202 Physics Sophomore Colloquium II>
+
+<start course description for 33-202 Physics Sophomore Colloquium II>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is the second in a sequence (following 33-201) designed to give students an overview of the field of Physics and to help students make knowledgeable choices in both their academic and professional careers. We discuss several of the sub-fields of Physics in order to give students an understanding of the types of activities, from research to industrial applications, in each. Over the two semesters, we typically discuss six subfields in some detail with the goal of providing a minimal literacy in the relevant concepts and language. The course consists of one classroom lecture per week plus one hour per week of reading and/or problem solving.
+</end course description for 33-202 Physics Sophomore Colloquium II>

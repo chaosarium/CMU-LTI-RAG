@@ -1,0 +1,16 @@
+<start course metadata for 27-793 Special Topics: Phase Relations and Phase Diagrams in Magnetoceramics.>
+Semester: Spring 2024 (aka S24)
+Course Name: Special Topics: Phase Relations and Phase Diagrams in Magnetoceramics.
+Course Number: 27-793
+Department: Materials Science & Engineering
+Number of Units: 6
+Prerequisites: None
+Instructors: Michael Mchenry
+Rooms: DH 1117
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 27-793 Special Topics: Phase Relations and Phase Diagrams in Magnetoceramics.>
+
+<start course description for 27-793 Special Topics: Phase Relations and Phase Diagrams in Magnetoceramics.>
+Semester: Spring 2024 (aka S24)
+Course Description: We will introduce geomagnetism of Martian minerals and contributions to theories of life on Mars as a motivating example magnetic minerals.  The course will examine advanced concepts in crystallography of ionic solids and phase transformations and phase diagrams in ionic (mainly oxide) materials. Coverage of solid solution models, defects, surfaces, and interfaces will be illustrated with reference to spinel ferrites.  Illustrations of phase diagrams and engineering applications of some selected magnetic ceramics will be made. In addition to chemical ordering, concepts of magnetic ordering of magnetic dipoles and charge ordering will be introduced.  The titanomagnetites will be illustrated as a system with interesting phase transformations, including spinodal decomposition, and coupling to charge and magnetic dipole ordering.  Grading will be based on class participation and presentation of research question (solved or currently investigated) in magnetoceramics.
+</end course description for 27-793 Special Topics: Phase Relations and Phase Diagrams in Magnetoceramics.>

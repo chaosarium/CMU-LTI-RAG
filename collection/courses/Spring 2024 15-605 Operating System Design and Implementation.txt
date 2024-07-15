@@ -1,0 +1,16 @@
+<start course metadata for 15-605 Operating System Design and Implementation>
+Semester: Spring 2024 (aka S24)
+Course Name: Operating System Design and Implementation
+Course Number: 15-605
+Department: Computer Science
+Number of Units: 15
+Prerequisites: 15-213 or 15-513 or 18-613 or 18-213 or 18-600 or 14-513 or 18-243
+Instructors: David Eckhardt
+Rooms: POS 153
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-605 Operating System Design and Implementation>
+
+<start course description for 15-605 Operating System Design and Implementation>
+Semester: Spring 2024 (aka S24)
+Course Description: Operating System Design and Implementation is a rigorous hands-on introduction to the principles and practice of operating systems.  The core experience is writing a small Unix-inspired OS kernel, in C with some x86 assembly language, which runs on a PC hardware  simulator (and on actual PC hardware if you wish).  Work is done in two-person teams, and "team programming" skills (source control,  modularity, documentation) are emphasized.  The size and scope of the programming assignments typically result in students significantly developing their design, implementation, and debugging abilities. Core concepts include the process model, virtual memory, threads, synchronization, and deadlock; the course also surveys higher-level OS topics including file systems, interprocess communication, networking, and security.    Students, especially graduate students, who have not satisfied the prerequisite at  Carnegie Mellon are strongly cautioned - to enter the class you must be able  to write a storage allocator in C, use a debugger, understand 2's-complement  arithmetic, and translate between C and x86 assembly language.  The  instructor may require you to complete a skills assessment exercise before  the first week of the semester in order to remain registered in the class.    Auditing:  this course is usually full, and we generally receive  many more requests to audit than we can accept.  If you wish to  audit, please have your advisor contact us before the semester  begins to discuss your educational goals.
+</end course description for 15-605 Operating System Design and Implementation>

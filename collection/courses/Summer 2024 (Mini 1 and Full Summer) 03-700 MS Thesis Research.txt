@@ -1,0 +1,16 @@
+<start course metadata for 03-700 MS Thesis Research>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: MS Thesis Research
+Course Number: 03-700
+Department: Biological Sciences
+Number of Units: N/A
+Prerequisites: None
+Instructors: Daniel Brasier
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 03-700 MS Thesis Research>
+
+<start course description for 03-700 MS Thesis Research>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: A student enrolled in this course conducts an independent investigation on a project in a faculty advisor's lab. The project is selected from a major area of research study with the advice and approval of the faculty advisor. This course is required of students who are enrolled in the Master of Science program and wish to write and defend a thesis.
+</end course description for 03-700 MS Thesis Research>

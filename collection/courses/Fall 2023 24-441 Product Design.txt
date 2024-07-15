@@ -1,0 +1,16 @@
+<start course metadata for 24-441 Product Design>
+Semester: Fall 2023 (aka F23)
+Course Name: Product Design
+Course Number: 24-441
+Department: Mechanical Engineering
+Number of Units: 12
+Prerequisites: 24-370
+Instructors: Kate Whitefoot
+Rooms: GHC 5222
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-441 Product Design>
+
+<start course description for 24-441 Product Design>
+Semester: Fall 2023 (aka F23)
+Course Description: This course guides students through the design process in the applied design of a practical mechanical system. Lectures describe the typical design process and its associated activities, emphasizing methods for innovation and tools for design analysis. Professional and ethical responsibilities of designers, interactions with clients and other professionals, regulatory aspects, and public responsibility are discussed. The design project is typically completed in teams and is based on a level of engineering knowledge expected of seniors. Proof of practicality is required in the form of descriptive documentation. Frequently, a working model will also be required. Oral progress reports and a final written and oral report are required. 3 hrs. rec., 3 hrs lab Senior standing and Machine Shop Practice 24-200 required.
+</end course description for 24-441 Product Design>

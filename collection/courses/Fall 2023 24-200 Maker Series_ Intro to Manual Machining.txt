@@ -1,0 +1,16 @@
+<start course metadata for 24-200 Maker Series: Intro to Manual Machining>
+Semester: Fall 2023 (aka F23)
+Course Name: Maker Series: Intro to Manual Machining
+Course Number: 24-200
+Department: Mechanical Engineering
+Number of Units: 1
+Prerequisites: None
+Instructors: Edward Wojciechowski
+Rooms: HH C110
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-200 Maker Series: Intro to Manual Machining>
+
+<start course description for 24-200 Maker Series: Intro to Manual Machining>
+Semester: Fall 2023 (aka F23)
+Course Description: This course teaches safe operation of manual machining equipment through structured hands-on activities.  A significant portion of the course is dedicated to learning subtractive manufacturing, the industrial standard for the mass manufacture of products around the world.  The skills learned in this course can be applied to fabricate durable components for design projects, research equipment, and extracurricular activities.  1-unit mini (7-weeks)
+</end course description for 24-200 Maker Series: Intro to Manual Machining>

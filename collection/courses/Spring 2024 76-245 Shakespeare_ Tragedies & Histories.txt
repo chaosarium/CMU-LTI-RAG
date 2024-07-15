@@ -1,0 +1,16 @@
+<start course metadata for 76-245 Shakespeare: Tragedies & Histories>
+Semester: Spring 2024 (aka S24)
+Course Name: Shakespeare: Tragedies & Histories
+Course Number: 76-245
+Department: English
+Number of Units: 9
+Prerequisites: None
+Instructors: David Pensky
+Rooms: PH A19C
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 76-245 Shakespeare: Tragedies & Histories>
+
+<start course description for 76-245 Shakespeare: Tragedies & Histories>
+Semester: Spring 2024 (aka S24)
+Course Description: In the closing decades of the sixteenth century, enterprising cultural producers in early modern London began to develop a new commercial venture called 'playing': a business that offered ordinary people a few hours of dramatic entertainment for the price of one penny. In addition to watching the professional players onstage, spectators also participated in a form of play themselves (in a sense) because theatrical experience provided a unique opportunity to engage imaginatively with otherwise inaccessible people, worlds, and ideas. More than four hundred years later, the drama of the period now ranks among the most esteemed texts in all English literature, and the name 'Shakespeare' has become a byword for literary genius. This course will offer an overview of Shakespeare's tragedies and histories. As we read through these works, we will endeavor to understand what, and how, they meant in their original context, thereby developing a historically informed perspective on their influence over our own cultural landscape.
+</end course description for 76-245 Shakespeare: Tragedies & Histories>

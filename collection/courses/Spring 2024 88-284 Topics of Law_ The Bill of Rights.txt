@@ -1,0 +1,16 @@
+<start course metadata for 88-284 Topics of Law: The Bill of Rights>
+Semester: Spring 2024 (aka S24)
+Course Name: Topics of Law: The Bill of Rights
+Course Number: 88-284
+Department: Social & Decision Sciences
+Number of Units: 9
+Prerequisites: None
+Instructors: Mary Jo Miller
+Rooms: BH A53
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 88-284 Topics of Law: The Bill of Rights>
+
+<start course description for 88-284 Topics of Law: The Bill of Rights>
+Semester: Spring 2024 (aka S24)
+Course Description: This course examines the history and place of the Bill of Rights in our nation's constitutional framework. It focuses on the historical origins of the U.S. Constitution, of each of the first ten amendments to the Constitution (that we refer to as the "Bill of Rights"), how the meanings and interpretations of these have evolved over time, and what they mean to us today. Each article of the Bill of Rights will be examined in terms of its original intentions, and then through cases that have challenged and been interpreted through the Bill's articles.
+</end course description for 88-284 Topics of Law: The Bill of Rights>

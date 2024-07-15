@@ -1,0 +1,121 @@
+MLT Student Handbook 2023 - 2024 
+1 Introduction  
+1.1 Welcome  
+Welcome to the Language Technologies Institute. While this handbook (and your college 
+graduate student handbook) is specific to your academic experience in the LTI, there are several other resources and offices that graduate students are encouraged to consult during their tenure at Carnegie Mellon University. Information about The Word, the student handbook, the 
+Office of Graduate and Postdoc Affairs, the Office of the Dean of Student Affairs, and others, 
+are included in Appendix A of this handbook.  
+1.2 The MLT Degree  
+The Master of Language Technologies (MLT) is a research- oriented Master of Science degree 
+offered by the Language Technologies Institute (LTI), a graduate department in the School of 
+Computer Science at Carnegie Mellon University.  The MLT program is a 24 -month program 
+consisting of courses, directed research, and an optional Masters ' Thesis.  Typical research 
+areas include speech processing, information retrieval, machine translation, natural language 
+processing, machine learning, and computational biology.  Many MLT graduates continue on to PhD programs in the LTI or other leading universities.  Other graduates  go on to work in the 
+computer industry, many at major corporate research laboratories.  
+There are significant differences between CMU's different departments and degree programs in philosophical approach, procedures, policies , and regulations. Each department issues a 
+handbook that informs graduate students of their program requirements and procedures and ensures that students have written access to the standard information outlined below. This handbook describes the policies, procedures, and requirements for the Master of Language Technologies (MLT) degree.  
+While this handbook is specific to your academic experience in the department, there are several other resources and offices graduate students are encouraged to consult during their 
+tenure at Carnegie Mellon University.  Information about The Word, Carnegie Mellon University 
+Student Handbook , the Office of the Assistant Vice Provost for Graduate Education, the Office 
+of the Dean of Student Affairs and others are included in Appendix A of this handbook.  
+All policies not explicitly described in this document conform to School of Computer Science 
+(SCS) policies and university policies described in The Word, Carnegie Mellon University Student Handbook  and at the University Policies website.   
+   
+ 
+ 
+MLT Graduate Student Handbook  Page 7 
+ 1.3 MLT Contact Information  
+The people responsible for administering the MLT degree are:  
+ Kate Schaich      Robert Frederking  
+ Program Manager, MLT    Program Director, MLT  
+ Graduate Program Manager, LTI   Principal Systems Scientist  
+ GHC 6415      GHC 6515  
+ 412- 268-4788      412- 268-6656  
+ kschaich@cs.cmu.edu     ref@cs.cmu.edu   
+ 
+ 
+Robert Frederking     Mona Diab  
+ Cha ir of Graduate Programs, LTI   Director, LTI  
+ Principal Systems Scientist    GHC 5415  
+ GHC 6515      412- 268-6656      
+       mdiab@andrew.cmu.edu     
+  In addition, students may confer with the Graduate Education Office (graded@andrew.cmu.edu
+) regarding issues of process or other concerns as they navigate 
+conflicts. 
+ The Language Technologies Institute is located primarily on the 5
+th and 6th floors  of the Gates 
+Hillman Complex (GHC) on Carnegie Mellon’s Pittsburgh campus. The address and contact 
+information of the LTI are:  
+Language Technologies Institute  
+Carnegie Mellon University  
+5000 Forbes Avenue  
+Gates Hillman Complex 5402, LTI  
+Pittsburgh, PA 152 41-3891  
+ 
+412- 268-6591 (phone)  
+412- 268-6298 (fax)  
+ http://www.lti.cs.cmu.edu/
+ 
+    
+ 
+MLT Graduate Student Handbook  Page 8 
+ 1.4 University Policies and Expectations  
+It is the responsibility of each member of the Carnegie Mell on community to be familiar with 
+university policies and guidelines. In addition to this departmental graduate student handbook, 
+the following resources are available to assist you in understanding community expectations:  
+• The Word/Student Handbook:   www.cmu.edu/student-affairs/theword//index.html   
+• Academic Integrity  Policy :  www.cmu.edu/policies/student-and-student-
+life/academic -integrity.html     
+• University Policies Website:  www.cmu.edu/policies/   
+• Office of Graduate and Postdoctoral Affairs : 
+ www.cmu.edu/graduate/policies/index.html  
+Due to the changing nature of conditions and expectations surrounding public health and safety requirements, please visit www.cmu.edu/c oronavirus
+ for the most up to date information.  
+Please see Appendix A for additional information about The Word and other university resources.  
+1.5 Carnegie Mellon University Statement of Assurance  
+Carnegie Mellon University does not discriminate in admission, employment or administration of its programs or activities on the basis of race, color, national origin, sex, handicap or disability, age, sexual orientation, gender identity, religion, creed, ancestry, belief, veteran status or genetic information. Furthermore, Carnegie Mellon University does not discriminate and is required not to discriminate in violation of federal, state or local laws or executive orders.  
+Inquiries concerning the application of and compliance with this statement should be directed to the university ombudsman, Carnegie Mellon University, 5000 Forbes Avenue, Pittsburgh, PA 
+15213, telephone 412- 268- 1018.  Obtain general information about Carnegie Mellon University 
+by calling 41 2-268- 2000.  
+Carnegie Mellon University publishes an annual campus security and fire safety report describing the university's security, alcohol and drug, sexual assault and fire safety policies, and 
+containing statistics about the number and type of crimes  committed on the campus, and the 
+number and cause of fires in campus residence facilities during the preceding three years. You can obtain a copy by contacting the Carnegie Mellon Police Department at 412 -268- 2323. The 
+annual security and fire safety report also is available online at www.cmu.edu/police/annualreports. 
+Information regarding the application of Title IX, including to admission and employment 
+decisions, the sexual misconduct grievance procedures and process, including how to file a report or a complaint of sex discrimination, how to file a report of sexual harassment, and how 
+MLT Graduate Student Handbook  Page 9 
+ the university responds to such reports is available at www.cmu.edu/title -ix. The Title IX 
+coordinator may be reached at 5000 Forbes Ave., 140 Cyert Hall, Pittsburgh, PA 1 5213; 412-
+268- 7125; or tix@cmu.edu.  
+1.6 The Carnegie Mellon Code  
+Students at Carnegie Mellon, because they are members of an academic community dedicated 
+to the achievement of excellence, are expected to meet the highest standards of personal, ethical and moral conduct possible.  
+ These standards require personal integrity, a commitment to honesty without compromise, as well as truth without equivocation and a willingness to place the good of the community above the good of the self. Obligations once undertaken must be met, commitments kept.  
+ As members of the Carnegie Mellon community, individuals are expected to uphold the standards of the community in addition to holding others accountable for said standards. It is rare that the life of a student in an academic community can be so private that it will not affect the community as a whole or that the above standards do not apply.  
+ The discovery, advancement and communication of knowledge are not possible without a 
+commitment to these standards. Creativity cannot exist without acknowledgment of the 
+creativity of others. New knowledge cannot be developed without credit for prior knowledge. Without the ability to trust that these principles will be observed, an academic community cannot exist.  
+The commitment of its faculty, staff and students to these standards contributes to the high respect in which the Carnegie Mellon degree is held. Students must not destroy that respect by their failure to meet these standards. Students who cannot meet them should voluntarily withdraw from the university.  
+The Carnegie Mellon Code can also be found on -line at 
+http://www.cmu.edu/student-
+affairs/theword/code.html  
+1.7 Vision  
+Carnegie Mell on University will have a transformative impact on society through continual 
+innovation in education, research, creativity, and entrepreneurship.  
+ 1.8 Mission  
+To create a transformative educational experience for students focused on deep disciplinary 
+knowledge; problem solving; leadership, communication, and interpersonal skills; and personal 
+health and well -being. 
+To cultivate a transformative university community dedicated to a) attracting and retaining diverse, world -class talent; b) creating a collaborative environment open to the free exchange 
+of ideas, where research, creativity, innovation, and entrepreneurship can flourish; and c) ensuring individuals can achieve their full potential.  
+To impact society in a transformative way —regionally, nationally, and globally —by engaging 
+with partners outside the traditional borders of the university campus.  
+1.9 Consensual Intimate Relationship Policy Regarding Undergraduate 
+Students 
+This policy addresses the circumstances in which romantic, sexual, or amorous 
+relation ships/interactions with undergraduate students, even if consensual, are inappropriate 
+and prohibited. The purpose of this policy is to assure healthy professional relationships. This policy is not intended to discourage consensual intimate relationships unless there is a 
+conflicting professional relationship in which one party has authority over the other as in the policy.  
+https://www.cmu.edu/policies/student-and-student-life/consensual-relationships.html
+ 

@@ -1,0 +1,16 @@
+<start course metadata for 54-418 Songs for Showcase>
+Semester: Spring 2024 (aka S24)
+Course Name: Songs for Showcase
+Course Number: 54-418
+Department: Drama
+Number of Units: 2
+Prerequisites: 54-500
+Instructors: Rick Edinger
+Rooms: PCA 321
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-418 Songs for Showcase>
+
+<start course description for 54-418 Songs for Showcase>
+Semester: Spring 2024 (aka S24)
+Course Description: Vocal preparation and Song Arrangements and Song Cuts explored for the Senior Showcase presentation in New York City.
+</end course description for 54-418 Songs for Showcase>

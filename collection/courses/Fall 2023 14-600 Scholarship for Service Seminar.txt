@@ -1,0 +1,16 @@
+<start course metadata for 14-600 Scholarship for Service Seminar>
+Semester: Fall 2023 (aka F23)
+Course Name: Scholarship for Service Seminar
+Course Number: 14-600
+Department: Information Networking Institute
+Number of Units: 0
+Prerequisites: None
+Instructors: Dena Tsamitis, Joanne Peca
+Rooms: CIC 1201
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 14-600 Scholarship for Service Seminar>
+
+<start course description for 14-600 Scholarship for Service Seminar>
+Semester: Fall 2023 (aka F23)
+Course Description: The Scholarship for Service (SFS) seminar series is a weekly course over two semesters dedicated to SFS students. This course will include the discussion of current issues in cybersecurity, practical career guidance, workshops on resume building and security clearances, and on-campus visits from government agencies, Federally Funded Research and Development Centers, and National Laboratories for technical talks, networking, and recruitment.    Additionally, in order to facilitate synthesis, application, and evaluation of students knowledge, case study discussions will be integrated into the SFS seminar series, led by the Principal Investigator.  In this activity, SFS students will be exposed to case studies that highlight ethical dilemmas in current events and will apply their education to these real-world situations. The SFS seminar series will also include a robust combination of technical talks led by SFS alumni, CMU researchers, and other professionals in the field.   Graduating SFS students will be required to present their projects to peers during the program as well as in a poster showcase. This course is required for all enrolled SFS students.
+</end course description for 14-600 Scholarship for Service Seminar>

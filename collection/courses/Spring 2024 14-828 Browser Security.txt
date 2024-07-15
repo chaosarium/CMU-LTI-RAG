@@ -1,0 +1,16 @@
+<start course metadata for 14-828 Browser Security>
+Semester: Spring 2024 (aka S24)
+Course Name: Browser Security
+Course Number: 14-828
+Department: Information Networking Institute
+Number of Units: 12
+Prerequisites: None
+Instructors: Hanan Hibshi
+Rooms: B23 212; CIC 1201
+Locations: Pittsburgh, Pennsylvania; San Jose, California
+</end course metadata for 14-828 Browser Security>
+
+<start course description for 14-828 Browser Security>
+Semester: Spring 2024 (aka S24)
+Course Description: The Web continues to grow in popularity as platform for retail transactions, financial services, and rapidly evolving forms of communication. It is becoming an increasingly attractive target for attackers who wish to compromise users' systems or steal data from other sites. Browser vendors must stay ahead of these attacks by providing features that support secure web applications. This course will study vulnerabilities in existing web browsers and the applications they render, as well as new technologies that enable web applications that were never before possible. The material will be largely based on current research problems, and students will be expected to criticize and improve existing defenses. Topics of study include (but are not limited to) browser encryption, JavaScript security, plug-in security, sandboxing, web mashups, and authentication. The course will involve an intensive group research project focusing on protocols/algorithms, vulnerabilities, and attacks as well as several individual homework and programming tasks. Groups will perform a sequence of cumulative tasks (literature review, analysis, simulation, design, implementation) to address aspects of their chosen topic, occasionally reporting their results to the class through brief presentations, leading to a final report.
+</end course description for 14-828 Browser Security>

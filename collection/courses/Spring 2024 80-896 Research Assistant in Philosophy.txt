@@ -1,0 +1,16 @@
+<start course metadata for 80-896 Research Assistant in Philosophy>
+Semester: Spring 2024 (aka S24)
+Course Name: Research Assistant in Philosophy
+Course Number: 80-896
+Department: Philosophy
+Number of Units: 1
+Prerequisites: None
+Instructors: Adam Bjorndahl
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 80-896 Research Assistant in Philosophy>
+
+<start course description for 80-896 Research Assistant in Philosophy>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is for PhD students who are spending the semester working on a grant instead of TAing or grading.
+</end course description for 80-896 Research Assistant in Philosophy>

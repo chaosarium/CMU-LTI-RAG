@@ -1,0 +1,16 @@
+<start course metadata for 57-985 Computer Technology in Music Education>
+Semester: Spring 2024 (aka S24)
+Course Name: Computer Technology in Music Education
+Course Number: 57-985
+Department: Music
+Number of Units: 9
+Prerequisites: None
+Instructors: Benjamin Opie
+Rooms: HOA A10
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-985 Computer Technology in Music Education>
+
+<start course description for 57-985 Computer Technology in Music Education>
+Semester: Spring 2024 (aka S24)
+Course Description: The modern classroom makes increasing use of computer technology for teaching and communication, and the music classroom is no exception.  This course addresses these questions: How can the music teacher use computer technology in the classroom?  What music technologies are appropriate for elementary and secondary level classes?  What resources are available online?  Projects will include creating arrangements in Finale, a classroom blog based on existing examples, sample lesson plans, and a hypothetical budget for a music classroom computer system.  This course is available only to graduate music education students.
+</end course description for 57-985 Computer Technology in Music Education>

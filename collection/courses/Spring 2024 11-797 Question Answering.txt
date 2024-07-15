@@ -1,0 +1,16 @@
+<start course metadata for 11-797 Question Answering>
+Semester: Spring 2024 (aka S24)
+Course Name: Question Answering
+Course Number: 11-797
+Department: Language Technologies Institute
+Number of Units: 12
+Prerequisites: None
+Instructors: Eric Nyberg, Teruko Mitamura
+Rooms: GHC 4102
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 11-797 Question Answering>
+
+<start course description for 11-797 Question Answering>
+Semester: Spring 2024 (aka S24)
+Course Description: The Question Answering course provides a chance for hands-on, in-depth exploration of core algorithmic approaches to question answering (QA). Students will work independently or in small teams to extend or adapt existing QA modules and systems to improve overall performance on known QA datasets (e.g. TREC, CLEF, NTCIR), using best practices associated with the Open Advancement of Question Answering initiative. Each student project will evaluate one or more component algorithms on a given QA dataset and produce a conference-style paper describing the system design, experimental setup and results.
+</end course description for 11-797 Question Answering>

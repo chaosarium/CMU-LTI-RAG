@@ -1,0 +1,16 @@
+<start course metadata for 57-694 Elective Recital>
+Semester: Fall 2023 (aka F23)
+Course Name: Elective Recital
+Course Number: 57-694
+Department: Music
+Number of Units: 1
+Prerequisites: None
+Instructors: Sharon Johnston
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-694 Elective Recital>
+
+<start course description for 57-694 Elective Recital>
+Semester: Fall 2023 (aka F23)
+Course Description: to be determined
+</end course description for 57-694 Elective Recital>

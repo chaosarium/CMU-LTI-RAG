@@ -1,0 +1,16 @@
+<start course metadata for 17-620 Quantum Machine Learning>
+Semester: Fall 2023 (aka F23)
+Course Name: Quantum Machine Learning
+Course Number: 17-620
+Department: Software & Societal Systems
+Number of Units: 6
+Prerequisites: None
+Instructors: Daniel Justice, Rita Singh
+Rooms: 3SC 265
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 17-620 Quantum Machine Learning>
+
+<start course description for 17-620 Quantum Machine Learning>
+Semester: Fall 2023 (aka F23)
+Course Description: "Quantum Machine Learning" explores the intersection of quantum computing and machine learning. It delves into the fundamentals of quantum principles and quantum algorithms and their impact on machine learning techniques. The course also addresses advanced topics like generative AI models and the applicability of quantum computing in enhancing Large Language Models (LLMs). Upon completion, students will comprehend how to harness quantum computing to improve the efficiency and performance of selected machine learning tasks.
+</end course description for 17-620 Quantum Machine Learning>

@@ -1,0 +1,16 @@
+<start course metadata for 17-617 Programming Quantum Computers>
+Semester: Fall 2023 (aka F23)
+Course Name: Programming Quantum Computers
+Course Number: 17-617
+Department: Software & Societal Systems
+Number of Units: 6
+Prerequisites: None
+Instructors: Daniel Justice
+Rooms: 3SC 265
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 17-617 Programming Quantum Computers>
+
+<start course description for 17-617 Programming Quantum Computers>
+Semester: Fall 2023 (aka F23)
+Course Description: Quantum Computer are currently an experimental hardware architecture based on quantum mechanics. Yet in the near term, they will become common and software engineers should know the basics about how to program them. This course focuses on the programming of quantum computers. No physics knowledge or sophisticated mathematical knowledge is required.
+</end course description for 17-617 Programming Quantum Computers>

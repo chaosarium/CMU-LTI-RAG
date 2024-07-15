@@ -1,0 +1,16 @@
+<start course metadata for 03-776 Molecular Techniques for Bioprocessing>
+Semester: Spring 2024 (aka S24)
+Course Name: Molecular Techniques for Bioprocessing
+Course Number: 03-776
+Department: Biological Sciences
+Number of Units: 6
+Prerequisites: 03-709
+Instructors: Natalie McGuier
+Rooms: DH 2303
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 03-776 Molecular Techniques for Bioprocessing>
+
+<start course description for 03-776 Molecular Techniques for Bioprocessing>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is the first in a sequence of two lab minis (03-776 & 06-777) required for an MS degree in Biotechnology and Pharmaceutical Engineering. It is designed to teach you techniques used in molecular biology research, specifically those involved with upstream bioprocessing. In addition, you will further develop your skills in experimental design, quantitative reasoning, and critical analysis. While specific experiments may change from semester to semester, core topics include cloning techniques (plasmid isolation and characterization, PCR, restriction enzyme digests, gel electrophoresis) and cell culture (bacteria and mammalian). Experiments are designed to generate a eukaryotic cell line expressing a protein of interest. The follow-up lab, 06-777 for downstream bioprocessing, will build on the techniques and share some reagents.
+</end course description for 03-776 Molecular Techniques for Bioprocessing>

@@ -1,0 +1,16 @@
+<start course metadata for 07-129 Freshmen Immigration Course>
+Semester: Fall 2023 (aka F23)
+Course Name: Freshmen Immigration Course
+Course Number: 07-129
+Department: SCS Interdisciplinary
+Number of Units: 3
+Prerequisites: None
+Instructors: Khaled Harras
+Rooms: CMB 1202
+Locations: Doha, Qatar
+</end course metadata for 07-129 Freshmen Immigration Course>
+
+<start course description for 07-129 Freshmen Immigration Course>
+Semester: Fall 2023 (aka F23)
+Course Description: The Freshman Immigration Course is taken by first-semester Computer Science majors on the Doha campus. The course is designed to acquaint incoming majors with computer science at CMU. Talks range from historical perspectives in the field to descriptions of the cutting edge research being conducted in the School of Computer Science. Enrollment is limited to SCS Freshmen ONLY.
+</end course description for 07-129 Freshmen Immigration Course>

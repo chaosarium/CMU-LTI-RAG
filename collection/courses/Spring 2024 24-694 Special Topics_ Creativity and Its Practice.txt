@@ -1,0 +1,16 @@
+<start course metadata for 24-694 Special Topics: Creativity and Its Practice>
+Semester: Spring 2024 (aka S24)
+Course Name: Special Topics: Creativity and Its Practice
+Course Number: 24-694
+Department: Mechanical Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Israel Stol
+Rooms: PH 226B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-694 Special Topics: Creativity and Its Practice>
+
+<start course description for 24-694 Special Topics: Creativity and Its Practice>
+Semester: Spring 2024 (aka S24)
+Course Description: The objective of this course is to teach the underlying principles of creativity and practical approaches to fostering individual and collective creativity in order to solve problems. Topics include: drivers of creativity and factors that affect it, what motivates and inhibits people from maximizing their creative potential, the traits of exceptionally creative people, tools and recommendations to foster and facilitate creativity in work environments.  To address these topics the course will involve a combination of lecture, in-class discussions, participation in hands-on exercises and homework assignments. Prerequisite: Senior Standing or above
+</end course description for 24-694 Special Topics: Creativity and Its Practice>

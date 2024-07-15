@@ -1,0 +1,16 @@
+<start course metadata for 57-751 The Citizen Artist>
+Semester: Spring 2024 (aka S24)
+Course Name: The Citizen Artist
+Course Number: 57-751
+Department: Music
+Number of Units: 6
+Prerequisites: None
+Instructors: Monique Mead
+Rooms: CFA ACH
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-751 The Citizen Artist>
+
+<start course description for 57-751 The Citizen Artist>
+Semester: Spring 2024 (aka S24)
+Course Description: This course celebrates the intersection of artistry and citizenship by engaging in conversation around social justice and exploring ways in which music can uplift our Pittsburgh community. We will collaborate with Autism Pittsburgh and the Lullaby Project to create artful musical experiences that engage families with autism and foster connection between parents and babies. Musicians, artists, and social advocates across campus are invited to participate.
+</end course description for 57-751 The Citizen Artist>

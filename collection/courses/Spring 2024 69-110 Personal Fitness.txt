@@ -1,0 +1,16 @@
+<start course metadata for 69-110 Personal Fitness>
+Semester: Spring 2024 (aka S24)
+Course Name: Personal Fitness
+Course Number: 69-110
+Department: Physical Education
+Number of Units: 3
+Prerequisites: None
+Instructors: Patricia Stragar, Sara Gauntner
+Rooms: CUC AR 255
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 69-110 Personal Fitness>
+
+<start course description for 69-110 Personal Fitness>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is a fun, high intensity strength training class that focuses on using dumbbells and your body weight to create challenging resistance that targets the upper and lower body, abdominal core, and cardiovascular capacity.
+</end course description for 69-110 Personal Fitness>

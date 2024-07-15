@@ -1,0 +1,16 @@
+<start course metadata for 82-294 19th Century Russian Masterpieces>
+Semester: Fall 2023 (aka F23)
+Course Name: 19th Century Russian Masterpieces
+Course Number: 82-294
+Department: Modern Languages
+Number of Units: N/A
+Prerequisites: None
+Instructors: Tatyana Gershkovich
+Rooms: DH 2105
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 82-294 19th Century Russian Masterpieces>
+
+<start course description for 82-294 19th Century Russian Masterpieces>
+Semester: Fall 2023 (aka F23)
+Course Description: In the 19th century, Russian writers produced some of the most beloved works of Western literature, among them Dostoevsky's Crime and Punishment and Tolstoy's Anna Karenina. These novels continue to captivate audiences and inspire adaptations in theater, film, and television. This course will examine the fertile century that yielded such masterpieces. In addition to the works mentioned above, students will encounter texts by writers who may be less well known but are no less significant, including Pushkin, Lermontov, Gogol, Chekhov, and Pavlova. We will consider the social and cultural circumstances in which these works were produced and reflect on the reasons these Russian masterpieces have appealed to audiences well beyond the Russian-speaking world.
+</end course description for 82-294 19th Century Russian Masterpieces>

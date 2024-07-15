@@ -1,0 +1,16 @@
+<start course metadata for 93-856 Business Development>
+Semester: Spring 2024 (aka S24)
+Course Name: Business Development
+Course Number: 93-856
+Department: Arts & Entertainment Management
+Number of Units: 6
+Prerequisites: None
+Instructors: Michele Smith
+Rooms: DNM DNM
+Locations: Los Angeles, California
+</end course metadata for 93-856 Business Development>
+
+<start course description for 93-856 Business Development>
+Semester: Spring 2024 (aka S24)
+Course Description: Business development uses the lenses of strategy and commercialization to identify opportunities for expansion and growth. It relies heavily on its functional cousins - Sales, Marketing, Finance and Corporate Strategy. Each functional area will be explored within the various sectors of the entertainment industry through class discussions, assignments and a final project. In this class, we will focus on business development in music, media and entertainment.
+</end course description for 93-856 Business Development>

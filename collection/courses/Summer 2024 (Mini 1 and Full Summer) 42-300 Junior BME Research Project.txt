@@ -1,0 +1,16 @@
+<start course metadata for 42-300 Junior BME Research Project>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Junior BME Research Project
+Course Number: 42-300
+Department: Biomedical Engineering
+Number of Units: N/A
+Prerequisites: None
+Instructors: Conrad Zapanta
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 42-300 Junior BME Research Project>
+
+<start course description for 42-300 Junior BME Research Project>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: Research projects for sophomores under the direction of a regular or adjunct BME faculty member.  Arrangements may also be made via the Associate Head of BME for off-campus projects provided that a regular or adjunct BME faculty member agrees to serve as a co-advisor.  The nature of the project, the number of units, and the criteria for grading are to be determined between the student and the research advisor.  The agreement should be summarized in a two-page project description with sign-off by the research advisor and a copy submitted for review and filing with the BME Department.  A final written report of the results is required.  Units may vary from 9 to 12 according to the expected time commitment, with one unit corresponding to 1 hour of research per week.  One (but not more than one) semester of research, if registered for at least 9 units, may be counted as a restricted elective course toward the BME additional major.
+</end course description for 42-300 Junior BME Research Project>

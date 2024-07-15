@@ -1,0 +1,16 @@
+<start course metadata for 06-323 Heat and Mass Transfer>
+Semester: Fall 2023 (aka F23)
+Course Name: Heat and Mass Transfer
+Course Number: 06-323
+Department: Chemical Engineering
+Number of Units: 9
+Prerequisites: (06-261) and (21-260 or 06-262) and (33-122 or 33-142 or 33-152)
+Instructors: Tagbo Niepa
+Rooms: POS 151
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 06-323 Heat and Mass Transfer>
+
+<start course description for 06-323 Heat and Mass Transfer>
+Semester: Fall 2023 (aka F23)
+Course Description: This course presents the fundamentals of heat and mass transfer, including steady-state and transient heat conduction and molecular diffusion, convection of heat and mass, and thermal radiation, with application to heat and mass transfer processes. Development of dimensionless quantities for engineering analysis is emphasized.
+</end course description for 06-323 Heat and Mass Transfer>

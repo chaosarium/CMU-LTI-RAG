@@ -1,0 +1,16 @@
+<start course metadata for 24-205 Special Topics: Maker Series: Intro to Welding>
+Semester: Fall 2023 (aka F23)
+Course Name: Special Topics: Maker Series: Intro to Welding
+Course Number: 24-205
+Department: Mechanical Engineering
+Number of Units: 2
+Prerequisites: None
+Instructors: Edward Wojciechowski
+Rooms: HH C108; HH C110
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-205 Special Topics: Maker Series: Intro to Welding>
+
+<start course description for 24-205 Special Topics: Maker Series: Intro to Welding>
+Semester: Fall 2023 (aka F23)
+Course Description: This course teaches the safe operation of MIG welding equipment through structured hands-on activities.  A significant portion of the course is dedicated to learning workpiece setup, material selection, and quality assessment for building structures.  Homework assignments are important for reinforcement of skills learned, and are flexible for students to complete guided or self-directed projects.
+</end course description for 24-205 Special Topics: Maker Series: Intro to Welding>

@@ -1,0 +1,16 @@
+<start course metadata for 45-720 Finance I>
+Semester: Fall 2023 (aka F23)
+Course Name: Finance I
+Course Number: 45-720
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Chris Telmer
+Rooms: TEP 2110
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-720 Finance I>
+
+<start course description for 45-720 Finance I>
+Semester: Fall 2023 (aka F23)
+Course Description: This course provides an introduction to the field of marketing and experience in analyzing situations that marketing managers encounter. The course emphasizes marketing principles, analysis and strategy. Topics include marketing management, buyer behavior, product policy, pricing, distribution, advertising and promotion and competitive strategy. Concepts are applied through case studies, client presentations and the development of individual/team marketing plans.
+</end course description for 45-720 Finance I>

@@ -1,0 +1,16 @@
+<start course metadata for 47-719 Accounting & Information Economics II>
+Semester: Fall 2023 (aka F23)
+Course Name: Accounting & Information Economics II
+Course Number: 47-719
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Gaoqing Zhang
+Rooms: TEP 5219
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 47-719 Accounting & Information Economics II>
+
+<start course description for 47-719 Accounting & Information Economics II>
+Semester: Fall 2023 (aka F23)
+Course Description: This course covers the main applications of contract theory and information economics, focusing on the business fields of accounting and finance. We start with two essential information-based economic problems moral hazard and adverse selection respectively and focus on how contracts are designed to address trade-offs the problems induce. After this general introduction, we explore applied problems which have their roots in these two basic problems. Examples are (1) incentive cost and debt contracting in corporate finance, (2) monitoring incentives in teamwork; (3) capital budgeting and communication in decentralized organizations.
+</end course description for 47-719 Accounting & Information Economics II>

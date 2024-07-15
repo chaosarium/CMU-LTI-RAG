@@ -1,0 +1,16 @@
+<start course metadata for 95-760 Decision Making Under Uncertainty>
+Semester: Fall 2023 (aka F23)
+Course Name: Decision Making Under Uncertainty
+Course Number: 95-760
+Department: Information Systems:Sch of IS & Mgt
+Number of Units: 6
+Prerequisites: 95-796 or 90-711
+Instructors: David Choi, Jonathan Caulkins
+Rooms: HBH 1005; HBH 1007; HBH 1202; HBH 1204; HBH A301
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 95-760 Decision Making Under Uncertainty>
+
+<start course description for 95-760 Decision Making Under Uncertainty>
+Semester: Fall 2023 (aka F23)
+Course Description: This course provides an introduction to modeling and computational methods used by policy-makers, managers and analysts to support decision-making. The first half of the course focuses on deterministic optimization, and covers linear programming, network optimization and integer programming. The second half of this course introduces risk and uncertainty, and includes methods to characterize uncertainty and methods to optimize decisions under uncertainty. Examples are drawn from a variety of domains where these decision-making methods can provide value for business and policy, such as transportation, energy, health care, manufacturing, supply chain management, etc.  The readings, lectures, homework assignments and exams will help you develop modeling skills, computational skills, and analytical skills. Modeling skills involve translating a problem into a well-defined mathematical framework, using little more than pen and paper. Computational skills involve solving your model on a computer program. In this course, all applications will be done in Excel. Analytical skills involve critically interpreting a model and translating results into insights for decision-making. All three are important!
+</end course description for 95-760 Decision Making Under Uncertainty>

@@ -1,0 +1,16 @@
+<start course metadata for 06-310 Molecular Foundations of Chemical Engineering>
+Semester: Fall 2023 (aka F23)
+Course Name: Molecular Foundations of Chemical Engineering
+Course Number: 06-310
+Department: Chemical Engineering
+Number of Units: 9
+Prerequisites: 06-223 and 09-106
+Instructors: Andrew Gellman, Gabriel Gomes
+Rooms: BH A53
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 06-310 Molecular Foundations of Chemical Engineering>
+
+<start course description for 06-310 Molecular Foundations of Chemical Engineering>
+Semester: Fall 2023 (aka F23)
+Course Description: Students will learn to use the tools of molecular engineering that define the modern development of chemical engineering, using a combination of theory and computation. The theme throughout the course is the use of molecular engineering tools to specify alternative compositions and conditions for chemical engineering design. Applications will include the prediction of macroscopic transport properties and equations of state, and the ability to tune them via judicious specification of system composition; rate laws and rate constants for complex reacting systems, including multi-step heterogeneous and homogeneous reactions; and principles of non-covalent association and self-assembly in the context of sustainable chemical engineering product design. Students will investigate contemporary molecular engineering case studies focused on renewable energy, human health or solutions to environmental problems.
+</end course description for 06-310 Molecular Foundations of Chemical Engineering>

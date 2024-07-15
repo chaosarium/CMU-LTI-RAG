@@ -1,0 +1,16 @@
+<start course metadata for 57-875 Music in the Elementary School>
+Semester: Fall 2023 (aka F23)
+Course Name: Music in the Elementary School
+Course Number: 57-875
+Department: Music
+Number of Units: 6
+Prerequisites: 57-831
+Instructors: Jane Wall
+Rooms: CFA M157
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-875 Music in the Elementary School>
+
+<start course description for 57-875 Music in the Elementary School>
+Semester: Fall 2023 (aka F23)
+Course Description: This course provides a philosophical background for teaching music in the elementary school and provides a variety of pedagogical techniques and materials which are useful for teaching music from Preschool through Grade 6.
+</end course description for 57-875 Music in the Elementary School>

@@ -1,0 +1,16 @@
+<start course metadata for 48-497 Pre-Thesis>
+Semester: Spring 2024 (aka S24)
+Course Name: Pre-Thesis
+Course Number: 48-497
+Department: Architecture
+Number of Units: 3
+Prerequisites: None
+Instructors: Mary-Lou Arscott
+Rooms: CFA 211
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-497 Pre-Thesis>
+
+<start course description for 48-497 Pre-Thesis>
+Semester: Spring 2024 (aka S24)
+Course Description: This 3 unit course is designed for B.Arch and M.Arch students a year before their final Spring semester. The course develops an understanding of research methods, and explores the formation of ideas for architecture thesis projects. Many directions of architectural thinking (spatial, material, ideological and procedural), will be discussed and in framing a theoretical position we will see how an architecture thesis can use a creative process to discover and express findings in relation to large questions and to disciplinary discussions.  This is a required course for Fall Thesis Seminar in F23 (9units) and Spring Thesis ASOS S24 (18units).
+</end course description for 48-497 Pre-Thesis>

@@ -1,0 +1,16 @@
+<start course metadata for 57-740 Opera Literature>
+Semester: Fall 2023 (aka F23)
+Course Name: Opera Literature
+Course Number: 57-740
+Department: Music
+Number of Units: 6
+Prerequisites: None
+Instructors: Christopher Lynch
+Rooms: HOA 223
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-740 Opera Literature>
+
+<start course description for 57-740 Opera Literature>
+Semester: Fall 2023 (aka F23)
+Course Description: Since the beginning of the seventeenth century until now, the only genre of classical music that can claim an unbroken history is that of opera. Every important stylistic trend and nearly every major composer in the Western tradition intersect with the history of opera, and knowledge of its vast repertoire is essential to any serious classical musician. The aim of this course is not to explore the history of opera per se, but rather to familiarize the student with much of the standard operatic repertoire primarily through stylistic and contextual analysis. As an examination of every historical style and era of opera is impossible in this course, an emphasis will be made on those works that form the bedrock of the performance repertoire: primarily music of the eighteenth and nineteenth centuries from Mozart to Puccini.
+</end course description for 57-740 Opera Literature>

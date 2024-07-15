@@ -1,0 +1,16 @@
+<start course metadata for 05-771 Process and Theory in HCI>
+Semester: Fall 2023 (aka F23)
+Course Name: Process and Theory in HCI
+Course Number: 05-771
+Department: Human-Computer Interaction
+Number of Units: 9
+Prerequisites: None
+Instructors: Jessica Hammer
+Rooms: GHC 5222
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 05-771 Process and Theory in HCI>
+
+<start course description for 05-771 Process and Theory in HCI>
+Semester: Fall 2023 (aka F23)
+Course Description: This course serves as a general introduction to Ph.D. level research in Human Computer Interaction. It will provide some background material in key HCI related areas, discuss the nature of research typically performed in an HCI context, and explore the processes and methodologies typical of interdisciplinary work in HCI. The course will be project-oriented, giving students practical experience with a small interdisciplinary research project related to the project theme for the year.  PhD only, unless instructor gives special permission.  UNITS: 9 PREREQUISITES: None TEXT: None. Assigned readings will be posted on the course blackboard site. METHOD OF EVALUATION: Grading will be based on class participation, a set of assignments, and the project.
+</end course description for 05-771 Process and Theory in HCI>

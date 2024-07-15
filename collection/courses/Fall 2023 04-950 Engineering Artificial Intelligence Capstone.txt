@@ -1,0 +1,16 @@
+<start course metadata for 04-950 Engineering Artificial Intelligence Capstone>
+Semester: Fall 2023 (aka F23)
+Course Name: Engineering Artificial Intelligence Capstone
+Course Number: 04-950
+Department: Information & Communication Technology
+Number of Units: 12
+Prerequisites: None
+Instructors: Charles Wiecha
+Rooms: CMR F307
+Locations: Kigali, Rwanda
+</end course metadata for 04-950 Engineering Artificial Intelligence Capstone>
+
+<start course description for 04-950 Engineering Artificial Intelligence Capstone>
+Semester: Fall 2023 (aka F23)
+Course Description: The Capstone is an opportunity in the CMU curriculum for students to refine and reinforce the skills they have acquired during the first year of their master's degree program. Students exercise these skills through a one-semester, real-world project provided by an outside sponsor. The sponsor is an organization that agrees to support a CMU capstone project. They provide the project definition and necessary resources to complete the project. The sponsor designates an individual to be the project client who works directly with a student team. The Team is expected to perform as if they are a contract team that negotiates with the client the scope and details of the project. The project is then worked on by the team with the client to achieve the negotiated deliverables over the course of the semester. Each team is overseen by a faculty advisor whose role is to check on student progress and evaluate the academic performance of the students. Faculty advisors are not directly involved with the client or the project.  The capstone course consists of two parallel activities. The first is the capstone project which involves the sponsor, client, and team as described above. The second is the capstone as a graded 12 unit academic course. This involves the team and the faculty mentor with classes and assignments. The faculty member assesses the team based on project reports, professionalism, project execution, and client feedback.
+</end course description for 04-950 Engineering Artificial Intelligence Capstone>

@@ -1,0 +1,16 @@
+<start course metadata for 69-140 Squash>
+Semester: Fall 2023 (aka F23)
+Course Name: Squash
+Course Number: 69-140
+Department: Physical Education
+Number of Units: 3
+Prerequisites: None
+Instructors: Michael Belmonte
+Rooms: CUC COURTS
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 69-140 Squash>
+
+<start course description for 69-140 Squash>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is designed to aid in developing the fundamental skills involved in squash. Techniques, rules and strategy are stressed.
+</end course description for 69-140 Squash>

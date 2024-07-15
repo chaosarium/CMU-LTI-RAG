@@ -1,0 +1,16 @@
+<start course metadata for 95-455 Information Security Risk Management>
+Semester: Spring 2024 (aka S24)
+Course Name: Information Security Risk Management
+Course Number: 95-455
+Department: Information Systems:Sch of IS & Mgt
+Number of Units: 6
+Prerequisites: None
+Instructors: Brett Tucker
+Rooms: HBH A301
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 95-455 Information Security Risk Management>
+
+<start course description for 95-455 Information Security Risk Management>
+Semester: Spring 2024 (aka S24)
+Course Description: This is an undergraduate course.  Graduate students looking to take this course should register for 95-755.  This course examines information security as a risk management problem where the organization identifies information security risks, evaluates those risks, and makes risk mitigation and acceptance decisions given its resource constraints. Students will learn foundational concepts in risk management and economic valuation and will be introduced to standard risk management approaches for identifying, analyzing, responding, and monitoring risks. Both qualitative and quantitative approaches will be examined.
+</end course description for 95-455 Information Security Risk Management>

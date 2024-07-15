@@ -1,0 +1,347 @@
+Handbook-MSAII-2022-2023
+I always terminates  a student for a second 
+violation, with no exceptions.  
+11 Academic Policies 
+11.1 Course Registration    
+11.1.1 Status 
+All Students must be registered for at least 48 units during each semester. Any questions about 
+registration should be directed  to the Enrollment Services (the HUB). Note that International 
+students are required to be registered as full-time students, minimum 36 units .   
+11.1.2 Academic Calendar  
+The Academic Calendar can be found at https://www.cmu.edu/hub/calendar/ .   All dates about 
+registration, add/drop deadlines, university holidays and more can be  found there.    
+11.1.3 Online Registration  
+All new students will register for required courses in April after accepting admission and 
+receiving an Andrew ID. After that, students wi ll register following the schedule set by the 
+HUB. Note that students must meet with their advisor to obtain approval for their course 
+selection. Registration information is available at 
+www.cmu.edu/hub/registrar/registration/index.html .  Online registration is done with an 
+Andrew ID at https://www.cmu.edu/hub/sio/about.html .   
+Students must register for at least 48 units per semester.   
+24 
+ 11.1.4 Double-Dipping 
+An MSAII student who applies courses taken as part of another degree program (at Carnegie 
+Mellon or elsewhere) toward their program requirements cannot use those same courses toward 
+any other M.S. degree offered by the School of Computer Science without prior approval. 
+11.1.5 Pass/No Pass Courses (Pass/Fail) 
+With the approval of the Program Director , a graduate student may choose to take one 
+ELECTIVE course pass/no pass. Core courses an d Knowledge courses may not be taken pass/no 
+pass.  By the deadline for changing a course to  pass/no pass, the student must fill out the 
+Pass/No Pass Approval Form and receive permission from their advisor. A pass/no pass election 
+is irrevocable as a matter of CMU policy. (A form can be found at https://www.cmu.edu/hub/forms.html ) 
+11.1.6 Auditing a Course  
+With the approval of the Program Director, a graduate student may audit a course by obtaining 
+the permission of the instructor or teaching department and completing the Course Audit 
+Approval Form. Audited classes are not taken for credit and cannot be used to fulfill graduation 
+requirements. (Audit form can be found at https://www.cmu.edu/hub/forms.html )  
+11.1.7 Adding a Course  
+During the ADD period of each semester (the first two weeks of the semester), students may add 
+a course by registering online. After the ADD dead line, they may add a course by completing the 
+Late Add Request form and obtaining the permission of both: 1) the instructor or teaching 
+department and 2) their advisor.  (Add form can be found at 
+https://www.cmu.edu/hub/forms.html )   
+11.1.8 Dropping a Course  
+Dropping courses is not recommended except for reasons of health or family emergency.  Many 
+SCS courses have long waitlist s, and dropping a course means that some other student who 
+might have had the opportunity to take the course had been denied that ability.  Also, if students 
+in the MSAII program drop courses, then the instructors of those courses may no longer allow 
+MSAIIs to enroll. 
+Sometimes, however, a student’s workload can  become unexpectedly heavy because of course 
+requirements.  No one is expected to suffer from such pressure and dropping a course may 
+become a necessity.  To avoid this unfortunate circumstance, yo u should inform yourself in 
+advance of the curriculum and workload in each course you plan to take and ensure that you are 
+capable of handling the load.  Note that CMU SCS courses are very difficult, and students who 
+ may easily have handled taking five courses simultaneously at another institution may not be 
+able to do so at CMU. 
+Exact add, drop and withdrawal dates may be found on the official Academic Calendar. Up until 
+the deadlines, students can initiate course adds and drops through Student Information Online 
+(SIO). Courses dropped by the deadline will not appear on the student's record, and courses 
+withdrawn from by the deadline will receive a 'W ' grade. Additionally, a voucher process has 
+been implemented for late drops. 
+Students taking undergraduate and Master’s level courses must follow the procedures and 
+deadlines for adding, dropping, or withdrawing from courses as identified on the academic 
+calendar. Information can be found at https://www.cmu.edu/hub/registrar/course-
+changes/index.html . 
+Late Course Drops & Vouchers 
+A late drop voucher system was implemented beginning with the fall 2018 semester to permit a 
+limited number of late course drops. Master's students are permitted one drop voucher per year 
+of study and may use only one voucher per semester (including summer).  Courses dropped 
+using a voucher will be removed from the student' s record, as long as the drop is confirmed in 
+SIO by the student within 24 hours of receiving the automated voucher email (refer to 
+instructions below). Students may use drop vouchers up until the last day of classes each 
+semester.  These policies are spelled out at https://www.cmu.edu/hub/registrar/course-
+changes/index.html . 
+Note that the Core courses and some Knowledge courses are only offered once per year so 
+dropping a course may delay program completion.  
+Note:  International students must maintain a minimum of 36 units (Full time) to meet the U.S. 
+government’s visa requirement. Please check with  the Office of International Education (OIE) 
+for more information.   
+11.1.9 Transfer Credits  
+https://www.cmu.edu/policies/student-and-student-life/transfer-credit-evaluation-and- 
+assignment.html 
+Carnegie Mellon University offers students the opportunity to take courses for credit through a 
+cross-registration program (see Pittsburgh Council on Higher Education (PCHE) and Cross-
+registration below) and through the receipt of transfer credit from other accredited institutions. 
+The Carnegie Mellon University transcript will include information on such courses as follows: 
+Carnegie Mellon courses and courses taken through the university's cross-registration program 
+will have grades recorded on the transcript and be factored into the QPA. All other courses will 
+be recorded on this transcript indicating where the course was taken, but without grades. Such 
+ courses will not be taken into account for academic actions, honors  or QPA calculations. (Note: 
+suspended students may take courses elsewhere; however, they may receive transfer credit only 
+if their college's and department's policies allow this.). 
+The MSAII program does not accept transfer credits. 
+11.1.10  Leave of Absence  
+Students who need to delay their studies for personal, medical or academic reasons may do so 
+with a leave of absence (leaving the university temporarily with a commitment to return). 
+Students must contact the MSAII Director to discuss their plans and fill out the appropriate form.  The student’s place in the program will be  held until a mutually  determined time. For 
+more information refer to www.cmu.edu/policies/student-and-student-life/student-leave.html . 
+When planning to return from Leave of Absence students must complete the appropriate 
+paperwork before returning to the University.   
+MSAII students who require longer than the standard time to complete their degree 
+requirements are expected to remain in close contact  with the program, and will be certified at 
+the end of the semester in which they have completed their degree requirements. Students must 
+refer to the CMU Policy on Master ’s Student Statute of Limitations 
+(https://www.cmu.edu/policies/ student-and-student-life/masters-students-statute-of-
+limitations.html ) regarding guidelines and restrictions  which place an upper limit on the 
+maximum length of time allowable for master’s degree completion and certification. 
+11.1.11  Additional Guidance for Students   
+Program of study . Students seeking guidance about their program of study and degree 
+requirements should consult with their academic  advisor and/or appropriate associate dean.  
+Financial aid and student account.  Students are expected to make normal progress toward 
+their degree in order to graduate within the standard timeframe for their program of study. 
+Under U.S. Federal Title IV regulations, student eligibility for federal financial aid is contingent 
+upon enrollment in and successful completion of courses that are counted as credit toward their 
+current degree program. To receive the maximum amount of federal financial aid for which they 
+may be eligible, students must enroll each semester  in at least 36 units that count toward their 
+current degree level. (See separate guidance  regarding integrated degree completion.)  
+Students should consult with their designated college liaison in The HU B regarding billing and 
+financial aid, particularly for early completion , longer-than-standard completion, or integrated 
+undergraduate and master’s degree programs.  
+International students . Immigration status for students in  F-1 and J-1 non-immigrant status is 
+tied to making normal progress toward completing  degree requirements. Therefore, F-1 and J-1 
+27 
+ students who are considering completing their degree requirements early, anticipating longer-
+than-standard completion, or moving from an undergraduate to a graduate student classification 
+(integrated undergraduate-graduate study) should  consult with their designated advisor in the 
+Office of International Education (OIE) to ensure compliance with immigration regulations. 
+11.1.12  Withdrawal   
+Students who need to withdraw from the program (leave the university with no intention of 
+returning) for personal, medical or academic reasons must contact the MSAII Director to 
+discuss their plans and fill out the appropriate form. For more information refer to 
+www.cmu.edu/policies/student-and- student-life/student-leave.html .    
+11.2 Tuition and Fees   
+Information about tuition and fees is available at https://www.cmu.edu/sfs/tuition/index.html .  
+MSAII students will pay tuition according to the rates set for the School of Computer Science.  
+All tuition and fees must be paid in full by the due date; a student not in good financial standing 
+will be dismissed from the program. Students taking summer courses must pay tuition.   
+11.3 Graduation Ceremonies   
+The University holds one Commencement ceremony in May of each year.  Only students who 
+have completed their degree requirements may participate in Commencement. 
+There are no August or December commencement ceremonies.  
+11.3.1 Withdrawal of Degree 
+A degree once conferred can be withdrawn by the University under certain circumstances.  See 
+the Withdrawal of Degree Policy . 
+11.4 LTI Academic Policies 
+11.4.1 “Grandfather” policy 
+A student can graduate under the policies in effect at the time that the student entered the 
+program; or, at the student's choice, the student  can graduate under policies that are adopted 
+after the student entered the program. If it is no t realistic to follow a particular policy exactly, 
+the department may approximate the policy as closely as possible; this situation is rare and 
+typically arises only when a student is enrolled in the program for an extended period. 
+28 
+ 11.4.2  Definition of transfer credit  versus course exemption  
+The LTI may grant transfer credit  or issue an exemption  for equivalent graduate courses 
+previously completed at another institution. This decision rests with the program director, on 
+the advice of the faculty member for whose course an exempt ion is sought. If a student is 
+exempt  from a required course due to  prior courses or experience, the student can replace that 
+course with an open elective. The student does  not receive credit for the exempted course but 
+can take any course that could normally count toward the degree in its place. If a student 
+receives credit  for prior coursework completed at Carnegie Mellon or elsewhere, the student 
+receives that many units of credit and the total amount of required coursework is reduced by 
+that amount. 
+11.4.3  Employment/Consulting 
+Since consulting provides useful experience, students are generally permitted to consult at most 
+one day per seven-day week, with the Program Di rector's consent.  International students must 
+also have approval in advance from the Office  of International Education (OIE) for any paid 
+position.  Students may use their consulting time to perform unpaid work on research projects 
+for CMU faculty for up to 10 hours per week. 
+Students may serve as teaching assistants for CMU faculty.   TA work is inconsistent with 
+research because of the necessary time commitment.  Students must choose one activity or the 
+other, not both. 
+Note that there is an English language proficiency requirement for TAs.  Graduate students are 
+required to have a certain level of  fluency in English before they can instruct in Pennsylvania, as 
+required by the English Fluency in Higher Education Act of 1990. Through this Act, all 
+institutions of higher education in the state are required to evaluate and certify the English 
+fluency of all instructional personnel, including teaching assistants and interns. The full 
+university policy can be reviewed at: https://www.cmu.edu/policies/faculty/evaluation-
+certification-english-fluency-instructors.html . 
+11.4.4  Leave of Absence 
+The LTI discourages Leaves of Absence (LOA) since students usually do not return, despite 
+having good intentions. However,  a student in good standing may  be granted a LOA of at most 
+one year, upon written request to the MSAII Director and with the consent of the student's 
+advisor. It is the responsibility of  the student on LOA to contact the LTI to initiate a return to 
+the program. 
+Students taking or returning from a leave of absence must follow the university’s leave of 
+absence process, which is described at www.cmu.edu/policies/student-and-student-
+life/student-leave.html.  
+ 11.4.5  Satisfactory Progress 
+If a student  does not make satisfactory progress each semester toward completing the degree, the 
+LTI may remove the student from the program.  See section on “End of Semester Evaluation.” 
+11.5 Carnegie Mellon Academic Policies 
+11.5.1 Assistance for Individuals with Disabilities 
+The Office of Disability Resources at Carnegie Mellon University has a continued mission to 
+provide physical and programmatic campus access to all events and information within the 
+Carnegie Mellon community.  We work to ensure that qualified individuals receive reasonable 
+accommodations as guaranteed by the Americans wi th Disabilities Act (ADA) and Sections 503 
+and 504 of the Rehabilitation Act of 1973.  Students who would like to receive accommodations 
+must submit a Voluntary Disclosure of Disability Form  to access@andrew.cmu.edu  to begin the 
+interactive accommodation process.   
+For more information, please see https://www.cmu.edu/disability-resources/ .Students with 
+physical, sensory, cognitive, or  emotional disabilities are encouraged to self-identify with the 
+Office of Disability Resources  and request needed accommodation s.  Any questions about the 
+process can be directed to access@andrew.cmu.edu, or call (412) 268-6121. 
+11.5.2  Summary of Graduate Student Appeal and Grievance Procedures 
+Students who believe that they have been inappropriately treated are encouraged to raise their 
+concern(s) with the Program Director, department  head, or other designated person in their 
+department, college, or central administration accord ing to University policies.  No effort will be 
+made to prevent or discourage anyone from availing themselves of such procedures (see Graduate Student Appeal and Procedures www.cmu.edu/graduate/policies/appeal-grievance-
+procedures.html ). 
+Graduate students will find the Summary of  Graduate Student Appeal and Grievance 
+Procedures on the Graduate Education Resource web page.   This document summarizes 
+processes available to graduate students who se ek review of academic and non-academic issues. 
+Graduate students are expected to seek informal resolution of all concerns within the applicable 
+department, unit or program before invoking formal processes. When an informal resolution 
+cannot be reached, however, a graduate student who seeks further review of the matter is to 
+follow the formal procedures outlined here.   These appeal and grievance procedures shall apply 
+to students in all graduate programs of the University. Students should refer to the department 
+specific information in this handbook for department and college information about the 
+administration and academic policies of the prog ram.  Additionally, students may confer with 
+30 
+ the Graduate Education Office ( grad-ed@cmu.edu ) on issues of process or other concerns as 
+they navigate conflicts. 
+11.5.3  Process for Appealing Final Grades 
+https://www.cmu.edu/graduate/policies /appeal-grievance-procedures.html .  
+Final grades will be changed only in exceptional circumstances and only with the approval of 
+the instructor and the department, unit or prog ram. Grading is a matter of  sound discretion of 
+the instructor and final grades are rarely changed without the consent of the instructor who 
+assigned the grade.  The following circumstances are the unusual exceptions that may warrant a 
+grade appeal: (a) the final grade assigned for a course is based on manifest error (e.g. a clear error 
+such as arithmetic error in computing a grade or failure to grade one of the answers on an exam), 
+or (b) the faculty or staff member who assigned the grade did so in violation of a University 
+policy 
+11.5.4  Safeguarding Educational Equity: 
+Policy Against Sexual Harassment and Sexual Assault 
+The University prohibits sex-based discrimination, sexual harassment, sexual assault, dating/ 
+domestic violence and stalking. The University al so prohibits retaliation against individuals 
+who bring forward such concerns or allegation s in good faith.  The University’s Sexual 
+Misconduct Policy is available at www.cmu.edu/policies/administrative-and-
+governance/sexual-harassment-and-sexual-assault.html.   If you believe you have been the victim 
+of sexual harassment or sexual assault, you are encouraged to make contact with any of the 
+following resources: 
+ Office of Title IX Initiatives, http://www.cmu.edu/title-ix/ , 412-268-7125 
+ Sexual Harassment Advisors, found in Appendix A of the Policy Against Sexual 
+Harassment and Sexual Assault; 
+ Survivor Support Network, found in Appendix B of the Policy Against Sexual 
+Harassment and Sexual Assault; 
+ Sexual Harassment Process and Title IX Coordinators, found in section II of the Policy 
+Against Sexual Harassment and Sexual Assault; 
+ University Police, 412-268-2323 
+ University Health Services, 412-268-2157 
+ Counseling & Psychological Services, 412-268-2922 
+31 
+ Additional resources and information can be found at :  https://www.cmu.edu/title-ix/resources-
+and-information/resources.html . 
+The University’s Policy Against Retaliation is available at 
+https://www.cmu.edu/policies/administrative-and-governance/whistleblower.html  
+The MSAII program has a ZERO TOLERANCE  policy on sexual harassment and sexual assault. 
+If you are found to have violated Carnegie Mell on policy, you will be dropped from the MSAII 
+program immediately without exception .  CMU has spent decades successfully developing a 
+non-threatening environment for all genders and no one will be permitted to  interfere with that 
+accomplishment. 
+Consensual Intimate Relationship Policy Regarding Undergraduate Students 
+https://www.cmu.edu/policies/student-and-student-life/consensual-relationships.html  
+This policy is relevant for graduate students who will be in a supervisory role of undergraduate 
+students as a TA or in a research lab/studio setting.  This policy addresses the circumstances in 
+which romantic, sexual or amorous relationships/ interactions with undergraduate students, 
+even if consensual, are inappropriate and prohibited. The purpose of this policy is to assure 
+healthy professional relationships. This policy is not intended to discourage consensual intimate 
+relationships unless there is a conflicting professional relationship in  which one party has 
+authority over the other as in the policy. 
+11.5.5  Cultural Tolerance 
+The MSAII program is extremely diverse for a program of its size. We have students from 
+numerous different countries who must work effectively in a team setting.  The students 
+invariably come from very different cultures that  have differing attitudes  towards age, gender, 
+and group interaction.  The program management understands this, but the students must also 
+recognize that this program is being conducted in  the United States and operates according to 
+U.S. norms.  Students and faculty,  regardless of background, age, or rank, must deal with each 
+other respectfully without insult or raised voices .  It is impossible to conduct teamwork in any 
+other way.  Violations will be dealt with harshly.  The Program Director is not sympathetic to 
+such behavior, which will not be tolerated.  Repeated infractions, or a serious single infraction 
+may result in termination from the program. 
+11.5.6  Language Policy 
+The MSAII program is a component of the Language  Technologies Institute, which studies and 
+celebrates the diversity of human language and forms of expression.  The LTI also recognizes the 
+futility and unfairness of attempting to determine the language students must use when 
+communicating.  However, it is unprofessional in any official team meeting to speak a language 
+ that is not understood by all team members.  Fo r example, if all members of a team understand 
+Chinese, then they may use Chinese in team meetings.  However,  if even one team member does 
+not understand Chinese, then a language must be us ed that is understood by all team members.  
+It is recommended that non-native speakers of English use English as much as possible if they 
+intend to seek employment in  an English-speaking country. 
+11.5.7  Childbirth/Maternity Accommodation Protocol 
+The Maternity Policy is available at https://www.cmu.edu/graduate/programs-
+services/maternity-accommodation-protocol.html . 
+Students whose anticipated delivery date is during the course of the semester may consider 
+taking time away from their coursework and re search responsibilities. All female students who 
+give birth to a child while engaged in coursework or  research are eligible to take either a short-
+term absence or formal leave of absence. Students in course work should consider either 
+working with their course instructor to receive in complete grades or elect to drop to part-time 
+status or to take a semester leave of absence.   Students engaged in research must work with 
+their faculty to develop plans for the re search for the time  they are away.  
+● Students must contact the Office of the Dean of Student Affairs to register for Maternity 
+Accommodations. Students will complete an information form and meet with a member of the 
+Dean’s Office staff to determine resources and procedures appropriate for the individual student. 
+○ Planning for the student’s discussion with appropriate academic contact(s) 
+(advisor, associate dean, etc.) may be reviewed during this meeting. 
+● Students in course work should consider options for the semester of the anticipated 
+birth such as working with their course instructors to receive incomplete grades, electing to 
+drop to part-time status or taking  a full semester leave of absence. 
+● Students engaged in research  must work with their faculty to develop plans for the 
+research for the time they are aw ay and for resuming upon return. 
+● Master's students who receive an academic stipend funded by Carnegie Mellon are 
+eligible to continue to receive stipend funding for up to six (6) week s during a Short-Term 
+Maternity Accommodation or a Formal Leave of Absence. Continued academic stipend funding may be extended by two (2) weeks, for a total of eight (8) weeks, if an absence longer than six 
+weeks is medically necessary. To receive this support students must be registered with the 
+Office of the Dean of Students. 
+Students are encouraged to consult with relevant university faculty and staff as soon as possible 
+as they begin making plans regarding time away.   Students must contact the Office of the Dean 
+of Student Affairs to register for Maternity Accommodations.  Students will complete an 
+information form and meet with a member of De an’s Office staff to determine resources and 
+ procedures appropriate for the individual student. Planning for the student’s discussion with 
+her academic contact(s) (advisor, associate dean, etc.) will be reviewed during this meeting. 
+11.6 Statute of Limitations 
+As outlined in the Master’s Students Statute of Limitations, www.cmu.edu/policies/student-
+and-student-life/masters-students-statute-of-limitations.html, students must complete all 
+requirements for the master’s degree within  a maximum of seven years from original 
+matriculation as a master’s student, or less if required by a more restrictive department, school 
+or college policy.  Once this time-to-degree limit has lapsed, the person may resume work 
+towards a master’s degree only if newly admitted  to a currently offered master’s degree program 
+under criteria determined by that program. 
+Under extraordinary circumstances, such as leave of absence, military or public service, family or 
+parental leave, or temporary disability, a school or college may, upon the relevant department's 
+recommendation and with the written approval of the dean (or designate), defer the lapse for a 
+period commensurate with the duration of that  interruption. Students who are pursuing a 
+master’s degree as part-time students for all semesters of their program,  as approved by their 
+program, may also appeal to their program or department for extension of the time to degree 
+limit.  
+Any request for a waiver of the statute of limitations must be approved by  the Department Head 
+and by the SCS Associate Dean for Masters Programs. The waiver request must explain the 
+exceptional circumstances that warrant an extension. For cases in which a waiver is granted, 
+the waiver will cover specific courses and will specify a time period for completion of the 
+program. 
+See also the ‘Duration of Study’ policy. 
+11.7 Residency Requirement 
+The MSAII is a full-time, in-residence program conducted only on the Pittsburgh campus.  In 
+exceptional circumstances, such as visa complications or medical exigencies, permission may be 
+granted by the Director allowing a student to participate in short portions of the program 
+remotely.  This is not possible for first-year students.  

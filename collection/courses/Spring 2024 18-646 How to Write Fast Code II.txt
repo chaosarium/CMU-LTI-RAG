@@ -1,0 +1,16 @@
+<start course metadata for 18-646 How to Write Fast Code II>
+Semester: Spring 2024 (aka S24)
+Course Name: How to Write Fast Code II
+Course Number: 18-646
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Tze Meng Low
+Rooms: B23 211; BH A53
+Locations: Pittsburgh, Pennsylvania; San Jose, California
+</end course metadata for 18-646 How to Write Fast Code II>
+
+<start course description for 18-646 How to Write Fast Code II>
+Semester: Spring 2024 (aka S24)
+Course Description: The fast evolution and increasing complexity of computing platforms pose a significant challenge for developers of high-performance software for engineering, science, and consumer applications as it is becoming increasingly difficult to harness the available compute power on modern CPU, GPU and cluster platforms.  18646 - How to Write Fast Code II will focus on the application of the techniques taught in 18645 - How to Write Fast Code I to deconstruct software workloads to better leverage the power available on these very different compute platforms. Students will learn how to expose concurrency opportunities in existing software code and exploit parallelism on multicore (CPU), manycore (GPU) and cluster computing architectures to accelerate their applications. We will review the OpenMP API and SIMD (Single Instruction Multiple Data) intrinsics and leverage these constructors to explore and benchmark parallelization of software on multi-core CPU platforms. Next, we will introduce the CUDA programming language and discuss the challenges for parallel-computing on GPUs. Finally, we will introduce parallel-computing techniques for cluster computing using the Hadoop framework. Students will apply the content from course lessons in group projects that accompany the course.
+</end course description for 18-646 How to Write Fast Code II>

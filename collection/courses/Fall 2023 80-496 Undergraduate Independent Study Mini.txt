@@ -1,0 +1,16 @@
+<start course metadata for 80-496 Undergraduate Independent Study Mini>
+Semester: Fall 2023 (aka F23)
+Course Name: Undergraduate Independent Study Mini
+Course Number: 80-496
+Department: Philosophy
+Number of Units: N/A
+Prerequisites: None
+Instructors: Adam Bjorndahl, Alex London, Christina Bjorndahl, Danielle Wenner, Instructor TBA, Jeremy Avigad, Joel Smith, Kevin Kelly, Kevin Zollman, Krzysztof Mierzewski, Mandy Simons, Peter Spirtes, Simon Cullen, Steve Awodey, Teddy Seidenfeld, Tom Werner, Wayne Wu, Wilfried Sieg
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 80-496 Undergraduate Independent Study Mini>
+
+<start course description for 80-496 Undergraduate Independent Study Mini>
+Semester: Fall 2023 (aka F23)
+Course Description: Undergraduate Independent Study Mini for Philosophy undergraduate students.
+</end course description for 80-496 Undergraduate Independent Study Mini>

@@ -1,0 +1,16 @@
+<start course metadata for 21-610 Algebra I>
+Semester: Spring 2024 (aka S24)
+Course Name: Algebra I
+Course Number: 21-610
+Department: Mathematical Sciences
+Number of Units: 12
+Prerequisites: (21-355 or 21-235 or 21-455) and (21-373 or 21-237)
+Instructors: Instructor TBA
+Rooms: PH 126A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-610 Algebra I>
+
+<start course description for 21-610 Algebra I>
+Semester: Spring 2024 (aka S24)
+Course Description: The structure of finitely generated abelian groups, the Sylow theorems, nilpotent and solvable groups, simplicity of alternating and projective special linear groups, free groups, the Neilsen-Schreier theorem. Vector spaces over division rings, field extensions, the fundamental Galois correspondence, algebraic closure. The Jacobson radical and the structure of semisimple rings. Time permitting, one of the following topics will be included: Wedderburn's theorem on finite division rings, Frobenius' Theorem. Prerequisite: Familiarity with the content of an undergraduate course on groups and rings.  (Three 50 minute lectures)
+</end course description for 21-610 Algebra I>

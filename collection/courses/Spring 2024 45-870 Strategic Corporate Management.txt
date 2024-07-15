@@ -1,0 +1,16 @@
+<start course metadata for 45-870 Strategic Corporate Management>
+Semester: Spring 2024 (aka S24)
+Course Name: Strategic Corporate Management
+Course Number: 45-870
+Department: Business Administration
+Number of Units: 6
+Prerequisites: 45-770
+Instructors: Robert Miller
+Rooms: TEP 2111
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-870 Strategic Corporate Management>
+
+<start course description for 45-870 Strategic Corporate Management>
+Semester: Spring 2024 (aka S24)
+Course Description: For detailed information about Strategic Corporate Management please visit the course website  at:  http://comlabgames.com/45-870/
+</end course description for 45-870 Strategic Corporate Management>

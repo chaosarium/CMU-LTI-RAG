@@ -1,0 +1,16 @@
+<start course metadata for 80-226 The Nature of Scientific Revolutions>
+Semester: Fall 2023 (aka F23)
+Course Name: The Nature of Scientific Revolutions
+Course Number: 80-226
+Department: Philosophy
+Number of Units: 9
+Prerequisites: None
+Instructors: Joel Smith
+Rooms: WEH 5415
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 80-226 The Nature of Scientific Revolutions>
+
+<start course description for 80-226 The Nature of Scientific Revolutions>
+Semester: Fall 2023 (aka F23)
+Course Description: Science is an ever-changing enterprise. Most scientific advances, though significant, occur within a stable framework of accepted theories and data. A few episodes of change in the history of science involve discarding and replacing fundamental theories of the world. These are often accompanied by significant changes in the vocabulary in which those theories are expressed, the tools used by scientists, the phenomena on which scientists focus, and the kinds of explanations they consider acceptable. A very small number of these episodes change the way humanity views its ability to know the natural world and its place in the universe. The latter two kinds of change in science have often been called "scientific revolutions." We will focus on three such radical transformations: The "Copernican Revolution" (or "the Scientific Revolution") of the 16th and 17th centuries, the Darwinian revolution of the 19th century, and the quantum revolution of the late 19th and 20th centuries. This course has two intertwined components: history of science and philosophy of science. In the historical component, we will examine in some detail the three major scientific revolutions. The philosophical components will help us understand the reasoning involved in scientific theory change. This course does not require detailed knowledge of any of the sciences used in examples of revolutionary change.
+</end course description for 80-226 The Nature of Scientific Revolutions>

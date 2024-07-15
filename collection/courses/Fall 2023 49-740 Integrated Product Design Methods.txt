@@ -1,0 +1,16 @@
+<start course metadata for 49-740 Integrated Product Design Methods>
+Semester: Fall 2023 (aka F23)
+Course Name: Integrated Product Design Methods
+Course Number: 49-740
+Department: Integrated Innovation Institute
+Number of Units: 12
+Prerequisites: None
+Instructors: Ellen Ayoob
+Rooms: CA 115
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 49-740 Integrated Product Design Methods>
+
+<start course description for 49-740 Integrated Product Design Methods>
+Semester: Fall 2023 (aka F23)
+Course Description: This studio-style course covers the critical thinking, processes, frameworks, methodologies, artifacts and deliverables typically associated with innovative product development. In particular, students will learn the Integrated Product Development (IPD) process used in the MIIPS program: identifying, understanding, conceptualizing, and realizing a product (or service) opportunity.  Working individually and in teams, students will be challenged through case histories, mini-lectures, readings, a variety of hands-on exercises, assessments and project prompts. In addition, students will gain professional practice communicating within teams to further the work and to potential stakeholders about key decision points. This course is only open to students in the MIIPS program.
+</end course description for 49-740 Integrated Product Design Methods>

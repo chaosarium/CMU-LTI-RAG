@@ -1,0 +1,16 @@
+<start course metadata for 18-733 Applied Cryptography>
+Semester: Spring 2024 (aka S24)
+Course Name: Applied Cryptography
+Course Number: 18-733
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: 18-330 or 18-631 or 18-730 or 14-741
+Instructors: Virgil Gligor
+Rooms: B23 211; BH A53
+Locations: Pittsburgh, Pennsylvania; San Jose, California
+</end course metadata for 18-733 Applied Cryptography>
+
+<start course description for 18-733 Applied Cryptography>
+Semester: Spring 2024 (aka S24)
+Course Description: A wide array of communication and data protections employ cryptographic mechanisms. This course explores modern cryptographic techniques in some detail. The course emphasizes how cryptographic mechanisms can be effectively used within larger security systems, and the dramatic ways in which cryptographic mechanisms can fail. Topics covered include cryptographic primitives such as symmetric encryption, public key encryption, digital signatures, message authentication codes, hash functions, commitments, and pseudo-random number generators. The course also covers cryptographic protocols, such as key exchange, remote user authentication, and interactive proof systems; threshold cryptography, oblivious transfers and secure multi-party computations; perfectly secure encryption and universal hash functions. The course also covers a variety of special applications including computing on encrypted data. Senior or graduate standing required.
+</end course description for 18-733 Applied Cryptography>

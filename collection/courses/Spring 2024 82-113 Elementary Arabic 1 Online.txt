@@ -1,0 +1,16 @@
+<start course metadata for 82-113 Elementary Arabic 1 Online>
+Semester: Spring 2024 (aka S24)
+Course Name: Elementary Arabic 1 Online
+Course Number: 82-113
+Department: Modern Languages
+Number of Units: 9
+Prerequisites: None
+Instructors: Nevine Abraham
+Rooms: DH 1209
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 82-113 Elementary Arabic 1 Online>
+
+<start course description for 82-113 Elementary Arabic 1 Online>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is designed for students with no prior experience with Arabic and who need a more flexible approach to language learning than that offered in a standard classroom course. Beginning language learners will develop communicative competence in the four basic skills of language (listening, speaking, reading, and writing). Vocabulary and sentence structures for use in essential daily-life situations, as well as cultural information, are taught through the course materials and assignments. Materials are web-based, with extensive use of Internet technologies for listening, reading, and communication. During regular semesters, this course is offered in a hybrid mode requiring one 80-minute class per week in addition to weekly 20-minute individual meetings with the instructor or a peer speaking assistant.
+</end course description for 82-113 Elementary Arabic 1 Online>

@@ -1,0 +1,16 @@
+<start course metadata for 03-791 Advanced Microbiology>
+Semester: Spring 2024 (aka S24)
+Course Name: Advanced Microbiology
+Course Number: 03-791
+Department: Biological Sciences
+Number of Units: 12
+Prerequisites: None
+Instructors: Natalia Hiller
+Rooms: POS 151
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 03-791 Advanced Microbiology>
+
+<start course description for 03-791 Advanced Microbiology>
+Semester: Spring 2024 (aka S24)
+Course Description: This course will use both lectures and current research literature in the area of Microbiology and Infectious Diseases to introduce such topics as prokaryotic cytoskeletal functions, the human microbiome and its impact, metabolic engineering, transposon mutagenesis for gene function elucidation, synthetic genome construction and applications, pathogenicity islands, functional and expression-based identification of pathogenicity determinants, horizontal gene transfer, regulatory RNAs, biofilm formation quorum sensing, and antimicrobial drug development.
+</end course description for 03-791 Advanced Microbiology>

@@ -1,0 +1,16 @@
+<start course metadata for 06-702 Advanced Reaction Kinetics>
+Semester: Fall 2023 (aka F23)
+Course Name: Advanced Reaction Kinetics
+Course Number: 06-702
+Department: Chemical Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Andrew Gellman
+Rooms: GHC 4301
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 06-702 Advanced Reaction Kinetics>
+
+<start course description for 06-702 Advanced Reaction Kinetics>
+Semester: Fall 2023 (aka F23)
+Course Description: Advanced application of engineering and scientific principles to the study of complex chemical reaction systems. Catalytic and noncatalytic reactions in homogeneous and heterogeneous systems, fast reaction techniques, and isothermal and non-isothermal reaction design.
+</end course description for 06-702 Advanced Reaction Kinetics>

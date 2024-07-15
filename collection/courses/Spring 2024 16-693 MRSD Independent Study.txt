@@ -1,0 +1,16 @@
+<start course metadata for 16-693 MRSD Independent Study>
+Semester: Spring 2024 (aka S24)
+Course Name: MRSD Independent Study
+Course Number: 16-693
+Department: Robotics
+Number of Units: N/A
+Prerequisites: None
+Instructors: John Dolan
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 16-693 MRSD Independent Study>
+
+<start course description for 16-693 MRSD Independent Study>
+Semester: Spring 2024 (aka S24)
+Course Description: The goal of the MRSD independent study course is to structure a research plan that allows students to gain in-depth knowledge and experience in a focused area of research. This course number is only for students currently enrolled in the MS in Robotic Systems Development (MRSD) program.
+</end course description for 16-693 MRSD Independent Study>

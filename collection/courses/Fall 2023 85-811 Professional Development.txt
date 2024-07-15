@@ -1,0 +1,16 @@
+<start course metadata for 85-811 Professional Development>
+Semester: Fall 2023 (aka F23)
+Course Name: Professional Development
+Course Number: 85-811
+Department: Psychology
+Number of Units: 5
+Prerequisites: None
+Instructors: Erin Donahoe
+Rooms: BH 336B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 85-811 Professional Development>
+
+<start course description for 85-811 Professional Development>
+Semester: Fall 2023 (aka F23)
+Course Description: Psychology Department Graduate Students Only.
+</end course description for 85-811 Professional Development>

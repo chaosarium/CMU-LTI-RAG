@@ -1,0 +1,16 @@
+<start course metadata for 45-885 Data Visualization>
+Semester: Spring 2024 (aka S24)
+Course Name: Data Visualization
+Course Number: 45-885
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Benjamin Collier, Param Singh
+Rooms: TEP 2112
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-885 Data Visualization>
+
+<start course description for 45-885 Data Visualization>
+Semester: Spring 2024 (aka S24)
+Course Description: At the core, working with data and telling interesting stories to improve business performance are fundamental to a role of data scientist. This course is designed to help you learn how to communicate something to someone using data. It is a hands on introduction to data visualization, presentation and exploration. This course covers these core skills while also giving students some familiarity with relevant software, statistical and visualization techniques and programming.
+</end course description for 45-885 Data Visualization>

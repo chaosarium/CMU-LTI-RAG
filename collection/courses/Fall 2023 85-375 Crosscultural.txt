@@ -1,0 +1,16 @@
+<start course metadata for 85-375 Crosscultural>
+Semester: Fall 2023 (aka F23)
+Course Name: Crosscultural
+Course Number: 85-375
+Department: Psychology
+Number of Units: 9
+Prerequisites: 85-100 or 85-102 or 85-198 or 85-211 or 85-219 or 85-221 or 85-241 or 85-251 or 85-261
+Instructors: Brian MacWhinney
+Rooms: BH 336B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 85-375 Crosscultural>
+
+<start course description for 85-375 Crosscultural>
+Semester: Fall 2023 (aka F23)
+Course Description: Human beings share a common genetic inheritance, but our cultural institutions differ in a bewildering variety of ways. This course explores the many different cultural expressions of basic human cognitive and social abilities and needs, We will look at cultural variations in child rearing, mother-child attachment, language socialization, categorization, reasoning, problem-solving, architecture, music, politics, warfare, food-gathering, sex roles, mental disorders, and altered states of consciousness, all with the goal of understanding how the shape of social systems and symbolic expression reflects the economic and adaptive needs of the culture and its people. Among the approaches to these phenomena we will consider are symbolic interaction, cognitive anthropology, dialectic materialism, and modern ethnology.
+</end course description for 85-375 Crosscultural>

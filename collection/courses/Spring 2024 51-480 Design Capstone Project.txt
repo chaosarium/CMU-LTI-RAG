@@ -1,0 +1,16 @@
+<start course metadata for 51-480 Design Capstone Project>
+Semester: Spring 2024 (aka S24)
+Course Name: Design Capstone Project
+Course Number: 51-480
+Department: Design
+Number of Units: 12
+Prerequisites: 51-481
+Instructors: Brett Yasko, Dylan Vitone
+Rooms: MM 211
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-480 Design Capstone Project>
+
+<start course description for 51-480 Design Capstone Project>
+Semester: Spring 2024 (aka S24)
+Course Description: Learn how to work independently, applying skills/knowledge in Products, Communications, Environments to the research/definition/development/testing of a project that focuses on the design of a service or social innovation that warrants investigation; deepen understanding of service & social innovation design principles and how they are put into practice.
+</end course description for 51-480 Design Capstone Project>

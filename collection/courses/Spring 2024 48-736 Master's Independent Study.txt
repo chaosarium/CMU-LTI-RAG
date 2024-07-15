@@ -1,0 +1,16 @@
+<start course metadata for 48-736 Master's Independent Study>
+Semester: Spring 2024 (aka S24)
+Course Name: Master's Independent Study
+Course Number: 48-736
+Department: Architecture
+Number of Units: N/A
+Prerequisites: None
+Instructors: Azadeh Sawyer, Dana Cupkova, Daniel Cardoso Llach, Daragh Byrne, Erica Cochran, Instructor TBA, Jeremy Ficca, Joshua Bard, Kristen Kurland, Man Kim, Matthew Huber, Nina Baird, Paul Pangaro, Stefan Gruber, Vivian Loftness
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-736 Master's Independent Study>
+
+<start course description for 48-736 Master's Independent Study>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is for students who wish to pursue work independent of all other courses offered, but consistent with the direction of the Master's Programs.     Prerequisites: Written proposal for work by a faculty member teaching in the Master's programs, and his/her agreement to advise the student. Both student and faculty must be in residence.     Instructor(s):   : Units  0-70
+</end course description for 48-736 Master's Independent Study>

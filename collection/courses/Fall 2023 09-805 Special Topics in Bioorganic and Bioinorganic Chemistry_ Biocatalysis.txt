@@ -1,0 +1,16 @@
+<start course metadata for 09-805 Special Topics in Bioorganic and Bioinorganic Chemistry: Biocatalysis>
+Semester: Fall 2023 (aka F23)
+Course Name: Special Topics in Bioorganic and Bioinorganic Chemistry: Biocatalysis
+Course Number: 09-805
+Department: Chemistry
+Number of Units: 6
+Prerequisites: None
+Instructors: Yisong Guo
+Rooms: MI 348
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 09-805 Special Topics in Bioorganic and Bioinorganic Chemistry: Biocatalysis>
+
+<start course description for 09-805 Special Topics in Bioorganic and Bioinorganic Chemistry: Biocatalysis>
+Semester: Fall 2023 (aka F23)
+Course Description: Biocatalysis is a rapidly evolving field that utilizes naturally evolved and bioengineered enzymes as platforms to offer revolutionary solutions for chemical production. This course features an in-depth discussion of different topics in biocatalysis with examples of how biocatalysis has reshaped various aspects of modern industries including food, pharmaceuticals, consumer products and biomaterials industries. This course also provides an overview of common enzyme classes used in modern biocatalysis and their associated catalytic mechanisms and engineering. Hands-on experience of common bioinformatic and computational tools for new enzyme discovery will also been integrated in the course.
+</end course description for 09-805 Special Topics in Bioorganic and Bioinorganic Chemistry: Biocatalysis>

@@ -1,0 +1,16 @@
+<start course metadata for 85-705 Graduate Core Course: Social>
+Semester: Fall 2023 (aka F23)
+Course Name: Graduate Core Course: Social
+Course Number: 85-705
+Department: Psychology
+Number of Units: 9
+Prerequisites: None
+Instructors: Brooke Feeney
+Rooms: BH 336A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 85-705 Graduate Core Course: Social>
+
+<start course description for 85-705 Graduate Core Course: Social>
+Semester: Fall 2023 (aka F23)
+Course Description: The social core integrates social psychology and personality psychology. The goal is to understand (a) the nature of individual differences and how those differences manifest themselves in experience, (b) how to construe different aspects of one's social environment, (c) how the social environment influences thoughts, feelings, and behavior, and (c) how personality factors and situations might interact and combine to determine outcomes.  The domains of literature that are examined are traits and dispositions, social support, emotions, interpersonal relationships, social cognition, and health. GRADUATE STUDENTS ONLY.
+</end course description for 85-705 Graduate Core Course: Social>

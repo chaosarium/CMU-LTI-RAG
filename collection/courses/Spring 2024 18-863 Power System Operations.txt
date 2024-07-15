@@ -1,0 +1,16 @@
+<start course metadata for 18-863 Power System Operations>
+Semester: Spring 2024 (aka S24)
+Course Name: Power System Operations
+Course Number: 18-863
+Department: Electrical & Computer Engineering
+Number of Units: 6
+Prerequisites: None
+Instructors: Barry Rawn
+Rooms: BH A53; CMR F309
+Locations: Kigali, Rwanda; Pittsburgh, Pennsylvania
+</end course metadata for 18-863 Power System Operations>
+
+<start course description for 18-863 Power System Operations>
+Semester: Spring 2024 (aka S24)
+Course Description: This course will examine the human-aided monitoring, planning, and decision making that enable reliable, secure and safe operation of a electric power system, on the time scale of minutes to weeks. We will study selected technical details via case studies of adding a new equipment or processes.  Students will be introduced to the requirements on a grid owner/operator, and the time-frames of activity that structure efforts to meet and maintain performance targets.   After completing this course, students will be prepared to analyze and evaluate the consequences for an electrical grid's physical and operational processes of connecting new equipment or adopting new communications and information systems. They will become familiar with the use of selected power system software tools.
+</end course description for 18-863 Power System Operations>

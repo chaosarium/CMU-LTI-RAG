@@ -1,0 +1,16 @@
+<start course metadata for 17-622 Agile Methods>
+Semester: Fall 2023 (aka F23)
+Course Name: Agile Methods
+Course Number: 17-622
+Department: Software & Societal Systems
+Number of Units: 6
+Prerequisites: None
+Instructors: Scott Pavetti, Timothy Chick
+Rooms: 3SC 265
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 17-622 Agile Methods>
+
+<start course description for 17-622 Agile Methods>
+Semester: Fall 2023 (aka F23)
+Course Description: Agile methods refers to a number of software development approaches that adopt self-organization, adaptive planning, evolutionary development, frequent delivery and working closely with and incorporating feedback from customers throughout the development process as their principles of operation to achieve responsiveness. This course will introduce students to two well known agile methods: Scrum and Kanban, connecting their practices to established group dynamics and knowledge management theories to explain why they work and under what circumstances
+</end course description for 17-622 Agile Methods>

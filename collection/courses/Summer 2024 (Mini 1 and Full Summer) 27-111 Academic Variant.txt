@@ -1,0 +1,16 @@
+<start course metadata for 27-111 Academic Variant>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Academic Variant
+Course Number: 27-111
+Department: Materials Science & Engineering
+Number of Units: N/A
+Prerequisites: None
+Instructors: Paige Houser
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 27-111 Academic Variant>
+
+<start course description for 27-111 Academic Variant>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: TBA
+</end course description for 27-111 Academic Variant>

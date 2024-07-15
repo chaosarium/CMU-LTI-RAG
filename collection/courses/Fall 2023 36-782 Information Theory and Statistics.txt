@@ -1,0 +1,16 @@
+<start course metadata for 36-782 Information Theory and Statistics>
+Semester: Fall 2023 (aka F23)
+Course Name: Information Theory and Statistics
+Course Number: 36-782
+Department: Statistics and Data Science
+Number of Units: 6
+Prerequisites: None
+Instructors: Shubhanshu Shekhar
+Rooms: BH 232M
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 36-782 Information Theory and Statistics>
+
+<start course description for 36-782 Information Theory and Statistics>
+Semester: Fall 2023 (aka F23)
+Course Description: Information theory is an area of applied probability that was developed to model and analyze engineering systems for storing and transmitting data. Since then, information-theoretic ideas have also played an important role in several topics within statistics, most notably in showing the optimality of statistical procedures. However, the role of information theory is not limited only to proving impossibility results. In this course, we will develop the tools to study some such modern and classical topics involving the interplay of information theory and statistics.   We will begin the course by introducing the main information measures (entropy, relative entropy, and mutual information) and rigorously establish their key properties. Next, we will study the fundamental task of (lossless) data compression, and in particular, see how the above information measures naturally arise as quantities with specific operational meaning. Next, we will study the (perhaps surprising) links between compression, and the optimal growth rate of the wealth in gambling. Finally, we will show how this connection can be exploited to design powerful methods for sequential inference. We will also introduce the notion of information projection, and study its connections to the error exponents in hypothesis testing.
+</end course description for 36-782 Information Theory and Statistics>

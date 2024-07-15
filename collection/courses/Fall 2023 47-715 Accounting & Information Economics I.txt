@@ -1,0 +1,16 @@
+<start course metadata for 47-715 Accounting & Information Economics I>
+Semester: Fall 2023 (aka F23)
+Course Name: Accounting & Information Economics I
+Course Number: 47-715
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Gaoqing Zhang
+Rooms: TEP 4219
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 47-715 Accounting & Information Economics I>
+
+<start course description for 47-715 Accounting & Information Economics I>
+Semester: Fall 2023 (aka F23)
+Course Description: to be added later
+</end course description for 47-715 Accounting & Information Economics I>

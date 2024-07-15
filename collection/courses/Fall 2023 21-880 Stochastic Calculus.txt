@@ -1,0 +1,16 @@
+<start course metadata for 21-880 Stochastic Calculus>
+Semester: Fall 2023 (aka F23)
+Course Name: Stochastic Calculus
+Course Number: 21-880
+Department: Mathematical Sciences
+Number of Units: 12
+Prerequisites: (21-355 or 21-235 or 21-455) and (21-373 or 21-237) and (21-721)
+Instructors: Dmitry Kramkov
+Rooms: WEH 7201
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-880 Stochastic Calculus>
+
+<start course description for 21-880 Stochastic Calculus>
+Semester: Fall 2023 (aka F23)
+Course Description: This is a first Ph.D.-level course in stochastic calculus for continuous-time processes. It includes martingales and semi-martingales, Brownian motion, the Poisson process, representation of continuous martingales as time-changed Brownian motions, construction of the Ito integral, and Ito's formula.  (Two 80 minute lectures)
+</end course description for 21-880 Stochastic Calculus>

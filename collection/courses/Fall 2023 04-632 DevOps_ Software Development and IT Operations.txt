@@ -1,0 +1,16 @@
+<start course metadata for 04-632 DevOps: Software Development and IT Operations>
+Semester: Fall 2023 (aka F23)
+Course Name: DevOps: Software Development and IT Operations
+Course Number: 04-632
+Department: Information & Communication Technology
+Number of Units: 12
+Prerequisites: None
+Instructors: Eric Umuhoza
+Rooms: CMR F203
+Locations: Kigali, Rwanda
+</end course metadata for 04-632 DevOps: Software Development and IT Operations>
+
+<start course description for 04-632 DevOps: Software Development and IT Operations>
+Semester: Fall 2023 (aka F23)
+Course Description: This course focuses on the technology aspects of DevOps. Students will learn the basics of DevOps infrastructure such as virtualization, networking, the cloud, and infrastructure security important to utilizing DevOps tools. The course also covers the theory of fundamental concepts in DevOps including infrastructure as code, configuration management, the deployment pipeline, microservice architecture, management of configuration parameters, and development-oriented security. The theoretical side of the course is complemented by biweekly practical assignments.
+</end course description for 04-632 DevOps: Software Development and IT Operations>

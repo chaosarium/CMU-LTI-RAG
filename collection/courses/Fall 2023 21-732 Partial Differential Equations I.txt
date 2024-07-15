@@ -1,0 +1,16 @@
+<start course metadata for 21-732 Partial Differential Equations I>
+Semester: Fall 2023 (aka F23)
+Course Name: Partial Differential Equations I
+Course Number: 21-732
+Department: Mathematical Sciences
+Number of Units: 12
+Prerequisites: (21-723) and (21-632) and (21-640) and (21-373 or 21-237)
+Instructors: Ian Tice
+Rooms: WEH 7201
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-732 Partial Differential Equations I>
+
+<start course description for 21-732 Partial Differential Equations I>
+Semester: Fall 2023 (aka F23)
+Course Description: An introduction to the modern theory of partial differential equations.  Including functional analytic techniques.  Topics vary slightly from year to year, but generally include existence, uniqueness and regularity for linear elliptic boundary value problems and an introduction to the theory of evolution equations.  (Three 50 minute lectures)
+</end course description for 21-732 Partial Differential Equations I>

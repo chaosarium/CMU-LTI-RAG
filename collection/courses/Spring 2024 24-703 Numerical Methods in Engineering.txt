@@ -1,0 +1,16 @@
+<start course metadata for 24-703 Numerical Methods in Engineering>
+Semester: Spring 2024 (aka S24)
+Course Name: Numerical Methods in Engineering
+Course Number: 24-703
+Department: Mechanical Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Kaushik Dayal
+Rooms: HH B103
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-703 Numerical Methods in Engineering>
+
+<start course description for 24-703 Numerical Methods in Engineering>
+Semester: Spring 2024 (aka S24)
+Course Description: This course covers numerical methods for solving a range of mathematical problems that are encountered in the analysis of engineering applications. Procedures will be presented for solving problems related to systems of equations, regression, optimization, integration, eigenvalues, ordinary differential equations, and partial differential equations. Students will be required to develop and implement computer algorithms and then apply them to engineering systems. Some programming experience is required.
+</end course description for 24-703 Numerical Methods in Engineering>

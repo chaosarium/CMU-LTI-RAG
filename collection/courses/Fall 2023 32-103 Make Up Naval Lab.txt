@@ -1,0 +1,16 @@
+<start course metadata for 32-103 Make Up Naval Lab>
+Semester: Fall 2023 (aka F23)
+Course Name: Make Up Naval Lab
+Course Number: 32-103
+Department: Naval Science - ROTC
+Number of Units: 3
+Prerequisites: None
+Instructors: Michael Tomon
+Rooms: FRB 210
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 32-103 Make Up Naval Lab>
+
+<start course description for 32-103 Make Up Naval Lab>
+Semester: Fall 2023 (aka F23)
+Course Description: Missing Course Description - please contact the teaching department.
+</end course description for 32-103 Make Up Naval Lab>

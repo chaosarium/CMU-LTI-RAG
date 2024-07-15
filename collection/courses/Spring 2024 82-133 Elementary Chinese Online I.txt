@@ -1,0 +1,16 @@
+<start course metadata for 82-133 Elementary Chinese Online I>
+Semester: Spring 2024 (aka S24)
+Course Name: Elementary Chinese Online I
+Course Number: 82-133
+Department: Modern Languages
+Number of Units: 12
+Prerequisites: None
+Instructors: Lihong Zhang
+Rooms: WEH 6423
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 82-133 Elementary Chinese Online I>
+
+<start course description for 82-133 Elementary Chinese Online I>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is designed for students who need a more flexible approach to language learning than that offered in a standard classroom course. It is designed to help beginners develop communicative competence in the four basic skills of listening, speaking, reading and writing the Chinese language. Basic vocabulary and sentence structures for use in essential daily-life situations, as well as cultural information, are taught through the course materials and assignments. Materials are web-based with extensive use of Internet technologies for listening, reading, and communication. This course is offered in a hybrid mode requiring one 80-minute class per week in addition to weekly 20-minute individual meetings with the instructor or a peer speaking assistant. There is a materials fee for taking this course which is paid by credit card on first log-in to the course website. Students in this class should be prepared to participate in such studies in the course of their classwork. A student with prior experience in Chinese must take the placement exam.
+</end course description for 82-133 Elementary Chinese Online I>

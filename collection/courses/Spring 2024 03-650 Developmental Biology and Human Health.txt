@@ -1,0 +1,16 @@
+<start course metadata for 03-650 Developmental Biology and Human Health>
+Semester: Spring 2024 (aka S24)
+Course Name: Developmental Biology and Human Health
+Course Number: 03-650
+Department: Biological Sciences
+Number of Units: 12
+Prerequisites: 03-709
+Instructors: Charles Ettensohn
+Rooms: WEH 5415
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 03-650 Developmental Biology and Human Health>
+
+<start course description for 03-650 Developmental Biology and Human Health>
+Semester: Spring 2024 (aka S24)
+Course Description: These courses provide an introduction to the development of multicellular animals, with an emphasis on the relevance of developmental processes to human health and medicine. The biological question we focus on is the following: how is a single cell (the fertilized egg) transformed into a complex, highly patterned organism?  We will survey the major stages of embryogenesis and examine in detail the cellular, molecular, and genetic mechanisms of development. We will stress common mechanisms that underlie the development of all multicellular animals while drawing examples from several well-studied model organisms. The biological processes that we will be concerned with include: differential gene expression and cell differentiation, cell signaling, morphogenesis, regeneration, and stem cell biology. A major unifying theme of the course is the encoding of development in the genomic DNA sequence and the flow of information from DNA sequence to anatomy.
+</end course description for 03-650 Developmental Biology and Human Health>

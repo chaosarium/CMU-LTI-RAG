@@ -1,0 +1,16 @@
+<start course metadata for 49-736 iii IoT and Smart Systems Core>
+Semester: Spring 2024 (aka S24)
+Course Name: iii IoT and Smart Systems Core
+Course Number: 49-736
+Department: Integrated Innovation Institute
+Number of Units: 12
+Prerequisites: None
+Instructors: Chad Hershberger, Geoffrey Dobson
+Rooms: CA 115
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 49-736 iii IoT and Smart Systems Core>
+
+<start course description for 49-736 iii IoT and Smart Systems Core>
+Semester: Spring 2024 (aka S24)
+Course Description: IoT permeates our world, from the accessories we wear to how surgeries are performed to tracking the grapes in a vineyard for a perfect vintage. AI has an increasingly prominent role in these "things" and the data can affect how we perform our jobs, manage our finances, drive our cars, etc., as we live our lives alongside intelligent systems. This course explores the goals behind IoT design and the tools for AI development through lectures, case studies, discussions and hands on team-based projects. Students will be challenged to consider from multiple perspectives the tradeoffs, risks and rewards of creating new, innovative AI-enabled products and services.
+</end course description for 49-736 iii IoT and Smart Systems Core>

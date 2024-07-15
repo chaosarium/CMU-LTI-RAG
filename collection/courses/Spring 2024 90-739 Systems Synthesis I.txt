@@ -1,0 +1,16 @@
+<start course metadata for 90-739 Systems Synthesis I>
+Semester: Spring 2024 (aka S24)
+Course Name: Systems Synthesis I
+Course Number: 90-739
+Department: Public Policy & Mgt:Sch of Pub Pol & Mgt
+Number of Units: 12
+Prerequisites: None
+Instructors: Avinash Collis, Beibei Li, Brett Crawford, Cole Gessner, David Lassman, Denise Lawson, Devon Halley, Edson Severnini, Eli Ben-Michael, Instructor TBA, James Riel, Jonathan Caulkins, Kristen Kurland, LaToya Robinson, Laura Zwicker, Lee Branstetter, Mariana Escallon Barrios, Michael Smith, Silvia Borzutzky, William Gogolak, William Peduto
+Rooms: DNM DNM; HBH 1208; HBH 2011
+Locations: Pittsburgh, Pennsylvania; Washington, District of Columbia
+</end course metadata for 90-739 Systems Synthesis I>
+
+<start course description for 90-739 Systems Synthesis I>
+Semester: Spring 2024 (aka S24)
+Course Description: None
+</end course description for 90-739 Systems Synthesis I>

@@ -1,0 +1,16 @@
+<start course metadata for 90-732 SQL Fundamentals>
+Semester: Spring 2024 (aka S24)
+Course Name: SQL Fundamentals
+Course Number: 90-732
+Department: Public Policy & Mgt:Sch of Pub Pol & Mgt
+Number of Units: 6
+Prerequisites: 90-728
+Instructors: Janusz Szczypula
+Rooms: HBH 2008
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 90-732 SQL Fundamentals>
+
+<start course description for 90-732 SQL Fundamentals>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is a comprehensive introduction to Structured Query Language (SQL), specifically tailored for beginners. It not only covers the fundamental aspects of SQL but also provides an insight into advanced topics that are increasingly relevant in today's data-driven landscape. Through hands-on learning and practical examples, students will gain the skills and knowledge needed to effectively work with databases and harness the power of SQL for data manipulation and analysis. By the end of this course, students will have a solid grasp of SQL, making them proficient in querying data and employing SQL functions for data analysis. These skills are highly sought after in various industries, as SQL is a fundamental tool for working with relational databases.
+</end course description for 90-732 SQL Fundamentals>

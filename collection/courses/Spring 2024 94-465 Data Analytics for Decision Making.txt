@@ -1,0 +1,16 @@
+<start course metadata for 94-465 Data Analytics for Decision Making>
+Semester: Spring 2024 (aka S24)
+Course Name: Data Analytics for Decision Making
+Course Number: 94-465
+Department: Heinz College Wide Courses
+Number of Units: 6
+Prerequisites: None
+Instructors: Mariana Escallon Barrios
+Rooms: HBH 1002
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 94-465 Data Analytics for Decision Making>
+
+<start course description for 94-465 Data Analytics for Decision Making>
+Semester: Spring 2024 (aka S24)
+Course Description: The rise in data availability and analytical tools has transformed the decision-making process in organizations. In this course we will explore achieving organizational goals through descriptive, predictive, and prescriptive analytics. The format for this course will be a combination of weekly lectures, interactive in-class activities, and case study team sessions. We will focus on the development of analytical models in the presence of conflicting and complementary objectives. We will also discuss how these models should be presented to various stakeholders.  At the end of the course, you will be able to identify the links between data-driven decisions and the mission outcomes of an organization, propose and develop an analytical model that contributes to the mission, and communicate its benefits.
+</end course description for 94-465 Data Analytics for Decision Making>

@@ -1,0 +1,16 @@
+<start course metadata for 57-888 Instrumental/Choral Conducting>
+Semester: Spring 2024 (aka S24)
+Course Name: Instrumental/Choral Conducting
+Course Number: 57-888
+Department: Music
+Number of Units: 6
+Prerequisites: 57-893
+Instructors: Stephen Story
+Rooms: HOA 226
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-888 Instrumental/Choral Conducting>
+
+<start course description for 57-888 Instrumental/Choral Conducting>
+Semester: Spring 2024 (aka S24)
+Course Description: This offering continues the development of skills in conducting gesture, score analysis, and rehearsal technique necessary to realize the effective interpretation of choral and instrumental scores.  Special focus is given to the understanding of choral performance.  Routine administrative issues facing the conductor are presented.
+</end course description for 57-888 Instrumental/Choral Conducting>

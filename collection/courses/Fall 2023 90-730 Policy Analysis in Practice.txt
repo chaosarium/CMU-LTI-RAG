@@ -1,0 +1,16 @@
+<start course metadata for 90-730 Policy Analysis in Practice>
+Semester: Fall 2023 (aka F23)
+Course Name: Policy Analysis in Practice
+Course Number: 90-730
+Department: Public Policy & Mgt:Sch of Pub Pol & Mgt
+Number of Units: 12
+Prerequisites: None
+Instructors: Harold Miller
+Rooms: HBH 2003
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 90-730 Policy Analysis in Practice>
+
+<start course description for 90-730 Policy Analysis in Practice>
+Semester: Fall 2023 (aka F23)
+Course Description: Successful policy analysis in real-world settings is far more than being able to collect data, run regressions, use optimization models, or identify market failures.  It involves:      anticipating issues that may need analysis;     determining when a problem exists and what is causing it;     defining and prioritizing the goals to be achieved in addressing the problem;     developing creative alternatives to address the problem;     analyzing the impacts of alternatives on different interests, both quantitatively and qualitatively;     assessing the uncertainties in impact estimates;     comparing alternatives in order to support decisions that can be successfully adopted and implemented in a political environment;     communicating the results of analyses and recommendations in ways that will successfully influence policy decisions; and     resolving ethical dilemmas in conflicting roles.   The course is designed to teach you a number of principles and approaches that can help you in carrying out these tasks and to provide you with experience in applying those principles to realistic policy problems.  The course will improve your understanding of how public policies are actually developed, analyzed, and implemented, and it will explain the roles the policy analyst can play in improving this process.  You will gain experience in analyzing policy problems through both class discussions and assignments.  The examples used will primarily be based on real-world cases, with all the complexity that implies.
+</end course description for 90-730 Policy Analysis in Practice>

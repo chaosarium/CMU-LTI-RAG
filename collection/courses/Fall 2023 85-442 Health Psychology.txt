@@ -1,0 +1,16 @@
+<start course metadata for 85-442 Health Psychology>
+Semester: Fall 2023 (aka F23)
+Course Name: Health Psychology
+Course Number: 85-442
+Department: Psychology
+Number of Units: 9
+Prerequisites: (36-200) and (85-102 or 85-211 or 85-219 or 85-221 or 85-241 or 85-251 or 85-104)
+Instructors: Michael Trujillo
+Rooms: BH 336B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 85-442 Health Psychology>
+
+<start course description for 85-442 Health Psychology>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is concerned with how behavior and psychological states influence the development of and recovery from disease.  The class provides an overview of existing psychological and epidemiological data on the relationship between behavior and disease and addresses the issue of how behavior, emotion and cognition can influence the disease processes.  Topics include: measures and concepts, stress and disease, stress and coping, personal control, helplessness and disease, social support and health, reactivity to stress, behavior and hypertension, coronary heart disease, infectious diseases and immune function, and the effectiveness of behavioral interventions in health.
+</end course description for 85-442 Health Psychology>

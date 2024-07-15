@@ -1,0 +1,16 @@
+<start course metadata for 95-723 Managing Disruptive Technologies>
+Semester: Fall 2023 (aka F23)
+Course Name: Managing Disruptive Technologies
+Course Number: 95-723
+Department: Information Systems:Sch of IS & Mgt
+Number of Units: 6
+Prerequisites: 95-710
+Instructors: Pedro Ferreira
+Rooms: HBH 1202; HBH 1206
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 95-723 Managing Disruptive Technologies>
+
+<start course description for 95-723 Managing Disruptive Technologies>
+Semester: Fall 2023 (aka F23)
+Course Description: We live in a rapidly changing world dominated by a myriad of technology-enabled disruptions. Consequently, there is a strong need for individuals that understand the complex ways in which these innovations affect marketplaces over time. In line with this need, this course looks at how technology-based products diffuse across markets. We depart from the fundamental ideas of monopoly and competitive pricing and study markets in which consumers interact across social networks and firms offer products to several markets simultaneously. The former enables direct network effects, while the latter enables indirect network effects. Lectures cover the fundamental concepts of economics and management applied to technology-enabled markets, including diffusion and critical mass, network effects, multi-sided platforms, pricing strategies, winner-takes-all markets, versioning, bundling, and envelopment attacks. We study these concepts in theory and lively with in-class discussions, competitive games, and simulations. We analyze several markets to complement the theories and models discussed in class, such as content distribution networks, social networking, the sharing economy, and online marketplaces for both digital and physical products. Students learn how to manage disruptive technologies and are exposed to frameworks and tools to characterize their dynamics over time.
+</end course description for 95-723 Managing Disruptive Technologies>

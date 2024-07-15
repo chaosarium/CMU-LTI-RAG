@@ -1,0 +1,16 @@
+<start course metadata for 54-366 Physics of Stage Machinery>
+Semester: Fall 2023 (aka F23)
+Course Name: Physics of Stage Machinery
+Course Number: 54-366
+Department: Drama
+Number of Units: 9
+Prerequisites: None
+Instructors: Kevin Hines
+Rooms: PCA 209
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-366 Physics of Stage Machinery>
+
+<start course description for 54-366 Physics of Stage Machinery>
+Semester: Fall 2023 (aka F23)
+Course Description: This class teaches the basic physics of dynamic mechanical systems, specifically in the context of lifts, winches, turntables and wagons used in theatrical production. Material covered consists of Newtonian Dynamics, elementary mechanics, and fluid power. Required for all junior undergraduate PTM students.    Drama majors only, or instructor permission.
+</end course description for 54-366 Physics of Stage Machinery>

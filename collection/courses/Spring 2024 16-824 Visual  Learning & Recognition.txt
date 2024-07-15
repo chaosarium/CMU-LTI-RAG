@@ -1,0 +1,16 @@
+<start course metadata for 16-824 Visual  Learning & Recognition>
+Semester: Spring 2024 (aka S24)
+Course Name: Visual  Learning & Recognition
+Course Number: 16-824
+Department: Robotics
+Number of Units: 12
+Prerequisites: 10-701 or 16-722 or 16-720 or 15-781 or 16-385
+Instructors: Deepak Pathak
+Rooms: GHC 4401
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 16-824 Visual  Learning & Recognition>
+
+<start course description for 16-824 Visual  Learning & Recognition>
+Semester: Spring 2024 (aka S24)
+Course Description: A graduate seminar course in Computer Vision with emphasis on representation and reasoning for large amounts of data (images, videos and associated tags, text, gps-locations etc) toward the ultimate goal of Image Understanding. We will be reading an eclectic mix of classic and recent papers on topics including: Theories of Perception, Mid-level Vision (Grouping, Segmentation, Poselets), Object and Scene Recognition, 3D Scene Understanding, Action Recognition, Contextual Reasoning, Image Parsing, Joint Language and Vision Models, etc. We will be covering a wide range of supervised, semi-supervised and unsupervised approaches for each of the topics above.
+</end course description for 16-824 Visual  Learning & Recognition>

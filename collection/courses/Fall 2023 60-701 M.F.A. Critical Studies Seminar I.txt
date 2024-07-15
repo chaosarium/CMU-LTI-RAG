@@ -1,0 +1,16 @@
+<start course metadata for 60-701 M.F.A. Critical Studies Seminar I>
+Semester: Fall 2023 (aka F23)
+Course Name: M.F.A. Critical Studies Seminar I
+Course Number: 60-701
+Department: Art
+Number of Units: 12
+Prerequisites: None
+Instructors: Jongwoo Kim
+Rooms: HOA 322
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 60-701 M.F.A. Critical Studies Seminar I>
+
+<start course description for 60-701 M.F.A. Critical Studies Seminar I>
+Semester: Fall 2023 (aka F23)
+Course Description: The two terms of MFA Critical Studies Seminar apply art history, theory, and criticism to nurture dialogue and develop a common language within each MFA cohort. Investigating artmaking beyond its material specifications and technical requirements, this course creates a decentered matrix through which MFA Candidates can contextualize their practice.
+</end course description for 60-701 M.F.A. Critical Studies Seminar I>

@@ -1,0 +1,16 @@
+<start course metadata for 18-848 Autonomous Robotics>
+Semester: Spring 2024 (aka S24)
+Course Name: Autonomous Robotics
+Course Number: 18-848
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Ziad Youssfi
+Rooms: GHC 4301
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-848 Autonomous Robotics>
+
+<start course description for 18-848 Autonomous Robotics>
+Semester: Spring 2024 (aka S24)
+Course Description: Please refer to the ECE website for descriptions of each topic: https://courses.ece.cmu.edu/
+</end course description for 18-848 Autonomous Robotics>

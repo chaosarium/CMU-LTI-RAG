@@ -1,0 +1,16 @@
+<start course metadata for 54-548 Sound Forum>
+Semester: Spring 2024 (aka S24)
+Course Name: Sound Forum
+Course Number: 54-548
+Department: Drama
+Number of Units: 1
+Prerequisites: None
+Instructors: Joe Pino, Stewart Blackwood
+Rooms: PCA 103
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-548 Sound Forum>
+
+<start course description for 54-548 Sound Forum>
+Semester: Spring 2024 (aka S24)
+Course Description: Twice weekly meeting of all declared sound design majors to discuss production assignments and issues surrounding productions.
+</end course description for 54-548 Sound Forum>

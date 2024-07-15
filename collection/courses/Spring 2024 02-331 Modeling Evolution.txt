@@ -1,0 +1,16 @@
+<start course metadata for 02-331 Modeling Evolution>
+Semester: Spring 2024 (aka S24)
+Course Name: Modeling Evolution
+Course Number: 02-331
+Department: Computational Biology
+Number of Units: 12
+Prerequisites: (15-112) and (21-241) and (15-259 or 36-218 or 36-225 or 21-325)
+Instructors: Oana Carja
+Rooms: GHC 5222
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 02-331 Modeling Evolution>
+
+<start course description for 02-331 Modeling Evolution>
+Semester: Spring 2024 (aka S24)
+Course Description: Some of the most serious public health problems we face today, from drug-resistant bacteria, to cancer, all arise from a fundamental property of living systems -- their ability to evolve. Since Darwin's theory of natural selection was first proposed, we have begun to understand how heritable differences in reproductive success drive the adaptation of living systems. This makes it intuitive and tempting to view evolution from an optimization perspective. However, genetic drift, phenotypic trade-offs, constraints, and changing environments, are among the many factors that may limit the optimizing force of natural selection. This tug-of-war between selection and drift, between the forces that produce variation in a population, and the forces suppressing this variation, make evolutionary processes much more complex to model and understand than previously thought. The aim of this class is to provide an introduction into the theoretical formalism necessary to understand how biological systems are shaped by the forces and constraints driving evolutionary dynamics.
+</end course description for 02-331 Modeling Evolution>

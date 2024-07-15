@@ -1,0 +1,16 @@
+<start course metadata for 27-991 Materials Science and Engineering Teaching Internship>
+Semester: Fall 2023 (aka F23)
+Course Name: Materials Science and Engineering Teaching Internship
+Course Number: 27-991
+Department: Materials Science & Engineering
+Number of Units: N/A
+Prerequisites: None
+Instructors: Elizabeth Dickey, Suzanne Smith
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 27-991 Materials Science and Engineering Teaching Internship>
+
+<start course description for 27-991 Materials Science and Engineering Teaching Internship>
+Semester: Fall 2023 (aka F23)
+Course Description: Students enrolled in the MSE Ph.D. program are required to complete at least 12 units of a teaching internship at some time between their third and seventh semesters.  Students should discuss the appropriate time to apply for and fulfill this requirement with their advisor.  The requirements and units will vary depending on the instructor and class and might vary from directing labs experiments, grading, holding office hours or recitations, background research, preparing course demos, or giving guest lectures.  The class instructor will also assign the teaching intern's grade.  Students will apply for internships before each semester; the department Head will make the course assignments before the start of each semester. No more than 24 units of 27-991 can count toward the coursework requirement of the Ph.D. program. Passing of the Research Performance Evaluation (RPE) is required in order to eligible.
+</end course description for 27-991 Materials Science and Engineering Teaching Internship>

@@ -1,0 +1,16 @@
+<start course metadata for 57-785 Collaborative Piano V>
+Semester: Fall 2023 (aka F23)
+Course Name: Collaborative Piano V
+Course Number: 57-785
+Department: Music
+Number of Units: N/A
+Prerequisites: 57-784
+Instructors: Mark Carver
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-785 Collaborative Piano V>
+
+<start course description for 57-785 Collaborative Piano V>
+Semester: Fall 2023 (aka F23)
+Course Description: Continues 57-784 Accompanying IV.
+</end course description for 57-785 Collaborative Piano V>

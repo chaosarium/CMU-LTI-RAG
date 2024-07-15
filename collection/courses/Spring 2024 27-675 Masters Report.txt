@@ -1,0 +1,16 @@
+<start course metadata for 27-675 Masters Report>
+Semester: Spring 2024 (aka S24)
+Course Name: Masters Report
+Course Number: 27-675
+Department: Materials Science & Engineering
+Number of Units: 0
+Prerequisites: None
+Instructors: Paige Houser
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 27-675 Masters Report>
+
+<start course description for 27-675 Masters Report>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is used to indicate whether a student has satisfied the final report requirement for the Master of Science in Materials Science Degree Program.  Students in the program will be registered for the course in their final semester of the program.
+</end course description for 27-675 Masters Report>

@@ -1,0 +1,16 @@
+<start course metadata for 42-675 TBA>
+Semester: Fall 2023 (aka F23)
+Course Name: TBA
+Course Number: 42-675
+Department: Biomedical Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Yu-Li Wang
+Rooms: WEH 4623
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 42-675 TBA>
+
+<start course description for 42-675 TBA>
+Semester: Fall 2023 (aka F23)
+Course Description: This goal of this course is to enable students with little or no programming background to use computational methods to solve basic biomedical engineering problems.  Students will use MATLAB to solve linear systems of equations, model fit using least squares techniques (linear and nonlinear), interpolate data, perform numerical integration and differentiation, solve differential equations, and visualize data. Specific examples for each topic will be drawn from different areas of biomedical engineering, such as bioimaging and signal processing, biomechanics, biomaterials, and cellular and biomolecular technology.
+</end course description for 42-675 TBA>

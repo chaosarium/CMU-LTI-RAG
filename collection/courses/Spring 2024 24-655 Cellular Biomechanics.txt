@@ -1,0 +1,16 @@
+<start course metadata for 24-655 Cellular Biomechanics>
+Semester: Spring 2024 (aka S24)
+Course Name: Cellular Biomechanics
+Course Number: 24-655
+Department: Mechanical Engineering
+Number of Units: 9
+Prerequisites: None
+Instructors: Philip Leduc
+Rooms: DH 2105
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-655 Cellular Biomechanics>
+
+<start course description for 24-655 Cellular Biomechanics>
+Semester: Spring 2024 (aka S24)
+Course Description: This course discusses how mechanical quantities and processes such as force, motion, and deformation influence cell behavior and function, with a focus on the connection between mechanics and biochemistry. Specific topics include: (1) the role of stresses in the cytoskeleton dynamics as related to cell growth, spreading, motility, and adhesion; (2) the generation of force and motion by moot molecules; (3) stretch-activated ion channels; (4) protein and DNA deformation; (5) mechanochemical coupling in signal transduction. If time permits, we will also cover protein trafficking and secretion and the effects of mechanical forces on gene expression. Emphasis is placed on the biomechanics issues at the cellular and molecular levels; their clinical and engineering implications are elucidated. 3 hrs. lec.  Prerequisite:  Instructor permission.
+</end course description for 24-655 Cellular Biomechanics>

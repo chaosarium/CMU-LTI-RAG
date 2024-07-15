@@ -1,0 +1,16 @@
+<start course metadata for 12-741 Data Management>
+Semester: Fall 2023 (aka F23)
+Course Name: Data Management
+Course Number: 12-741
+Department: Civil & Environmental Engineering
+Number of Units: 6
+Prerequisites: None
+Instructors: Mario Berges
+Rooms: GHC 5222
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 12-741 Data Management>
+
+<start course description for 12-741 Data Management>
+Semester: Fall 2023 (aka F23)
+Course Description: The intent of this course is to introduce students to database management systems and to knowledge discovery in database principles.  Students will learn how to develop powerful tools for efficiently managing large amounts of civil engineering data so that it may persist safely over long periods of time.  Students will be introduced to relational database systems and structured query languages.  They will also be exposed to other existing data models.  Students also will be introduced to data mining and analysis tools to discover patterns and knowledge from data.
+</end course description for 12-741 Data Management>

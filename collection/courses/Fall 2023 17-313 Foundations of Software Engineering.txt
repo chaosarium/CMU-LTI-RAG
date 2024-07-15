@@ -1,0 +1,16 @@
+<start course metadata for 17-313 Foundations of Software Engineering>
+Semester: Fall 2023 (aka F23)
+Course Name: Foundations of Software Engineering
+Course Number: 17-313
+Department: Software & Societal Systems
+Number of Units: 12
+Prerequisites: 15-122 or 15-121
+Instructors: Andrew Begel, Rohan Padhye
+Rooms: PH 100
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 17-313 Foundations of Software Engineering>
+
+<start course description for 17-313 Foundations of Software Engineering>
+Semester: Fall 2023 (aka F23)
+Course Description: Students gain exposure to the fundamental principles of software engineering. This includes both core CS technical knowledge and the means by which this knowledge can be applied in the practical engineering of complex software in real-world settings. Topics related to software artifacts include coding, software architecture, measurement, and quality assurance of various qualities (e.g., robustness, security, performance, maintainability) with static and dynamic analysis, testing, code review, and inspection. Topics related to software process include requirements engineering, process models and evaluation, personal and team development, and supply chain issues including outsourcing and open source. This course has a strong technical focus, a strong focus on developing team skills, and will include both written and programming assignments. Students will get experience with the latest software engineering tools and practices.
+</end course description for 17-313 Foundations of Software Engineering>

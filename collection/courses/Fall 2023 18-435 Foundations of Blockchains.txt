@@ -1,0 +1,16 @@
+<start course metadata for 18-435 Foundations of Blockchains>
+Semester: Fall 2023 (aka F23)
+Course Name: Foundations of Blockchains
+Course Number: 18-435
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: (18-334) or (18-335) or (18-465) or (18-733) or (18-202 and 18-213) or (18-202 and 15-513) or (18-202 and 18-613) or (18-202 and 14-513)
+Instructors: Runting Shi
+Rooms: TEP 1403
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-435 Foundations of Blockchains>
+
+<start course description for 18-435 Foundations of Blockchains>
+Semester: Fall 2023 (aka F23)
+Course Description: In this course, students will learn the mathematical foundations of blockchains, including how to construct distributed consensus protocols and prove them secure, cryptography for blockchains, and mechanism design for blockchains. This course will take a mathematically rigorous approach. Students are expected to have mathematical maturity and be able to write formal mathematical proofs. Students may also be expected to implement some consensus or cryptographic algorithms.   This course is crosslisted with 18635. ECE graduate students will be prioritized for 18635, and ECE undergraduate students will be prioritized for 18435. Although students in 18435 will share lectures with students in 18635, students in 18435 will receive distinct homework assignments, distinct programming projects, and distinct exams from the ones given to students in 18635. Specifically, the homework assignments, programming projects, and exams that are given to the 18635 students will be more challenging than those given to the 18435 students.
+</end course description for 18-435 Foundations of Blockchains>

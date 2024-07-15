@@ -1,0 +1,16 @@
+<start course metadata for 27-406 Sustainable Materials>
+Semester: Fall 2023 (aka F23)
+Course Name: Sustainable Materials
+Course Number: 27-406
+Department: Materials Science & Engineering
+Number of Units: 9
+Prerequisites: None
+Instructors: Robert Heard
+Rooms: DH 1212
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 27-406 Sustainable Materials>
+
+<start course description for 27-406 Sustainable Materials>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is intended to instill a sense of how materials properties and performance are conceived and brought to market specifically under sustainability constraints arising from the increasing demand of materials, Students will be introduced to the global nature of materials and will explore the global influences on the materials supply and value chains. The student will explore issues through the framework of the materials lifecycle including resource availability, manufacturing choices, and disposable options for materials in light of their use and selection for application. As a result, the student will be able to make more informed material selection or be able to use this information to identify critical research directions for future material development.
+</end course description for 27-406 Sustainable Materials>

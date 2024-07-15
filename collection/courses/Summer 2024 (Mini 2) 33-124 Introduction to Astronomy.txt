@@ -1,0 +1,16 @@
+<start course metadata for 33-124 Introduction to Astronomy>
+Semester: Summer Two 2024 (aka M24, M24 Mini 2, Summer 2024 Mini 2)
+Course Name: Introduction to Astronomy
+Course Number: 33-124
+Department: Physics
+Number of Units: 9
+Prerequisites: None
+Instructors: Diane Turnshek
+Rooms: HH B103
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 33-124 Introduction to Astronomy>
+
+<start course description for 33-124 Introduction to Astronomy>
+Semester: Summer Two 2024 (aka M24, M24 Mini 2, Summer 2024 Mini 2)
+Course Description: Astronomy continues to enjoy a golden age of exploration and discovery. This course presents a broad view of astronomy, straightforwardly descriptive and without any complex mathematics. The goal of the course is to encourage non-technical students to become scientifically literate and to appreciate new developments in the world of science, especially in the rapidly developing field of astronomy. Subjects covered include the solar system, stars, galaxies and the universe as a whole. The student should develop an appreciation of the ever-changing universe and our place within it. Computer laboratory exercises will be used to gain practical experience in astronomical techniques. In addition, small telescopes will be used to study the sky. This course is specifically geared toward non-science/engineering majors.
+</end course description for 33-124 Introduction to Astronomy>

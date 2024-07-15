@@ -1,0 +1,16 @@
+<start course metadata for 94-866 Design Thinking>
+Semester: Spring 2024 (aka S24)
+Course Name: Design Thinking
+Course Number: 94-866
+Department: Heinz College Wide Courses
+Number of Units: 6
+Prerequisites: None
+Instructors: Kate McCall-Kiley
+Rooms: HBH 2003
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 94-866 Design Thinking>
+
+<start course description for 94-866 Design Thinking>
+Semester: Spring 2024 (aka S24)
+Course Description: Design thinking is a collaborative user centered process for the identification of problems and the definition of innovative solutions. Design thinking has been applied to the development of new products, the solution of social problems, the design of new business models and the improvement of existing processes. Design thinking is based in five premises which pervade the creative process: - User centered: Empathy for the people you are designing for and feedback from these users is fundamental to a good solution. - Experimentation: Communicate your vision by creating experiences, using illustrations, prototypes and stories meaningful to your users - Reframing the problem: Formulating the problem in different ways, one level above the current reality, one level down or from different points of view. - Collaboration: Problems and solutions are identified with the participation of all key stakeholders by s a cross-functional team that looks at many aspects of the solution.  Objectives: By the end of the course the student should be able to: Decide the suitability of applying design thinking in a given context Explain the design thinking process and its most common tools  Apply the design thinking process in the context of a service or software product definition
+</end course description for 94-866 Design Thinking>

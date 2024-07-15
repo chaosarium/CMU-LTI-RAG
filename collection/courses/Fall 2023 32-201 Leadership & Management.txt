@@ -1,0 +1,16 @@
+<start course metadata for 32-201 Leadership & Management>
+Semester: Fall 2023 (aka F23)
+Course Name: Leadership & Management
+Course Number: 32-201
+Department: Naval Science - ROTC
+Number of Units: 9
+Prerequisites: None
+Instructors: Michael Tomon
+Rooms: HBH 1007
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 32-201 Leadership & Management>
+
+<start course description for 32-201 Leadership & Management>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is a comprehensive advanced-level study of organizational behavior and management. Topics include a survey of the management functions of planning, organizing, and controlling; an introduction to individual and group behavior in organizations; an extensive study of motivation and leadership. Major behavioral theories are explored in detail. Practical applications are explored by the use of experiential exercises, case studies, and laboratory discussions. Other topics developed include decision-making, communication, responsibility, authority and accountability.
+</end course description for 32-201 Leadership & Management>

@@ -1,0 +1,16 @@
+<start course metadata for 53-483 Advanced Digital Sculpture>
+Semester: Spring 2024 (aka S24)
+Course Name: Advanced Digital Sculpture
+Course Number: 53-483
+Department: Entertainment Technology
+Number of Units: 10
+Prerequisites: None
+Instructors: Moshe Mahler
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 53-483 Advanced Digital Sculpture>
+
+<start course description for 53-483 Advanced Digital Sculpture>
+Semester: Spring 2024 (aka S24)
+Course Description: This class offers a deeper dive into the craft of digital sculpture and character creation. Students will be self driven and self directed to create a portfolio quality 3d character sculpture. Over the course of the semester we will study anatomy, posing, as well as storytelling through worldbuilding  and shape language. Technical learning objectives include topology optimization, PBR workflows, the use UDIMS and other more advanced workflows. The course will emphasize one on one time with the instructor to provide notes, draw-overs, hands-on demonstration, and feedback on a weekly basis.
+</end course description for 53-483 Advanced Digital Sculpture>

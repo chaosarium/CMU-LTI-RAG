@@ -1,0 +1,16 @@
+<start course metadata for 76-922 PHD/R Dissertation Writing>
+Semester: Fall 2023 (aka F23)
+Course Name: PHD/R Dissertation Writing
+Course Number: 76-922
+Department: English
+Number of Units: N/A
+Prerequisites: None
+Instructors: Jennifer Loughran
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 76-922 PHD/R Dissertation Writing>
+
+<start course description for 76-922 PHD/R Dissertation Writing>
+Semester: Fall 2023 (aka F23)
+Course Description: None
+</end course description for 76-922 PHD/R Dissertation Writing>

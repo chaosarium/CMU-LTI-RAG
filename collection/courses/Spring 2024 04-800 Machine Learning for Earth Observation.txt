@@ -1,0 +1,16 @@
+<start course metadata for 04-800 Machine Learning for Earth Observation>
+Semester: Spring 2024 (aka S24)
+Course Name: Machine Learning for Earth Observation
+Course Number: 04-800
+Department: Information & Communication Technology
+Number of Units: 12
+Prerequisites: None
+Instructors: Ben Racz, Edith Luhanga, Michael Perkins, Moise Busogi, Patrick McSharry
+Rooms: CMR F203; CMR F305; CMR F307; CMU REMOTE
+Locations: Kigali, Rwanda
+</end course metadata for 04-800 Machine Learning for Earth Observation>
+
+<start course description for 04-800 Machine Learning for Earth Observation>
+Semester: Spring 2024 (aka S24)
+Course Description: Special Topics courses cover a variety of subjects. They are grouped under special topics because a unique course number has not been assigned. The courses may be distinguished from each other by looking at the section letter/number and section title.
+</end course description for 04-800 Machine Learning for Earth Observation>

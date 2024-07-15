@@ -1,0 +1,16 @@
+<start course metadata for 99-405 Summer Directed Study>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Summer Directed Study
+Course Number: 99-405
+Department: Carnegie Mellon University-Wide Studies
+Number of Units: N/A
+Prerequisites: None
+Instructors: Korryn Mozisek
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 99-405 Summer Directed Study>
+
+<start course description for 99-405 Summer Directed Study>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: This is a Directed Study course option.  Available by SPECIAL PERMISSION ONLY.
+</end course description for 99-405 Summer Directed Study>

@@ -1,0 +1,16 @@
+<start course metadata for 60-703 M.F.A. Studio>
+Semester: Spring 2024 (aka S24)
+Course Name: M.F.A. Studio
+Course Number: 60-703
+Department: Art
+Number of Units: N/A
+Prerequisites: None
+Instructors: Angela Washko, Katie Hubbard, Lyndon Barrois
+Rooms: HOA 322
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 60-703 M.F.A. Studio>
+
+<start course description for 60-703 M.F.A. Studio>
+Semester: Spring 2024 (aka S24)
+Course Description: MFA Studio consists of the development of self-directed studio work, independent research, and ongoing artistic production. Students work independently and in consultation with the MFA Core Faculty and School of Art advisors, during regularly scheduled studio visits.
+</end course description for 60-703 M.F.A. Studio>

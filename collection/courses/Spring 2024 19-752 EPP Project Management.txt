@@ -1,0 +1,16 @@
+<start course metadata for 19-752 EPP Project Management>
+Semester: Spring 2024 (aka S24)
+Course Name: EPP Project Management
+Course Number: 19-752
+Department: Engineering & Public Policy
+Number of Units: 12
+Prerequisites: None
+Instructors: Destenie Nock, Ramteen Sioshansi
+Rooms: SH 234
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 19-752 EPP Project Management>
+
+<start course description for 19-752 EPP Project Management>
+Semester: Spring 2024 (aka S24)
+Course Description: Interdisciplinary problem-solving projects in which students work as leaders or members of project teams. Problem areas are abstracted from local, state and national situations and involve the interaction of technology and public policy, with different projects being chosen each semester. Oral and written presentations concerning the results of project studies are required.
+</end course description for 19-752 EPP Project Management>

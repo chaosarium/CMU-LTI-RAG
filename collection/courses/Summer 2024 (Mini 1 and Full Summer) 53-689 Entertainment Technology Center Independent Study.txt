@@ -1,0 +1,16 @@
+<start course metadata for 53-689 Entertainment Technology Center Independent Study>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Entertainment Technology Center Independent Study
+Course Number: 53-689
+Department: Entertainment Technology
+Number of Units: N/A
+Prerequisites: None
+Instructors: Instructor TBA
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 53-689 Entertainment Technology Center Independent Study>
+
+<start course description for 53-689 Entertainment Technology Center Independent Study>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: For ETC students   Independent study is available for students who are in good academic standing. Independent study allows the student, with the support of a faculty advisor, to develop a self-generated project or body of work outside the classroom or project course setting. In order to register for an independent study, the student must first propose their idea to a faculty member (who does not have to be from our department) who agrees to oversee the project, and then fill out the appropriate paperwork available from the Director of Student Services.     For non-ETC students   The Entertainment Technology Center offers independent study opportunities to non-ETC students on a very limited basis. Registering for the independent study allows students, in essence, to work be a part of ETC project course in which ETC students are in small, interdisciplinary teams, creating artifacts under direct faculty supervision. The number of projects per semester will vary. The primary objective of the courses is to provide a hands-on working experience with teammates who are from different backgrounds and disciplines. Other objectives are to experience project management, and have the possibility of working with an external client (some projects have external collaborators). The requirements for a project are that: the team contain students from both technology and non-technology backgrounds, the team must prototype and produce a tangible artifact (not a paper), and the work must be supervised by a faculty member approved by the ETC for this project.  Registration to the course requires a completed independent study work outline.  See the ETC Director of Student Services for the form.
+</end course description for 53-689 Entertainment Technology Center Independent Study>

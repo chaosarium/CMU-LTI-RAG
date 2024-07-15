@@ -1,0 +1,16 @@
+<start course metadata for 18-742 Computer Architecture and Systems>
+Semester: Spring 2024 (aka S24)
+Course Name: Computer Architecture and Systems
+Course Number: 18-742
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: 18-447 or 18-613
+Instructors: Mohammad Bakhshalipour, Phillip Gibbons
+Rooms: POS 146
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-742 Computer Architecture and Systems>
+
+<start course description for 18-742 Computer Architecture and Systems>
+Semester: Spring 2024 (aka S24)
+Course Description: Historically, the performance and efficiency of computers has scaled favorably (according to "Moore's Law") with improvements at the transistor level that followed a steady trend (so-called "Dennard scaling"). Unfortunately, device scaling has hit a limit   on performance and power improvements dictated by physical device properties. To continue to make systems capable, fast, energy efficient, programmable, and reliable in this "post-Dennard" era, computer architects must be creative and innovate across the layers of the system stack.  This course begins with a recap of conventional, sequential computer architecture concepts.  We will then discuss the end of convention, brought about by the end of Dennard Scaling and Moore's Law, and several trends that these changes precipitated.  The first trend is the wholesale shift to parallel computer architectures and systems, covering parallel hardware and software execution models, cache coherence, memory consistency, synchronization, transactional memory, and architecture support for programming, debugging, and failure avoidance.  The second trend is the shift to incorporating specialized, heterogeneous components into parallel computer architectures.  Topics will include reconfigurable architectures, FPGAs in the datacenter, ASIC accelerators, GPGPU architectures, and the changes to the system stack that these components demand. The third trend is the emergence of newly capable hardware and software systems and new models of computation.  Topics will include approximate and neuromorphic computing, intermittent computing, emerging non-volatile memory and logic technologies, and analog and asynchronous architectures, and may include future emerging topics.
+</end course description for 18-742 Computer Architecture and Systems>

@@ -1,0 +1,16 @@
+<start course metadata for 54-416 Broadway Styles>
+Semester: Spring 2024 (aka S24)
+Course Name: Broadway Styles
+Course Number: 54-416
+Department: Drama
+Number of Units: 5
+Prerequisites: 54-319
+Instructors: Tome' Cousin
+Rooms: PCA 306
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-416 Broadway Styles>
+
+<start course description for 54-416 Broadway Styles>
+Semester: Spring 2024 (aka S24)
+Course Description: This course continues to provide the student with a practical and historical knowledge of the dance repertoire in American Musical Theater using the original choreography from prominent Broadway choreographers. Course closed: Only for Music Theatre majors in Drama.
+</end course description for 54-416 Broadway Styles>

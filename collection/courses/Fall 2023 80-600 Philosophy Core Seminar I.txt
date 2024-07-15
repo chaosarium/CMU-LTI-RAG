@@ -1,0 +1,16 @@
+<start course metadata for 80-600 Philosophy Core Seminar I>
+Semester: Fall 2023 (aka F23)
+Course Name: Philosophy Core Seminar I
+Course Number: 80-600
+Department: Philosophy
+Number of Units: 12
+Prerequisites: None
+Instructors: Derrick Gray
+Rooms: BH 145C
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 80-600 Philosophy Core Seminar I>
+
+<start course description for 80-600 Philosophy Core Seminar I>
+Semester: Fall 2023 (aka F23)
+Course Description: This seminar will focus on classic writings in 20th-century philosophy in order to introduce students to a substantial part of the modern philosophical canon. Topics will include key debates in many areas of philosophy, including metaphysics, epistemology, philosophy of science, philosophy of mathematics, social & political philosophy, and others.   Note: This course is reserved and required for all first-year graduate students in the Philosophy Department.
+</end course description for 80-600 Philosophy Core Seminar I>

@@ -1,0 +1,16 @@
+<start course metadata for 27-505 Exploration of Everyday Materials>
+Semester: Spring 2024 (aka S24)
+Course Name: Exploration of Everyday Materials
+Course Number: 27-505
+Department: Materials Science & Engineering
+Number of Units: 9
+Prerequisites: None
+Instructors: Robert Heard
+Rooms: WEH 4709
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 27-505 Exploration of Everyday Materials>
+
+<start course description for 27-505 Exploration of Everyday Materials>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is developed for upper level undergraduate and master level students outside of the College of Engineering that wish to learn about materials by experientially exploring a material and or an application of a material. Each year the course will select a material that through its' application, presents and opportunity or a concern in service. It will engage the students with studio-based exploration of the material and application, the selection criteria applicable, and engineering principles that influence the performance. It will explore a wide range of influential topics constraining material selection including societal concerns about materials and global sustainability.
+</end course description for 27-505 Exploration of Everyday Materials>

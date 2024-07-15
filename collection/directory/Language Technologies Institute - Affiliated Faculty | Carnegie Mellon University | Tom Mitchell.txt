@@ -1,0 +1,6 @@
+Name: Tom Mitchell
+Title: E. Fredkin University Professor in the Machine Learning Department
+Email mitchell@andrew.cmu.edu
+Phone: 412-268-2611
+Office: 8211 Gates & Hillman Centers
+Interests: 

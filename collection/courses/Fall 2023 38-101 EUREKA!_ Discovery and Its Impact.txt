@@ -1,0 +1,16 @@
+<start course metadata for 38-101 EUREKA!: Discovery and Its Impact>
+Semester: Fall 2023 (aka F23)
+Course Name: EUREKA!: Discovery and Its Impact
+Course Number: 38-101
+Department: MCS Interdisciplinary
+Number of Units: 6
+Prerequisites: None
+Instructors: Ken Hovis
+Rooms: DH 2210
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 38-101 EUREKA!: Discovery and Its Impact>
+
+<start course description for 38-101 EUREKA!: Discovery and Its Impact>
+Semester: Fall 2023 (aka F23)
+Course Description: The MCS first-year seminar "EUREKA: Discovery and Its Impact" will equip new students with foundational knowledge, skills and perspectives that will support their development as emerging scientists.  During the seminar, students will be presented with opportunities and experiences designed to help them frame how the MCS curriculum aspires to shape their evolving identities in the areas of scholar, person, professional and citizen, while also engendering a sense of excitement about science and scientific inquiry.  The seminar will offer information and strategies that are employed both by successful students and by successful scientists in optimizing their approach to work and life, with a key focus on areas such as cognitive learning skills, research, teamwork, goal setting, time management, innovation, community engagement, ethics, resources and assessment.  Additionally, the seminar will introduce first-year students to the learning outcomes and requirements associated with the MCS core curriculum, with a particular emphasis on the self-directed ENGAGE courses and the role of the e-portfolio system in documenting and framing student growth and development.
+</end course description for 38-101 EUREKA!: Discovery and Its Impact>

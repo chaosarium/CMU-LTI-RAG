@@ -1,0 +1,16 @@
+<start course metadata for 04-611 Strategic Use of Digital Information in Enterprise>
+Semester: Fall 2023 (aka F23)
+Course Name: Strategic Use of Digital Information in Enterprise
+Course Number: 04-611
+Department: Information & Communication Technology
+Number of Units: 12
+Prerequisites: None
+Instructors: Michel Bezy
+Rooms: CMR F205
+Locations: Kigali, Rwanda
+</end course metadata for 04-611 Strategic Use of Digital Information in Enterprise>
+
+<start course description for 04-611 Strategic Use of Digital Information in Enterprise>
+Semester: Fall 2023 (aka F23)
+Course Description: An unprecedented access to real-time and unfiltered world information is providing enterprise with new strategic information assets. This information is characterized by: 1. large volume of the data, 2. the diversity of the data, not only structured data typically created by enterprises' transaction systems, but mostly unstructured data found in enterprises (business documents, emails, reports, customers communication documents, etc) but also from outside the enterprise (social media, multimedia (video, audio), Internet, sensors, mobile devices, non- conventional IT devices (GPS, RFID readers,...), 3. the geographical distribution of the sources of information and 4. the timeliness value of that information when captured in real time.  This is sometime called BIG DATA. The ability to pull value from this data is a crucial competitive differentiator. The challenge is to turn this massive amount and continuous stream of data and information into knowledge and insights in real-time to provide actionable information to assist decision makers in enterprises in support of the execution of their strategic plan. This requires the use of new technical architectures and analytics to enable insights that unlock new sources of business value.  The data-driven enterprise of tomorrow is one that makes business decisions based on amassing and analyzing that data in real time. It leverages the enormous computational power that can now be delivered by small, abundant and inexpensive devices. All of these digital devicessoon to number in the trillionsare being connected through the Internet, turning data into intelligence, using their processing power and advanced analytics to make sense of it all. They deliver a new generation of applications that have a material impact on the top line. With this knowledge enterprises can reduce cost and waste, improve efficiency and productivity, and raise the quality of their products.
+</end course description for 04-611 Strategic Use of Digital Information in Enterprise>

@@ -1,0 +1,16 @@
+<start course metadata for 33-241 Introduction to Computational Physics>
+Semester: Fall 2023 (aka F23)
+Course Name: Introduction to Computational Physics
+Course Number: 33-241
+Department: Physics
+Number of Units: 9
+Prerequisites: (15-112) and (21-122) and (33-104) and (33-107 or 33-112 or 33-132 or 33-142 or 33-122 or 33-152)
+Instructors: Hy Trac
+Rooms: DH 2122
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 33-241 Introduction to Computational Physics>
+
+<start course description for 33-241 Introduction to Computational Physics>
+Semester: Fall 2023 (aka F23)
+Course Description: This undergraduate course will provide an introduction to the numerical methods and computational algorithms used to solve a variety of problems in physics. In introductory physics courses, you are able to derive analytical solutions for simpler problems and often with simplifying assumptions. Have you wondered if a numerical solution can be obtained for a more complex problem that has no closed-form analytical solution? Computational physics provides a modern and powerful approach to compliment classical approaches to problem solving. Today's and tomorrow's scientists must be computationally fluent to be competitive and successful. In this course, you will learn to formulate problems by applying physical principles, select and apply numerical methods, develop and apply computational algorithms, solve physical problems analytically and numerically, and visualize quantitative results using plotting software.
+</end course description for 33-241 Introduction to Computational Physics>

@@ -1,0 +1,16 @@
+<start course metadata for 48-215 Materials & Assembly>
+Semester: Fall 2023 (aka F23)
+Course Name: Materials & Assembly
+Course Number: 48-215
+Department: Architecture
+Number of Units: 9
+Prerequisites: 48-100
+Instructors: Gerard Damiani
+Rooms: POS 151
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-215 Materials & Assembly>
+
+<start course description for 48-215 Materials & Assembly>
+Semester: Fall 2023 (aka F23)
+Course Description: This course introduces and examines the fundamentals between design intent and construction materials, and the science of materials (performance) and their assemblies. Learning how materials and techniques inform spatial and form making decisions will be a central theme for the semester. Lectures and discussions will focus on the meaning, aesthetics and techniques related to the use of materials and the process of construction. A basic understanding of essential, well-known systems of building construction will be our base line. Discussions and case studies of contemporary systems that extend, experiment with and question these known systems will introduce you to the great depth to which this basic knowledge can lead you. Joint assignments with the design studio will provide you with an opportunity for an in-depth exploration of these fundamentals of construction through a direct application and synthesis of this new knowledge to your studio project.
+</end course description for 48-215 Materials & Assembly>

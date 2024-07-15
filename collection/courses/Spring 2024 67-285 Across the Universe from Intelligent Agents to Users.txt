@@ -1,0 +1,16 @@
+<start course metadata for 67-285 Across the Universe from Intelligent Agents to Users>
+Semester: Spring 2024 (aka S24)
+Course Name: Across the Universe from Intelligent Agents to Users
+Course Number: 67-285
+Department: Information Systems Program
+Number of Units: 9
+Prerequisites: None
+Instructors: Sara Moussawi
+Rooms: PH A20A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 67-285 Across the Universe from Intelligent Agents to Users>
+
+<start course description for 67-285 Across the Universe from Intelligent Agents to Users>
+Semester: Spring 2024 (aka S24)
+Course Description: The goal of this course is to introduce students to how intelligent agents and similar systems impact and are perceived by users. In this course, we explore different dimensions relating to intelligent agents' design, usability, and user perceptions such as humanness, trust, privacy, bias, human values, emotions, and so on. To do so, we review research articles at the intersection of Information Systems, Psychology and Artificial Intelligence. The course aims to introduce students to the research process and equip them with the necessary tools to design and explore research questions that address pressing issues in the realm of user-agent interaction.
+</end course description for 67-285 Across the Universe from Intelligent Agents to Users>

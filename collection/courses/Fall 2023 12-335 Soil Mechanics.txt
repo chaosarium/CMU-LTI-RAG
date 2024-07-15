@@ -1,0 +1,16 @@
+<start course metadata for 12-335 Soil Mechanics>
+Semester: Fall 2023 (aka F23)
+Course Name: Soil Mechanics
+Course Number: 12-335
+Department: Civil & Environmental Engineering
+Number of Units: 9
+Prerequisites: 12-231 and 33-142
+Instructors: Yan Liu
+Rooms: POS 146
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 12-335 Soil Mechanics>
+
+<start course description for 12-335 Soil Mechanics>
+Semester: Fall 2023 (aka F23)
+Course Description: Understanding the behavior of soils is essential for many applications within civil and environmental engineering from construction safety and structural integrity of buildings, to foundations, levees, groundwater remediation, landfill design, and erosion control. This course provides students with an introduction to fundamental concepts and methods in soil mechanics and geotechnical engineering. Topics covered in the course include physical, chemical and hydraulic characteristics and mineral composition of soils; stress-strain-strength relationships; permeability; consolidation; shear strength; and lateral earth pressure. Students will apply knowledge of these fundamentals to solve civil and environmental engineering problems related to soil deformation, stability, and groundwater flow.
+</end course description for 12-335 Soil Mechanics>

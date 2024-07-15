@@ -1,0 +1,16 @@
+<start course metadata for 19-427 Special Topics: Energy Innovation and Entrepreneurship>
+Semester: Fall 2023 (aka F23)
+Course Name: Special Topics: Energy Innovation and Entrepreneurship
+Course Number: 19-427
+Department: Engineering & Public Policy
+Number of Units: 9
+Prerequisites: None
+Instructors: Jay Whitacre
+Rooms: WEH 5320
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 19-427 Special Topics: Energy Innovation and Entrepreneurship>
+
+<start course description for 19-427 Special Topics: Energy Innovation and Entrepreneurship>
+Semester: Fall 2023 (aka F23)
+Course Description: Want to be an energy innovator, business entrepreneur, social entrepreneur, or intrapreneur? Students in this class will learn the fundamentals of energy innovation and entrepreneurship, and how innovation and entrepreneurship in energy differs from that in other fields.  Students will then develop a business and non-market strategy for an idea of their own, or in response to a real-world challenge proposed by a business, industry, or a non-governmental organization.  The resulting strategy can, if students wish, be submitted for student competitions that typically take place each spring throughout the United States.
+</end course description for 19-427 Special Topics: Energy Innovation and Entrepreneurship>

@@ -1,0 +1,16 @@
+<start course metadata for 18-349 Introduction to Embedded Systems>
+Semester: Fall 2023 (aka F23)
+Course Name: Introduction to Embedded Systems
+Course Number: 18-349
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: 18-240 and 18-213
+Instructors: Gregory Kesden, Mark Budnik
+Rooms: HH B103
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-349 Introduction to Embedded Systems>
+
+<start course description for 18-349 Introduction to Embedded Systems>
+Semester: Fall 2023 (aka F23)
+Course Description: This practical, hands-on course introduces the various building blocks and underlying scientific and engineering principles behind embedded real-time systems. The course covers the integrated hardware and software aspects of embedded processor architectures, along with advanced topics such as real-time, resource/device and memory management. Students can expect to learn how to program with the embedded architecture that is ubiquitous in cell-phones, portable gaming devices, robots, PDAs, etc. Students will then go on to learn and apply real-time principles that are used to drive critical embedded systems like automobiles, avionics, medical equipment, the Mars rover, etc. Topics covered include embedded architectures (building up to modern 16/32/64-bit embedded processors); interaction with devices (buses, memory architectures, memory management, device drivers); concurrency (software and hardware interrupts, timers); real-time principles (multi-tasking, scheduling, synchronization); implementation trade-offs, profiling and code optimization (for performance and memory); embedded software (exception handling, loading, mode-switching, programming embedded systems). Through a series of laboratory exercises with state-of-the-art embedded processors and industry-strength development tools, students will acquire skills in the design/implementation/debugging of core embedded real-time functionality.
+</end course description for 18-349 Introduction to Embedded Systems>

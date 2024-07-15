@@ -1,0 +1,16 @@
+<start course metadata for 80-607 Formal Methods: Topology>
+Semester: Spring 2024 (aka S24)
+Course Name: Formal Methods: Topology
+Course Number: 80-607
+Department: Philosophy
+Number of Units: 6
+Prerequisites: None
+Instructors: Kevin Kelly
+Rooms: BH 145C
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 80-607 Formal Methods: Topology>
+
+<start course description for 80-607 Formal Methods: Topology>
+Semester: Spring 2024 (aka S24)
+Course Description: This course provides an introduction to the fundamental concepts and methods of set theory, with an eye to applications in mathematical modeling of the sort common in philosophy and the sciences.   The focus will be on a nuts-and-bolts understanding of the set theoretical operations, since much of science and philosophy is really an application of set-theoretical modeling and reasoning.  As an application, the course will present the standard set-theoretical development of topology.  Among mathematical theories, topology is perhaps closest to its underlying set theory.  It also has deep connections to topics like learning, epistemic logic, intuitionist mathematics, and computability.  The last connection will provide a bridge to mini 80-604.
+</end course description for 80-607 Formal Methods: Topology>

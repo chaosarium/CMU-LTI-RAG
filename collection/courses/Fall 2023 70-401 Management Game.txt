@@ -1,0 +1,16 @@
+<start course metadata for 70-401 Management Game>
+Semester: Fall 2023 (aka F23)
+Course Name: Management Game
+Course Number: 70-401
+Department: Business Administration
+Number of Units: 12
+Prerequisites: 70-122 and 70-371 and 70-381 and 70-391
+Instructors: David Lamont
+Rooms: TEP 2611
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 70-401 Management Game>
+
+<start course description for 70-401 Management Game>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is designed to integrate the managerial concepts and techniques studied earlier in the curriculum and to focus on elements of organizational structure and behavior. Student teams assume the role of top management of firms competing in an international economy simulated by the Carnegie Mellon University Management Game. Each team is responsible to a Board of Directors comprised of alumni of the MBA program and business masters students. Emphasis is placed on the development and implementation of sound organizational decision structures as well as the formulation of effective competitive strategies. The course is reserved for senior-year business majors and additional majors. This course may use third-party course material that is not available for individual purchase from the publisher.   If so, the third-party course material will be secured and provided by the Tepper School to students enrolled in the course, and students enrolled in the course will be required to pay to the University the associated additional course materials fee for the third-party course material provided.   The amount of the course materials fee is dependent on the University's cost of the particular materials provided, and typically ranges from $13 to $75.
+</end course description for 70-401 Management Game>

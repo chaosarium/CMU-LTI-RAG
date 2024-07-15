@@ -1,0 +1,16 @@
+<start course metadata for 16-480 IDeATe: Creative Soft Robotics>
+Semester: Spring 2024 (aka S24)
+Course Name: IDeATe: Creative Soft Robotics
+Course Number: 16-480
+Department: Robotics
+Number of Units: 10
+Prerequisites: None
+Instructors: Garth Zeglin
+Rooms: HL A10
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 16-480 IDeATe: Creative Soft Robotics>
+
+<start course description for 16-480 IDeATe: Creative Soft Robotics>
+Semester: Spring 2024 (aka S24)
+Course Description: This experimental course offers unique topics situated at the intersection of robotics research and the arts, with a specific research focus that varies each semester.  In this course, students survey the state of an emerging research area, then design and fabricate experimental systems and artworks on the theme.  Students are guided through literature search and technical paper analysis to identify opportunities and techniques.  The textual study spans contemporary robotics and arts literature.  The project component is research-focused and explores novel techniques in design, fabrication, programming, and control. The project sequence culminates in the collaborative design of expressive robotic systems which match technical innovation with a human need or artistic expression.   The initial iteration of the course focuses on soft robotics, an emerging discipline centered on devices constructed from compliant materials that incorporate sensing and actuation. The literature survey spans soft robotics and kinetic sculpture.  The projects  center on fabricating forms that incorporate actuators and sensors using silicone rubber cast into 3D-printed and laser-cut molds.  This course is offered by IDeATe and this iteration will satisfy minor requirements for IDeATe Soft Technologies or IDeATe Physical Computing.
+</end course description for 16-480 IDeATe: Creative Soft Robotics>

@@ -1,0 +1,16 @@
+<start course metadata for 12-798 Professional Communication for CEE Grad Students>
+Semester: Fall 2023 (aka F23)
+Course Name: Professional Communication for CEE Grad Students
+Course Number: 12-798
+Department: Civil & Environmental Engineering
+Number of Units: 3
+Prerequisites: None
+Instructors: Andrea Francioni Rooney
+Rooms: PH A7F
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 12-798 Professional Communication for CEE Grad Students>
+
+<start course description for 12-798 Professional Communication for CEE Grad Students>
+Semester: Fall 2023 (aka F23)
+Course Description: The course reviews skills and techniques for preparing technical documents, professional letters, resumes, and presentations typically encountered in advanced degree programs and in research and development positions in the public and private sector. Class topics focus on document purpose and organization; researching technical sources; summarizing, paraphrasing, and citing sources; simplifying and revising techniques; and the proper use of tables, graphics, and other visual aids in documents and oral presentations. Course content emphasizes North American writing norms.
+</end course description for 12-798 Professional Communication for CEE Grad Students>

@@ -1,0 +1,16 @@
+<start course metadata for 91-819 Optimization and Risk Modeling for Managers>
+Semester: Spring 2024 (aka S24)
+Course Name: Optimization and Risk Modeling for Managers
+Course Number: 91-819
+Department: Public Management:Sch of Pub Pol & Mgt
+Number of Units: 6
+Prerequisites: 91-801
+Instructors: William Gogolak
+Rooms: HBH 1005
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 91-819 Optimization and Risk Modeling for Managers>
+
+<start course description for 91-819 Optimization and Risk Modeling for Managers>
+Semester: Spring 2024 (aka S24)
+Course Description: This course has four objectives besides learning a variety of spreadsheet skills. First, you should learn about a variety of management science techniques, what they are capable of, and what their limitations are so that you can intelligently call upon specialists and consultants when the occasion arises. Second, you should acquire sufficient proficiency with some of the techniques that you can use them as an "end user modeler". Third, you should learn how to approach, abstract, and analyze problems from a quantitative, analytical perspective. In short, you should be able to use the language of mathematical modeling. In most lectures we will work through a small "case" to help you connect the methods to a problem that is richer than the typical end of chapter problem. Fourth, doing these things will prepare you to manage staff who are doing analytics projects. Walking a mile in their shoes (reflectively), will help you understand what they can and cannot do to create value for your organization. The course moves quickly; be careful not to fall behind. Unless I explicitly say otherwise, always read the assigned readings before the class in which they are discussed; failing to do so is the most common reason for failing the course.
+</end course description for 91-819 Optimization and Risk Modeling for Managers>

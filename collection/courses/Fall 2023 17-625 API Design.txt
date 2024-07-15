@@ -1,0 +1,16 @@
+<start course metadata for 17-625 API Design>
+Semester: Fall 2023 (aka F23)
+Course Name: API Design
+Course Number: 17-625
+Department: Software & Societal Systems
+Number of Units: 6
+Prerequisites: None
+Instructors: Swarnalatha Ashok
+Rooms: 3SC 265
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 17-625 API Design>
+
+<start course description for 17-625 API Design>
+Semester: Fall 2023 (aka F23)
+Course Description: Design patterns describe a reusable solution to a commonly recurring problem. In object-oriented programming languages, they include creational patterns for generating new objects, structural patterns for organizing and restricting access among objects, and behavioral patterns for managing inter-object communications. This course will also review common frameworks where design patterns are used and introduce students to concepts in application programmer interface (API) design in order to inform students about how to design frameworks and libraries to solve common problems.
+</end course description for 17-625 API Design>

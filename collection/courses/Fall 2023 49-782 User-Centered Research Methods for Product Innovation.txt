@@ -1,0 +1,16 @@
+<start course metadata for 49-782 User-Centered Research Methods for Product Innovation>
+Semester: Fall 2023 (aka F23)
+Course Name: User-Centered Research Methods for Product Innovation
+Course Number: 49-782
+Department: Integrated Innovation Institute
+Number of Units: 6
+Prerequisites: None
+Instructors: Deana Anglin
+Rooms: B23 227
+Locations: San Jose, California
+</end course metadata for 49-782 User-Centered Research Methods for Product Innovation>
+
+<start course description for 49-782 User-Centered Research Methods for Product Innovation>
+Semester: Fall 2023 (aka F23)
+Course Description: Building great products and services begins with having a deep knowledge of the problem you are solving and the people for whom you are designing. From controlled lab studies to field research, a/b testing to participatory design, learn a host of Human-Computer Interaction research methods and analysis techniques to get you the right insights and on the path to crafting innovative ideas.
+</end course description for 49-782 User-Centered Research Methods for Product Innovation>

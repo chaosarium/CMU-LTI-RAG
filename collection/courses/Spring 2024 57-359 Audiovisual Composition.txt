@@ -1,0 +1,16 @@
+<start course metadata for 57-359 Audiovisual Composition>
+Semester: Spring 2024 (aka S24)
+Course Name: Audiovisual Composition
+Course Number: 57-359
+Department: Music
+Number of Units: 9
+Prerequisites: 57-358
+Instructors: Freida Abtan
+Rooms: CFA A2
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-359 Audiovisual Composition>
+
+<start course description for 57-359 Audiovisual Composition>
+Semester: Spring 2024 (aka S24)
+Course Description: TBA
+</end course description for 57-359 Audiovisual Composition>

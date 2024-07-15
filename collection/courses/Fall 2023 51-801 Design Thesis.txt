@@ -1,0 +1,16 @@
+<start course metadata for 51-801 Design Thesis>
+Semester: Fall 2023 (aka F23)
+Course Name: Design Thesis
+Course Number: 51-801
+Department: Design
+Number of Units: 18
+Prerequisites: 51-701
+Instructors: Stacie Rohrbach
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-801 Design Thesis>
+
+<start course description for 51-801 Design Thesis>
+Semester: Fall 2023 (aka F23)
+Course Description: Working closely with a faculty advisor and framed by a written thesis proposal, students conduct research and develop creative concepts to address significant problems within the context of design for service and social innovation. Typically following an iterative sequence of exploratory, generative, and evaluative research and design, the thesis project culminates in proposed design solutions with a thoroughly documented process and reflection. Projects are reviewed and exhibited at interim and near-completion deadlines in December and April each year. Sequenced with 51-802 Design Thesis in spring. Required of all Master of Design students.
+</end course description for 51-801 Design Thesis>

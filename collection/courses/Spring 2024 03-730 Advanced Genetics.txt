@@ -1,0 +1,16 @@
+<start course metadata for 03-730 Advanced Genetics>
+Semester: Spring 2024 (aka S24)
+Course Name: Advanced Genetics
+Course Number: 03-730
+Department: Biological Sciences
+Number of Units: 12
+Prerequisites: (03-330 or 03-220 or 03-221) and (03-742 or 03-442)
+Instructors: Drew Bridges, John Woolford
+Rooms: MI 355
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 03-730 Advanced Genetics>
+
+<start course description for 03-730 Advanced Genetics>
+Semester: Spring 2024 (aka S24)
+Course Description: This course considers selected current topics in molecular genetics at an advanced level. Emphasis is on classroom discussion of research papers. Topics are subject to change yearly. Examples of past topics include: nucleocytoplasmic trafficking of RNA in yeast, genome imprinting in mammals, molecular genetics of learning and memory in Drosophila, viral genomics, using yeast as a model system to study the molecular basis of human neurodegenerative diseases, and CRISPR/Cas9 genome editing.
+</end course description for 03-730 Advanced Genetics>

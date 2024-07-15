@@ -1,0 +1,16 @@
+<start course metadata for 24-652 Mechanical Behavior of Engineering Materials>
+Semester: Spring 2024 (aka S24)
+Course Name: Mechanical Behavior of Engineering Materials
+Course Number: 24-652
+Department: Mechanical Engineering
+Number of Units: 12
+Prerequisites: 24-262
+Instructors: Maarten De Boer
+Rooms: SH 238
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-652 Mechanical Behavior of Engineering Materials>
+
+<start course description for 24-652 Mechanical Behavior of Engineering Materials>
+Semester: Spring 2024 (aka S24)
+Course Description: Mechanical engineers employ all classes of materials (metals, polymers, ceramics and hybrids) in load-bearing applications.  To reduce material cost, save energy and maximize performance, engineering materials are frequently designed to be used near their load-bearing limits.  An understanding of underlying deformation mechanisms complements a design rule approach in that "unexpected" failures can be far better anticipated and hence minimized.  This course will survey the major deformation mechanisms in the main materials classes.  Topics will include structure, elasticity, continuum failure models, fracture mechanics, and plastic deformation mechanisms of polymers, fiber-reinforced, composites, ceramics and metals.  Proper design practice and real-life failures will be discussed.
+</end course description for 24-652 Mechanical Behavior of Engineering Materials>

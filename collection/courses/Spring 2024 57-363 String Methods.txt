@@ -1,0 +1,16 @@
+<start course metadata for 57-363 String Methods>
+Semester: Spring 2024 (aka S24)
+Course Name: String Methods
+Course Number: 57-363
+Department: Music
+Number of Units: 3
+Prerequisites: None
+Instructors: Donna Fox
+Rooms: HOA 224
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-363 String Methods>
+
+<start course description for 57-363 String Methods>
+Semester: Spring 2024 (aka S24)
+Course Description: String Methods prepares music educators for work in the public schools. A major portion of class time will be applied to violin and cello techniques. Upon completion of the course, the student will be expected to demonstrate the technical skills of a second year beginning string student. Students will also be introduced to various method books, string supplies, and repairs.
+</end course description for 57-363 String Methods>

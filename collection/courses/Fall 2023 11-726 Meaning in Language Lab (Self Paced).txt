@@ -1,0 +1,16 @@
+<start course metadata for 11-726 Meaning in Language Lab (Self Paced)>
+Semester: Fall 2023 (aka F23)
+Course Name: Meaning in Language Lab (Self Paced)
+Course Number: 11-726
+Department: Language Technologies Institute
+Number of Units: 6
+Prerequisites: None
+Instructors: Carolyn Rose
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 11-726 Meaning in Language Lab (Self Paced)>
+
+<start course description for 11-726 Meaning in Language Lab (Self Paced)>
+Semester: Fall 2023 (aka F23)
+Course Description: The self-paced Meaning in Language Lab is intended to follow-up on the 11-725 lecture course (Meaning in Language) by providing a chance for hands-on, in-depth, computational exploration of various semantics and pragmatics research topics. The course is self-paced and there will be no scheduled lecture times, however, students are welcome to set up meetings with the instructor as desired, and students who prefer to have a weekly or bi-monthly regularly scheduled meeting with the instructor are welcome to arrange for that. If there is sufficient interest, an informal reading group may be formed to supplement the lab work.    Students will design their own project, which they will discuss with the instructor for approval. Students are encouraged to select a topic from semantics, pragmatics, or discourse analysis, such as entailment, evidentiality, implicature, information status, or rhetorical structure, and a topic from language technologies, such as sentiment analysis or summarization, and explore how the linguistic topic applies to some aspect of the chosen language technology. Students are encouraged to contrast symbolic, formal, and knowledge based approaches with empirical approaches.    Each student will work independently. If multiple students work as a team on a particular topic, each should choose an approach that is different from the approaches used by the other students working on the same problem. Students will be responsible to set up a web page, blog, or wiki to post progress reports and other supporting documents, data, and analyses. The web space will be checked by the instructor periodically , and thus should be kept updated in order to reflect on-going progress. The web space will also serve as a shared project space in the case that students are working in a team for the project.
+</end course description for 11-726 Meaning in Language Lab (Self Paced)>

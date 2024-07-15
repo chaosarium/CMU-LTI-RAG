@@ -1,0 +1,16 @@
+<start course metadata for 45-860 Demand Management & Price Optimization>
+Semester: Spring 2024 (aka S24)
+Course Name: Demand Management & Price Optimization
+Course Number: 45-860
+Department: Business Administration
+Number of Units: 6
+Prerequisites: 45-760
+Instructors: Mustafa Akan
+Rooms: TEP 2119
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-860 Demand Management & Price Optimization>
+
+<start course description for 45-860 Demand Management & Price Optimization>
+Semester: Spring 2024 (aka S24)
+Course Description: Matching supply with demand is an enormous challenge for firms: excess supply is costly, inadequate supply irritates customers and can yield lost revenue opportunities.  In this course we will explore how firms can improve the operational management of the demand for their products (goods or services) to more effectively align it with their supply.  This demand management orientation complements the traditional supply chain management view of operations management.  We will mainly focus on managing demand to meet supply with the goal of maximizing (net) revenue, rather than managing supply to meet demand with the goal of minimizing cost.  The former view is particularly relevant when the firm's supply is fixed or relatively inflexible, as in service or service-like operations.  We will also explore opportunities to jointly manage supply and demand with the goal of maximizing margin.
+</end course description for 45-860 Demand Management & Price Optimization>

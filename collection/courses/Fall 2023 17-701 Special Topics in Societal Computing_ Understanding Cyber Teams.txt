@@ -1,0 +1,16 @@
+<start course metadata for 17-701 Special Topics in Societal Computing: Understanding Cyber Teams>
+Semester: Fall 2023 (aka F23)
+Course Name: Special Topics in Societal Computing: Understanding Cyber Teams
+Course Number: 17-701
+Department: Software & Societal Systems
+Number of Units: 9
+Prerequisites: None
+Instructors: Geoffrey Dobson
+Rooms: SH 238
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 17-701 Special Topics in Societal Computing: Understanding Cyber Teams>
+
+<start course description for 17-701 Special Topics in Societal Computing: Understanding Cyber Teams>
+Semester: Fall 2023 (aka F23)
+Course Description: Were you the victim of a ransomware attack today? No? Then you should probably thank your cyber security team! Nowadays, nearly everything modern organizations do is protected by some semblance of a cyber team. These cyber teams come in many forms: security operations center, malware analysis, threat emulation, information technology departments, etc. So what do we know about how these cyber teams operate?  In this course cyber teams will be studied through the lens of computational organization theory. Different types of cyber teams will be presented with how they operate within the organization.  An array of computational organization theory principles will be explored such as network science, information diffusion, policy analysis, and performance theory.     A final project will be completed by each student. This project can be of many types such as policy analysis, virtual experimentation, dynamic network analysis, validation, etc. Students will be using the NetLogo scripting language to complete a project. The project will be created, developed, and presented by the student and approved by the instructor.
+</end course description for 17-701 Special Topics in Societal Computing: Understanding Cyber Teams>

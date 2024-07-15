@@ -1,0 +1,16 @@
+<start course metadata for 15-346 Computer Architecture: Design and Simulation>
+Semester: Fall 2023 (aka F23)
+Course Name: Computer Architecture: Design and Simulation
+Course Number: 15-346
+Department: Computer Science
+Number of Units: 12
+Prerequisites: 15-213
+Instructors: Brian Railing
+Rooms: DH 2105
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-346 Computer Architecture: Design and Simulation>
+
+<start course description for 15-346 Computer Architecture: Design and Simulation>
+Semester: Fall 2023 (aka F23)
+Course Description: This course will help students develop an understanding of basic microarchitectural principles and designs.  Starting with creating benchmarks and simulators, students will learn the practice of computer architecture design.  The emphasis will be on how processors exploit instruction-level parallelism for performance, as well as the supporting technologies such as caches and branch prediction that are required.  Several frontiers of current research will be explored in energy efficiency and security threats.
+</end course description for 15-346 Computer Architecture: Design and Simulation>

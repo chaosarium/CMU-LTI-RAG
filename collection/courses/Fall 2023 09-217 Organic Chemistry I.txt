@@ -1,0 +1,16 @@
+<start course metadata for 09-217 Organic Chemistry I>
+Semester: Fall 2023 (aka F23)
+Course Name: Organic Chemistry I
+Course Number: 09-217
+Department: Chemistry
+Number of Units: 9
+Prerequisites: 09-105 or 09-107
+Instructors: Gloria Silva
+Rooms: PH 100
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 09-217 Organic Chemistry I>
+
+<start course description for 09-217 Organic Chemistry I>
+Semester: Fall 2023 (aka F23)
+Course Description: This course presents an overview of structure and bonding as it pertains to organic molecules. Selected topics include: introduction to functional group chemistry, stereochemistry, conformational analysis, reaction mechanisms and use of retrosynthetic analysis in the development of multistep syntheses. Methods for structure determination of organic compounds by modern spectroscopic techniques are introduced. 3 hrs. lec., 1 hr. rec.
+</end course description for 09-217 Organic Chemistry I>

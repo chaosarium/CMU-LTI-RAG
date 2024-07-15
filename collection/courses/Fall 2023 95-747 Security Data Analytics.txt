@@ -1,0 +1,16 @@
+<start course metadata for 95-747 Security Data Analytics>
+Semester: Fall 2023 (aka F23)
+Course Name: Security Data Analytics
+Course Number: 95-747
+Department: Information Systems:Sch of IS & Mgt
+Number of Units: 6
+Prerequisites: (90-711 or 95-796) and (95-752) and (90-812 or 95-888 or 95-898)
+Instructors: Dan Costa
+Rooms: HBH 1004
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 95-747 Security Data Analytics>
+
+<start course description for 95-747 Security Data Analytics>
+Semester: Fall 2023 (aka F23)
+Course Description: Modern information security is full of big data problems. Discovering patterns and trends in cybersecurity incident data, detecting anomalous network or host traffic, predicting the likelihood of an email message containing malicious attachments or links - these are all examples of combining data sources and analytic techniques to preserve the confidentiality, integrity, and availability of information and information systems. In this course, we will cover analytic techniques such as clustering, classification, and anomaly detection, in the context of their applicability to the information security domain. We will explore the data sources that can be mined for security information. We will use hands-on labs to provide practical experience applying analytic techniques to these data sources. Finally, we will present strategies that can be used ensure the outputs of information security analytics are accurate, understandable and actionable by security practitioners and business decision makers alike.
+</end course description for 95-747 Security Data Analytics>

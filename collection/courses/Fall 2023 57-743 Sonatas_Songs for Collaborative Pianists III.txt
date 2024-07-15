@@ -1,0 +1,16 @@
+<start course metadata for 57-743 Sonatas/Songs for Collaborative Pianists III>
+Semester: Fall 2023 (aka F23)
+Course Name: Sonatas/Songs for Collaborative Pianists III
+Course Number: 57-743
+Department: Music
+Number of Units: 3
+Prerequisites: 57-742
+Instructors: Ellen Rissinger, Luz Manriquez, Mark Carver, Rodrigo Ojeda, Sung-Im Kim
+Rooms: CFA ACH
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-743 Sonatas/Songs for Collaborative Pianists III>
+
+<start course description for 57-743 Sonatas/Songs for Collaborative Pianists III>
+Semester: Fall 2023 (aka F23)
+Course Description: This course will allow the collaborative pianist to work with singers and instrumentalists, coached by appropriate faculty. The course will culminate with a performance at the end of each semester.
+</end course description for 57-743 Sonatas/Songs for Collaborative Pianists III>

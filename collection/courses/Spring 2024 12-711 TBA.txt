@@ -1,0 +1,16 @@
+<start course metadata for 12-711 TBA>
+Semester: Spring 2024 (aka S24)
+Course Name: TBA
+Course Number: 12-711
+Department: Civil & Environmental Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Varun Kasireddy
+Rooms: GHC 4307
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 12-711 TBA>
+
+<start course description for 12-711 TBA>
+Semester: Spring 2024 (aka S24)
+Course Description: The intent of this course is to introduce students to the concepts associated with information modeling and analysis.  The students learn the fundamentals of object-oriented modeling, the building information modeling (BIM) efforts and standards in the Architecture/ Engineering/Construction and Facility Management (A/E/C/FM) industry.  At the same time, the students are exposed to and gain hands-on experiences with some of the existing software systems in the A/E/C/FM industry that leverage such information models for decision support.
+</end course description for 12-711 TBA>

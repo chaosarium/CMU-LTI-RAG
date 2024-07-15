@@ -1,0 +1,16 @@
+<start course metadata for 03-121 Modern Biology>
+Semester: Summer Two 2024 (aka M24, M24 Mini 2, Summer 2024 Mini 2)
+Course Name: Modern Biology
+Course Number: 03-121
+Department: Biological Sciences
+Number of Units: 9
+Prerequisites: None
+Instructors: Stephanie Wong-Noonan
+Rooms: HH B103
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 03-121 Modern Biology>
+
+<start course description for 03-121 Modern Biology>
+Semester: Summer Two 2024 (aka M24, M24 Mini 2, Summer 2024 Mini 2)
+Course Description: None
+</end course description for 03-121 Modern Biology>

@@ -1,0 +1,16 @@
+<start course metadata for 57-408 Form and Analysis>
+Semester: Spring 2024 (aka S24)
+Course Name: Form and Analysis
+Course Number: 57-408
+Department: Music
+Number of Units: 6
+Prerequisites: 57-153 or 57-150
+Instructors: Mark Domencic
+Rooms: CFA M157
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-408 Form and Analysis>
+
+<start course description for 57-408 Form and Analysis>
+Semester: Spring 2024 (aka S24)
+Course Description: This course provides a working understanding of all styles and genres of Western classical and contemporary repertoire. Students will explore various aspects of the compositional process, from basic organizational structures to the details of individual musical phrases. They will learn to see and to hear the most important compositional features of a piece of music and will develop a deeper understanding of the music they perform, conduct, and compose.
+</end course description for 57-408 Form and Analysis>

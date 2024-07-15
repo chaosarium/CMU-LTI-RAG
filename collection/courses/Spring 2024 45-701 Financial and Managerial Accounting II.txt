@@ -1,0 +1,16 @@
+<start course metadata for 45-701 Financial and Managerial Accounting II>
+Semester: Spring 2024 (aka S24)
+Course Name: Financial and Managerial Accounting II
+Course Number: 45-701
+Department: Business Administration
+Number of Units: 6
+Prerequisites: 45-700
+Instructors: Austin Sudbury, Erina Ytsma
+Rooms: TEP 2110
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-701 Financial and Managerial Accounting II>
+
+<start course description for 45-701 Financial and Managerial Accounting II>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is about developing and using measurement systems to support managerial decision-making and performance evaluation. Because we focus on firms¿ internal decisions, we are not constrained by the rules and regulations that surround financial accounting. Rather, we work towards developing a conceptual framework that emphasizes the costs and benefits associated with using a particular measurement system. Our goal is to understand how accounting information fits into the dynamics of managing a complex entity.
+</end course description for 45-701 Financial and Managerial Accounting II>

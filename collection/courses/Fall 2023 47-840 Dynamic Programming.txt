@@ -1,0 +1,16 @@
+<start course metadata for 47-840 Dynamic Programming>
+Semester: Fall 2023 (aka F23)
+Course Name: Dynamic Programming
+Course Number: 47-840
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Alan Scheller-Wolf
+Rooms: TEP 5219
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 47-840 Dynamic Programming>
+
+<start course description for 47-840 Dynamic Programming>
+Semester: Fall 2023 (aka F23)
+Course Description: The objective of this course is to provide an introduction to the theory and applications of dynamic programming (DP).  We will investigate the theory and methods commonly used in DP.  We will illustrate their use in solving particular models in various areas, which may include energy and commodity merchant operations, financial engineering, inventory and production management, portfolio optimization, real options, revenue management, and queuing control.  We will study the concept of recursion, the principle of optimality, basic DP algorithms, their applications to both deterministic and stochastic models in finite and infinite horizon settings, with most of our attention dedicated to Markov decision processes, and approximate DP techniques for models that cannot be solved exactly.  This course will thus feature theory, methods, computation, and applications.
+</end course description for 47-840 Dynamic Programming>

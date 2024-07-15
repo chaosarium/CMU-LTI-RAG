@@ -1,0 +1,16 @@
+<start course metadata for 36-996 Statistics Departmental Seminar>
+Semester: Fall 2023 (aka F23)
+Course Name: Statistics Departmental Seminar
+Course Number: 36-996
+Department: Statistics and Data Science
+Number of Units: N/A
+Prerequisites: None
+Instructors: Rebecca Nugent
+Rooms: POS 153
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 36-996 Statistics Departmental Seminar>
+
+<start course description for 36-996 Statistics Departmental Seminar>
+Semester: Fall 2023 (aka F23)
+Course Description: This seminar course presents active graduate-level research problems and projects in statistics and related disciplines.  Students and faculty will discuss the presented work in depth to broaden their knowledge of the general research process as well as the current state of the field and to identify extensions, different possible approaches, potential collaborations, and new research directions for their own research.
+</end course description for 36-996 Statistics Departmental Seminar>

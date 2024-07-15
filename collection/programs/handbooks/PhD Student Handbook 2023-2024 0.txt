@@ -1,0 +1,132 @@
+PhD_Student_Handbook_2023-2024
+1  Introduction  
+Welcome to the Language Technologies Institute, a graduate department in the School of 
+Computer Science at Carnegie Mellon University. You have joined a Ph.D. program that focuses on excellence, creativity, and training the next generation of research leaders. While the next few 
+years will be a time of hard work and intense concentration, we hope that your time at the LTI 
+will also be rewarding professionally and personally.  
+Obtaining a Ph.D. is a long and often intense journey. A healthy work -life balance helps to keep it 
+in perspective. Carnegie Mellon  is located in Pittsburgh, a city with a rich industrial and labor 
+heritage. In the past, it was the heart of the U.S. steel industry, a source  for quality packaged foods, 
+an important financial hub, and an early pioneer in railroads, radio, and nuclear power. This is a 
+city where people worked hard and made things that changed the world. Today, Pittsburgh has 
+reinvented itself as a leader in Computer Science and medicine, but it is still a place where people 
+work hard and make things that change the world . It is also an informal city, where people don’t 
+take themselves too seriously and remember to have fun. It is home to excellent museums, competitive professional sports teams, inexpensive magic shows, and free music during the 
+summer, with skiing and magnificent  state parks nearby. Your stay here will be more rewarding 
+if you make time for exploring  the many activities that Pittsburgh and Southwest Pennsylvania 
+have to offer. 
+There are significant differences between CMU's different departments and degree programs in 
+philosophical approach, procedures, policies, and regulations. Each department issues a 
+handbook that informs graduate students of their program requirements and procedures and 
+ensures that students have written access to standard information. This handbook describes the 
+policies, procedures, and requirements for the Ph.D.  in Language and Information Technologies.  
+All policies not explicitly described in this document conform to School of Computer Science (SCS) policies and university policies. For information about Carnegie Mellon requirements and policies, please see the university’s handbook The Word
+, the Office of Graduate and Postdoctoral 
+Affairs web page , the Office of the Dean of Students web page , and other resources contained in 
+Appendix A of this handbook.  
+Welcome! We hope that your time here is a life -changing experience.  
+1.1 Degrees Offered  
+The Language Technologies Institute offers two Ph.D. programs and four Master degrees.  
+• Ph.D.  in Language and Information Technologies (LTI Ph.D. ) 
+• Dual -Degree Ph.D. in Language and Information Technologies (CMU -PT Ph.D.)  
+• Masters in Language Technologies (MLT)  
+• Master of Science in Intelligent Information Systems (MIIS)  
+• Master of Computational Data Science  (MCDS)  
+• Master of Science in Artificial Intelligence and Innovation  (MSAII)  
+LTI Ph.D.  Graduate Student Handbook  Page 10 
+ This handbook applies to the LTI Ph.D.  
+The Ph.D.  in Language and Information Technologies (LTI Ph.D. ) is focused on understanding 
+and extending the state of the art in computational linguistics, natural language processing, 
+dialogue systems, information retrieval, machine translation, speech processing,  video 
+understanding, multimodal systems, automated reasoning, and other topics related to analysis 
+and understanding of unstructured information  (e.g., machine learning, and software engineering 
+of intelligent systems).  
+1.2 Department Personnel 
+The people responsible for administering the LTI Ph.D.  degree are:  
+Jamie Callan  
+Ph.D. Program Director  
+Professor  
+GHC 5419 
+callan@cs.cmu.edu  
+412-268-4525  Stacey Young  
+Ph.D. Academic Program Manager  
+LTI Graduate Program Manager  
+GHC 6415  
+staceyy@cs.cmu.edu   
+412-268-2623  
+Mona Diab  
+LTI Director  
+Professor  
+GHC 5723 
+mdiab@andrew.cmu.edu  
+412-268-3669  
+ 
+Joan Axelson  
+Office Manager  
+GHC 5405  
+jaxelson@andrew.cmu.edu  
+412-268-7517  
+ Julie Nys  
+Employment Processes Manger  
+GHC 5405  
+jnys@andrew.cmu.edu  
+412-268-3515  
+1.3 University Policies and Expectations 
+It is the responsibility of each member of the Carnegie Mellon community to be familiar with university policies and guidelines. In addition to this departmental graduate student handbook, the following resources are available to assist you in understanding community expectations. 
+• The Word/Student Handbook:  
+https://www.cmu.edu/student-affairs/theword//index.html
+ 
+• Academic Integrity Policy:   
+https:// www.cmu.edu/policies/student -and- student -life/academic-
+integrity.html 
+LTI Ph.D.  Graduate Student Handbook  Page 11 
+ • University Policies Website:   
+https://www.cmu.edu/policies/  
+• Office of Graduate and Postdoctoral Affairs:  
+https://www.cmu.edu/graduate/policies/index.html  
+Due to the changing nature of conditions and expectations surrounding public health and safety 
+requirements please visit https:// www.cmu.edu/coronavirus/  for the most up to date information.
+ Please see Appendix A for additional information about The Word and University 
+resources. 
+1.4 The Academic Calendar  
+The Academic calendar can be found at https://www.cmu.edu/hub/calendar/index.html  and 
+provides information on all deadlines, including registration dates, class start dates, add/drop deadlines, exam dates, and more.   
+Some doctoral course -sections follow a separate Academic Calendar . 
+1.5 Carnegie Mellon University Statement of Assurance  
+Carnegie Mellon University does not discriminate in admission, employment, or administration 
+of its programs or activities on the basis of race, color, national origin, sex, handicap or disability, 
+age, sexual orientation, gender identity, religion, creed, ancestry, belief, veteran status, or genetic information.  Furthermore, Carnegie Mellon University does not discriminate and is required not 
+to discriminate in violation of federal, state, or local laws or executive orders.  
+Inquiries concerning the application of a compliance with this statement should be directed to 
+the university ombudsperson , Carnegie Mellon University, 5000 Forbes Avenue, Pittsburgh, PA 
+15213 (412 -268-1018). Obtain general information about Carnegie Mellon University by calling 
+412-268-2000.  
+Carnegie Mellon University publishes an annual campus security and fire safety report describing 
+the university’s security, alcohol and drug, sexual assault,  and fire safety policies, and containing 
+statistics about the number and type of crimes committed on campus, and the number and cause of fires in campus residence facilities during the preceding three years. You can obtain a copy by contacting the Carnegie Mellon Police Department at 412 -268-2323. The annual security and fire 
+safety report also is available online at www.cmu.edu/police/annualreports
+ . 
+Information regarding the applicable grievance procedures for alleged violations 
+of the Statement of Assurance is available at 
+https://www.cmu.edu/policies/forms -and-documents/soa- violations.pdf .   
+The Office for Institutional Equity and Title IX may be reached at 412 -268-7125  
+LTI Ph.D.  Graduate Student Handbook  Page 12 
+ or  institutionalequity@cmu.edu . 
+1.6 The Carnegie Mellon Code 
+Students at Carnegie Mellon, because they are members of an academic community dedicated to 
+the achievement of excellence, are expected to meet the highest standards of personal, ethical,  and 
+moral conduct possible.  
+ These standards require personal integrity, a commitment to honesty without compromise, as 
+well as truth without equivocation and a willingness to place the good of the community above the good of the self. Obligations once undertaken must be met, commitments kept.  
+ As members of the Carnegie Mellon community, individuals are expected to uphold the standards of the community in addition to holding others accountable for said standards. It is rare that the 
+life of a student in an academic community can be so private that it will not affect the community 
+as a whole or that the above standards do not apply.  
+The discovery, advancement and communication of knowledge are not possible without a commitment to these standards. Creativity cannot exist without acknowledgment of the creativity of  others. New knowledge cannot be developed without credit for prior knowledge. 
+Without the ability to trust that these principles will be observed, an academic community cannot exist.  
+The commitment of its faculty, staff and students to these standards con tributes to the high 
+respect in which the Carnegie Mellon degree is held. Students must not destroy that respect by 
+their failure to meet these standards. Students who cannot meet them should voluntarily 
+withdraw from the university.  
+The Carnegie Mellon C ode can also be found here: 
+https://www.cmu.edu/student-
+affairs/theword/ . 

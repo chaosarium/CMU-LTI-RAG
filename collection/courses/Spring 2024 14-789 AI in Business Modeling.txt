@@ -1,0 +1,16 @@
+<start course metadata for 14-789 AI in Business Modeling>
+Semester: Spring 2024 (aka S24)
+Course Name: AI in Business Modeling
+Course Number: 14-789
+Department: Information Networking Institute
+Number of Units: 6
+Prerequisites: None
+Instructors: Mohamed Farag
+Rooms: B23 212; CIC 1201
+Locations: Pittsburgh, Pennsylvania; San Jose, California
+</end course metadata for 14-789 AI in Business Modeling>
+
+<start course description for 14-789 AI in Business Modeling>
+Semester: Spring 2024 (aka S24)
+Course Description: Business models simplify the representation of business systems to improve their performance. Artificial Intelligence (AI) brings Innovation to the creation and advancement of such business models throughout the business lifecycle. For example, AI can boost the efficiency of business ideation, growth and scaling to increase the opportunities for your project success. However, adopting Artificial Intelligence has much more to it than learning the technical aspects. In this course, we aim to cover two main themes:   The innovation in using AI to build and scale businesses, Adopting Artificial Intelligence to an existing enterprise body with legacy processes    This course is targeted toward graduate students with interest in learning business foundations for AI along with establishing and growing businesses using the state-of-art AI-focused techniques. Topics covered will include: leveraging AI in modeling businesses, defining the value proposition and user benefit of AI-products, adopting AI in business ideation, development and scaling, building a successful AI-team, and integrating AI into an existing organization that didnt leverage AI before. Emphasis will be on team projects.     The course material will focus on recent and landmark case studies, industrial reports, research papers and existing tools and software systems. Students will have substantial project work in which they design, implement, and analyze an AI-based startup.    The format of this course will be a mix of lectures, group-exercises and student presentations. Students will be responsible for readings, and completing a project focused on developing their skills to build and model AI-products.
+</end course description for 14-789 AI in Business Modeling>

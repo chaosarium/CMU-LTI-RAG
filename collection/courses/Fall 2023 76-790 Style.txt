@@ -1,0 +1,16 @@
+<start course metadata for 76-790 Style>
+Semester: Fall 2023 (aka F23)
+Course Name: Style
+Course Number: 76-790
+Department: English
+Number of Units: N/A
+Prerequisites: None
+Instructors: John Oddo
+Rooms: WEH 6423
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 76-790 Style>
+
+<start course description for 76-790 Style>
+Semester: Fall 2023 (aka F23)
+Course Description: This course teaches you how to write clearly. Specifically, the principles you learn in this course will help you 1) to clearly represent actions and the characters responsible for them; 2) to make your paragraphs coherent and cohesive; 3) to write sentences that stress important information; 4) to cut unnecessary prose; and 5) to reshape lengthy sentences so as not to perplex your reader.
+</end course description for 76-790 Style>

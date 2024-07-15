@@ -1,0 +1,16 @@
+<start course metadata for 24-659 Mechanics Modeling Guided by Fundamentals>
+Semester: Spring 2024 (aka S24)
+Course Name: Mechanics Modeling Guided by Fundamentals
+Course Number: 24-659
+Department: Mechanical Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Jack Beuth
+Rooms: DH 1117
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-659 Mechanics Modeling Guided by Fundamentals>
+
+<start course description for 24-659 Mechanics Modeling Guided by Fundamentals>
+Semester: Spring 2024 (aka S24)
+Course Description: This course will combine theory for commonly seen mechanics problems, such as stress concentrations, elastic anisotropy, fracture mechanics, contact problems and plasticity with finite element modeling of analogous applications.  For each problem type, in-course lectures on mechanics theory will be followed by homework problems involving applications of that theory in finite element simulations.  A series of group projects will allow students to apply their knowledge to the simulation of more complex problems.  Prior graduate-level mechanics knowledge is not needed.  Tutorials will guide students through the creation of homework problem simulations, but some experience with ANSYS is recommended.  Group projects will account for one-half of course credit.
+</end course description for 24-659 Mechanics Modeling Guided by Fundamentals>

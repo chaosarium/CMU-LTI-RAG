@@ -1,0 +1,16 @@
+<start course metadata for 48-718 Urban Design Studio III>
+Semester: Fall 2023 (aka F23)
+Course Name: Urban Design Studio III
+Course Number: 48-718
+Department: Architecture
+Number of Units: 18
+Prerequisites: None
+Instructors: Stefan Gruber
+Rooms: MM 312
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-718 Urban Design Studio III>
+
+<start course description for 48-718 Urban Design Studio III>
+Semester: Fall 2023 (aka F23)
+Course Description: This two semester research-based-design studio is focused on the bottom-up transformation of cities and explores how designers and planners can tap into the self-organizing behavior of cities in order to empower citizens to claim their right to the city. The first semester focuses on collective case study research that leads to the development of an individual design thesis proposal. The second semester supports students in developing their individual thesis projects culminating in an exhibition at the Miller Gallery.
+</end course description for 48-718 Urban Design Studio III>

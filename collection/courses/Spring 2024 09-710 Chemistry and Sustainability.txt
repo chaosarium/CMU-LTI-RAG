@@ -1,0 +1,16 @@
+<start course metadata for 09-710 Chemistry and Sustainability>
+Semester: Spring 2024 (aka S24)
+Course Name: Chemistry and Sustainability
+Course Number: 09-710
+Department: Chemistry
+Number of Units: 12
+Prerequisites: 09-105 or 09-107
+Instructors: Terrence Collins
+Rooms: POS 146
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 09-710 Chemistry and Sustainability>
+
+<start course description for 09-710 Chemistry and Sustainability>
+Semester: Spring 2024 (aka S24)
+Course Description: This course aims to educate students in the foundations of systematic leadership through chemistry and more for building a sustainable world. Many sustainability challenges are associated with commercial chemicals and with operational modes of the chemical enterprise.  The course aims to challenge students to analyze and understand the root causes of unsustainability, especially in the technological dimension, to imagine a more sustainable world and to begin to define personal leadership missions. Students will be introduced to sustainability ethics as the foundation of transformative sustainability leadership, to a sustainability compass, to a Code of Sustainability Ethics and to various other helpful conceptual material as tools for analyzing the reasons our civilization has been failing to address its own unsustainability. The Collins Bookcase of Green Science Challenges organizes the technical content. It systematizes the major chemical sustainability challenges of our time: clean synthesis, renewable feed-stocks, safe energy, elemental pollutants, persistent molecular toxicants and endocrine disrupting chemicals (EDCs).  Focal areas will be the technical, toxicological and cultural histories of elemental and molecular pollutants with particular emphasis on EDCs.  Students will experience Legacy Lectures from some of the world's leading endocrine disruption scientists. The graded substance will take the form of take-home work. Students will primarily watch classic movies and read key books and articles and will summarize and personally evaluate the material in essay assignments. The course is intended for upper-level undergraduates and graduates although it is open to all students. The class is limited to 30 students. The assignments are common to both undergraduate and graduate classes offerings and 09-710 students will engage in additional projects. 3 hrs. lec.
+</end course description for 09-710 Chemistry and Sustainability>

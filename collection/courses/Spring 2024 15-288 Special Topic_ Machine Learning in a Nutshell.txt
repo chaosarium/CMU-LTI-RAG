@@ -1,0 +1,16 @@
+<start course metadata for 15-288 Special Topic: Machine Learning in a Nutshell>
+Semester: Spring 2024 (aka S24)
+Course Name: Special Topic: Machine Learning in a Nutshell
+Course Number: 15-288
+Department: Computer Science
+Number of Units: 9
+Prerequisites: 15-112
+Instructors: Gianni Di Caro
+Rooms: CMB 1190
+Locations: Doha, Qatar
+</end course metadata for 15-288 Special Topic: Machine Learning in a Nutshell>
+
+<start course description for 15-288 Special Topic: Machine Learning in a Nutshell>
+Semester: Spring 2024 (aka S24)
+Course Description: THIS COURSE RUNS IN CMU QATAR ONLY. This course is about the application of machine learning (ML) concepts and models to solve challenging real-world problems. The emphasis of the course is on the methodological and practical aspects of designing, implementing, and using ML solutions. Course topics develop around the notion of ML process pipeline, that identifies the multi-staged process of building and deploying an ML solution. An ML pipeline includes: de nition of the problem, objectives, and performance metrics; collection and management of relevant operational data; data wrangling (transforming, cleaning,  ltering, scaling); perform feature engineering on the available data in terms of feature selection, feature extraction, feature processing; selection of appropriate ML models based on problem requirements and available data; implementation, application, testing, and evaluation of the selected model(s); deployment of the  final ML model. The course tackles all the stages of the ML pipeline, presenting conceptual insights and providing algorithmic and software tools to select and implement effective ways of proceeding and dealing with the challenges of the different stages.
+</end course description for 15-288 Special Topic: Machine Learning in a Nutshell>

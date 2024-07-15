@@ -1,0 +1,16 @@
+<start course metadata for 67-505 Information Systems Internship>
+Semester: Spring 2024 (aka S24)
+Course Name: Information Systems Internship
+Course Number: 67-505
+Department: Information Systems Program
+Number of Units: N/A
+Prerequisites: None
+Instructors: Divakaran Liginlal, Instructor TBA, Jeria Quesenberry, Joseph Mertz, Larry Heimann, Raja Sooriamurthi, Randy Weinberg, Sara Moussawi, Susan Hagan
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 67-505 Information Systems Internship>
+
+<start course description for 67-505 Information Systems Internship>
+Semester: Spring 2024 (aka S24)
+Course Description: Practical experience in Information Systems.
+</end course description for 67-505 Information Systems Internship>

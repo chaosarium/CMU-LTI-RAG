@@ -1,0 +1,16 @@
+<start course metadata for 57-570 Music and Technology Seminar>
+Semester: Fall 2023 (aka F23)
+Course Name: Music and Technology Seminar
+Course Number: 57-570
+Department: Music
+Number of Units: 1
+Prerequisites: None
+Instructors: Riccardo Schulz
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-570 Music and Technology Seminar>
+
+<start course description for 57-570 Music and Technology Seminar>
+Semester: Fall 2023 (aka F23)
+Course Description: The Music and Technology Seminar is a weekly meeting to discuss topics in the areas of computer music, electronic music, musical acoustics, music perception, music technology, music information retrieval, music interfaces, music systems and software, and music theory. Presentations on these various topics are made by graduate students and faculty. The seminar is open to the University and broader community, but students should only enroll if the seminar is part of their degree requirements.
+</end course description for 57-570 Music and Technology Seminar>

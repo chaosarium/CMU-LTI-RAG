@@ -1,0 +1,16 @@
+<start course metadata for 14-642 Introduction to Embedded Systems>
+Semester: Fall 2023 (aka F23)
+Course Name: Introduction to Embedded Systems
+Course Number: 14-642
+Department: Information Networking Institute
+Number of Units: 12
+Prerequisites: 18-240 and 18-213 and 15-513 and 14-513
+Instructors: Patrick Tague
+Rooms: B23 118; CIC 1201
+Locations: Pittsburgh, Pennsylvania; San Jose, California
+</end course metadata for 14-642 Introduction to Embedded Systems>
+
+<start course description for 14-642 Introduction to Embedded Systems>
+Semester: Fall 2023 (aka F23)
+Course Description: This practical, hands-on course introduces students to the basic building-blocks and the underlying scientific principles of embedded systems. The course covers both the hardware and software aspects of embedded procesor architectures, along with operating system fundamentals, such as virtual memory, concurrency, task scheduling and synchronization. Through a series of laboratory projects involving state-of-the-art processors, students will learn to understand implementation details and to write assembly-language and C programs that implement core embedded OS functionality, and that control/debug features such as timers, interrupts, serial communications, flash memory, device drivers and other components used in typical embedded applications. Relevant topics, such as optimization, profiling, digital signal processing, feedback control, real-time operating systems and embedded middleware, will also be discussed. Prerequisites: 18-240.
+</end course description for 14-642 Introduction to Embedded Systems>

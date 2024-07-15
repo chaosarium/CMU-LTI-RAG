@@ -1,0 +1,16 @@
+<start course metadata for 16-761 Mobile Robots>
+Semester: Spring 2024 (aka S24)
+Course Name: Mobile Robots
+Course Number: 16-761
+Department: Robotics
+Number of Units: 12
+Prerequisites: None
+Instructors: Wennie Tabib
+Rooms: TEP 1403
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 16-761 Mobile Robots>
+
+<start course description for 16-761 Mobile Robots>
+Semester: Spring 2024 (aka S24)
+Course Description: The course is targeted to graduate level students. The lectures will develop the fundamentals for enabling autonomy of multi rotor aerial vehicles. Students will individually complete assignments related to autonomous quadrotor flight, including motion planning, control, dynamics, state estimation, and perception. The class will culminate in a final project in which students may work together in groups or individually to enhance the autonomy capabilities developed through the assignments.
+</end course description for 16-761 Mobile Robots>

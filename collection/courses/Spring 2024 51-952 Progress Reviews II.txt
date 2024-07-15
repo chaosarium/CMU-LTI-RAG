@@ -1,0 +1,16 @@
+<start course metadata for 51-952 Progress Reviews II>
+Semester: Spring 2024 (aka S24)
+Course Name: Progress Reviews II
+Course Number: 51-952
+Department: Design
+Number of Units: 0
+Prerequisites: None
+Instructors: Jonathan Chapman
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-952 Progress Reviews II>
+
+<start course description for 51-952 Progress Reviews II>
+Semester: Spring 2024 (aka S24)
+Course Description: Design Doctoral students present and discuss their thesis progress to date.
+</end course description for 51-952 Progress Reviews II>

@@ -1,0 +1,16 @@
+<start course metadata for 98-195 Student Taught Courses (StuCo): Introduction to Divination>
+Semester: Spring 2024 (aka S24)
+Course Name: Student Taught Courses (StuCo): Introduction to Divination
+Course Number: 98-195
+Department: StuCo (Student Led Courses)
+Number of Units: 3
+Prerequisites: None
+Instructors: Eva Qi
+Rooms: WEH 5320
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 98-195 Student Taught Courses (StuCo): Introduction to Divination>
+
+<start course description for 98-195 Student Taught Courses (StuCo): Introduction to Divination>
+Semester: Spring 2024 (aka S24)
+Course Description: We will introduce basic ideas of I-Ching (15% of the class) and focus on the application of prediction use (Liu Yao specifically, about 35% of the class). To provide a better understanding of the practices across the globe. We also teach basic Tarot card meanings and reading strategies, both Visconti and Waite, along with its culture (again 15% class time). People are encouraged to buy their own tarot cards, and I-Ching readings require 3 quarter coins. Buying physical book of I-Ching is recommended but not required.
+</end course description for 98-195 Student Taught Courses (StuCo): Introduction to Divination>

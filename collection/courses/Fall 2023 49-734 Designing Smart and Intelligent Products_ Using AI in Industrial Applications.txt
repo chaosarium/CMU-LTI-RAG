@@ -1,0 +1,16 @@
+<start course metadata for 49-734 Designing Smart and Intelligent Products: Using AI in Industrial Applications>
+Semester: Fall 2023 (aka F23)
+Course Name: Designing Smart and Intelligent Products: Using AI in Industrial Applications
+Course Number: 49-734
+Department: Integrated Innovation Institute
+Number of Units: 6
+Prerequisites: None
+Instructors: Mark Hindsbo
+Rooms: CA 108
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 49-734 Designing Smart and Intelligent Products: Using AI in Industrial Applications>
+
+<start course description for 49-734 Designing Smart and Intelligent Products: Using AI in Industrial Applications>
+Semester: Fall 2023 (aka F23)
+Course Description: Designing Smart and Intelligent Products: Using Artificial Intelligence in Industrial Applications   Artificial Intelligence (AI) technologies such as Machine Learning (ML) hold great potential to help design smarter product from self-driving cars, to over intelligent thermostats, to personalized software experiences. Driven by innovations in algorithms, compute power, data storage, and connectivity AI has been heralded to bring in the fourth industrial revolution and the internet of things. However, like many other hyped technologies AI has its strength, weaknesses, and limitations. This course will give students who have some AI background a chance to apply and grow their AI/ML, product management, and business skills in the context of hands-on design projects. Focus will be on understanding the areas in which AI/ML technologies can add value to software and hardware products - and perhaps equally important the limitations of these new and exciting technologies. While focusing on AI/ML, many of the learnings will be broadly applicable in the context of how to benefit from groundbreaking technological innovations in the context of specific business and product opportunities. The course will feature practical applications of AI/ML using real-world engineering examples and datasets. It will feature guest lectures related to these case studies and discussions on how these learnings are generalizable across industries and products. There will be hands-on projects applying AI/ML to these examples and their associated datasets. Note: This course will only be open to MIIPS Advanced students in their final semester or special permission by the instructor.
+</end course description for 49-734 Designing Smart and Intelligent Products: Using AI in Industrial Applications>

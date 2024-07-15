@@ -1,0 +1,16 @@
+<start course metadata for 94-854 Developing as a Leader>
+Semester: Spring 2024 (aka S24)
+Course Name: Developing as a Leader
+Course Number: 94-854
+Department: Heinz College Wide Courses
+Number of Units: 6
+Prerequisites: None
+Instructors: David Lassman
+Rooms: HBH 1204
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 94-854 Developing as a Leader>
+
+<start course description for 94-854 Developing as a Leader>
+Semester: Spring 2024 (aka S24)
+Course Description: This course introduces students to leadership via three learning frameworks: models, practice and reflection. Using guest lectures, readings and videos, and small group discussions, we will define leadership and provide applicable frameworks for leadership practice. Students will be able to experiment and practice different skills and styles in a safe environment where they can receive useful feedback. To help students pursue their own personal path of leadership development, the focus is on formulating personal goals, models and activities that sustain this development over the course of their careers.
+</end course description for 94-854 Developing as a Leader>

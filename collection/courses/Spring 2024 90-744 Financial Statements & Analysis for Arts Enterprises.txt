@@ -1,0 +1,16 @@
+<start course metadata for 90-744 Financial Statements & Analysis for Arts Enterprises>
+Semester: Spring 2024 (aka S24)
+Course Name: Financial Statements & Analysis for Arts Enterprises
+Course Number: 90-744
+Department: Public Policy & Mgt:Sch of Pub Pol & Mgt
+Number of Units: 6
+Prerequisites: 90-723 or 95-715 or 91-804
+Instructors: Jacob Bacharach
+Rooms: HBH 2009
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 90-744 Financial Statements & Analysis for Arts Enterprises>
+
+<start course description for 90-744 Financial Statements & Analysis for Arts Enterprises>
+Semester: Spring 2024 (aka S24)
+Course Description: This course provides an introduction to the design and use of systems that assist management in ensuring that organizations achieve their goals. It emphasizes budgets as a major component of management control systems for for-profit, governmental and non-profit organizations. Key topics include: - Understanding costs and cost behavior - Product and service costing - Budgets as planning devices and performance targets - Variance analysis - Systems to provide incentives for managers to meet organizational goals
+</end course description for 90-744 Financial Statements & Analysis for Arts Enterprises>

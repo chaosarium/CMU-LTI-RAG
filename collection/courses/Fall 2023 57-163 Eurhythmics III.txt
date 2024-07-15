@@ -1,0 +1,16 @@
+<start course metadata for 57-163 Eurhythmics III>
+Semester: Fall 2023 (aka F23)
+Course Name: Eurhythmics III
+Course Number: 57-163
+Department: Music
+Number of Units: 3
+Prerequisites: 57-162
+Instructors: Stephen Neely
+Rooms: MM 119
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-163 Eurhythmics III>
+
+<start course description for 57-163 Eurhythmics III>
+Semester: Fall 2023 (aka F23)
+Course Description: Eurhythmics is a unique approach to music learning developed by the Swiss composer and educator Emile Jaques-Dalcroze (1865-1950).  Dalcroze discovered that meaningful rhythmic movement experiences away from their instrument allows students to focus awareness on the physical demands of artistic performance while demonstrating knowledge and understanding of the expressive/interpretive as well as the theoretical aspects of music.  Sight reading, conducting, notation, analysis and improvisation are integral to the course.  Eurhythmics III Course Content: Divisive vs Additive rhythm, Metric transformation, Irregular subdivisions of metric units, Cross rhythms of 3 against 4, 3 against 5, 4 against 5.
+</end course description for 57-163 Eurhythmics III>

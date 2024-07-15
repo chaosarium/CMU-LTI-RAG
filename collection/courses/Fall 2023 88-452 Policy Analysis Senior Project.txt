@@ -1,0 +1,16 @@
+<start course metadata for 88-452 Policy Analysis Senior Project>
+Semester: Fall 2023 (aka F23)
+Course Name: Policy Analysis Senior Project
+Course Number: 88-452
+Department: Social & Decision Sciences
+Number of Units: 12
+Prerequisites: None
+Instructors: Deanna Matthews, John Miller
+Rooms: PH A18B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 88-452 Policy Analysis Senior Project>
+
+<start course description for 88-452 Policy Analysis Senior Project>
+Semester: Fall 2023 (aka F23)
+Course Description: Students in this course apply the research and analytical methods learned in their other courses to a real-world problem. Students decide how to structure the problem, divide into teams responsible for its different parts, identify and analyze relevant literature, collect data, synthesize their results, and present their conclusions in oral and written form to a review panel of individuals concerned with the problem. Faculty members help them along the way. Performance is based on students' contribution to the process and substance of the class, as observed by the faculty and by their fellow students. One or two such projects is offered every term. A complete list of previous topics is available from the department. Course is open only to seniors in SDS.
+</end course description for 88-452 Policy Analysis Senior Project>

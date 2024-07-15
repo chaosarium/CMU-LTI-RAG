@@ -1,0 +1,16 @@
+<start course metadata for 49-300 Integrated Product Conceptualization>
+Semester: Spring 2024 (aka S24)
+Course Name: Integrated Product Conceptualization
+Course Number: 49-300
+Department: Integrated Innovation Institute
+Number of Units: 12
+Prerequisites: None
+Instructors: Brandon Bodily
+Rooms: HL 106C
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 49-300 Integrated Product Conceptualization>
+
+<start course description for 49-300 Integrated Product Conceptualization>
+Semester: Spring 2024 (aka S24)
+Course Description: The Integrated Product Conceptualization course focuses on introducing students to some of the thinking, basic skills and methods used by industrial design, engineering, and business to generate new consumer product proposals within integrated teams. Teams will progress through three phases 1) identifying opportunities for new products or services, 2) understanding those opportunities through stakeholder research, value opportunity analysis, and competitive landscape assessment, then selecting one of which to focus, 3) conceptualizing the opportunity with the goal of meeting the value proposition. This course will combine lecture and studio activities including the generation of 2D visual representation skills and 3D low-fidelity physical modeling in support of course work.  An important part of this course is a design project that is carried out by interdisciplinary teams. In order to effectively contribute to their team, each student should have experience or coursework in at least one of the following: design, the arts, engineering/technology, or business.  This course is reserved for junior and senior level students. Freshmen and sophomores will be admitted as space allows and with instructor permission.
+</end course description for 49-300 Integrated Product Conceptualization>

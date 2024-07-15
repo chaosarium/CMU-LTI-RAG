@@ -1,0 +1,16 @@
+<start course metadata for 10-719 Federated and Collaborative Learning>
+Semester: Fall 2023 (aka F23)
+Course Name: Federated and Collaborative Learning
+Course Number: 10-719
+Department: Machine Learning
+Number of Units: 12
+Prerequisites: 10-315 or 10-601 or 10-715 or 10-701
+Instructors: Virginia Smith
+Rooms: WEH 2302
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 10-719 Federated and Collaborative Learning>
+
+<start course description for 10-719 Federated and Collaborative Learning>
+Semester: Fall 2023 (aka F23)
+Course Description: Machine learning pipelines are increasingly powered by data from multiple sources and stakeholders. Techniques for collaborative learning, such as federated learning, stand to power a new generation of machine learning applications by enabling coordinated, trustworthy learning between multiple parties and across diverse data sources. To do so, novel approaches must be developed that improve the accuracy and efficiency of learning across siloed data; mitigate risk and protect data privacy and ownership; and incorporate social and economic principles that incentivize data sharing and provide trustworthy cooperative learning schemes. This seminar course will cover various aspects of federated and collaborative learning, with a focus on recent research developments and discussion on future directions. Students will participate in leading discussion sessions and will complete a course project in the general area of collaborative learning.
+</end course description for 10-719 Federated and Collaborative Learning>

@@ -1,0 +1,16 @@
+<start course metadata for 60-131 Foundations: Sculpture>
+Semester: Fall 2023 (aka F23)
+Course Name: Foundations: Sculpture
+Course Number: 60-131
+Department: Art
+Number of Units: 10
+Prerequisites: None
+Instructors: Britt Ransom, Isla Hansen, Ling-Lin Ku
+Rooms: DH C200
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 60-131 Foundations: Sculpture>
+
+<start course description for 60-131 Foundations: Sculpture>
+Semester: Fall 2023 (aka F23)
+Course Description: Foundations: Sculpture I is an introductory studio course in concepts, techniques, and tools for the fabrication of three dimensional physical works. The studio course introduces both digital and physical fabrication methods to translate ideas and materials into 3D forms. We will cover measuring, drawing, planning, pattern making, and construction techniques for cardboard, fabric, recycled materials, and a variety of mixed media; as well as the use of plaster, paper clay, and / or wax. Through technical demonstrations, assignments, and hands-on explorations, students will learn how to make use of equipment in our sculpture labs such as laser cutters, sewing machines, and a variety of hand tools. Concepts explored as a group include physical and sensorial properties such as scale, weight, and materiality; as well as deconstruction / disassembly, reconstruction / reassembly , transformation, translation, function, dysfunction, and utility. Our experiments will prompt us to consider relationships between objects, bodies, spaces, and society; as well as between technology, craft, form, and language; ultimately exploring how to use the making of 3D objects as both a communicative tool and a practical tool for life. No prior knowledge or experience in the field is required to take this course.
+</end course description for 60-131 Foundations: Sculpture>

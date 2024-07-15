@@ -1,0 +1,16 @@
+<start course metadata for 15-893 Special topics: Cryptography meets algorithms>
+Semester: Spring 2024 (aka S24)
+Course Name: Special topics: Cryptography meets algorithms
+Course Number: 15-893
+Department: Computer Science
+Number of Units: 12
+Prerequisites: None
+Instructors: Runting Shi
+Rooms: GHC 4303
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-893 Special topics: Cryptography meets algorithms>
+
+<start course description for 15-893 Special topics: Cryptography meets algorithms>
+Semester: Spring 2024 (aka S24)
+Course Description: In this course, we will cover various advanced topics at the intersection of cryptography and algorithms, especially how algorithmic techniques are used in the construction of modern cryptographic schemes.
+</end course description for 15-893 Special topics: Cryptography meets algorithms>

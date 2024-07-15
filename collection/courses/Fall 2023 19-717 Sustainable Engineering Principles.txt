@@ -1,0 +1,16 @@
+<start course metadata for 19-717 Sustainable Engineering Principles>
+Semester: Fall 2023 (aka F23)
+Course Name: Sustainable Engineering Principles
+Course Number: 19-717
+Department: Engineering & Public Policy
+Number of Units: 12
+Prerequisites: None
+Instructors: Gwen DiPietro
+Rooms: GHC 4215
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 19-717 Sustainable Engineering Principles>
+
+<start course description for 19-717 Sustainable Engineering Principles>
+Semester: Fall 2023 (aka F23)
+Course Description: This course presents an overview of the concept of sustainability, including changing attitudes and values toward technology and the environment through the late twentieth and early twenty-first centuries. Relevant issues in sustainable engineering, including population growth, urbanization, energy, water, food and material resources are discussed. Tools for sustainable engineering are presented, including metrics of sustainability, principles of design for the environment, and use of material and energy balances in sustainable systems. Publicly available data sets and computational models will be explored to assess sustainability. A team-based project is required.
+</end course description for 19-717 Sustainable Engineering Principles>

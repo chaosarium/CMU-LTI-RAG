@@ -1,0 +1,16 @@
+<start course metadata for 82-311 Advanced Arabic I>
+Semester: Fall 2023 (aka F23)
+Course Name: Advanced Arabic I
+Course Number: 82-311
+Department: Modern Languages
+Number of Units: 9
+Prerequisites: 82-212
+Instructors: Nevine Abraham
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 82-311 Advanced Arabic I>
+
+<start course description for 82-311 Advanced Arabic I>
+Semester: Fall 2023 (aka F23)
+Course Description: This course promotes multiple literacies in an integrated approach to Arabic language and culture studies and builds students' ability to function at the Intermediate High/Advanced Low level in a variety of topics. It also embraces the diglossic nature of Arabic by explicitly integrating the teaching of Arabic regional spoken varieties alongside Modern Standard Arabic. Moreover, the course incorporates Computer and other Technology Assisted Language Learning pedagogies to support student learning inside and outside the classroom.  The course is aligned with ACTFL's updated Arabic guidelines that perceive the Arabic language as a continuum in which both the regional spoken varieties and Modern Standard Arabic constitute a whole in terms of usage.
+</end course description for 82-311 Advanced Arabic I>

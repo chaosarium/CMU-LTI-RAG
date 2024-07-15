@@ -1,0 +1,16 @@
+<start course metadata for 69-153 Lifeguard Training>
+Semester: Fall 2023 (aka F23)
+Course Name: Lifeguard Training
+Course Number: 69-153
+Department: Physical Education
+Number of Units: 3
+Prerequisites: None
+Instructors: Alicia Gorman, Sara Gauntner
+Rooms: CUC POOL
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 69-153 Lifeguard Training>
+
+<start course description for 69-153 Lifeguard Training>
+Semester: Fall 2023 (aka F23)
+Course Description: This class is the American Red Cross Lifeguard Training course.  Students who complete certification will be eligible to be employed as lifeguards.  Attendance is required.    There will be a fee from the American Red Cross-the instructor will share this with you upon completion of the course requirements.
+</end course description for 69-153 Lifeguard Training>

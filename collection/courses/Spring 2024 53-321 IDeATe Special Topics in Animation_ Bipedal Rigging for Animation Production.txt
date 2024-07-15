@@ -1,0 +1,16 @@
+<start course metadata for 53-321 IDeATe Special Topics in Animation: Bipedal Rigging for Animation Production>
+Semester: Spring 2024 (aka S24)
+Course Name: IDeATe Special Topics in Animation: Bipedal Rigging for Animation Production
+Course Number: 53-321
+Department: Entertainment Technology
+Number of Units: 6
+Prerequisites: None
+Instructors: Sophia Videva
+Rooms: CMU REMOTE
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 53-321 IDeATe Special Topics in Animation: Bipedal Rigging for Animation Production>
+
+<start course description for 53-321 IDeATe Special Topics in Animation: Bipedal Rigging for Animation Production>
+Semester: Spring 2024 (aka S24)
+Course Description: Animation Rigging explores processes for building digital skeletons and control systems to drive computer animated forms. This course investigates vital techniques and concepts to create expressive, fully articulated characters for computer animation, film, and game production. Beginning with rigging fundamentals, coursework will advance through various systems and methods that are needed to convey motivated movement and expression in a variety of character types. Certain key topics include kinematics, joint orientations, driven keys, direct connections, space switching, corrective blend-shapes, custom attributes and graphic user interfaces (GUIs), skinning and deformation. Additionally, coursework provides an introduction to scripting methods for rig creation, including expressions, Python, and MEL. Students will be provided a valuable range of tools that meet production standards for animated film and game creation, as well as a necessary conceptual framework to enable complex problem solving at all levels of rig creation. Anyone interested in the artistic and technical sides of computer animation are encouraged to enroll. Previous experience with Autodesk Maya/3D animation is preferred.
+</end course description for 53-321 IDeATe Special Topics in Animation: Bipedal Rigging for Animation Production>

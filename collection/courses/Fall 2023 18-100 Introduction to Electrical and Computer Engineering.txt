@@ -1,0 +1,16 @@
+<start course metadata for 18-100 Introduction to Electrical and Computer Engineering>
+Semester: Fall 2023 (aka F23)
+Course Name: Introduction to Electrical and Computer Engineering
+Course Number: 18-100
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Jian-Gang Zhu
+Rooms: SH 105
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-100 Introduction to Electrical and Computer Engineering>
+
+<start course description for 18-100 Introduction to Electrical and Computer Engineering>
+Semester: Fall 2023 (aka F23)
+Course Description: The goals of this freshman engineering course are: * To introduce basic concepts in electrical and computer engineering in an integrated manner; * To motivate basic concepts in the context of real applications; * To illustrate a logical way of thinking about problems and their solutions, and; * To convey the excitement of the profession. These goals are attained through analysis, construction and testing of an electromechanical system (e.g., a robot) that incorporates concepts from a broad range of areas within Electrical and Computer Engineering. Some of the specific topics that will be covered include system decomposition, ideal and real sources, Kirchhoff's Current and Voltage Laws, Ohm's Law, piecewise linear modeling of nonlinear circuit elements, Ideal Op-Amp characteristics, combinational logic circuits, Karnaugh Maps, Flip-Flops, sequential logic circuits, and finite state machines. 3 hrs. lec., 1 hr. rec., 3 hr. lab.
+</end course description for 18-100 Introduction to Electrical and Computer Engineering>

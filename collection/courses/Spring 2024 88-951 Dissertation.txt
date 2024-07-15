@@ -1,0 +1,16 @@
+<start course metadata for 88-951 Dissertation>
+Semester: Spring 2024 (aka S24)
+Course Name: Dissertation
+Course Number: 88-951
+Department: Social & Decision Sciences
+Number of Units: 36
+Prerequisites: None
+Instructors: John Miller
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 88-951 Dissertation>
+
+<start course description for 88-951 Dissertation>
+Semester: Spring 2024 (aka S24)
+Course Description: No course description provided.
+</end course description for 88-951 Dissertation>

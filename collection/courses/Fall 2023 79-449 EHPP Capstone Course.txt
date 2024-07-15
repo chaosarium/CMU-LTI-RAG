@@ -1,0 +1,16 @@
+<start course metadata for 79-449 EHPP Capstone Course>
+Semester: Fall 2023 (aka F23)
+Course Name: EHPP Capstone Course
+Course Number: 79-449
+Department: History
+Number of Units: 12
+Prerequisites: None
+Instructors: Steven Schlossman
+Rooms: PH A21
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 79-449 EHPP Capstone Course>
+
+<start course description for 79-449 EHPP Capstone Course>
+Semester: Fall 2023 (aka F23)
+Course Description: In this Fall 2023 capstone course, Ethics, History, and Public Policy majors will carry out a collaborative or individual research project that examines a compelling current policy issue that can be illuminated with historical research and philosophical and policy analysis. Students will develop an original research report based on both archival and contemporary data and present their results in a public forum at the end of the semester.   Please note: this semester we are experimenting with a more flexible set of research options for EHPP students, rather than a single project topic that all students are required to work on. Collaborative projects in groups of 2-3 students are encouraged, but individual projects that integrate historical, ethical, and policy perspectives are permissible too.
+</end course description for 79-449 EHPP Capstone Course>

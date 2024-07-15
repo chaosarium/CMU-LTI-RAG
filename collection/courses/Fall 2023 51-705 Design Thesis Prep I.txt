@@ -1,0 +1,16 @@
+<start course metadata for 51-705 Design Thesis Prep I>
+Semester: Fall 2023 (aka F23)
+Course Name: Design Thesis Prep I
+Course Number: 51-705
+Department: Design
+Number of Units: 3
+Prerequisites: None
+Instructors: Bruce Hanington
+Rooms: MM 215
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-705 Design Thesis Prep I>
+
+<start course description for 51-705 Design Thesis Prep I>
+Semester: Fall 2023 (aka F23)
+Course Description: Short series of activity-based workshops focused on how to formulate and iterate upon good research questions, scoping an appropriate level of detail for a one-year thesis project. This course is intended for MDES students; all other students by permission of the instructor.
+</end course description for 51-705 Design Thesis Prep I>

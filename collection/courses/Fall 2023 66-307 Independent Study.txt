@@ -1,0 +1,16 @@
+<start course metadata for 66-307 Independent Study>
+Semester: Fall 2023 (aka F23)
+Course Name: Independent Study
+Course Number: 66-307
+Department: Dietrich College Interdisciplinary
+Number of Units: N/A
+Prerequisites: None
+Instructors: Joseph Devine
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 66-307 Independent Study>
+
+<start course description for 66-307 Independent Study>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is intended for students with a special interest in an interdisciplinary area in the humanities and/or social sciences not covered by a normal course.  Readings and other works are developed by the student and an individual faculty member.  The number of units will be assigned at the time of registration based on the number of hours to be completed (decided in advance with the sponsoring faculty member).
+</end course description for 66-307 Independent Study>

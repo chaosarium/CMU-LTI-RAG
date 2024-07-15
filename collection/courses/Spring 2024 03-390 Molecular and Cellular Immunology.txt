@@ -1,0 +1,16 @@
+<start course metadata for 03-390 Molecular and Cellular Immunology>
+Semester: Spring 2024 (aka S24)
+Course Name: Molecular and Cellular Immunology
+Course Number: 03-390
+Department: Biological Sciences
+Number of Units: 9
+Prerequisites: (03-231 or 03-232) and (03-240 or 03-320)
+Instructors: Nick Giannoukakis
+Rooms: GHC 4101
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 03-390 Molecular and Cellular Immunology>
+
+<start course description for 03-390 Molecular and Cellular Immunology>
+Semester: Spring 2024 (aka S24)
+Course Description: This is a course that covers the fundamentals of cellular and molecular immunology in a comprehensive manner. The objective of this course is to introduce the students to the immune system, the cells that constitute it, their ontogeny, their structure, activities and responses to stimuli and the systems/signals that integrate these cells into a coherent functional entity. Additionally, the course will demonstrate where, when, and how, the immune system responds in pathologic states, how its cells can themselves become the causes of pathologies, and how medical science targets and uses the immune system to prevent and treat a wide range of diseases.
+</end course description for 03-390 Molecular and Cellular Immunology>

@@ -1,0 +1,16 @@
+<start course metadata for 03-442 Molecular Biology>
+Semester: Fall 2023 (aka F23)
+Course Name: Molecular Biology
+Course Number: 03-442
+Department: Biological Sciences
+Number of Units: 9
+Prerequisites: 03-330 or 03-220 or 03-221
+Instructors: John Woolford
+Rooms: DH 1212
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 03-442 Molecular Biology>
+
+<start course description for 03-442 Molecular Biology>
+Semester: Fall 2023 (aka F23)
+Course Description: The structure and expression of eukaryotic genes are discussed, focusing on model systems from a variety of organisms including yeast, flies, worms, mice, humans, and plants. Topics discussed include (1) genomics, proteomics, and functional proteomics and (2) control of gene expression at the level of transcription of mRNA from DNA, splicing of pre-mRNA, export of spliced mRNA from the nucleus to the cytoplasm, and translation of mRNA.
+</end course description for 03-442 Molecular Biology>

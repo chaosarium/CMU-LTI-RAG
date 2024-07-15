@@ -1,0 +1,16 @@
+<start course metadata for 54-102 Acting I>
+Semester: Spring 2024 (aka S24)
+Course Name: Acting I
+Course Number: 54-102
+Department: Drama
+Number of Units: 10
+Prerequisites: 54-101
+Instructors: Andrew Smith, Bria Walker-Rhoze, Juan Rivera Lebron
+Rooms: PCA 314; PCA 318; PCA 321
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-102 Acting I>
+
+<start course description for 54-102 Acting I>
+Semester: Spring 2024 (aka S24)
+Course Description: A knowledge and beginning understanding of the components of acting. Basic exercises, improvisations and prepared work in relaxation, concentration, imagination, communication. The ability to create the reality of a given situation in theatrical terms. Craft fundamentals in preparation for scene study. The beginning development of the students creative resources.    This course is for Drama majors only.
+</end course description for 54-102 Acting I>

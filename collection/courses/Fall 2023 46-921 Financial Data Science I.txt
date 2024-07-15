@@ -1,0 +1,16 @@
+<start course metadata for 46-921 Financial Data Science I>
+Semester: Fall 2023 (aka F23)
+Course Name: Financial Data Science I
+Course Number: 46-921
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Chad Schafer
+Rooms: BRD 507; TCS 250
+Locations: New York, New York; Pittsburgh, Pennsylvania
+</end course metadata for 46-921 Financial Data Science I>
+
+<start course description for 46-921 Financial Data Science I>
+Semester: Fall 2023 (aka F23)
+Course Description: The first in a two-course sequence covering methods of extracting useful information from raw financial data. Focus is placed on fundamental tools of statistical inference useful for fitting models to financial data, including those with complex multivariate form. Topics include linear models, nonparametric models, parameter estimation and uncertainty quantification. Methods are taught using the Python programming language.  Non-MSCF students may not take this course without written permission from the instructor. To be eligible, you must be a BSCF student or a graduate student enrolled in an MSCF participating college (Dietrich, Heinz, Tepper or Mellon). PhD students with relevant research may be eligible with permission from the instructor.
+</end course description for 46-921 Financial Data Science I>

@@ -1,0 +1,16 @@
+<start course metadata for 24-671 Electromechanical Systems Design>
+Semester: Fall 2023 (aka F23)
+Course Name: Electromechanical Systems Design
+Course Number: 24-671
+Department: Mechanical Engineering
+Number of Units: 12
+Prerequisites: 24-370 and 24-352
+Instructors: Sarah Bergbreiter
+Rooms: WEH 5415
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-671 Electromechanical Systems Design>
+
+<start course description for 24-671 Electromechanical Systems Design>
+Semester: Fall 2023 (aka F23)
+Course Description: This course guides students through the design process as applied to mechatronic systems, which feature electrical, mechanical, and computational components.  Lectures describe the typical design process and its associated activities, emphasizing methods for analyzing and prototyping mechatronic systems.  Professional and ethical responsibilities of designers, interactions with clients and other professionals, regulatory aspects, and public responsibility are discussed.  The design project is team-based and is based on a level of engineering knowledge expected of seniors.  Proof of practicality is required in the form of descriptive documentation and a working prototype system at the end of the course.  Oral progress reports and a final written and oral report are required.
+</end course description for 24-671 Electromechanical Systems Design>

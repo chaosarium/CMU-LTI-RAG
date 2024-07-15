@@ -1,0 +1,16 @@
+<start course metadata for 09-455 Honors Thesis>
+Semester: Fall 2023 (aka F23)
+Course Name: Honors Thesis
+Course Number: 09-455
+Department: Chemistry
+Number of Units: N/A
+Prerequisites: None
+Instructors: Karen Stump
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 09-455 Honors Thesis>
+
+<start course description for 09-455 Honors Thesis>
+Semester: Fall 2023 (aka F23)
+Course Description: Students enrolled in the departmental honors program (B.S. with Departmental Honors or combined 4-year B.S./M.S. degree) are required to enroll in this course to complete the honors degree requirements. A thesis written in an acceptable style describing an original research project, and a successful oral defense of the thesis topic before a THesis Committee are required. Limited to students accepted into the honors program. (B.S. Honors candidates normally enroll for 6 units; B.S./M.S. candidates enroll for 15 units.)
+</end course description for 09-455 Honors Thesis>

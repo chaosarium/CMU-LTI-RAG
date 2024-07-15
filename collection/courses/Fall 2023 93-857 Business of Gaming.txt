@@ -1,0 +1,16 @@
+<start course metadata for 93-857 Business of Gaming>
+Semester: Fall 2023 (aka F23)
+Course Name: Business of Gaming
+Course Number: 93-857
+Department: Arts & Entertainment Management
+Number of Units: 4
+Prerequisites: None
+Instructors: Holly Newman
+Rooms: DNM DNM
+Locations: Los Angeles, California
+</end course metadata for 93-857 Business of Gaming>
+
+<start course description for 93-857 Business of Gaming>
+Semester: Fall 2023 (aka F23)
+Course Description: This four-week class will focus on the business aspects that relate to the gaming industry. This industry hasgrown quickly in the last 25 years to overtake theatrical motion pictures as a leading source of commercial entertainment ¿ in content development, distribution and the licensing of its IP. The course will focus on the ways in which its creative and business practices are both unique, and also share common characteristics with other forms of screen-based entertainment.
+</end course description for 93-857 Business of Gaming>

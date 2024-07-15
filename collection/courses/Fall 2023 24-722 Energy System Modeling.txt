@@ -1,0 +1,16 @@
+<start course metadata for 24-722 Energy System Modeling>
+Semester: Fall 2023 (aka F23)
+Course Name: Energy System Modeling
+Course Number: 24-722
+Department: Mechanical Engineering
+Number of Units: 12
+Prerequisites: 06-221 or 24-221 or 27-215
+Instructors: Shawn Litster
+Rooms: MI 355
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-722 Energy System Modeling>
+
+<start course description for 24-722 Energy System Modeling>
+Semester: Fall 2023 (aka F23)
+Course Description: This course focuses on the thermodynamic modeling of energy systems with emphasis on energy/availability analysis techniques.  These techniques are developed and applied to both established and emerging energy technologies, such as internal combustion engines, gas- and coal-fired power plants, solar and wind energy systems, thermochemical hydrogen production cycles, and fuel cells.  The course will also consider the integration of components such as reformers and electrolyzers. Modern computational tools are used throughout the course. The course culminates with a group project that requires developing sophisticated, quantitative models of an integrated energy system.  Students are expected to have completed an undergraduate course in thermodynamics comparable to 24-221.
+</end course description for 24-722 Energy System Modeling>

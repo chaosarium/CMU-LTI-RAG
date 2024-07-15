@@ -1,0 +1,16 @@
+<start course metadata for 24-795 PhD Internship in Teaching Counterpoint>
+Semester: Spring 2024 (aka S24)
+Course Name: PhD Internship in Teaching Counterpoint
+Course Number: 24-795
+Department: Mechanical Engineering
+Number of Units: N/A
+Prerequisites: None
+Instructors: Chris Hertz
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-795 PhD Internship in Teaching Counterpoint>
+
+<start course description for 24-795 PhD Internship in Teaching Counterpoint>
+Semester: Spring 2024 (aka S24)
+Course Description: A teaching assignment under the guidance of a faculty member for intermediate or terminal-level doctoral candidates. Typical activities include preparing and teaching recitations, preparing and teaching laboratory sessions, holding office hours, grading and preparation of quizzes, problem sets and other assignments, and assisting instructor with other activities associated with teaching a course. 24-795 is 12 units and offered in Fall and Spring (P/F). All non-native English speakers must conform to the university regulation on the TA language requirements.
+</end course description for 24-795 PhD Internship in Teaching Counterpoint>

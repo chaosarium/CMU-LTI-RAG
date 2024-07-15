@@ -1,0 +1,16 @@
+<start course metadata for 24-311 Numerical Methods>
+Semester: Spring 2024 (aka S24)
+Course Name: Numerical Methods
+Course Number: 24-311
+Department: Mechanical Engineering
+Number of Units: 10
+Prerequisites: 21-260
+Instructors: Jessica Zhang
+Rooms: SH 105
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-311 Numerical Methods>
+
+<start course description for 24-311 Numerical Methods>
+Semester: Spring 2024 (aka S24)
+Course Description: Use of numerical methods for solving engineering problems with the aid of a digital computer. The course will contain numerical methods such as roots of equations, linear algebraic equations, optimization, curve fitting, integration, and differential equation solving.  MATLAB will be used as the programming language.  Programming cluster laboratory times will be available twice a week.  Problems will be drawn from all fields of interest to mechanical engineers. 3 hrs. lecture plus lab
+</end course description for 24-311 Numerical Methods>

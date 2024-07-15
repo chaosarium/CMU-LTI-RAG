@@ -1,0 +1,16 @@
+<start course metadata for 18-335 Secure Software Systems>
+Semester: Spring 2024 (aka S24)
+Course Name: Secure Software Systems
+Course Number: 18-335
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: (18-330 or 15-330 or 18-631 or 14-741 or 18-730) and (15-213 or 18-613 or 15-513 or 14-513 or 18-213)
+Instructors: Bryan Parno
+Rooms: HOA 160
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-335 Secure Software Systems>
+
+<start course description for 18-335 Secure Software Systems>
+Semester: Spring 2024 (aka S24)
+Course Description: Poor software design and engineering are the root causes of most security vulnerabilities in deployed systems today. Moreover, with code mobility now commonplace--particularly in the context of web technologies and digital rights management--system designers are increasingly faced with protecting hosts from foreign software and protecting software from foreign hosts running it. This class takes a close look at software as a mechanism for attack, as a tool for protecting resources, and as a resource to be defended. Topics covered include the software design process; choices of programming languages, operating systems, databases and distributed object platforms for building secure systems; common software vulnerabilities, such as buffer overflows and race conditions; auditing software; proving properties of software; software and data watermarking; code obfuscation; tamper resistant software; and the benefits of open and closed source development.  Students in 18-335 will share lectures and homeworks with students in 18-732. However, 18-732 has additional requirements not shared by 18-335, including the requirement to produce scribe notes and to practice and demonstrate the ability to read and summarize scientific papers on the topics covered by the course.
+</end course description for 18-335 Secure Software Systems>

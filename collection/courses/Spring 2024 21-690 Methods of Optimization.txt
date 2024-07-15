@@ -1,0 +1,16 @@
+<start course metadata for 21-690 Methods of Optimization>
+Semester: Spring 2024 (aka S24)
+Course Name: Methods of Optimization
+Course Number: 21-690
+Department: Mathematical Sciences
+Number of Units: 12
+Prerequisites: (21-356 or 21-236 or 21-456) and (21-373 or 21-237)
+Instructors: Felipe Suarez-Colmenares
+Rooms: DH 1112
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-690 Methods of Optimization>
+
+<start course description for 21-690 Methods of Optimization>
+Semester: Spring 2024 (aka S24)
+Course Description: An introduction to the theory and algorithms of linear and nonlinear programming with an emphasis on modern computational considerations.  The simplex method and its variants, duality theory and sensitivity analysis.  Large-scale linear programming.  Optimality conditions for unconstrained nonlinear optimization.  Newton's method, line searches, trust regions and convergence rates.  Constrained problems, feasible-point methods, penalty and barrier methods, interior-point methods.  (Three 50 minute lectures)
+</end course description for 21-690 Methods of Optimization>

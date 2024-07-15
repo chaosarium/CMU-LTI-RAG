@@ -1,0 +1,16 @@
+<start course metadata for 48-500 Advanced Synthesis Options Studio>
+Semester: Fall 2023 (aka F23)
+Course Name: Advanced Synthesis Options Studio
+Course Number: 48-500
+Department: Architecture
+Number of Units: N/A
+Prerequisites: 48-410
+Instructors: Mary-Lou Arscott
+Rooms: MM 103
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-500 Advanced Synthesis Options Studio>
+
+<start course description for 48-500 Advanced Synthesis Options Studio>
+Semester: Fall 2023 (aka F23)
+Course Description: Having proven competency in the spectrum of skills determined necessary for tomorrow's architect during the first three years of the program, students in their fourth and fifth year are permitted to select from a variety of studio options, each providing the opportunity to build upon or augment some of those skills with new or more nuanced perspectives. All advanced synthesis studios are open to both years, the vertical integration offering enhanced learning opportunities.The content and focus of each studio is governed by faculty interests, which run the spectrum of architectural pursuits, ranging in scale from the design of a piece of furniture to a city and in approach from a comprehensive and complex building program to a critically-driven speculation. They may also be interdisciplinary in nature, taking advantage of the unique juxtapositions made possible at Carnegie Mellon.
+</end course description for 48-500 Advanced Synthesis Options Studio>

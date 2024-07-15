@@ -1,0 +1,16 @@
+<start course metadata for 21-599 Undergraduate Reading and Research>
+Semester: Fall 2023 (aka F23)
+Course Name: Undergraduate Reading and Research
+Course Number: 21-599
+Department: Mathematical Sciences
+Number of Units: N/A
+Prerequisites: None
+Instructors: Alan Frieze, Amzi Jeffs, Aristotelis Panagiotopoulos, Boris Bukh, David Offner, Elisa Bellah, Evan O'Dorney, Florian Frick, Giovanni Leoni, Ian Tice, Instructor TBA, Irina Gheorghiciuc, James Cummings, John Mackey, Nikos Kolliopoulos, Timothy Flaherty, Tomasz Tkocz, William Hrusa
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-599 Undergraduate Reading and Research>
+
+<start course description for 21-599 Undergraduate Reading and Research>
+Semester: Fall 2023 (aka F23)
+Course Description: Individual reading courses or projects in mathematics and its applications. Prerequisites and units to be negotiated with individual instructors.
+</end course description for 21-599 Undergraduate Reading and Research>

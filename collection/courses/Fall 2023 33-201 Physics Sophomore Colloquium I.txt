@@ -1,0 +1,16 @@
+<start course metadata for 33-201 Physics Sophomore Colloquium I>
+Semester: Fall 2023 (aka F23)
+Course Name: Physics Sophomore Colloquium I
+Course Number: 33-201
+Department: Physics
+Number of Units: 2
+Prerequisites: None
+Instructors: Gillian Ryan, Matthew Walker
+Rooms: BH A53
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 33-201 Physics Sophomore Colloquium I>
+
+<start course description for 33-201 Physics Sophomore Colloquium I>
+Semester: Fall 2023 (aka F23)
+Course Description: This course (together with 33-202) is designed to give students an overview of the field of Physics and to help students make knowledgeable choices in both their academic and professional careers. We discuss several of the subfields of Physics in order to give students an understanding of the types of activities, from research to industrial applications, in each. Over the two semesters, we typically discuss six subfields in some detail with the goal of providing a minimal literacy in the relevant concepts and language. The course consists of one classroom lecture per week plus one hour per week of reading and/or problem solving.
+</end course description for 33-201 Physics Sophomore Colloquium I>

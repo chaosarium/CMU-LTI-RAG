@@ -1,0 +1,16 @@
+<start course metadata for 04-650 Mathematical Foundations of Machine Learning>
+Semester: Fall 2023 (aka F23)
+Course Name: Mathematical Foundations of Machine Learning
+Course Number: 04-650
+Department: Information & Communication Technology
+Number of Units: 12
+Prerequisites: None
+Instructors: Moise Busogi
+Rooms: CMR F203
+Locations: Kigali, Rwanda
+</end course metadata for 04-650 Mathematical Foundations of Machine Learning>
+
+<start course description for 04-650 Mathematical Foundations of Machine Learning>
+Semester: Fall 2023 (aka F23)
+Course Description: The class reviews some of the math concepts on which most of machine learning models are built. The topics covered in this class include major concepts in linear algebra and analytic geometry (e.g., linear mapping, norms, distances, inner products, determinants and trace, eigenvectors and eigenvalues, matrix decomposition), vector calculus (e.g., differentiation, gradients), intro to probability and statistics (e.g., multivariate random variable, MLE, MAP, etc., ), and optimization theory if time permits (e.g., convex function, gradient-based optimization, constrained optimization, etc.). The homework will include a mix of math problems and some modest implementation in Python, or MATLAB.
+</end course description for 04-650 Mathematical Foundations of Machine Learning>

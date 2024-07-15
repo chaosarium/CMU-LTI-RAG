@@ -1,0 +1,16 @@
+<start course metadata for 14-817 Cyber Risk Modeling>
+Semester: Spring 2024 (aka S24)
+Course Name: Cyber Risk Modeling
+Course Number: 14-817
+Department: Information Networking Institute
+Number of Units: 12
+Prerequisites: None
+Instructors: Joanne Peca
+Rooms: B23 118; INI DEC
+Locations: Pittsburgh, Pennsylvania; San Jose, California
+</end course metadata for 14-817 Cyber Risk Modeling>
+
+<start course description for 14-817 Cyber Risk Modeling>
+Semester: Spring 2024 (aka S24)
+Course Description: There are too many cybersecurity risks to manage them all informally. You need a plan! Risk management and threat analysis are structured to craft better organizational security decisions. This course helps you learn how to prioritize risks, secure data assets, and to communicate your security knowledge. This is not a programming class but requires basic statistics (e.g. Monte Carlo analysis, which you will learn or review.) Major topics include: legal compliance, threat modeling, Mitre ATT&CK;, the Common Vulnerabilities and Exposures database, and popular risk frameworks (STRIDE, PASTA, NIST, etc.) Those seeking roles where they will work with or become a CSCO, risk officer, or risk analyst will most benefit from this course.
+</end course description for 14-817 Cyber Risk Modeling>

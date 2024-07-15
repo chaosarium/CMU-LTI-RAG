@@ -1,0 +1,16 @@
+<start course metadata for 69-154 Introduction to Springboard Diving>
+Semester: Spring 2024 (aka S24)
+Course Name: Introduction to Springboard Diving
+Course Number: 69-154
+Department: Physical Education
+Number of Units: 3
+Prerequisites: None
+Instructors: Alicia Gorman
+Rooms: CUC POOL
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 69-154 Introduction to Springboard Diving>
+
+<start course description for 69-154 Introduction to Springboard Diving>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is designed to introduce basic skills for 1m springboard diving.  Skills taught will be: approach,hurdle and back take off.  Students will work on five different dive groups.   Beginner to intermediate skill level recommended.
+</end course description for 69-154 Introduction to Springboard Diving>

@@ -1,0 +1,16 @@
+<start course metadata for 98-123 TBA>
+Semester: Fall 2023 (aka F23)
+Course Name: TBA
+Course Number: 98-123
+Department: StuCo (Student Led Courses)
+Number of Units: 3
+Prerequisites: None
+Instructors: Lillian Mei, Michelle Sung
+Rooms: WEH 5415
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 98-123 TBA>
+
+<start course description for 98-123 TBA>
+Semester: Fall 2023 (aka F23)
+Course Description: In this course, we will introduce you to the basics of hand lettering and modern brush calligraphy. Skills such as cursive, monoline lettering, faux calligraphy, brush lettering, shading, blending, and more will be developed with in class practice and projects. By the end of the course, you should be able to create lettering using a variety of materials. There are no prerequisites needed for this course; you do not need to have "good handwriting" to be able to do calligraphy. Everyone is welcome! COURSE FEE: $3 (This is used to purchase recommended supplies for students.)
+</end course description for 98-123 TBA>

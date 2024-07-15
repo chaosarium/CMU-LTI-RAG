@@ -1,0 +1,16 @@
+<start course metadata for 19-687 Managing Research, Development and Innovation>
+Semester: Fall 2023 (aka F23)
+Course Name: Managing Research, Development and Innovation
+Course Number: 19-687
+Department: Engineering & Public Policy
+Number of Units: 6
+Prerequisites: None
+Instructors: Michael Verti
+Rooms: GHC 5222
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 19-687 Managing Research, Development and Innovation>
+
+<start course description for 19-687 Managing Research, Development and Innovation>
+Semester: Fall 2023 (aka F23)
+Course Description: This course considers key issues and trade-off in R&D; strategy and organization, paying attention to dynamic competitive contexts where technology plays a key role.  These topics are treated assuming the perspective of the decision maker.  It addresses typical problems of large, medium and small firms having a structured R&D; and operating businesses where R&D; is the source of competitive advantages.  Although we will heavily focus on R&D;, emphasis is placed on viewing R&D; as a part (although, a key part) of the process of technological innovation; therefore, as an activity to be strongly and appropriately integrated with other functions to make innovation successful.
+</end course description for 19-687 Managing Research, Development and Innovation>

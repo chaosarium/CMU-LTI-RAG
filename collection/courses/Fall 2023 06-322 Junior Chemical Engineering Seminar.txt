@@ -1,0 +1,16 @@
+<start course metadata for 06-322 Junior Chemical Engineering Seminar>
+Semester: Fall 2023 (aka F23)
+Course Name: Junior Chemical Engineering Seminar
+Course Number: 06-322
+Department: Chemical Engineering
+Number of Units: 2
+Prerequisites: None
+Instructors: Chrysanthos Gounaris
+Rooms: DH 1112
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 06-322 Junior Chemical Engineering Seminar>
+
+<start course description for 06-322 Junior Chemical Engineering Seminar>
+Semester: Fall 2023 (aka F23)
+Course Description: This course discusses career choices for chemical engineers, professional practice, including alternate career paths, global industry, and graduate studies. It also emphasizes writing, interview skills, and oral presentations. Safety, environmental and ethical issues are illustrated in projects and via invited lectures.
+</end course description for 06-322 Junior Chemical Engineering Seminar>

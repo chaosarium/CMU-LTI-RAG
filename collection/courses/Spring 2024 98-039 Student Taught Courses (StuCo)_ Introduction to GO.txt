@@ -1,0 +1,16 @@
+<start course metadata for 98-039 Student Taught Courses (StuCo): Introduction to GO>
+Semester: Spring 2024 (aka S24)
+Course Name: Student Taught Courses (StuCo): Introduction to GO
+Course Number: 98-039
+Department: StuCo (Student Led Courses)
+Number of Units: 3
+Prerequisites: None
+Instructors: Zanzao Chen
+Rooms: POS 145
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 98-039 Student Taught Courses (StuCo): Introduction to GO>
+
+<start course description for 98-039 Student Taught Courses (StuCo): Introduction to GO>
+Semester: Spring 2024 (aka S24)
+Course Description: In this course, students will embark on a journey to explore the ancient and intellectually stimulating game of Go (also called Weiqi or Baduk). Students will enhance their skills in critical thinking, planning, adaptability, concentration, spatial awareness, and the art of decision-making in the face of complex tradeoffs. This course aims to equip students with the fundamental knowledge and skills to appreciate, play, and strategize in the world of Go. The instructional method for this course is primarily lecture, demonstration, and practice, with a blend of presentations, exercises, reviews, and hands-on gameplay.   No monetary fee is required for this course. Students will not need to buy textbooks, software, or physical stones/boards.
+</end course description for 98-039 Student Taught Courses (StuCo): Introduction to GO>

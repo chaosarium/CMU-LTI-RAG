@@ -1,0 +1,16 @@
+<start course metadata for 46-893 Operations and Supply Chain Analytics>
+Semester: Spring 2024 (aka S24)
+Course Name: Operations and Supply Chain Analytics
+Course Number: 46-893
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Shubham Akshat
+Rooms: CMU REMOTE
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 46-893 Operations and Supply Chain Analytics>
+
+<start course description for 46-893 Operations and Supply Chain Analytics>
+Semester: Spring 2024 (aka S24)
+Course Description: Operations and supply chain analytics is concerned with the development and application to data of business analytics tools to support high-impact strategic, tactical, and operational decisions within both manufacturing and service firms. Topics include supply chain design, demand forecasting, inventory planning, sales and operational planning, revenue management, staffing in service organizations, and healthcare management. The underlying feature in these applications is managing the risk that arises from supply and demand mismatches with the goal of maximizing enterprise value. The course emphasizes how sophisticated and holistic implementation of the operations and supply chain analytics toolbox, integrating descriptive, predictive and prescriptive analytics techniques, can be an essential lever to increase or sustain a firm's competitive advantage.
+</end course description for 46-893 Operations and Supply Chain Analytics>

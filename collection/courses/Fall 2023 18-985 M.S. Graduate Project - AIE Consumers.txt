@@ -1,0 +1,16 @@
+<start course metadata for 18-985 M.S. Graduate Project - AIE Consumers>
+Semester: Fall 2023 (aka F23)
+Course Name: M.S. Graduate Project - AIE Consumers
+Course Number: 18-985
+Department: Electrical & Computer Engineering
+Number of Units: N/A
+Prerequisites: None
+Instructors: James Bain
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-985 M.S. Graduate Project - AIE Consumers>
+
+<start course description for 18-985 M.S. Graduate Project - AIE Consumers>
+Semester: Fall 2023 (aka F23)
+Course Description: The Department of Electrical and Computer Engineering at Carnegie Mellon considers experiential learning opportunities to be important educational options for its graduate students. One such option is conducting graduate research with a faculty member. An ECE graduate student in the AIE program may request to be enrolled in this course if their research project is approved under the "Consumers" category. To enroll, the student should first complete the online application for their project on the ECE Student Project Tracker website. Once the application has been submitted and approved by the faculty member with whom the student is conducting the research, the ECE Advising Team will add the course to the student's schedule. Typically, credit is granted such that one hour of research per week is equal to one unit of credit. Projects approved for the "Consumers" category may not satisfy "Enablers" or "Producers" requirements.
+</end course description for 18-985 M.S. Graduate Project - AIE Consumers>

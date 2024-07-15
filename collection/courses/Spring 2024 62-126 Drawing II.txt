@@ -1,0 +1,16 @@
+<start course metadata for 62-126 Drawing II>
+Semester: Spring 2024 (aka S24)
+Course Name: Drawing II
+Course Number: 62-126
+Department: CFA Interdisciplinary
+Number of Units: 6
+Prerequisites: 62-125
+Instructors: Douglas Cooper
+Rooms: CFA 214
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 62-126 Drawing II>
+
+<start course description for 62-126 Drawing II>
+Semester: Spring 2024 (aka S24)
+Course Description: The central learning objective of Drawing II is building a capacity for visualizing three-dimensional space through freehand drawing.  It has two secondary objectives: using line, tone and color to represent architectural space and architectural proposals.  The course has four parts 1) free-hand and constructed perspective, 2) shade and shadow and chiaroscuro drawing in charcoal and colored pencil, 3) color drawing in pastel.  4) a final project combining freehand drawing, color work in Photoshop and a 3D digital model. Prerequisite: 62-125 or permission of the instructor.
+</end course description for 62-126 Drawing II>

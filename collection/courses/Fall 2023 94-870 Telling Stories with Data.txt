@@ -1,0 +1,16 @@
+<start course metadata for 94-870 Telling Stories with Data>
+Semester: Fall 2023 (aka F23)
+Course Name: Telling Stories with Data
+Course Number: 94-870
+Department: Heinz College Wide Courses
+Number of Units: 6
+Prerequisites: None
+Instructors: Christopher Goranson
+Rooms: HBH 1006; HBH 1007; HBH 1202; HBH 2009
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 94-870 Telling Stories with Data>
+
+<start course description for 94-870 Telling Stories with Data>
+Semester: Fall 2023 (aka F23)
+Course Description: Data are everywhere.  For policy makers, the ability to tell the right story using data can make the difference between a successful initiative and one that fails.  Part art, part science, visualizing data is a process that is both well established in existing disciplines and experimental and rapidly changing in others.  In this course we'll explore both ends of the spectrum as we deconstruct and reconstruct data visualizations, dig into our own stories informed by data in compelling ways to help our readers understand complex issues, and experiment with new ways to represent data about our work, our community, and even ourselves.  This course will provide hands-on training and experimentation with a number of tools, and students will have some flexibility to concentrate on mediums that best match their desired outcomes for a final project deliverable (print, digital, interactive or immersive). By the end of this course, students will have developed a portfolio of work, skills in a number of different tools and applied techniques, and a more thorough understanding of how to communicate through presentation and data design.  Students will be able to immediately apply what they've learned to both other coursework as well as on-the-job needs.
+</end course description for 94-870 Telling Stories with Data>

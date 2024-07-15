@@ -1,0 +1,16 @@
+<start course metadata for 57-518 Major Studio (Euphonium/Baritone)>
+Semester: Spring 2024 (aka S24)
+Course Name: Major Studio (Euphonium/Baritone)
+Course Number: 57-518
+Department: Music
+Number of Units: 9
+Prerequisites: None
+Instructors: Hiram Diaz
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-518 Major Studio (Euphonium/Baritone)>
+
+<start course description for 57-518 Major Studio (Euphonium/Baritone)>
+Semester: Spring 2024 (aka S24)
+Course Description: A one hour private lesson per week for all music majors.
+</end course description for 57-518 Major Studio (Euphonium/Baritone)>

@@ -1,0 +1,16 @@
+<start course metadata for 51-601 MA Seminar I: Design Minds>
+Semester: Fall 2023 (aka F23)
+Course Name: MA Seminar I: Design Minds
+Course Number: 51-601
+Department: Design
+Number of Units: 12
+Prerequisites: None
+Instructors: Jonathan Chapman
+Rooms: MM 107
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-601 MA Seminar I: Design Minds>
+
+<start course description for 51-601 MA Seminar I: Design Minds>
+Semester: Fall 2023 (aka F23)
+Course Description: A well-developed design mind is elastic, effortlessly stretching and flexing to unlock problems, shape solutions, and drive change. This seminar course aims to develop your mental agility, introduce you to powerful processes and methods, and expand your capacity to reflect deeply and critically upon the world. In turn, this vital "inner work" strives to advance your capabilities as a reflective, visionary, and transformational designer. Indeed, just as we might speak of mastering tools like craft knives, drawing pens, or CAD software, the mind itself may be understood as a "tool"¿one that must be used well, carefully maintained, and continually refined if positive design outcomes are to be achieved.
+</end course description for 51-601 MA Seminar I: Design Minds>

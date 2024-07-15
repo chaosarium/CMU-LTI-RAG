@@ -1,0 +1,16 @@
+<start course metadata for 95-775 IT Business Leadership>
+Semester: Fall 2023 (aka F23)
+Course Name: IT Business Leadership
+Course Number: 95-775
+Department: Information Systems:Sch of IS & Mgt
+Number of Units: 6
+Prerequisites: None
+Instructors: Ryan Smalley
+Rooms: HBH 1004
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 95-775 IT Business Leadership>
+
+<start course description for 95-775 IT Business Leadership>
+Semester: Fall 2023 (aka F23)
+Course Description: Can leadership be taught within the classroom? Can one lead without speaking? What are the differences, if any, between leadership and management? These questions and others are addressed using an eclectic mix of in-class exercises, guest lecturer presentations, and personal story-sharing. We will examine the concepts of initiative, integrity, power, control, and authority.  In today's business world, the ability to work within - and lead - groups of all sizes becomes a prime requisite for success at the managerial and executive level. Business and technical acumen is the entry fee to professional success; the ability to lead is distinguishing.  This is an open discussion course wherein students are required to share their own stories as they listen to those of their peers.  Numerous studies have identified only one trait shared by all successful leaders: failure. By sharing our failures, and being exposed to the challenges our peers and guest lecturers have faced, we learn about leadership, small group social dynamics, and ourselves.
+</end course description for 95-775 IT Business Leadership>

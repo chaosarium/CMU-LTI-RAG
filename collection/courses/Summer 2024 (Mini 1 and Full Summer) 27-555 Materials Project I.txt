@@ -1,0 +1,16 @@
+<start course metadata for 27-555 Materials Project I>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Materials Project I
+Course Number: 27-555
+Department: Materials Science & Engineering
+Number of Units: N/A
+Prerequisites: None
+Instructors: Paige Houser
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 27-555 Materials Project I>
+
+<start course description for 27-555 Materials Project I>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: This course is designed to give experience in individualized research under the guidance of a faculty member.  The topic is selected by mutual agreement, and will give the student a chance to study the literature, design experiments, interpret the results and present the conclusions orally and in writing.
+</end course description for 27-555 Materials Project I>

@@ -1,0 +1,16 @@
+<start course metadata for 27-454 Supervised Reading>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Supervised Reading
+Course Number: 27-454
+Department: Materials Science & Engineering
+Number of Units: N/A
+Prerequisites: None
+Instructors: Paige Houser
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 27-454 Supervised Reading>
+
+<start course description for 27-454 Supervised Reading>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: This course provides the opportunity for a detailed study of the literature on some subject under the guidance of a faculty member, usually but not necessarily in preparation for the Capstone Course, 27-401/402.
+</end course description for 27-454 Supervised Reading>

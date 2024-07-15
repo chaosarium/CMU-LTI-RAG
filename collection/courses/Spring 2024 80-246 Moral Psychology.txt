@@ -1,0 +1,16 @@
+<start course metadata for 80-246 Moral Psychology>
+Semester: Spring 2024 (aka S24)
+Course Name: Moral Psychology
+Course Number: 80-246
+Department: Philosophy
+Number of Units: 9
+Prerequisites: None
+Instructors: Laura Gradowski
+Rooms: BH 145C
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 80-246 Moral Psychology>
+
+<start course description for 80-246 Moral Psychology>
+Semester: Spring 2024 (aka S24)
+Course Description: In this course you will read cutting-edge scientific work on morality and you will learn to interpret it in light of recent lessons from biology and computer science. This course will also introduce you to distinctions that philosophers have found useful for moral-psychological and meta-ethical theorizing. Topics that we may discuss include: the psychology of normative ethics; moral emotions (e.g., disgust, guilt, shame, pride, etc.); the origins of morality in human and nonhuman animals; moral development in babies and children; the role of moral judgment in folk theorizing; and mathematical models of morality inspired by insights from machine learning. However, this course is exploratory and designed to be open-ended. I hope and expect that students will help to determine what we read and discuss.
+</end course description for 80-246 Moral Psychology>

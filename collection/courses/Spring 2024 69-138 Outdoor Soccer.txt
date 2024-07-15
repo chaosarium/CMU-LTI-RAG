@@ -1,0 +1,16 @@
+<start course metadata for 69-138 Outdoor Soccer>
+Semester: Spring 2024 (aka S24)
+Course Name: Outdoor Soccer
+Course Number: 69-138
+Department: Physical Education
+Number of Units: 3
+Prerequisites: None
+Instructors: Christopher Moraga
+Rooms: GES SOCCER
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 69-138 Outdoor Soccer>
+
+<start course description for 69-138 Outdoor Soccer>
+Semester: Spring 2024 (aka S24)
+Course Description: Outdoor soccer class for those with average to above average soccer experience.  Format will consist of brief technical warm-up followed by small sided and full field soccer games.
+</end course description for 69-138 Outdoor Soccer>

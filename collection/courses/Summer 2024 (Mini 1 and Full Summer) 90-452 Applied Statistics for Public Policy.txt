@@ -1,0 +1,16 @@
+<start course metadata for 90-452 Applied Statistics for Public Policy>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Applied Statistics for Public Policy
+Course Number: 90-452
+Department: Public Policy & Mgt:Sch of Pub Pol & Mgt
+Number of Units: 9
+Prerequisites: None
+Instructors: Instructor TBA
+Rooms: HBH 1007
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 90-452 Applied Statistics for Public Policy>
+
+<start course description for 90-452 Applied Statistics for Public Policy>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: This is an introductory course in the statistical methods most useful for public policy analysis. It is designed for students with very little to no background in statistics. The course objective is to provide students with the basic tools for analyzing data and outcomes. The course will focus on the application of these skills in policy and management settings. Topics include probability, expected value, normal distributions, hypothesis testing, and an introduction to linear regression, plus special topics in the final week determined by student interest.
+</end course description for 90-452 Applied Statistics for Public Policy>

@@ -1,0 +1,16 @@
+<start course metadata for 90-896 Policy Topics: Sustainable Development>
+Semester: Fall 2023 (aka F23)
+Course Name: Policy Topics: Sustainable Development
+Course Number: 90-896
+Department: Public Policy & Mgt:Sch of Pub Pol & Mgt
+Number of Units: 6
+Prerequisites: None
+Instructors: Ryan McCannell
+Rooms: 
+Locations: Washington, District of Columbia
+</end course metadata for 90-896 Policy Topics: Sustainable Development>
+
+<start course description for 90-896 Policy Topics: Sustainable Development>
+Semester: Fall 2023 (aka F23)
+Course Description: In September 2015, the United Nations General Assembly approved The 2030 Agenda for Sustainable Development, which establish an ambitious set of goals for achieving development progress in a prescribed time frame. The Sustainable Development Goals (SDGs) represent the latest effort by the international community to encourage and facilitate broad-based progress across multiple sectors in individual countries.  The SDGs reflect an optimist's perspective regarding international development. Optimists highlight the tremendous progress in improving the quality of human life that has been made during the past 200 years, and in particular since the end of World War II. Building on this record, achieving the SDGs will mark a notable step forward in addressing the most serious inequities that exist across the globe, including extreme poverty, food insecurity, illiteracy, and inadequate health care. SDGs aside, pessimists worry about the enormous challenges currently confronting the international community. They note that by 2050 global population will reach 9.6 billion people. To feed an increasingly affluent number of people, we will need 70 percent more food production and a doubling of available water and arable land, which will come at the expense of existing natural systems. The availability of these essential inputs is further complicated by the reality that the planet is undergoing vast biological and physical changes due to climate change and environmental degradation. Human communities are changing as well. More than 50 percent of the world's population live in urban areas and 75 percent of the world's largest cities will be found in the developing world over the next few decades. These mega-urban areas create their own challenges from the spread of pandemic diseases, to sanitation, to energy needs. Please see the Heinz College course catalog for the more:  https://api.heinz.cmu.edu/courses_api/course_detail/90-896
+</end course description for 90-896 Policy Topics: Sustainable Development>

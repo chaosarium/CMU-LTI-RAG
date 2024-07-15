@@ -1,0 +1,16 @@
+<start course metadata for 18-452 Wireless Networking and Applications>
+Semester: Spring 2024 (aka S24)
+Course Name: Wireless Networking and Applications
+Course Number: 18-452
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: 18-213 or 18-613 or 15-213
+Instructors: Peter Steenkiste
+Rooms: WEH 5302
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-452 Wireless Networking and Applications>
+
+<start course description for 18-452 Wireless Networking and Applications>
+Semester: Spring 2024 (aka S24)
+Course Description: This course introduces fundamental concepts of wireless networks.  The design of wireless networks is influenced heavily by how signals travel through space, so the course starts with an introduction to the wireless physical layer, presented in a way that is accessible to a broad range of students. The focus of the course is on wireless MAC concepts including CSMA, TDMA/FDMA, and CDMA.  It also covers a broad range of wireless networking standards, and reviews important wireless network application areas (e.g., sensor networks, vehicular) and other applications of wireless technologies (e.g., GPS, RFID, sensing, etc.).   Finally, we will touch on public policy issues, e.g., as related to spectrum use. The course will specifically cover:   Wireless networking challenges  Wireless communication overview  Wireless MAC concepts   Overview of cellular standards and LTE   Overview of wireless MAC protocols WiFi, bluetooth and personal area networks, etc.  Wireless in today's Internet: TCP over wireless, mobility, security, etc.  Advanced topics, e.g., mesh and vehicular networks, sensor networks, DTNs, localization, sensing, etc. Although students in 18-750 will share Lectures and Recitations with students in 18-452, they will receive distinct homework assignments and exams from students in 18-452.  The main project will also be different.  The students in the two versions of the course will also be graded on a separate curve.
+</end course description for 18-452 Wireless Networking and Applications>

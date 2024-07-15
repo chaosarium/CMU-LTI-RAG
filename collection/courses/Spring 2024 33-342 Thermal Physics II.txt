@@ -1,0 +1,16 @@
+<start course metadata for 33-342 Thermal Physics II>
+Semester: Spring 2024 (aka S24)
+Course Name: Thermal Physics II
+Course Number: 33-342
+Department: Physics
+Number of Units: 10
+Prerequisites: 33-341
+Instructors: Shiladitya Banerjee
+Rooms: WEH 4709; WEH 7316
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 33-342 Thermal Physics II>
+
+<start course description for 33-342 Thermal Physics II>
+Semester: Spring 2024 (aka S24)
+Course Description: This course begins with a more systematic development of formal probability theory, with emphasis on generating functions, probability density functions and asymptotic approximations. Examples are taken from games of chance, geometric probabilities and radioactive decay. The connections between the ensembles of statistical mechanics (microcanonical, canonical and grand canonical) with the various thermodynamic potentials is developed for single component and multicomponent systems. Fermi-Dirac and Bose-Einstein statistics are reviewed. These principles are then applied to applications such as electronic specific heats, Einstein condensation, chemical reactions, phase transformations, mean field theories, binary phase diagrams, paramagnetism, ferromagnetism, defects, semiconductors and fluctuation phenomena.  This course is offered in Spring of odd years (e.g. Spring '23, '25, etc.)
+</end course description for 33-342 Thermal Physics II>

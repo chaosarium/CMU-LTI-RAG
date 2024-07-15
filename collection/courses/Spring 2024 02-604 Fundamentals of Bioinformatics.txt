@@ -1,0 +1,16 @@
+<start course metadata for 02-604 Fundamentals of Bioinformatics>
+Semester: Spring 2024 (aka S24)
+Course Name: Fundamentals of Bioinformatics
+Course Number: 02-604
+Department: Computational Biology
+Number of Units: 12
+Prerequisites: None
+Instructors: Phillip Compeau
+Rooms: DH 1212
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 02-604 Fundamentals of Bioinformatics>
+
+<start course description for 02-604 Fundamentals of Bioinformatics>
+Semester: Spring 2024 (aka S24)
+Course Description: How do we find potentially harmful mutations in your genome? How can we reconstruct the Tree of Life? How do we compare similar genes from different species? These are just three of the many central questions of modern biology that can only be answered using computational approaches. This 12-unit course will delve into some of the fundamental computational ideas used in biology and let students apply existing resources that are used in practice every day by thousands of biologists. The course offers an opportunity for students who possess an introductory programming background to become more experienced coders within a biological setting. As such, it presents a natural next course for students who have completed 02-601.
+</end course description for 02-604 Fundamentals of Bioinformatics>

@@ -1,0 +1,16 @@
+<start course metadata for 84-722 Comparative Political Institutions Graduate Seminar>
+Semester: Fall 2023 (aka F23)
+Course Name: Comparative Political Institutions Graduate Seminar
+Course Number: 84-722
+Department: Institute for Politics and Strategy
+Number of Units: 12
+Prerequisites: None
+Instructors: Ignacio Arana
+Rooms: PH 125D
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 84-722 Comparative Political Institutions Graduate Seminar>
+
+<start course description for 84-722 Comparative Political Institutions Graduate Seminar>
+Semester: Fall 2023 (aka F23)
+Course Description: This course examines the foundations of the comparative analysis of political institutions, analyzes how institutions vary across countries, and explores some of the main consequences of such variation. The first section introduces the analysis of institutions, discusses the predominant theories that address institutional variation and change, and presents the development of modern state institutions. The second segment discusses how relevant political institutions differ worldwide, including regime types (democracies versus nondemocracies), forms of democratic regime (presidential and parliamentary systems), constitutions, electoral rules, legislatures, political parties, informal institutions, veto players, federalisms, and judicial institutions. The third section centers on the consequences of political institutions, with an emphasis on the analysis of empirical evidence from developing and developed countries. A primary concern throughout the course is how the potential endogeneity among institutions affects our capacity to achieve reliable inferences. Methodologically, this course mainly builds on the rational choice school, but also integrates other perspectives.
+</end course description for 84-722 Comparative Political Institutions Graduate Seminar>

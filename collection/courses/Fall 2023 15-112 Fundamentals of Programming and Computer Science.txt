@@ -1,0 +1,16 @@
+<start course metadata for 15-112 Fundamentals of Programming and Computer Science>
+Semester: Fall 2023 (aka F23)
+Course Name: Fundamentals of Programming and Computer Science
+Course Number: 15-112
+Department: Computer Science
+Number of Units: 12
+Prerequisites: None
+Instructors: Michael Taylor, Patrick Virtue
+Rooms: CUC MCCNMY; DH 2210
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-112 Fundamentals of Programming and Computer Science>
+
+<start course description for 15-112 Fundamentals of Programming and Computer Science>
+Semester: Fall 2023 (aka F23)
+Course Description: A technical introduction to the fundamentals of programming with an emphasis  on producing clear, robust, and reasonably efficient code using top-down  design, informal analysis, and effective testing and debugging. Starting  from first principles, we will cover a large subset of the Python  programming language, including its standard libraries and programming  paradigms.  We will also target numerous deployment scenarios, including  standalone programs, shell scripts, and web-based applications.  This course assumes no prior programming experience. Even so, it is a  fast-paced and rigorous preparation for 15-122.  Students seeking a more  gentle introduction to computer science should consider first taking 15-110.    NOTE: students must achieve a C or better in order to use   this course to satisfy the pre-requisite for any subsequent Computer   Science course.
+</end course description for 15-112 Fundamentals of Programming and Computer Science>

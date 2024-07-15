@@ -1,0 +1,16 @@
+<start course metadata for 15-386 Neural Computation>
+Semester: Spring 2024 (aka S24)
+Course Name: Neural Computation
+Course Number: 15-386
+Department: Computer Science
+Number of Units: 9
+Prerequisites: (15-112 or 15-122) and (21-122)
+Instructors: Tai-Sing Lee
+Rooms: HH B131
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-386 Neural Computation>
+
+<start course description for 15-386 Neural Computation>
+Semester: Spring 2024 (aka S24)
+Course Description: Computational neuroscience is an interdisciplinary science that seeks to understand how the brain computes  to achieve  natural intelligence.  It seeks to understand the computational principles and mechanisms of intelligent behaviors and mental abilities -- such as perception, language, motor control, and learning -- by building artificial systems and computational models with the same capabilities. This course explores how neurons encode and process information, adapt and learn, communicate, cooperate, compete and compute at the individual level as well as at the levels of networks and systems. It will introduce basic concepts in computational modeling, information theory, signal processing, system analysis, statistical and probabilistic inference. Concrete examples will be drawn from the visual system and the motor systems,  and studied from computational, psychological and biological perspectives. Students will learn to perform computational experiments using Matlab and quantitative studies of neurons and neuronal networks.
+</end course description for 15-386 Neural Computation>

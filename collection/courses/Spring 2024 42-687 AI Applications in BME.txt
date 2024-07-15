@@ -1,0 +1,16 @@
+<start course metadata for 42-687 AI Applications in BME>
+Semester: Spring 2024 (aka S24)
+Course Name: AI Applications in BME
+Course Number: 42-687
+Department: Biomedical Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Patjanaporn Chalacheva
+Rooms: BH 255A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 42-687 AI Applications in BME>
+
+<start course description for 42-687 AI Applications in BME>
+Semester: Spring 2024 (aka S24)
+Course Description: This course provides hands-on experience in applying the fundamentals of artificial intelligence/machine learning (AI/ML) to problems in a variety of biomedical research areas and applications. Students will work in teams to design, develop, and evaluate an AI/ML system to achieve one or more of the following goals: identifying patterns in the data, modeling the input-output relationships and/or classifying data into distinct categories. The datasets for this course will be drawn from different BME-related areas provided by biomedical researchers, clinicians, and other publicly available sources. In addition to the project work, the course will discuss issues that are specific to the development and implementation of AI algorithms in medical settings. This includes FDA approval, human clinical trials, the Health Insurance Portability and Accountability Act, and medical ethics. This computational project-based course is available to any student who has completed  Introduction to Machine Learning course.
+</end course description for 42-687 AI Applications in BME>

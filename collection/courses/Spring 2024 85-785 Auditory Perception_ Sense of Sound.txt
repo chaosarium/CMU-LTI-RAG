@@ -1,0 +1,16 @@
+<start course metadata for 85-785 Auditory Perception: Sense of Sound>
+Semester: Spring 2024 (aka S24)
+Course Name: Auditory Perception: Sense of Sound
+Course Number: 85-785
+Department: Psychology
+Number of Units: N/A
+Prerequisites: None
+Instructors: Laurie Heller
+Rooms: BH 340A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 85-785 Auditory Perception: Sense of Sound>
+
+<start course description for 85-785 Auditory Perception: Sense of Sound>
+Semester: Spring 2024 (aka S24)
+Course Description: This course explores how our sense of hearing allows us to interact with the world. Students will learn about basic principles of sound, spatial sound, sound quality, hearing impairment, auditory perception, interactions with other modalities, and auditory cognition. Topics may also include musical acoustics, basic auditory physiology, sound-semantic associations, acoustic analysis, and sound-making gestures. We will consider not only simple laboratory-generated signals, but also more complex sounds such as those in our everyday environment, as well music and speech. Students will gain some in-class experience with generating sounds and analytic listening.  After students reach a sophisticated level of understanding of the auditory fundamentals, they will apply their knowledge to the study of several current issues in auditory research.
+</end course description for 85-785 Auditory Perception: Sense of Sound>

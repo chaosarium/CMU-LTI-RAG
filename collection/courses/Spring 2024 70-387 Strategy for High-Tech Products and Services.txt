@@ -1,0 +1,16 @@
+<start course metadata for 70-387 Strategy for High-Tech Products and Services>
+Semester: Spring 2024 (aka S24)
+Course Name: Strategy for High-Tech Products and Services
+Course Number: 70-387
+Department: Business Administration
+Number of Units: 9
+Prerequisites: None
+Instructors: Hussein Fadlallah
+Rooms: CMB 1199
+Locations: Doha, Qatar
+</end course metadata for 70-387 Strategy for High-Tech Products and Services>
+
+<start course description for 70-387 Strategy for High-Tech Products and Services>
+Semester: Spring 2024 (aka S24)
+Course Description: This course will focus on the strategies of technology-based products and services. We will examine how technology products/services differ from non-technology-based products and how the unique attributes of high-technology products/services influence the marketing strategies and tactics of those products. We will cover issues such pricing of technology products/services including versioning, bundling and dynamic pricing; the impact of network effects within product markets; competition in technology-focused product arenas; the design, launch and governance of platform markets. Examples of technology-intensive industries that we will discuss are computer hardware and software, media and entertainment, telecommunications, e-commerce, and the sharing economy. Students explore the unique economic circumstances facing firms in these industries and identify strategies that enable firms to succeed given these circumstances. This course is ideal for students who want to pursue a career as a product manager for a technology company.  This course helps students understand the unique economic characteristics seen in today's technology-intensive markets and how they impact the strategic interactions among firms and consumers.  In order for students to understand how firms strategically interact in technology-intensive industries this course will use a combination of simple but rigorous analytical models, emerging theories, and formal case studies.
+</end course description for 70-387 Strategy for High-Tech Products and Services>

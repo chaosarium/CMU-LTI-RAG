@@ -1,0 +1,16 @@
+<start course metadata for 33-231 Physical Analysis>
+Semester: Fall 2023 (aka F23)
+Course Name: Physical Analysis
+Course Number: 33-231
+Department: Physics
+Number of Units: 10
+Prerequisites: (21-122) and (33-142 or 33-122 or 33-152)
+Instructors: Roy Briere
+Rooms: GHC 4307; SH 234
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 33-231 Physical Analysis>
+
+<start course description for 33-231 Physical Analysis>
+Semester: Fall 2023 (aka F23)
+Course Description: This course aims to develop analytical skills and mathematical modeling  skills across a broad spectrum of physical phenomena, stressing analogies in  behavior of a wide variety of systems. Specific topics include dimensional  analysis and scaling in physical phenomena, exponential growth and decay, the harmonic oscillator with damping and driving forces, linear approximations of nonlinear systems, coupled oscillators, and wave motion. Necessary mathematical techniques, including differential equations, complex exponential functions, matrix algebra, and Taylor series, are introduced as needed.
+</end course description for 33-231 Physical Analysis>

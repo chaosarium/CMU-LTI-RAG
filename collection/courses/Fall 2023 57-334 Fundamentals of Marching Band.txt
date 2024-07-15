@@ -1,0 +1,16 @@
+<start course metadata for 57-334 Fundamentals of Marching Band>
+Semester: Fall 2023 (aka F23)
+Course Name: Fundamentals of Marching Band
+Course Number: 57-334
+Department: Music
+Number of Units: 3
+Prerequisites: None
+Instructors: Paul Gerlach
+Rooms: HOA 224
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-334 Fundamentals of Marching Band>
+
+<start course description for 57-334 Fundamentals of Marching Band>
+Semester: Fall 2023 (aka F23)
+Course Description: A marching band, due to its visibility and high degree of student involvement, is an integral part of secondary school music programs. The well-schooled music education graduate must have knowledge of this unique form of music performance. This course, designed primarily for those seeking a career in teaching, will accommodate students with no experience and others who have participated in marching band. Among the many areas of concentration will be: philosophy, show charting, marching fundamentals and commands, logistical awareness, and budget formulation. Observation of and active assistance with Carnegie Mellon Kiltie Band will be part of the course content.
+</end course description for 57-334 Fundamentals of Marching Band>

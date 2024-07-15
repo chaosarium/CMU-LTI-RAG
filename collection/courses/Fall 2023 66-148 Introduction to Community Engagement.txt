@@ -1,0 +1,16 @@
+<start course metadata for 66-148 Introduction to Community Engagement>
+Semester: Fall 2023 (aka F23)
+Course Name: Introduction to Community Engagement
+Course Number: 66-148
+Department: Dietrich College Interdisciplinary
+Number of Units: 3
+Prerequisites: None
+Instructors: Kimberly Piatt
+Rooms: PH 125D
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 66-148 Introduction to Community Engagement>
+
+<start course description for 66-148 Introduction to Community Engagement>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is designed to prepare students to actively and thoughtfully engage in their community. Students will evaluate various models for community engagement and community-based leadership and examine ethical and social justice issues related to college and university involvement in the community. Through course discussions and direct engagement with community leaders, students will develop the ability to consider multiple perspectives, demonstrate cultural humility and critically reflect to make meaning from experiences. Students will create a plan to infuse community engagement into their academic journey that aligns with their values. This is part of the Dietrich College Community Engagement Fellowship and is only open to students that have been accepted into the program.
+</end course description for 66-148 Introduction to Community Engagement>

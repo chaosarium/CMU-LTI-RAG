@@ -1,0 +1,16 @@
+<start course metadata for 82-373 Structure of the Japanese Language>
+Semester: Fall 2023 (aka F23)
+Course Name: Structure of the Japanese Language
+Course Number: 82-373
+Department: Modern Languages
+Number of Units: 9
+Prerequisites: 82-272
+Instructors: Yasufumi Iwasaki
+Rooms: WEH 4707
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 82-373 Structure of the Japanese Language>
+
+<start course description for 82-373 Structure of the Japanese Language>
+Semester: Fall 2023 (aka F23)
+Course Description: This course examines the basic Japanese grammar covered in elementary and intermediate Japanese courses by comparison with English and aids students in systematizing their knowledge of Japanese and in deepening their understanding of Japanese culture (i.e., cultural ways of thinking underlying Japanese verbal behaviors). After a brief discussion of the overall typological differences between the two languages and an initial training to analyze them cross-linguistically, it deals with specific areas of grammar that exhibit pervasive structural and semantic differences and serve as exercises for cross-linguistic analysis. On the basis of the discussions and exercises in class, students gather and analyze relevant Japanese data for their project, which facilitates their understanding of the grammar points and cultural ways of thinking in question, and develops their analytical skills. This course is taught in Japanese. A student with prior experience in Japanese must take the placement exam.
+</end course description for 82-373 Structure of the Japanese Language>

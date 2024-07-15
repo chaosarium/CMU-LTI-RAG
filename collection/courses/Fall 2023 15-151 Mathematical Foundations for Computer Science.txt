@@ -1,0 +1,16 @@
+<start course metadata for 15-151 Mathematical Foundations for Computer Science>
+Semester: Fall 2023 (aka F23)
+Course Name: Mathematical Foundations for Computer Science
+Course Number: 15-151
+Department: Computer Science
+Number of Units: 12
+Prerequisites: 21-120
+Instructors: John Mackey
+Rooms: GHC 4401
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-151 Mathematical Foundations for Computer Science>
+
+<start course description for 15-151 Mathematical Foundations for Computer Science>
+Semester: Fall 2023 (aka F23)
+Course Description: *CS majors only* This course is offered to incoming Computer Science freshmen and focuses on the fundamental concepts in Mathematics that are of particular interest to Computer Science such as logic, sets,induction, functions, and combinatorics. These topics are used as a context in which students learn to formalize arguments using the methods of mathematical proof.  This course uses experimentation and collaboration as ways to gain better understanding of the material.  Open to CS freshmen only. NOTE: students must achieve a C or better in order to use this course to satisfy the pre-requisite for any subsequent Computer Science course.
+</end course description for 15-151 Mathematical Foundations for Computer Science>

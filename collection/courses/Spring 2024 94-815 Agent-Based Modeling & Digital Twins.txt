@@ -1,0 +1,16 @@
+<start course metadata for 94-815 Agent-Based Modeling & Digital Twins>
+Semester: Spring 2024 (aka S24)
+Course Name: Agent-Based Modeling & Digital Twins
+Course Number: 94-815
+Department: Heinz College Wide Courses
+Number of Units: 6
+Prerequisites: None
+Instructors: Anand Rao
+Rooms: HBH 1006
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 94-815 Agent-Based Modeling & Digital Twins>
+
+<start course description for 94-815 Agent-Based Modeling & Digital Twins>
+Semester: Spring 2024 (aka S24)
+Course Description:  Pre-Requisites:  PPM-side students: 90-812, 90-819 OR 95-888 AND  90-722 AND 90-760 MISM-side students: 95-888 AND 95-760     Agent-based Modeling and Digital Twins offers a comprehensive dive into the world of system thinking, enabling students to discern when and how to deploy agent-based simulations and digital twins as effective solutions. Drawing from real-world scientific, social, and business challenges, participants will master the art of designing, constructing, and simulating intricate agent-based models. They will also gain proficiency in bridging the gap between the physical and digital worlds, creating digital twins that can be calibrated, monitored, and utilized to evaluate policy decisions, model behavioral interventions, and understand human behaviors.  Beyond foundational knowledge, this course extends its reach to practical applications, guiding students in harnessing the power of agent-based models across diverse sectors. From manufacturing to healthcare, automotive to aviation, and utilities to agriculture, participants will discover the transformative potential of digital twins. Students will develop specific use cases of digital twins in these industry sectors. As we delve deeper, the course will also explore the cutting-edge realm of generative agents, focusing on those employing LLMs. These agents, capable of logical reasoning, planning, optimization, and executing goal-driven tasks, represent the future of agent-based modeling.  The course provides hands-on exposure to a suite of tools, both open-source and proprietary. Students will familiarize themselves with platforms like Netlogo, Mesa, Meson, and the advanced capabilities of tools such as AnyLogic, NVIDIA Omniverse Digital Twins, and Microsoft's AutoGen. Industry scenarios and guest lectures will bring the real-world application of these technologies to the students.
+</end course description for 94-815 Agent-Based Modeling & Digital Twins>

@@ -1,0 +1,16 @@
+<start course metadata for 51-956 Progress Reviews IV>
+Semester: Spring 2024 (aka S24)
+Course Name: Progress Reviews IV
+Course Number: 51-956
+Department: Design
+Number of Units: 0
+Prerequisites: None
+Instructors: Jonathan Chapman
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-956 Progress Reviews IV>
+
+<start course description for 51-956 Progress Reviews IV>
+Semester: Spring 2024 (aka S24)
+Course Description: Design Doctoral students present and discuss their thesis progress to date.
+</end course description for 51-956 Progress Reviews IV>

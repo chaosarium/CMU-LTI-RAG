@@ -1,0 +1,16 @@
+<start course metadata for 16-886 Special Topics: Models & Algorithms for Interactive Robotics>
+Semester: Spring 2024 (aka S24)
+Course Name: Special Topics: Models & Algorithms for Interactive Robotics
+Course Number: 16-886
+Department: Robotics
+Number of Units: 12
+Prerequisites: None
+Instructors: Andrea Bajcsy
+Rooms: GHC 4101
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 16-886 Special Topics: Models & Algorithms for Interactive Robotics>
+
+<start course description for 16-886 Special Topics: Models & Algorithms for Interactive Robotics>
+Semester: Spring 2024 (aka S24)
+Course Description: Robot interaction with humans is inevitable: autonomous cars navigate through crowded cities, assistive robots help end-users with daily living tasks, and human engineers iteratively tune robot objective functions. In this graduate seminar class, we will build the mathematical foundations for modeling human-robot interaction, investigate algorithms for robot learning from human data, and develop the tools to analyze the safety and reliability of robots deployed around people. The approaches covered will draw upon a variety of tools such as optimal control, dynamic game theory, Bayesian inference, and modern machine learning. Throughout the class, there will also be several guest lectures from experts in the field. Students will practice essential research skills including reviewing papers, debating, writing project proposals, and technical communication.
+</end course description for 16-886 Special Topics: Models & Algorithms for Interactive Robotics>

@@ -1,0 +1,16 @@
+<start course metadata for 15-735 Foundations of Blockchains>
+Semester: Fall 2023 (aka F23)
+Course Name: Foundations of Blockchains
+Course Number: 15-735
+Department: Computer Science
+Number of Units: 12
+Prerequisites: None
+Instructors: Runting Shi
+Rooms: TEP 1403
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-735 Foundations of Blockchains>
+
+<start course description for 15-735 Foundations of Blockchains>
+Semester: Fall 2023 (aka F23)
+Course Description: In this course, students will learn the mathematical foundations of blockchains, including how to construct distributed consensus protocols and prove them secure, cryptography for blockchains, and mechanism design for blockchains.   Students may also be expected to implement some consensus or cryptographic algorithms.
+</end course description for 15-735 Foundations of Blockchains>

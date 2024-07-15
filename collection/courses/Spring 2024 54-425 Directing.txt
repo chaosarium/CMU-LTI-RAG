@@ -1,0 +1,16 @@
+<start course metadata for 54-425 Directing>
+Semester: Spring 2024 (aka S24)
+Course Name: Directing
+Course Number: 54-425
+Department: Drama
+Number of Units: N/A
+Prerequisites: None
+Instructors: Instructor TBA
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-425 Directing>
+
+<start course description for 54-425 Directing>
+Semester: Spring 2024 (aka S24)
+Course Description: Production Preparation is a required course and is a core component of the curriculum for all drama directing, dramaturgy, production, and design students. The production experience provides students with experience in the following areas: directing; dramaturgy; production management; stage management; production run work; stage operations; design of scenery, costumes, lighting, sound, and video/media; costume construction; prop construction; scenery construction; sound and video and media technology; and scenic painting. Fully participating in these experiences will facilitate students future success in the School of Drama as well as in the profession.
+</end course description for 54-425 Directing>

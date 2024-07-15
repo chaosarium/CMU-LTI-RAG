@@ -1,0 +1,16 @@
+<start course metadata for 54-913 Millinery I>
+Semester: Fall 2023 (aka F23)
+Course Name: Millinery I
+Course Number: 54-913
+Department: Drama
+Number of Units: 9
+Prerequisites: None
+Instructors: Brian Russman
+Rooms: PCA 308
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-913 Millinery I>
+
+<start course description for 54-913 Millinery I>
+Semester: Fall 2023 (aka F23)
+Course Description: This course surveys basic hat making skills and allows students to create project work in the areas of simple construction, blocked felt and buckram shapes.
+</end course description for 54-913 Millinery I>

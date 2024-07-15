@@ -1,0 +1,16 @@
+<start course metadata for 53-997 Fall ETC Practicum Training>
+Semester: Fall 2023 (aka F23)
+Course Name: Fall ETC Practicum Training
+Course Number: 53-997
+Department: Entertainment Technology
+Number of Units: 3
+Prerequisites: None
+Instructors: drew davidson
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 53-997 Fall ETC Practicum Training>
+
+<start course description for 53-997 Fall ETC Practicum Training>
+Semester: Fall 2023 (aka F23)
+Course Description: During a semester, some  ETC students have the opportunity to do some part-time professional work. This course provides students with the educational experience of working in a professional environment with interdisciplinary teams, working under faculty supervision.  ETC Practicum Training provides an educational structure for students to have a part-time professional work experience. Students will have a faculty advisor. The faculty advisor will talk with the student and their supervisor twice during the semester (around midterm and the end of the semester) to evaluate and grade the student's performance on the project.
+</end course description for 53-997 Fall ETC Practicum Training>

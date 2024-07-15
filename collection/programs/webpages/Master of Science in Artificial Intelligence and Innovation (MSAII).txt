@@ -1,0 +1,80 @@
+Overview: The Master of Science in Artificial Intelligence and Innovation (MSAII) program is a successor to the M.S. in Biotechnology, Innovation and Computing (MSBIC). It combines a rigorous AI and machine learning curriculum with real-world team experience in identifying an AI market niche and developing a responsive product in cooperation with external stakeholders. The core program, which lasts four semesters and leads to a capstone project, focuses on both intrapreneurship and entrepreneurship, equipping graduates to either begin a startup or develop a new organization within an existing company. Students will also gain critical practical skills, such as making persuasive technical presentations, assembling development teams, and evaluating the potential of new market ideas.
+Requirements: Incoming students generally hold undergraduate degrees in computer science, software engineering, bioinformatics or bioengineering. To earn the MSAII degree, you must pass courses in the Core Curriculum, the Knowledge Requirements and Electives. You must also complete a capstone project in which you work on a development project as part of the Core Curriculum. In total, you will complete 192 eligible units of study, including 84 units of Core Curriculum (including the 36-unit Capstone), 72 units of Knowledge Requirements and at least 36 units of approved Electives.
+
+For full requirements and program details, read the MSAII Handbook.
+Curriculum: The MSAII degree generally takes four semesters. Here's an example of how your coursework might break down:
+
+Semester One
+
+Semester Two
+
+Semester Three
+
+Semester Four
+
+Artificial Intelligence and Future Markets
+
+Law of Computer Technology
+
+Coding Bootcamp
+
+Machine Learning
+
+AI Engineering
+
+Machine Learning with Large Datasets
+
+Cloud Computing*
+
+Software Engineering for Startups*
+
+AI Innovation
+
+Natural Language Processing
+
+Applied Machine Learning
+
+Web Application Development*
+
+Deep Learning
+
+Capstone Project
+(36 units)
+
+*Elective course
+
+For more information on the MSAII program curriculum and requirements, see the program website.
+Admission: Carnegie Mellon's School of Computer Science has a centralized online application process. Applications and all supporting documentation for fall admission to any of the LTI's graduate programs must be received by the application deadline. Incomplete applications will not be considered. The application period for Fall 2024 will open on September 6, 2023.
+
+Final Application Deadline
+
+December 13, 2023 at 3:00 p.m. EST.
+
+Cost
+
+$100 for one program, $80 if application is submitted before November 29, 2023 at 3PM EST (early deadline).
+Fee Waivers
+
+Fee waivers may be available in cases of financial hardship, or for participants in select "pipeline" programs. For more information, please refer to the School of Computer Science Fee Waiver page.
+
+Requirements
+
+The School of Computer Science requires the following for all applications:
+
+A GPA of 3.0 or higher. (Students should report raw university GPA scores and NOT converted scores. Please DO NOT convert your international score to a US GPA or weighted GPA or other system).
+
+GRE scores: GRE is required. Our Institution Code is 2074; Department Code is 0402. 
+
+English Language Proficiency: If you will be studying on an F-1 or J-1 visa, and English is not a native language for you (native language…meaning spoken at home and from birth), an official copy of an English proficiency score report is required. The English proficiency requirement cannot be waived for any reason. Find more information under "Test Scores" on our FAQ page.Unofficial transcripts from each university you have attended, regardless of whether you received a degree.
+
+Current resume.
+
+Statement of Purpose. A Statement of Purpose is not a resume. It should discuss your reasons for choosing the MSAII program and indicate your intended career path. 
+
+Three letters of recommendation.
+
+A short (1-3 minutes) video of yourself. Tell us about you and why you are interested in the MSAII program. This is not a required part of the application process, but it is STRONGLY suggested.  
+
+For specific application/admissions questions, please contact Amber Vivis. 
+Handbook: For a complete breakdown of the MSAII program and its policies, including information about internships, please view the MSAII Handbook.
+Additional Info: For more about the MSAII program, visit the MSAII website, or contact Amber Vivis.

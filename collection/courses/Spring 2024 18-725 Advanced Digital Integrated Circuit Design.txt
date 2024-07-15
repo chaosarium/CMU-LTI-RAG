@@ -1,0 +1,16 @@
+<start course metadata for 18-725 Advanced Digital Integrated Circuit Design>
+Semester: Spring 2024 (aka S24)
+Course Name: Advanced Digital Integrated Circuit Design
+Course Number: 18-725
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: 18-622 or 18-422 or 18-623
+Instructors: Kenneth Mai, Tathagata Srimani
+Rooms: HH B103; SH 236
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-725 Advanced Digital Integrated Circuit Design>
+
+<start course description for 18-725 Advanced Digital Integrated Circuit Design>
+Semester: Spring 2024 (aka S24)
+Course Description: Student teams create a moderate-sized digital, analog/RF, or mixed-signal chip in a modern technology using industrial CAD tools and flows. The project involves planning and specification, writing a Verilog model, designing custom circuits and/or synthesized standard cell blocks, creating a testing/debug strategy, and full-chip integration and verification for tapeout. Completed verified designs will be sent for fabrication at the end of the semester and returned by the following fall. Students will have the opportunity to test their devices as part of a follow-on course or independent study. Recommended for PhD students that plan to design chips for their thesis, MS students interested in careers in VLSI design, or undergraduates who wish to use it to satisfy their Capstone Design requirement (requires enrollment in 18525, see below).   This course is crosslisted with 18525. 18525 is the number for undergraduate students utilizing the course to complete their ECE Capstone Design requirement. Students in the graduate course number may be completing projects of increased complexity compared to 18525.
+</end course description for 18-725 Advanced Digital Integrated Circuit Design>

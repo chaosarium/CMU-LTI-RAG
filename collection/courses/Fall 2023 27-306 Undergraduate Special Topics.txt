@@ -1,0 +1,16 @@
+<start course metadata for 27-306 Undergraduate Special Topics>
+Semester: Fall 2023 (aka F23)
+Course Name: Undergraduate Special Topics
+Course Number: 27-306
+Department: Materials Science & Engineering
+Number of Units: 9
+Prerequisites: None
+Instructors: Mohammad Islam
+Rooms: PH 226C
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 27-306 Undergraduate Special Topics>
+
+<start course description for 27-306 Undergraduate Special Topics>
+Semester: Fall 2023 (aka F23)
+Course Description: TBD
+</end course description for 27-306 Undergraduate Special Topics>

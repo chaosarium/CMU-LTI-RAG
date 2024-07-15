@@ -1,0 +1,16 @@
+<start course metadata for 45-710 Managerial Economics>
+Semester: Fall 2023 (aka F23)
+Course Name: Managerial Economics
+Course Number: 45-710
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Aniko Oery, Fallaw Sowell
+Rooms: TEP 2110
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-710 Managerial Economics>
+
+<start course description for 45-710 Managerial Economics>
+Semester: Fall 2023 (aka F23)
+Course Description: This course presents the basic concepts of microeconomics theory with an emphasis on business applications. The approach of microeconomics is to solve an economic problem by modeling it as an optimization problem; the solution to the optimization problems then interpreted in terms of the original economic problem. This approach will be used to answer such problems as input selection, pricing and project selection. The format of the class is to present theory common to a general class of applied problems and then to apply the theory by solving actual problems. The goal of the class is for the students to be capable of applying the basic concepts to problems faced both future classes (e.g. finance, macroeconomics) and future careers.
+</end course description for 45-710 Managerial Economics>

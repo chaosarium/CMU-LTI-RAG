@@ -1,0 +1,16 @@
+<start course metadata for 38-615 Computational Modeling, Statistical Analysis and Machine Learning in Science>
+Semester: Fall 2023 (aka F23)
+Course Name: Computational Modeling, Statistical Analysis and Machine Learning in Science
+Course Number: 38-615
+Department: MCS Interdisciplinary
+Number of Units: 12
+Prerequisites: None
+Instructors: Olexandr Isayev
+Rooms: 3SC 110
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 38-615 Computational Modeling, Statistical Analysis and Machine Learning in Science>
+
+<start course description for 38-615 Computational Modeling, Statistical Analysis and Machine Learning in Science>
+Semester: Fall 2023 (aka F23)
+Course Description: The purpose of this course is to provide a practical introduction to the core concepts and tools of machine learning in a manner easily understood and intuitive to STEM students. The course begins by covering fundamental concepts in ML, data science, and modern statistics such as the bias-variance tradeoff, overfitting, regularization, and generalization, before moving on to more advanced topics in both supervised and unsupervised learning. Students will choose a large dataset from a selection of biology, chemistry, math, or physics datasets hosted by PSC and use this dataset throughout the MS program. The topics of the course are taught with students analyzing the chosen dataset. An intensive knowledge of Python or another computing language is not a pre-prerequisite since students will be given at first simple scripts that they work with and then expand upon. This course is required for students enrolled in the MS program in Data Analytics for Science.
+</end course description for 38-615 Computational Modeling, Statistical Analysis and Machine Learning in Science>

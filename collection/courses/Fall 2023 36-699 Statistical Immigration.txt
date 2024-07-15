@@ -1,0 +1,16 @@
+<start course metadata for 36-699 Statistical Immigration>
+Semester: Fall 2023 (aka F23)
+Course Name: Statistical Immigration
+Course Number: 36-699
+Department: Statistics and Data Science
+Number of Units: 6
+Prerequisites: None
+Instructors: Valerie Ventura
+Rooms: BH 232M
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 36-699 Statistical Immigration>
+
+<start course description for 36-699 Statistical Immigration>
+Semester: Fall 2023 (aka F23)
+Course Description: Students are introduced to the faculty and their interests, the field of statistics, and the facilities at Carnegie Mellon. Each faculty member gives at least one elementary lecture on some topic of his or her choice. In the past, topics have included: the field of statistics and its history, large-scale sample surveys, survival analysis, subjective probability, time series, robustness, multivariate analysis, psychiatric statistics, experimental design, consulting, decision-making, probability models, statistics and the law, and comparative inference. Students are also given information about the libraries at Carnegie Mellon and current bibliographic tools. In addition, students are instructed in the use of the Departmental and University computational facilities and available statistical program packages. THIS COURSE IS FOR PHD STUDENTS IN THE DEPT OF STATISTICS ONLY.
+</end course description for 36-699 Statistical Immigration>

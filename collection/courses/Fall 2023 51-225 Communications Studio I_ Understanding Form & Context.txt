@@ -1,0 +1,16 @@
+<start course metadata for 51-225 Communications Studio I: Understanding Form & Context>
+Semester: Fall 2023 (aka F23)
+Course Name: Communications Studio I: Understanding Form & Context
+Course Number: 51-225
+Department: Design
+Number of Units: 4
+Prerequisites: 51-122
+Instructors: Victoria Crowley
+Rooms: MM 211
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-225 Communications Studio I: Understanding Form & Context>
+
+<start course description for 51-225 Communications Studio I: Understanding Form & Context>
+Semester: Fall 2023 (aka F23)
+Course Description: Giving form to messages and information using type, color, and images will be the focus of this introductory studio in Communication Design. Understanding the connection between content, intent, and form will be the goal of every project and exercise. Principles of hierarchy, chunking, sequence, clarity, and visual voice will guide work for the screen and the printed page, in dynamic and static forms.
+</end course description for 51-225 Communications Studio I: Understanding Form & Context>

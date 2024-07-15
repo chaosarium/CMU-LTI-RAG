@@ -1,0 +1,16 @@
+<start course metadata for 17-648 Sensor Based Systems>
+Semester: Spring 2024 (aka S24)
+Course Name: Sensor Based Systems
+Course Number: 17-648
+Department: Software & Societal Systems
+Number of Units: 6
+Prerequisites: None
+Instructors: Scott Pavetti
+Rooms: 3SC 265
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 17-648 Sensor Based Systems>
+
+<start course description for 17-648 Sensor Based Systems>
+Semester: Spring 2024 (aka S24)
+Course Description: There is an increasing and visible trend in adoption of new approaches to automating business processes, replacing repeatable tasks and leveraging artificial intelligence as organizations prepare to renew themselves with a new competitive advantage through efficiencies and scale in operations. In this transition, the software engineering profession has a critical role to play, regardless of whether companies have to deal with robots, software systems, databases, data processing and analytics and the numerous other DevOps related activities. Companies already representing this change are Amazon, Google, Facebook, Apple, Netflix, Tesla, Uber, etc. Various product and service delivery operations are increasingly being connected by various sensors and actuators that are able to deliver event-based data that becomes critical to analyze and update AI systems that will be at the core of the above referred transition. This course is designed to ensure that these intelligent systems work effectively in a secure and reliable manner while producing the data that can be analyzed using techniques taught in the course. The course aims to prepare students to brace for the onset of a rapidly spreading disruptive discipline that will change the way industrial operations are performed and in doing so rely on software engineering. The course will afford an opportunity to upgrade and complement current skills and shape students' careers towards this path.
+</end course description for 17-648 Sensor Based Systems>

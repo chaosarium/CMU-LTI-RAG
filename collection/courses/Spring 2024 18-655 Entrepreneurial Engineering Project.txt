@@ -1,0 +1,16 @@
+<start course metadata for 18-655 Entrepreneurial Engineering Project>
+Semester: Spring 2024 (aka S24)
+Course Name: Entrepreneurial Engineering Project
+Course Number: 18-655
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: James Bain
+Rooms: WEH 4709
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-655 Entrepreneurial Engineering Project>
+
+<start course description for 18-655 Entrepreneurial Engineering Project>
+Semester: Spring 2024 (aka S24)
+Course Description: In this course, Undergraduate (18555) and MS (18655) students participate in projects to develop exploratory designs of systems for a wide range of applications. Each project is unique to a team of students who will typically be paired with an external investment partner. All the projects will be designed, developed, and led by students. Entry into the course is by invitation from the faculty instructor (typically advised by the external investment partners). Student teams will be invited based on the alignment of their skill sets and experience with a set of posted projects. Teams may also be invited based on a student-initiated pitch of their own ideas and its alignment with external investor interest.  Students interested in the course can indicate their interest, qualifications, and project ideas via instructions from departmental advisors or the course instructor. Grades will be assigned by the faculty instructor based on novelty and creativity of the project, engineering process, and weekly progress, not the ultimate success or failure of the project idea or originally proposed solution. Following completion of the course, the external investment partners and students can independently explore subsequent seed funding and/or licensing of successful ideas and projects.
+</end course description for 18-655 Entrepreneurial Engineering Project>

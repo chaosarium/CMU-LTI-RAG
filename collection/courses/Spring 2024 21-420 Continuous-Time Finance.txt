@@ -1,0 +1,16 @@
+<start course metadata for 21-420 Continuous-Time Finance>
+Semester: Spring 2024 (aka S24)
+Course Name: Continuous-Time Finance
+Course Number: 21-420
+Department: Mathematical Sciences
+Number of Units: 9
+Prerequisites: (18-202 or 21-260) and (21-370) and (36-218 or 15-259 or 36-217 or 21-325 or 36-225)
+Instructors: Gautam Iyer
+Rooms: HOA 160
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-420 Continuous-Time Finance>
+
+<start course description for 21-420 Continuous-Time Finance>
+Semester: Spring 2024 (aka S24)
+Course Description: This course begins with Brownian motion, stochastic integration,and Ito's formula from stochastic calculus.  This theory is used to develop the Black-Scholes option pricing formula and the Black-Scholes partial differential equation.  Additional topics may include models of credit risk, simulation, and expected utility maximization.  (Three 50 minute lectures)
+</end course description for 21-420 Continuous-Time Finance>

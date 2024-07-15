@@ -1,0 +1,16 @@
+<start course metadata for 48-670 MArch Thesis>
+Semester: Spring 2024 (aka S24)
+Course Name: MArch Thesis
+Course Number: 48-670
+Department: Architecture
+Number of Units: 18
+Prerequisites: None
+Instructors: Sarah Rafson
+Rooms: MM 320
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-670 MArch Thesis>
+
+<start course description for 48-670 MArch Thesis>
+Semester: Spring 2024 (aka S24)
+Course Description: Coming Soon.
+</end course description for 48-670 MArch Thesis>

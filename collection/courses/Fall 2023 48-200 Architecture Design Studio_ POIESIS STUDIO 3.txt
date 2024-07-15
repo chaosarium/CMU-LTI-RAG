@@ -1,0 +1,16 @@
+<start course metadata for 48-200 Architecture Design Studio: POIESIS STUDIO 3>
+Semester: Fall 2023 (aka F23)
+Course Name: Architecture Design Studio: POIESIS STUDIO 3
+Course Number: 48-200
+Department: Architecture
+Number of Units: 18
+Prerequisites: 48-100 and 48-105 and 62-122 and 62-125 and 62-126 and 62-104 and 48-025 and 62-123
+Instructors: Laura Garofalo
+Rooms: MM A14
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-200 Architecture Design Studio: POIESIS STUDIO 3>
+
+<start course description for 48-200 Architecture Design Studio: POIESIS STUDIO 3>
+Semester: Fall 2023 (aka F23)
+Course Description: The Poiesis Studio 3 explores how architectural and landscape design can respond to a local biome. With a focus on climate and ecology, it highlights the use of precedent and the relevance of context in how architecture takes shape - how it develops its morphology. As the architectural profession collectively recognizes the built/natural environment as a complex web of interacting parts constantly exchanging energy and resources, we become interested in developing architecture that contributes to context from which it arises. In response Poiesis 3 will seek to support and enrich the local ecology (both cultural and natural) in a similar way to how a biome's flora and fauna both adapt to their surroundings and help form sustaining ecosystems.  The studio gives students a foundation in site and precedent analysis, passive design strategies, and ecological and environmental systems thinking. Through an iterative process you will develop formal and programmatic organizations as field conditions, or aggregations that highlighting the localized interconnectivity of buildings, bodies, and environment and redefine boundary conditions. Merging architecture and landscape, your resulting morphologies will become a mediator between interior and exterior, public and private, the social and the ecological. Working from the scale of the site to that of the envelope your designs will arrive at a sensorially rich, environmentally responsive and resilient architecture.
+</end course description for 48-200 Architecture Design Studio: POIESIS STUDIO 3>

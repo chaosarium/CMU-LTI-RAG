@@ -1,0 +1,16 @@
+<start course metadata for 57-737 Literature & Repertoire: Brass>
+Semester: Fall 2023 (aka F23)
+Course Name: Literature & Repertoire: Brass
+Course Number: 57-737
+Department: Music
+Number of Units: N/A
+Prerequisites: None
+Instructors: Alberto Almarza, Andrew Wickesberg, Christopher Wu, Craig Knox, David Premo, Frederic Chiu, George Vosburgh, Gretchen Van Hoesen, James Gorton, James Houlik, Jeremy Branson, Katherine Shields, Lance Laduke, Neal Berntsen, Paul Evans, Peter Guild, Peter Sullivan, Sergey Schepkin, Thomas Thompson, William Caballero
+Rooms: CFA A1; CFA A2; CFA ACH; CFA KRESGE; DNM DNM; MM 119
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-737 Literature & Repertoire: Brass>
+
+<start course description for 57-737 Literature & Repertoire: Brass>
+Semester: Fall 2023 (aka F23)
+Course Description: This course deals with literature and repertoire for orchestral instruments.  There are multiple sections organized by instrument categories or specific instruments, as follows:  Brass, Cello, Double Bass, Flute, Harp, Opera, Organ, Percussion, Trombone, Solo Trumpet, Tuba, Viola, Violin, and Woodwind. Piano Literature and Repertoire is listed as 57-881 through 57-884.
+</end course description for 57-737 Literature & Repertoire: Brass>

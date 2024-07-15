@@ -1,0 +1,16 @@
+<start course metadata for 05-688 Small Group Study in HCI>
+Semester: Fall 2023 (aka F23)
+Course Name: Small Group Study in HCI
+Course Number: 05-688
+Department: Human-Computer Interaction
+Number of Units: N/A
+Prerequisites: None
+Instructors: Nicole Willis
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 05-688 Small Group Study in HCI>
+
+<start course description for 05-688 Small Group Study in HCI>
+Semester: Fall 2023 (aka F23)
+Course Description: With the permission of the professor, small graduate student teams of two or three may engage in independent project work on any number of research projects sponsored by faculty. Students must complete a Small Group Independent Study Proposal, negotiate the number of units to be earned, complete contracts, and present a tangible deliverable.  The Program Advisor's signature is required for HCI graduate-level Small Group Independent Study courses.
+</end course description for 05-688 Small Group Study in HCI>

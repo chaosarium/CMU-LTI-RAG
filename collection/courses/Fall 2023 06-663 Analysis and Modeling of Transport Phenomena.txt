@@ -1,0 +1,16 @@
+<start course metadata for 06-663 Analysis and Modeling of Transport Phenomena>
+Semester: Fall 2023 (aka F23)
+Course Name: Analysis and Modeling of Transport Phenomena
+Course Number: 06-663
+Department: Chemical Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Grigorios Panagakos
+Rooms: PH A18C
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 06-663 Analysis and Modeling of Transport Phenomena>
+
+<start course description for 06-663 Analysis and Modeling of Transport Phenomena>
+Semester: Fall 2023 (aka F23)
+Course Description: Students will learn the basic differential equations and boundary conditions governing momentum, heat, and mass transfer. Students will learn how to think about these equations in dimensionless terms and will apply them to model physical and chemical processes.  The primary mode for solving them will be numerical. Analytical results for classical problems of high symmetry also will be presented to serve as a basis for comparison and validation.  Software: A finite element and computational transport tool.
+</end course description for 06-663 Analysis and Modeling of Transport Phenomena>

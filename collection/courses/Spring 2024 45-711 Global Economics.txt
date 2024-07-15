@@ -1,0 +1,16 @@
+<start course metadata for 45-711 Global Economics>
+Semester: Spring 2024 (aka S24)
+Course Name: Global Economics
+Course Number: 45-711
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Laurence Ales
+Rooms: TEP 2110
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-711 Global Economics>
+
+<start course description for 45-711 Global Economics>
+Semester: Spring 2024 (aka S24)
+Course Description: This class is designed to give you some insight into the enormous differences in economic environments faced by businesses around the world: how the environment in the United States differs from that in (say) France, China, or Mexico. We will view the world through the lens of open economy macroeconomics, the field of economics concerned with the national performance, policies of countries and interactions among them. We will use it to study such issues as economic indicators and forecasting (Where are we headed?), economic growth (Why are some countries more productive than others?), business cycles (booms and recessions), employment and unemployment, inflation and deflation, monetary policy and interest rates, international trade and capital flows, foreign exchange rates, and impact of fiscal policy. By the end of the Mini, you will be able to:      Better understand the behavior of the economy as a whole.     Better understand the sources of the various controversies concerning macroeconomic policy.     Explain how differences in ?local institutions" change the nature (and cost) of doing business.     Describe the causes of good long-term performance: why per capita income is higher in the US and France than in India or Mexico     valuate such economic indicators as bond yields, employment, inflation, exchange rates,and current account deficits.
+</end course description for 45-711 Global Economics>

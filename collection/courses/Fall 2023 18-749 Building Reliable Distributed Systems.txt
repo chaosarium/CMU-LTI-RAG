@@ -1,0 +1,16 @@
+<start course metadata for 18-749 Building Reliable Distributed Systems>
+Semester: Fall 2023 (aka F23)
+Course Name: Building Reliable Distributed Systems
+Course Number: 18-749
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Priya Narasimhan
+Rooms: BH A51
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-749 Building Reliable Distributed Systems>
+
+<start course description for 18-749 Building Reliable Distributed Systems>
+Semester: Fall 2023 (aka F23)
+Course Description: The course provides an in-depth and hands-on overview of designing and developing reliable distributed systems, throughout a system's lifecycle, starting from fault-tolerant design and execution (replication, group communication, databases) to fault-recovery (fault-detection, logging, check-pointing, failure-diagnosis) for various classes of faults (crashes, communication errors, software upgrades). The course will cover real-world practices for reliability, supplemented by case studies of large-scale downtime incidents. The concepts will be taught in the context of contemporary cloud-computing platforms, and the course will include a hands-on project that involves the design, implementation and empirical evaluation of a reliable distributed cloud-based system. Students will be taught to write, review, and present a conference-style research paper by the end of the semester, with the goal of documenting the design, lessons learned and experimental results of their team project. Students can expect to learn about the reliability issues underlying cloud computing, the tools and best practices for implementing and evaluating reliability, and the strengths and weaknesses of current cloud-computing platforms from the perspective of reliability.  Prerequisites:  Graduate standing or instructor permission
+</end course description for 18-749 Building Reliable Distributed Systems>

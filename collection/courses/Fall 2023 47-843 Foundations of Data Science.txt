@@ -1,0 +1,16 @@
+<start course metadata for 47-843 Foundations of Data Science>
+Semester: Fall 2023 (aka F23)
+Course Name: Foundations of Data Science
+Course Number: 47-843
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Ravindran Kannan
+Rooms: TEP 5219
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 47-843 Foundations of Data Science>
+
+<start course description for 47-843 Foundations of Data Science>
+Semester: Fall 2023 (aka F23)
+Course Description: Modern data in many Machine Learning applications, Recommendation Systems, Neural nets, Ranking, as well as other areas consists of vectors with many components. The abstraction of data to high dimensional vectors is not just a book-keeping device, but is fundamental to our understanding of the structure, properties and uses of the data. There are three types of lenses with which properties of a large collection of high dimensional vectors can be studied and understood - Geometric, Linear Algebraic and Statistical. The purpose of the course is to introduce each of these three. While applications will motivate our study, the focus is on mathematical properties and not specific applications.
+</end course description for 47-843 Foundations of Data Science>

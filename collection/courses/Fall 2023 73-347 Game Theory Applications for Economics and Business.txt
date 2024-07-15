@@ -1,0 +1,16 @@
+<start course metadata for 73-347 Game Theory Applications for Economics and Business>
+Semester: Fall 2023 (aka F23)
+Course Name: Game Theory Applications for Economics and Business
+Course Number: 73-347
+Department: Economics
+Number of Units: 9
+Prerequisites: None
+Instructors: Alexey Kushnir
+Rooms: TEP 2612
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 73-347 Game Theory Applications for Economics and Business>
+
+<start course description for 73-347 Game Theory Applications for Economics and Business>
+Semester: Fall 2023 (aka F23)
+Course Description: An introduction to the theory of non-cooperative games with an emphasis on economic applications. After an initial examination of two-person, zero-sum games, the notion of a Nash equilibrium in an n-person, non-cooperative game is considered. Existence of and refinements to the equilibrium concept are discussed in the context of both normal and extensive form games. Economic applications may include various topics, including Cournot and Bertrand oligopoly models, general competitive exchange equilibrium, and free rider problems.  (Lecture, 3 hours). Minimum grade of "C" required in all economics pre-requisite courses.
+</end course description for 73-347 Game Theory Applications for Economics and Business>

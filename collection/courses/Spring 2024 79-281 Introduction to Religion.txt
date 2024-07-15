@@ -1,0 +1,16 @@
+<start course metadata for 79-281 Introduction to Religion>
+Semester: Spring 2024 (aka S24)
+Course Name: Introduction to Religion
+Course Number: 79-281
+Department: History
+Number of Units: 9
+Prerequisites: None
+Instructors: James Gilchrist
+Rooms: BH A36
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 79-281 Introduction to Religion>
+
+<start course description for 79-281 Introduction to Religion>
+Semester: Spring 2024 (aka S24)
+Course Description: Religion can be understood from the "outside," through the academic lenses of history, sociology, psychology, philosophy, etc., and from the "inside," listening to the experiences and reflections of those who practice various faiths. The course will examine major religious traditions from several perspectives and begin to explore such topics as the relationship between religion and science, faith and reason, religion and moral values, and religion in public life. This introduction is designed for students with a general interest in religion, as well as those contemplating a Religious Studies minor.
+</end course description for 79-281 Introduction to Religion>

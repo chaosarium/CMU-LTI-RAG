@@ -1,0 +1,16 @@
+<start course metadata for 57-304 Bagpipe Maintenance>
+Semester: Fall 2023 (aka F23)
+Course Name: Bagpipe Maintenance
+Course Number: 57-304
+Department: Music
+Number of Units: 3
+Prerequisites: None
+Instructors: Andrew Carlisle
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-304 Bagpipe Maintenance>
+
+<start course description for 57-304 Bagpipe Maintenance>
+Semester: Fall 2023 (aka F23)
+Course Description: All aspects of bagpipe maintenance are covered in this course, from basic hemping and tying in bags to reeds set-up and manipulation.  The course includes study of all types of reeds, cane and synthetic, as well as drone and chanter, and recognition of pipemakers' patterns and distinctive hallmarks.
+</end course description for 57-304 Bagpipe Maintenance>

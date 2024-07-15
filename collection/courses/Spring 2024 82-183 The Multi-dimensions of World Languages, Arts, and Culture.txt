@@ -1,0 +1,16 @@
+<start course metadata for 82-183 The Multi-dimensions of World Languages, Arts, and Culture>
+Semester: Spring 2024 (aka S24)
+Course Name: The Multi-dimensions of World Languages, Arts, and Culture
+Course Number: 82-183
+Department: Modern Languages
+Number of Units: 9
+Prerequisites: None
+Instructors: Ting Su
+Rooms: POS 343
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 82-183 The Multi-dimensions of World Languages, Arts, and Culture>
+
+<start course description for 82-183 The Multi-dimensions of World Languages, Arts, and Culture>
+Semester: Spring 2024 (aka S24)
+Course Description: Dive into the thrilling world where AI meets humanities! In this dynamic course, you will see how cutting-edge AI intertwines with the vibrant threads of global languages, arts, and cultures. Through engaging lectures, hands-on activities, and innovative projects, you'll unearth the transformative potential of AI in changing our understanding of language learning, artistic expression, and cultural immersion.  We've broken down this adventure into three exciting modules:  Module 1: LLMs & Second Language Acquisition Our first stop focuses on Large Language Models (LLMs) and their profound impact on second language acquisition. This exploration will deepen students' understanding of AI's role in bridging linguistic barriers and fostering global communication.  Module 2: Generative Models and Artistic Expression This module reveals the magic behind generative models in artistic creation. Experiment with tools like auto-encoders and diffusion models, students will discover how AI acts as a catalyst for artistic innovation and kindles creativity. Furthermore, students will contemplate both the potential and constraints of AI in pushing the frontiers of artistic expression.  Module 3: Social and Cultural Voyages with AI Discover how AI can let you virtually step into various cultural traditions and social viewpoints. This exploration will not only illuminate how AI can be harnessed to create enhanced cultural and social learning experiences, but also encourage students to approach AI with a discerning eye.   By the end of this course, students will command a comprehensive understanding of AI technologies and an enduring appreciation of its intricate relationship with the humanities. They will emerge well-prepared to navigate the ever-changing landscape of AI-enhanced language education, cultural exploration, and artistic expression, all from a global perspective.
+</end course description for 82-183 The Multi-dimensions of World Languages, Arts, and Culture>

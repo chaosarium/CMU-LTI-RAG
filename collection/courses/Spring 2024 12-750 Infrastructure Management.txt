@@ -1,0 +1,16 @@
+<start course metadata for 12-750 Infrastructure Management>
+Semester: Spring 2024 (aka S24)
+Course Name: Infrastructure Management
+Course Number: 12-750
+Department: Civil & Environmental Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Donald Coffelt
+Rooms: BH A53
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 12-750 Infrastructure Management>
+
+<start course description for 12-750 Infrastructure Management>
+Semester: Spring 2024 (aka S24)
+Course Description: This course takes a broad view of infrastructure systems to include physical infrastructure and information networks. The course will consider the need to protect these critical infrastructures from both degradation as well as malicious attacks. Infrastructure management generally depends on public-private partnerships to ensure long-term viability. We will look at relevant academic literature on the topics of infrastructure needs and requirements. We will explore the use of automated sensing and computer network systems to facilitate management.
+</end course description for 12-750 Infrastructure Management>

@@ -1,0 +1,16 @@
+<start course metadata for 49-784 Artificial Intelligence for Product Managers>
+Semester: Spring 2024 (aka S24)
+Course Name: Artificial Intelligence for Product Managers
+Course Number: 49-784
+Department: Integrated Innovation Institute
+Number of Units: 6
+Prerequisites: None
+Instructors: Fang Fang
+Rooms: B23 109
+Locations: San Jose, California
+</end course metadata for 49-784 Artificial Intelligence for Product Managers>
+
+<start course description for 49-784 Artificial Intelligence for Product Managers>
+Semester: Spring 2024 (aka S24)
+Course Description: The principles and practices around artificial intelligence (AI) is increasingly critical to unlock the value of data, and transform business and ultimately human experience. It is so pervasive today that we use it daily probably without knowing it. This course will present students AI business case studies, the most popular AI techniques, algorithms, application recipes, best practices, and offer hands-on experience in implementing them to solve real-world problems. This course covers the spectrum of real-world AI implementations from natural language processing, speech recognition, facial recognition, landmark detection, and social network analysis to technical depth of popular algorithms, neural network backpropagation methods, probabilistic and non-probabilistic methods. Students will accumulate firsthand experience on Google and Microsoft AI platforms, AI model design and training. This course is designed with the easy-to-follow approach by showing the step-by-step implementation of the core technologies. It presents recipes in major use cases to offer students a leap start on building AI solutions. With the willing-to-learn attitude, students with either technical or business background will succeed in this course. Priority registration given to Integrated Innovation Institute students.
+</end course description for 49-784 Artificial Intelligence for Product Managers>

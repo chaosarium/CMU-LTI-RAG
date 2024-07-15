@@ -1,0 +1,16 @@
+<start course metadata for 03-290 Applied Cell Biology>
+Semester: Spring 2024 (aka S24)
+Course Name: Applied Cell Biology
+Course Number: 03-290
+Department: Biological Sciences
+Number of Units: 3
+Prerequisites: None
+Instructors: Mohamed Bouaouina
+Rooms: CMB 3025
+Locations: Doha, Qatar
+</end course metadata for 03-290 Applied Cell Biology>
+
+<start course description for 03-290 Applied Cell Biology>
+Semester: Spring 2024 (aka S24)
+Course Description: No course description provided.
+</end course description for 03-290 Applied Cell Biology>

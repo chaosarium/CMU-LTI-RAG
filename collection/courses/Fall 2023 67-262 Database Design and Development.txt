@@ -1,0 +1,16 @@
+<start course metadata for 67-262 Database Design and Development>
+Semester: Fall 2023 (aka F23)
+Course Name: Database Design and Development
+Course Number: 67-262
+Department: Information Systems Program
+Number of Units: 9
+Prerequisites: 15-122 or 15-112 or 15-121
+Instructors: Anis Charfi, Raja Sooriamurthi, Xiaoying Tu
+Rooms: BH 235A; CMB 2152; GHC 5222; POS 151; WEH 5415
+Locations: Doha, Qatar; Pittsburgh, Pennsylvania
+</end course metadata for 67-262 Database Design and Development>
+
+<start course description for 67-262 Database Design and Development>
+Semester: Fall 2023 (aka F23)
+Course Description: Data driven decision making is a core process of organizations. In this class students will study the principles of database management systems, their design, and development. Recent alternatives to the classical relational model will also be examined.
+</end course description for 67-262 Database Design and Development>

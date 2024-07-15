@@ -1,0 +1,16 @@
+<start course metadata for 19-753 EPP Teaching Practicum>
+Semester: Fall 2023 (aka F23)
+Course Name: EPP Teaching Practicum
+Course Number: 19-753
+Department: Engineering & Public Policy
+Number of Units: N/A
+Prerequisites: None
+Instructors: Deanna Matthews, Nicholas Muller
+Rooms: DNM DNM
+Locations: Lisbon, Portugal; Pittsburgh, Pennsylvania
+</end course metadata for 19-753 EPP Teaching Practicum>
+
+<start course description for 19-753 EPP Teaching Practicum>
+Semester: Fall 2023 (aka F23)
+Course Description: This course involves conducting recitations for the department's 19-101 "Introduction to Engineering and Public Policy" freshman course. Duties include assisting the course instructor in preparing content prior to the start of the semester, administering the course website, preparing and grading homework and test questions, attending lectures, meeting weekly with the course instructor to plan recitation sessions, conducting recitation sessions, assisting in assigning grades, and being available outside of class to assist students and answer questions. This is a fairly large course with typical lecture sizes in the range of 60 students. As a result some activities, especially  grading, will mandate significant periodic time commitments.  In accordance with university requirements for teaching assistants, foreign students must take and pass the International Teaching Assistant test offered by the ICC prior to registering for this course.
+</end course description for 19-753 EPP Teaching Practicum>

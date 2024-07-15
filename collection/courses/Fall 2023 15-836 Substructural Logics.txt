@@ -1,0 +1,16 @@
+<start course metadata for 15-836 Substructural Logics>
+Semester: Fall 2023 (aka F23)
+Course Name: Substructural Logics
+Course Number: 15-836
+Department: Computer Science
+Number of Units: 12
+Prerequisites: None
+Instructors: Frank Pfenning
+Rooms: GHC 4215
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-836 Substructural Logics>
+
+<start course description for 15-836 Substructural Logics>
+Semester: Fall 2023 (aka F23)
+Course Description: This graduate course provides an introduction to substructural logics, such as linear, ordered, affine, bunched, or separation logic, with an emphasis on their applications in computer science. This includes the design and theory of programming constructs for concurrent message-passing computation and techniques for specifying and reasoning about programming languages in the form of substructural operational semantics.
+</end course description for 15-836 Substructural Logics>

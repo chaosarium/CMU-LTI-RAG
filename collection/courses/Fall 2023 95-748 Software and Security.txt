@@ -1,0 +1,16 @@
+<start course metadata for 95-748 Software and Security>
+Semester: Fall 2023 (aka F23)
+Course Name: Software and Security
+Course Number: 95-748
+Department: Information Systems:Sch of IS & Mgt
+Number of Units: 6
+Prerequisites: 95-752
+Instructors: Hasan Yasar
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 95-748 Software and Security>
+
+<start course description for 95-748 Software and Security>
+Semester: Fall 2023 (aka F23)
+Course Description: This course exposes students with limited exposure to programming and software engineering development foundational concepts to enable further understanding of the challenges of insecure and vulnerable software. Students are exposed to basic programming constructs (such as variables, control structures, data structures, programming syntax) , secure software development process and implementation details as well as the specific principles of enterprise-wide secure system development practices. The course also surveys the types of threats and vulnerabilities inherent in software and the origins of these deficiencies. A brief overview of secure coding concepts and techniques are provided to students to provide exposure to how software can be made more secure and resilient and how security can be part of overall software development process.
+</end course description for 95-748 Software and Security>

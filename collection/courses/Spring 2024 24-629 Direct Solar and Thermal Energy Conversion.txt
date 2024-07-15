@@ -1,0 +1,16 @@
+<start course metadata for 24-629 Direct Solar and Thermal Energy Conversion>
+Semester: Spring 2024 (aka S24)
+Course Name: Direct Solar and Thermal Energy Conversion
+Course Number: 24-629
+Department: Mechanical Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Sheng Shen
+Rooms: WEH 8427
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-629 Direct Solar and Thermal Energy Conversion>
+
+<start course description for 24-629 Direct Solar and Thermal Energy Conversion>
+Semester: Spring 2024 (aka S24)
+Course Description: This course introduces graduates and senior undergraduates the principles and technologies for directly converting heat and solar light into electricity using solid-state devices. The first part of the course reviews the fundamentals of quantum mechanics, solid state physics and semiconductor device physics for understanding solid-state energy conversion. The second part discusses the underlying principles of thermoelectric energy conversion, thermionic energy conversion, and photovoltaics. Various solar thermal technologies will be reviewed, followed by an introduction to the principles of solar thermophotovoltaics and solar thermoelectrics. Spectral control techniques which are critical for solar thermal systems will also be discussed. By applying the basic energy conversion theory and principles covered in lectures, students will finish a set of 4 homework assignments. This course also requires one project in which students will work individually to review one present solar or thermal energy conversion technology 12 units
+</end course description for 24-629 Direct Solar and Thermal Energy Conversion>

@@ -1,0 +1,16 @@
+<start course metadata for 54-495 Internship>
+Semester: Fall 2023 (aka F23)
+Course Name: Internship
+Course Number: 54-495
+Department: Drama
+Number of Units: N/A
+Prerequisites: None
+Instructors: Amy Nichols, Rick Edinger
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-495 Internship>
+
+<start course description for 54-495 Internship>
+Semester: Fall 2023 (aka F23)
+Course Description: Assignment to professional theatre organizations designed to meet the professional needs of advanced-standing students.  By permission of the Head of the School.
+</end course description for 54-495 Internship>

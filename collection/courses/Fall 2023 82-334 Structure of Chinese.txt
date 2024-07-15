@@ -1,0 +1,16 @@
+<start course metadata for 82-334 Structure of Chinese>
+Semester: Fall 2023 (aka F23)
+Course Name: Structure of Chinese
+Course Number: 82-334
+Department: Modern Languages
+Number of Units: 9
+Prerequisites: 82-232 or 82-235
+Instructors: Tianxue Yao
+Rooms: PH A20
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 82-334 Structure of Chinese>
+
+<start course description for 82-334 Structure of Chinese>
+Semester: Fall 2023 (aka F23)
+Course Description: This is an upper-level Chinese course for students who have completed the requirements for intermediate Chinese with the goal of enabling students to build up a more comprehensive and systematic understanding of the structure of Chinese so as to lay a solid foundation for the further development of their advanced level language proficiency. This course will cover major complicated structural phenomena in Modern Chinese through the study of specially selected sample texts. Special emphasis will be given to high frequent errors and weaknesses on particularly problematic elements and sentence structures that are common among non-native Chinese speakers. After this course, students can expect to have the ability to use Chinese more accurately and naturally in both speaking and writing on sophisticated topics in life.
+</end course description for 82-334 Structure of Chinese>

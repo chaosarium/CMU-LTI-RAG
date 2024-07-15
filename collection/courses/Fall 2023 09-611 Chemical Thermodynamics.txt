@@ -1,0 +1,16 @@
+<start course metadata for 09-611 Chemical Thermodynamics>
+Semester: Fall 2023 (aka F23)
+Course Name: Chemical Thermodynamics
+Course Number: 09-611
+Department: Chemistry
+Number of Units: 6
+Prerequisites: 09-231 and 09-345
+Instructors: Hyung Kim
+Rooms: MI 448
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 09-611 Chemical Thermodynamics>
+
+<start course description for 09-611 Chemical Thermodynamics>
+Semester: Fall 2023 (aka F23)
+Course Description: This course provides an introduction to the general formalism of macroscopic thermodynamics and its applications to chemical systems. The main topics to be covered include: entropy maximum postulate, internal energy minimum postulate, various equilibrium conditions including chemical equilibrium, Legendre transformation and free energies, thermochemistry, phase equilibria and solution systems.
+</end course description for 09-611 Chemical Thermodynamics>

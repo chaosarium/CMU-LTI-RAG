@@ -1,0 +1,16 @@
+<start course metadata for 18-656 Functional Programming in Practice>
+Semester: Spring 2024 (aka S24)
+Course Name: Functional Programming in Practice
+Course Number: 18-656
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Rafal Wlodarski
+Rooms: B23 227
+Locations: San Jose, California
+</end course metadata for 18-656 Functional Programming in Practice>
+
+<start course description for 18-656 Functional Programming in Practice>
+Semester: Spring 2024 (aka S24)
+Course Description: Functional programming is an increasingly important paradigm in modern software engineering for building data-rich, high-performance applications that need parallelism for efficient, scalable implementation. This course aims to develop an applied understanding of the functional programming style and associated techniques using the F-sharp language. Students will practice these concepts in a hands-on manner by tackling problems involving concurrent, big-data processing and asynchronous communication while keeping performance trade-offs in mind.  The course adopts a business-oriented approach (domain-driven design) in developing systems with functional programming. Combining functional programming with domain-driven design has in particular been successful in the FinTech sector, which the course leverages as an example application domain.
+</end course description for 18-656 Functional Programming in Practice>

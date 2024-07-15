@@ -1,0 +1,16 @@
+<start course metadata for 82-161 Elementary Italian I>
+Semester: Fall 2023 (aka F23)
+Course Name: Elementary Italian I
+Course Number: 82-161
+Department: Modern Languages
+Number of Units: 12
+Prerequisites: None
+Instructors: Bianca Brown
+Rooms: PH 225B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 82-161 Elementary Italian I>
+
+<start course description for 82-161 Elementary Italian I>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is for students with no prior experience in Italian. Using a proficiency-oriented approach, students will develop contextually appropriate interpersonal communication skills in both written and spoken Italian, develop reading and listening skills through the use of various media, understand fundamental grammar, acquire vocabulary, and gain a basic understanding of Italian culture through class activities. Regular homework, quizzes, tests, presentations, and class participation are mandatory (four in-class hours per week). The elementary level is also designed to help students learn to reflect and draw upon strategies used by good language learners in their second language study. A student with prior experience in Italian must take the placement exam.
+</end course description for 82-161 Elementary Italian I>

@@ -1,0 +1,16 @@
+<start course metadata for 21-703 Model Theory II>
+Semester: Spring 2024 (aka S24)
+Course Name: Model Theory II
+Course Number: 21-703
+Department: Mathematical Sciences
+Number of Units: 12
+Prerequisites: (21-355 or 21-235 or 21-455) and (21-373 or 21-237) and (21-603)
+Instructors: Rami Grossberg
+Rooms: WEH 8201
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-703 Model Theory II>
+
+<start course description for 21-703 Model Theory II>
+Semester: Spring 2024 (aka S24)
+Course Description: The course concentrates in what is considered "main stream model theory" with is Shelah's classification theory (known also as Stability).  Among the topics to be presented are stability, superstability, the theory of various notions of primeness, rank functions, forking calculus, the stability spectrum theorem, finite equivalence relations theorem, stable groups (up to and including the Macintyre-Cherlin-Shelah theorem on super-stable fields), and some elementary geometric model theory.  If time permits also: basic facts about infinitary languages, computation of Hanf-Morley numbers; some of the Ax-Kochen-Ershov theory of model theory for fields with valuations (will apply this to solve Artin's conjecture).  (Three 50 minute lectures)
+</end course description for 21-703 Model Theory II>

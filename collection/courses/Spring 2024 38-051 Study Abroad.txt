@@ -1,0 +1,16 @@
+<start course metadata for 38-051 Study Abroad>
+Semester: Spring 2024 (aka S24)
+Course Name: Study Abroad
+Course Number: 38-051
+Department: MCS Interdisciplinary
+Number of Units: 0
+Prerequisites: None
+Instructors: Maggie Braun
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 38-051 Study Abroad>
+
+<start course description for 38-051 Study Abroad>
+Semester: Spring 2024 (aka S24)
+Course Description: None
+</end course description for 38-051 Study Abroad>

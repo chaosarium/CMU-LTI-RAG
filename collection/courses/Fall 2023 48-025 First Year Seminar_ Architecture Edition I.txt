@@ -1,0 +1,16 @@
+<start course metadata for 48-025 First Year Seminar: Architecture Edition I>
+Semester: Fall 2023 (aka F23)
+Course Name: First Year Seminar: Architecture Edition I
+Course Number: 48-025
+Department: Architecture
+Number of Units: 3
+Prerequisites: None
+Instructors: Heather Workinger
+Rooms: MM A14
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-025 First Year Seminar: Architecture Edition I>
+
+<start course description for 48-025 First Year Seminar: Architecture Edition I>
+Semester: Fall 2023 (aka F23)
+Course Description: The main objective of this first-year seminar course is on how students learn, develop, and make decisions as they transition into architecture education.  The goal of this course is to promote academic success and encourage connections within the SoA and the University at large.  Teaching and learning strategies will be introduced to help support the transition into architecture and the development of independent critical thinkers.   Students will be introduced to campus resources that support their academic/social/personal integration into the campus community.  Topical areas to be covered in the seminar will include academic success strategies in architecture education, academic development, career planning, mentorships, academic and personal support services, and the aspects of professional practice in architecture.
+</end course description for 48-025 First Year Seminar: Architecture Edition I>

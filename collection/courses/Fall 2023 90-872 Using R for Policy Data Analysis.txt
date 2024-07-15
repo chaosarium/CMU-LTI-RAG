@@ -1,0 +1,16 @@
+<start course metadata for 90-872 Using R for Policy Data Analysis>
+Semester: Fall 2023 (aka F23)
+Course Name: Using R for Policy Data Analysis
+Course Number: 90-872
+Department: Public Policy & Mgt:Sch of Pub Pol & Mgt
+Number of Units: 6
+Prerequisites: None
+Instructors: M Sermons
+Rooms: CMU REMOTE
+Locations: Pittsburgh, Pennsylvania; Washington, District of Columbia
+</end course metadata for 90-872 Using R for Policy Data Analysis>
+
+<start course description for 90-872 Using R for Policy Data Analysis>
+Semester: Fall 2023 (aka F23)
+Course Description: Data analysis is an essential part of quantitative policy analysis; however, focused application of statistical methods is outside of the scope of what can be taught in classes such as Cost -Benefit Analysis (CBA) and Program Evaluation. In this course, students who will apply a variety of data analysis techniques using R, a free open source statistics and graphical analysis environment that is increasingly used by data miners and analysts. Class sessions will include a combination of instruction on data analysis techniques, in-class application using R, and presentations by practicing policy data analysts. Applications will focus on analysis that is relevant to the social safety net, including cases that focus on consumer protection, affordable housing and homelessness.
+</end course description for 90-872 Using R for Policy Data Analysis>

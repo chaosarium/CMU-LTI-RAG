@@ -1,0 +1,16 @@
+<start course metadata for 24-699 Communication of Internship Experience>
+Semester: Fall 2023 (aka F23)
+Course Name: Communication of Internship Experience
+Course Number: 24-699
+Department: Mechanical Engineering
+Number of Units: 1
+Prerequisites: None
+Instructors: Kenji Shimada, Melissa Brown
+Rooms: PH 226C
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-699 Communication of Internship Experience>
+
+<start course description for 24-699 Communication of Internship Experience>
+Semester: Fall 2023 (aka F23)
+Course Description: Following their summer internship, students will participate in this Mini-1 course. The course provides a platform for students to communicate their internship experience to their peers and faculty through oral presentations. Students will also work on developing a LinkedIn profile and resume by taking advantage of the available university resources, allowing them to enhance career prospects.
+</end course description for 24-699 Communication of Internship Experience>

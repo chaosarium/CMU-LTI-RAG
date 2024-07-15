@@ -1,0 +1,16 @@
+<start course metadata for 21-997 Mathematics Colloquium>
+Semester: Spring 2024 (aka S24)
+Course Name: Mathematics Colloquium
+Course Number: 21-997
+Department: Mathematical Sciences
+Number of Units: 0
+Prerequisites: None
+Instructors: Instructor TBA
+Rooms: WEH 7500
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-997 Mathematics Colloquium>
+
+<start course description for 21-997 Mathematics Colloquium>
+Semester: Spring 2024 (aka S24)
+Course Description: No course description provided.
+</end course description for 21-997 Mathematics Colloquium>

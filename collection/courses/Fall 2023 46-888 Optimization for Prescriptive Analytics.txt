@@ -1,0 +1,16 @@
+<start course metadata for 46-888 Optimization for Prescriptive Analytics>
+Semester: Fall 2023 (aka F23)
+Course Name: Optimization for Prescriptive Analytics
+Course Number: 46-888
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Andrew Li
+Rooms: TEP 2111
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 46-888 Optimization for Prescriptive Analytics>
+
+<start course description for 46-888 Optimization for Prescriptive Analytics>
+Semester: Fall 2023 (aka F23)
+Course Description: Mathematical optimization technology is key to turning data into better decision making. The application of large-scale optimization models can bring a critical competitive advantage to many firms. This course focuses on developing such optimization models for operational and strategic decision making, with applications that include vehicle routing, employee scheduling, network design and capacity planning. Methodologies include linear programming, integer programming, nonlinear programming, constraint programming, heuristics, and column generation.
+</end course description for 46-888 Optimization for Prescriptive Analytics>

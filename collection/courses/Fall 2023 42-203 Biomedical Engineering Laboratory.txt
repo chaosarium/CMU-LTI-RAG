@@ -1,0 +1,16 @@
+<start course metadata for 42-203 Biomedical Engineering Laboratory>
+Semester: Fall 2023 (aka F23)
+Course Name: Biomedical Engineering Laboratory
+Course Number: 42-203
+Department: Biomedical Engineering
+Number of Units: 9
+Prerequisites: (42-101) and (03-121 or 03-151)
+Instructors: Rachelle Palchesko
+Rooms: BH 235A; BH 235B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 42-203 Biomedical Engineering Laboratory>
+
+<start course description for 42-203 Biomedical Engineering Laboratory>
+Semester: Fall 2023 (aka F23)
+Course Description: This laboratory course is designed to provide students with the ability to make measurements on and interpret data from living systems.  The experimental modules reinforce concepts from 42-101 Introduction to Biomedical Engineering and expose students to four areas of biomedical engineering: biomedical signal and image processing, biomaterials, biomechanics, and cellular and molecular biotechnology.  Several cross-cutting modules are included as well.  The course includes weekly lectures to complement the experimental component.       Pre-med students should register for 03-206.   Priority for enrollment will be given to students who have declared the Additional Major in Biomedical Engineering.
+</end course description for 42-203 Biomedical Engineering Laboratory>

@@ -1,0 +1,16 @@
+<start course metadata for 15-996 Introductory Course for CS Doctoral -Diversity & Inclusion in Science & Society>
+Semester: Spring 2024 (aka S24)
+Course Name: Introductory Course for CS Doctoral -Diversity & Inclusion in Science & Society
+Course Number: 15-996
+Department: Computer Science
+Number of Units: 6
+Prerequisites: None
+Instructors: Gabriele Oliaro, Victor Abayomi Akinwande, Zico Kolter
+Rooms: GHC 4303
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-996 Introductory Course for CS Doctoral -Diversity & Inclusion in Science & Society>
+
+<start course description for 15-996 Introductory Course for CS Doctoral -Diversity & Inclusion in Science & Society>
+Semester: Spring 2024 (aka S24)
+Course Description: The goal of this course is to prepare PhD students to engage in the CS community, even as our community evolves to put more emphasis on Justice, Equity, Diversity & Inclusion (JEDI). This evolution is reflected in the increasing expectations of students to engage meaningfully with JEDI concepts on department committees, in student groups, and on job applications. https://www.cs.cmu.edu/~15996/
+</end course description for 15-996 Introductory Course for CS Doctoral -Diversity & Inclusion in Science & Society>

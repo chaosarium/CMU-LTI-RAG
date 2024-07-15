@@ -1,0 +1,4 @@
+publication venue: Conference on Empirical Methods in Natural Language Processing
+title: Don't Take This Out of Context!: On the Need for Contextual Models and Evaluations for Stylistic Rewriting
+year: 2023
+authors: Akhila Yerukola, Xuhui Zhou, Elizabeth Clark, Maarten Sap

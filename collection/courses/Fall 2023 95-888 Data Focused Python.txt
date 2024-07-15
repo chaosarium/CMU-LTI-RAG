@@ -1,0 +1,16 @@
+<start course metadata for 95-888 Data Focused Python>
+Semester: Fall 2023 (aka F23)
+Course Name: Data Focused Python
+Course Number: 95-888
+Department: Information Systems:Sch of IS & Mgt
+Number of Units: 6
+Prerequisites: None
+Instructors: John Ostlund
+Rooms: HBH 1202; HBH 1204; HBH 1206; HBH 2008
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 95-888 Data Focused Python>
+
+<start course description for 95-888 Data Focused Python>
+Semester: Fall 2023 (aka F23)
+Course Description: This seven-week course focuses on the fundamentals of computer programming using the Python 3 interpreted programming language. Students will develop their problem-solving skills using the top-down procedural decomposition approach to build real-world based software applications. Pupils will also learn the basics of the software development lifecycle: planning, development, testing, implementation and maintenance. Assignments will include weekly homework and bi-weekly fundamental checkpoint quizzes, top-down approach programming projects within a capstone object-oriented data focused project. Learners will study how to build professional, user-friendly computer programs applicable to realworld applications in an IT-modeled environment.  Students who complete 95-888 should not go on to take 90-812 Python Programming I or 90-819 Python Programming II.  If you have already completed 90-812 or 90-819, you should not register for this course.
+</end course description for 95-888 Data Focused Python>

@@ -1,0 +1,16 @@
+<start course metadata for 17-695 Design Patterns>
+Semester: Fall 2023 (aka F23)
+Course Name: Design Patterns
+Course Number: 17-695
+Department: Software & Societal Systems
+Number of Units: 6
+Prerequisites: None
+Instructors: Swarnalatha Ashok
+Rooms: 3SC 265
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 17-695 Design Patterns>
+
+<start course description for 17-695 Design Patterns>
+Semester: Fall 2023 (aka F23)
+Course Description: Attributes of a good quality software are ease of maintenance, modifiability, extensibility, and reusability, among others. Design Patterns that are mined from existing well-designed software improve quality through documented and proven solutions to common problems. Reusing good designs appropriately not only improves the quality, but also reduces the development cost. Many existing code without much documentation also can benefit by refactoring to patterns. In this course students will learn techniques to identify design problems and apply design patterns effectively to improve the quality of software. The objectives of this course are (1) Understanding good software design principles (2) Identifying design problems (3) Evaluating and selecting appropriate reusable design patterns  (4)Solving design problems using design patterns (5)Refactoring existing code using design patterns
+</end course description for 17-695 Design Patterns>

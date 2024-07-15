@@ -1,0 +1,16 @@
+<start course metadata for 21-120 Differential and Integral Calculus>
+Semester: Summer Two 2024 (aka M24, M24 Mini 2, Summer 2024 Mini 2)
+Course Name: Differential and Integral Calculus
+Course Number: 21-120
+Department: Mathematical Sciences
+Number of Units: 10
+Prerequisites: None
+Instructors: Junichi Koganemaru
+Rooms: DH 1212
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-120 Differential and Integral Calculus>
+
+<start course description for 21-120 Differential and Integral Calculus>
+Semester: Summer Two 2024 (aka M24, M24 Mini 2, Summer 2024 Mini 2)
+Course Description: None
+</end course description for 21-120 Differential and Integral Calculus>

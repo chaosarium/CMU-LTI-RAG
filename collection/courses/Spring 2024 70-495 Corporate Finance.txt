@@ -1,0 +1,16 @@
+<start course metadata for 70-495 Corporate Finance>
+Semester: Spring 2024 (aka S24)
+Course Name: Corporate Finance
+Course Number: 70-495
+Department: Business Administration
+Number of Units: 9
+Prerequisites: 21-370 or 70-391
+Instructors: Matthew Denes
+Rooms: TEP 2610
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 70-495 Corporate Finance>
+
+<start course description for 70-495 Corporate Finance>
+Semester: Spring 2024 (aka S24)
+Course Description: Students develop an advanced financial perspective on how firms make investment, financing, and management decisions.  The course starts with simple net present value rules and builds the theoretical framework to address more sophisticated issues and problems including risk management, mergers, acquisitions, executive compensation, corporate governance, and dividend payout policies.  Theory is supplemented with numerous case study examples. This course may use third-party course material that is not available for individual purchase from the publisher.   If so, the third-party course material will be secured and provided by the Tepper School to students enrolled in the course, and students enrolled in the course will be required to pay to the University the associated additional course materials fee for the third-party course material provided.   The amount of the course materials fee is dependent on the University's cost of the particular materials provided, and typically ranges from $13 to $75.
+</end course description for 70-495 Corporate Finance>

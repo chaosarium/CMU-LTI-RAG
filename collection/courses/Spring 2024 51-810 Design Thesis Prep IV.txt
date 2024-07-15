@@ -1,0 +1,16 @@
+<start course metadata for 51-810 Design Thesis Prep IV>
+Semester: Spring 2024 (aka S24)
+Course Name: Design Thesis Prep IV
+Course Number: 51-810
+Department: Design
+Number of Units: 3
+Prerequisites: None
+Instructors: Bruce Hanington
+Rooms: MM 215
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-810 Design Thesis Prep IV>
+
+<start course description for 51-810 Design Thesis Prep IV>
+Semester: Spring 2024 (aka S24)
+Course Description: The fourth and final series of workshops, preparing MDES students for their thesis presentations.
+</end course description for 51-810 Design Thesis Prep IV>

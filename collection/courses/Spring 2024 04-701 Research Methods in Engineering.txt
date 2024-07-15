@@ -1,0 +1,16 @@
+<start course metadata for 04-701 Research Methods in Engineering>
+Semester: Spring 2024 (aka S24)
+Course Name: Research Methods in Engineering
+Course Number: 04-701
+Department: Information & Communication Technology
+Number of Units: 6
+Prerequisites: None
+Instructors: Edwin Mugume
+Rooms: CMR F205
+Locations: Kigali, Rwanda
+</end course metadata for 04-701 Research Methods in Engineering>
+
+<start course description for 04-701 Research Methods in Engineering>
+Semester: Spring 2024 (aka S24)
+Course Description: This course provides an overview of research methodology including the fundamental concepts employed in designing and conducting research in the engineering field. The course will help students develop an understanding of the research process, ethical considerations in research, and the strengths and weaknesses of various research methods.  Students will learn how to: Plan and design a research project Identify a research problem and sub-problems Conduct a literature review Determine a methodology for answering the questions presented Develop hypotheses regarding the expected results
+</end course description for 04-701 Research Methods in Engineering>

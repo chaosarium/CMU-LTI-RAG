@@ -1,0 +1,16 @@
+<start course metadata for 11-636 MSAII Independent Study>
+Semester: Fall 2023 (aka F23)
+Course Name: MSAII Independent Study
+Course Number: 11-636
+Department: Language Technologies Institute
+Number of Units: N/A
+Prerequisites: None
+Instructors: Michael Shamos
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 11-636 MSAII Independent Study>
+
+<start course description for 11-636 MSAII Independent Study>
+Semester: Fall 2023 (aka F23)
+Course Description: Independent study course for students in MSAII program.
+</end course description for 11-636 MSAII Independent Study>

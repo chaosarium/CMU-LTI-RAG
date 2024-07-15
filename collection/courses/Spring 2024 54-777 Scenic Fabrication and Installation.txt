@@ -1,0 +1,16 @@
+<start course metadata for 54-777 Scenic Fabrication and Installation>
+Semester: Spring 2024 (aka S24)
+Course Name: Scenic Fabrication and Installation
+Course Number: 54-777
+Department: Drama
+Number of Units: 3
+Prerequisites: None
+Instructors: David Boevers
+Rooms: PCA 209
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-777 Scenic Fabrication and Installation>
+
+<start course description for 54-777 Scenic Fabrication and Installation>
+Semester: Spring 2024 (aka S24)
+Course Description: Required for all sophomore Design and PTM students; also required for graduate PTM students    This class establishes a set of standards for theatrical construction consistent with modern regional and commercial shop standards. Drafting is a pre-requisite, and upon completion of this course, students are qualified to produce shop drawings of standard scenic elements.
+</end course description for 54-777 Scenic Fabrication and Installation>

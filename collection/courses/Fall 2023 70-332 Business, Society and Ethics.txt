@@ -1,0 +1,16 @@
+<start course metadata for 70-332 Business, Society and Ethics>
+Semester: Fall 2023 (aka F23)
+Course Name: Business, Society and Ethics
+Course Number: 70-332
+Department: Business Administration
+Number of Units: 9
+Prerequisites: (76-102) or (76-101) or (76-106 and 76-107) or (76-106 and 76-108) or (76-107 and 76-108)
+Instructors: Cristian Dimitriu, Derek Leben
+Rooms: CMB 1031; TEP 2700
+Locations: Doha, Qatar; Pittsburgh, Pennsylvania
+</end course metadata for 70-332 Business, Society and Ethics>
+
+<start course description for 70-332 Business, Society and Ethics>
+Semester: Fall 2023 (aka F23)
+Course Description: What sorts of ethical obligations do businesses have towards their customers, employees, and the public? This course will explore ethical challenges faced by modern corporations, and frameworks which can be used to develop responsible corporate policy. The course is divided into four main units: (1) autonomy and consent, (2) the scope and locus of corporate responsibility, (3) fair treatment and outcomes, (4) the limits of labor and commodification. This course may use copyrighted material. If so, the third-party course material will be secured and provided by the Tepper School to students enrolled in the course, and students enrolled in the course will be required to pay to the University the associated additional course materials fee for the third-party course material provided. The amount of the course materials fee is dependent on the University's cost of the particular materials provided, and typically ranges from $13 to $75.
+</end course description for 70-332 Business, Society and Ethics>

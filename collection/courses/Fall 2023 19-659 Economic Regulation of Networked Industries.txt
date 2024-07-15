@@ -1,0 +1,16 @@
+<start course metadata for 19-659 Economic Regulation of Networked Industries>
+Semester: Fall 2023 (aka F23)
+Course Name: Economic Regulation of Networked Industries
+Course Number: 19-659
+Department: Engineering & Public Policy
+Number of Units: 6
+Prerequisites: 73-102
+Instructors: Marvin Sirbu
+Rooms: CFA 102
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 19-659 Economic Regulation of Networked Industries>
+
+<start course description for 19-659 Economic Regulation of Networked Industries>
+Semester: Fall 2023 (aka F23)
+Course Description: Economic Regulation of Networked Industries; This course will examine principles of economic regulation of networked industries such as gas, electricity, water and telecommunications, including economic justifications for price regulation (e.g. natural monopoly); alternative approaches to price regulation (Rate of Return, Price Caps), cost allocation and pricing in multiproduct industries (e.g. Ramsey prices); tariff design (single and multipart tariffs, capacity charges, peak load pricing); regulation in the presence of competition (cross subsidy and predatory pricing; access pricing); and institutional issues in regulatory agencies (design of independent regulatory agencies, incorporation of public input, public choice theory, regulatory capture).
+</end course description for 19-659 Economic Regulation of Networked Industries>

@@ -1,0 +1,16 @@
+<start course metadata for 48-743 Introduction to Ecological Design Thinking>
+Semester: Fall 2023 (aka F23)
+Course Name: Introduction to Ecological Design Thinking
+Course Number: 48-743
+Department: Architecture
+Number of Units: 9
+Prerequisites: None
+Instructors: Dana Cupkova
+Rooms: MM 321
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-743 Introduction to Ecological Design Thinking>
+
+<start course description for 48-743 Introduction to Ecological Design Thinking>
+Semester: Fall 2023 (aka F23)
+Course Description: This seminar offers an overview of scholarly, design-based and research-based approaches to issues of ecology and sustainability in architecture and urban design. The seminar intends to question contemporary paradigms of sustainability within the built environment and includes inquiries from different disciplinary perspectives ranging from history, theory, technology, engineering, art and design. The goal of this seminar is to offer a platform for critical thinking, in-depth discussion and analysis of actionable methodologies related to sustainability, and procedures relevant to the shaping of our physical environment and social systems. Composed of a series of lectures, readings and short assignments, this seminar will lead students through a diverse collection of interdisciplinary views and positions towards defining what is our understating of sustainability today, and what is a role of large scale ecology within the constructed environments. Students will be introduced to a wide overview of technical, analytical, practical, theoretical and intellectual inquiries that will help them to navigate varied fields of expertise and enable their future investigation of innovative sustainable strategies for the built environment.  This seminar will consist of majority of lecture sessions and 2 project review sessions, spread across the fall semester. Each session will introduce set of readings and/or a small exercises related to the lecture theme. The invited lecturers come from both: academia and practice. Invited speakers' areas of research and design work feature diverse approaches to issues of sustainability and technology. This seminar serves as a platform for development of a cross-disciplinary theoretical foundation to investigate varied methodologies towards sustainable design practice.
+</end course description for 48-743 Introduction to Ecological Design Thinking>

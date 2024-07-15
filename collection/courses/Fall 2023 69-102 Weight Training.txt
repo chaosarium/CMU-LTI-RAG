@@ -1,0 +1,16 @@
+<start course metadata for 69-102 Weight Training>
+Semester: Fall 2023 (aka F23)
+Course Name: Weight Training
+Course Number: 69-102
+Department: Physical Education
+Number of Units: 3
+Prerequisites: None
+Instructors: Molly Goldcamp, Monica Harrison, Sara Gauntner, Shealene Little
+Rooms: CUC FITNES
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 69-102 Weight Training>
+
+<start course description for 69-102 Weight Training>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is designed to provide the opportunity for the inexperienced student to learn the effectiveness of a carefully planned weight-training program as a method of body development and the contributing benefit to performance in many sports.
+</end course description for 69-102 Weight Training>

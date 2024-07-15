@@ -1,0 +1,16 @@
+<start course metadata for 76-748 Academic Writing and Communication for Graduate Students>
+Semester: Spring 2024 (aka S24)
+Course Name: Academic Writing and Communication for Graduate Students
+Course Number: 76-748
+Department: English
+Number of Units: 4
+Prerequisites: None
+Instructors: Keely Austin
+Rooms: PH A19
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 76-748 Academic Writing and Communication for Graduate Students>
+
+<start course description for 76-748 Academic Writing and Communication for Graduate Students>
+Semester: Spring 2024 (aka S24)
+Course Description: This course introduces graduate students to qualities of discourse and argumentation, genre, and rhetorical conventions common to academic and scholarly communication.  Areas of focus include genre awareness and knowledge, claim structure and rhetorical moves, discourse analysis, and rhetorical flexibility.  Attention is given to elements of formal writing, oral presentation, and visual design such as clarity, concision, and coherence. Students will create effective communications, ethically incorporating sources while establishing their own voice and contribution to an academic community.  They will also identify strategies to critically engage and analyze scholarly texts.  Skills acquired in this course will help prepare students for participation in their disciplinary discourse communities in graduate-level studies and beyond. (Unlike 76-745, this course does not focus on ESL communication features.)
+</end course description for 76-748 Academic Writing and Communication for Graduate Students>

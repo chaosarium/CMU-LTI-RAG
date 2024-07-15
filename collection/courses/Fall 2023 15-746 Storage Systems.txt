@@ -1,0 +1,16 @@
+<start course metadata for 15-746 Storage Systems>
+Semester: Fall 2023 (aka F23)
+Course Name: Storage Systems
+Course Number: 15-746
+Department: Computer Science
+Number of Units: 12
+Prerequisites: 18-213 or 15-213 or 18-613 or 15-513 or 18-600 or 14-513
+Instructors: George Amvrosiadis, Gregory Ganger
+Rooms: DH 2210
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-746 Storage Systems>
+
+<start course description for 15-746 Storage Systems>
+Semester: Fall 2023 (aka F23)
+Course Description: Storage systems are among the most fascinating and the most important parts of computer systems. They often dominate the performance of a system, and failures of other components are frequently addressed by restarting from the data stored on them. Indeed, storage systems hold the crown jewels of most organizations: their information (from source code to Microsoft's software to the sales databases of every e-commerce site to the logs and indices driving the Big Data and ML revolution). There continues to be great demand for bright people and better solutions in this critical field of computer systems.
+</end course description for 15-746 Storage Systems>

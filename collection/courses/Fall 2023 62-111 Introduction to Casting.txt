@@ -1,0 +1,16 @@
+<start course metadata for 62-111 Introduction to Casting>
+Semester: Fall 2023 (aka F23)
+Course Name: Introduction to Casting
+Course Number: 62-111
+Department: CFA Interdisciplinary
+Number of Units: 3
+Prerequisites: None
+Instructors: Stefanie Mcgowan
+Rooms: OFF CAMPUS
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 62-111 Introduction to Casting>
+
+<start course description for 62-111 Introduction to Casting>
+Semester: Fall 2023 (aka F23)
+Course Description: Combine sculpting and mold making with the heat and power of the kiln to create amazing cast glass sculptures. Learn the basics of kiln-cast glass by creating small 3D objects. Make replicas of found objects by learning the lost wax casting process and explore silicones and other mold making materials. Then, learn how to life cast by taking a mold of your hand or other body part and turn it into solid glass! This class will cover model construction, refractory molds, glass preparation, firing and resolving castings into finished works of glass art. Registration for Pittsburgh Glass Center classes can only be done on or after your scheduled registration day. Spaces are limited. Registration is done on a first come, first served basis. Please email Stefanie McGowan (stefanim@andrew.cmu.edu) for more information and to register. Course fee is $240. Not eligible for PCHE Cross Registration. Course taught at the Pittsburgh Glass Center.
+</end course description for 62-111 Introduction to Casting>

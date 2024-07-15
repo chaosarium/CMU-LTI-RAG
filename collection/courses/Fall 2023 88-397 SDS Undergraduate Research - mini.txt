@@ -1,0 +1,16 @@
+<start course metadata for 88-397 SDS Undergraduate Research - mini>
+Semester: Fall 2023 (aka F23)
+Course Name: SDS Undergraduate Research - mini
+Course Number: 88-397
+Department: Social & Decision Sciences
+Number of Units: N/A
+Prerequisites: None
+Instructors: Danny Oppenheimer, Julie Downs, Kevin Jarbo
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 88-397 SDS Undergraduate Research - mini>
+
+<start course description for 88-397 SDS Undergraduate Research - mini>
+Semester: Fall 2023 (aka F23)
+Course Description: Students conduct research under the supervision of a Social & Decision Sciences faculty member. Students who wish to engage in research should seek out a faculty member whose interests are appropriate to the research. Prerequisite: Students must also complete an "Independent Study/Research for Credit" form, available from the SDS advisor in Porter 208A.  Permission of a faculty sponsor.
+</end course description for 88-397 SDS Undergraduate Research - mini>

@@ -1,0 +1,16 @@
+<start course metadata for 12-320 TBA>
+Semester: Fall 2023 (aka F23)
+Course Name: TBA
+Course Number: 12-320
+Department: Civil & Environmental Engineering
+Number of Units: 9
+Prerequisites: None
+Instructors: Thomas Leech
+Rooms: PH A7F
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 12-320 TBA>
+
+<start course description for 12-320 TBA>
+Semester: Fall 2023 (aka F23)
+Course Description: students who have not had prior background in these subjects.  Engineering Mechanics uses the principles of force equilibrium, Hooke's Law and geometric compatibly to solve a wide range of engineering problems.  Topics covered in the course include force equilibrium; free body diagrams; definitions of bending moments and shears; analysis of simple truss and frame structures; Hooke's Law; tensile testing and plastic yield criteria; internal forces; stress-strain-temperature relations; pure bending of beams; transverse shear in beams; torsion of circular shafts; Mohr's circle representation for states of stress, deflection of simple beams; column buckling; introduction to fatigue and fracture.
+</end course description for 12-320 TBA>

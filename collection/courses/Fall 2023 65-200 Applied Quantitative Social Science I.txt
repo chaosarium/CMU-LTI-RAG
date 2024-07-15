@@ -1,0 +1,16 @@
+<start course metadata for 65-200 Applied Quantitative Social Science I>
+Semester: Fall 2023 (aka F23)
+Course Name: Applied Quantitative Social Science I
+Course Number: 65-200
+Department: General Dietrich College
+Number of Units: 9
+Prerequisites: None
+Instructors: Mark Patterson
+Rooms: BH 336B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 65-200 Applied Quantitative Social Science I>
+
+<start course description for 65-200 Applied Quantitative Social Science I>
+Semester: Fall 2023 (aka F23)
+Course Description: The first course in the QSSS core sequence provides a fast-paced introduction to a range of methods in the quantitative social sciences. Organized around a set of case studies, the course introduces the language and methods of empirical research through a combination of seminar-style discussions of academic papers, and hands-on lab work using the statistical software R. Students will replicate results from a high-profile labor market discrimination paper, explore agent-based models of neighborhood segregation, and scrape Wikipedia data to examine imbalances in gender representation. Enrollment restricted to QSSS students.
+</end course description for 65-200 Applied Quantitative Social Science I>

@@ -1,0 +1,16 @@
+<start course metadata for 88-950 Dissertation>
+Semester: Fall 2023 (aka F23)
+Course Name: Dissertation
+Course Number: 88-950
+Department: Social & Decision Sciences
+Number of Units: N/A
+Prerequisites: None
+Instructors: John Miller
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 88-950 Dissertation>
+
+<start course description for 88-950 Dissertation>
+Semester: Fall 2023 (aka F23)
+Course Description: No course description provided.
+</end course description for 88-950 Dissertation>

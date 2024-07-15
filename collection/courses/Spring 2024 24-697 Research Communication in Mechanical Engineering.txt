@@ -1,0 +1,16 @@
+<start course metadata for 24-697 Research Communication in Mechanical Engineering>
+Semester: Spring 2024 (aka S24)
+Course Name: Research Communication in Mechanical Engineering
+Course Number: 24-697
+Department: Mechanical Engineering
+Number of Units: 4
+Prerequisites: None
+Instructors: Joanna Wolfe
+Rooms: SH 234
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-697 Research Communication in Mechanical Engineering>
+
+<start course description for 24-697 Research Communication in Mechanical Engineering>
+Semester: Spring 2024 (aka S24)
+Course Description: This course, required for all MSME-R students, will support students in effectively writing and presenting their final research projects. Students will meet bi-weekly throughout a semester to learn communication strategies and give and receive peer feedback. There will be weekly deliverables (both written and oral) that will receive formal feedback from communication TAs. Topics covered include: writing a proposal, describing your project for different audiences, data visualization, designing a research poster, orally presenting your project in different venues, responding to questions about your project.
+</end course description for 24-697 Research Communication in Mechanical Engineering>

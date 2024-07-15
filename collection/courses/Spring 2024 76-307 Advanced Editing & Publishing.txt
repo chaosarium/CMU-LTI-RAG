@@ -1,0 +1,16 @@
+<start course metadata for 76-307 Advanced Editing & Publishing>
+Semester: Spring 2024 (aka S24)
+Course Name: Advanced Editing & Publishing
+Course Number: 76-307
+Department: English
+Number of Units: N/A
+Prerequisites: 76-306
+Instructors: Gerald Costanzo
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 76-307 Advanced Editing & Publishing>
+
+<start course description for 76-307 Advanced Editing & Publishing>
+Semester: Spring 2024 (aka S24)
+Course Description: Note: Registration in this course is by permission only. Students must contact Prof. Costanzo directly. This course is the second half of the year-long Editing and Publishing course sequence. Students must complete 76-306 before they may register for 76-307. In this course students will work closely with the editors of Carnegie Mellon University Press to continue learning many of the facets of producing books. These range from business management and marketing to the elements of editing, book design, and production.
+</end course description for 76-307 Advanced Editing & Publishing>

@@ -1,0 +1,16 @@
+<start course metadata for 60-706 M.F.A. Contextual Practice>
+Semester: Spring 2024 (aka S24)
+Course Name: M.F.A. Contextual Practice
+Course Number: 60-706
+Department: Art
+Number of Units: 12
+Prerequisites: None
+Instructors: Ginger Brooks Takahashi
+Rooms: HOA 322
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 60-706 M.F.A. Contextual Practice>
+
+<start course description for 60-706 M.F.A. Contextual Practice>
+Semester: Spring 2024 (aka S24)
+Course Description: Contextual Practice is a seminar course that fosters supervised student-initiated projects that connect artistic practices with the public sphere. Students work to identify, research, engage with and respond to an organization, site, or audience that pertains to their interests with the goal of expanding their field of discourse, and pushing their relationship with the public beyond the traditional confines of the contemporary art world.
+</end course description for 60-706 M.F.A. Contextual Practice>

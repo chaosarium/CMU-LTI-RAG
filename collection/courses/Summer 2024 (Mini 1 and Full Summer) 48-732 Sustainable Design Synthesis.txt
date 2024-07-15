@@ -1,0 +1,16 @@
+<start course metadata for 48-732 Sustainable Design Synthesis>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Sustainable Design Synthesis
+Course Number: 48-732
+Department: Architecture
+Number of Units: N/A
+Prerequisites: None
+Instructors: Dana Cupkova
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-732 Sustainable Design Synthesis>
+
+<start course description for 48-732 Sustainable Design Synthesis>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: Sustainable Design Synthesis II This is the synthesis project course in the Master of Science in Sustainable Design (MSSD) program in the School of Architecture at Carnegie Mellon University. This course deals with synthesis in solving sustainable design problems using the tools, theories and methods studied in the prerequisite courses. Students will attend weekly meetings with the instructor, conduct the proposed research, submit a final written report and make a presentation of their project in a public forum. Nine-Month Program: Students will build upon the Research Models and Methods class to finalize an individual project proposal in an area of their interest related to sustainable design.  Prerequisites: 48-711, 48-722, 48-737, 48-752 or approved equivalents plus one selective.  Co-requisites: 48-723 or approved equivalent plus two selectives.  Twelve-Month Program: Students will complete the proposed project developed and approved in the Sustainable Design Synthesis I course. Prerequisites: 48-711, 48-722, 48-737, 48-752, 48-723, 48-795 or approved equivalents plus three selectives  Instructor: Stephen Lee  Units: 24 Units
+</end course description for 48-732 Sustainable Design Synthesis>

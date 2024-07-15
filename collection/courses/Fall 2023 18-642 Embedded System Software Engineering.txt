@@ -1,0 +1,16 @@
+<start course metadata for 18-642 Embedded System Software Engineering>
+Semester: Fall 2023 (aka F23)
+Course Name: Embedded System Software Engineering
+Course Number: 18-642
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: 18-349
+Instructors: Philip Koopman
+Rooms: CMU REMOTE
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-642 Embedded System Software Engineering>
+
+<start course description for 18-642 Embedded System Software Engineering>
+Semester: Fall 2023 (aka F23)
+Course Description: In a very real sense, embedded software is what makes our everyday world function. From self-driving cars to chemical processing plant equipment, and from medical devices to the electric grid, embedded software is everywhere. You already know how to write code for a microcontroller. Now, learn software quality, safety, and security skills that are required to make embedded systems that can handle the messiness of the real world. This course provides in-depth coverage of the topics that are essential to the success of embedded software projects based on case studies of industry project teams that have suffered or failed. Students will learn about a variety of topics including: lightweight but high quality embedded software processes, technical best practices for embedded software, effective testing and validation, causes of software system failures, software for safety-critical systems, and embedded-specific aspects of software security. The material will generally be broken up into a set of four related topics each week, with one assignment per topic weekly, involving a combination of programming assignments, tool use experiences, and research questions to get hands-on experience at dealing with the types of problems that are encountered in industry embedded projects. We assume you already know how to code in C and understand the basics of microcontrollers. This course is about getting you ready to build industry-strength embedded projects.  Undergraduate students are required to take 18349 prior to enrolling in this course.  Graduate students are strongly encouraged to take 18-613/15-213/15-513/18-213 before or concurrently with this course.
+</end course description for 18-642 Embedded System Software Engineering>

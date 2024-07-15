@@ -1,0 +1,16 @@
+<start course metadata for 80-282 Phonetics and Phonology I>
+Semester: Fall 2023 (aka F23)
+Course Name: Phonetics and Phonology I
+Course Number: 80-282
+Department: Philosophy
+Number of Units: 9
+Prerequisites: 80-180
+Instructors: Tom Werner
+Rooms: PH 125B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 80-282 Phonetics and Phonology I>
+
+<start course description for 80-282 Phonetics and Phonology I>
+Semester: Fall 2023 (aka F23)
+Course Description: This course aims to provide students with practical tools for the study of speech sounds.  The first step in this analysis is isolating the speech sounds themselves, for any particular language. Following this, the relation between the articulatory features of sounds and their acoustic properties is examined using spectrograms and other devices. Basic phonological notions are covered, tracing their development in the twentieth century up through optimality theory. In optimality theory, contrast and allophonic variation are explained in terms of an input-output device which selects the most harmonic candidate still faithful to phonemes in the input. The course should be relevant not only to linguistics students, but to students of language generally, with applications to sociolinguistics, child language development, speech recognition technologies, and the study of foreign languages.
+</end course description for 80-282 Phonetics and Phonology I>

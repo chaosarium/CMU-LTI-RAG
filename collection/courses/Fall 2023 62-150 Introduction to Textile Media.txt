@@ -1,0 +1,16 @@
+<start course metadata for 62-150 Introduction to Textile Media>
+Semester: Fall 2023 (aka F23)
+Course Name: Introduction to Textile Media
+Course Number: 62-150
+Department: CFA Interdisciplinary
+Number of Units: 10
+Prerequisites: None
+Instructors: Natalya Pinchuk, Nina Marie Barbuto
+Rooms: HL 106B; HL A5
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 62-150 Introduction to Textile Media>
+
+<start course description for 62-150 Introduction to Textile Media>
+Semester: Fall 2023 (aka F23)
+Course Description: To view the different section topics, visit courses.ideate.cmu.edu/62-150 . Technologists, artists, and designers are engaging in new, interdisciplinary modes to consume, create, and reuse media. To do this, they thoughtfully collaborate and critically reflect on media creation, distribution, participation, interaction, and how media affects the audience. In this course, students will challenge themselves to work in these new modal contexts by thinking critically in a genre of exploration. They will formulate the intent of their creative work, articulate relationships to art/design practice and theory, and respond insightfully to creative, media-rich outcomes. The class will introduce core concepts through foundational texts, in-class exercises, collaborative projects, and group critique. Through hands-on media exploration, students will ground concepts such as embodiment, emergence, composition, participatory interfaces, and mediated experiences. Section A will be an Introduction to Textile Media. Section B will be an Introduction to Mediascapes: 2D to 3D Spatial Environments. For more detail on these sections, please visit courses.ideate.cmu.edu/62-150
+</end course description for 62-150 Introduction to Textile Media>

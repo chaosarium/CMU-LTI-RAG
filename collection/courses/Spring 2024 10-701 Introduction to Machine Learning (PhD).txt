@@ -1,0 +1,16 @@
+<start course metadata for 10-701 Introduction to Machine Learning (PhD)>
+Semester: Spring 2024 (aka S24)
+Course Name: Introduction to Machine Learning (PhD)
+Course Number: 10-701
+Department: Machine Learning
+Number of Units: 12
+Prerequisites: (15-122) and (21-127 or 21-128 or 15-151) and (21-325 or 36-217 or 36-219 or 36-225 or 36-218 or 15-259 or 15-359)
+Instructors: Henry Chai
+Rooms: TEP 1403
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 10-701 Introduction to Machine Learning (PhD)>
+
+<start course description for 10-701 Introduction to Machine Learning (PhD)>
+Semester: Spring 2024 (aka S24)
+Course Description: Machine learning studies the question: "how can we build adaptive algorithms that automatically improve their performance (on a given task) as they acquire more experience?" This can cover a dizzying array of technologies depending on what sort of task we have in mind, and we take to constitute experience. Through this framing, we might view classical statistics problems, like estimating the likelihood that a coin lands on heads as an ML problem: the task is to produce an estimate, and the experience would consist of observations. But ML can also include robotics challenges, where the experience is acquired dynamically as our artificial agent interacts with the real world. Other grand challenges in machine learning relate to personalized medicine, natural language processing, and most recently generating media artifacts like photographs and essays (but don't ask chatGPT to do your homework). This course is designed to give PhD students a solid foundation in the methods, mathematics, and algorithms of modern machine learning. Students entering the class with a pre-existing working knowledge of probability, statistics and algorithms will be at an advantage, but the class has been designed so that anyone with a strong mathematical and computer science background can catch up and fully participate. If you are interested in this topic, but are not a PhD student, or are a PhD student not specializing in machine learning, you might consider the master's level course on Machine Learning, 10-601. This class may be appropriate for MS and undergrad students who are interested in the theory and algorithms behind ML.
+</end course description for 10-701 Introduction to Machine Learning (PhD)>

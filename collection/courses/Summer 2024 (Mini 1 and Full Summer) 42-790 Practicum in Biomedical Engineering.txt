@@ -1,0 +1,16 @@
+<start course metadata for 42-790 Practicum in Biomedical Engineering>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Practicum in Biomedical Engineering
+Course Number: 42-790
+Department: Biomedical Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Patjanaporn Chalacheva
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 42-790 Practicum in Biomedical Engineering>
+
+<start course description for 42-790 Practicum in Biomedical Engineering>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: Students will work with a faculty member, local biomedically-oriented company or local clinical researcher on a technical research, development or outreach project.  A faculty member affiliated with the Department of Biomedical Engineering will either serve as the advisor for an internal project or as a liaison for an external industrial/clinical project.  The project will culminate in an oral presentation and an internally-archived written report which documents the project and its results.  The presentation and report will be reviewed by the faculty advisor/liaison; this review will serve as the basis for the assignment of the course grade. Pre-requisite:  Graduate standing and consent of faculty advisor/liaison.  Variable units.
+</end course description for 42-790 Practicum in Biomedical Engineering>

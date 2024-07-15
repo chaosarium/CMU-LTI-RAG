@@ -1,0 +1,16 @@
+<start course metadata for 09-621 Welcome to the Future Lab - Science in the Cloud>
+Semester: Spring 2024 (aka S24)
+Course Name: Welcome to the Future Lab - Science in the Cloud
+Course Number: 09-621
+Department: Chemistry
+Number of Units: 6
+Prerequisites: None
+Instructors: Subha Das
+Rooms: WEH 5202
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 09-621 Welcome to the Future Lab - Science in the Cloud>
+
+<start course description for 09-621 Welcome to the Future Lab - Science in the Cloud>
+Semester: Spring 2024 (aka S24)
+Course Description: You can be at home or anywhere in the world and still run experiments in a lab. This course is to introduce and train students in the use of an automated and remote cloud lab facility. Operations in the cloud lab are conducted through a computer console and internet access that allows the user to program equipment, set up experiments and analyze data. In this course, students will learn the steps to use the Wolfram language/Mathematica based Cloud Lab Command Center interface to remotely interact with the facilities and laboratory instruments in the cloud lab. Following training exercises, students will be able to select the appropriate equipment and reagents to prepare samples and solutions for laboratory analyses and experiments.   (No prior knowledge of Mathematica is required but basic programming skills are helpful)
+</end course description for 09-621 Welcome to the Future Lab - Science in the Cloud>

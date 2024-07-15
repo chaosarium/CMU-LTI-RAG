@@ -1,0 +1,16 @@
+<start course metadata for 94-483 Applied Ethical Analysis>
+Semester: Fall 2023 (aka F23)
+Course Name: Applied Ethical Analysis
+Course Number: 94-483
+Department: Heinz College Wide Courses
+Number of Units: 6
+Prerequisites: None
+Instructors: Rebekah Apple
+Rooms: HBH 1006
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 94-483 Applied Ethical Analysis>
+
+<start course description for 94-483 Applied Ethical Analysis>
+Semester: Fall 2023 (aka F23)
+Course Description: This course provides a framework to increase accountability through ethical decision-making.  The goal of this course is to allow you to understand the complexity and consequences of decisions, the utility of ethics in personal and professional life, and the motivations of others (be they ethical or not).  You will gain the ability to recognize and address underlying principles in a variety of contextual dilemmas. Students will learn to practically apply established theory and methodology to create and sustain trustworthiness.  Case studies, small group discussions, scholarly readings, and videos will demonstrate the relevance and importance of applied ethics.
+</end course description for 94-483 Applied Ethical Analysis>

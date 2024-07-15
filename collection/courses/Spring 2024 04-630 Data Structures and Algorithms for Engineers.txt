@@ -1,0 +1,16 @@
+<start course metadata for 04-630 Data Structures and Algorithms for Engineers>
+Semester: Spring 2024 (aka S24)
+Course Name: Data Structures and Algorithms for Engineers
+Course Number: 04-630
+Department: Information & Communication Technology
+Number of Units: 12
+Prerequisites: None
+Instructors: George Okeyo, Theophilus Benson
+Rooms: CMR F205; CMR F305
+Locations: Kigali, Rwanda
+</end course metadata for 04-630 Data Structures and Algorithms for Engineers>
+
+<start course description for 04-630 Data Structures and Algorithms for Engineers>
+Semester: Spring 2024 (aka S24)
+Course Description: This course will provide engineers with a background in algorithms, data structures, and their practical uses. An engineer who may already know programming will be able to learn the foundational aspects of how to design more efficient code that can reduce memory and CPU footprint.    The course begins by delving into a few algorithms and data structures that are routinely used by programmers. We then explore more efficient implementations of these constructs. Abstract data types are introduced, and the course provides an in-depth treatment of applications like searching, sorting, lists, stacks, and queues. The course will also cover trees, graphs, and algorithmic strategies. Performance analysis and tractability of algorithms, time/space complexity, automaton, and computability will also be discussed. Time permitting, the course will touch upon multi-threading, logging, testing, verification, and validation.   The course will be graded primarily on the basis of several programming assignments given during the semester, surprise quizzes, and two programming exams. All programming assignments will be in C++, and the lectures would involve studying C++ code.
+</end course description for 04-630 Data Structures and Algorithms for Engineers>

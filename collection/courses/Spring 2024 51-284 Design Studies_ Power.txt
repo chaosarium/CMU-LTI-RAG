@@ -1,0 +1,16 @@
+<start course metadata for 51-284 Design Studies: Power>
+Semester: Spring 2024 (aka S24)
+Course Name: Design Studies: Power
+Course Number: 51-284
+Department: Design
+Number of Units: 5
+Prerequisites: None
+Instructors: Kelsey Elder, Tricia Douglas
+Rooms: MM A11
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-284 Design Studies: Power>
+
+<start course description for 51-284 Design Studies: Power>
+Semester: Spring 2024 (aka S24)
+Course Description: "Power" explores the concepts of politics, the political, and the powers that intertwine with design. You will delve into the mesh conformed by plural forms of knowledge, wisdom, power, and designs. A deepening into matters of ideology allows us to think critically about how designed artifacts are the embodiment of ideology; having the power to influence what people think, and shape their aspirations, desires, and values. You will be exposed to emerging design practices and theories that harness the power of design for social change with sociocultural and ecological mindsets. Coursework includes facilitation of activities for the collective analysis of topics at the intersection of design and power.
+</end course description for 51-284 Design Studies: Power>

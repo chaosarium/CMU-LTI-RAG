@@ -1,0 +1,16 @@
+<start course metadata for 27-301 Microstructure and Properties I>
+Semester: Fall 2023 (aka F23)
+Course Name: Microstructure and Properties I
+Course Number: 27-301
+Department: Materials Science & Engineering
+Number of Units: 9
+Prerequisites: 27-216 and 27-217
+Instructors: Amanda Krause
+Rooms: POS 153
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 27-301 Microstructure and Properties I>
+
+<start course description for 27-301 Microstructure and Properties I>
+Semester: Fall 2023 (aka F23)
+Course Description: The objective of this course is to convey some of the essential concepts in materials science and engineering that relate properties (strength, toughness, formability, elasticity, magnetism, thermal expansion, for example) to the microstructure (crystal structure, dislocation structure, grain size, atoms in solids solution, precipitate characteristic, cellular materials). These relationships will be illustrated in terms of idealized materials and actual materials used in many applications. The course contains both lectures and laboratory exercises. The labs will include studies of recrystallization, the effect of microstructure on the properties of wood and the effect of microstructure on the mechanical behavior of a low ally steel, 4140.
+</end course description for 27-301 Microstructure and Properties I>

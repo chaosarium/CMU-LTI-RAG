@@ -1,0 +1,16 @@
+<start course metadata for 46-982 Market Microstructure and Algorithmic Trading>
+Semester: Fall 2023 (aka F23)
+Course Name: Market Microstructure and Algorithmic Trading
+Course Number: 46-982
+Department: Business Administration
+Number of Units: 6
+Prerequisites: 46-921 and 46-923 and 46-929 and 46-972
+Instructors: Chester Spatt, John Psaris
+Rooms: BRD 507; TCS 250
+Locations: New York, New York; Pittsburgh, Pennsylvania
+</end course metadata for 46-982 Market Microstructure and Algorithmic Trading>
+
+<start course description for 46-982 Market Microstructure and Algorithmic Trading>
+Semester: Fall 2023 (aka F23)
+Course Description: Trading is central to the investment process. This course presents foundational concepts and current issues relating to trading in financial markets including algorithmic and high frequency strategies, optimal order execution, execution quality analysis, the dynamics of limit order markets, the regulatory and institutional landscape, programming and IT infrastructure, and the economics of market microstructure. Important empirical methodologies and concepts such as price decomposition using vector autoregression, VWAP benchmarking, and PIN will be introduced. The course will consider trading in fixed income, equity, futures as well as in crypto markets. In hands-on course assignments, you will utilize the industry-standard Kdb+ and python languages along with actual intraday quote, trade and order book data to perform analysis in Jupyter notebooks.  Non-MSCF students may not take this course without written permission from the instructor. To be eligible, you must be a BSCF student or a graduate student enrolled in an MSCF participating college (Dietrich, Heinz, Tepper or Mellon). PhD students with relevant research may be eligible with permission from the instructor.
+</end course description for 46-982 Market Microstructure and Algorithmic Trading>

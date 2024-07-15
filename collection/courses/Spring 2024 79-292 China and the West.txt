@@ -1,0 +1,16 @@
+<start course metadata for 79-292 China and the West>
+Semester: Spring 2024 (aka S24)
+Course Name: China and the West
+Course Number: 79-292
+Department: History
+Number of Units: 9
+Prerequisites: None
+Instructors: Carl Kubler
+Rooms: BH 255A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 79-292 China and the West>
+
+<start course description for 79-292 China and the West>
+Semester: Spring 2024 (aka S24)
+Course Description: This course examines the global history of China from the time of Marco Polo to the era of Xi Jinping, with particular emphasis on the political, social, and economic dimensions of how "China" and "the West" have interacted over the past three centuries. How have European and American writers, travelers, and political figures thought about China over time? How have their Chinese counterparts thought about the West? What have been the dominant narratives about Sino-Western relations, and how do these compare with how China and the West actually interacted? We will cover major topics such as the Opium Wars and Cold War geopolitics as well as more mundane issues, including the everyday lives of foreigners in China and the experiences of Chinese abroad. Using government documents, trade records, memoirs, and other sources, students will come to situate Sino-Western relations in a new historical perspective as they examine the dynamics of transnational interaction and reflect critically on how the present informs the construction of narratives about the past.
+</end course description for 79-292 China and the West>

@@ -1,0 +1,16 @@
+<start course metadata for 21-270 Introduction to Mathematical Finance>
+Semester: Spring 2024 (aka S24)
+Course Name: Introduction to Mathematical Finance
+Course Number: 21-270
+Department: Mathematical Sciences
+Number of Units: 9
+Prerequisites: 21-120 or 21-112
+Instructors: David Handron
+Rooms: DH 2315
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-270 Introduction to Mathematical Finance>
+
+<start course description for 21-270 Introduction to Mathematical Finance>
+Semester: Spring 2024 (aka S24)
+Course Description: This is a first course for those considering majoring or minoring in Computational Finance. The theme of this course is pricing derivative securities by replication. The simplest case of this idea, static hedging, is used to discuss net present value of a non-random cash flow, internal rate of return, and put-call option parity. Pricing by replication is then considered in a one-period random model. Risk-neutral probability measures, the Fundamental Theorems of Asset Pricing, and an introduction to expected utility maximization and mean-variance analysis are presented in this model.  Finally, replication is studied in a multi-period binomial model. Within this model, the replicating strategies for European and American options are determined.  (Three 50 minute lectures)
+</end course description for 21-270 Introduction to Mathematical Finance>

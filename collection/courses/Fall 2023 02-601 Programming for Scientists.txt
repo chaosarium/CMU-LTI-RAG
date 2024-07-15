@@ -1,0 +1,16 @@
+<start course metadata for 02-601 Programming for Scientists>
+Semester: Fall 2023 (aka F23)
+Course Name: Programming for Scientists
+Course Number: 02-601
+Department: Computational Biology
+Number of Units: 12
+Prerequisites: None
+Instructors: Phillip Compeau
+Rooms: POS 152
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 02-601 Programming for Scientists>
+
+<start course description for 02-601 Programming for Scientists>
+Semester: Fall 2023 (aka F23)
+Course Description: Provides a practical introduction to programming for students with little previous programming experience who are interested in science. Fundamental scientific algorithms will be introduced, and extensive programming assignments will be based on analytical tasks that might be faced by scientists, such as parsing, simulation, and optimization. Principles of good software engineering will also be stressed. The course will introduce students to the Go programming language, an industry-supported, modern programming language, the syntax of which will be covered in depth. Other assignments may be given in other programming languages to highlight the commonalities and differences between languages. No biology background is needed. Analytical skills, an understanding of programming basics, and mathematical maturity are required.
+</end course description for 02-601 Programming for Scientists>

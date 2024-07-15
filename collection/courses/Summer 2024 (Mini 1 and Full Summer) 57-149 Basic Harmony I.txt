@@ -1,0 +1,16 @@
+<start course metadata for 57-149 Basic Harmony I>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Basic Harmony I
+Course Number: 57-149
+Department: Music
+Number of Units: 9
+Prerequisites: None
+Instructors: Mark Domencic
+Rooms: CMU REMOTE
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-149 Basic Harmony I>
+
+<start course description for 57-149 Basic Harmony I>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: This course deals with common-practice harmony. It includes triads and their inversions, tonality and modality, non-harmonic tones, cadences, and the basic concepts of modulation.  Section assignment is determined by a placement test.  It includes work on fundamentals for inexperienced students.
+</end course description for 57-149 Basic Harmony I>

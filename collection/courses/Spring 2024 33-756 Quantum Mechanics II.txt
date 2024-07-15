@@ -1,0 +1,16 @@
+<start course metadata for 33-756 Quantum Mechanics II>
+Semester: Spring 2024 (aka S24)
+Course Name: Quantum Mechanics II
+Course Number: 33-756
+Department: Physics
+Number of Units: 12
+Prerequisites: 33-755 and 33-759
+Instructors: Rachel Rosen
+Rooms: DH A301D
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 33-756 Quantum Mechanics II>
+
+<start course description for 33-756 Quantum Mechanics II>
+Semester: Spring 2024 (aka S24)
+Course Description: This course focuses on qualitative and approximation methods in quantum mechanics, including time-independent and time-dependent perturbation theory, scattering and semiclassical methods.  Applications are made to atomic, molecular and solid matter. Systems of identical particles are treated including many electron atoms and the Fermi gas.  Prerequisite: 33-755, Quantum Mechanics I; 33-759 Theoretical Physics. 3 hrs. lecture. Typical Text: Cohen-Tannoudji Quantum Mechanics, volume 2.
+</end course description for 33-756 Quantum Mechanics II>

@@ -1,0 +1,16 @@
+<start course metadata for 60-791 M.F.A. Integrative Seminar>
+Semester: Fall 2023 (aka F23)
+Course Name: M.F.A. Integrative Seminar
+Course Number: 60-791
+Department: Art
+Number of Units: 12
+Prerequisites: None
+Instructors: Katie Hubbard
+Rooms: HOA 322
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 60-791 M.F.A. Integrative Seminar>
+
+<start course description for 60-791 M.F.A. Integrative Seminar>
+Semester: Fall 2023 (aka F23)
+Course Description: Integrative seminar is designed as a group critique course involving the entire graduate cohort, and functions as the collective discussion surrounding each student's individual practice. An anchor within the program, the group critique sessions integrate the discourses of academic seminars, individual studio practices, and visiting artists to function as a weekly forum where the progression of individual and group ideas evolve within a discursive environment. In order to expand the voices you hear we will periodically be including visiting artists, curators, critics and other faculty members as participants in the seminar. School of Art MFA students only.
+</end course description for 60-791 M.F.A. Integrative Seminar>

@@ -1,0 +1,16 @@
+<start course metadata for 46-887 Machine Learning for Business Applications>
+Semester: Spring 2024 (aka S24)
+Course Name: Machine Learning for Business Applications
+Course Number: 46-887
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Mattia Ciollaro
+Rooms: TEP 2111
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 46-887 Machine Learning for Business Applications>
+
+<start course description for 46-887 Machine Learning for Business Applications>
+Semester: Spring 2024 (aka S24)
+Course Description: tbd
+</end course description for 46-887 Machine Learning for Business Applications>

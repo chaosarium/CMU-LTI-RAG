@@ -1,0 +1,16 @@
+<start course metadata for 17-604 Communications for Software Leaders II>
+Semester: Spring 2024 (aka S24)
+Course Name: Communications for Software Leaders II
+Course Number: 17-604
+Department: Software & Societal Systems
+Number of Units: 3
+Prerequisites: 17-603
+Instructors: Dominick Frollini
+Rooms: 3SC 265; CMU REMOTE
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 17-604 Communications for Software Leaders II>
+
+<start course description for 17-604 Communications for Software Leaders II>
+Semester: Spring 2024 (aka S24)
+Course Description: Communications skills are fundamental to professionals in all fields, from architecture to software engineering to zoology, because they enable the exchange of ideas and the completion of organizational goals. The ability to identify an audience, to develop clear, persuasive presentations and written documents, and to handle the complex interactions that occur in the workplace make the difference between those who participate in an organization and those who lead it. This is the second course in a two-semester sequence designed to help you build and refine your skills so that you can communicate as a leader in your professional work. Through a combination of in-class exercises, case studies, projects, presentations, and written assignments, you will assess your current skill level and build upon it.
+</end course description for 17-604 Communications for Software Leaders II>

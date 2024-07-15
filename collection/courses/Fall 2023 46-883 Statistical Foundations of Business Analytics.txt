@@ -1,0 +1,16 @@
+<start course metadata for 46-883 Statistical Foundations of Business Analytics>
+Semester: Fall 2023 (aka F23)
+Course Name: Statistical Foundations of Business Analytics
+Course Number: 46-883
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Mattia Ciollaro
+Rooms: TEP 2112
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 46-883 Statistical Foundations of Business Analytics>
+
+<start course description for 46-883 Statistical Foundations of Business Analytics>
+Semester: Fall 2023 (aka F23)
+Course Description: TBA
+</end course description for 46-883 Statistical Foundations of Business Analytics>

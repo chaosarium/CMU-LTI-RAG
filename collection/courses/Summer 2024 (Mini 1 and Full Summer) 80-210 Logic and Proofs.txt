@@ -1,0 +1,16 @@
+<start course metadata for 80-210 Logic and Proofs>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Logic and Proofs
+Course Number: 80-210
+Department: Philosophy
+Number of Units: 9
+Prerequisites: None
+Instructors: Hannah Fechtner
+Rooms: PH 226C
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 80-210 Logic and Proofs>
+
+<start course description for 80-210 Logic and Proofs>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: This web-based course introduces students to central issues in logic and develops their ability for constructing and refuting arguments. It addresses the question: How can one analyze the structure of rational discourse or, more specifically, the logical structure of argumentation? An answer to this question requires: (i) uncovering the logical form of statements; (ii) defining the correctness of logical steps; (iii) formulating inference rules for the logical forms; (iv) designing strategies for argumentation with the inference rules. The course takes these steps for both sentential and quantificational logic. Presentation: The material is presented on-line, though some exercises must be done with pen and paper. Additional reading of historical and philosophical character complements the systematic on-line presentation. Weekly small discussion meetings with collaborative reviews, substantive discussions and critical reflections supplement the on-line material.
+</end course description for 80-210 Logic and Proofs>

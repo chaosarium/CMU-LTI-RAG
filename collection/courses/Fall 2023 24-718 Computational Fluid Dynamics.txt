@@ -1,0 +1,16 @@
+<start course metadata for 24-718 Computational Fluid Dynamics>
+Semester: Fall 2023 (aka F23)
+Course Name: Computational Fluid Dynamics
+Course Number: 24-718
+Department: Mechanical Engineering
+Number of Units: 12
+Prerequisites: 24-231 and 24-311
+Instructors: Noelia Grande Gutierrez
+Rooms: PH A22
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-718 Computational Fluid Dynamics>
+
+<start course description for 24-718 Computational Fluid Dynamics>
+Semester: Fall 2023 (aka F23)
+Course Description: This course focuses on numerical techniques for solving partial differential equations including the full incompressible Navier-Stokes equations. Several spatial-temporal discretization methods will be taught, namely the finite difference method, finite volume method and briefly, the finite element method. Explicit and implicit approaches, in addition to methods to solve linear equations are employed to study fluid flows. A review of various finite difference methods which will be used to analyze elliptic, hyperbolic, and parabolic partial differential equations and the concepts of stability, consistency and convergence are presented at the beginning of the course to familiarize the students with general numerical methods.  Detailed syllabus of the course is provided on the URL given below.  4 hr. lec
+</end course description for 24-718 Computational Fluid Dynamics>

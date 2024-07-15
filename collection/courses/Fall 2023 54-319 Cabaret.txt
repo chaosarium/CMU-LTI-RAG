@@ -1,0 +1,16 @@
+<start course metadata for 54-319 Cabaret>
+Semester: Fall 2023 (aka F23)
+Course Name: Cabaret
+Course Number: 54-319
+Department: Drama
+Number of Units: 6
+Prerequisites: 54-220
+Instructors: Gary Kline
+Rooms: PCA 321
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-319 Cabaret>
+
+<start course description for 54-319 Cabaret>
+Semester: Fall 2023 (aka F23)
+Course Description: The Art of Cabaret:   Explores the use of Stories and Song to communicate life experiences within an intimate setting, breaking down the invisible fourth wall for honest communication.    The course includes a section on the use of the microphone for singers.   This Study produces two Cabarets containing Material on a chosen Theme to provide hands-on Song Expression in a public forum.
+</end course description for 54-319 Cabaret>

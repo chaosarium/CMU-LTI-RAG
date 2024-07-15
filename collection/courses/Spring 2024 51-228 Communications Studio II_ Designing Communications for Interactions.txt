@@ -1,0 +1,16 @@
+<start course metadata for 51-228 Communications Studio II: Designing Communications for Interactions>
+Semester: Spring 2024 (aka S24)
+Course Name: Communications Studio II: Designing Communications for Interactions
+Course Number: 51-228
+Department: Design
+Number of Units: 9
+Prerequisites: 51-225
+Instructors: Brett Yasko
+Rooms: MM 211
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-228 Communications Studio II: Designing Communications for Interactions>
+
+<start course description for 51-228 Communications Studio II: Designing Communications for Interactions>
+Semester: Spring 2024 (aka S24)
+Course Description: At its most basic level, Communication Design conveys ideas and translates concepts into visual form. This form needs to be such that an audience will want to look, engage and (hopefully) learn. To get there, you will need to develop your process. Your own unique path. This is not easily done. It's also not prescriptive. There isn't one defined straight path. It's more like a wild and crazy zig-zag. A goal of this course is for you to give yourself permission to wander beyond the areas you're comfortable withto not be afraid of stretching beyond where you think you may be capable. And to develop your own individual process. We will work on a series of four print-based and interactive projects. You will broaden your understanding of color, scale, hierarchy, typography, grid systems and how to make things that both communicate and resonate with your audience. Everything we design is an opportunity to make work that is compelling, memorable and moving. This is a required course for all SoD Sophomores who are pursuing the Communications track.
+</end course description for 51-228 Communications Studio II: Designing Communications for Interactions>

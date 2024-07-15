@@ -1,0 +1,16 @@
+<start course metadata for 57-990 Advanced Music Studies Recital/Project>
+Semester: Spring 2024 (aka S24)
+Course Name: Advanced Music Studies Recital/Project
+Course Number: 57-990
+Department: Music
+Number of Units: 1
+Prerequisites: None
+Instructors: Andres Cardenes, David Harding, Katherine Shields
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-990 Advanced Music Studies Recital/Project>
+
+<start course description for 57-990 Advanced Music Studies Recital/Project>
+Semester: Spring 2024 (aka S24)
+Course Description: tba
+</end course description for 57-990 Advanced Music Studies Recital/Project>

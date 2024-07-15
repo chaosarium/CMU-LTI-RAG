@@ -1,0 +1,16 @@
+<start course metadata for 95-885 Data Science and Big Data>
+Semester: Fall 2023 (aka F23)
+Course Name: Data Science and Big Data
+Course Number: 95-885
+Department: Information Systems:Sch of IS & Mgt
+Number of Units: 12
+Prerequisites: 95-888 or 95-865 or 95-828 or 90-819
+Instructors: Raja Sooriamurthi
+Rooms: HBH 2009
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 95-885 Data Science and Big Data>
+
+<start course description for 95-885 Data Science and Big Data>
+Semester: Fall 2023 (aka F23)
+Course Description: From empirical, to theoretical, to computational science, we are at the dawn of a new revolution---a fourth paradigm of science driven by data. Like archaeological remnants, data, by its very nature, is a marker of what happened in the past. How can data be used to better understand this past and what is happening in the present? How can data be leveraged to forecast what will happen in the future? Better still, how can data be used to mold what should happen in the future? In this course we will study descriptive, predictive, and prescriptive methods by which data can be used to gain insight and inform actions of people and organizations. The real excitement of data science is in the doing. This is an application oriented course requiring skill in algorithmic problem solving. We will use Python based data science tools. Comfort in the Pythonic way of thinking is required as demonstrated by a graded of C or better in one or more of the following courses: 95-880 Python for Developers 95-888 Data Focused Python 95-828 Machine Learning for Problem Solving 95-865 Unstructured Data Analytics If you've taken 15-688 Practical Data Science, due to the significant overlap in these classes, we will not be able to register you for 95-885.
+</end course description for 95-885 Data Science and Big Data>

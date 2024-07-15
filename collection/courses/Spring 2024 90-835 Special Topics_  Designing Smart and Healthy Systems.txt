@@ -1,0 +1,16 @@
+<start course metadata for 90-835 Special Topics:  Designing Smart and Healthy Systems>
+Semester: Spring 2024 (aka S24)
+Course Name: Special Topics:  Designing Smart and Healthy Systems
+Course Number: 90-835
+Department: Public Policy & Mgt:Sch of Pub Pol & Mgt
+Number of Units: 3
+Prerequisites: None
+Instructors: David Steier
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 90-835 Special Topics:  Designing Smart and Healthy Systems>
+
+<start course description for 90-835 Special Topics:  Designing Smart and Healthy Systems>
+Semester: Spring 2024 (aka S24)
+Course Description: Classes held in person from 9 AM- 4:30 PM on Saturdays of March 30 and April 20, 2024, room TBD, and in one on-line session on Saturday, April 6.   This course will give students with no previous experience in artificial intelligence a chance to learn about applications of AI to health care. Drawing on consulting experience for healthcare clients, this course will survey several real-life healthcare applications of AI capabilities, including predictive modeling, intelligent computer interaction, social network analysis, computer vision, and large language models. Along the way, we will also discuss concepts from behavioral economics, causal inference, gamification and more. Beyond introducing students to the field, the course aims to build critical thinking skills, so for their final project, teams of students will describe an AI healthcare application and a critical evaluation of claims made by researchers or vendors for that application
+</end course description for 90-835 Special Topics:  Designing Smart and Healthy Systems>

@@ -1,0 +1,16 @@
+<start course metadata for 90-714 Policy and Politics in American Institutions>
+Semester: Spring 2024 (aka S24)
+Course Name: Policy and Politics in American Institutions
+Course Number: 90-714
+Department: Public Policy & Mgt:Sch of Pub Pol & Mgt
+Number of Units: 12
+Prerequisites: None
+Instructors: Silvia Borzutzky
+Rooms: HBH 1005
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 90-714 Policy and Politics in American Institutions>
+
+<start course description for 90-714 Policy and Politics in American Institutions>
+Semester: Spring 2024 (aka S24)
+Course Description: The purpose of this course is to study the structure of the American government, the main actors in the policy process, as well as critical policy issues. The emphasis will be on the study of the central political institutions: The Presidency and Congress, as well as critical decisions of the Supreme Court and their societal impact. The course will also emphasize the analysis of critical socio-economic policies including social and educational policies, among others. We will also analyze Supreme Court decisions regarding minorities' rights, gender issues, and voting rights among others. Throughout the course students will be encouraged to analyze and discuss the evolution of key political and policy issues. We will place special emphasis on the interactions between government and society and the role of social and interest groups in the process.
+</end course description for 90-714 Policy and Politics in American Institutions>

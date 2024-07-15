@@ -1,0 +1,16 @@
+<start course metadata for 36-315 Statistical Graphics and Visualization>
+Semester: Fall 2023 (aka F23)
+Course Name: Statistical Graphics and Visualization
+Course Number: 36-315
+Department: Statistics and Data Science
+Number of Units: 9
+Prerequisites: 36-202 or 36-208 or 36-219 or 21-325 or 15-259 or 36-309 or 36-225 or 36-218 or 70-208 or 36-235
+Instructors: Frederick Koerner
+Rooms: DH A302
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 36-315 Statistical Graphics and Visualization>
+
+<start course description for 36-315 Statistical Graphics and Visualization>
+Semester: Fall 2023 (aka F23)
+Course Description: Graphical displays of quantitative information take on many forms, and they help us understand data and statistical methods by (hopefully) clearly communicating arguments, results, and ideas. This course introduces students to the most common forms of graphical displays and their uses and misuses. Ideally, graphs are designed according to three key elements: The data structure, the graph's audience, and the designer's intended message. Students will learn how to create well-designed graphs and understand them from a statistical perspective. Furthermore, the course will consider complex data structures that are becoming increasingly common in data visualizations (temporal, spatial, and text data); we will discuss common ways to process these data that make them easy to visualize. As time permits, we may also consider more advanced graphical methods (e.g., interactive graphics and computer-generated animations). In addition to two weekly lectures, there will be weekly computer labs and homework assignments where students use R to visualize and analyze real datasets. Along the way, students also make monthly Piazza posts discussing the strengths and weaknesses of a graph they found online, thereby critiquing real graphical designs found in the wild. The course culminates in a group final project, where students make public-facing data visualizations and analyses for a real dataset. All assignments will be in R; although this is not a programming class, using programming-based statistical software like R is essential to create modern-day graphics, and this class will give you practice using this kind of software. Throughout, communication skills (usually written or visual, but sometimes spoken) will play an important role. Indeed, if it's true that "a picture speaks a thousand words," then ideally the one thousand words you are communicating with your graphics are statistically correct, clear, and compelling.
+</end course description for 36-315 Statistical Graphics and Visualization>

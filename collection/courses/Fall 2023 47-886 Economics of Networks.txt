@@ -1,0 +1,16 @@
+<start course metadata for 47-886 Economics of Networks>
+Semester: Fall 2023 (aka F23)
+Course Name: Economics of Networks
+Course Number: 47-886
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Selman Erol
+Rooms: TEP 4219
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 47-886 Economics of Networks>
+
+<start course description for 47-886 Economics of Networks>
+Semester: Fall 2023 (aka F23)
+Course Description: to be added at a later date.
+</end course description for 47-886 Economics of Networks>

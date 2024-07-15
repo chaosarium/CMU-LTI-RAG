@@ -1,0 +1,16 @@
+<start course metadata for 12-657 Water Resources Systems Engineering>
+Semester: Fall 2023 (aka F23)
+Course Name: Water Resources Systems Engineering
+Course Number: 12-657
+Department: Civil & Environmental Engineering
+Number of Units: 9
+Prerequisites: 12-355
+Instructors: David Rounce, Jared Cohon
+Rooms: WEH 5328
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 12-657 Water Resources Systems Engineering>
+
+<start course description for 12-657 Water Resources Systems Engineering>
+Semester: Fall 2023 (aka F23)
+Course Description: Water Resource Systems Engineering combines hydrology, engineering, economics, and operations research to create tools and analyses that support decisions about large-scale water resource systems. The emphasis in this course will be on optimization methods, which are a core element of water systems analysis. Both water quantity and water quality problems will be covered.
+</end course description for 12-657 Water Resources Systems Engineering>

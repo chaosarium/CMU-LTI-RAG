@@ -1,0 +1,16 @@
+<start course metadata for 95-201 Independent Study>
+Semester: Fall 2023 (aka F23)
+Course Name: Independent Study
+Course Number: 95-201
+Department: Information Systems:Sch of IS & Mgt
+Number of Units: 6
+Prerequisites: None
+Instructors: Alessandro Acquisti
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 95-201 Independent Study>
+
+<start course description for 95-201 Independent Study>
+Semester: Fall 2023 (aka F23)
+Course Description: TBD
+</end course description for 95-201 Independent Study>

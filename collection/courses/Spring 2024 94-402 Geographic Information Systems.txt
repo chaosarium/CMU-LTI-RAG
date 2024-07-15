@@ -1,0 +1,16 @@
+<start course metadata for 94-402 Geographic Information Systems>
+Semester: Spring 2024 (aka S24)
+Course Name: Geographic Information Systems
+Course Number: 94-402
+Department: Heinz College Wide Courses
+Number of Units: 12
+Prerequisites: None
+Instructors: Christopher Goranson
+Rooms: HBH 2008
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 94-402 Geographic Information Systems>
+
+<start course description for 94-402 Geographic Information Systems>
+Semester: Spring 2024 (aka S24)
+Course Description: A geographic information system (GIS) provides storage, retrieval, and visualization of geographically referenced data as well as design and analysis of spatial information. GIS provides unique analytical tools to investigate spatial relationships, patterns, and processes of cultural, biological, demographic, economic, social, environmental, health care, criminal, and other phenomena.  The course includes lectures, computer labs, and a project using the leading desktop GIS software, ArcGIS Pro, from Esri, Inc. Subject areas will include:  -    Geographic concepts (world coordinate systems, map scale/projections, sea level/elevation), -    Government-provided map infrastructure (TIGER maps, census data, satellite and aerial photo images, local government cadastral maps), -    Map design (cartography, interactive maps, map animations, and Web-based GIS), -    Geodatabases (importing spatial and attribute data, geocodes, table joins, data aggregation, and map queries), -    Creation of new spatial data (digitizing, geocoding, and dissolving vector features), -    Spatial data processing (clipping, merging, appending, joining, dissolving), -    Spatial analysis (proximity analysis, risk surface, site suitability, spatial data mining), -    Other topics (raster GIS, 3D GIS, network analysis, etc.) as identified in course materials and selected the instructor.
+</end course description for 94-402 Geographic Information Systems>

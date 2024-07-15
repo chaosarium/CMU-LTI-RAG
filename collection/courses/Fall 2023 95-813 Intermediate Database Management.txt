@@ -1,0 +1,16 @@
+<start course metadata for 95-813 Intermediate Database Management>
+Semester: Fall 2023 (aka F23)
+Course Name: Intermediate Database Management
+Course Number: 95-813
+Department: Information Systems:Sch of IS & Mgt
+Number of Units: 6
+Prerequisites: None
+Instructors: Jeremy Smith
+Rooms: HBH 2009
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 95-813 Intermediate Database Management>
+
+<start course description for 95-813 Intermediate Database Management>
+Semester: Fall 2023 (aka F23)
+Course Description: This accelerated 6-unit course will address the theory and application of relational database technology.  The course covers advanced data modeling (including entity relationships modeling and database normalization) as well as the structured query language (selected topics).  Data integrity as well as utilizing metadata will also be addressed.  In addition, the course will cover tools, technologies and methods to aid in working with heterogeneous and external data sets.  To provide students with an opportunity to apply the knowledge they learn from the lectures, readings and various assignments.
+</end course description for 95-813 Intermediate Database Management>

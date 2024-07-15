@@ -1,0 +1,16 @@
+<start course metadata for 57-733 Choral Techniques>
+Semester: Fall 2023 (aka F23)
+Course Name: Choral Techniques
+Course Number: 57-733
+Department: Music
+Number of Units: 3
+Prerequisites: None
+Instructors: Instructor TBA
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-733 Choral Techniques>
+
+<start course description for 57-733 Choral Techniques>
+Semester: Fall 2023 (aka F23)
+Course Description: The specifics of rehearsal techniques: physical, mental and vocal warm-ups; examination/critique of choral literature; the gesture as applied to control of the breath; analysis of music being rehearsed.
+</end course description for 57-733 Choral Techniques>

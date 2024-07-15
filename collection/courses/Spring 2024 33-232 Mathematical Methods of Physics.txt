@@ -1,0 +1,16 @@
+<start course metadata for 33-232 Mathematical Methods of Physics>
+Semester: Spring 2024 (aka S24)
+Course Name: Mathematical Methods of Physics
+Course Number: 33-232
+Department: Physics
+Number of Units: 10
+Prerequisites: 33-231
+Instructors: Diana Parno
+Rooms: WEH 7500
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 33-232 Mathematical Methods of Physics>
+
+<start course description for 33-232 Mathematical Methods of Physics>
+Semester: Spring 2024 (aka S24)
+Course Description: This course introduces, in the context of physical systems, a variety of  mathematical tools and techniques that will be needed for later courses in  the physics curriculum. Topics will include linear algebra, Fourier series and transforms, vector calculus with physical applications, and a first look at partial differential equations. The techniques taught here are useful in more advanced courses such as Physical Mechanics, Electricity and Magnetism, and Advanced Quantum Physics.
+</end course description for 33-232 Mathematical Methods of Physics>

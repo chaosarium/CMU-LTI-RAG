@@ -1,0 +1,16 @@
+<start course metadata for 04-801 Deep Learning Systems: Hardware, Compilers, and Algorithms>
+Semester: Fall 2023 (aka F23)
+Course Name: Deep Learning Systems: Hardware, Compilers, and Algorithms
+Course Number: 04-801
+Department: Information & Communication Technology
+Number of Units: 6
+Prerequisites: None
+Instructors: Andres Rodriguez-Perez, Bernhard Ostheimer
+Rooms: CMR F305; CMR F309
+Locations: Kigali, Rwanda
+</end course metadata for 04-801 Deep Learning Systems: Hardware, Compilers, and Algorithms>
+
+<start course description for 04-801 Deep Learning Systems: Hardware, Compilers, and Algorithms>
+Semester: Fall 2023 (aka F23)
+Course Description: Special Topics courses cover a variety of subjects. They are grouped under special topics because a unique course number has not been assigned. The courses may be distinguished from each other by looking at the section letter/number and section title.
+</end course description for 04-801 Deep Learning Systems: Hardware, Compilers, and Algorithms>

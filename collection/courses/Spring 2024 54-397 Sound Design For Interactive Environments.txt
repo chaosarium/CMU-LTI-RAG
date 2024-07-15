@@ -1,0 +1,16 @@
+<start course metadata for 54-397 Sound Design For Interactive Environments>
+Semester: Spring 2024 (aka S24)
+Course Name: Sound Design For Interactive Environments
+Course Number: 54-397
+Department: Drama
+Number of Units: 9
+Prerequisites: 54-267 or 54-268
+Instructors: Stewart Blackwood
+Rooms: PCA 103
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-397 Sound Design For Interactive Environments>
+
+<start course description for 54-397 Sound Design For Interactive Environments>
+Semester: Spring 2024 (aka S24)
+Course Description: This course will examine the process, execution and implementation of sound design for interactive and non-linear storytelling paradigms. Emerging trends in immersive theater, gaming, installation art and multi-media place unique demands on the sound designer both in terms of content and delivery. The student will explore how these demands effect the fundamental processes of design, development of content and flexible delivery systems. Through a combination of directed readings, exploration of current & emerging trends, and project assignments the student will be encouraged to experiment and explore design modes and methodologies that support this flexible method of storytelling.
+</end course description for 54-397 Sound Design For Interactive Environments>

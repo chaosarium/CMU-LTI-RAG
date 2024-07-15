@@ -1,0 +1,16 @@
+<start course metadata for 09-733 Chemistry and Light>
+Semester: Fall 2023 (aka F23)
+Course Name: Chemistry and Light
+Course Number: 09-733
+Department: Chemistry
+Number of Units: 12
+Prerequisites: (09-217 or 09-219) and (09-344 or 09-347) and (09-348)
+Instructors: Stefan Bernhard
+Rooms: MI 448
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 09-733 Chemistry and Light>
+
+<start course description for 09-733 Chemistry and Light>
+Semester: Fall 2023 (aka F23)
+Course Description: This course covers the optical and electronic processes in inorganic and organic molecules found in modern "organic" optoelectronics. After an introduction into the field of optoelectronics we will look at the molecular structure of small molecules and polymers commonly employed as chromophores for such applications. It is the objective of this course for the student to understand the electronic structure of these molecules from electrochemical and spectroscopical techniques. The last part will emphasize the fabrication and characterization of organic LEDs, solar cells, photodetectors, chemical sensors, electrochromic devices etc.
+</end course description for 09-733 Chemistry and Light>

@@ -1,0 +1,16 @@
+<start course metadata for 32-200 Naval Laboratory>
+Semester: Fall 2023 (aka F23)
+Course Name: Naval Laboratory
+Course Number: 32-200
+Department: Naval Science - ROTC
+Number of Units: 3
+Prerequisites: None
+Instructors: Joshua Oberley
+Rooms: MI AUD
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 32-200 Naval Laboratory>
+
+<start course description for 32-200 Naval Laboratory>
+Semester: Fall 2023 (aka F23)
+Course Description: Military drill, physical fitness, and leadership seminars.
+</end course description for 32-200 Naval Laboratory>

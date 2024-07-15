@@ -1,0 +1,16 @@
+<start course metadata for 60-401 Senior Studio>
+Semester: Fall 2023 (aka F23)
+Course Name: Senior Studio
+Course Number: 60-401
+Department: Art
+Number of Units: 10
+Prerequisites: None
+Instructors: Elizabeth Chodos, Golan Levin
+Rooms: CFA 303; CFA 307; CFA 310
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 60-401 Senior Studio>
+
+<start course description for 60-401 Senior Studio>
+Semester: Fall 2023 (aka F23)
+Course Description: The primary goal of Senior Studio is to create a context for students to develop and realize an ambitious and self-defined creative project. With the guidance of faculty, each student will pursue their own artistic goals and develop their ability to sustain focused artistic activity while developing their own voice. Additionally, Senior Studio will help students to:  Foster a community and shared sense of purpose in an atmosphere of mutual support, critical dialog, knowledge exchange and camaraderie;  Cultivate and apply professional practice skills by preparing for life after graduation;  Participate in studio visits with a multidisciplinary team of faculty, visiting artists and critics;  Collaboratively produce a successful Open Studio event on the last day of the semester.
+</end course description for 60-401 Senior Studio>

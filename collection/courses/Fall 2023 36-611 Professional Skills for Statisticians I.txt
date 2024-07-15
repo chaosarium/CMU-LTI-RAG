@@ -1,0 +1,16 @@
+<start course metadata for 36-611 Professional Skills for Statisticians I>
+Semester: Fall 2023 (aka F23)
+Course Name: Professional Skills for Statisticians I
+Course Number: 36-611
+Department: Statistics and Data Science
+Number of Units: 6
+Prerequisites: None
+Instructors: Jamie McGovern
+Rooms: POS 146; WEH 5409
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 36-611 Professional Skills for Statisticians I>
+
+<start course description for 36-611 Professional Skills for Statisticians I>
+Semester: Fall 2023 (aka F23)
+Course Description: The Professional Skills for Statisticians I course develops essential skills and required competencies for successfully navigating the workplace.  Topics in this course include professional written and oral communication, communication approaches for varied audiences, leading practices for enabling high-functioning teams, managing project work, job search leading practices, and managing one's career.  There will be a focus on the context of project work, and servicing and interacting with internal and external clients in the workplace.  Consultative soft-skills are developed via group work and class presentations.  This course is for Master's in Statistical Practice students only.
+</end course description for 36-611 Professional Skills for Statisticians I>

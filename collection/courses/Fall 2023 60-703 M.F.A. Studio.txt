@@ -1,0 +1,16 @@
+<start course metadata for 60-703 M.F.A. Studio>
+Semester: Fall 2023 (aka F23)
+Course Name: M.F.A. Studio
+Course Number: 60-703
+Department: Art
+Number of Units: N/A
+Prerequisites: None
+Instructors: Alisha Wormsley, Angela Washko, Jon Rubin, Katie Hubbard, Lyndon Barrois
+Rooms: HOA 322
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 60-703 M.F.A. Studio>
+
+<start course description for 60-703 M.F.A. Studio>
+Semester: Fall 2023 (aka F23)
+Course Description: MFA Studio consists of the development of self-directed studio work, independent research, and artistic production in periodic consultation with each of the Core Faculty three times per term, for a minimum total of twelve meetings. Meetings with the School of Art faculty advisor should occur every two weeks, for a minimum total of seven meetings. Additional meetings can be made beyond this structure, based on the available time and interest of faculty members.
+</end course description for 60-703 M.F.A. Studio>

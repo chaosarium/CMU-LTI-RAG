@@ -1,0 +1,16 @@
+<start course metadata for 62-104 Design Ethics & Social Justice in Architecture>
+Semester: Fall 2023 (aka F23)
+Course Name: Design Ethics & Social Justice in Architecture
+Course Number: 62-104
+Department: CFA Interdisciplinary
+Number of Units: 3
+Prerequisites: None
+Instructors: Kai Gutschow, Valentina Vavasis
+Rooms: CFA 214
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 62-104 Design Ethics & Social Justice in Architecture>
+
+<start course description for 62-104 Design Ethics & Social Justice in Architecture>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is aimed at first year architecture students as an introduction to social justice and design ethics. The course will explore how architecture relates to the human experience, human labor, and human rights; how the economic, political, and cultural contexts in which architects work contribute to issues of inequity; and what responsibilities architects and designers have to assure a greater sense of social justice for all.   We will start by examining the traditional norms for the "standard" human body in design.  Then will explore the meaning of identity (including race, class, gender, ethnicity), economic class and privilege.  We will continue by exploring social justice, activism, climate change, colonialism and historically racist urban practices.  Throughout the course, we will discuss how architecture is embedded in these issues and how architects might address these issues in current and future practice, both as citizens and as designers.   This course includes lectures, weekly reading responses, and small group discussions.  Class attendance and participation is required.
+</end course description for 62-104 Design Ethics & Social Justice in Architecture>

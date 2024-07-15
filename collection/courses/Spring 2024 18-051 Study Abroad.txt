@@ -1,0 +1,16 @@
+<start course metadata for 18-051 Study Abroad>
+Semester: Spring 2024 (aka S24)
+Course Name: Study Abroad
+Course Number: 18-051
+Department: Electrical & Computer Engineering
+Number of Units: 0
+Prerequisites: None
+Instructors: James Bain
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-051 Study Abroad>
+
+<start course description for 18-051 Study Abroad>
+Semester: Spring 2024 (aka S24)
+Course Description: Students are encouraged to pursue various international collaborative programs offered through the department of Electrical and Computer Engineering.
+</end course description for 18-051 Study Abroad>

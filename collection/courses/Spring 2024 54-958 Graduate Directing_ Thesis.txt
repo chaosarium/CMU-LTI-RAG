@@ -1,0 +1,16 @@
+<start course metadata for 54-958 Graduate Directing: Thesis>
+Semester: Spring 2024 (aka S24)
+Course Name: Graduate Directing: Thesis
+Course Number: 54-958
+Department: Drama
+Number of Units: 6
+Prerequisites: None
+Instructors: Kim Weild
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-958 Graduate Directing: Thesis>
+
+<start course description for 54-958 Graduate Directing: Thesis>
+Semester: Spring 2024 (aka S24)
+Course Description: TBD
+</end course description for 54-958 Graduate Directing: Thesis>

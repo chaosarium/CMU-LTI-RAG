@@ -1,0 +1,16 @@
+<start course metadata for 11-441 Machine Learning with Graphs>
+Semester: Spring 2024 (aka S24)
+Course Name: Machine Learning with Graphs
+Course Number: 11-441
+Department: Language Technologies Institute
+Number of Units: 9
+Prerequisites: None
+Instructors: Yiming Yang
+Rooms: NSH 1305
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 11-441 Machine Learning with Graphs>
+
+<start course description for 11-441 Machine Learning with Graphs>
+Semester: Spring 2024 (aka S24)
+Course Description: This is a full-semester lecture-oriented course for the PhD-level, MS-level and UG-level students who meet the prerequisites. It offers a blend of core theory, algorithms, evaluation methodologies and applications of scalable data analytic techniques.  As the prerequisites, CS courses on data structures, algorithms, and programming (e.g., 15-213), linear algebra (e.g., 21-241 or 21-341) and intro probability (e.g., 21-325).  Introductory Machine Learning (e.g., 10-701 or 10-601) and Algorithm Design and Analysis (e.g., 15-451) are helpful but not required. Specifically, the lectures and homework will focus on the following topics.:  High-dimensional Vector Spaces and Scalable Algorithms  Link Analysis  Neural Networks for Contextualized Representation Learning from Text  Matrix Factorization  Collaborative Filtering  Extreme-scale Text Classification  Graph-based Learning
+</end course description for 11-441 Machine Learning with Graphs>

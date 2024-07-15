@@ -1,0 +1,16 @@
+<start course metadata for 21-268 Multidimensional Calculus>
+Semester: Spring 2024 (aka S24)
+Course Name: Multidimensional Calculus
+Course Number: 21-268
+Department: Mathematical Sciences
+Number of Units: 11
+Prerequisites: (21-122) and (21-242 or 21-241) and (21-127 or 21-128 or 15-151)
+Instructors: Michael Novack
+Rooms: MM A14
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-268 Multidimensional Calculus>
+
+<start course description for 21-268 Multidimensional Calculus>
+Semester: Spring 2024 (aka S24)
+Course Description: A serious introduction to multidimensional calculus that makes use of matrices and linear transformation. Results will be stated carefully and rigorously. Students will be expected to write some proofs; however, some of the deeper results will be presented without proofs. Topics to be covered include: functions of several variables, regions and domains, limits and continuity, partial derivatives, linearization and Jacobian matrices, chain rules, inverse and implicit functions, geometric applications, higher derivatives, Taylor's theorem, optimization, vector fields, multiple integrals and change of variables, Leibnitz's rule, line integrals, Green's theorem, path independence and connectedness, conservative vector fields, surfaces and orientability, surface integrals, divergence theorem and Stokes's theorem.    (Three 50 minute lectures, two 50 minute recitations)
+</end course description for 21-268 Multidimensional Calculus>

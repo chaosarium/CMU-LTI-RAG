@@ -1,0 +1,16 @@
+<start course metadata for 17-630 Prompt Engineering>
+Semester: Spring 2024 (aka S24)
+Course Name: Prompt Engineering
+Course Number: 17-630
+Department: Software & Societal Systems
+Number of Units: 12
+Prerequisites: None
+Instructors: Travis Breaux
+Rooms: CMU REMOTE
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 17-630 Prompt Engineering>
+
+<start course description for 17-630 Prompt Engineering>
+Semester: Spring 2024 (aka S24)
+Course Description: Students in this course will learn a brief history of large language models and learn about contemporary prompt engineering strategies and techniques. The course will cover in context learning theory with an emphasis on practice and building an intuition for prompt design and evaluation. Topics covered include chain of thought prompting, prompt tuning with hard and soft prompts, and self-consistency. Students will learn about standard prompt engineering benchmarks, evaluation metrics and calibration to evaluate the efficacy of prompt designs. Finally, the course will cover alignment and the ethics of large language models, while reviewing sample and cross-section of domain-specific applications.   Students in the course will need to purchase access to a cloud-based language model to complete coursework, which is estimated to cost $100-150. Various options exist, including GPT3.5 by OpenAI or Claude by Anthropic, as well as running T5 on a Lambda server. Class tutorials exists to guide students on how to setup and use one of these services.
+</end course description for 17-630 Prompt Engineering>

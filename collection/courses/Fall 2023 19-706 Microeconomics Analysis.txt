@@ -1,0 +1,16 @@
+<start course metadata for 19-706 Microeconomics Analysis>
+Semester: Fall 2023 (aka F23)
+Course Name: Microeconomics Analysis
+Course Number: 19-706
+Department: Engineering & Public Policy
+Number of Units: 6
+Prerequisites: None
+Instructors: Nicholas Muller
+Rooms: BH 235B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 19-706 Microeconomics Analysis>
+
+<start course description for 19-706 Microeconomics Analysis>
+Semester: Fall 2023 (aka F23)
+Course Description: This 6 credit mini will introduce Ph.D. students to the tools of graduate microeconomic analysis with an emphasis on application.  Topics covered will include individual choice and demand, theory of the firm and supply, price formation and market equilibrium, market structure, government intervention, market failure, factor markets, and trade. While the course will use calculus, the intent of this class is to develop a strong intuition among enrollees in how markets work, justifications for public policies from the perspective of microeconomics, and the applications of tools to inform public and private decision-making. This emphasis is tailored to the research needs of EPP Ph.D. students, more so than typical Ph.D. level microeconomic theory courses.
+</end course description for 19-706 Microeconomics Analysis>

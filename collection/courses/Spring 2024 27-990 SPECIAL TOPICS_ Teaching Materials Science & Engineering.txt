@@ -1,0 +1,16 @@
+<start course metadata for 27-990 SPECIAL TOPICS: Teaching Materials Science & Engineering>
+Semester: Spring 2024 (aka S24)
+Course Name: SPECIAL TOPICS: Teaching Materials Science & Engineering
+Course Number: 27-990
+Department: Materials Science & Engineering
+Number of Units: 3
+Prerequisites: None
+Instructors: Vincent Sokalski
+Rooms: PH 125D
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 27-990 SPECIAL TOPICS: Teaching Materials Science & Engineering>
+
+<start course description for 27-990 SPECIAL TOPICS: Teaching Materials Science & Engineering>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is designed to prepare graduate students for their future role as educators in Materials Science & Engineering.  Teaching is a critical facet of higher education whether as a course assistant, instructor, or student mentor.  Although excellent teaching can have a significant positive impact on students at all levels, formal training at the University level is relatively uncommon.  Contrary to popular belief, teaching is not simply a skill you are born with, but rather one that requires significant practice and continuous refinement.  The primary goal of this course is to provide pedagogical strategies necessary to be an effective teacher with a focus on fundamental topics in materials science & engineering.
+</end course description for 27-990 SPECIAL TOPICS: Teaching Materials Science & Engineering>

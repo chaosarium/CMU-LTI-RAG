@@ -1,0 +1,16 @@
+<start course metadata for 57-010 Voice Studio Performance Class>
+Semester: Fall 2023 (aka F23)
+Course Name: Voice Studio Performance Class
+Course Number: 57-010
+Department: Music
+Number of Units: 1
+Prerequisites: None
+Instructors: Roseanna Irwin
+Rooms: CFA KRESGE
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-010 Voice Studio Performance Class>
+
+<start course description for 57-010 Voice Studio Performance Class>
+Semester: Fall 2023 (aka F23)
+Course Description: Vocal Studio Performance Class is a required class for both undergraduate and graduate voice majors. Each student must participate in two singing rotations each semester and will receive written comments from the voice faculty. Students are also required to attend four studio classes each semester. Grading is pass/fail based on attendance.
+</end course description for 57-010 Voice Studio Performance Class>

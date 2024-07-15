@@ -1,0 +1,16 @@
+<start course metadata for 15-697 Graduate Reading and Research>
+Semester: Fall 2023 (aka F23)
+Course Name: Graduate Reading and Research
+Course Number: 15-697
+Department: Computer Science
+Number of Units: N/A
+Prerequisites: None
+Instructors: David Eckhardt, David O'Hallaron, Tracy Farbacher
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-697 Graduate Reading and Research>
+
+<start course description for 15-697 Graduate Reading and Research>
+Semester: Fall 2023 (aka F23)
+Course Description: Research course for students pursuing a thesis in the 5th Year Master of Science Program. Working 1 on 1 with faculty and their graduate students.
+</end course description for 15-697 Graduate Reading and Research>

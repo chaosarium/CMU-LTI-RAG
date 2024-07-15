@@ -1,0 +1,16 @@
+<start course metadata for 12-714 Environmental Life Cycle Assessment>
+Semester: Spring 2024 (aka S24)
+Course Name: Environmental Life Cycle Assessment
+Course Number: 12-714
+Department: Civil & Environmental Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Fethiye Ozis
+Rooms: WEH 5421
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 12-714 Environmental Life Cycle Assessment>
+
+<start course description for 12-714 Environmental Life Cycle Assessment>
+Semester: Spring 2024 (aka S24)
+Course Description: Cradle-to-grave analysis of new products, processes and policies is important to avoid undue environmental harm and achieve extended product responsibility. This course provides an overview of approaches and methods for life cycle assessment and for green design of typical products and processes using the ISO 14040 family of standards. This includes goal and scoping definition, inventory analysis, life cycle impact assessment (LCIA), interpretation, and guidance for decision support. Process-based analysis models, input-output and hybrid approaches are presented for life cycle assessment. Example software such as MATLAB, Excel, and Simapro are introduced and used in assignments. A group life cycle assessment project consistent with the principles and tools of sustainability to solve real-world engineering problems is required.
+</end course description for 12-714 Environmental Life Cycle Assessment>

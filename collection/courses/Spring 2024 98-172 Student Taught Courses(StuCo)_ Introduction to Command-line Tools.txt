@@ -1,0 +1,16 @@
+<start course metadata for 98-172 Student Taught Courses(StuCo): Introduction to Command-line Tools>
+Semester: Spring 2024 (aka S24)
+Course Name: Student Taught Courses(StuCo): Introduction to Command-line Tools
+Course Number: 98-172
+Department: StuCo (Student Led Courses)
+Number of Units: 3
+Prerequisites: None
+Instructors: Jason Ledon
+Rooms: WEH 5409
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 98-172 Student Taught Courses(StuCo): Introduction to Command-line Tools>
+
+<start course description for 98-172 Student Taught Courses(StuCo): Introduction to Command-line Tools>
+Semester: Spring 2024 (aka S24)
+Course Description: Many courses at CMU teach theory and have assignments based around coding, however, not many courses specifically teach about the auxiliary tools used by developers. This course will introduce and teach how to use those tools, drastically speeding up the development process. This course will teach the basics of git, how it works under the hood, and advanced usages, such as restoring commit data that you thought was gone forever. Introduction to chaining commands together, how to set up a personalized developer experience in the terminal, general text and data processing using tools like grep and/or awk, complemented with RegEx and many other invaluable command-line tools. It will also introduce and encourage proficiency with tools such as vim (or at least vim motions), tmux, reverse searching command history, and/or other navigation tricks.
+</end course description for 98-172 Student Taught Courses(StuCo): Introduction to Command-line Tools>

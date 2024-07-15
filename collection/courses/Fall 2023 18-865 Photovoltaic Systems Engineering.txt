@@ -1,0 +1,16 @@
+<start course metadata for 18-865 Photovoltaic Systems Engineering>
+Semester: Fall 2023 (aka F23)
+Course Name: Photovoltaic Systems Engineering
+Course Number: 18-865
+Department: Electrical & Computer Engineering
+Number of Units: 6
+Prerequisites: None
+Instructors: Barry Rawn
+Rooms: CMR F307; CMU REMOTE
+Locations: Kigali, Rwanda; Pittsburgh, Pennsylvania
+</end course metadata for 18-865 Photovoltaic Systems Engineering>
+
+<start course description for 18-865 Photovoltaic Systems Engineering>
+Semester: Fall 2023 (aka F23)
+Course Description: This course introduces basic engineering concepts for photovoltaic systems. Topics covered include solar resource assessment, PV cells and modules, system components, performance modeling, system sizing, loss mechanisms, energy yield assessment and project economics. Different applications and business models for PV technology will be discussed including utility scale PV power plants, rooftop systems and off-grid systems. The implications of relevant policy will be explored including net metering and independent power producers. The course will be interesting to a general audience but is focused in particular on applications in the developing world.
+</end course description for 18-865 Photovoltaic Systems Engineering>

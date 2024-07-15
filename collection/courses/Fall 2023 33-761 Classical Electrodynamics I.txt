@@ -1,0 +1,16 @@
+<start course metadata for 33-761 Classical Electrodynamics I>
+Semester: Fall 2023 (aka F23)
+Course Name: Classical Electrodynamics I
+Course Number: 33-761
+Department: Physics
+Number of Units: 12
+Prerequisites: 33-339
+Instructors: Ira Rothstein
+Rooms: DH A200; WEH 5312
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 33-761 Classical Electrodynamics I>
+
+<start course description for 33-761 Classical Electrodynamics I>
+Semester: Fall 2023 (aka F23)
+Course Description: This course deals with the static and dynamic properties of the electromagnetic field as described by Maxwell's equations. Among the topics emphasized are solutions of Laplace's, Poisson's and wave equations, effects of boundaries, Green's functions, multipole expansions, emission and propagation of electromagnetic radiation and the response of dielectrics, metals, magnetizable bodies to fields.
+</end course description for 33-761 Classical Electrodynamics I>

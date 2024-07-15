@@ -1,0 +1,16 @@
+<start course metadata for 09-529 Introduction to Sustainable Energy Science>
+Semester: Spring 2024 (aka S24)
+Course Name: Introduction to Sustainable Energy Science
+Course Number: 09-529
+Department: Chemistry
+Number of Units: 9
+Prerequisites: (09-107 or 09-105) and (33-121 or 33-141 or 33-151)
+Instructors: Rongchao Jin
+Rooms: WEH 6423
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 09-529 Introduction to Sustainable Energy Science>
+
+<start course description for 09-529 Introduction to Sustainable Energy Science>
+Semester: Spring 2024 (aka S24)
+Course Description: This course focuses on the chemistry aspects of sustainable energy science. It introduces the major types of inorganic and molecular materials for various important processes of energy conversion and storage, such as photovoltaics, fuel cells, water splitting, solar fuels, batteries, and CO2 reduction. All the energy processes heavily rely on innovations in materials. This course is intended to offer perspectives on the materials/physical chemistry that are of importance in energy processes, in particular, how the atomic and electronic structures of materials impact the energy harvesting and conversion. In current energy research, intense efforts are focused on developing new strategies for achieving sustainable energy through renewable resources as opposed to the traditional oil/coal/gas compositions. This course offers students an introduction to the current energy research frontiers with a focus on solar energy conversion/ storage, electrocatalysis and artificial photosynthesis. The major types of materials to be covered include metals, semiconductors, two-dimensional materials, and hybrid perovskites, etc. The material functions in catalysis, solar cells, fuel cells, batteries, supercapacitors, hydrogen production and storage are also discussed in the course. The lectures are power-point presentation style with sufficient graphical materials to aid students to better understand the course materials. Demo experiments are designed to facilitate student learning.
+</end course description for 09-529 Introduction to Sustainable Energy Science>

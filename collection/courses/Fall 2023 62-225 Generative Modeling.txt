@@ -1,0 +1,16 @@
+<start course metadata for 62-225 Generative Modeling>
+Semester: Fall 2023 (aka F23)
+Course Name: Generative Modeling
+Course Number: 62-225
+Department: CFA Interdisciplinary
+Number of Units: 9
+Prerequisites: None
+Instructors: Joshua Bard
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 62-225 Generative Modeling>
+
+<start course description for 62-225 Generative Modeling>
+Semester: Fall 2023 (aka F23)
+Course Description: This course introduces students to the fundamentals of generative modeling using computer aided design as practiced in the field of architecture. Core competencies will be developed through modeling projects and software intensive labs, while a broader critical framework for conceiving of contemporary and historical parametric practices will be encouraged through periodic lectures. Emphasis will be placed on careful consideration of digital mediums and developing a sense of craft related to digital modeling in the hope that students will become conscientious makers and consumers of digital content. Students will be encourage to understand and apply algorithmic problem solving to the many design constraints encountered in architecture. The course will explore the relationship of parametric workflows to design thinking and will situate contemporary trends in a broader framework of computational design. The course will also forefront complex form-making as a response to bio-mimicry, systems thinking, and mass-customization.  Rather than positioning parametric modeling as a disruption of historical architectural design process, the course will encourage students to consider how new tools might augment the discipline's historical commitments to orthographic projection, perspectival drawing, and physical modeling.
+</end course description for 62-225 Generative Modeling>

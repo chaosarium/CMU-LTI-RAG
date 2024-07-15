@@ -1,0 +1,16 @@
+<start course metadata for 88-898 Graduate Independent Study>
+Semester: Spring 2024 (aka S24)
+Course Name: Graduate Independent Study
+Course Number: 88-898
+Department: Social & Decision Sciences
+Number of Units: N/A
+Prerequisites: None
+Instructors: Connie Angermeier, Gretchen Chapman, Instructor TBA, John Miller
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 88-898 Graduate Independent Study>
+
+<start course description for 88-898 Graduate Independent Study>
+Semester: Spring 2024 (aka S24)
+Course Description: None
+</end course description for 88-898 Graduate Independent Study>

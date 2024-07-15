@@ -1,0 +1,16 @@
+<start course metadata for 54-254 New Play Development>
+Semester: Spring 2024 (aka S24)
+Course Name: New Play Development
+Course Number: 54-254
+Department: Drama
+Number of Units: 6
+Prerequisites: None
+Instructors: Kristi Good, TJ Young
+Rooms: BH 154A; PH A19
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-254 New Play Development>
+
+<start course description for 54-254 New Play Development>
+Semester: Spring 2024 (aka S24)
+Course Description: For Dramaturgy majors.
+</end course description for 54-254 New Play Development>

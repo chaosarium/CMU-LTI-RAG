@@ -1,0 +1,16 @@
+<start course metadata for 11-442 Search Engines>
+Semester: Spring 2024 (aka S24)
+Course Name: Search Engines
+Course Number: 11-442
+Department: Language Technologies Institute
+Number of Units: 9
+Prerequisites: (15-259 or 21-325 or 36-218 or 36-225) and (15-210) and (15-213) and (21-241)
+Instructors: Jamie Callan
+Rooms: GHC 4401
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 11-442 Search Engines>
+
+<start course description for 11-442 Search Engines>
+Semester: Spring 2024 (aka S24)
+Course Description: This course studies the theory, design, and implementation of text-based search engines. The core components include statistical characteristics of text, representation of information needs and documents, several important retrieval models, and experimental evaluation. The course also covers common elements of commercial search engines, for example, integration of diverse search engines into a single search service ("federated search", "vertical search"), personalized search results, diverse search results, and sponsored search. The software architecture components include design and implementation of large-scale, distributed search engines.
+</end course description for 11-442 Search Engines>

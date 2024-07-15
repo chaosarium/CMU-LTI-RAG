@@ -1,0 +1,16 @@
+<start course metadata for 42-616 Bio-nanotechnology: Principles and Applications>
+Semester: Fall 2023 (aka F23)
+Course Name: Bio-nanotechnology: Principles and Applications
+Course Number: 42-616
+Department: Biomedical Engineering
+Number of Units: 9
+Prerequisites: None
+Instructors: Itzhaq Cohen-Karni
+Rooms: DH 1211
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 42-616 Bio-nanotechnology: Principles and Applications>
+
+<start course description for 42-616 Bio-nanotechnology: Principles and Applications>
+Semester: Fall 2023 (aka F23)
+Course Description: Have you ever wondered what is nanoscience and nanotechnology and their impact on our lives? In this class we will go through the key concepts related to synthesis (including growth methodologies and characterizations techniques) and chemical/physical properties of nanomaterials from zero-dimensional (0D) materials such as nanoparticles or quantum dots (QDs), one-dimensional materials such as nanowires and nanotubes to two-dimensional materials such as graphene. The students will then survey a range of biological applications of nanomaterials through problem-oriented discussions, with the goal of developing design strategies based on basic understanding of nanoscience. Examples include, but are not limited to, biomedical applications such as nanosensors for DNA and protein detection, nanodevices for bioelectrical interfaces, nanomaterials as building blocks in tissue engineering and drug delivery, and nanomaterials in cancer therapy.  This class is open for both undergraduate (junior/senior) and graduate students.
+</end course description for 42-616 Bio-nanotechnology: Principles and Applications>

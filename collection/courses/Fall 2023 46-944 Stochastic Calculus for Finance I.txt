@@ -1,0 +1,16 @@
+<start course metadata for 46-944 Stochastic Calculus for Finance I>
+Semester: Fall 2023 (aka F23)
+Course Name: Stochastic Calculus for Finance I
+Course Number: 46-944
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Johannes Wiesel
+Rooms: BRD 507; TCS 250
+Locations: New York, New York; Pittsburgh, Pennsylvania
+</end course metadata for 46-944 Stochastic Calculus for Finance I>
+
+<start course description for 46-944 Stochastic Calculus for Finance I>
+Semester: Fall 2023 (aka F23)
+Course Description: The main focus of this course is to understand the basics of arbitrage free pricing, and the mathematical tools used to price securities. We will begin with a rapid introduction to the multi-period Binomial model, and then mainly focus on continuous time markets. The mathematical tools we will use include conditional expectation, martingales, Brownian motion, Itô integrals and Itô's formula, exponential martingales, the Girsanov theorem and risk neutral measures. The course will cover the Black-Scholes option pricing model in detail, and may touch upon the fundamental theorems of asset pricing.  Prerequisite: MSCF Math and Markets Prep, MSCF Probability Prep.  Non-MSCF students may not take this course without written permission from the instructor. To be eligible, you must be a BSCF student or a graduate student enrolled in an MSCF participating college (Dietrich, Heinz, Tepper or Mellon). PhD students with relevant research may be eligible with permission from the instructor.
+</end course description for 46-944 Stochastic Calculus for Finance I>

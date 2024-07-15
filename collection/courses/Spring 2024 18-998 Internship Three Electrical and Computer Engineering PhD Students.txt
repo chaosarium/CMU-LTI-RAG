@@ -1,0 +1,16 @@
+<start course metadata for 18-998 Internship Three Electrical and Computer Engineering PhD Students>
+Semester: Spring 2024 (aka S24)
+Course Name: Internship Three Electrical and Computer Engineering PhD Students
+Course Number: 18-998
+Department: Electrical & Computer Engineering
+Number of Units: N/A
+Prerequisites: None
+Instructors: James Bain
+Rooms: DNM DNM
+Locations: Kigali, Rwanda; Lisbon, Portugal; Pittsburgh, Pennsylvania; San Jose, California
+</end course metadata for 18-998 Internship Three Electrical and Computer Engineering PhD Students>
+
+<start course description for 18-998 Internship Three Electrical and Computer Engineering PhD Students>
+Semester: Spring 2024 (aka S24)
+Course Description: TBA
+</end course description for 18-998 Internship Three Electrical and Computer Engineering PhD Students>

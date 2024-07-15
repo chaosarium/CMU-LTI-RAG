@@ -1,0 +1,16 @@
+<start course metadata for 57-661 Piano Maintenance I>
+Semester: Fall 2023 (aka F23)
+Course Name: Piano Maintenance I
+Course Number: 57-661
+Department: Music
+Number of Units: 6
+Prerequisites: None
+Instructors: Peter Stumpf
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-661 Piano Maintenance I>
+
+<start course description for 57-661 Piano Maintenance I>
+Semester: Fall 2023 (aka F23)
+Course Description: An introduction to the field of piano technology.  A focused study and application of the tools, techniques and theories of piano maintenance. Private lessons, class time and group projects are used equally to develop the core knowledge of this field. Prospective students should possess good hearing.   This course will be continued in Piano Maintenance II.  Successful completion of both courses will equip students with the basic resources to begin a career as a piano technician.
+</end course description for 57-661 Piano Maintenance I>

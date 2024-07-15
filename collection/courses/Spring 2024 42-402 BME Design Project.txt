@@ -1,0 +1,16 @@
+<start course metadata for 42-402 BME Design Project>
+Semester: Spring 2024 (aka S24)
+Course Name: BME Design Project
+Course Number: 42-402
+Department: Biomedical Engineering
+Number of Units: 9
+Prerequisites: None
+Instructors: Conrad Zapanta
+Rooms: POS 153
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 42-402 BME Design Project>
+
+<start course description for 42-402 BME Design Project>
+Semester: Spring 2024 (aka S24)
+Course Description: This course sequence introduces Biomedical Engineering students to the design of useful biomedical products to meet a specific medical need. Students will learn to identify product needs, how to specify problem definitions and to use project management tools. Methods to develop creativity in design will be introduced.  The course sequence is comprised of two parts:   42-401 is offered in the Fall semester and provides the students the opportunity to form project teams, select and define a project, create a development plan, and complete an initial prototype.   42-402 is offered in the Spring semester is a full semester course and completes the plan that was developed in the fall semester.  This course culminates in the completion of multiple prototypes, a poster presentation, and a written report.
+</end course description for 42-402 BME Design Project>

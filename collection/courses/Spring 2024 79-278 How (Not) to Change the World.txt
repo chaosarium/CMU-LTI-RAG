@@ -1,0 +1,16 @@
+<start course metadata for 79-278 How (Not) to Change the World>
+Semester: Spring 2024 (aka S24)
+Course Name: How (Not) to Change the World
+Course Number: 79-278
+Department: History
+Number of Units: 9
+Prerequisites: None
+Instructors: Noah Theriault
+Rooms: BH 237B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 79-278 How (Not) to Change the World>
+
+<start course description for 79-278 How (Not) to Change the World>
+Semester: Spring 2024 (aka S24)
+Course Description: It's often said that the road to hell is paved with good intentions. What, then, can we learn by excavating some of those pavers and interrogating the theories of change that underlie them?  And what can we learn from more successful attempts to enact social change?  In this course, we will use the tools of history, anthropology, and critical theory to examine various efforts to 'change the world'.  From top-down social engineering to neoliberal 'market citizenship' to grassroots organizing, case studies will challenge us to detect theories of change (even when they are concealed) and evaluate their consequences (intended and otherwise).  With those lessons in mind, we will then apply our tools to the theories of change that we enact, often unwittingly, as members of a university.  Which roads are we paving and where do they lead?
+</end course description for 79-278 How (Not) to Change the World>

@@ -1,0 +1,16 @@
+<start course metadata for 82-388 Qualitative Perspectives on Context, Instruction and Learning>
+Semester: Fall 2023 (aka F23)
+Course Name: Qualitative Perspectives on Context, Instruction and Learning
+Course Number: 82-388
+Department: Modern Languages
+Number of Units: 9
+Prerequisites: None
+Instructors: Khaled Al Masaeed, Natalie Amgott, Remi Van Compernolle
+Rooms: DH 1209; PH A19D; PH A21
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 82-388 Qualitative Perspectives on Context, Instruction and Learning>
+
+<start course description for 82-388 Qualitative Perspectives on Context, Instruction and Learning>
+Semester: Fall 2023 (aka F23)
+Course Description: SEC A: This course asks two central questions: 1) How do we capture language learning outcomes that aren't measurable quantitatively? and 2) How do we understand the relationship between context, instruction, and second language learning? To answer these questions, we will examine research and its practical applications from a variety of qualitative traditions (e.g., ethnography, discourse analysis, qualitative interviews, diary studies) that has been carried out in a wide range of contexts, including study abroad, technology-enhanced environments, and informal learning 'in the wild.'  SEC B: We will explore how technology can be used and researched in contexts of second language acquisition and teaching. We'll investigate research, best pedagogical practices, and technological tools used in Computer-Assisted Language Learning. Students will learn how to conduct a review of a pedagogical tech tool or app (e.g., Chat GPT, Duolingo, Lingostar AI) and how to integrate it into a task-based or project-based lesson plan. In addition to teaching demos, students will engage in the creation of a research project proposal and/or literature review regarding a specific facet of technology-enhanced language teaching and learning.  SEC C: This course provides a hands-on introduction to linguistic data analysis using the programming language R.  SEC D: Pragmatics is broadly understood as the study of language use in social context. This course, therefore, addresses various topics in second language (L2) pragmatics, including theories in pragmatics learning, multilingual translanguaging in L2 pragmatics, research methods in L2 pragmatics, target areas of investigation, instruction and assessment, and learning contexts. Through critical examinations of the literature in these areas, students will develop an understanding of existing research paradigms in L2 pragmatics and future directions.
+</end course description for 82-388 Qualitative Perspectives on Context, Instruction and Learning>

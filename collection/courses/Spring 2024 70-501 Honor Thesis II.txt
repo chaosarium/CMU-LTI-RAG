@@ -1,0 +1,16 @@
+<start course metadata for 70-501 Honor Thesis II>
+Semester: Spring 2024 (aka S24)
+Course Name: Honor Thesis II
+Course Number: 70-501
+Department: Business Administration
+Number of Units: N/A
+Prerequisites: None
+Instructors: George Burton Hollifield, Muhammad Farooqi
+Rooms: DNM DNM
+Locations: Doha, Qatar; Pittsburgh, Pennsylvania
+</end course metadata for 70-501 Honor Thesis II>
+
+<start course description for 70-501 Honor Thesis II>
+Semester: Spring 2024 (aka S24)
+Course Description: Business students with outstanding academic records may undertake an Honors Thesis.  The topic is of the student's choice but must have some original aspect in the question being explored, the data set, or in the methods that are used.  It must also be of sufficient academic rigor to meet the approval of a faculty advisor with expertise in the project's area.  Students enroll each semester in a 9-unit independent study course with their faculty advisor for the project (70-500 in the fall and 70-501 in the spring).  Students and their faculty advisor develop a course description for the project and submit it for approval as two 9-unit courses to the BA Director.  Enrollment by permission of the BA Program.
+</end course description for 70-501 Honor Thesis II>

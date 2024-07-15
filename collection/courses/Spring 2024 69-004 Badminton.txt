@@ -1,0 +1,16 @@
+<start course metadata for 69-004 Badminton>
+Semester: Spring 2024 (aka S24)
+Course Name: Badminton
+Course Number: 69-004
+Department: Physical Education
+Number of Units: 3
+Prerequisites: None
+Instructors: Ross Macklin
+Rooms: CUC W GYM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 69-004 Badminton>
+
+<start course description for 69-004 Badminton>
+Semester: Spring 2024 (aka S24)
+Course Description: This course will teach the fundamentals of badminton.  Students will play individual and doubles.  This course meets in Wiegand Gymnasium, Cohon University Center.
+</end course description for 69-004 Badminton>

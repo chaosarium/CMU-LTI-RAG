@@ -1,0 +1,16 @@
+<start course metadata for 60-107 Foundations: Critical Studies>
+Semester: Spring 2024 (aka S24)
+Course Name: Foundations: Critical Studies
+Course Number: 60-107
+Department: Art
+Number of Units: 9
+Prerequisites: None
+Instructors: Jongwoo Kim
+Rooms: WEH 5310; WEH 5403
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 60-107 Foundations: Critical Studies>
+
+<start course description for 60-107 Foundations: Critical Studies>
+Semester: Spring 2024 (aka S24)
+Course Description: Foundations: Critical Studies is a seminar course that expands your historical knowledge concerning contemporary art and human experience in society. Through critical reading and writing,  you will learn how the role of artistic research contextualizes the conceptual creativity of your studio practice. This course involves close reading and discussions of a wide range of texts, from foundational theory to short stories, nonfiction, poetry, exhibition reviews, artist interviews, curatorial essays, and excerpts from scholarly monographs. Today's visual artist will find that writing is a key to future professional opportunities and that research, writing, and theory are integral parts of artmaking. This course integrates analytical reading and research-based writing into your creative process.
+</end course description for 60-107 Foundations: Critical Studies>

@@ -1,0 +1,16 @@
+<start course metadata for 42-401 Foundation of BME Design>
+Semester: Fall 2023 (aka F23)
+Course Name: Foundation of BME Design
+Course Number: 42-401
+Department: Biomedical Engineering
+Number of Units: 6
+Prerequisites: 42-101
+Instructors: Conrad Zapanta
+Rooms: BH A36
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 42-401 Foundation of BME Design>
+
+<start course description for 42-401 Foundation of BME Design>
+Semester: Fall 2023 (aka F23)
+Course Description: This course sequence introduces Biomedical Engineering students to the design of useful biomedical products to meet a specific medical need. Students will learn to identify product needs, how to specify problem definitions and to use project management tools. Methods to develop creativity in design will be introduced.  The course sequence is comprised of two parts:   42-401 is offered in the Fall semester and provides the students the opportunity to form project teams, select and define a project, create a development plan, and complete an initial prototype.   42-402 is offered in the Spring semester is a full semester course and completes the plan that was developed in the fall semester.  This course culminates in the completion of multiple prototypes, a poster presentation, and a written report.
+</end course description for 42-401 Foundation of BME Design>

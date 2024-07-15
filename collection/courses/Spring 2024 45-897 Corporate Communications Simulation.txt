@@ -1,0 +1,16 @@
+<start course metadata for 45-897 Corporate Communications Simulation>
+Semester: Spring 2024 (aka S24)
+Course Name: Corporate Communications Simulation
+Course Number: 45-897
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Ronald Placone
+Rooms: TEP 2119
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-897 Corporate Communications Simulation>
+
+<start course description for 45-897 Corporate Communications Simulation>
+Semester: Spring 2024 (aka S24)
+Course Description: Organizational leadership requires a wide range of skills.  This theory- to- practice course allows students to demonstrate leadership skills in a simulated environment.  The class will form the leadership team for a large corporation.  Each student will take on the role of a top executive.  For example, roles such as CFO, CIO, and CMO are usually selected.  Students remain in role for the entire mini.  Through analysis and examination of what is best for the company and its stakeholders, students, as part of the leadership team, will discuss and make top level decisions that define the organization.  Activities the leadership team will explore include mission/vision analysis, SWOT, TOWS and strategic planning, communication and media planning, and performance assessment.
+</end course description for 45-897 Corporate Communications Simulation>

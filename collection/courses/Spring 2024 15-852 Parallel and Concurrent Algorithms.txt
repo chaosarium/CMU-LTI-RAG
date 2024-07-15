@@ -1,0 +1,16 @@
+<start course metadata for 15-852 Parallel and Concurrent Algorithms>
+Semester: Spring 2024 (aka S24)
+Course Name: Parallel and Concurrent Algorithms
+Course Number: 15-852
+Department: Computer Science
+Number of Units: 12
+Prerequisites: None
+Instructors: Guy Blelloch
+Rooms: DH 2122
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-852 Parallel and Concurrent Algorithms>
+
+<start course description for 15-852 Parallel and Concurrent Algorithms>
+Semester: Spring 2024 (aka S24)
+Course Description: TBD
+</end course description for 15-852 Parallel and Concurrent Algorithms>

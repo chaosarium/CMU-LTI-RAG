@@ -1,0 +1,16 @@
+<start course metadata for 82-312 Advanced Arabic II>
+Semester: Spring 2024 (aka S24)
+Course Name: Advanced Arabic II
+Course Number: 82-312
+Department: Modern Languages
+Number of Units: 9
+Prerequisites: 82-311
+Instructors: Instructor TBA
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 82-312 Advanced Arabic II>
+
+<start course description for 82-312 Advanced Arabic II>
+Semester: Spring 2024 (aka S24)
+Course Description: The course is the continuation of Advanced Arabic I. It continues promoting multiple literacies in an integrated approach to Arabic language and culture studies and builds students ability to function at the advanced level in a variety of topics. It also embraces the diglossic nature of Arabic by explicitly integrating the teaching of Arabic regional spoken varieties alongside Modern Standard Arabic. Class will be of a multidialectal and multilingual nature to encourage questioning, analyzing, and conceptualizing topics in various contexts which will enhance and develop the students' understanding of Arabic regional spoken varieties alongside MSA. Students will learn to examine cultural contexts and analyse world views that have been propagated as a result of political inequalities that are consequences of events such as the Arab Spring in the MENA region. Students will also examine and analyse cultural contexts relative to social media in contemporary politics, implications of climate change in global cultures, along with human rights on a global scale. This course also consists of topics pertaining to cultural heritage in the MENA region and the United States. During the course, students will also evaluate the influence of cultural norms and humanitarian institutions on the perpetuation of structural inequalities that affect the organizations of; human rights, climate change, freedom of speech, and specific marginalized communities.
+</end course description for 82-312 Advanced Arabic II>

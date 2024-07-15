@@ -1,0 +1,16 @@
+<start course metadata for 73-348 Behavioral Economics>
+Semester: Spring 2024 (aka S24)
+Course Name: Behavioral Economics
+Course Number: 73-348
+Department: Economics
+Number of Units: 9
+Prerequisites: (36-207 or 36-200 or 36-225 or 36-217 or 70-207) and (21-120) and (73-102 or 73-100 or 73-104)
+Instructors: John Gasper
+Rooms: TEP 2612
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 73-348 Behavioral Economics>
+
+<start course description for 73-348 Behavioral Economics>
+Semester: Spring 2024 (aka S24)
+Course Description: This course introduces students to behavioral economics which is a subfield of economics that incorporates insights from other social sciences, such as psychology, into economic models and aims to explain the anomalies challenging some of the classical economic models. (Lecture, 3 hours). Minimum grade of "C" required in all economics pre-requisite courses.
+</end course description for 73-348 Behavioral Economics>

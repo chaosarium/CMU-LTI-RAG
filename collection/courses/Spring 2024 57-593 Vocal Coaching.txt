@@ -1,0 +1,16 @@
+<start course metadata for 57-593 Vocal Coaching>
+Semester: Spring 2024 (aka S24)
+Course Name: Vocal Coaching
+Course Number: 57-593
+Department: Music
+Number of Units: 1
+Prerequisites: None
+Instructors: Ellen Rissinger, Jocelyn Dueck, Mark Carver, Roseanna Irwin
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-593 Vocal Coaching>
+
+<start course description for 57-593 Vocal Coaching>
+Semester: Spring 2024 (aka S24)
+Course Description: TBA
+</end course description for 57-593 Vocal Coaching>

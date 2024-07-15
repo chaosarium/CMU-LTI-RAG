@@ -1,0 +1,16 @@
+<start course metadata for 11-700 LTI Colloquium>
+Semester: Fall 2023 (aka F23)
+Course Name: LTI Colloquium
+Course Number: 11-700
+Department: Language Technologies Institute
+Number of Units: 6
+Prerequisites: None
+Instructors: Fernando Diaz, Yonatan Bisk
+Rooms: POS A35
+Locations: Lisbon, Portugal; Pittsburgh, Pennsylvania
+</end course metadata for 11-700 LTI Colloquium>
+
+<start course description for 11-700 LTI Colloquium>
+Semester: Fall 2023 (aka F23)
+Course Description: The LTI colloquium is a series of talks related to language technologies. The topics include but are not restricted to Computational Linguistics, Machine Translation, Speech Recognition and Synthesis, Information Retrieval, Computational Biology, Machine Learning, Text Mining, Knowledge Representation, Computer-Assisted Language Learning and Intelligent Language Tutoring.  To receive credit for the course, students are required to attend all lectures and successfully complete an on-line quiz administered at the close of each talk. Students with low grades on the quizzes will be asked to also write an 8-page critique of one the talks at the end of the semester.
+</end course description for 11-700 LTI Colloquium>

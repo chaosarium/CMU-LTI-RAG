@@ -1,0 +1,16 @@
+<start course metadata for 36-202 Methods for Statistics & Data Science>
+Semester: Summer Two 2024 (aka M24, M24 Mini 2, Summer 2024 Mini 2)
+Course Name: Methods for Statistics & Data Science
+Course Number: 36-202
+Department: Statistics and Data Science
+Number of Units: 9
+Prerequisites: 36-200 or 36-247 or 36-220 or 70-207 or 36-207
+Instructors: Gordon Weinberg
+Rooms: BH 140B; BH A36
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 36-202 Methods for Statistics & Data Science>
+
+<start course description for 36-202 Methods for Statistics & Data Science>
+Semester: Summer Two 2024 (aka M24, M24 Mini 2, Summer 2024 Mini 2)
+Course Description: None
+</end course description for 36-202 Methods for Statistics & Data Science>

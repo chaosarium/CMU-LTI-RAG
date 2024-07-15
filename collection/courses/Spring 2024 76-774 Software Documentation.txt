@@ -1,0 +1,16 @@
+<start course metadata for 76-774 Software Documentation>
+Semester: Spring 2024 (aka S24)
+Course Name: Software Documentation
+Course Number: 76-774
+Department: English
+Number of Units: 9
+Prerequisites: None
+Instructors: Alan Houser
+Rooms: WEH 5202
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 76-774 Software Documentation>
+
+<start course description for 76-774 Software Documentation>
+Semester: Spring 2024 (aka S24)
+Course Description: This course teaches theory, techniques, and best practices for creating software documentation. We will learn to plan, architect, write, and publish audience-appropriate user assistance, while applying concepts and approaches like minimalism, topic-oriented authoring, single-source publishing, content reuse, and metadata. Students will complete homework assignments and larger projects to reinforce principles and provide experience in all phases of the software documentation lifecycle. Readings and class discussion will bridge theory and practice.
+</end course description for 76-774 Software Documentation>

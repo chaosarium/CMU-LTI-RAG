@@ -1,0 +1,16 @@
+<start course metadata for 48-707 MUD Graduate Seminar>
+Semester: Fall 2023 (aka F23)
+Course Name: MUD Graduate Seminar
+Course Number: 48-707
+Department: Architecture
+Number of Units: 3
+Prerequisites: None
+Instructors: Paul Ostergaard
+Rooms: MM 307
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-707 MUD Graduate Seminar>
+
+<start course description for 48-707 MUD Graduate Seminar>
+Semester: Fall 2023 (aka F23)
+Course Description: The Seminar is focused on the practice of urban design and will include: lectures; guest lectures; class discussion; a visit to an urban design firm; reading assignments; two short paper; and one short presentation to the class.
+</end course description for 48-707 MUD Graduate Seminar>

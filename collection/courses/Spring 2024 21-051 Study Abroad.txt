@@ -1,0 +1,16 @@
+<start course metadata for 21-051 Study Abroad>
+Semester: Spring 2024 (aka S24)
+Course Name: Study Abroad
+Course Number: 21-051
+Department: Mathematical Sciences
+Number of Units: 0
+Prerequisites: None
+Instructors: Instructor TBA
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-051 Study Abroad>
+
+<start course description for 21-051 Study Abroad>
+Semester: Spring 2024 (aka S24)
+Course Description: No course description provided.
+</end course description for 21-051 Study Abroad>

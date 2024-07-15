@@ -1,0 +1,16 @@
+<start course metadata for 57-827 Jazz Orchestra>
+Semester: Fall 2023 (aka F23)
+Course Name: Jazz Orchestra
+Course Number: 57-827
+Department: Music
+Number of Units: 3
+Prerequisites: 57-827
+Instructors: Mark Snyder
+Rooms: MM 119
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-827 Jazz Orchestra>
+
+<start course description for 57-827 Jazz Orchestra>
+Semester: Fall 2023 (aka F23)
+Course Description: This ensemble incorporates a comprehensive approach to Big Band performance and study. The music performed is drawn from all eras of big band repertoire with occasional programs of specific composers and genres.  The ensemble is carefully coordinated with the Jazz Vocal Ensemble and major ensembles in order to challenge and prepare students for professional music career opportunities.  The ensemble performs on the regular School of Music concert series (2-3 shows per semester) and for on-campus events.  Admission of undergraduate and graduate students is by competitive audition and placement is by the director.  Grading is based on attendance, preparation, and consistent progress.
+</end course description for 57-827 Jazz Orchestra>

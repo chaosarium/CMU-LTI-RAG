@@ -1,0 +1,16 @@
+<start course metadata for 67-427 Privacy and Security Capstone>
+Semester: Spring 2024 (aka S24)
+Course Name: Privacy and Security Capstone
+Course Number: 67-427
+Department: Information Systems Program
+Number of Units: 9
+Prerequisites: None
+Instructors: Daniel Phelps
+Rooms: CMB 1030
+Locations: Doha, Qatar
+</end course metadata for 67-427 Privacy and Security Capstone>
+
+<start course description for 67-427 Privacy and Security Capstone>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is the capstone course for the Privacy and Security concentration in Information Systems.  It requires students to engage in a substantive project related to Privacy and/or Security that will be primarily independent but guided by faculty.
+</end course description for 67-427 Privacy and Security Capstone>

@@ -1,0 +1,16 @@
+<start course metadata for 21-849 Arithmetic Statistics>
+Semester: Fall 2023 (aka F23)
+Course Name: Arithmetic Statistics
+Course Number: 21-849
+Department: Mathematical Sciences
+Number of Units: 12
+Prerequisites: (21-355 or 21-235 or 21-455) and (21-373)
+Instructors: Theresa Anderson
+Rooms: WEH 8201
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-849 Arithmetic Statistics>
+
+<start course description for 21-849 Arithmetic Statistics>
+Semester: Fall 2023 (aka F23)
+Course Description: This course affords students with the opportunity to study topics which are in the area of expertise of the instructor.  This course may taken more than once if content is sufficiently different.  Course prerequisites will depend on the content of the course.  Please see the course URL for semester-specific topics.  (Three 50 minute lectures)
+</end course description for 21-849 Arithmetic Statistics>

@@ -1,0 +1,16 @@
+<start course metadata for 11-920 Independent Study: Breadth>
+Semester: Spring 2024 (aka S24)
+Course Name: Independent Study: Breadth
+Course Number: 11-920
+Department: Language Technologies Institute
+Number of Units: N/A
+Prerequisites: None
+Instructors: Alexander Hauptmann, Alexander Rudnicky, Alexander Waibel, Anthony Tomasic, Barnabas Poczos, Bhiksha Ramakrishnan, Carolyn Rose, David Mortensen, Dokyun Lee, Emma Strubell, Eric Nyberg, Eric Xing, Graham Neubig, Hyaejin Oh, Instructor TBA, Jack Mostow, Jamie Callan, Jason Hong, Justine Cassell, Katia Sycara, Lorraine Levin, Louis-Philippe Morency, Matthew Gormley, Maxine Eskenazi, Ralf Brown, Richard Stern, Robert Frederking, Ronald Rosenfeld, Ruslan Salakhutdinov, Scott Fahlman, Shinji Watanabe, Stacey Young, Stephen Smith, Taylor Berg-Kirkpatrick, Teruko Mitamura, Tom Mitchell, William Cohen, Yiming Yang, Yonatan Bisk, Yulia Tsvetkov, Zachary Lipton, Zico Kolter
+Rooms: DNM DNM
+Locations: Lisbon, Portugal; Pittsburgh, Pennsylvania
+</end course metadata for 11-920 Independent Study: Breadth>
+
+<start course description for 11-920 Independent Study: Breadth>
+Semester: Spring 2024 (aka S24)
+Course Description: This course number is intended for individual study with faculty other than a student's intended thesis advisor.
+</end course description for 11-920 Independent Study: Breadth>

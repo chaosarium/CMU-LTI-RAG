@@ -1,0 +1,16 @@
+<start course metadata for 54-813 Advanced Artisan Draping>
+Semester: Spring 2024 (aka S24)
+Course Name: Advanced Artisan Draping
+Course Number: 54-813
+Department: Drama
+Number of Units: 9
+Prerequisites: 54-814 and 54-848
+Instructors: Hugh Hanson
+Rooms: PCA 308
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-813 Advanced Artisan Draping>
+
+<start course description for 54-813 Advanced Artisan Draping>
+Semester: Spring 2024 (aka S24)
+Course Description: For Costume Production majors
+</end course description for 54-813 Advanced Artisan Draping>

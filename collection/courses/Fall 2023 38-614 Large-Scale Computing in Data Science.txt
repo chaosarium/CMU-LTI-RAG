@@ -1,0 +1,16 @@
+<start course metadata for 38-614 Large-Scale Computing in Data Science>
+Semester: Fall 2023 (aka F23)
+Course Name: Large-Scale Computing in Data Science
+Course Number: 38-614
+Department: MCS Interdisciplinary
+Number of Units: 12
+Prerequisites: None
+Instructors: John Urbanic Jr
+Rooms: 3SC 110
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 38-614 Large-Scale Computing in Data Science>
+
+<start course description for 38-614 Large-Scale Computing in Data Science>
+Semester: Fall 2023 (aka F23)
+Course Description: This course introduces students to the techniques necessary for manipulating and analyzing big data as encountered in modern scientific computing. This Python based course will introduce modern software engineering techniques and tools, and data science frameworks with an emphasis on large-scale problems and computing platforms. It is hands-on and will use the Spark framework for the mining of large and complex scientific datasets. Students will progress to scalable data analytics and eventually basic machine learning on various scalable platforms such as supercomputers and clouds. This will culminate with an introduction to the TensorFlow framework for deep learning. Lower-level concepts such as performance optimization and concurrent programming techniques will be introduced along the way. Exercises will be motivated by relevant scientific community datasets. This course is required for students enrolled in the MS program in Data Analytics for Science.
+</end course description for 38-614 Large-Scale Computing in Data Science>

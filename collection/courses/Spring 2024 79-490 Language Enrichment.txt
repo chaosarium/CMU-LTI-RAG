@@ -1,0 +1,16 @@
+<start course metadata for 79-490 Language Enrichment>
+Semester: Spring 2024 (aka S24)
+Course Name: Language Enrichment
+Course Number: 79-490
+Department: History
+Number of Units: 3
+Prerequisites: None
+Instructors: Instructor TBA
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 79-490 Language Enrichment>
+
+<start course description for 79-490 Language Enrichment>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is to be used for receiving credits in certain courses in which the student does reading in a specified foreign language on issues developed in the course. This course is attached to a 200, 300 or 400 level history course as indicated in course syllabus for each term. Language options include Spanish, French, Russian, Chinese and German. By permission of instructor only.
+</end course description for 79-490 Language Enrichment>

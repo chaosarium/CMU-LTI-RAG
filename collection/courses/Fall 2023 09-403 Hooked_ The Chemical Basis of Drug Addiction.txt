@@ -1,0 +1,16 @@
+<start course metadata for 09-403 Hooked: The Chemical Basis of Drug Addiction>
+Semester: Fall 2023 (aka F23)
+Course Name: Hooked: The Chemical Basis of Drug Addiction
+Course Number: 09-403
+Department: Chemistry
+Number of Units: 9
+Prerequisites: 09-218 or 09-220
+Instructors: Bruce Armitage
+Rooms: SH 234
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 09-403 Hooked: The Chemical Basis of Drug Addiction>
+
+<start course description for 09-403 Hooked: The Chemical Basis of Drug Addiction>
+Semester: Fall 2023 (aka F23)
+Course Description: What makes us need something so much that it eclipses other important aspects of our lives, such as family, friends, work, hobbies, health and wellness? There are many different types of addiction; this course will focus on molecular addictions, specifically those involving members of the opiate class of narcotics. The ongoing epidemic of opiate addiction, arising both from over-prescription of pain killers and recreational use of heroin, has been widely reported and continues to rise at alarming rates, ravaging our urban and rural communities. In this course, we will explore the complicated role of chemistry in this epidemic, including the good (elucidating mechanisms of action, development of clinically useful and safe opiates and non-opiate pain killers) and the bad (design and synthesis of increasingly addictive opiates). We will also discuss ethical questions faced by the pharmaceutical industry that develops, markets and sells opiates, the medical community that prescribes opiates, and the government agencies charged with regulating these activities. Students who complete this course will emerge with a broad understanding and perspective on an issue that is of great scientific and societal importance. 3 hrs. lec.
+</end course description for 09-403 Hooked: The Chemical Basis of Drug Addiction>

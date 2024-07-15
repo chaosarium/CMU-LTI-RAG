@@ -1,0 +1,16 @@
+<start course metadata for 18-751 Applied Stochastic Processes>
+Semester: Fall 2023 (aka F23)
+Course Name: Applied Stochastic Processes
+Course Number: 18-751
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: (36-225 or 36-218 or 36-219 or 21-325) and (18-290)
+Instructors: Moise Busogi, Ozan Tonguz
+Rooms: B23 118; B23 212; CMR F205; WEH 4623
+Locations: Kigali, Rwanda; Pittsburgh, Pennsylvania; San Jose, California
+</end course metadata for 18-751 Applied Stochastic Processes>
+
+<start course description for 18-751 Applied Stochastic Processes>
+Semester: Fall 2023 (aka F23)
+Course Description: Basic probability concepts : Probability space, simple and compound events, statistical independence, and Bayes Rule. Total Probability Concept; Bernoulli trials; Poisson Law. De Moivre-Laplace Theorem. Definition of a Random Variable (RV); Probability distribution of an RV: cumulative distribution function (CDF) and probability density function (PDF). Two Random Variables; several Random Variables. Functions of RVs; conditional distributions; conditional expectations; joint distributions. Moments, generating functions, and characteristic functions of RVs. Chebyshev inequality. Estimation; linear estimation; minimum mean square estimation; and orthogonality principle. Limit theorems; Central Limit Theorem; Law of Large Numbers (both strong LLN and Weak LLN). Definition of a Random Process (RP). Different notions of stationarity. Poisson and Gaussian processes. Autocorrelation and Power Spectral Density (PSD) of an RP. Processing of random (stochastic) processes by linear systems. Ergodicity. Spectral analysis. Matched Filtering. Selected applications from telecommunications, data networking (queuing), Kalman filtering.
+</end course description for 18-751 Applied Stochastic Processes>

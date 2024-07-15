@@ -1,0 +1,16 @@
+<start course metadata for 04-601 ICT in Africa Seminar>
+Semester: Spring 2024 (aka S24)
+Course Name: ICT in Africa Seminar
+Course Number: 04-601
+Department: Information & Communication Technology
+Number of Units: 6
+Prerequisites: None
+Instructors: Timothy Brown
+Rooms: CMR F203
+Locations: Kigali, Rwanda
+</end course metadata for 04-601 ICT in Africa Seminar>
+
+<start course description for 04-601 ICT in Africa Seminar>
+Semester: Spring 2024 (aka S24)
+Course Description: In this course, students learn about Information and Communications Technology (ICT) and its application in Africa. The goal is to provide an overview of core ICT topics such as data, connectivity, artificial intelligence, and cybersecurity and their application to solving problems on the continent in areas ranging from health care to agriculture. In the first part of the course, students read assigned papers (e.g., academic papers, government reports, consultant reports, blog posts, etc.) to deepen their understanding of core ICT topics in an African context.  Each week, students write individual summaries based on the readings, give a team-based oral presentation, and lead an in-class discussion based on their assigned reading. The second part of the course is a student-directed, team-based project in which students select an African challenge and research potential ICT solutions. In addition to deepening their ICT knowledge, students will strengthen their skills at reading and summarizing technical papers, their oral and written communication abilities, and their dexterity in working in teams.
+</end course description for 04-601 ICT in Africa Seminar>

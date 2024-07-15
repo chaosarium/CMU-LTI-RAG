@@ -1,0 +1,16 @@
+<start course metadata for 47-760 Foundations of Operations Management>
+Semester: Fall 2023 (aka F23)
+Course Name: Foundations of Operations Management
+Course Number: 47-760
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Sridhar Tayur
+Rooms: TEP 4219
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 47-760 Foundations of Operations Management>
+
+<start course description for 47-760 Foundations of Operations Management>
+Semester: Fall 2023 (aka F23)
+Course Description: In this course, we will cover several papers that will highlight tools (such as stochastic dynamic programming, game theory, infinitesimal perturbation analysis) as well as application areas (such as responsive network design, managing product variety, on-line retailing, omni-channel, supply chain/manufacturing flexibility, trust in multi-enterprise interactions and ethical supply chains).
+</end course description for 47-760 Foundations of Operations Management>

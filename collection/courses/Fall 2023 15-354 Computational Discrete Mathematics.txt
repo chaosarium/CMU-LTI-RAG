@@ -1,0 +1,16 @@
+<start course metadata for 15-354 Computational Discrete Mathematics>
+Semester: Fall 2023 (aka F23)
+Course Name: Computational Discrete Mathematics
+Course Number: 15-354
+Department: Computer Science
+Number of Units: 12
+Prerequisites: 15-251 or 21-228
+Instructors: Klaus Sutner
+Rooms: GHC 4215
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-354 Computational Discrete Mathematics>
+
+<start course description for 15-354 Computational Discrete Mathematics>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is about the computational aspects of some of the standard  concepts of discrete mathematics (relations, functions, logic, graphs,  algebra, automata), with emphasis on efficient algorithms.  We begin  with a brief introduction to computability and computational complexity. Other topics include: iteration, orbits and fixed points, order and equivalence relations, propositional logic and satisfiability testing, finite fields and shift register sequences, finite state machines, and cellular automata.    Computational support for some of the material is available in the form of a Mathematica package.
+</end course description for 15-354 Computational Discrete Mathematics>

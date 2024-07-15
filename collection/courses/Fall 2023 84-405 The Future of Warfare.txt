@@ -1,0 +1,16 @@
+<start course metadata for 84-405 The Future of Warfare>
+Semester: Fall 2023 (aka F23)
+Course Name: The Future of Warfare
+Course Number: 84-405
+Department: Institute for Politics and Strategy
+Number of Units: 9
+Prerequisites: None
+Instructors: Molly Dunigan
+Rooms: POS 151
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 84-405 The Future of Warfare>
+
+<start course description for 84-405 The Future of Warfare>
+Semester: Fall 2023 (aka F23)
+Course Description: Warfare is constantly evolving. In the contemporary conflict environment, the prospect of large-scale conflict between great powers is converging rapidly with proxy conflicts and threats typically posed by irregular actors and tactics. Great power competition between the United States, Russia, and China is increasingly playing out on the global strategic stage, while hybrid actors and proxy groups continue to wage war in an asymmetric and irregular manner that relies on ambiguity, strategic surprise, and deception. These activities often occur within the so-called "gray zone," an area of neither declared nor undeclared hostilities where U.S. adversaries are gradually allocating resources. This course will examine and historically contextualize various "new" trends in warfare, including the weaponization of AI technologies, increasingly sophisticated cyber and information warfare operations, the development of violent non-state actors with conventional military capabilities, and state support of mercenary forces to achieve strategic gains without attribution.
+</end course description for 84-405 The Future of Warfare>

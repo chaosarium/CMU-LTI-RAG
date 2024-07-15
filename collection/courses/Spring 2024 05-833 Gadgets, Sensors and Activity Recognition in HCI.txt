@@ -1,0 +1,16 @@
+<start course metadata for 05-833 Gadgets, Sensors and Activity Recognition in HCI>
+Semester: Spring 2024 (aka S24)
+Course Name: Gadgets, Sensors and Activity Recognition in HCI
+Course Number: 05-833
+Department: Human-Computer Interaction
+Number of Units: 12
+Prerequisites: None
+Instructors: Scott Hudson
+Rooms: POS 151
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 05-833 Gadgets, Sensors and Activity Recognition in HCI>
+
+<start course description for 05-833 Gadgets, Sensors and Activity Recognition in HCI>
+Semester: Spring 2024 (aka S24)
+Course Description: Recent advances in HCI have been driven by new capabilities to deliver inexpensive devices to users, to display information in mobile and other contexts, to sense the user and their environment, and use these sensors to create models of a user's context and actions.  This course will consider both concepts surrounding these new technological opportunities   through discussion of current literature - and practical considerations  the skills needed to actually build devices.    About 1/3 of this class will review current advances in this area.  The remainder will be devoted to development of individual skills so that students leaving the class will have an ability to actually build small devices for human interaction (in short: "HCI gadgets"). In particular, the course will concentrate on the basics of building simple microcontroller-based devices and will also provide very basic coverage of the machine learning techniques needed for simple sensor-driven statistical models.    The course is designed to be accessible to students with a wide range of backgrounds including both technically-oriented and non-technical students (especially Designers) interested in HCI. The class will be project oriented with 4-5 electronic prototype building projects during the semester. At least two of these projects will be self-defined in nature and can be adapted to the existing skills and interests of each student.    There are no formal prerequisites for this class. However, the class will involve programming and debugging of micro-controllers. Some coverage of the language used to do this will be provided, and if required by your background, the programming component of the projects can be made comparatively small (but, in that case some other aspect of the projects will need to be expanded). However, you should not take this course if you have no programming background. This course assumes no  background in electronics.
+</end course description for 05-833 Gadgets, Sensors and Activity Recognition in HCI>

@@ -1,0 +1,6 @@
+Name: Daniel Fried
+Title: Assistant Professor
+Email dfried@andrew.cmu.edu
+Phone: 
+Office: 
+Interests: Natural Language Processing: Language and Code, Conversational AI, Intelligent Agents, and Dialogue, Discourse and Pragmatics, Multimodal AI

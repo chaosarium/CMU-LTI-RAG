@@ -1,0 +1,16 @@
+<start course metadata for 47-900 TBA>
+Semester: Spring 2024 (aka S24)
+Course Name: TBA
+Course Number: 47-900
+Department: Business Administration
+Number of Units: N/A
+Prerequisites: None
+Instructors: Ali Shourideh, Ben Moseley, Bryan Routledge, Mustafa Akan, Oliver Hahl, Pietro Bonaldi, Tim Derdenger, Yan Huang
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 47-900 TBA>
+
+<start course description for 47-900 TBA>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is for Tepper PhD students only, and is designed to allow for one-on-one meetings between individual students and their area head.  Please see below for additional information.
+</end course description for 47-900 TBA>

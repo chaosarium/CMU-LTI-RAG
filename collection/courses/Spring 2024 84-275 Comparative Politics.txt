@@ -1,0 +1,16 @@
+<start course metadata for 84-275 Comparative Politics>
+Semester: Spring 2024 (aka S24)
+Course Name: Comparative Politics
+Course Number: 84-275
+Department: Institute for Politics and Strategy
+Number of Units: 9
+Prerequisites: None
+Instructors: Ignacio Arana
+Rooms: POS 152
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 84-275 Comparative Politics>
+
+<start course description for 84-275 Comparative Politics>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is an introduction to the subfield of Political Science called Comparative Politics. In this subfield we use comparative methods to study and compare domestic politics across countries. In this course, we aim to learn about how political systems differ, discuss why they differ and explore the consequences of such variation. The course is divided into four sections. In the first part, we will examine the main theories and methods used to conduct research in the subfield, and discuss the development and consolidation of the modern state. In the second section, we will examine political regimes, including variation among democracies and nondemocracies. In the third unit, we will study some of the countries' central political institutions. We will compare political systems (presidentialism, semipresidentialism, and parliamentarism) and examine legislatures, electoral systems, and political parties. In the final segment, we will scrutinize political mobilization and conflict. We will discuss interest groups, nationalism, social movements, protests, populism, clientelism, revolutions, civil wars, terrorism, and globalization.  The participation of students is central for the success of this course. You are encouraged to share your thoughts and doubts via Canvas, participate in small-group discussions each week, and participate in one group presentation that will demand you to apply the concepts and methods discussed in the course to other countries.
+</end course description for 84-275 Comparative Politics>

@@ -1,0 +1,16 @@
+<start course metadata for 67-200 Information Systems Research Colloquium>
+Semester: Fall 2023 (aka F23)
+Course Name: Information Systems Research Colloquium
+Course Number: 67-200
+Department: Information Systems Program
+Number of Units: 1
+Prerequisites: None
+Instructors: Correy Dandoy
+Rooms: PH 100
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 67-200 Information Systems Research Colloquium>
+
+<start course description for 67-200 Information Systems Research Colloquium>
+Semester: Fall 2023 (aka F23)
+Course Description: The Information Systems Research Colloquium will educate students on research opportunities both in IS and beyond. By the end of the course, students should be able to: ·       Articulate what undergraduate research looks like at Carnegie Mellon University, and particularly identify the breadth of research opportunities in the field of Information Systems  ·       Demonstrate how to communicate with faculty whose work aligns with individual interests ·       Describe several career and continuing education opportunities for Information Systems students The Information Systems Research Colloquium is open only to sophomore IS student as well as recent transfer students and is led by an IS academic advisor who facilitates discussions on the various research topics both through IS and other campus constituents.
+</end course description for 67-200 Information Systems Research Colloquium>

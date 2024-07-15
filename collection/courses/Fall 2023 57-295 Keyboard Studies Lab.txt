@@ -1,0 +1,16 @@
+<start course metadata for 57-295 Keyboard Studies Lab>
+Semester: Fall 2023 (aka F23)
+Course Name: Keyboard Studies Lab
+Course Number: 57-295
+Department: Music
+Number of Units: 3
+Prerequisites: None
+Instructors: Carla Larocca
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-295 Keyboard Studies Lab>
+
+<start course description for 57-295 Keyboard Studies Lab>
+Semester: Fall 2023 (aka F23)
+Course Description: No course description provided.
+</end course description for 57-295 Keyboard Studies Lab>

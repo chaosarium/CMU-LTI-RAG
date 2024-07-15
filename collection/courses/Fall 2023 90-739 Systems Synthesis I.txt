@@ -1,0 +1,16 @@
+<start course metadata for 90-739 Systems Synthesis I>
+Semester: Fall 2023 (aka F23)
+Course Name: Systems Synthesis I
+Course Number: 90-739
+Department: Public Policy & Mgt:Sch of Pub Pol & Mgt
+Number of Units: 12
+Prerequisites: None
+Instructors: Brett Crawford
+Rooms: HBH 1208
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 90-739 Systems Synthesis I>
+
+<start course description for 90-739 Systems Synthesis I>
+Semester: Fall 2023 (aka F23)
+Course Description: None
+</end course description for 90-739 Systems Synthesis I>

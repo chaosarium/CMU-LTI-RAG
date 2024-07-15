@@ -1,0 +1,16 @@
+<start course metadata for 51-368 Moving Pictures>
+Semester: Fall 2023 (aka F23)
+Course Name: Moving Pictures
+Course Number: 51-368
+Department: Design
+Number of Units: 9
+Prerequisites: None
+Instructors: Dylan Vitone
+Rooms: MM B4
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-368 Moving Pictures>
+
+<start course description for 51-368 Moving Pictures>
+Semester: Fall 2023 (aka F23)
+Course Description: The objective of this course is to provide students with a practical, technical and theoretical foundation in video work. Students leaving this class will have gained knowledge of developing a moving picture from start to finish. Students will learn how to storyboard/scamp, plan/scout, produce, and post-produce. Equally importantly students will develop their own visual esthetics through the creation of 4 short videos.
+</end course description for 51-368 Moving Pictures>

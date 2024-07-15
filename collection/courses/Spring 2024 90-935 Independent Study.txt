@@ -1,0 +1,16 @@
+<start course metadata for 90-935 Independent Study>
+Semester: Spring 2024 (aka S24)
+Course Name: Independent Study
+Course Number: 90-935
+Department: Public Policy & Mgt:Sch of Pub Pol & Mgt
+Number of Units: 6
+Prerequisites: None
+Instructors: Denise Rousseau
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 90-935 Independent Study>
+
+<start course description for 90-935 Independent Study>
+Semester: Spring 2024 (aka S24)
+Course Description: http://heinz.cmu.edu/academic-resources/course-results/index.aspx
+</end course description for 90-935 Independent Study>

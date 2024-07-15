@@ -1,0 +1,16 @@
+<start course metadata for 70-398 International Finance>
+Semester: Fall 2023 (aka F23)
+Course Name: International Finance
+Course Number: 70-398
+Department: Business Administration
+Number of Units: 9
+Prerequisites: 70-391
+Instructors: Zeigham Khokher
+Rooms: TEP 2701
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 70-398 International Finance>
+
+<start course description for 70-398 International Finance>
+Semester: Fall 2023 (aka F23)
+Course Description: International Finance is an elective course designed to give students the opportunity to analyze real-world problems in international capital markets. Topics covered include: exchange rate determination and quoting, international parity relations, foreign exchange hedging strategies using forwards and options, foreign exchange exposure management, international bond market, currency swap market, global equity market, international portfolio risk assessment and performance measurement. Students develop problem solving and communication skills with presentations and critical discussions of case studies.
+</end course description for 70-398 International Finance>

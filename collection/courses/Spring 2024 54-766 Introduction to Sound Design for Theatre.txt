@@ -1,0 +1,16 @@
+<start course metadata for 54-766 Introduction to Sound Design for Theatre>
+Semester: Spring 2024 (aka S24)
+Course Name: Introduction to Sound Design for Theatre
+Course Number: 54-766
+Department: Drama
+Number of Units: 6
+Prerequisites: None
+Instructors: Stewart Blackwood
+Rooms: PCA 231
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-766 Introduction to Sound Design for Theatre>
+
+<start course description for 54-766 Introduction to Sound Design for Theatre>
+Semester: Spring 2024 (aka S24)
+Course Description: Students explore the basic principles and theories of sound design from technical, psychological and aesthetic standpoints. Course work includes instruction in the controllable properties of sound, practical planning of sound plots, cue creation, and the design process. Restrictions: Open to all Graduate Drama Majors, CFA graduate students or with permission of instructor.
+</end course description for 54-766 Introduction to Sound Design for Theatre>

@@ -1,0 +1,16 @@
+<start course metadata for 17-806 Software Engineering Independent Study>
+Semester: Fall 2023 (aka F23)
+Course Name: Software Engineering Independent Study
+Course Number: 17-806
+Department: Software & Societal Systems
+Number of Units: N/A
+Prerequisites: None
+Instructors: Bogdan Vasilescu, Christian Kaestner, Claire Le Goues, David Garlan, Eunsuk Kang, Heather Miller, James Herbsleb, Jonathan Aldrich, Mary Shaw, Matthew Fredrikson, Travis Breaux, William Scherlis
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 17-806 Software Engineering Independent Study>
+
+<start course description for 17-806 Software Engineering Independent Study>
+Semester: Fall 2023 (aka F23)
+Course Description: The independent study course is appropriate to take for a learning activity that is neither covered by existing courses nor in independent research. At the ISR PhD.D level, students focus on formal coursework and independent research, so the independent study course is taken rarely. If students are interested in the possibility, you should speak with the faculty member who would guide you in the independent study, along with your prospective advisor(s).   The Independent Study should be a structured activity with an outcome that can be evaluated.  Students must fill out a SE PhD.D. Independent Study Prospectus prior to course registration.
+</end course description for 17-806 Software Engineering Independent Study>

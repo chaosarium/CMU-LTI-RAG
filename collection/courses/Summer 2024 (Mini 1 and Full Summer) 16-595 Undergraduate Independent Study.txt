@@ -1,0 +1,16 @@
+<start course metadata for 16-595 Undergraduate Independent Study>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Undergraduate Independent Study
+Course Number: 16-595
+Department: Robotics
+Number of Units: N/A
+Prerequisites: None
+Instructors: Howie Choset
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 16-595 Undergraduate Independent Study>
+
+<start course description for 16-595 Undergraduate Independent Study>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: For students to pursue an independent study with a Robotics Institute faculty member.
+</end course description for 16-595 Undergraduate Independent Study>

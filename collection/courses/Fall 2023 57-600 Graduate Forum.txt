@@ -1,0 +1,16 @@
+<start course metadata for 57-600 Graduate Forum>
+Semester: Fall 2023 (aka F23)
+Course Name: Graduate Forum
+Course Number: 57-600
+Department: Music
+Number of Units: 0
+Prerequisites: None
+Instructors: Sharon Johnston, Stephen Neely
+Rooms: CFA KRESGE
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-600 Graduate Forum>
+
+<start course description for 57-600 Graduate Forum>
+Semester: Fall 2023 (aka F23)
+Course Description: to be entered by the department
+</end course description for 57-600 Graduate Forum>

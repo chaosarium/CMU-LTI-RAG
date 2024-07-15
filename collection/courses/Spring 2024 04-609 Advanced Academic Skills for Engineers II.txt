@@ -1,0 +1,16 @@
+<start course metadata for 04-609 Advanced Academic Skills for Engineers II>
+Semester: Spring 2024 (aka S24)
+Course Name: Advanced Academic Skills for Engineers II
+Course Number: 04-609
+Department: Information & Communication Technology
+Number of Units: 6
+Prerequisites: None
+Instructors: Kwan Lee
+Rooms: CMR F307
+Locations: Kigali, Rwanda
+</end course metadata for 04-609 Advanced Academic Skills for Engineers II>
+
+<start course description for 04-609 Advanced Academic Skills for Engineers II>
+Semester: Spring 2024 (aka S24)
+Course Description: This course aims to develop students¿ range of academic skills to support them in their MS programs. The skills will include academic writing, summarizing texts, preparing and delivering presentations, and research and seminar skills.  This course is offered on a pass/no pass basis.
+</end course description for 04-609 Advanced Academic Skills for Engineers II>

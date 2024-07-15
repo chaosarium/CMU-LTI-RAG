@@ -1,0 +1,16 @@
+<start course metadata for 76-260 Introduction to Writing Fiction>
+Semester: Fall 2023 (aka F23)
+Course Name: Introduction to Writing Fiction
+Course Number: 76-260
+Department: English
+Number of Units: 9
+Prerequisites: (76-101) or (76-102) or (76-106 and 76-107) or (76-106 and 76-108) or (76-107 and 76-108)
+Instructors: Kevin Gonzalez
+Rooms: PH A19
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 76-260 Introduction to Writing Fiction>
+
+<start course description for 76-260 Introduction to Writing Fiction>
+Semester: Fall 2023 (aka F23)
+Course Description: This is an introduction to the reading and writing of short fiction. Character development and the creation of scenes will be the principal goals in the writing of short stories during the course of the semester. Revisions of the stories will constitute a major part of the final grade. Reading assignments will illustrate the different elements of fiction reviewed and practiced, and students will analyze and discuss stories from a writer's point of view.
+</end course description for 76-260 Introduction to Writing Fiction>

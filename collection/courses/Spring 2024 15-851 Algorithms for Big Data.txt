@@ -1,0 +1,16 @@
+<start course metadata for 15-851 Algorithms for Big Data>
+Semester: Spring 2024 (aka S24)
+Course Name: Algorithms for Big Data
+Course Number: 15-851
+Department: Computer Science
+Number of Units: 12
+Prerequisites: None
+Instructors: David Woodruff
+Rooms: GHC 4303; WEH 5403
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-851 Algorithms for Big Data>
+
+<start course description for 15-851 Algorithms for Big Data>
+Semester: Spring 2024 (aka S24)
+Course Description: TBD
+</end course description for 15-851 Algorithms for Big Data>

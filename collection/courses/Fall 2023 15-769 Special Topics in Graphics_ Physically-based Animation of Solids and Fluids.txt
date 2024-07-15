@@ -1,0 +1,16 @@
+<start course metadata for 15-769 Special Topics in Graphics: Physically-based Animation of Solids and Fluids>
+Semester: Fall 2023 (aka F23)
+Course Name: Special Topics in Graphics: Physically-based Animation of Solids and Fluids
+Course Number: 15-769
+Department: Computer Science
+Number of Units: 12
+Prerequisites: None
+Instructors: Minchen Li
+Rooms: WEH 2302
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-769 Special Topics in Graphics: Physically-based Animation of Solids and Fluids>
+
+<start course description for 15-769 Special Topics in Graphics: Physically-based Animation of Solids and Fluids>
+Semester: Fall 2023 (aka F23)
+Course Description: This seminar-based course delves into the heart of physically-based animations of solids and fluids, a key component in fields ranging from visual effects and VR to digital fashion. Central to this is solving partial differential equations (PDEs) using numerical methods, with applications extending to computational mechanics, robotic training, and 3D content creation. Combining lectures with student presentations, we will explore the simulation of various physical entities, such as rigid bodies, deformable bodies, shells, rods, liquids, and smoke, all the way from the discretization of the governing PDEs to the efficient implementation and evaluation of the numerical solvers.
+</end course description for 15-769 Special Topics in Graphics: Physically-based Animation of Solids and Fluids>

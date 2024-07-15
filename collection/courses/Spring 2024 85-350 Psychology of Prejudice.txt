@@ -1,0 +1,16 @@
+<start course metadata for 85-350 Psychology of Prejudice>
+Semester: Spring 2024 (aka S24)
+Course Name: Psychology of Prejudice
+Course Number: 85-350
+Department: Psychology
+Number of Units: 9
+Prerequisites: 85-241
+Instructors: Crista Crittenden
+Rooms: CMB 3044
+Locations: Doha, Qatar
+</end course metadata for 85-350 Psychology of Prejudice>
+
+<start course description for 85-350 Psychology of Prejudice>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is devoted to the study of both traditional and more modern forms of prejudice and discrimination and the psychological processes that can arise from categorizations and stereotyping. The class provides an overview of the cognitive and emotional underpinnings of prejudice and discrimination as it pertains to many forms of inequality. Its goal is to examine social differences and social inequality in many areas of society. The psychological theories underlying these behaviors will be examined as well as their impact on the lives of stigmatized individuals. In addition to the traditional forms of prejudice based on such things as race, gender and age, other inequalities that result from less traditional groupings such as social class, appearance, and disability will be explored. Research on issues of social identity, intergroup relations and the reduction of prejudice will be examined through readings and class activities.
+</end course description for 85-350 Psychology of Prejudice>

@@ -1,0 +1,16 @@
+<start course metadata for 09-623 Future Lab- DNA Science in the Cloud>
+Semester: Spring 2024 (aka S24)
+Course Name: Future Lab- DNA Science in the Cloud
+Course Number: 09-623
+Department: Chemistry
+Number of Units: 6
+Prerequisites: 09-621
+Instructors: Subha Das
+Rooms: WEH 5202
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 09-623 Future Lab- DNA Science in the Cloud>
+
+<start course description for 09-623 Future Lab- DNA Science in the Cloud>
+Semester: Spring 2024 (aka S24)
+Course Description: This course uses an automated and remote cloud lab facility and will involve learning the steps to handle, manipulate and quantitate solutions of DNA and nucleic acids. Students will set up experiments that automate the dispensing, analysis and purification of nucleic acids and use DNA for biophysical measurements. Students will learn to remotely operate, design and execute experiments on state-of-the-art instrumentation to analyze DNA sequence and structure. Besides learning how to remotely use equipment and instruments for synthesis and analyses by spectroscopy and spectrometry, students will also learn about nucleic acids as part of their experiments.  (Prior training in the use of the cloud lab is required)
+</end course description for 09-623 Future Lab- DNA Science in the Cloud>

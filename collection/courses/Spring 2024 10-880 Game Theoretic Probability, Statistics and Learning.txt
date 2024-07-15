@@ -1,0 +1,16 @@
+<start course metadata for 10-880 Game Theoretic Probability, Statistics and Learning>
+Semester: Spring 2024 (aka S24)
+Course Name: Game Theoretic Probability, Statistics and Learning
+Course Number: 10-880
+Department: Machine Learning
+Number of Units: 12
+Prerequisites: (10-701 or 10-715 or 36-708) and (36-700 or 36-705)
+Instructors: Aaditya Ramdas
+Rooms: DH 1211
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 10-880 Game Theoretic Probability, Statistics and Learning>
+
+<start course description for 10-880 Game Theoretic Probability, Statistics and Learning>
+Semester: Spring 2024 (aka S24)
+Course Description: We will study the game-theoretic foundation for probability, statistics and learning, and its applications to prediction, testing, estimation and change detection. It will distinctively employ modern concepts around betting, e-values, and martingales, effectively bridging Bayesian, frequentist and model-free or adversarial perspectives on these topics.
+</end course description for 10-880 Game Theoretic Probability, Statistics and Learning>

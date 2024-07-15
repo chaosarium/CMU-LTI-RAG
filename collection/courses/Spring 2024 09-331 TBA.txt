@@ -1,0 +1,16 @@
+<start course metadata for 09-331 TBA>
+Semester: Spring 2024 (aka S24)
+Course Name: TBA
+Course Number: 09-331
+Department: Chemistry
+Number of Units: 9
+Prerequisites: (09-223 or 09-221 or 09-207) and (33-151 or 33-121 or 33-141)
+Instructors: Carrie McDonough
+Rooms: GHC 5222
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 09-331 TBA>
+
+<start course description for 09-331 TBA>
+Semester: Spring 2024 (aka S24)
+Course Description: This course will cover all aspects of analytical instrumentation and its application to problems in materials, environmental, and biological chemistry. Topics covered will include mass spectrometry, optical spectroscopies and NMR. In addition, the course will emphasize how to select an analytical method appropriate to the problem at hand, how to optimize the signal to noise obtained by a measurement, and the quantitative analysis of experimental data. Some basic electronics will be covered as well.  3 hrs. lec.
+</end course description for 09-331 TBA>

@@ -1,0 +1,16 @@
+<start course metadata for 18-645 How to Write Fast Code I>
+Semester: Fall 2023 (aka F23)
+Course Name: How to Write Fast Code I
+Course Number: 18-645
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Tze Meng Low
+Rooms: B23 212; BH A53
+Locations: Pittsburgh, Pennsylvania; San Jose, California
+</end course metadata for 18-645 How to Write Fast Code I>
+
+<start course description for 18-645 How to Write Fast Code I>
+Semester: Fall 2023 (aka F23)
+Course Description: The fast evolution and increasing complexity of computing platforms pose a major challenge for developers of high performance software for engineering, science, and consumer applications: it becomes increasingly harder to harness the available computing power. Straightforward implementations may lose as much as one or two orders of magnitude in performance. On the other hand, creating optimal implementations requires the developer to have an understanding of algorithms, capabilities and limitations of compilers, and the target platform's architecture and microarchitecture. This interdisciplinary course introduces the student to the foundations and state-of-the-art techniques in high performance software development using important functionality such as linear algebra kernels, transforms, filters and other kernels that are utilized by many scientific, engineering and machine learning applications. The course will explain how to optimize for the memory hierarchy, take advantage of special instruction sets, and how to write parallel code for multicore, manycore, and cluster platforms, based on state-of-the-art research. Further, general strategies for performance analysis and optimization are introduced. Students will apply the lessons in group projects that accompany the course. Prerequisite: Senior ECE or CS undergraduate student or higher, solid C programming skills.
+</end course description for 18-645 How to Write Fast Code I>

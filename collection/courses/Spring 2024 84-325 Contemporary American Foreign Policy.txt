@@ -1,0 +1,16 @@
+<start course metadata for 84-325 Contemporary American Foreign Policy>
+Semester: Spring 2024 (aka S24)
+Course Name: Contemporary American Foreign Policy
+Course Number: 84-325
+Department: Institute for Politics and Strategy
+Number of Units: 9
+Prerequisites: None
+Instructors: Andrew Stravers
+Rooms: PH 226B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 84-325 Contemporary American Foreign Policy>
+
+<start course description for 84-325 Contemporary American Foreign Policy>
+Semester: Spring 2024 (aka S24)
+Course Description: This course provides a survey of American foreign policy since World War I as a means of explaining why American foreign policy looks the way it does today. We will cover topics such as America's perennial battles between isolationism and internationalism, the creation of the US-led world order after 1945, the containment of communism, and anti-terrorism after 9/11. We will cover enduring and global issues like climate change, nuclear non-proliferation, humanitarian intervention, and international economic policy, as well. Further, a main focus of the course is how foreign policy is made - the role each branch of government plays in foreign policy making, the impact of domestic politics and public opinion, and how other countries receive and react to American foreign policy. The course will use both history and data analysis to understand how foreign policy works, how it is made, and its effect both at home and abroad. A good grasp of the 20th century American and world history, and some familiarity with international relations theory are not requirements but will prove helpful. By the end of the semester, students should have acquired a broad understanding of the most important foreign policy events of the last century and have the tools to analyze foreign policy decision-making.
+</end course description for 84-325 Contemporary American Foreign Policy>

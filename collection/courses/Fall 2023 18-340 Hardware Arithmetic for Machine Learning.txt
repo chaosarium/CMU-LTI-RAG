@@ -1,0 +1,16 @@
+<start course metadata for 18-340 Hardware Arithmetic for Machine Learning>
+Semester: Fall 2023 (aka F23)
+Course Name: Hardware Arithmetic for Machine Learning
+Course Number: 18-340
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: 18-240
+Instructors: Shawn Blanton
+Rooms: DH 1211
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-340 Hardware Arithmetic for Machine Learning>
+
+<start course description for 18-340 Hardware Arithmetic for Machine Learning>
+Semester: Fall 2023 (aka F23)
+Course Description: In this course, students explore the techniques for designing high-performance digital circuits for computation along with methods for evaluating their characteristics. We begin by reviewing number systems and digital arithmetic along with basic arithmetic circuits such as ripple-carry adders. From there, we move to more complex adders (carry-look-ahead, carry-skip, carry-bypass, etc.), multipliers, dividers, and floating-point units. For each circuit introduced, we will develop techniques and present theory for evaluating their functionality and speed. Other methods will be described for analyzing a circuit's power consumption, testability, silicon area requirements, correctness, and cost. In addition, we will utilize various CAD tools to evaluate the circuits described. Finally, advanced timing and clocking concepts will be investigated. For example, the notion of clock skew will be introduced and its impact on clock period for sequential circuits will be analyzed. We will also learn how to analyze and design asynchronous circuits, a class of sequential circuits that do not utilize a clock signal.  Course projects focus on key arithmetic aspects of various machine learning algorithms including: K-nearest neighbors, neural networks, decision trees, and support vector machines.  *Note: Although students in 18-340 and 18-640 will share lectures, labs, and recitations, students in 18-340 and 18-640 will receive different homework assignments, design projects, and exams. In some cases 18-640 students will also have different or additional lab sessions. The homework assignments, design projects, and exams that are given to the students registered for 18-640 will be more challenging than those given to the students registered for 18-340 in that they will have more complex designs, involve additional theoretical analysis, and have more stringent specifications (e.g., in area, power, performance, and robustness).
+</end course description for 18-340 Hardware Arithmetic for Machine Learning>

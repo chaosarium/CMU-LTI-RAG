@@ -1,0 +1,16 @@
+<start course metadata for 15-645 Database Systems>
+Semester: Spring 2024 (aka S24)
+Course Name: Database Systems
+Course Number: 15-645
+Department: Computer Science
+Number of Units: 12
+Prerequisites: None
+Instructors: Jignesh Patel
+Rooms: PH 100
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-645 Database Systems>
+
+<start course description for 15-645 Database Systems>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is on the design and implementation of database management systems. Topics include data models (relational, document, key/value), storage models (n-ary, decomposition), query languages (SQL, stored procedures), storage architectures (heaps, log-structured), indexing (order preserving trees, hash tables), transaction processing (ACID, concurrency control), recovery (logging, checkpoints), query processing (joins, sorting, aggregation, optimization), and parallel architectures (multi-core, distributed). Case studies on open-source and commercial database systems will be used to illustrate these techniques and trade-offs. The course is appropriate for students with strong systems programming skills.
+</end course description for 15-645 Database Systems>

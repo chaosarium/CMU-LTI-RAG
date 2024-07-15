@@ -1,0 +1,16 @@
+<start course metadata for 15-281 Artificial Intelligence: Representation and Problem Solving>
+Semester: Fall 2023 (aka F23)
+Course Name: Artificial Intelligence: Representation and Problem Solving
+Course Number: 15-281
+Department: Computer Science
+Number of Units: 12
+Prerequisites: (15-122) and (21-240 or 21-241 or 18-202 or 21-254) and (15-151 or 21-127 or 21-128)
+Instructors: Aditi Raghunathan, Vincent Conitzer
+Rooms: DH 2210
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-281 Artificial Intelligence: Representation and Problem Solving>
+
+<start course description for 15-281 Artificial Intelligence: Representation and Problem Solving>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is about the theory and practice of Artificial Intelligence. We will study modern techniques for computers to represent task-relevant information and make intelligent (i.e. satisficing or optimal) decisions towards the achievement of goals. The search and problem solving methods are applicable throughout a large range of industrial, civil, medical, financial, robotic, and information systems.  We will investigate questions about AI systems such as: how to represent knowledge, how to effectively generate appropriate sequences of actions and how to search among alternatives to find optimal or near-optimal solutions.  We will also explore how to deal with uncertainty in the world, how to learn from experience, and how to learn decision rules from data.  We expect that by the end of the course students will have a thorough understanding of the algorithmic foundations of AI, how probability and AI are closely interrelated, and how automated agents learn.  We also expect students to acquire a strong appreciation of the big-picture aspects of developing fully autonomous intelligent agents.  Other lectures will introduce additional aspects of AI, including natural language processing, web-based search engines, industrial applications, autonomous robotics, and economic/game-theoretic decision making.
+</end course description for 15-281 Artificial Intelligence: Representation and Problem Solving>

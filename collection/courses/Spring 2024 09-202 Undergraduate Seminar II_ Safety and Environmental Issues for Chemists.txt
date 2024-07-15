@@ -1,0 +1,16 @@
+<start course metadata for 09-202 Undergraduate Seminar II: Safety and Environmental Issues for Chemists>
+Semester: Spring 2024 (aka S24)
+Course Name: Undergraduate Seminar II: Safety and Environmental Issues for Chemists
+Course Number: 09-202
+Department: Chemistry
+Number of Units: 1
+Prerequisites: None
+Instructors: Gloria Silva, Jeffrey Harris
+Rooms: WEH 4625
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 09-202 Undergraduate Seminar II: Safety and Environmental Issues for Chemists>
+
+<start course description for 09-202 Undergraduate Seminar II: Safety and Environmental Issues for Chemists>
+Semester: Spring 2024 (aka S24)
+Course Description: Issues and topics focused on laboratory safety are discussed in this class.  The topics are selected to supplement information covered in 09-221, Laboratory I.  This course is intended to provide the necessary safety training for students wishing to undertake undergraduate research projects in the laboratory and is taught in collaboration with the Office of Environmental Health and Safety.   Enrollment is limited to chemistry majors. 1 hr.
+</end course description for 09-202 Undergraduate Seminar II: Safety and Environmental Issues for Chemists>

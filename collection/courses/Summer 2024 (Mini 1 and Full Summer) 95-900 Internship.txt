@@ -1,0 +1,16 @@
+<start course metadata for 95-900 Internship>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Internship
+Course Number: 95-900
+Department: Information Systems:Sch of IS & Mgt
+Number of Units: N/A
+Prerequisites: 95-717 and 95-718
+Instructors: Sean Beggs
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 95-900 Internship>
+
+<start course description for 95-900 Internship>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: None
+</end course description for 95-900 Internship>

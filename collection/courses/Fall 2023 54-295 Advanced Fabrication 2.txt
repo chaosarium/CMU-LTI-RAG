@@ -1,0 +1,16 @@
+<start course metadata for 54-295 Advanced Fabrication 2>
+Semester: Fall 2023 (aka F23)
+Course Name: Advanced Fabrication 2
+Course Number: 54-295
+Department: Drama
+Number of Units: 6
+Prerequisites: None
+Instructors: Bernard Carter
+Rooms: PCA 107
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-295 Advanced Fabrication 2>
+
+<start course description for 54-295 Advanced Fabrication 2>
+Semester: Fall 2023 (aka F23)
+Course Description: Continuation of Ad Fab. For Drama PTM-TD only.
+</end course description for 54-295 Advanced Fabrication 2>

@@ -1,0 +1,16 @@
+<start course metadata for 95-891 Introduction to Artificial Intelligence>
+Semester: Spring 2024 (aka S24)
+Course Name: Introduction to Artificial Intelligence
+Course Number: 95-891
+Department: Information Systems:Sch of IS & Mgt
+Number of Units: 12
+Prerequisites: 95-796 or 90-777 or 90-711
+Instructors: David Steier
+Rooms: HBH 1204
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 95-891 Introduction to Artificial Intelligence>
+
+<start course description for 95-891 Introduction to Artificial Intelligence>
+Semester: Spring 2024 (aka S24)
+Course Description: Driven by the combination of increased access to data, computational power, and improved sensors and algorithms, artificial intelligence (AI) technologies are entering the mainstream of technological innovation. These technologies include search, machine learning, natural language processing, robotics and computer vision.  The course begins by describing what the latest generation of artificial intelligence techniques can actually do. After an introduction of some basic concepts and techniques, the course illustrates both the potential and current limitations of these techniques with examples from a variety of applications.  We spend some time on understanding the strengths and weaknesses of human decision-making and learning, specifically in combination with AI systems. Exercises will include hands-on application of basic AI techniques as well as selection of appropriate technologies for a given problem and anticipation of design implications.  In a final project, groups of students will participate in the creation of an AI-based application.  Students cannot take this course as pass/no pass.
+</end course description for 95-891 Introduction to Artificial Intelligence>

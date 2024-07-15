@@ -1,0 +1,16 @@
+<start course metadata for 17-537 Artificial Intelligence Methods for Social Good>
+Semester: Spring 2024 (aka S24)
+Course Name: Artificial Intelligence Methods for Social Good
+Course Number: 17-537
+Department: Software & Societal Systems
+Number of Units: 9
+Prerequisites: None
+Instructors: Fei Fang
+Rooms: SH 236
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 17-537 Artificial Intelligence Methods for Social Good>
+
+<start course description for 17-537 Artificial Intelligence Methods for Social Good>
+Semester: Spring 2024 (aka S24)
+Course Description: Optimization: mathematical programming, robust optimization, influence maximization Game Theory and Mechanism Design: security games, human behavior modeling, auction and market equilibrium, citizen science Machine Learning: classification, clustering, probabilistic graphical models, deep learning Sequential Decision Making: Markov Decision Processes (MDPs), partially observable MDPs, online planning, reinforcement learning In addition to providing a deep understanding of these methods, the course will introduce which societal challenges they can tackle and how, in the areas of (i) healthcare, (ii) social welfare, (iii) security and privacy, (iv) environmental sustainability. The course will also cover special topics such as AI and Ethics and AI and Humans.   The course content is designed to not have too much overlap with other AI courses offered at CMU. Although the course is listed within SCS, it should be of interest to students in several other departments, including ECE, EPP and SDS.  The students in this 9-unit course are expected to have taken at least three mathematics courses covering linear algebra, calculus, and probability. The students will work in groups on a systematic literature review or a project exploring the possibility of applying existing AI tools to a societal problem, with a survey paper or technical report and presentation delivered at the end of the semester.
+</end course description for 17-537 Artificial Intelligence Methods for Social Good>

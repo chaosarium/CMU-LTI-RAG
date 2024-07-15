@@ -1,0 +1,16 @@
+<start course metadata for 15-793 Secure Computer Systems>
+Semester: Spring 2024 (aka S24)
+Course Name: Secure Computer Systems
+Course Number: 15-793
+Department: Computer Science
+Number of Units: 12
+Prerequisites: None
+Instructors: Dimitrios Skarlatos, Wenting Zheng
+Rooms: GHC 4303
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-793 Secure Computer Systems>
+
+<start course description for 15-793 Secure Computer Systems>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is broadly focused on full-stack system security and will cover the foundations of building secure systems and cryptography. During the course we will cover hardware, system software, and cryptographic primitives for building secure systems, both within the datacenter environment and in the decentralized setting. The course will focus on the cross-cutting security requirements of systems and how to bolster their security guarantees using a combination of systems and cryptographic techniques. The lectures will cover fundamental security concepts (e.g., threat models, trusted computing base), and do a deep dive into state-of-the-art attacks and defenses (e.g., speculative execution attacks).  The course will span a set of hardware security topics including trusted execution environments, side-channels, hardware attacks (e.g., Meltdown, Spectre, Rowhammer), software systems such as blockchains, anonymous messaging, and secure machine learning.
+</end course description for 15-793 Secure Computer Systems>

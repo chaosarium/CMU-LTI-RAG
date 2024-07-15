@@ -1,0 +1,16 @@
+<start course metadata for 95-444 Cybersecurity Policy and Governance>
+Semester: Fall 2023 (aka F23)
+Course Name: Cybersecurity Policy and Governance
+Course Number: 95-444
+Department: Information Systems:Sch of IS & Mgt
+Number of Units: 12
+Prerequisites: None
+Instructors: Matthew Butkovic, Summer Fowler
+Rooms: HBH 2008
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 95-444 Cybersecurity Policy and Governance>
+
+<start course description for 95-444 Cybersecurity Policy and Governance>
+Semester: Fall 2023 (aka F23)
+Course Description: The ability to secure information within a modern enterprise is a growing challenge. Threats to information security are global, persistent, and increasingly sophisticated. Long gone are the days when managers could hope to secure the enterprise through ad hoc means.   Effective information security at the enterprise level requires participation, planning, and practice.  Fortunately, the information security community has developed a variety of resources, methods, and best practices to help modern enterprises address the challenge. However, employing these tools demands a high degree of commitment, understanding, and skillattributes that must be sustained through constant awareness and training.  An essential part of the information security plan is cyber security policy  this includes the written plans for how the enterprise IT assets will be protected.   This course provides students with information on the origin of cyber security policy, governance structures for policy creation, selection and implementation of policy, and audit and control functions to ensure compliance and efficacy. Students will be exposed to the national and international policy and legal considerations related to cybersecurity and cyberspace such as privacy, intellectual property, cybercrime, homeland security (i.e., critical infrastructure protection) and cyberwarfare, and the organizations involved in the formulation of such policies. Broader technology issues also are discussed to demonstrate the interdisciplinary influences and concerns that must be addressed in developing or implementing effective national cybersecurity laws and policies.
+</end course description for 95-444 Cybersecurity Policy and Governance>

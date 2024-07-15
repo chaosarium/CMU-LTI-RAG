@@ -1,0 +1,16 @@
+<start course metadata for 51-759 Tools for UX Design>
+Semester: Fall 2023 (aka F23)
+Course Name: Tools for UX Design
+Course Number: 51-759
+Department: Design
+Number of Units: 12
+Prerequisites: None
+Instructors: Wayne Chung
+Rooms: MM 203
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-759 Tools for UX Design>
+
+<start course description for 51-759 Tools for UX Design>
+Semester: Fall 2023 (aka F23)
+Course Description: The course intent is to develop appropriate user experience of tools and technology for a projected time frame or context of use. The need to understand people¹s stories, their lives, and how they want to live determines what interfaces, products, and systems should be developed. Student teams will work together to create appropriate user interactions and experiences which are supported by the design of tools and/or technology. This integrated course will utilize rapid prototyping as the basis for the creation of these proposed tools and products. This course is intended for junior, senior, graduate level students,  Non-Disclosure Agreement and other legal agreements may be part of the requirements.  Proficiency in one or more of these visualization methods: freehand sketching, computer visualization in 2D graphics, motion graphics and/or 3D solid or surface modeling. By Instructor Approval if NOT in Design. Please forward statement of intent to Instructor.
+</end course description for 51-759 Tools for UX Design>

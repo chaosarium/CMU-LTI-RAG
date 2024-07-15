@@ -1,0 +1,16 @@
+<start course metadata for 12-995 Practicum in Civil and Environmental Engineering>
+Semester: Spring 2024 (aka S24)
+Course Name: Practicum in Civil and Environmental Engineering
+Course Number: 12-995
+Department: Civil & Environmental Engineering
+Number of Units: N/A
+Prerequisites: None
+Instructors: Burcu Akinci
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 12-995 Practicum in Civil and Environmental Engineering>
+
+<start course description for 12-995 Practicum in Civil and Environmental Engineering>
+Semester: Spring 2024 (aka S24)
+Course Description: This course consists on an internship undertaken in absentia from Carnegie Mellon University. Units earned for this course are not eligible for graduate requirements. Enrollment is limited to PhD students in Civil and Environmental Engineering. PhD students registering during the Summer will register for Section I.
+</end course description for 12-995 Practicum in Civil and Environmental Engineering>

@@ -1,0 +1,16 @@
+<start course metadata for 45-749 Leadership Immersion Workshop>
+Semester: Spring 2024 (aka S24)
+Course Name: Leadership Immersion Workshop
+Course Number: 45-749
+Department: Business Administration
+Number of Units: 0
+Prerequisites: None
+Instructors: Wendy Hermann
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-749 Leadership Immersion Workshop>
+
+<start course description for 45-749 Leadership Immersion Workshop>
+Semester: Spring 2024 (aka S24)
+Course Description: None
+</end course description for 45-749 Leadership Immersion Workshop>

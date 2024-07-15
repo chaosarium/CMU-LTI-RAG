@@ -1,0 +1,16 @@
+<start course metadata for 09-737 Medicinal Chemistry and Drug Development>
+Semester: Spring 2024 (aka S24)
+Course Name: Medicinal Chemistry and Drug Development
+Course Number: 09-737
+Department: Chemistry
+Number of Units: 12
+Prerequisites: 09-220 or 09-218
+Instructors: Danith Ly
+Rooms: WEH 4708
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 09-737 Medicinal Chemistry and Drug Development>
+
+<start course description for 09-737 Medicinal Chemistry and Drug Development>
+Semester: Spring 2024 (aka S24)
+Course Description: Organic chemistry is an intimate part of the drug discovery and design processes in areas that include structure determination (NMR, mass spectrometry), synthesis, and determination of mechanisms of action. Once a promising compound (i.e. a ?lead?) has been identified in the laboratory, it is rarely ready to be used in the clinic. Complications include poor bioavailability, rapid degradation, and off-target effects. Students will learn about lead compound optimization through structural variations, cell-specific targeting and pro-drug strategies. Several examples will be presented to illustrate the role played by organic chemistry in the development of drugs used to treat a range of diseases, including cancer, HIV-AIDS, bacterial infections and heart disease.
+</end course description for 09-737 Medicinal Chemistry and Drug Development>

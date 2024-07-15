@@ -1,0 +1,16 @@
+<start course metadata for 18-989 Introduction to Graduate Studies>
+Semester: Fall 2023 (aka F23)
+Course Name: Introduction to Graduate Studies
+Course Number: 18-989
+Department: Electrical & Computer Engineering
+Number of Units: 1
+Prerequisites: None
+Instructors: Brittany Bristoll, Gikundiro Buki, Holly Skovira, James Bain, Jeannette Daly
+Rooms: B23 227; BH A51
+Locations: Kigali, Rwanda; Pittsburgh, Pennsylvania; San Jose, California
+</end course metadata for 18-989 Introduction to Graduate Studies>
+
+<start course description for 18-989 Introduction to Graduate Studies>
+Semester: Fall 2023 (aka F23)
+Course Description: The Introduction to Graduate Studies course is designed to be an initial cohort experience for first-semester graduate students through which students will learn how to be engaged citizens of the ECE department, the CMU campus community, and the broader engineering profession. This course will introduce and discuss career paths within ECE and the nature of work in existing companies, startup ventures and academia. The course will also increase awareness and understanding of departmental and campus resources, academic integrity issues, Carnegie Mellon community standards, and the ethical job search. It will engage students with what it means to build and be a part of a diverse, equitable, and inclusive culture. Topics covered include: career path options, university academic integrity policies, ethical job search practices, how to navigate the job/internship search process, cultural humility, an introduction to social identities and being an ally, and best practices for pursuing a career in research, industry, or start-up companies. This is an in-person course required in the first semester for all incoming graduate students. Attendance and participation in class are required and will determine a pass/fail grade.
+</end course description for 18-989 Introduction to Graduate Studies>

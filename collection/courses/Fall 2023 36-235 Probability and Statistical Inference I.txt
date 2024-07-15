@@ -1,0 +1,16 @@
+<start course metadata for 36-235 Probability and Statistical Inference I>
+Semester: Fall 2023 (aka F23)
+Course Name: Probability and Statistical Inference I
+Course Number: 36-235
+Department: Statistics and Data Science
+Number of Units: 9
+Prerequisites: (21-111 and 21-112) or (21-256) or (21-259) or (21-120)
+Instructors: Peter Freeman
+Rooms: HOA 160
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 36-235 Probability and Statistical Inference I>
+
+<start course description for 36-235 Probability and Statistical Inference I>
+Semester: Fall 2023 (aka F23)
+Course Description: This class is the first half of a two-semester, calculus-based course sequence that introduces theoretical aspects of probability and statistical inference to students. The material in this course and in 36-236 (Probability and Statistical Inference II) is organized so as to provide repeated exposure to essential concepts: the courses cover specific probability distributions and their inferential applications one after another, starting with the normal distribution and continuing with the binomial and Poisson distributions, etc. Topics specifically covered in 36-235 include basic probability, random variables, univariate and multivariate distribution functions, point and interval estimation, hypothesis testing, and regression, with the discussion being supplemented with computer-based examples and exercises (e.g., visualization and simulation). Given its organization, the course is only appropriate for those taking the full two-semester sequence, and thus it is currently open only to statistics majors (primary, additional, dual) and minors. (Check with the statistics advisors for the exact declaration deadline.) Non-majors/minors requiring a probability course are directed to take 36-225 or one of its analogues. A grade of C or better in 36-235 is required in order to advance to 36-236 (or 36-226) and/or 36-410. This course is not open to students who have received credit for 36-217, 36-218, 36-219, or 36-700, or for 21-325 or 15-259.
+</end course description for 36-235 Probability and Statistical Inference I>

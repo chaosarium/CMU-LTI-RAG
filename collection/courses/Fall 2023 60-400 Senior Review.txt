@@ -1,0 +1,16 @@
+<start course metadata for 60-400 Senior Review>
+Semester: Fall 2023 (aka F23)
+Course Name: Senior Review
+Course Number: 60-400
+Department: Art
+Number of Units: 0
+Prerequisites: None
+Instructors: Keni Jefferson, Mark Cato
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 60-400 Senior Review>
+
+<start course description for 60-400 Senior Review>
+Semester: Fall 2023 (aka F23)
+Course Description: Students present their work and their ideas about their work to a faculty committee.  This review affords graduating students the opportunity to analyze and summarize their work, and to engage a faculty committee in discussion about issues that face an artist preparing to enter a career in art.  Although this is a non-credit course, it is required of all Art (BFA, BHA, BSA and BCSA) seniors.
+</end course description for 60-400 Senior Review>

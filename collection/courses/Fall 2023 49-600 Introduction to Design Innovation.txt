@@ -1,0 +1,16 @@
+<start course metadata for 49-600 Introduction to Design Innovation>
+Semester: Fall 2023 (aka F23)
+Course Name: Introduction to Design Innovation
+Course Number: 49-600
+Department: Integrated Innovation Institute
+Number of Units: 10
+Prerequisites: None
+Instructors: Julie Saunders
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 49-600 Introduction to Design Innovation>
+
+<start course description for 49-600 Introduction to Design Innovation>
+Semester: Fall 2023 (aka F23)
+Course Description: MIIPS Online & Certificate Students Only - Product Design Innovation Certificate    This course is an introduction to design principles for product development and instruct students in techniques and applications for tangible products. During the course, students will learn about the design process and the steps designers take from an understanding of user needs to the creation of a fully considered solution that meets those needs and delights the user. Building on the general principles introduced in the course, the course will give students the opportunity to apply their learning in the context of tangible products (research, sketching, model making, user testing, and presentation).  Students experience the use of traditional design skills (drawing, mockups, and model making) in the visualization and representation of design concepts and solutions. This course not only introduces design innovation but also provides training in a physical product context so that students can hone skills and techniques needed to visualize and represent product concepts efficiently. The relationship among design, product development, and business is explored with class projects, readings, discussions, and the analysis of artifacts and process.   Through case histories, lectures, and a variety of hands-on exercises, students are exposed to design thinking and practice. Students will learn about and practice techniques that include: 1. Conducting observational research, 2. Analyzing information to inform team brainstorming, 3. Planning projects, 4. Developing concept strategies, 5. Generating ranges of solutions especially via methods of early prototyping and testing through the use of interactive and experiential mock-ups, 6. Selecting and refining concepts.  Students will synthesize these techniques to solve a product design challenge in the course. Certain assignments will be completed as individuals and other assignments in teams.
+</end course description for 49-600 Introduction to Design Innovation>

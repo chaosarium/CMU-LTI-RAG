@@ -1,0 +1,16 @@
+<start course metadata for 06-720 Advanced Process Systems Engineering>
+Semester: Spring 2024 (aka S24)
+Course Name: Advanced Process Systems Engineering
+Course Number: 06-720
+Department: Chemical Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Ignacio Grossmann
+Rooms: DH 1211; POS 152
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 06-720 Advanced Process Systems Engineering>
+
+<start course description for 06-720 Advanced Process Systems Engineering>
+Semester: Spring 2024 (aka S24)
+Course Description: A general background on problems, methods, and tools for solving analysis and synthesis problems in process engineering. Formulation and numerical solutions of steady-state and dynamic simulation and optimization problems will be discussed. Insights and solution methods are also covered, based on both heuristics and mixed-integer programming techniques for the synthesis of heat exchanger networks, separation processes, and total process systems.
+</end course description for 06-720 Advanced Process Systems Engineering>

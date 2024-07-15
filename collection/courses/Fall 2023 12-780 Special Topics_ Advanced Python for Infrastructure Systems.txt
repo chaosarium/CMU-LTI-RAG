@@ -1,0 +1,16 @@
+<start course metadata for 12-780 Special Topics: Advanced Python for Infrastructure Systems>
+Semester: Fall 2023 (aka F23)
+Course Name: Special Topics: Advanced Python for Infrastructure Systems
+Course Number: 12-780
+Department: Civil & Environmental Engineering
+Number of Units: 6
+Prerequisites: None
+Instructors: Susan Finger
+Rooms: SH 236
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 12-780 Special Topics: Advanced Python for Infrastructure Systems>
+
+<start course description for 12-780 Special Topics: Advanced Python for Infrastructure Systems>
+Semester: Fall 2023 (aka F23)
+Course Description: This course uses the Python and Javascript programming language to introduce advanced programming approaches to students from civil and environmental engineering. Students are required to already know a modern programming language (e.g., Python, Java, C++, etc.), or have taken the 12-746 course. This course will cover graphical user interface design in HTML5, web-based application design using Python and Javascript, information visualization and data analytics using 3rd party libraries in Python. Students will work on a programming project from the beginning of this course and continue building it in class using the introduced programming approaches. Real-world examples from infrastructure management will be used for in-class demonstration and term project.
+</end course description for 12-780 Special Topics: Advanced Python for Infrastructure Systems>

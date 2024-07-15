@@ -1,0 +1,16 @@
+<start course metadata for 54-252 Introduction to Lighting Design>
+Semester: Spring 2024 (aka S24)
+Course Name: Introduction to Lighting Design
+Course Number: 54-252
+Department: Drama
+Number of Units: 6
+Prerequisites: 54-231 and 54-232
+Instructors: Robert Thomson
+Rooms: PCA 211
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-252 Introduction to Lighting Design>
+
+<start course description for 54-252 Introduction to Lighting Design>
+Semester: Spring 2024 (aka S24)
+Course Description: Students explore the physical properties of light in various design applications and develop a process of storytelling that involves analysis, research, exploration, questioning, problem solving and implementation of a successful design product. Prerequisite: Design for the Stage, or instructor permission.
+</end course description for 54-252 Introduction to Lighting Design>

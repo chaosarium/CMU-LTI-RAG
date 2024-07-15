@@ -1,0 +1,16 @@
+<start course metadata for 46-902 Financial Computing II>
+Semester: Spring 2024 (aka S24)
+Course Name: Financial Computing II
+Course Number: 46-902
+Department: Business Administration
+Number of Units: 6
+Prerequisites: 46-901
+Instructors: John Ostlund
+Rooms: BRD 507; TCS 250
+Locations: New York, New York; Pittsburgh, Pennsylvania
+</end course metadata for 46-902 Financial Computing II>
+
+<start course description for 46-902 Financial Computing II>
+Semester: Spring 2024 (aka S24)
+Course Description: Financial Computing II will introduce the fundamentals of the C++ programming language:  1.    Variables, assignment, literals, fundamental data types (char, int, double, bool, unsigned), decisions, loops (while and for), arithmetic, equality/inequality, relational and logical operators 2.    Functions, parameters, local variables, return types and values, static and const 3.    C-style strings and the C++ Standard Library string class 4.    Pointers, dynamic memory allocation, linked data structures, recursion, header and code files 5.    Classes, constructors and destructors, member functions, overloading, inheritance, polymorphism, class vs. instance variables 6.    STL (Standard Template Library) classes: vector, list, set, map, ..., iterators, and algorithms
+</end course description for 46-902 Financial Computing II>

@@ -1,0 +1,16 @@
+<start course metadata for 15-440 Distributed Systems>
+Semester: Spring 2024 (aka S24)
+Course Name: Distributed Systems
+Course Number: 15-440
+Department: Computer Science
+Number of Units: 12
+Prerequisites: 15-213
+Instructors: Babu Pillai, Mahadev Satyanarayanan, Rashmi Korlakai Vinayak
+Rooms: GHC 4401
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-440 Distributed Systems>
+
+<start course description for 15-440 Distributed Systems>
+Semester: Spring 2024 (aka S24)
+Course Description: The goals of this course are twofold: First, for students to gain an understanding of the principles and techniques behind the design of distributed systems, such as locking, concurrency, scheduling, and communication across the network. Second, for students to gain practical experience designing, implementing, and debugging real distributed systems.  The major themes this course will teach include scarcity, scheduling, concurrency and concurrent programming, naming, abstraction and modularity, imperfect communication and other types of failure, protection from accidental and malicious harm, optimism, and the use of instrumentation and monitoring and debugging tools in problem solving. As the creation and management of software systems is a fundamental goal of any undergraduate systems course, students will design, implement, and debug large programming projects.   As a consequence, competency in both the C and Java programming languages is required.
+</end course description for 15-440 Distributed Systems>

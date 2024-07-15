@@ -1,0 +1,16 @@
+<start course metadata for 57-666 Acoustics of the Piano>
+Semester: Fall 2023 (aka F23)
+Course Name: Acoustics of the Piano
+Course Number: 57-666
+Department: Music
+Number of Units: 3
+Prerequisites: None
+Instructors: Peter Stumpf
+Rooms: CFA A2
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-666 Acoustics of the Piano>
+
+<start course description for 57-666 Acoustics of the Piano>
+Semester: Fall 2023 (aka F23)
+Course Description: None
+</end course description for 57-666 Acoustics of the Piano>

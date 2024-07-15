@@ -1,0 +1,16 @@
+<start course metadata for 57-492 Solfege for Conductors II>
+Semester: Spring 2024 (aka S24)
+Course Name: Solfege for Conductors II
+Course Number: 57-492
+Department: Music
+Number of Units: 3
+Prerequisites: 57-488 or 57-491
+Instructors: Stephen Story
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-492 Solfege for Conductors II>
+
+<start course description for 57-492 Solfege for Conductors II>
+Semester: Spring 2024 (aka S24)
+Course Description: TBA
+</end course description for 57-492 Solfege for Conductors II>

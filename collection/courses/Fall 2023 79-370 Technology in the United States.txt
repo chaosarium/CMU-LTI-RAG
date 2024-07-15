@@ -1,0 +1,16 @@
+<start course metadata for 79-370 Technology in the United States>
+Semester: Fall 2023 (aka F23)
+Course Name: Technology in the United States
+Course Number: 79-370
+Department: History
+Number of Units: 9
+Prerequisites: None
+Instructors: Edmund Russell
+Rooms: PH A19
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 79-370 Technology in the United States>
+
+<start course description for 79-370 Technology in the United States>
+Semester: Fall 2023 (aka F23)
+Course Description: This course examines the ways in which technology and society have shaped each other in the United States from the colonial era to the present.  Topics include Native Americans and technologies, farming, industrialization, transportation, automobiles, aerospace, information technology, drugs, and biotechnology.  Students will read a textbook, write brief essays about technologies of their choice, and discuss their essays and the text in class.  The course welcomes students from any major.
+</end course description for 79-370 Technology in the United States>

@@ -1,0 +1,16 @@
+<start course metadata for 17-612 Business and Marketing Strategy>
+Semester: Spring 2024 (aka S24)
+Course Name: Business and Marketing Strategy
+Course Number: 17-612
+Department: Software & Societal Systems
+Number of Units: 6
+Prerequisites: 17-692
+Instructors: Berardone
+Rooms: CMU REMOTE
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 17-612 Business and Marketing Strategy>
+
+<start course description for 17-612 Business and Marketing Strategy>
+Semester: Spring 2024 (aka S24)
+Course Description: This course prepares students to understand and use essential business concepts and practices of product innovation.   They will understand how to make, use and influence the business, commercial and engineering decisions for an idea in its earliest stage.  Students will develop the skills used for making a business justification, with financial projections, to develop a new product or service idea.  This 6-unit course emphasizes learning-by-doing to achieve the learning objectives. Each student works on a hands-on, course-long individual project for a product or service idea selected by the student and approved by the instructor for course fit. They'll apply the business, product and commercial decisions to their idea, culminating in a compelling business case to develop the idea.
+</end course description for 17-612 Business and Marketing Strategy>

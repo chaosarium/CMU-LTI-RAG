@@ -1,0 +1,16 @@
+<start course metadata for 57-876 Music in the Secondary School>
+Semester: Spring 2024 (aka S24)
+Course Name: Music in the Secondary School
+Course Number: 57-876
+Department: Music
+Number of Units: 6
+Prerequisites: 57-875
+Instructors: Jeremy Olisar
+Rooms: HOA 223
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-876 Music in the Secondary School>
+
+<start course description for 57-876 Music in the Secondary School>
+Semester: Spring 2024 (aka S24)
+Course Description: This course covers a variety of topics related to the development and the management music programs in secondary schools. Emphasis is placed on the leadership, classroom management, general music & performance course content, and routine administrative planning.
+</end course description for 57-876 Music in the Secondary School>

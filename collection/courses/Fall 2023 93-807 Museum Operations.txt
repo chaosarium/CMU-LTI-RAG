@@ -1,0 +1,16 @@
+<start course metadata for 93-807 Museum Operations>
+Semester: Fall 2023 (aka F23)
+Course Name: Museum Operations
+Course Number: 93-807
+Department: Arts & Entertainment Management
+Number of Units: 6
+Prerequisites: None
+Instructors: Hayley Haldeman
+Rooms: HBH 1208
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 93-807 Museum Operations>
+
+<start course description for 93-807 Museum Operations>
+Semester: Fall 2023 (aka F23)
+Course Description: Museums aim to preserve, present, and interpret arts, culture, science, history, and heritage for the intended benefit of the public and society, as well as to create a forum for communities. All museumsregardless of type, size, and budgetface similar operational challenges (as well their own respective set of complications), which must be managed by stakeholders dedicated to executing mission and goals.   In this course, students will gain a practical understanding of museum operations and the unique and multifaceted challenges of modern museum management. The course emphasizes museum standards and best practices, as well as identifies resources both within and adjacent to the industry. Cross-cutting topics, which build upon MAM first year coursework, include governance, financial sustainability, facilities, administration, visitor engagement and education, and collection stewardship. Additionally, case studies (via assignments and class discussion) address complexities in the museum field today, such as diversity, equity, and inclusion in museum leadership, issues in collections ethics, toxic philanthropy, and risk management. Assignments focus heavily on real-world challenges, requiring practical interpretation and implementation. .
+</end course description for 93-807 Museum Operations>

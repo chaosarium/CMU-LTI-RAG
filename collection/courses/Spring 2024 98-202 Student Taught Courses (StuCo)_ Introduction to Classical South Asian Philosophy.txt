@@ -1,0 +1,16 @@
+<start course metadata for 98-202 Student Taught Courses (StuCo): Introduction to Classical South Asian Philosophy>
+Semester: Spring 2024 (aka S24)
+Course Name: Student Taught Courses (StuCo): Introduction to Classical South Asian Philosophy
+Course Number: 98-202
+Department: StuCo (Student Led Courses)
+Number of Units: 3
+Prerequisites: None
+Instructors: Anand Beh, Anura Ghodke, Jay Madan, Yashika Batra
+Rooms: WEH 5310
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 98-202 Student Taught Courses (StuCo): Introduction to Classical South Asian Philosophy>
+
+<start course description for 98-202 Student Taught Courses (StuCo): Introduction to Classical South Asian Philosophy>
+Semester: Spring 2024 (aka S24)
+Course Description: Over the course of 3500 years, the Indian intellectual tradition has cultivated some of the most interesting theories of philosophy spanning formal logic, ethics, consciousness, and more. This introductory course to Classical Indian Philosophy begins with a background in Indian history, Sanskrit literature, and Dharmic religion before diving into rigorous approaches to epistemology & metaphysics by 9 separate schools of thought. Taught with an emphasis on in-class discussion and engagement with arguments put forward by Indian thinkers, this course also seeks to assist students in constructing an intellectual identity informed by their ethno-historical context. Students with some background in computational/mathematical logic or analytic philosophy, as well as those of South Asian heritage, may especially enjoy this course's intersections with their prior knowledge.
+</end course description for 98-202 Student Taught Courses (StuCo): Introduction to Classical South Asian Philosophy>

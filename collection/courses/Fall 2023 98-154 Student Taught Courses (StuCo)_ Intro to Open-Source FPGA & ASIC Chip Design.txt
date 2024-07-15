@@ -1,0 +1,16 @@
+<start course metadata for 98-154 Student Taught Courses (StuCo): Intro to Open-Source FPGA & ASIC Chip Design>
+Semester: Fall 2023 (aka F23)
+Course Name: Student Taught Courses (StuCo): Intro to Open-Source FPGA & ASIC Chip Design
+Course Number: 98-154
+Department: StuCo (Student Led Courses)
+Number of Units: 3
+Prerequisites: None
+Instructors: Anish Singhani
+Rooms: CYH 100A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 98-154 Student Taught Courses (StuCo): Intro to Open-Source FPGA & ASIC Chip Design>
+
+<start course description for 98-154 Student Taught Courses (StuCo): Intro to Open-Source FPGA & ASIC Chip Design>
+Semester: Fall 2023 (aka F23)
+Course Description: There has recently been a massive growth in free, open-source hardware-design technologies. It is now possible to use modern methodologies (many of which are taken directly from software engineering) to make hardware design much easier and cheaper, and the industry at large is starting to adopt these technologies in widespread use. Modern open-source hardware-design tools are free, fast, don't require NDAs, and are a joy to use. This course aims to provide an overview of how these tools work and how to use them - everything from FPGA synthesis (Yosys and NextPNR), to simulation and verification (Verilator and CocoTB, which let you write testbenches in C++ or Python), to SoC and CPU generation, and even new hardware-design languages entirely (which integrate modern ideas from functional and object-oriented programming).
+</end course description for 98-154 Student Taught Courses (StuCo): Intro to Open-Source FPGA & ASIC Chip Design>

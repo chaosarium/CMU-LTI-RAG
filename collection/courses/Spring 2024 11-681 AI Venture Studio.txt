@@ -1,0 +1,16 @@
+<start course metadata for 11-681 AI Venture Studio>
+Semester: Spring 2024 (aka S24)
+Course Name: AI Venture Studio
+Course Number: 11-681
+Department: Language Technologies Institute
+Number of Units: 12
+Prerequisites: None
+Instructors: Adam Paulisick, Sean Ammirati
+Rooms: POS 152
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 11-681 AI Venture Studio>
+
+<start course description for 11-681 AI Venture Studio>
+Semester: Spring 2024 (aka S24)
+Course Description: A hands-on experience for gifted technologists to work with product and sales leaders to align their talents with purpose, generate impactful ideas, and deploy services in market with a venture mindset.
+</end course description for 11-681 AI Venture Studio>

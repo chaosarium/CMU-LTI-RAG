@@ -1,0 +1,16 @@
+<start course metadata for 11-737 Multilingual Natural Language Processing.>
+Semester: Fall 2023 (aka F23)
+Course Name: Multilingual Natural Language Processing.
+Course Number: 11-737
+Department: Language Technologies Institute
+Number of Units: 12
+Prerequisites: None
+Instructors: Lei Li
+Rooms: DH 1212
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 11-737 Multilingual Natural Language Processing.>
+
+<start course description for 11-737 Multilingual Natural Language Processing.>
+Semester: Fall 2023 (aka F23)
+Course Description: 11737 Multilingual Natural Language Processing is an advanced graduate-level course on natural language processing techniques applicable to many languages. Students who take this course should be able to develop linguistically motivated solutions to core and applied NLP tasks for any language. This includes understanding and mitigating the difficulties posed by lack of data in low-resourced languages or language varieties, and the necessity to model particular properties of the language of interest such as complex morphology or syntax. The course will introduce modeling solutions to these issues such as multilingual or cross-lingual methods, linguistically informed NLP models, and methods for effectively bootstrapping systems with limited data or human intervention. The project work will involve building an end-to-end NLP pipeline in a language you don't know.
+</end course description for 11-737 Multilingual Natural Language Processing.>

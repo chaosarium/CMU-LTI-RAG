@@ -1,0 +1,16 @@
+<start course metadata for 09-348 Inorganic Chemistry>
+Semester: Spring 2024 (aka S24)
+Course Name: Inorganic Chemistry
+Course Number: 09-348
+Department: Chemistry
+Number of Units: 10
+Prerequisites: (09-105 or 09-107) and (21-120)
+Instructors: Stefan Bernhard
+Rooms: WEH 5403
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 09-348 Inorganic Chemistry>
+
+<start course description for 09-348 Inorganic Chemistry>
+Semester: Spring 2024 (aka S24)
+Course Description: The focus of this class is understanding the properties of the elements and of the inorganic compounds. The electronic structure of elements is discussed as the basis for the element's organization in the Periodic Table and for their properties. We will discuss atomic structure, and bonding of diatomic and polyatomic molecules using different models such as Lewis structures, VSEPR and Molecular Orbital Theory (including group theory and linear combination of atomic orbitals). We will study the structure, spectroscopy, and reactivity of coordination complexes and their application in bioinorganic and organometallic chemistry. 3 hrs. lec., 1 hr. rec.
+</end course description for 09-348 Inorganic Chemistry>

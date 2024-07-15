@@ -1,0 +1,16 @@
+<start course metadata for 85-716 research presentation>
+Semester: Spring 2024 (aka S24)
+Course Name: research presentation
+Course Number: 85-716
+Department: Psychology
+Number of Units: 9
+Prerequisites: None
+Instructors: Vicki Helgeson
+Rooms: BH 340A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 85-716 research presentation>
+
+<start course description for 85-716 research presentation>
+Semester: Spring 2024 (aka S24)
+Course Description: This is a course designed to improve students skills in making oral presentations of scientific results to critical audiences.  Each student will be expected to make four or five presentations during the semester.  Emphasis will be placed on clarity and persuasiveness of both visual and verbal materials.
+</end course description for 85-716 research presentation>

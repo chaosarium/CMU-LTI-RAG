@@ -1,0 +1,16 @@
+<start course metadata for 54-498 Expanded Theater>
+Semester: Fall 2023 (aka F23)
+Course Name: Expanded Theater
+Course Number: 54-498
+Department: Drama
+Number of Units: 6
+Prerequisites: None
+Instructors: Chelsea Warren, Lawrence Shea
+Rooms: MEL 102
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-498 Expanded Theater>
+
+<start course description for 54-498 Expanded Theater>
+Semester: Fall 2023 (aka F23)
+Course Description: Expanded Theater is a hands-on studio course where students work with a wide variety of media, network, and computational technologies in a performance-focused workshop environment. Students work in small teams, experimenting and iterating, with low-stakes showings, to gather feedback and see things "on their feet." Through working collaboratively across disciplines, students investigate innovative approaches to contemporary theater and new ways of storytelling. Contemporary techniques for ensemble creation, devising and media integration will be explored through these exercises, readings, and viewing of other artist's work.  The course is open to all students who are excited by "thinking with media" and how the systems and technologies we use every day can be incorporated more deeply into the design, dramaturgy, and experience of contemporary performance. The course will take place off-campus at the Melwood Building, and students will have a variety of different spaces to explore the creation of these hybrid media/performance experiences. The CMU Shuttle will allow students to quickly get to and from campus.  Considering theater as an ancient technology of mass participation and social cohesion, this course explores how emerging technologies can expand upon the basic theatrical relationships in new and culturally relevant ways. Collaboration and integration of design, media, and storytelling is critical to this approach.  The Melwood Building is the former Pittsburgh Filmmakers building that is being re-imagined as a performance and technology research center, engaging many schools and outside partners who are exploring how new technologies, networked systems, and experimental artistic practices bridge previously separate disciplines and open-up new possibilities for storytelling, performance, and art. This course is a model for this new collaborative initiative between Drama, Art, and other CMU Schools.
+</end course description for 54-498 Expanded Theater>

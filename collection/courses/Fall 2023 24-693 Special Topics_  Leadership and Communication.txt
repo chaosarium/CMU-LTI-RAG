@@ -1,0 +1,16 @@
+<start course metadata for 24-693 Special Topics:  Leadership and Communication>
+Semester: Fall 2023 (aka F23)
+Course Name: Special Topics:  Leadership and Communication
+Course Number: 24-693
+Department: Mechanical Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Philip Leduc
+Rooms: PH A18C
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-693 Special Topics:  Leadership and Communication>
+
+<start course description for 24-693 Special Topics:  Leadership and Communication>
+Semester: Fall 2023 (aka F23)
+Course Description: The objective of this course is to prepare students to be better leaders and communicators in their future careers, in industry, academia, and elsewhere. Topics include: psychological analysis of leaders and followers, negotiation and conflict resolution, interviewing, organizational decision making, and harnessing and deploying skills in challenging situations. To address these topics, the course employs new teaching techniques involving hands on activities, for example mock interviews and role playing around challenging situations. Learning outcomes include: improved ability to adapt, communicate, and lead in difficult situations in real time, understand team interactions and group dynamics to become a successful leader and follower, best practices in negotiating and resolving conflict in team situations and business interactions, and understand fundamentals of the interview process to achieve best outcomes.
+</end course description for 24-693 Special Topics:  Leadership and Communication>

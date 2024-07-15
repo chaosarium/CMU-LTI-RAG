@@ -1,0 +1,16 @@
+<start course metadata for 80-210 Logic and Proofs>
+Semester: Fall 2023 (aka F23)
+Course Name: Logic and Proofs
+Course Number: 80-210
+Department: Philosophy
+Number of Units: 9
+Prerequisites: None
+Instructors: Niraj Khare, Wilfried Sieg
+Rooms: BH 150; CMB 1202; WEH 4707
+Locations: Doha, Qatar; Pittsburgh, Pennsylvania
+</end course metadata for 80-210 Logic and Proofs>
+
+<start course description for 80-210 Logic and Proofs>
+Semester: Fall 2023 (aka F23)
+Course Description: Logic & Proofs is a web-based course and introduces students to central issues in modern logic.  It is designed for individual learning with rich interactive environments and dynamic intelligent tutoring. The material is presented on-line, and most exercises are done on-line as well. Readings of historical and philosophical character complement the core content. This on-line course is supplemented, indeed given additional grounding, by weekly meetings in very small groups. There, we have collaborative reviews, substantive discussions and critical reflections.  The central question of the course is this:  How can we analyze the structure of rational discourse or, more specifically, the logical structure of argumentation?  An answer to this question requires: (i) uncovering the logical form of statements; (ii) defining the correctness of logical steps; (iii) formulating inference rules for the logical forms; (iv) designing strategies for argumentation with the inference rules. The course takes these steps for both sentential and quantificational logic.
+</end course description for 80-210 Logic and Proofs>

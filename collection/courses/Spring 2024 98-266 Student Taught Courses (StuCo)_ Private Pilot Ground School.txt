@@ -1,0 +1,16 @@
+<start course metadata for 98-266 Student Taught Courses (StuCo): Private Pilot Ground School>
+Semester: Spring 2024 (aka S24)
+Course Name: Student Taught Courses (StuCo): Private Pilot Ground School
+Course Number: 98-266
+Department: StuCo (Student Led Courses)
+Number of Units: 3
+Prerequisites: None
+Instructors: Jay Patrikar
+Rooms: DH 1112
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 98-266 Student Taught Courses (StuCo): Private Pilot Ground School>
+
+<start course description for 98-266 Student Taught Courses (StuCo): Private Pilot Ground School>
+Semester: Spring 2024 (aka S24)
+Course Description: This course aims to provide information for students to prepare for the FAA Private Pilot Knowledge Test and engineering behind aviation. Topics include aerodynamics, aircraft systems, navigation, meteorology, aircraft performance, and human factors. No prior knowledge is required.
+</end course description for 98-266 Student Taught Courses (StuCo): Private Pilot Ground School>

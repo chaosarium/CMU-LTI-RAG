@@ -1,0 +1,16 @@
+<start course metadata for 48-356 Color Drawing>
+Semester: Fall 2023 (aka F23)
+Course Name: Color Drawing
+Course Number: 48-356
+Department: Architecture
+Number of Units: 9
+Prerequisites: (48-121 and 48-126) or (48-130 and 48-135) or (62-125 and 62-126) or (48-120 and 48-125)
+Instructors: Douglas Cooper
+Rooms: CFA 211
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-356 Color Drawing>
+
+<start course description for 48-356 Color Drawing>
+Semester: Fall 2023 (aka F23)
+Course Description: 48-356 Color Drawing provides practice in the use of color to depict architectural surroundings.  Following preliminary exercises using pastels, watercolor is used for most of the course.  A central objective is that by the end of the course, students will have good judgement in evaluating color hue, value, and temperature and have gained confidence in the use of watercolor.  Coursework assumes some knowledge of linear perspective.  Work consists of in-class exercises and weekend assignments built on these.  Students can expect to spend up to 6 hours of work per weekend.
+</end course description for 48-356 Color Drawing>

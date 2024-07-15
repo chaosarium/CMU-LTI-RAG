@@ -1,0 +1,16 @@
+<start course metadata for 82-481 Translation Workshop 1>
+Semester: Fall 2023 (aka F23)
+Course Name: Translation Workshop 1
+Course Number: 82-481
+Department: Modern Languages
+Number of Units: 9
+Prerequisites: None
+Instructors: Mary Jayne McCullough
+Rooms: PH 126A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 82-481 Translation Workshop 1>
+
+<start course description for 82-481 Translation Workshop 1>
+Semester: Fall 2023 (aka F23)
+Course Description: This course examines the practice of applied translation in a variety of linguistic and cultural domains. We will explore key concepts such as relevance, equivalence, back-translation, and translation as a social transaction, and engage in the practical application of theoretical approaches to a variety text types with different purposes and for different audiences. In applied translation, the translators task is a process that can be defined as repurposing a text in another language for a functional use. Foremost in this process is preserving the integrity of the information being communicated, the appropriate context for the task. Students will further develop and refine their practical translation skills and apply them to examples from specialized domains such as health care, public affairs, business, marketing, journalism, mass media, literature, and others. In addition, students will gain familiarity with textual conventions that govern source and target texts within these domains and deepen their understanding of both L1 and L2 as languages for special purposes. To achieve this, students will analyze texts for register, style, tone, and content to determine the most appropriate process to achieve the highest quality translation, and also explore and utilize translation resources available to them as well as create their own, domain-specific resource kits. All students will complete a semester-long series of graded L1 > L2 and L2 > L1 assignments. Additionally, when assignments involve translation of texts into English, students will also be working in collaboration with faculty members in those languages. Students will maintain a translation portfolio throughout the semester. In it they will archive all portfolio assignments (drafts and rewrites), document their progress through the course (regular assignments, remedial assignments, a log of projects, due dates, turn in dates, and grades, etc.).
+</end course description for 82-481 Translation Workshop 1>

@@ -1,0 +1,16 @@
+<start course metadata for 82-705 Translation Workshop II>
+Semester: Spring 2024 (aka S24)
+Course Name: Translation Workshop II
+Course Number: 82-705
+Department: Modern Languages
+Number of Units: 9
+Prerequisites: 82-704
+Instructors: Christopher Lowy
+Rooms: BH 154A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 82-705 Translation Workshop II>
+
+<start course description for 82-705 Translation Workshop II>
+Semester: Spring 2024 (aka S24)
+Course Description: This second in a series of three workshop continues to examine the practice of applied translation in a number of linguistic and cultural domains. We will explore key concepts such as textual and pragmatic equivalence, coherence, and ethics and morality in translation. With support from our reading and review, we will focus on practical application of translation techniques to a variety of tasks: localization, subtitling/dubbing, proofreading, post-editing.
+</end course description for 82-705 Translation Workshop II>

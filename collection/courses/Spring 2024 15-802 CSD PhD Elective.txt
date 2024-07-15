@@ -1,0 +1,16 @@
+<start course metadata for 15-802 CSD PhD Elective>
+Semester: Spring 2024 (aka S24)
+Course Name: CSD PhD Elective
+Course Number: 15-802
+Department: Computer Science
+Number of Units: N/A
+Prerequisites: (15-781 or 10-601) and (36-705 or 36-725)
+Instructors: Instructor TBA
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-802 CSD PhD Elective>
+
+<start course description for 15-802 CSD PhD Elective>
+Semester: Spring 2024 (aka S24)
+Course Description: None
+</end course description for 15-802 CSD PhD Elective>

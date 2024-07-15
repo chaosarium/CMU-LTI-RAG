@@ -1,0 +1,16 @@
+<start course metadata for 24-799 Practicum in Mechanical Engineering>
+Semester: Fall 2023 (aka F23)
+Course Name: Practicum in Mechanical Engineering
+Course Number: 24-799
+Department: Mechanical Engineering
+Number of Units: N/A
+Prerequisites: None
+Instructors: Chris Hertz, Melissa Brown
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-799 Practicum in Mechanical Engineering>
+
+<start course description for 24-799 Practicum in Mechanical Engineering>
+Semester: Fall 2023 (aka F23)
+Course Description: The Department of Mechanical Engineering at Carnegie Mellon considers experiential learning opportunities important educational options for its graduate students. One such option is an internship, normally completed during the summer. If a student receives an internship, the Mechanical Engineering Department will add the internship course to the student's schedule, and the student will be assessed tuition for 3 units. Upon completion of the internship, students must submit a 2-3 page report with supervisor signature detailing the work experience and including how the internship was related to Mechanical Engineering. After the report has been reviewed and approved, a letter grade will be assigned and these 3 units will count towards degree requirements. International students interested in registering for the practicum must also be authorized for Curricular Practical Training (CPT).  Further information is available on the Office of International Education?s website: www.cmu.edu/oie.
+</end course description for 24-799 Practicum in Mechanical Engineering>

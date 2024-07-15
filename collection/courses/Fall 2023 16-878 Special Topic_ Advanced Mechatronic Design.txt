@@ -1,0 +1,16 @@
+<start course metadata for 16-878 Special Topic: Advanced Mechatronic Design>
+Semester: Fall 2023 (aka F23)
+Course Name: Special Topic: Advanced Mechatronic Design
+Course Number: 16-878
+Department: Robotics
+Number of Units: 12
+Prerequisites: None
+Instructors: Melisa Orta Martinez
+Rooms: ANS C02
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 16-878 Special Topic: Advanced Mechatronic Design>
+
+<start course description for 16-878 Special Topic: Advanced Mechatronic Design>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is designed for students who have a background in mechatronics by having taken a mechatronics design course or through practice. The course will be a combination of laboratories and lectures and will culminate in a class project. The topics covered will be microcontroller hardware subsystems: timer systems, PWM, interrupts; analog circuits, operational amplifiers, comparators, signal conditioning, interfacing to sensors, actuator characteristics and interfacing; C language features for embedded software, register level programming, hardware abstraction layers, event driven programming, state machines, state charts.
+</end course description for 16-878 Special Topic: Advanced Mechatronic Design>

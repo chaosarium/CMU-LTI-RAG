@@ -1,0 +1,16 @@
+<start course metadata for 82-780 Graduate Research Seminar>
+Semester: Spring 2024 (aka S24)
+Course Name: Graduate Research Seminar
+Course Number: 82-780
+Department: Modern Languages
+Number of Units: N/A
+Prerequisites: None
+Instructors: Khaled Al Masaeed
+Rooms: HOA 107
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 82-780 Graduate Research Seminar>
+
+<start course description for 82-780 Graduate Research Seminar>
+Semester: Spring 2024 (aka S24)
+Course Description: The purpose of this seminar is to provide graduate students in Second Language Acquisition (SLA) with the opportunity for in depth explorations and discussions of their research in progress.  While the majority of the course will be devoted to graduate student work, there will be occasional presentations by faculty and visiting scholars on a variety of current topics in SLA.
+</end course description for 82-780 Graduate Research Seminar>

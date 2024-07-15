@@ -1,0 +1,16 @@
+<start course metadata for 62-661 Interaction and Expression using Pausch Bridge Lighting>
+Semester: Spring 2024 (aka S24)
+Course Name: Interaction and Expression using Pausch Bridge Lighting
+Course Number: 62-661
+Department: CFA Interdisciplinary
+Number of Units: 4
+Prerequisites: None
+Instructors: Cindy Limauro, Garth Zeglin
+Rooms: GHC 4301
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 62-661 Interaction and Expression using Pausch Bridge Lighting>
+
+<start course description for 62-661 Interaction and Expression using Pausch Bridge Lighting>
+Semester: Spring 2024 (aka S24)
+Course Description: Working in cross-disciplinary teams, students will explore light as art, interactive design and programming using a Pharos lighting control system. Students will explore the use of light and interaction using the actual controls within the Randy Pausch Memorial Bridge. Student teams will develop final projects that will be exhibited on the actual Randy Pausch Memorial Bridge.
+</end course description for 62-661 Interaction and Expression using Pausch Bridge Lighting>

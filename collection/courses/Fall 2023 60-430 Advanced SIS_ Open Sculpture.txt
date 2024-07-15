@@ -1,0 +1,16 @@
+<start course metadata for 60-430 Advanced SIS: Open Sculpture>
+Semester: Fall 2023 (aka F23)
+Course Name: Advanced SIS: Open Sculpture
+Course Number: 60-430
+Department: Art
+Number of Units: 10
+Prerequisites: None
+Instructors: Sarah Bowling
+Rooms: DH B302
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 60-430 Advanced SIS: Open Sculpture>
+
+<start course description for 60-430 Advanced SIS: Open Sculpture>
+Semester: Fall 2023 (aka F23)
+Course Description: Sculpture is perhaps the broadest field among the contemporary visual arts. Through its privileged relationship to the physical world and the viewer's body, sculpture is the glue that connects the intermedia practices of object, installation, interactive art and performance. In this class we build on skills and concepts learned in 3D media 1 and 2 to develop students' individual approach. Students define independent responses to topics proposed through discussion of contemporary sculptors. Emphasis is placed on individual development. Students are encouraged to explore interdisciplinary approaches.
+</end course description for 60-430 Advanced SIS: Open Sculpture>

@@ -1,0 +1,16 @@
+<start course metadata for 73-104 Principles of Microeconomics Accelerated>
+Semester: Fall 2023 (aka F23)
+Course Name: Principles of Microeconomics Accelerated
+Course Number: 73-104
+Department: Economics
+Number of Units: 9
+Prerequisites: None
+Instructors: Serra Boranbay Akan
+Rooms: WEH 7500
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 73-104 Principles of Microeconomics Accelerated>
+
+<start course description for 73-104 Principles of Microeconomics Accelerated>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is a rigorous introduction to microeconomic principles and how to think like an economist. The students are expected to have a successful, prior exposure to fundamental concepts and therefore, the course is at a faster pace than its sister course, 73102, and covers additional topics.  The questions typically take the form: What is the optimal consumption pattern for me as an individual? What is the profit maximizing pattern of labor and capital goods for a firm? When do we want businesses to go bust? Should the government fund student tuition? How can firms hire the best match for them? Whay kind of informational asymmetries exist in double-sided markets? It's my hope that the students start to think about everyday questions from an economic lens: Why were cars so hard to find during the pandemic? Is Uber surge pricing just a rip-off? Is illegal streaming bad for consumers? Throughout the semester, we will build a toolkit to allow us to understand how these decisions interact and explain market successes, market failures, and the role of the third parties in the marketplace. Some later topics include credible threats, commitment problems, and the strategic use of information. Knowledge of basic calculus as covered in 21-111 would be helpful for the students.  Only students with an AP Microeconomics Exam score of 4 or 5 and qualifying IB/Cambridge Economics exam scores are eligible to enroll in this course. Students without exam credit should enroll in 73-102 Principles of Microeconomics.
+</end course description for 73-104 Principles of Microeconomics Accelerated>

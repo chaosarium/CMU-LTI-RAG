@@ -1,0 +1,16 @@
+<start course metadata for 62-123 Digital Media II>
+Semester: Spring 2024 (aka S24)
+Course Name: Digital Media II
+Course Number: 62-123
+Department: CFA Interdisciplinary
+Number of Units: 6
+Prerequisites: 62-122
+Instructors: Matthew Huber
+Rooms: CFA 214
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 62-123 Digital Media II>
+
+<start course description for 62-123 Digital Media II>
+Semester: Spring 2024 (aka S24)
+Course Description: This is the second course in a two-course sequence that introduces students to a broad range of architectural drawing techniques and practices that document, communicate, and generate design possibilities. The course situates modes of representation within a rich disciplinary tradition, as well as within adjacent fields of discourse on visual culture and epistemology. This second instantiation expands the foundational skills established in 62-122 by surveying select, contemporary modes of digital production and communication especially as situated between design disciplines and adjacent practices in the sciences, the animation and gaming industries, digital forensics and archaeology, artificial intelligence and other modes of cultural production. The course also challenges students to establish a visual agenda of their by referencing and critiquing chosen practices and styles within contemporary architectural media.
+</end course description for 62-123 Digital Media II>

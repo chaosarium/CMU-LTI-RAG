@@ -1,0 +1,16 @@
+<start course metadata for 10-697 Reading and Research>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Reading and Research
+Course Number: 10-697
+Department: Machine Learning
+Number of Units: N/A
+Prerequisites: None
+Instructors: Nihar Shah
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 10-697 Reading and Research>
+
+<start course description for 10-697 Reading and Research>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: Course for MS students to work with their advisor on research
+</end course description for 10-697 Reading and Research>

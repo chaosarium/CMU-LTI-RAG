@@ -1,0 +1,16 @@
+<start course metadata for 18-847 Data Center Computing>
+Semester: Spring 2024 (aka S24)
+Course Name: Data Center Computing
+Course Number: 18-847
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Akshitha Sriraman
+Rooms: PH 225B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-847 Data Center Computing>
+
+<start course description for 18-847 Data Center Computing>
+Semester: Spring 2024 (aka S24)
+Course Description: Please refer to the ECE website for descriptions of each topic: https://courses.ece.cmu.edu/
+</end course description for 18-847 Data Center Computing>

@@ -1,0 +1,16 @@
+<start course metadata for 57-338 Sound Editing and Mastering>
+Semester: Spring 2024 (aka S24)
+Course Name: Sound Editing and Mastering
+Course Number: 57-338
+Department: Music
+Number of Units: 6
+Prerequisites: 57-341 or 57-342 or 57-337 or 57-651
+Instructors: Riccardo Schulz
+Rooms: CFA A6
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-338 Sound Editing and Mastering>
+
+<start course description for 57-338 Sound Editing and Mastering>
+Semester: Spring 2024 (aka S24)
+Course Description: The raw recording is just the first step in the process of creating a professional finished audio product.  "Editing" is the art of piecing together different takes to make one final 'good take.'  "Mastering" is the art of polishing the 'good take' to perfection--balancing all the instruments and tracks, adding special effects, setting final levels.  If 'recording' seems like an high-energy activity--involving engineers, musicians, producers--'editing and mastering' are the necessary counterparts--long tedious hours of solitary confinement honing the skills of the mastering engineer.    Those taking this course are expected to have significant music skills: actively playing a musical instrument (or composition), and/or the ability to read a piano score at the least, and a full orchestra score from any recent century, including our own, at the most.    Class attendance is essential; work outside of class is necessary.
+</end course description for 57-338 Sound Editing and Mastering>

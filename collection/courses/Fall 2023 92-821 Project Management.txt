@@ -1,0 +1,16 @@
+<start course metadata for 92-821 Project Management>
+Semester: Fall 2023 (aka F23)
+Course Name: Project Management
+Course Number: 92-821
+Department: Medical Management:Sch of Pub Pol & Mgt
+Number of Units: 4
+Prerequisites: None
+Instructors: Laura Synnott
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 92-821 Project Management>
+
+<start course description for 92-821 Project Management>
+Semester: Fall 2023 (aka F23)
+Course Description: No course description provided.
+</end course description for 92-821 Project Management>

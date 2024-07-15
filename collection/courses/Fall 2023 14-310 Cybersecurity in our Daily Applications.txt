@@ -1,0 +1,16 @@
+<start course metadata for 14-310 Cybersecurity in our Daily Applications>
+Semester: Fall 2023 (aka F23)
+Course Name: Cybersecurity in our Daily Applications
+Course Number: 14-310
+Department: Information Networking Institute
+Number of Units: 3
+Prerequisites: None
+Instructors: Hanan Hibshi
+Rooms: CMB 2052
+Locations: Doha, Qatar
+</end course metadata for 14-310 Cybersecurity in our Daily Applications>
+
+<start course description for 14-310 Cybersecurity in our Daily Applications>
+Semester: Fall 2023 (aka F23)
+Course Description: Information security is involved in our everyday applications; from banking systems to IoT devices. With the increased amount of cybersecurity attacks, understanding key concepts in information security and privacy become essential in every application. This course Introduces students to key terminology in security and privacy; explains the building blocks of cryptographic primitives that help achieve security properties; Introduces issues affecting usable security and privacy, and provides a thorough understanding of a variety of user-interface attacks: phishing, spam, clickbait, social engineering, etc.; Help students assess examples motivated by real security attacks and reason about security and privacy
+</end course description for 14-310 Cybersecurity in our Daily Applications>

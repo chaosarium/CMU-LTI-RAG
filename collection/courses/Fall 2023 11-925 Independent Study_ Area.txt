@@ -1,0 +1,16 @@
+<start course metadata for 11-925 Independent Study: Area>
+Semester: Fall 2023 (aka F23)
+Course Name: Independent Study: Area
+Course Number: 11-925
+Department: Language Technologies Institute
+Number of Units: N/A
+Prerequisites: None
+Instructors: Emma Strubell, Instructor TBA, Lei Li, Louis-Philippe Morency
+Rooms: DNM DNM
+Locations: Lisbon, Portugal; Pittsburgh, Pennsylvania
+</end course metadata for 11-925 Independent Study: Area>
+
+<start course description for 11-925 Independent Study: Area>
+Semester: Fall 2023 (aka F23)
+Course Description: This course number is intended for individual study with the intended thesis advisor prior to acceptance of a student's thesis proposal.
+</end course description for 11-925 Independent Study: Area>

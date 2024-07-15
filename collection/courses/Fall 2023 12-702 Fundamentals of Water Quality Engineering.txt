@@ -1,0 +1,16 @@
+<start course metadata for 12-702 Fundamentals of Water Quality Engineering>
+Semester: Fall 2023 (aka F23)
+Course Name: Fundamentals of Water Quality Engineering
+Course Number: 12-702
+Department: Civil & Environmental Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Joe Moore
+Rooms: PH 125B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 12-702 Fundamentals of Water Quality Engineering>
+
+<start course description for 12-702 Fundamentals of Water Quality Engineering>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is a systematic overview of water quality engineering designed for students with no prior civil and environmental engineering background.  Topics examined include physical, chemical, and biological characteristics of water; common water pollutants; basic water chemistry and micriobiology; mass and energy balances and their use in reactor analysis; physical, chemical and biological processes affecting natural water quality and the use of these processes in water supply and wastewater management systems; and selected problems in surface water and groundwater quality management.  A background in college-level general chemistry, physics, calculus, and differential equations is assumed.
+</end course description for 12-702 Fundamentals of Water Quality Engineering>

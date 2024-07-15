@@ -1,0 +1,16 @@
+<start course metadata for 36-309 Experimental Design for Behavioral & Social Sciences>
+Semester: Fall 2023 (aka F23)
+Course Name: Experimental Design for Behavioral & Social Sciences
+Course Number: 36-309
+Department: Statistics and Data Science
+Number of Units: 9
+Prerequisites: 36-200 or 36-247 or 15-260 or 36-236 or 36-226 or 36-326 or 36-218 or 36-220 or 70-207
+Instructors: Zachary Branson
+Rooms: WEH 7500
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 36-309 Experimental Design for Behavioral & Social Sciences>
+
+<start course description for 36-309 Experimental Design for Behavioral & Social Sciences>
+Semester: Fall 2023 (aka F23)
+Course Description: This course focuses on the statistical aspects of the design and analysis stages of planned experiments. The design stage focuses on determining how experimental factors are allocated, the sample size necessary to achieve adequate statistical power, and how subjects/variables are measured. The analysis stage focuses on how data are collected and which statistical models are most appropriate to answer the research questions of interest. Although students will have to do some computer programming to implement these statistical techniques, the most important aspect of the course will be on interpreting analyses' results (e.g., whether a given analysis is appropriate, to what extent that analysis can answer research questions of interest, and the broader implications of an analysis within the context of the experiment). In addition to a weekly lecture, students will attend a computer lab once a week to get guidance and hands-on practice implementing statistical techniques we learn in class.
+</end course description for 36-309 Experimental Design for Behavioral & Social Sciences>

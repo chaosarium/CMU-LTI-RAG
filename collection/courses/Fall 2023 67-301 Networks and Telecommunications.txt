@@ -1,0 +1,16 @@
+<start course metadata for 67-301 Networks and Telecommunications>
+Semester: Fall 2023 (aka F23)
+Course Name: Networks and Telecommunications
+Course Number: 67-301
+Department: Information Systems Program
+Number of Units: 9
+Prerequisites: 67-272
+Instructors: Daniel Phelps
+Rooms: CMB 3044
+Locations: Doha, Qatar
+</end course metadata for 67-301 Networks and Telecommunications>
+
+<start course description for 67-301 Networks and Telecommunications>
+Semester: Fall 2023 (aka F23)
+Course Description: This course will introduce students to the basics of telecommunications, including voice, data, video, and wireless, with an emphasis on data. The course will cover both technical and business aspects of networking, and will consider regulatory and industry factors affecting telecommunication networks. Students will be introduced to the concepts and terminology of networks, including layered network models, and to practical issues involved in designing, managing, and using networks and network applications. Learning will take place through assigned readings including current issues and events in networking, class participation, and homework assignments.  Grades will be based on examinations, homework assignments, and contributions to classroom discussions. For Information Systems Juniors and Seniors.
+</end course description for 67-301 Networks and Telecommunications>

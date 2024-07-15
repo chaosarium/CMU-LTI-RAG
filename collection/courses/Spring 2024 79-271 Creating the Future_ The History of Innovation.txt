@@ -1,0 +1,16 @@
+<start course metadata for 79-271 Creating the Future: The History of Innovation>
+Semester: Spring 2024 (aka S24)
+Course Name: Creating the Future: The History of Innovation
+Course Number: 79-271
+Department: History
+Number of Units: 3
+Prerequisites: None
+Instructors: Nico Slate
+Rooms: 
+Locations: Doha, Qatar
+</end course metadata for 79-271 Creating the Future: The History of Innovation>
+
+<start course description for 79-271 Creating the Future: The History of Innovation>
+Semester: Spring 2024 (aka S24)
+Course Description: CMU prides itself on being a hotbed of innovation, but how are new ideas developed? By exploring the history of innovation, this course will prepare students to develop new ideas of their own and to better understand what inspires and constrains innovation.
+</end course description for 79-271 Creating the Future: The History of Innovation>

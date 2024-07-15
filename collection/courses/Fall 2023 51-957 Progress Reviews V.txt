@@ -1,0 +1,16 @@
+<start course metadata for 51-957 Progress Reviews V>
+Semester: Fall 2023 (aka F23)
+Course Name: Progress Reviews V
+Course Number: 51-957
+Department: Design
+Number of Units: 0
+Prerequisites: None
+Instructors: Jonathan Chapman
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-957 Progress Reviews V>
+
+<start course description for 51-957 Progress Reviews V>
+Semester: Fall 2023 (aka F23)
+Course Description: Third year PhD Design students present their thesis work progress for review and discussion.
+</end course description for 51-957 Progress Reviews V>

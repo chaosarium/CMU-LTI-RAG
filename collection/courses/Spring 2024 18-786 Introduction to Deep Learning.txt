@@ -1,0 +1,16 @@
+<start course metadata for 18-786 Introduction to Deep Learning>
+Semester: Spring 2024 (aka S24)
+Course Name: Introduction to Deep Learning
+Course Number: 18-786
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Aswin Sankaranarayanan, Yuejie Chi
+Rooms: HOA 160
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-786 Introduction to Deep Learning>
+
+<start course description for 18-786 Introduction to Deep Learning>
+Semester: Spring 2024 (aka S24)
+Course Description: Neural networks have increasingly taken over various AI/ML tasks, and currently produce the state of the art in many tasks ranging from computer vision and planning for self-driving cars to playing computer games. Basic knowledge of NNs, known currently in the popular literature as "deep learning", familiarity with various formalisms, and knowledge of tools, is now an essential requirement for any researcher or developer in most AI and NLP fields. This course is a broad introduction to the field of neural networks and their "deep" learning formalisms. The course traces some of the development of neural network theory and design through time, leading quickly to a discussion of various network formalisms, including simple feedforward, convolutional, recurrent, and probabilistic formalisms, the rationale behind their development, and challenges behind learning such networks and various proposed solutions. We subsequently cover various extensions and models that enable their application to various tasks such as computer vision, speech recognition, machine translation and playing games.
+</end course description for 18-786 Introduction to Deep Learning>

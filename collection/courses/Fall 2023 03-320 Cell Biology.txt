@@ -1,0 +1,16 @@
+<start course metadata for 03-320 Cell Biology>
+Semester: Fall 2023 (aka F23)
+Course Name: Cell Biology
+Course Number: 03-320
+Department: Biological Sciences
+Number of Units: 9
+Prerequisites: (03-120 or 03-121 or 03-151) and (03-232 or 03-233 or 03-231)
+Instructors: Brooke Mccartney
+Rooms: MI 348
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 03-320 Cell Biology>
+
+<start course description for 03-320 Cell Biology>
+Semester: Fall 2023 (aka F23)
+Course Description: This course provides descriptive information and mechanistic detail concerning key cellular processes in six areas: membrane function, protein targeting, signaling, cytoskeleton, cell division, and cell interaction. An attempt is made to introduce the methodology that was used to obtain this information and to discuss how our understanding of these processes relates to the treatment of human disease.
+</end course description for 03-320 Cell Biology>

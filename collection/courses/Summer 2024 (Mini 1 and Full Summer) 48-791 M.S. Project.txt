@@ -1,0 +1,16 @@
+<start course metadata for 48-791 M.S. Project>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: M.S. Project
+Course Number: 48-791
+Department: Architecture
+Number of Units: N/A
+Prerequisites: None
+Instructors: Man Kim, Ramesh Krishnamurti
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-791 M.S. Project>
+
+<start course description for 48-791 M.S. Project>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: This course is for students to undertake a major project in which knowledge gained in the core courses is applied to problems relevant to the field of architecture. Course must be taken under the advice of a faculty member teaching in the MSc-Ph.D. Programs. Master of Science Students who perform satisfactorily in the Graduate Research Seminar course are permitted to take the Master's project course. Prerequisite: completion of all core requirements and consent of the instructors of 48-790 and 48-791.
+</end course description for 48-791 M.S. Project>

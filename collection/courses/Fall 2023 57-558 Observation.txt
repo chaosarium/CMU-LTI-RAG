@@ -1,0 +1,16 @@
+<start course metadata for 57-558 Observation>
+Semester: Fall 2023 (aka F23)
+Course Name: Observation
+Course Number: 57-558
+Department: Music
+Number of Units: 3
+Prerequisites: None
+Instructors: Robert Dell
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-558 Observation>
+
+<start course description for 57-558 Observation>
+Semester: Fall 2023 (aka F23)
+Course Description: This music education offering is an independent study course designed to introduce students to a range of K-12 instructional practices through observation of elementary and secondary school teachers.  Students will identify strategies that impact learning in the areas of pedagogy, student motivation, classroom management, and accommodations for special learners.  Students complete this course by arranging 20 prescribed classroom observations in local schools - multiple observations may be completed at each school visit.  In order to complete the observations in one semester, students should schedule an open 3-hour time block one day per week between 8 am and 3 pm.
+</end course description for 57-558 Observation>

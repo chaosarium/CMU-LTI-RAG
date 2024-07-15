@@ -1,0 +1,16 @@
+<start course metadata for 53-610 ETC Interdisciplinary Project III>
+Semester: Spring 2024 (aka S24)
+Course Name: ETC Interdisciplinary Project III
+Course Number: 53-610
+Department: Entertainment Technology
+Number of Units: 36
+Prerequisites: 53-831 and 53-608 and 53-711 and 53-700
+Instructors: Brenda Harger, Charles Johnson, David Culyba, Gerard Klug, Heather Kelley, Instructor TBA, John Dessler, Jonathan Walton, Michael Christel, Moshe Mahler, Ralph Vituccio, Ricardo Washington, Ruth Comley, Scott Stevens, Shirley Saldamarco, Thomas Corbett
+Rooms: PTC 5208; PTC MPR
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 53-610 ETC Interdisciplinary Project III>
+
+<start course description for 53-610 ETC Interdisciplinary Project III>
+Semester: Spring 2024 (aka S24)
+Course Description: Project courses have teams of 3-8 students work on a focused project during that semester. The number of projects per semester will vary. The primary objective of the courses is to provide a hands-on working experience with teammates who are from different backgrounds and disciplines. Other objectives are to experience project management, and have the possibility of working with an external client (some projects have externally collaborators). The requirements for a project are that: - the team contain students from various backgrounds - the team must prototype and produce a tangible artifact (not a paper) - the work must be supervised by a faculty project instructor approved by the ETC for this project
+</end course description for 53-610 ETC Interdisciplinary Project III>

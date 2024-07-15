@@ -1,0 +1,16 @@
+<start course metadata for 45-751 Optimization>
+Semester: Spring 2024 (aka S24)
+Course Name: Optimization
+Course Number: 45-751
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Andrew Li, Fatma Kilinc-Karzan
+Rooms: TEP 2111
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-751 Optimization>
+
+<start course description for 45-751 Optimization>
+Semester: Spring 2024 (aka S24)
+Course Description: This course covers fundamental optimization tools for quantitative analysis in the management sciences. The central topics of study are linear integer and nonlinear programming. Special emphasis is placed on linear programming particularly on modeling business applications and on sensitivity analysis. The course follows a practical spreadsheet-based approach to provide hands-on experience with software such as Excel Solver.
+</end course description for 45-751 Optimization>

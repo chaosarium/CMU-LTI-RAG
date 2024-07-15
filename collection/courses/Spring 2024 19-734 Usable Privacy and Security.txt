@@ -1,0 +1,16 @@
+<start course metadata for 19-734 Usable Privacy and Security>
+Semester: Spring 2024 (aka S24)
+Course Name: Usable Privacy and Security
+Course Number: 19-734
+Department: Engineering & Public Policy
+Number of Units: 12
+Prerequisites: None
+Instructors: Lorrie Cranor, Yuvraj Agarwal
+Rooms: HH B103
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 19-734 Usable Privacy and Security>
+
+<start course description for 19-734 Usable Privacy and Security>
+Semester: Spring 2024 (aka S24)
+Course Description: There is growing recognition that technology alone will not provide all of the solutions to security and privacy problems. Human factors play an essential role in these areas, and it is important for security and privacy experts to have an understanding of how people will interact with the systems they develop. This course is designed to introduce students to a variety of usability and user-interface problems related to privacy and security and to give them experience in understanding and designing studies aimed at helping to evaluate usability issues in security and privacy systems. The course is suitable both for students interested in privacy and security who would like to learn more about usability, as well as for students interested in usability who would like to learn more about security and privacy. Students will also work on a group project throughout the semester. The course is open to all students who have technical backgrounds. The 12-unit course numbers (17-734, 5-836, 19-734) are for PhD students and masters students. Students enrolled in these course numbers will have extended homework assignments and will be expected to play a leadership role in a group project that produces a paper suitable for publication. The 9-unit course numbers (17-334, 5-436, 19-534) are for undergraduates and masters students (if permitted by their program).
+</end course description for 19-734 Usable Privacy and Security>

@@ -1,0 +1,16 @@
+<start course metadata for 21-102 TBA>
+Semester: Spring 2024 (aka S24)
+Course Name: TBA
+Course Number: 21-102
+Department: Mathematical Sciences
+Number of Units: 9
+Prerequisites: None
+Instructors: Gregory Johnson
+Rooms: POS A35
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-102 TBA>
+
+<start course description for 21-102 TBA>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is designed for non-math majors who are interested in learning some contemporary applications of mathematics with minimal prerequisite math knowledge.  The course will survey the mathematical concepts centered along various themes, which may include the mathematics of social choice (voting and apportionment systems), topics in management science (optimization and elementary graph theory), modeling growth systems (population and finance), shape and form (symmetry and fractals), basic applications of probability and counting, and basic applications of number theory (cryptography and coding theory).  Additional topics may be presented at the discretion of the instructor.
+</end course description for 21-102 TBA>

@@ -1,0 +1,16 @@
+<start course metadata for 14-709 INI Project-Japan>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: INI Project-Japan
+Course Number: 14-709
+Department: Information Networking Institute
+Number of Units: N/A
+Prerequisites: None
+Instructors: Dena Tsamitis
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 14-709 INI Project-Japan>
+
+<start course description for 14-709 INI Project-Japan>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: This course is for INI students in the Kobe MSIT-IS program. Students will be registered for the course when they are ready to defend their project.  Enrollment requires special permission, therefore, the INI Academic Affairs Office will register those who should be.
+</end course description for 14-709 INI Project-Japan>

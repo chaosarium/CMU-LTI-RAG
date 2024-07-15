@@ -1,0 +1,16 @@
+<start course metadata for 45-861 Six Sigma Tools and Techniques>
+Semester: Spring 2024 (aka S24)
+Course Name: Six Sigma Tools and Techniques
+Course Number: 45-861
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Alan Scheller-Wolf
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-861 Six Sigma Tools and Techniques>
+
+<start course description for 45-861 Six Sigma Tools and Techniques>
+Semester: Spring 2024 (aka S24)
+Course Description: To understand six sigma we must understand its underlying philosophy, that of the modern quality movement. Therefore we will first compare and contrast the ideas of various quality "gurus," examining the different ways to define and measure quality. In most cases, the goal should be to design and maintain a process which is in statistical control, producing with the "best" nominal value, and with a minimum of variation. How to determine what is "best" is a topic which we will also discuss; we will explore the use of the Taguchi Loss Function to help answer this question. We will also consider some of the issues surrounding successful adoption of quality improvement initiatives   finding ways of improving quality but being unable to get anyone to implement them is a prototypical problem in quality programs, including six sigma.    We will then discuss strategies and tools which can be used to try to ensure quality; it is important to not only be familiar with the tools supporting quality design and control, but also to understand when and how they can best be correctly applied. In this area we will study three central topics   the first two, sampling and control charts, serve as a basis for the correct application and evaluation of the third, design of experiments. These central topics will be illustrated through exercises, experiments, and cases, culminating in a final interactive capstone case for the class. We will conclude with a focused discussion of specific six-sigma ideas and techniques, exploring its similarities and differences as compared to traditional quality programs. At the conclusion of the course you will understand the six-sigma framework, and be very comfortablewith its technical tools.    Other topics we will consider include process capability, setting tolerances, process control, quality in service operations, evaluatory techniques such as the House of Quality, and ISO 9000 certification.
+</end course description for 45-861 Six Sigma Tools and Techniques>

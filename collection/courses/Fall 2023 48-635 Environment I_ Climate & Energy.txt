@@ -1,0 +1,16 @@
+<start course metadata for 48-635 Environment I: Climate & Energy>
+Semester: Fall 2023 (aka F23)
+Course Name: Environment I: Climate & Energy
+Course Number: 48-635
+Department: Architecture
+Number of Units: 9
+Prerequisites: None
+Instructors: Suzy Li, Vivian Loftness
+Rooms: MM 103
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-635 Environment I: Climate & Energy>
+
+<start course description for 48-635 Environment I: Climate & Energy>
+Semester: Fall 2023 (aka F23)
+Course Description: This course introduces architectural design responses for energy conservation, human comfort, and the site-specific dynamics of climate.  Students will be expected to combine an understanding of the basic laws of comfort and heat flow with the variables of local climate to create energy design guidelines for their own work.  The state of the art in building energy conservation and passive heating and cooling technologies will be presented, with take-home readings and assignments.   To stress the significance of architectural design decision-making on energy consumption and comfort, full design specifications and calculations will be completed for a residential-scale building.  Students will compile a professional energy consultant's report, designing the most viable energy conservation retrofit measures for their client from siting, massing, organization, enclosure detailing, opening control, to passive system integration and management. An overview of world energy consumption in buildings and energy design standards will be challenged by lectures on building energy conservation successes, and emerging demands for a broader definition of sustainability.  The course will end with a focus on the design integration of natural conditioning systems and the potentially dynamic interface of mechanical systems in small- and large-scale buildings.
+</end course description for 48-635 Environment I: Climate & Energy>

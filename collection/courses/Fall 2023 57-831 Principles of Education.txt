@@ -1,0 +1,16 @@
+<start course metadata for 57-831 Principles of Education>
+Semester: Fall 2023 (aka F23)
+Course Name: Principles of Education
+Course Number: 57-831
+Department: Music
+Number of Units: 9
+Prerequisites: None
+Instructors: Jeremy Olisar
+Rooms: HOA 225
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-831 Principles of Education>
+
+<start course description for 57-831 Principles of Education>
+Semester: Fall 2023 (aka F23)
+Course Description: This course introduces the student to basic issues in education.  Content includes views of the academic and social structure of the school and the review and application of widely recognized theories of learning.  Special emphasis is placed on the study of pedagogy as a series of options from which the educator constructs learning activities.
+</end course description for 57-831 Principles of Education>

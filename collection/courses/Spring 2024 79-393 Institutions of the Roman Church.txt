@@ -1,0 +1,16 @@
+<start course metadata for 79-393 Institutions of the Roman Church>
+Semester: Spring 2024 (aka S24)
+Course Name: Institutions of the Roman Church
+Course Number: 79-393
+Department: History
+Number of Units: 9
+Prerequisites: None
+Instructors: Benjamin Reilly
+Rooms: CMB 1030
+Locations: Doha, Qatar
+</end course metadata for 79-393 Institutions of the Roman Church>
+
+<start course description for 79-393 Institutions of the Roman Church>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is only offered at Carnegie Mellon's campus in Qatar. This course will explore the history of the Catholic Church, with a particular focus on the church as an evolving European institution. Although we will have to deal with theological arguments at times, abstract theology will not be the focus of the course. Instead, the course will be centered on two main questions. First, how did the Catholic Church manage to persist, for nearly two millennium, as a stable institutional entity within an ever-changing European milieu? Secondly, to what degree did the Catholic Church influence and/or reflect developments within Western European culture?
+</end course description for 79-393 Institutions of the Roman Church>

@@ -1,0 +1,16 @@
+<start course metadata for 06-705 Advanced Chemical Engineering Thermodynamics>
+Semester: Fall 2023 (aka F23)
+Course Name: Advanced Chemical Engineering Thermodynamics
+Course Number: 06-705
+Department: Chemical Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Daphne WY Chan
+Rooms: DH 1112
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 06-705 Advanced Chemical Engineering Thermodynamics>
+
+<start course description for 06-705 Advanced Chemical Engineering Thermodynamics>
+Semester: Fall 2023 (aka F23)
+Course Description: Advanced application of the general thermodynamic method to chemical engineering problems. Second law consequences, estimation and correlation of thermodynamic properties, and chemical and phase equilibria.
+</end course description for 06-705 Advanced Chemical Engineering Thermodynamics>

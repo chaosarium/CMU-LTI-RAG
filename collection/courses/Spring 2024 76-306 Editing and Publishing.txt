@@ -1,0 +1,16 @@
+<start course metadata for 76-306 Editing and Publishing>
+Semester: Spring 2024 (aka S24)
+Course Name: Editing and Publishing
+Course Number: 76-306
+Department: English
+Number of Units: N/A
+Prerequisites: None
+Instructors: Gerald Costanzo
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 76-306 Editing and Publishing>
+
+<start course description for 76-306 Editing and Publishing>
+Semester: Spring 2024 (aka S24)
+Course Description: Note: Registration in this course is by permission only. Students must contact Prof. Costanzo directly. In this course students will work closely with the editors of Carnegie Mellon University Press to learn many of the facets of producing books. These range from business management and marketing to the elements of editing, book design, and production.
+</end course description for 76-306 Editing and Publishing>

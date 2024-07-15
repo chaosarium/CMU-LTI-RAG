@@ -1,0 +1,16 @@
+<start course metadata for 60-135 Foundations: Sculpture II>
+Semester: Spring 2024 (aka S24)
+Course Name: Foundations: Sculpture II
+Course Number: 60-135
+Department: Art
+Number of Units: 10
+Prerequisites: None
+Instructors: Britt Ransom, Ling-Lin Ku
+Rooms: DH C200
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 60-135 Foundations: Sculpture II>
+
+<start course description for 60-135 Foundations: Sculpture II>
+Semester: Spring 2024 (aka S24)
+Course Description: Foundations: Sculpture II is an introductory studio course in concepts, techniques, and tools for the fabrication of three dimensional sculptural works in wood and metal. This studio course introduces physical fabrication methods to translate ideas and materials into 3D forms.  We will cover measuring, drawing, planning, subtractive and additive processes, joinery techniques for wood and metal, and a variety of materials in combination with these construction techniques. Through technical demonstrations, assignments, and safe hands-on explorations, students will learn how to use equipment located in our woodshop and metal shop, including major saws and sanders, hand tools, metal saws, and MIG welders. This class will explore concepts and histories related to functional object-making and utility; as well as sculpture in relation to space and site. Through presentations, readings, and class dialogue, students will be introduced to contemporary artists working across 3D physical media and installation, with special attention to the relationship between idea and materiality.  Our experiments will prompt us to consider relationships between objects as architectures, bodies, spaces, and society; as well as between technology, craft, and language; ultimately exploring how to use the making of 3D forms as a communicative tool.
+</end course description for 60-135 Foundations: Sculpture II>

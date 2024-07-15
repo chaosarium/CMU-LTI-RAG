@@ -1,0 +1,16 @@
+<start course metadata for 12-703 Numerical Methods in Engineering>
+Semester: Fall 2023 (aka F23)
+Course Name: Numerical Methods in Engineering
+Course Number: 12-703
+Department: Civil & Environmental Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Jessica Zhang
+Rooms: SH 236
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 12-703 Numerical Methods in Engineering>
+
+<start course description for 12-703 Numerical Methods in Engineering>
+Semester: Fall 2023 (aka F23)
+Course Description: This course emphasizes numerical methods to solve differential equations that are important in engineering. Procedures will be presented for solving systems of ordinary differential equations and boundary value problems in partial differential equations. Students will be required to develop computer algorithms and employ them in a variety of engineering applications. Comparison with analytical results from 24-701 will be made whenever possible. Some programming experience is required. 4 hrs. lec.
+</end course description for 12-703 Numerical Methods in Engineering>

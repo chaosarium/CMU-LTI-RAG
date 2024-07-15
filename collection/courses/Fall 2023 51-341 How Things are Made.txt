@@ -1,0 +1,16 @@
+<start course metadata for 51-341 How Things are Made>
+Semester: Fall 2023 (aka F23)
+Course Name: How Things are Made
+Course Number: 51-341
+Department: Design
+Number of Units: 9
+Prerequisites: None
+Instructors: Wayne Chung
+Rooms: MM 107
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-341 How Things are Made>
+
+<start course description for 51-341 How Things are Made>
+Semester: Fall 2023 (aka F23)
+Course Description: This course will provide a breadth of knowledge for current manufacturing, materials, and processes encountered in the industrial design field.  There will be an emphasis on actual production/manufacture methods and not rapid prototyping methods. The class will consist of various lectures, media, electronic tools, and on-site visits to enable an understanding of how mass production affects design and design decisions.  Industrial Design Juniors & Seniors or permission of the instructor.
+</end course description for 51-341 How Things are Made>

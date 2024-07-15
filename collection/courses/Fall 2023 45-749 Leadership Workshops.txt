@@ -1,0 +1,16 @@
+<start course metadata for 45-749 Leadership Workshops>
+Semester: Fall 2023 (aka F23)
+Course Name: Leadership Workshops
+Course Number: 45-749
+Department: Business Administration
+Number of Units: 0
+Prerequisites: None
+Instructors: Wendy Hermann
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-749 Leadership Workshops>
+
+<start course description for 45-749 Leadership Workshops>
+Semester: Fall 2023 (aka F23)
+Course Description: No course description provided.
+</end course description for 45-749 Leadership Workshops>

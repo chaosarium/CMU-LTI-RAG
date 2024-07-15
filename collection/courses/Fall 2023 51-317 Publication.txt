@@ -1,0 +1,16 @@
+<start course metadata for 51-317 Publication>
+Semester: Fall 2023 (aka F23)
+Course Name: Publication
+Course Number: 51-317
+Department: Design
+Number of Units: 9
+Prerequisites: None
+Instructors: Brett Yasko
+Rooms: MM 121
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-317 Publication>
+
+<start course description for 51-317 Publication>
+Semester: Fall 2023 (aka F23)
+Course Description: For this course you will arrive on Day 1 with a story that you want to tell. You will then spend the semester iterating, designing, producing, publishing and, finally, putting your publication out into the world in a compelling, memorable and designerly way. Your publication can take the form of a substantial book, a series of smaller booklets or zines, a film, an interactive experience, a piece of public art, a combination of two or more of these or something else entirely. As long as it can be disseminated beyond the classroom and campus. This course will only work for those who have an idea. You must come into this course with a firm grasp of the story you want to tell, how you want to tell it and who you want to tell it to. There is only one project for this course. It will be robust and multi-faceted and you will only have 13 weeks to make it. So you need to be ready to go from the start. The first class will be dedicated to hearing your pitch for what you want to do. It will then be determined if you should stay on the roster.
+</end course description for 51-317 Publication>

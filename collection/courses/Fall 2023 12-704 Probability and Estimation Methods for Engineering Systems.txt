@@ -1,0 +1,16 @@
+<start course metadata for 12-704 Probability and Estimation Methods for Engineering Systems>
+Semester: Fall 2023 (aka F23)
+Course Name: Probability and Estimation Methods for Engineering Systems
+Course Number: 12-704
+Department: Civil & Environmental Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Matteo Pozzi
+Rooms: PH 100
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 12-704 Probability and Estimation Methods for Engineering Systems>
+
+<start course description for 12-704 Probability and Estimation Methods for Engineering Systems>
+Semester: Fall 2023 (aka F23)
+Course Description: Overview of rules of probability, random variables, probability distribution functions, and random processes. Techniques for estimating the parameters of probability models and related statistical inference. Application to the analysis and design of engineered systems under conditions of variability and uncertainty.
+</end course description for 12-704 Probability and Estimation Methods for Engineering Systems>

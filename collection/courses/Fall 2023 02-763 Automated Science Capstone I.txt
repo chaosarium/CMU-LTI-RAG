@@ -1,0 +1,16 @@
+<start course metadata for 02-763 Automated Science Capstone I>
+Semester: Fall 2023 (aka F23)
+Course Name: Automated Science Capstone I
+Course Number: 02-763
+Department: Computational Biology
+Number of Units: 12
+Prerequisites: None
+Instructors: Joshua Kangas
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 02-763 Automated Science Capstone I>
+
+<start course description for 02-763 Automated Science Capstone I>
+Semester: Fall 2023 (aka F23)
+Course Description: This course consists of small group projects on development, implementation and/or execution of automated science campaigns in collaboration with industry and/or academic partners. Projects will be either 4.5 months or 9 months in duration depending on whether 02-764 will also be taken. Enrollment is only open to M.S. in Automated Science students.
+</end course description for 02-763 Automated Science Capstone I>

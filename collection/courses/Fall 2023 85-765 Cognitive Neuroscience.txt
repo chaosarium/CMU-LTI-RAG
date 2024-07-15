@@ -1,0 +1,16 @@
+<start course metadata for 85-765 Cognitive Neuroscience>
+Semester: Fall 2023 (aka F23)
+Course Name: Cognitive Neuroscience
+Course Number: 85-765
+Department: Psychology
+Number of Units: 9
+Prerequisites: None
+Instructors: Carl Olson
+Rooms: MI 130
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 85-765 Cognitive Neuroscience>
+
+<start course description for 85-765 Cognitive Neuroscience>
+Semester: Fall 2023 (aka F23)
+Course Description: This course will cover fundamental findings and approaches in cognitive neuroscience, with the goal of providing an overview of the field at an advanced level.  Topics will include high-level vison, spatial cognition, working memory, long-term memory, learning, language, executive control, and emotion.  Each topic will be approached from a variety of methodological directions, for example, computational modeling, cognitive assessment in brain-damaged humans, non-invasive brain monitoring in humans, and single-neuron recording in animals.  Lectures will alternate with sessions in seminar format. Prerequisites: Graduate standing or two upper-level psychology courses from the areas of developmental psychology, cognitive psychology, computational modeling of intelligence,  neuropsychology or neuroscience.
+</end course description for 85-765 Cognitive Neuroscience>

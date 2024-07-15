@@ -1,0 +1,16 @@
+<start course metadata for 24-626 Air Quality Engineering>
+Semester: Fall 2023 (aka F23)
+Course Name: Air Quality Engineering
+Course Number: 24-626
+Department: Mechanical Engineering
+Number of Units: 12
+Prerequisites: 24-231 and 09-105 and 36-220
+Instructors: Albert Presto
+Rooms: WEH 6403
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-626 Air Quality Engineering>
+
+<start course description for 24-626 Air Quality Engineering>
+Semester: Fall 2023 (aka F23)
+Course Description: The course provides a quantitative introduction to the processes that control atmospheric pollutants and the use of mass balance models to predict pollutant concentrations. We survey major processes including emission rates, atmospheric dispersion, chemistry, and deposition. The course includes discussion of basic atmospheric science and meteorology to support understanding air pollution behavior. Concepts in this area include vertical structure of the atmosphere, atmospheric general circulation, atmospheric stability, and boundary layer turbulence. The course also discusses briefly the negative impacts of air pollution on society and the regulatory framework for controlling pollution in the United States. The principles taught are applicable to a wide variety of air pollutants but special focus is given to tropospheric ozone and particulate matter. The course is intended for graduate students as well as advanced undergraduates. It assumes a knowledge of mass balances, fluid mechanics, chemistry, and statistics typical of an undergraduate engineer but is open to students from other scientific disciplines. 12 units
+</end course description for 24-626 Air Quality Engineering>

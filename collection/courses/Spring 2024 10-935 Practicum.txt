@@ -1,0 +1,16 @@
+<start course metadata for 10-935 Practicum>
+Semester: Spring 2024 (aka S24)
+Course Name: Practicum
+Course Number: 10-935
+Department: Machine Learning
+Number of Units: N/A
+Prerequisites: None
+Instructors: Tom Mitchell
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 10-935 Practicum>
+
+<start course description for 10-935 Practicum>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is intended for you to gain industry research experience while using the skills you have learned in the ML curriculum and will count towards the research units for your degree.
+</end course description for 10-935 Practicum>

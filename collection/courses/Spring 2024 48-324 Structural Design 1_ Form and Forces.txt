@@ -1,0 +1,16 @@
+<start course metadata for 48-324 Structural Design 1: Form and Forces>
+Semester: Spring 2024 (aka S24)
+Course Name: Structural Design 1: Form and Forces
+Course Number: 48-324
+Department: Architecture
+Number of Units: 6
+Prerequisites: 48-205
+Instructors: Juney Lee
+Rooms: GHC 4307
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-324 Structural Design 1: Form and Forces>
+
+<start course description for 48-324 Structural Design 1: Form and Forces>
+Semester: Spring 2024 (aka S24)
+Course Description: This course introduces fundamental concepts of static equilibrium and stability of structures. In contrast to conventional methods of learning structures that are based on numerical calculation and analysis of stresses in materials, this course explores a new geometric approach to understanding the relationship between form and forces of structures through graphic statics, a graphical method of visualizing, designing and analyzing equilibrium. By using geometry as the common language between architecture and structure, the students will explore new ways of shaping structural form by drawing and manipulating the geometry of forces. Through a series of lab exercises, the students will learn how to construct form and force diagrams used in graphic statics, and learn how the behavior of basic structural systems can be understood through such representations. The lab exercises are complemented by group design projects, where the students have the opportunity to apply the concepts and principles learned in the lab to design and build physical structural models that will be loaded to failure. No prior knowledge is required for this course. Structural Design 1 is the first of three courses of the Structural Design curriculum offered at Carnegie Mellon Architecture.
+</end course description for 48-324 Structural Design 1: Form and Forces>

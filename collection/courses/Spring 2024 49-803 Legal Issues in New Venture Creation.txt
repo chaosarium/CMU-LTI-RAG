@@ -1,0 +1,16 @@
+<start course metadata for 49-803 Legal Issues in New Venture Creation>
+Semester: Spring 2024 (aka S24)
+Course Name: Legal Issues in New Venture Creation
+Course Number: 49-803
+Department: Integrated Innovation Institute
+Number of Units: 6
+Prerequisites: None
+Instructors: Matt Kirmayer
+Rooms: B23 212
+Locations: San Jose, California
+</end course metadata for 49-803 Legal Issues in New Venture Creation>
+
+<start course description for 49-803 Legal Issues in New Venture Creation>
+Semester: Spring 2024 (aka S24)
+Course Description: A critical part of creating a new venture is to provide the legal structure for both compliance and to prepare the venture for future success. For startups the legal profile of the company sets up the framework for growth. The course will cover basic legal requirements of incorporation, and additional options that need to be determined by the founders including equity distribution, board structure, employee stock option vesting, triggers for contingencies such as firing or acquisition and other issues. Another critical legal issue for both startups and established enterprises surrounds protecting intellectual property to immunize the companys strategic advantage as it gains velocity in the global market and encounters competition. Students will learn about various Intellectual Property tools and strategies to protect their product innovations and to understand the competitive marketplace, both in the US and globally. Priority registration will be given to students in the Master of Science in Software Management program.
+</end course description for 49-803 Legal Issues in New Venture Creation>

@@ -1,0 +1,16 @@
+<start course metadata for 88-308 Human and Machine Decisions from Experience>
+Semester: Spring 2024 (aka S24)
+Course Name: Human and Machine Decisions from Experience
+Course Number: 88-308
+Department: Social & Decision Sciences
+Number of Units: 9
+Prerequisites: 36-200 or 88-230 or 36-220 or 36-225 or 88-120 or 36-218 or 70-207
+Instructors: Tyler Malloy
+Rooms: PH A20
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 88-308 Human and Machine Decisions from Experience>
+
+<start course description for 88-308 Human and Machine Decisions from Experience>
+Semester: Spring 2024 (aka S24)
+Course Description: This course investigates the similarities and differences between human and machine cognition in the context of decisions from experience. Students will attain first-hand experience implementing psychological models of human cognition, as well as computational methods that have applications in cognitive science and machine learning. Programming assignments will be completed in the python programming language, previous experience with python is helpful but not required. A final project will afford students the opportunity to propose novel research, design their own learning model, or review and evaluate existing research. Topics include human and machine decision making based on utility, learning from experience, heuristics and biases, applications of cognitive models, cognitive neuroscience, and mathematical theories of decision making.
+</end course description for 88-308 Human and Machine Decisions from Experience>

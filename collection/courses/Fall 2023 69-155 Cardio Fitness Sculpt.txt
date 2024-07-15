@@ -1,0 +1,16 @@
+<start course metadata for 69-155 Cardio Fitness Sculpt>
+Semester: Fall 2023 (aka F23)
+Course Name: Cardio Fitness Sculpt
+Course Number: 69-155
+Department: Physical Education
+Number of Units: 3
+Prerequisites: None
+Instructors: Patricia Stragar
+Rooms: CUC AR 255
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 69-155 Cardio Fitness Sculpt>
+
+<start course description for 69-155 Cardio Fitness Sculpt>
+Semester: Fall 2023 (aka F23)
+Course Description: A total body fitness class for men and women that incorporates stretching for flexibility, exercises for strength and movement to increase cardiovascular improvement.
+</end course description for 69-155 Cardio Fitness Sculpt>

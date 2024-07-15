@@ -1,0 +1,16 @@
+<start course metadata for 94-828 Survey Design>
+Semester: Spring 2024 (aka S24)
+Course Name: Survey Design
+Course Number: 94-828
+Department: Heinz College Wide Courses
+Number of Units: 6
+Prerequisites: None
+Instructors: Michael Bridges
+Rooms: HBH 2008
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 94-828 Survey Design>
+
+<start course description for 94-828 Survey Design>
+Semester: Spring 2024 (aka S24)
+Course Description: When was the last time you were asked to respond to a survey? Customer satisfaction surveys, alumni surveys, consumer product surveys, political surveys, health surveys, & public opinion polls represent just a few of the types of surveys most of us routinely encounter. Moreover, national news organizations & the popular press deliver the results from their latest surveys on a daily basis. To what extent can you trust the results? Are the survey results flawed by inappropriate survey design & methods? This course introduces you to a set of principles & methods in survey design that are the based on the scholarship that informs best practices in the field. We will use the concept of total survey error to frame an understanding of the key issues in survey research, including sampling frames, survey statistics, modes of data collection, non-response, question structure, wording, context & other important features of survey administration & data collection. By developing your own survey, you will examine the major decisions faced by a professional who wants to design & administer high-quality surveys.  The course will focus heavily on class discussion of readings, in-class group work & a survey design project. For this reason, attendance & active participation are important for successful learning in this course. I want to turn you into a Survey Snob. I know this sounds odd, but I want you to become a sophisticated & critical consumer & producer of surveys. To accomplish this, you will need to develop an understanding of the fundamental principles of survey research & design. After this course, I hope that you look at surveys through a new set of eyes. You will be able to distinguish poorly-constructed surveys from well-constructed surveys. You will be able to design & administer surveys that support the social, research, & data collection needs of the organizations & institutions to which you belong.
+</end course description for 94-828 Survey Design>

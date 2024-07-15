@@ -1,0 +1,16 @@
+<start course metadata for 90-902 Ph.D. Seminar II>
+Semester: Spring 2024 (aka S24)
+Course Name: Ph.D. Seminar II
+Course Number: 90-902
+Department: Public Policy & Mgt:Sch of Pub Pol & Mgt
+Number of Units: 12
+Prerequisites: None
+Instructors: Martin Gaynor
+Rooms: HBH 2011
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 90-902 Ph.D. Seminar II>
+
+<start course description for 90-902 Ph.D. Seminar II>
+Semester: Spring 2024 (aka S24)
+Course Description: Students, by now should have picked a broader field in which they plan to write their first paper. The seminar would require students to first discuss some key findings of that field and set the stage for discussing their chosen research question and how they plan to execute it.
+</end course description for 90-902 Ph.D. Seminar II>

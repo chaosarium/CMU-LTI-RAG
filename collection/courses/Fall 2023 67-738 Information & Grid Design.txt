@@ -1,0 +1,16 @@
+<start course metadata for 67-738 Information & Grid Design>
+Semester: Fall 2023 (aka F23)
+Course Name: Information & Grid Design
+Course Number: 67-738
+Department: Information Systems Program
+Number of Units: 9
+Prerequisites: None
+Instructors: Susan Hagan
+Rooms: POS 145
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 67-738 Information & Grid Design>
+
+<start course description for 67-738 Information & Grid Design>
+Semester: Fall 2023 (aka F23)
+Course Description: Whether you create, oversee, or want practice in solving problems through grid systems for websites, responsive applications, slide presentations, or data visualizations, this course provides the skills needed to communicate using the interplay of image, text, and typography in grid environments.
+</end course description for 67-738 Information & Grid Design>

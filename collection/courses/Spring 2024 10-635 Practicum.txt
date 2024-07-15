@@ -1,0 +1,16 @@
+<start course metadata for 10-635 Practicum>
+Semester: Spring 2024 (aka S24)
+Course Name: Practicum
+Course Number: 10-635
+Department: Machine Learning
+Number of Units: N/A
+Prerequisites: None
+Instructors: Nihar Shah
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 10-635 Practicum>
+
+<start course description for 10-635 Practicum>
+Semester: Spring 2024 (aka S24)
+Course Description: This course will enable masters students to conduct research in industry and will count as part of the research requirements toward your degree. You must submit a written summary at the end of the internship.
+</end course description for 10-635 Practicum>

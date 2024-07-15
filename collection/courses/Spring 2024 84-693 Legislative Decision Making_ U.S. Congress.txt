@@ -1,0 +1,16 @@
+<start course metadata for 84-693 Legislative Decision Making: U.S. Congress>
+Semester: Spring 2024 (aka S24)
+Course Name: Legislative Decision Making: U.S. Congress
+Course Number: 84-693
+Department: Institute for Politics and Strategy
+Number of Units: 12
+Prerequisites: None
+Instructors: Geoffrey Mcgovern
+Rooms: PH 226C
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 84-693 Legislative Decision Making: U.S. Congress>
+
+<start course description for 84-693 Legislative Decision Making: U.S. Congress>
+Semester: Spring 2024 (aka S24)
+Course Description: This course analyzes decision-making by the United States Congress. The course examines legislative behavior by focusing on the way Congress is organized (institutional and constitutional structure) and the ways legislators, voters, and various other parties interact (strategic constraints). Students will both learn the legislative process and explore the influence of norms, rules, expectations, incentives and, perhaps most important of all, the power of the electorate in influencing legislative outcomes and policy. Elections, voting decisions, committee assignments, political party power, and intra-branch relations across the Federal government are some of the topics into which we will delve. This course does not require any prior knowledge of the U.S. Congress, and there are no prerequisites for the course.
+</end course description for 84-693 Legislative Decision Making: U.S. Congress>

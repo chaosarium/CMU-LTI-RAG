@@ -1,0 +1,16 @@
+<start course metadata for 39-390 Cit Co-Op>
+Semester: Fall 2023 (aka F23)
+Course Name: Cit Co-Op
+Course Number: 39-390
+Department: CIT Interdisciplinary
+Number of Units: N/A
+Prerequisites: None
+Instructors: Instructor TBA
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 39-390 Cit Co-Op>
+
+<start course description for 39-390 Cit Co-Op>
+Semester: Fall 2023 (aka F23)
+Course Description: The college of engineering at Carnegie Mellon considers experiential learning opportunities important educational options for its undergraduate students. One such option is cooperative education, which provides a student with an extended period of exposure with a company. Therefore projects can be of significant depth in experience. To participate, students must complete a CIT Co-op Approval form (located in Scaife Hall 110) and submit for approval. Students must possess at least junior status and have an overall grade point average of 3.0 or above. All co-ops must be approximately 8 months in uninterrupted length. If the co-op is approved, the CIT Undergraduate Studies Office will add the course to the student's schedule, and the student will be assessed tuition for 0-3 units. Upon completion of the co-op experience, students must submit a 1-2 page report of their work experience, and a 1-2 page evaluation from the company supervisor to the CIT Undergraduate Office. If the reports are approved, a "P" grade will be assigned. International students should also be authorized by the Office ofInternational Education (OIE). More information regarding CPT is available on OIE's website.
+</end course description for 39-390 Cit Co-Op>

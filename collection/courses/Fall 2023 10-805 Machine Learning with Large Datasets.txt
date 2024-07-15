@@ -1,0 +1,16 @@
+<start course metadata for 10-805 Machine Learning with Large Datasets>
+Semester: Fall 2023 (aka F23)
+Course Name: Machine Learning with Large Datasets
+Course Number: 10-805
+Department: Machine Learning
+Number of Units: 12
+Prerequisites: (17-214 or 15-211 or 15-210 or 15-214) and (10-301 or 10-315 or 10-401 or 10-601 or 10-715 or 10-701)
+Instructors: Ameet Talwalkar, Geoffrey Gordon
+Rooms: GHC 4401
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 10-805 Machine Learning with Large Datasets>
+
+<start course description for 10-805 Machine Learning with Large Datasets>
+Semester: Fall 2023 (aka F23)
+Course Description: Large datasets pose difficulties across the machine learning pipeline. They are difficult to visualize and introduce computational, storage, and communication bottlenecks during data preprocessing and model training. Moreover, high capacity models often used in conjunction with large datasets introduce additional computational and storage hurdles during model training and inference.  This course is intended to provide a student with the mathematical, algorithmic, and practical knowledge of issues involving learning with large datasets. Among the topics considered are: data cleaning, visualization, and pre-processing at scale; principles of parallel and distributed computing for machine learning; techniques for scalable deep learning; analysis of programs in terms of memory, computation, and (for parallel methods) communication complexity; and methods for low-latency inference.  The class will include programming and written assignments to provide hands-on experience applying machine learning at scale. An introductory machine learning course (10-301, 10-315, 10-601, 10-701, or 10-715) is a prerequisite. A strong background in programming will also be necessary; suggested prerequisites include 15-210, 15-214, or equivalent. Students are expected to be familiar with Python or learn it during the course.
+</end course description for 10-805 Machine Learning with Large Datasets>

@@ -1,0 +1,16 @@
+<start course metadata for 48-649 Design Leadership>
+Semester: Spring 2024 (aka S24)
+Course Name: Design Leadership
+Course Number: 48-649
+Department: Architecture
+Number of Units: 6
+Prerequisites: None
+Instructors: Matthew Krissel
+Rooms: CFA 206A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-649 Design Leadership>
+
+<start course description for 48-649 Design Leadership>
+Semester: Spring 2024 (aka S24)
+Course Description: This graduate seminar will explore architecture and adjacent creative fields for design leadership models to fuel future-forward speculation. How might we shape leadership and culture in a new design era?
+</end course description for 48-649 Design Leadership>

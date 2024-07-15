@@ -1,0 +1,16 @@
+<start course metadata for 47-770 Strategic Queueing Models>
+Semester: Spring 2024 (aka S24)
+Course Name: Strategic Queueing Models
+Course Number: 47-770
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Mustafa Akan
+Rooms: TEP 5222
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 47-770 Strategic Queueing Models>
+
+<start course description for 47-770 Strategic Queueing Models>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is designed to introduce students to contemporary research topics in Operations Management built on a queueing framework. Queueing theory, the intrinsically dynamic and stochastic study of flow systems, will be used to model how waiting times depend on demand volume and service capacity. The course will cover topics in queueing theory with a focus on higher level decisions (e. g., system design/network planning) and strategic behavior. It will help to assess standard queueing models in an economic environment. This will allow students to study issues such as the quality of service and the pricing of products with different qualities.  The course will acquaint students with a range of models, their analysis and main results. Examples include observable vs. unobservable queues, total system value maximization vs. provider revenue maximization, priorities and their implications, state dependent pricing, incentive-compatibility in queueing systems, time-based competition, and operation of online marketplaces. Moreover, some important applications will be studied via fluid limits and heavy traffic analysis.  Prerequisites: Although there are no formal course requirements, some prior exposure to analytical tools is essential. The course assumes fairly basic knowledge of mathematical tools, including probability and optimization.
+</end course description for 47-770 Strategic Queueing Models>

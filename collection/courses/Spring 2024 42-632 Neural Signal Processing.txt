@@ -1,0 +1,16 @@
+<start course metadata for 42-632 Neural Signal Processing>
+Semester: Spring 2024 (aka S24)
+Course Name: Neural Signal Processing
+Course Number: 42-632
+Department: Biomedical Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Byron Yu
+Rooms: POS A35
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 42-632 Neural Signal Processing>
+
+<start course description for 42-632 Neural Signal Processing>
+Semester: Spring 2024 (aka S24)
+Course Description: The brain is among the most complex systems ever studied. Underlying  the brain's ability to process sensory information and drive motor  actions is a network of roughly 10^11 neurons, each making 10^3  connections with other neurons. Modern statistical and machine  learning tools are needed to interpret the plethora of neural data  being collected, both for (1) furthering our understanding of how the  brain works, and (2) designing biomedical devices that interface with  the brain. This course will cover a range of statistical methods and  their application to neural data analysis. The statistical topics  include latent variable models, dynamical systems, point processes,  dimensionality reduction, Bayesian inference, and spectral analysis.  The neuroscience applications include neural decoding, firing rate  estimation, neural system characterization, sensorimotor control,  spike sorting, and field potential analysis. Prerequisites: 18-290;  36-217, or equivalent introductory probability theory and random  variables course; an introductory linear algebra course; senior or  graduate standing. No prior knowledge of neuroscience is needed.
+</end course description for 42-632 Neural Signal Processing>

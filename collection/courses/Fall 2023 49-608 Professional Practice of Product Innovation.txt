@@ -1,0 +1,16 @@
+<start course metadata for 49-608 Professional Practice of Product Innovation>
+Semester: Fall 2023 (aka F23)
+Course Name: Professional Practice of Product Innovation
+Course Number: 49-608
+Department: Integrated Innovation Institute
+Number of Units: 22
+Prerequisites: 49-600 and 49-601 and 49-602 and 49-603 and 49-604 and 49-605 and 49-606 and 49-607
+Instructors: Jason Smith
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 49-608 Professional Practice of Product Innovation>
+
+<start course description for 49-608 Professional Practice of Product Innovation>
+Semester: Fall 2023 (aka F23)
+Course Description: MIIPS Online Students Only - Professional Practice of Product Innovation   This course focuses on team-­based product development that integrates engineering, business, and design disciplines, focusing not solely on the tasks but also the professionalism that is important for working on future projects in which there would be a client. The course consists of four phases including identifying, understanding, conceptualizing and introducing a product opportunity. Students learn methods to research the needs, wants and desires of a market opportunity, define product specifications, conceptualize products to meet the users' needs and desires and refine the most promising concept. Students will hone their skills of formulating a hypothesis, supporting it with evidence, and logically presenting their conclusions.  The project will result in a resolved form, functional design, and marketing plan. That said, the goal is not only to "build gears" or "write code" or "develop a business plan" but rather for students to develop a deeper understanding how those methods can impact the success of innovation projects, developing their ability to critically assess how theoretical methods and principles impact a practical innovation challenge. The course also emphasizes communication of the project, through multiple presentations and reports.
+</end course description for 49-608 Professional Practice of Product Innovation>

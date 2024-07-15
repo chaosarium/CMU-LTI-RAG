@@ -1,0 +1,16 @@
+<start course metadata for 24-370 Mechanical Design: Methods and Applications>
+Semester: Fall 2023 (aka F23)
+Course Name: Mechanical Design: Methods and Applications
+Course Number: 24-370
+Department: Mechanical Engineering
+Number of Units: 12
+Prerequisites: 24-200 and 24-262
+Instructors: Rahul Panat
+Rooms: DH A302
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-370 Mechanical Design: Methods and Applications>
+
+<start course description for 24-370 Mechanical Design: Methods and Applications>
+Semester: Fall 2023 (aka F23)
+Course Description: This is the third course in a three-semester sequence that integrates the principles of mechanics with hands-on projects that have students apply those principles in a design context. Building on the principles and design methodology introduced in the first two courses, this course consists of a detailed study of typical loading conditions and resulting stresses and deflections in commonly used machine elements, such as shafts, gears, power screws, fasteners, brakes/couplings, flywheels, and bearings, and best practices in their design and application. Machine design against static and dynamic failure will be considered with focus on the effect of material properties, manufacturability, and cost considerations.  Students will also learn the connections between theory and analytical methods, available computational tools, and field design. Learning objectives will be assessed through homework, class exams, and the conduct of the group projects.
+</end course description for 24-370 Mechanical Design: Methods and Applications>

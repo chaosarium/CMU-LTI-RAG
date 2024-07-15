@@ -1,0 +1,16 @@
+<start course metadata for 15-513 Introduction to Computer Systems>
+Semester: Spring 2024 (aka S24)
+Course Name: Introduction to Computer Systems
+Course Number: 15-513
+Department: Computer Science
+Number of Units: N/A
+Prerequisites: None
+Instructors: Brian Railing, David Andersen, Nathan Beckmann
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-513 Introduction to Computer Systems>
+
+<start course description for 15-513 Introduction to Computer Systems>
+Semester: Spring 2024 (aka S24)
+Course Description: This course provides a programmer's view of how computer systems execute programs, store information, and communicate. It enables students to become more effective programmers, especially in dealing with issues of performance, portability and robustness. It also serves as a foundation for courses on compilers, networks, operating systems, and computer architecture, where a deeper understanding of systems-level issues is required. Topics covered include: machine-level code and its generation by optimizing compilers, performance evaluation and optimization, computer arithmetic, memory organization and management, networking technology and protocols, and supporting concurrent computation.
+</end course description for 15-513 Introduction to Computer Systems>

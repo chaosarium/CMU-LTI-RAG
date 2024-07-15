@@ -1,0 +1,16 @@
+<start course metadata for 04-606 Academic Skills for Engineers I>
+Semester: Fall 2023 (aka F23)
+Course Name: Academic Skills for Engineers I
+Course Number: 04-606
+Department: Information & Communication Technology
+Number of Units: 6
+Prerequisites: None
+Instructors: Glen Thompson
+Rooms: CMR F205
+Locations: Kigali, Rwanda
+</end course metadata for 04-606 Academic Skills for Engineers I>
+
+<start course description for 04-606 Academic Skills for Engineers I>
+Semester: Fall 2023 (aka F23)
+Course Description: This course aims to expand students vocabulary and grammar and introduce them to a range of academic skills to support them in their MS programs. The skills will include academic writing, summarizing texts, preparing and delivering presentations, and research and seminar skills.  This course is offered on a pass/no pass basis.
+</end course description for 04-606 Academic Skills for Engineers I>

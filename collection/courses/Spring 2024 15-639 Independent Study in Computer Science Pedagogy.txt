@@ -1,0 +1,16 @@
+<start course metadata for 15-639 Independent Study in Computer Science Pedagogy>
+Semester: Spring 2024 (aka S24)
+Course Name: Independent Study in Computer Science Pedagogy
+Course Number: 15-639
+Department: Computer Science
+Number of Units: N/A
+Prerequisites: None
+Instructors: David Eckhardt, David O'Hallaron
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-639 Independent Study in Computer Science Pedagogy>
+
+<start course description for 15-639 Independent Study in Computer Science Pedagogy>
+Semester: Spring 2024 (aka S24)
+Course Description: This class is for master's students contributing to the development and delivery of a class, e.g., in a co-instructor role or as a preparation for teaching professionally.  Students will be supervised by a faculty member and will participate in graduate teaching support activities sponsored by the Eberly Center for Teaching Excellence and Educational Innovation. You must contact your academic advisor to be enrolled in the class.
+</end course description for 15-639 Independent Study in Computer Science Pedagogy>

@@ -1,0 +1,16 @@
+<start course metadata for 51-323 Communications Studio III: Designing for Complex Communication Systems>
+Semester: Fall 2023 (aka F23)
+Course Name: Communications Studio III: Designing for Complex Communication Systems
+Course Number: 51-323
+Department: Design
+Number of Units: 10
+Prerequisites: 51-225 and 51-228
+Instructors: Kristin Hughes
+Rooms: MM 211
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-323 Communications Studio III: Designing for Complex Communication Systems>
+
+<start course description for 51-323 Communications Studio III: Designing for Complex Communication Systems>
+Semester: Fall 2023 (aka F23)
+Course Description: Gain a greater understanding of how to craft communications that resonate with specific people by researching topics/audiences/contexts, by developing/iterating/testing concepts, and by investigating deeply the nuances of typographic form/image/sequencing of interactions; learn how to craft graphic form to express ideas that are not dependent on the reading of words themselves; continue to develop communication systems
+</end course description for 51-323 Communications Studio III: Designing for Complex Communication Systems>

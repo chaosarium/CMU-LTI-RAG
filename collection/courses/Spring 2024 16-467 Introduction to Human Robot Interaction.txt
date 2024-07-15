@@ -1,0 +1,16 @@
+<start course metadata for 16-467 Introduction to Human Robot Interaction>
+Semester: Spring 2024 (aka S24)
+Course Name: Introduction to Human Robot Interaction
+Course Number: 16-467
+Department: Robotics
+Number of Units: 12
+Prerequisites: None
+Instructors: Henny Admoni
+Rooms: MM A14
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 16-467 Introduction to Human Robot Interaction>
+
+<start course description for 16-467 Introduction to Human Robot Interaction>
+Semester: Spring 2024 (aka S24)
+Course Description: The field of human-robot interaction (HRI) is fast becoming a significant area of research in robotics. The basic objective is to create natural and effective interactions between people and robots. HRI is highly interdisciplinary, bringing together methodologies and techniques from robotics, artificial intelligence, human-computer interaction, psychology, education, and other fields. This course is primarily lecture-based, with in-class participatory mini-projects, homework assignments, a group term project that will enable students to put theory to practice, and a final. The topics covered will include technologies that enable human-robot interactions, the psychology of interaction between people and robots, how to design and conduct HRI studies, and real-world applications such as assistive robots. This course has no prerequisites, but some basic familiarity with robots is recommended (programming knowledge is not necessary, but is useful for the term project).
+</end course description for 16-467 Introduction to Human Robot Interaction>

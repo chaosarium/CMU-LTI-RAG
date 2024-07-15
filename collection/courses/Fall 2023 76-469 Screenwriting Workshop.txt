@@ -1,0 +1,16 @@
+<start course metadata for 76-469 Screenwriting Workshop>
+Semester: Fall 2023 (aka F23)
+Course Name: Screenwriting Workshop
+Course Number: 76-469
+Department: English
+Number of Units: 9
+Prerequisites: 76-269
+Instructors: Melissa Martin
+Rooms: PH 125C
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 76-469 Screenwriting Workshop>
+
+<start course description for 76-469 Screenwriting Workshop>
+Semester: Fall 2023 (aka F23)
+Course Description: This semester will begin with a review of the fundamentals of screenwriting, including character development, scene construction, dialogue, and story structure. Student work will include exercises that encourage writers to take creative risks with genre, tone, character, and structure, one collaborative project, and two short scripts. We will also view mainstream, personal, and experimental narrative films in both American and international cinema.
+</end course description for 76-469 Screenwriting Workshop>

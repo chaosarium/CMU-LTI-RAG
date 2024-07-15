@@ -1,0 +1,16 @@
+<start course metadata for 57-364 Conducting Practicum>
+Semester: Spring 2024 (aka S24)
+Course Name: Conducting Practicum
+Course Number: 57-364
+Department: Music
+Number of Units: 3
+Prerequisites: None
+Instructors: Daniel Curtis
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-364 Conducting Practicum>
+
+<start course description for 57-364 Conducting Practicum>
+Semester: Spring 2024 (aka S24)
+Course Description: This course provides applied conducting experience for the conducting minor and other students by instructor permission.
+</end course description for 57-364 Conducting Practicum>

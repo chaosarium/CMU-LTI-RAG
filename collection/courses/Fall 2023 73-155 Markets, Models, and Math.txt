@@ -1,0 +1,16 @@
+<start course metadata for 73-155 Markets, Models, and Math>
+Semester: Fall 2023 (aka F23)
+Course Name: Markets, Models, and Math
+Course Number: 73-155
+Department: Economics
+Number of Units: 9
+Prerequisites: None
+Instructors: Stephen Spear
+Rooms: TEP 2613
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 73-155 Markets, Models, and Math>
+
+<start course description for 73-155 Markets, Models, and Math>
+Semester: Fall 2023 (aka F23)
+Course Description: The Markets, Models and Math (M3) course is designed to allow students to reflect on the thought processes that drive science, viewed through the lens of economics.  While the economics focus will highlight the way economists use data and models to understand the economic phenomena we see in the real world, the course is also designed to add depth of understanding for students who major in some other discipline, for the simple reason that the things economists study touch on all aspects of human existence, whether it is understanding the cost-benefit trade-offs in architectural design, in the engineering of new products or production technologies, or understanding the grand arc of political discourse in history or the way it has shaped our laws.
+</end course description for 73-155 Markets, Models, and Math>

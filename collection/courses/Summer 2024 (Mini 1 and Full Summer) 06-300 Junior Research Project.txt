@@ -1,0 +1,16 @@
+<start course metadata for 06-300 Junior Research Project>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Junior Research Project
+Course Number: 06-300
+Department: Chemical Engineering
+Number of Units: N/A
+Prerequisites: None
+Instructors: Carl Laird
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 06-300 Junior Research Project>
+
+<start course description for 06-300 Junior Research Project>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: Research projects under the direction of the Chemical Engineering faculty. The nature of the project, the number of units, and the criteria for grading are to be determined between the student and the faculty supervisor. The agreement should then be summarized in a one-page project description for review by the faculty advisor of the student. A final written report or an oral presentation of the results is required.
+</end course description for 06-300 Junior Research Project>

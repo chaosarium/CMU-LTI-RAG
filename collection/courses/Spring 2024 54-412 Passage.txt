@@ -1,0 +1,16 @@
+<start course metadata for 54-412 Passage>
+Semester: Spring 2024 (aka S24)
+Course Name: Passage
+Course Number: 54-412
+Department: Drama
+Number of Units: N/A
+Prerequisites: 54-311 and 54-312
+Instructors: Ausar Stewart, Rick Edinger
+Rooms: PCA A35
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-412 Passage>
+
+<start course description for 54-412 Passage>
+Semester: Spring 2024 (aka S24)
+Course Description: Participation outside of class requirements in departmental productions. Putting into practice the techniques acquired over the years of training and exploring the development of a performance played before the public over two weeks.
+</end course description for 54-412 Passage>

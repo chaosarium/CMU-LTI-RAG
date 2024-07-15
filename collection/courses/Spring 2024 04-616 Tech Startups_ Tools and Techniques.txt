@@ -1,0 +1,16 @@
+<start course metadata for 04-616 Tech Startups: Tools and Techniques>
+Semester: Spring 2024 (aka S24)
+Course Name: Tech Startups: Tools and Techniques
+Course Number: 04-616
+Department: Information & Communication Technology
+Number of Units: 12
+Prerequisites: None
+Instructors: Mark DeSantis
+Rooms: CMU REMOTE
+Locations: Kigali, Rwanda
+</end course metadata for 04-616 Tech Startups: Tools and Techniques>
+
+<start course description for 04-616 Tech Startups: Tools and Techniques>
+Semester: Spring 2024 (aka S24)
+Course Description: The first three years of a technology start-up, when the company's DNA or trajectory is set, are the most critical. Too few entrepreneurs appreciate this fact and, as a result, many start without the essential skills, talents, and capabilities needed to set the company on a successful path. Some of these entrepreneurial skills can only be learned through starting and growing a business while others can be learned.   This course bridges the challenging gap between learning and doing entrepreneurship. We introduce the essential skill of market discovery, or learning to create, develop and evaluate your concept of your business. Is my idea a real innovation? Is it also a business or a product, or neither? How do I know how big the market is for my product? What are the technology market and competitive risks in my idea and how do I assess them? Can I compete? Can I sell it? How? When? Where? Students will have the opportunity to apply their newfound practical skills gathered in part from lectures from experienced entrepreneurs and investors to case studies, role-playing, and solving actual problems of local tech businesses.  The best way to learn entrepreneurship is by doing, so the course will use true-to-life scenarios. The class will be divided into teams and will focus on a company that is either (1) a student idea for a new start-up, (2) an existing start-up (ideally local), or (3) a hypothetical start-up proposed/conceived by the students, the professor, or both.
+</end course description for 04-616 Tech Startups: Tools and Techniques>

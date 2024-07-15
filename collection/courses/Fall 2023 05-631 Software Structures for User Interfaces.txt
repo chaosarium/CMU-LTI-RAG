@@ -1,0 +1,16 @@
+<start course metadata for 05-631 Software Structures for User Interfaces>
+Semester: Fall 2023 (aka F23)
+Course Name: Software Structures for User Interfaces
+Course Number: 05-631
+Department: Human-Computer Interaction
+Number of Units: 12
+Prerequisites: 17-214 or 17-514 or 17-437 or 14-513 or 15-213 or 18-213 or 15-513 or 15-214
+Instructors: Scott Hudson
+Rooms: 4SC 104
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 05-631 Software Structures for User Interfaces>
+
+<start course description for 05-631 Software Structures for User Interfaces>
+Semester: Fall 2023 (aka F23)
+Course Description: This course considers the basic and detailed concepts for building software to implement user interfaces (UIs). It considers factors of input, output, application interface, and related infrastructure as well as the typical patterns used to implement them. It considers how these aspects are organized and managed within a well-structured object oriented system. We will cover a variety of "front-end" programming contexts, including conventional graphical user interface (GUI) programming for mobile apps (phones, watches), web apps, and regular desktop applications, across a variety of frameworks. We will also cover programming for data-driven and conversational (AI) user interfaces. We will briefly touch on front-end programming for visualizations, games, 3D, and virtual and artificial reality (VR and AR), along with interactive UI tools such as prototypers and resource editors. The homeworks and project in this course will involve extensive object-oriented programming, likely in both Java and JavaScript, so this course is only appropriate for students with a strong programming background. Note that this is not an HCI methods course -- we do not cover user-centered design or evaluation methods. This course is designed for students in the SCS HCI undergrad Major, but it also available to any undergrad or graduate student with an interest in the topic and solid prior programming experience who wish to understand the structures needed for professional development of interactive systems. Note that all students who register for this class will initially be placed on a waitlist. Priority for getting into the class are students in the HCII programs (more senior students first), and then others. The graduate (05-631) and undergraduate (05-431) numbers are for the same course with the same work. For more information, please refer to the class website:  https://www.cs.cmu.edu/~bam/uicourse/05631fall2020/
+</end course description for 05-631 Software Structures for User Interfaces>

@@ -1,0 +1,16 @@
+<start course metadata for 19-691 Special Topics: Decision-Making Methods for Innovation Management>
+Semester: Fall 2023 (aka F23)
+Course Name: Special Topics: Decision-Making Methods for Innovation Management
+Course Number: 19-691
+Department: Engineering & Public Policy
+Number of Units: 6
+Prerequisites: 19-689
+Instructors: Robert Wasson
+Rooms: PH A18B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 19-691 Special Topics: Decision-Making Methods for Innovation Management>
+
+<start course description for 19-691 Special Topics: Decision-Making Methods for Innovation Management>
+Semester: Fall 2023 (aka F23)
+Course Description: The course - Finance II for Innovation Management - will have five main elements - all focused around the innovation decision-making process:  Overview of Decision Quality - a framework for judging the quality of decisions that are made.  This discussion will examine the elements of a good decision-making process and the key elements of such a process vs. the elements of poorly structured decision-making processes.  Decision Biases - an examination of the common types of biases that occur in strategic decision-making.  Scoring Models / Analytical Hierarchy Process (AHP) - basic concepts around both for choice of R&D; projects - with a discussion to the limitations to both.  Decision Analysis Concepts - Basic concepts around an appropriate decision-making process using decision analysis that will be incorporated into a rigorous analysis approach and various case studies  Real Options Theory - an advanced decision-making technique that has gained acceptance in industries such as the pharmaceutical industry and the petroleum industry - which will include discussion of real option fundamentals and methods to perform analysis using this method.
+</end course description for 19-691 Special Topics: Decision-Making Methods for Innovation Management>

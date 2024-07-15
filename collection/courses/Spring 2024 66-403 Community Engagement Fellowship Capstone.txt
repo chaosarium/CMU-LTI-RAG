@@ -1,0 +1,16 @@
+<start course metadata for 66-403 Community Engagement Fellowship Capstone>
+Semester: Spring 2024 (aka S24)
+Course Name: Community Engagement Fellowship Capstone
+Course Number: 66-403
+Department: Dietrich College Interdisciplinary
+Number of Units: N/A
+Prerequisites: 66-148 and 66-216 and 66-300
+Instructors: Kimberly Piatt
+Rooms: PH 125B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 66-403 Community Engagement Fellowship Capstone>
+
+<start course description for 66-403 Community Engagement Fellowship Capstone>
+Semester: Spring 2024 (aka S24)
+Course Description: This course serves as the final component of the Dietrich College Community Engagement Fellowship and is designed to engage students in completion of their culminating project. The course will build on students' work in the previous semester in which they identified a community, established an understanding of the community goals and proposed a plan to pursue one of these goals. During the semester, students will implement their capstone project utilizing the knowledge and skills developed during earlier stages of the program. Working with a mentor who is also a community stakeholder, students will implement their project, solicit feedback from the community, evaluate project effectiveness and make appropriate changes. Students will also articulate ways their project can be sustained and present their findings to a variety of audiences.
+</end course description for 66-403 Community Engagement Fellowship Capstone>

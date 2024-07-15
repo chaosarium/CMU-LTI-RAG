@@ -1,0 +1,16 @@
+<start course metadata for 24-452 Mechanical Systems Experimentation>
+Semester: Spring 2024 (aka S24)
+Course Name: Mechanical Systems Experimentation
+Course Number: 24-452
+Department: Mechanical Engineering
+Number of Units: 9
+Prerequisites: 24-352
+Instructors: Burak Ozdoganlar
+Rooms: POS 152
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-452 Mechanical Systems Experimentation>
+
+<start course description for 24-452 Mechanical Systems Experimentation>
+Semester: Spring 2024 (aka S24)
+Course Description: Experimentation in dynamic systems and controls.  The course will cover translational and rotational systems.  Topics will include mechanical elements, natural frequencies, mode shapes, free and forced response, frequency response and Bode plots, time constants, transient response specifications, feedback controls such as PID control, and stability for single-degree-of-freedom and multi-degree-freedom systems.  The course will introduce and use state-of-the-art experimentation hardware and software.
+</end course description for 24-452 Mechanical Systems Experimentation>

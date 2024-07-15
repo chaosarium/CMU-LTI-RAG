@@ -1,0 +1,16 @@
+<start course metadata for 80-280 Linguistic Analysis>
+Semester: Spring 2024 (aka S24)
+Course Name: Linguistic Analysis
+Course Number: 80-280
+Department: Philosophy
+Number of Units: 9
+Prerequisites: 80-180
+Instructors: Tom Werner
+Rooms: PH 125B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 80-280 Linguistic Analysis>
+
+<start course description for 80-280 Linguistic Analysis>
+Semester: Spring 2024 (aka S24)
+Course Description: How do physical events (sounds) or physical objects (marks on paper) create or transmit meaning? Linguistic values are assigned to sounds and marks, based on specific physical features, creating phonemes and graphemes. Juxtapositions of phonemes and graphemes create morphemes, minimal units that hold meaning, with syntax arranging morphemes into sentences, minimal units of information. Further structural changes change the mood of a sentence and give it new function - as a request for information, demand for action, presentation of alternatives, and so on. The goal of this course is to investigate the structure of basic sentences and then the changes to structure by which communicative function is realized. Building on material taught in Nature of Language, this course looks in detail at the syntax of human languages, taking into account cross-linguistic variety.
+</end course description for 80-280 Linguistic Analysis>

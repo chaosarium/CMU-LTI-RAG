@@ -1,0 +1,16 @@
+<start course metadata for 12-401 CEE Design: Imagine, Build, Test>
+Semester: Fall 2023 (aka F23)
+Course Name: CEE Design: Imagine, Build, Test
+Course Number: 12-401
+Department: Civil & Environmental Engineering
+Number of Units: 12
+Prerequisites: 12-301
+Instructors: Fethiye Ozis, Sarah Christian
+Rooms: PH 107E
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 12-401 CEE Design: Imagine, Build, Test>
+
+<start course description for 12-401 CEE Design: Imagine, Build, Test>
+Semester: Fall 2023 (aka F23)
+Course Description: This capstone design experience integrates knowledge and experience from technical and professional skills acquired in the CEE project course sequence. Students apply the design process and knowledge from the core curriculum to design engineering solutions to real engineering problems. Students work in teams in a pre-professional environment to meet the challenges with which they are presented. Oral, written, and graphic communications both within teams and to an external audience are essential to successful completion of the projects.  Students manage the design-build process as they work on a semester-long project in this capstone design course. Student teams define the engineering problem, imagine and evaluate potential solutions, execute the engineering design, and build the project. The project is then tested against the established requirements and criteria.
+</end course description for 12-401 CEE Design: Imagine, Build, Test>

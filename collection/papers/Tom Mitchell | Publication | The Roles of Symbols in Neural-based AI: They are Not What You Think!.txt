@@ -1,0 +1,4 @@
+publication venue: International Workshop on Neural-Symbolic Learning and Reasoning
+title: The Roles of Symbols in Neural-based AI: They are Not What You Think!
+year: 2023
+authors: D. Silver, Tom M. Mitchell

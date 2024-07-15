@@ -1,0 +1,16 @@
+<start course metadata for 47-721 Seminar in Finance I (Finance Theory)>
+Semester: Spring 2024 (aka S24)
+Course Name: Seminar in Finance I (Finance Theory)
+Course Number: 47-721
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Bryan Routledge
+Rooms: TEP 5219
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 47-721 Seminar in Finance I (Finance Theory)>
+
+<start course description for 47-721 Seminar in Finance I (Finance Theory)>
+Semester: Spring 2024 (aka S24)
+Course Description: Finance is the allocation of resources across states and time.  We will start with allocation across states - that is a static, single period model.  Allocation of resources across states is "risk."   What is it?  We look at arbitrage and its implications, preferences over risky outcomes, portfolio choice, and equilibrium.  Surprisingly (or not) all these topics are tightly related.  Next up we look at the dynamic models.  The topics are the same.  We now just incorporate the new dimension of time along with states.  Here we look at dynamic arbitrage, dynamic preferences, and dynamic portfolio choice.  Lastly we look at equilibrium asset returns.  Here we explore some of the classic issues in finance about the dynamics of equity returns (the equity premium, for example).
+</end course description for 47-721 Seminar in Finance I (Finance Theory)>

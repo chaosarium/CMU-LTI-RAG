@@ -1,0 +1,16 @@
+<start course metadata for 85-293 Student Teaching Practicum>
+Semester: Spring 2024 (aka S24)
+Course Name: Student Teaching Practicum
+Course Number: 85-293
+Department: Psychology
+Number of Units: 1
+Prerequisites: None
+Instructors: Kody Manke-Miller
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 85-293 Student Teaching Practicum>
+
+<start course description for 85-293 Student Teaching Practicum>
+Semester: Spring 2024 (aka S24)
+Course Description: The Student Teaching Practicum will prepare students to serve as teaching assistants in the department of psychology. As a TA, you are an important part of the learning experience for your fellow students. Accordingly, this course will focus on how to facilitate a productive learning environment in lectures, recitations, and office hours. The course will consist of a mixture of workshops on general teaching topics, as well as regular discussions and check-ins about the current courses you are TAing. Topics will include best practices in pedagogy, leading effective discussions, grading and providing feedback, classroom management, dealing with sensitive topics, etc.
+</end course description for 85-293 Student Teaching Practicum>

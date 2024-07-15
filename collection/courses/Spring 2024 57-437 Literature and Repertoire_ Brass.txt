@@ -1,0 +1,16 @@
+<start course metadata for 57-437 Literature and Repertoire: Brass>
+Semester: Spring 2024 (aka S24)
+Course Name: Literature and Repertoire: Brass
+Course Number: 57-437
+Department: Music
+Number of Units: N/A
+Prerequisites: None
+Instructors: Alberto Almarza, Andrew Wickesberg, Angela Park, Christopher Wu, Craig Knox, Frederic Chiu, George Vosburgh, Gretchen Van Hoesen, Hiram Diaz, James Gorton, James Houlik, Jeremy Branson, Katherine Shields, Neal Berntsen, Paul Evans, Peter Guild, Peter Sullivan, Sergey Schepkin, William Caballero
+Rooms: CFA A1; CFA ACH; CFA KRESGE; DNM DNM; MM 119
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-437 Literature and Repertoire: Brass>
+
+<start course description for 57-437 Literature and Repertoire: Brass>
+Semester: Spring 2024 (aka S24)
+Course Description: This course deals with literature and repertoire for orchestral instruments.  There are multiple sections organized by instrument categories or specific instruments.
+</end course description for 57-437 Literature and Repertoire: Brass>

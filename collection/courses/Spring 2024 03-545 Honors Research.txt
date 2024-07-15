@@ -1,0 +1,16 @@
+<start course metadata for 03-545 Honors Research>
+Semester: Spring 2024 (aka S24)
+Course Name: Honors Research
+Course Number: 03-545
+Department: Biological Sciences
+Number of Units: 9
+Prerequisites: 03-445
+Instructors: Amanda Willard, Ihab Younis
+Rooms: DNM DNM
+Locations: Doha, Qatar; Pittsburgh, Pennsylvania
+</end course metadata for 03-545 Honors Research>
+
+<start course description for 03-545 Honors Research>
+Semester: Spring 2024 (aka S24)
+Course Description: This semester of research consists primarily of research and preparation of an acceptable written thesis. Oral presentation and defense of the thesis research will be required. This course ordinarily will be taken in the second semester of the senior year. Permission of the research advisor required. **Students MUST contact bio-ungrad@andrew.cmu.edu and complete the application form in order to participate & register.**
+</end course description for 03-545 Honors Research>

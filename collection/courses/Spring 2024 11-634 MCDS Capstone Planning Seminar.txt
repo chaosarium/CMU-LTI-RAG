@@ -1,0 +1,16 @@
+<start course metadata for 11-634 MCDS Capstone Planning Seminar>
+Semester: Spring 2024 (aka S24)
+Course Name: MCDS Capstone Planning Seminar
+Course Number: 11-634
+Department: Language Technologies Institute
+Number of Units: 12
+Prerequisites: None
+Instructors: Eric Nyberg
+Rooms: SH 236
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 11-634 MCDS Capstone Planning Seminar>
+
+<start course description for 11-634 MCDS Capstone Planning Seminar>
+Semester: Spring 2024 (aka S24)
+Course Description: This course (open to MCDS students only) is a project based course where students exercise course work in a team based project. The course covers project management, a vision statement, requirements analysis, software architecture, functional specification, and an implementation of a prototype or scientific experiment. In addition, presentation skills are emphasized with multiple presentations throughout the semester.
+</end course description for 11-634 MCDS Capstone Planning Seminar>

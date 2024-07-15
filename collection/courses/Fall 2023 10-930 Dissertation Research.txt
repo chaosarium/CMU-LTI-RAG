@@ -1,0 +1,16 @@
+<start course metadata for 10-930 Dissertation Research>
+Semester: Fall 2023 (aka F23)
+Course Name: Dissertation Research
+Course Number: 10-930
+Department: Machine Learning
+Number of Units: N/A
+Prerequisites: None
+Instructors: Tom Mitchell
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 10-930 Dissertation Research>
+
+<start course description for 10-930 Dissertation Research>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is for graduate students to work on their dissertation research after they have proposed their thesis topic.
+</end course description for 10-930 Dissertation Research>

@@ -1,0 +1,16 @@
+<start course metadata for 57-223 German Diction>
+Semester: Fall 2023 (aka F23)
+Course Name: German Diction
+Course Number: 57-223
+Department: Music
+Number of Units: 3
+Prerequisites: None
+Instructors: Alexandra Gruber
+Rooms: CFA M160
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-223 German Diction>
+
+<start course description for 57-223 German Diction>
+Semester: Fall 2023 (aka F23)
+Course Description: In-depth study of German diction - development of legato vocal style in German through the analysis of grammatical usage, word construction, vowel colorization and consonant articulation. Included are in-class German diction evaluations, peer assessment, and emphasis on competency in using the International Phonetic Alphabet.
+</end course description for 57-223 German Diction>

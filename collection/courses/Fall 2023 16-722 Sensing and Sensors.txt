@@ -1,0 +1,16 @@
+<start course metadata for 16-722 Sensing and Sensors>
+Semester: Fall 2023 (aka F23)
+Course Name: Sensing and Sensors
+Course Number: 16-722
+Department: Robotics
+Number of Units: 12
+Prerequisites: None
+Instructors: Cameron Riviere
+Rooms: NSH 3002
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 16-722 Sensing and Sensors>
+
+<start course description for 16-722 Sensing and Sensors>
+Semester: Fall 2023 (aka F23)
+Course Description: The principles and practices of quantitative perception (sensing) illustrated by the devices and algorithms (sensors) that implement them.  Learn to critically examine the sensing requirements of robotics applications, to specify the required sensor characteristics, to analyze whether these specifications can be realized even in principle, to compare what can be realized in principle to what can actually be purchased or built, to understand the engineering factors that account for the discrepancies, and to design transducing, digitizing, and computing systems that come tolerably close to realizing the actual capabilities of available sensors.   Grading will be based on homework assignments, class participation, and a final exam.  Three or four of the homework assignments will be hands-on "take-home labs" done with an Arduino kit that students will purchase in lieu of purchasing a textbook.  Top-level course modules will cover (1) sensors, signals, and measurement science, (2) origins, nature, and amelioration of noise, (3) end-to-end sensing systems, (4) cameras and other imaging sensors and systems, (5) range sensing and imaging, (6) navigation sensors and systems, (7) other topics of interest to the class (as time allows).
+</end course description for 16-722 Sensing and Sensors>

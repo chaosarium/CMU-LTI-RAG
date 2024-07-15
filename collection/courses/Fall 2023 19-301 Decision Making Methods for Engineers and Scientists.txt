@@ -1,0 +1,16 @@
+<start course metadata for 19-301 Decision Making Methods for Engineers and Scientists>
+Semester: Fall 2023 (aka F23)
+Course Name: Decision Making Methods for Engineers and Scientists
+Course Number: 19-301
+Department: Engineering & Public Policy
+Number of Units: 9
+Prerequisites: 36-217 or 36-220 or 36-219 or 19-250
+Instructors: Paulina Jaramillo
+Rooms: BH 237B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 19-301 Decision Making Methods for Engineers and Scientists>
+
+<start course description for 19-301 Decision Making Methods for Engineers and Scientists>
+Semester: Fall 2023 (aka F23)
+Course Description: This course covers various economic, statistical, and decision analysis techniques used for examining complex decisions where technology, society, and policy interconnect. Topics covered include: estimation techniques, benefit-cost analysis, decision trees, dealing with uncertainty, risk perception and analysis, survey design and implementation, utility theory, heuristics and biases in inference and prediction, methods for combining information from different sources and dealing with conflicting objectives.
+</end course description for 19-301 Decision Making Methods for Engineers and Scientists>

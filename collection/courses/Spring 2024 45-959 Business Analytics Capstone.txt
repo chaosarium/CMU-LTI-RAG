@@ -1,0 +1,16 @@
+<start course metadata for 45-959 Business Analytics Capstone>
+Semester: Spring 2024 (aka S24)
+Course Name: Business Analytics Capstone
+Course Number: 45-959
+Department: Business Administration
+Number of Units: 12
+Prerequisites: None
+Instructors: Andrew Li
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-959 Business Analytics Capstone>
+
+<start course description for 45-959 Business Analytics Capstone>
+Semester: Spring 2024 (aka S24)
+Course Description: tba
+</end course description for 45-959 Business Analytics Capstone>

@@ -1,0 +1,16 @@
+<start course metadata for 18-453 Introduction to XR Systems>
+Semester: Fall 2023 (aka F23)
+Course Name: Introduction to XR Systems
+Course Number: 18-453
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: 18-290 or 18-213
+Instructors: Anthony Rowe, Aswin Sankaranarayanan
+Rooms: GHC 4215; WEH 5409
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-453 Introduction to XR Systems>
+
+<start course description for 18-453 Introduction to XR Systems>
+Semester: Fall 2023 (aka F23)
+Course Description: Digitization of reality is at the cusp of widespread adoption; it also embodies a unique convergence of techniques that span the gamut of electrical and computer engineering. This course introduces students to augmented/virtual/mixed reality systems, or what is broadly referred to as extended reality (XR). The course covers hardware and software topics central to XR systems, namely, content capture, streaming, and display, looking at both commercial and research- grade systems. A course project will allow students to experience and innovate in this space.
+</end course description for 18-453 Introduction to XR Systems>

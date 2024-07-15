@@ -1,0 +1,16 @@
+<start course metadata for 54-302 Greeks>
+Semester: Spring 2024 (aka S24)
+Course Name: Greeks
+Course Number: 54-302
+Department: Drama
+Number of Units: 5
+Prerequisites: 54-301
+Instructors: Anthony McKay, Ausar Stewart, Kyle Haden
+Rooms: PCA 314; PCA 318; PCA 321
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-302 Greeks>
+
+<start course description for 54-302 Greeks>
+Semester: Spring 2024 (aka S24)
+Course Description: This is a two-semester course in Acting for Third-Year Actors & MTs who will explore performance within directed structure in various non-Fourth-Wall forms of Theatre including:  Greek Tragedy.  This is not a course that will aspire to provide any "correct" way to play various "styles".  Rather, it is a course in which to acquire new tools & perspectives when working in new theatrical worlds.  Goals include:  to find the appropriate level of external expression to meet the demands of the particular text & its directed world, & to "fill the Form" believably & passionately; to make active choices within a directed framework; to learn to work within industry standards; to learn the nature of the actor's "homework" in a directed framework; to include the Audience in the work.
+</end course description for 54-302 Greeks>

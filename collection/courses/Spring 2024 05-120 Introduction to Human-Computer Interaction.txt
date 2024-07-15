@@ -1,0 +1,16 @@
+<start course metadata for 05-120 Introduction to Human-Computer Interaction>
+Semester: Spring 2024 (aka S24)
+Course Name: Introduction to Human-Computer Interaction
+Course Number: 05-120
+Department: Human-Computer Interaction
+Number of Units: 5
+Prerequisites: None
+Instructors: Amy Ogan
+Rooms: WEH 5320
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 05-120 Introduction to Human-Computer Interaction>
+
+<start course description for 05-120 Introduction to Human-Computer Interaction>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is only for freshman SCS students that are interested in learning more about HCI.
+</end course description for 05-120 Introduction to Human-Computer Interaction>

@@ -1,0 +1,16 @@
+<start course metadata for 85-510 Research in Psychology - Mini>
+Semester: Spring 2024 (aka S24)
+Course Name: Research in Psychology - Mini
+Course Number: 85-510
+Department: Psychology
+Number of Units: N/A
+Prerequisites: None
+Instructors: Chante Cox-Boyd
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 85-510 Research in Psychology - Mini>
+
+<start course description for 85-510 Research in Psychology - Mini>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is a mini for research in psychology
+</end course description for 85-510 Research in Psychology - Mini>

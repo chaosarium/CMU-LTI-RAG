@@ -1,0 +1,16 @@
+<start course metadata for 02-261 Quantitative Cell and Molecular Biology Laboratory>
+Semester: Spring 2024 (aka S24)
+Course Name: Quantitative Cell and Molecular Biology Laboratory
+Course Number: 02-261
+Department: Computational Biology
+Number of Units: N/A
+Prerequisites: 15-112 or 02-201
+Instructors: Joshua Kangas
+Rooms: GHC 4215
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 02-261 Quantitative Cell and Molecular Biology Laboratory>
+
+<start course description for 02-261 Quantitative Cell and Molecular Biology Laboratory>
+Semester: Spring 2024 (aka S24)
+Course Description: This is an introductory laboratory-based course designed to teach basic biological laboratory skills used in exploring the quantitative nature of biological systems and the reasoning required for performing research in computational biology. Over the course of the semester, students will design and perform multiple modern experiments and quantitatively analyze the results of these experiments. During this course students will also have an opportunity to use techniques learned during the course to experimentally answer an open question.  Designing the experiments will require students to think critically about the biological context of the experiments as well as the necessary controls to ensure interpretable experimental results.  During this course students will gain experience in many aspects of scientific research, including: sequencing DNA, designing and performing PCR for a variety of analyses, maintaining cell cultures, taking brightfield and fluorescent microscopy images, developing methods for automated analysis of cell images, communicating results to peers and colleagues. Course Outline: (1) 3-hour lab per week, (1) 1-hour lecture per week.
+</end course description for 02-261 Quantitative Cell and Molecular Biology Laboratory>

@@ -1,0 +1,16 @@
+<start course metadata for 42-655 Biostatistics>
+Semester: Spring 2024 (aka S24)
+Course Name: Biostatistics
+Course Number: 42-655
+Department: Biomedical Engineering
+Number of Units: 9
+Prerequisites: None
+Instructors: Patjanaporn Chalacheva
+Rooms: HH B131
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 42-655 Biostatistics>
+
+<start course description for 42-655 Biostatistics>
+Semester: Spring 2024 (aka S24)
+Course Description: This course introduces statistical methods for making inferences in engineering, biology and medicine. Students will learn how to select the most appropriate methods, how to apply these methods to actual data, and how to read and interpret computer output from a commonly used statistical package. The topics covered are descriptive statistics; elementary probability; discrete and continuous random variables and their distributions; hypothesis testing involving interval (continuous and discrete) and categorical (nominal and ordinal) variables, for two and three or more treatments; simple and multiple linear regression; time-series analysis; clustering and classification; and time-to-event (survival) analysis. Students will also learn how to write the statistical component of a "Results" section for a scientific paper and learn about the limitations of the statistical analyses.  Basic familiarity with probability and probability distribution preferred but not required.
+</end course description for 42-655 Biostatistics>

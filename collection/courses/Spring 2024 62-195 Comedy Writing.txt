@@ -1,0 +1,16 @@
+<start course metadata for 62-195 Comedy Writing>
+Semester: Spring 2024 (aka S24)
+Course Name: Comedy Writing
+Course Number: 62-195
+Department: CFA Interdisciplinary
+Number of Units: 9
+Prerequisites: None
+Instructors: Christiane Swenson, Jamie Olah
+Rooms: PCA 103; PH A20
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 62-195 Comedy Writing>
+
+<start course description for 62-195 Comedy Writing>
+Semester: Spring 2024 (aka S24)
+Course Description: This writing workshop welcomes creators of all disciplines to explore the craft of comedy. Together, we'll investigate what makes something funny and why. You will complete readings, activities and short writing assignments on types of laughter, jokes, sketches, and comedic stories. Then, you'll apply your learning by pitching, outlining and presenting a final comedic writing project in the form of your choosing. The course will emphasize sharing work that was written outside of class, giving and receiving constructive feedback, and editing your material based on classmates' responses. The course is designed to benefit students who are interested in learning about the mechanics of comedy, challenging themselves as creative writers, and growing in community with other creators.
+</end course description for 62-195 Comedy Writing>

@@ -1,0 +1,16 @@
+<start course metadata for 18-580 Undergraduate Projects>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Undergraduate Projects
+Course Number: 18-580
+Department: Electrical & Computer Engineering
+Number of Units: N/A
+Prerequisites: None
+Instructors: James Bain
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-580 Undergraduate Projects>
+
+<start course description for 18-580 Undergraduate Projects>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: The Department of Electrical and Computer Engineering at Carnegie Mellon   considers experiential learning opportunities to be important educational options for its undergraduate students. One such option is conducting   undergraduate research with a faculty member. Students do not need to   officially register for undergraduate research unless they want it listed on their official transcripts. An ECE student who is involved in a research project and is interested in registering this undergraduate research for course credit on the official transcript may request to be enrolled in this course. To do this, the student should first complete the online undergraduate research form available on the ECE undergraduate student page. Once the form has been submitted and approved by the faculty member with whom the student is conducting the research, the ECE Undergraduate Office will add the course to the student's schedule. Typically, credit is granted according to one hour of research per week is equal to one unit of credit.
+</end course description for 18-580 Undergraduate Projects>

@@ -1,0 +1,16 @@
+<start course metadata for 09-225 Climate Change: Chemistry, Physics and Planetary Science>
+Semester: Fall 2023 (aka F23)
+Course Name: Climate Change: Chemistry, Physics and Planetary Science
+Course Number: 09-225
+Department: Chemistry
+Number of Units: 9
+Prerequisites: (09-105 or 09-107) and (33-121 or 33-141 or 33-151)
+Instructors: Neil Donahue
+Rooms: POS 147
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 09-225 Climate Change: Chemistry, Physics and Planetary Science>
+
+<start course description for 09-225 Climate Change: Chemistry, Physics and Planetary Science>
+Semester: Fall 2023 (aka F23)
+Course Description: Understanding the essential features of climate and climate change is a critical tool for modern citizens and modern scientists.  In addition, the prevalence of climate skepticism in modern political discourse requires of citizens that they be able to think critically about a technical subject and also be able to distinguish reliable scientific experts from advocates.  In this course we shall examine the climate of terrestrial planets (specifically Earth and Venus) through geological time and to the present, considering geochemical methods used to determine atmospheric composition over Earths history (specifically the onset of oxygen in the atmosphere as well as the relationship between carbon dioxide and global temperature over geological timescales.  The shorter climate history of Venus will be considered as a counter example, where the brightening dim young sun overwhelmed negative feedbacks in the weathering cycle, leading to a runaway greenhouse amplified by complete evaporation of the onetime Venus ocean.  Throughout the course, we will consider climate change driven by human activity since the industrial revolution as a unifying theme.
+</end course description for 09-225 Climate Change: Chemistry, Physics and Planetary Science>

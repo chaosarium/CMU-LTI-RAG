@@ -1,0 +1,16 @@
+<start course metadata for 21-300 Basic Logic>
+Semester: Fall 2023 (aka F23)
+Course Name: Basic Logic
+Course Number: 21-300
+Department: Mathematical Sciences
+Number of Units: 9
+Prerequisites: 15-251 or 21-228 or 21-373
+Instructors: James Cummings
+Rooms: WEH 8220
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-300 Basic Logic>
+
+<start course description for 21-300 Basic Logic>
+Semester: Fall 2023 (aka F23)
+Course Description: Propositional and predicate logic: Syntax, proof theory and semantics up to completeness theorem, Lowenheim Skolem theorems, and applications of the compactness theorem.  (Three 50 minute lectures)
+</end course description for 21-300 Basic Logic>

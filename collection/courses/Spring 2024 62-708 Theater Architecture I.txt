@@ -1,0 +1,16 @@
+<start course metadata for 62-708 Theater Architecture I>
+Semester: Spring 2024 (aka S24)
+Course Name: Theater Architecture I
+Course Number: 62-708
+Department: CFA Interdisciplinary
+Number of Units: N/A
+Prerequisites: None
+Instructors: Dick Block, Hal Hayes
+Rooms: MM 321
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 62-708 Theater Architecture I>
+
+<start course description for 62-708 Theater Architecture I>
+Semester: Spring 2024 (aka S24)
+Course Description: Discover the critical elements of theater architecture design, typology & occupancy through this course's four instructional streams;   Lecture/work sessions presented and facilitated by practicing professionals and experts from within the schools  Programming & planning a major theater, paralleling a real project.  Interaction with professional design teams specializing on theater projects.  Experience & evaluate performances and venue design of diverse theaters and other performance spaces. A diverse student cohort drawn from Architecture, Drama & Arts Management students will work with the actual client, the Festival d'Avignon, and Theater consultants Jean Guy Lecat & Len Auerbach to plan and program the project design challenge, which will be the subject of the co- requisite Architecture studio (48:405/505/750). Inter-disciplinary collaboration between the Architecture, Arts Management & Drama students on research, analysis and design exercises is emphasized, with in-class work sessions and brief sketch problems, individual and group work. Subject areas will include a full range of topics that are integral to the creation, support and occupancy of a performance, including;  Theater design from classical Greek through Elizabethan theater to contemporary state-of-the-art multi-media performance.  Theater occupancy, programming & planning  Theater systems; lighting, sound, rigging, etc.  Performance/spatial interaction & critical evaluation  Site-specific design opportunities & challenges
+</end course description for 62-708 Theater Architecture I>

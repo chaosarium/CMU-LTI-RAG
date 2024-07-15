@@ -1,0 +1,16 @@
+<start course metadata for 15-621 ST: Developing Blockchain Use Cases>
+Semester: Spring 2024 (aka S24)
+Course Name: ST: Developing Blockchain Use Cases
+Course Number: 15-621
+Department: Computer Science
+Number of Units: 6
+Prerequisites: None
+Instructors: Ariel Zetlin-Jones, Michael Mccarthy, Runting Shi
+Rooms: TEP 3801
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-621 ST: Developing Blockchain Use Cases>
+
+<start course description for 15-621 ST: Developing Blockchain Use Cases>
+Semester: Spring 2024 (aka S24)
+Course Description: While the course will not be overly technical on any specific dimension, it will be hands on and you will need to be creative. Therefore, while there are no formal prerequisites, we expect students to have a background in economics, cryptography, or computer science and all students should have some basic comfortability with programming. We will do our best to create groups that feature a mix of existing knowledge. The overall goal is to deliver enough knowledge about the potential and capabilities of blockchain technologies to enable students interested in this space to develop their own uses cases or applications.
+</end course description for 15-621 ST: Developing Blockchain Use Cases>

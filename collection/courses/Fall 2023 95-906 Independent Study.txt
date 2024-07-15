@@ -1,0 +1,16 @@
+<start course metadata for 95-906 Independent Study>
+Semester: Fall 2023 (aka F23)
+Course Name: Independent Study
+Course Number: 95-906
+Department: Information Systems:Sch of IS & Mgt
+Number of Units: 6
+Prerequisites: None
+Instructors: Andrew Wasser, Sunder Kekre
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 95-906 Independent Study>
+
+<start course description for 95-906 Independent Study>
+Semester: Fall 2023 (aka F23)
+Course Description: None
+</end course description for 95-906 Independent Study>

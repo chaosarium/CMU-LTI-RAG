@@ -1,0 +1,16 @@
+<start course metadata for 27-709 Biomaterials>
+Semester: Spring 2024 (aka S24)
+Course Name: Biomaterials
+Course Number: 27-709
+Department: Materials Science & Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Rosalyn Abbott
+Rooms: WEH 5403
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 27-709 Biomaterials>
+
+<start course description for 27-709 Biomaterials>
+Semester: Spring 2024 (aka S24)
+Course Description: This course will cover structure-processing-property relationships in biomaterials for use in medicine. This course will focus on a variety of materials including natural biopolymers, synthetic polymers, and soft materials with additional treatment of metals and ceramics. Topics include considerations in molecular design of biomaterials, understanding cellular aspects of tissue-biomaterials interactions, and the application of bulk and surface properties in the design of medical devices. This course will discuss practical applications of these materials in drug delivery, tissue engineering, biosensors, and other biomedical technologies. Pre-req: formal coursework in thermodynamics, kinetics, or physical chemistry.
+</end course description for 27-709 Biomaterials>

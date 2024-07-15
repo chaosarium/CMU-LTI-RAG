@@ -1,0 +1,16 @@
+<start course metadata for 54-414 Showcase>
+Semester: Spring 2024 (aka S24)
+Course Name: Showcase
+Course Number: 54-414
+Department: Drama
+Number of Units: 9
+Prerequisites: 54-301 and 54-302
+Instructors: Lisa Velten-Smith
+Rooms: PCA 115; PCA A35
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-414 Showcase>
+
+<start course description for 54-414 Showcase>
+Semester: Spring 2024 (aka S24)
+Course Description: Senior acting class for actors and Mt's who are in good standing and in position to graduate in the Spring. Preparation for the New York and Los Angeles Showcase presentations.
+</end course description for 54-414 Showcase>

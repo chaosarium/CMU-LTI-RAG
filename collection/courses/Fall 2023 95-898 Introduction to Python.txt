@@ -1,0 +1,16 @@
+<start course metadata for 95-898 Introduction to Python>
+Semester: Fall 2023 (aka F23)
+Course Name: Introduction to Python
+Course Number: 95-898
+Department: Information Systems:Sch of IS & Mgt
+Number of Units: 6
+Prerequisites: None
+Instructors: John Ostlund
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 95-898 Introduction to Python>
+
+<start course description for 95-898 Introduction to Python>
+Semester: Fall 2023 (aka F23)
+Course Description: Python is a powerful, versatile cross-platform programming language that has a strong presence in diverse software engineering disciplines including web development, information security, network scripting, data science, and embedded systems. While Python itself may be a deceptively simple language, the vast array of frameworks and tools available for use across a variety of specialized fields make it a formidable tool in the arsenal of any technologist with areas of focus from Machine Learning to Cybersecurity.  This course will provide a pragmatic and hands-on introduction to the Python programming language, with a focus on practical applications and projects, rather than theoretical topics. Students will design and build software to solve problems from various disciplines each week using Python. As the course progresses, students will learn to work with packages, data structures, object-oriented programming, and tools for data science and cybersecurity.
+</end course description for 95-898 Introduction to Python>

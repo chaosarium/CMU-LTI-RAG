@@ -1,0 +1,16 @@
+<start course metadata for 57-296 Keyboard Studies Lab>
+Semester: Spring 2024 (aka S24)
+Course Name: Keyboard Studies Lab
+Course Number: 57-296
+Department: Music
+Number of Units: 3
+Prerequisites: 57-295
+Instructors: Carla Larocca
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-296 Keyboard Studies Lab>
+
+<start course description for 57-296 Keyboard Studies Lab>
+Semester: Spring 2024 (aka S24)
+Course Description: No course description provided.
+</end course description for 57-296 Keyboard Studies Lab>

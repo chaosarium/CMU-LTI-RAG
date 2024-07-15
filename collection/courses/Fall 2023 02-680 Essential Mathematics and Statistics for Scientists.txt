@@ -1,0 +1,16 @@
+<start course metadata for 02-680 Essential Mathematics and Statistics for Scientists>
+Semester: Fall 2023 (aka F23)
+Course Name: Essential Mathematics and Statistics for Scientists
+Course Number: 02-680
+Department: Computational Biology
+Number of Units: 9
+Prerequisites: None
+Instructors: Dan DeBlasio, Jose Lugo-Martinez
+Rooms: POS 153
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 02-680 Essential Mathematics and Statistics for Scientists>
+
+<start course description for 02-680 Essential Mathematics and Statistics for Scientists>
+Semester: Fall 2023 (aka F23)
+Course Description: This course rigorously introduces fundamental topics in mathematics and statistics to first-year master's students as preparation for more advanced computational coursework. Topics are sampled from information theory, graph theory, proof techniques, phylogenetics, combinatorics, set theory, linear algebra, neural networks, probability distributions and densities, multivariate probability distributions, maximum likelihood estimation, statistical inference, hypothesis testing, Bayesian inference, and stochastic processes.  Students completing this course will obtain a broad skillset of mathematical techniques and statistical inference as well as a deep understanding of mathematical proof. They will have the quantitative foundation to immediately step into an introductory master's level machine learning or automation course. This background will also serve students well in advanced courses that apply concepts in machine learning to scientific datasets, such as 02-710 (Computational Genomics) or 02-750 (Automation of Biological Research). The course grade will be computed as the result of homework assignments, midterm tests, and class participation.
+</end course description for 02-680 Essential Mathematics and Statistics for Scientists>

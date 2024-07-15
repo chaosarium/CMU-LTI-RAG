@@ -1,0 +1,16 @@
+<start course metadata for 12-100 TBA>
+Semester: Fall 2023 (aka F23)
+Course Name: TBA
+Course Number: 12-100
+Department: Civil & Environmental Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Fethiye Ozis
+Rooms: PH 107E
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 12-100 TBA>
+
+<start course description for 12-100 TBA>
+Semester: Fall 2023 (aka F23)
+Course Description: Civil and Environmental Engineers (CEEs) engage in the planning, design, construction, operation, retrofit, demolition, and reuse of large-scale infrastructure that forms the backbone of all societies and economies. CEEs work at the dynamic interface of the built environment, information environment, and natural environment. Therefore, societal domains that require CEE expertise include smart cities and construction, sustainable energy and buildings, connected and automated transportation systems, resilient infrastructure, climate change mitigation and adaptation, and water management. Students will explore how sensing, data science, environmental science, life cycle systems and economic analysis, and infrastructure design are integrated to create a built environment that meets the needs of smart and connected communities while enhancing sustainability. Students work on team-based design-build projects that introduce principles from environmental, structural, construction engineering, and project management. Students learn technical skills as well as methods for management and design considerations that include uncertainty, economics, and ethics, for modern and future infrastructure.
+</end course description for 12-100 TBA>

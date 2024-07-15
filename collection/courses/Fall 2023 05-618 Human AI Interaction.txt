@@ -1,0 +1,16 @@
+<start course metadata for 05-618 Human AI Interaction>
+Semester: Fall 2023 (aka F23)
+Course Name: Human AI Interaction
+Course Number: 05-618
+Department: Human-Computer Interaction
+Number of Units: 12
+Prerequisites: None
+Instructors: Haiyi Zhu
+Rooms: SH 234
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 05-618 Human AI Interaction>
+
+<start course description for 05-618 Human AI Interaction>
+Semester: Fall 2023 (aka F23)
+Course Description: Artificial Intelligence is inspired by human intelligence, made powerful by human data, and ultimately only useful in how it positively affects the human experience. This course is an introduction to harnessing the power of AI so that it is beneficial and useful to people. We will cover a number of general topics: agency and initiative, AI and ethics, bias and transparency, confidence and errors, human augmentation and amplification, trust and explainability, mixed-initiative systems, and programming by example. These topics will be explored via projects in dialog and speech-controlled systems, automatic speech recognition, computer vision, data science, recommender systems, text summarization, learning science, UI personalization, and visualization.  Students will complete individual weekly mini-projects in which they will design and build AI systems across a wide variety of domains. Students should be comfortable with programming; assignments will be primarily in Python and Javascript. Prior experience with AI/machine learning will be useful but is not required. Students will also be responsible for weekly readings and occasional presentations to the class.
+</end course description for 05-618 Human AI Interaction>

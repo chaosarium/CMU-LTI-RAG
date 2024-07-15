@@ -1,0 +1,16 @@
+<start course metadata for 51-974 Design Futures>
+Semester: Spring 2024 (aka S24)
+Course Name: Design Futures
+Course Number: 51-974
+Department: Design
+Number of Units: 9
+Prerequisites: None
+Instructors: Peter Scupelli
+Rooms: MM 215
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-974 Design Futures>
+
+<start course description for 51-974 Design Futures>
+Semester: Spring 2024 (aka S24)
+Course Description: Design Futures frames design in a temporally-extended, systemic context. It offers essential perspectives, practices, and competencies that are increasingly called for as designers progress in their work and careers, and as the design field evolves to acknowledge its significant powers and responsibilities. You will explore numerous futures methods, which support designers through ideation and storytelling, problem-finding and framing, brief formulation, project coordination, and collaboration. Coursework includes engagement with readings and videos, hands-on creative workshops, and visual prototyping and sketching. Design Futures knowledge and methods are foundational to Transition Design.
+</end course description for 51-974 Design Futures>

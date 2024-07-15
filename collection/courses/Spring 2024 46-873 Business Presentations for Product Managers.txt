@@ -1,0 +1,16 @@
+<start course metadata for 46-873 Business Presentations for Product Managers>
+Semester: Spring 2024 (aka S24)
+Course Name: Business Presentations for Product Managers
+Course Number: 46-873
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Beth Walter
+Rooms: TEP 2119
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 46-873 Business Presentations for Product Managers>
+
+<start course description for 46-873 Business Presentations for Product Managers>
+Semester: Spring 2024 (aka S24)
+Course Description: MSPM REQUIRED COURSE
+</end course description for 46-873 Business Presentations for Product Managers>

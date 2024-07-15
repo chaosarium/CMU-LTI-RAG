@@ -1,0 +1,16 @@
+<start course metadata for 57-723 Major Studio (Bagpipe)>
+Semester: Fall 2023 (aka F23)
+Course Name: Major Studio (Bagpipe)
+Course Number: 57-723
+Department: Music
+Number of Units: 9
+Prerequisites: None
+Instructors: Andrew Carlisle
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-723 Major Studio (Bagpipe)>
+
+<start course description for 57-723 Major Studio (Bagpipe)>
+Semester: Fall 2023 (aka F23)
+Course Description: This course complements the artist's work in the private studio through development of interpretational and presentational skills.  Emphasis will be on operatic roles, but occasional art song repertoire will be studied at the instructor's discretion.  Class time will be dedicated to diction, textual analysis, character development, and stylistic questions.  The enrolling artist will have at least one fully-prepared operatic role by the end of the semester.
+</end course description for 57-723 Major Studio (Bagpipe)>

@@ -1,0 +1,16 @@
+<start course metadata for 48-490 Undergraduate Internship>
+Semester: Fall 2023 (aka F23)
+Course Name: Undergraduate Internship
+Course Number: 48-490
+Department: Architecture
+Number of Units: 3
+Prerequisites: None
+Instructors: Instructor TBA
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-490 Undergraduate Internship>
+
+<start course description for 48-490 Undergraduate Internship>
+Semester: Fall 2023 (aka F23)
+Course Description: No course description provided.
+</end course description for 48-490 Undergraduate Internship>

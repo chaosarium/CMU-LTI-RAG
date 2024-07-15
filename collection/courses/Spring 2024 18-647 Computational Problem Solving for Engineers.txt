@@ -1,0 +1,16 @@
+<start course metadata for 18-647 Computational Problem Solving for Engineers>
+Semester: Spring 2024 (aka S24)
+Course Name: Computational Problem Solving for Engineers
+Course Number: 18-647
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Franz Franchetti
+Rooms: PH A18A; PH A18B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-647 Computational Problem Solving for Engineers>
+
+<start course description for 18-647 Computational Problem Solving for Engineers>
+Semester: Spring 2024 (aka S24)
+Course Description: Computing platforms used in engineering span an incredibly dynamic range from embedded and wearable processors to handhelds/laptops to high performance computing servers and the cloud. Similar engineering and AI/ML problems need to be solved across the entire dynamic range. When developing algorithms or solving R&D; problems, one usually starts with Matlab and Python using frameworks like Torch, Spark, and TensorFlow, and only resorts to C/C++ when needed. This course covers how to solve AI/ML and engineering research and development problems across the entire range of machines in a productive and performant way. It discusses how to scale problems from the initial concept stage, usually executed on a laptop, to more powerful computing systems like enterprise or HPC servers, GPU-accelerated systems, and cloud computing platforms.  This course addresses a wide range of computational and informatics problem families from traditional numerical simulation and symbolic data processing to AI/ML problems. It covers the most important scalable parallel algorithms used in engineering computing, and discusses frameworks providing problem-specific and general implementation templates. It covers algorithm analysis from the numerical and complexity perspectives, parallelization approaches and scalability, algorithm optimization, evaluation, and analysis of results.   Students in this course learn to productively solve AI/ML and engineering research and development problems on advanced computer systems across the dynamic range of computing systems. Further, they learn to carry algorithms from the concept stage to efficient-enough scaled-up implementations necessary to solve large scale problem instances, or squeeze them into the small footprint of embedded and wearable devices.
+</end course description for 18-647 Computational Problem Solving for Engineers>

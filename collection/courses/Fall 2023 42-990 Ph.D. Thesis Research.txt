@@ -1,0 +1,16 @@
+<start course metadata for 42-990 Ph.D. Thesis Research>
+Semester: Fall 2023 (aka F23)
+Course Name: Ph.D. Thesis Research
+Course Number: 42-990
+Department: Biomedical Engineering
+Number of Units: N/A
+Prerequisites: None
+Instructors: Maryia Rakach
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 42-990 Ph.D. Thesis Research>
+
+<start course description for 42-990 Ph.D. Thesis Research>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is designed to give students enrolled in the Ph.D. program an opportunity to conduct extensive research over the course of their studies culminating in a Ph.D. thesis.  Variable units.
+</end course description for 42-990 Ph.D. Thesis Research>

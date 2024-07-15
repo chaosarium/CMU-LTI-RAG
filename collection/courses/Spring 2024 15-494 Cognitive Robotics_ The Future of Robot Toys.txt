@@ -1,0 +1,16 @@
+<start course metadata for 15-494 Cognitive Robotics: The Future of Robot Toys>
+Semester: Spring 2024 (aka S24)
+Course Name: Cognitive Robotics: The Future of Robot Toys
+Course Number: 15-494
+Department: Computer Science
+Number of Units: 12
+Prerequisites: 15-122
+Instructors: David Touretzky
+Rooms: PH A18C
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-494 Cognitive Robotics: The Future of Robot Toys>
+
+<start course description for 15-494 Cognitive Robotics: The Future of Robot Toys>
+Semester: Spring 2024 (aka S24)
+Course Description: This course will explore the future of robot toys by analyzing and programming Anki Cozmo, a new robot with built-in artificial intelligence algorithms. Como is distinguished from earlier consumer robots by its reliance on vision as the primary sensing mode and its sophisticated use of A.I. Its capabilities include face and object recognition, map building, path planning, and object pushing and stacking. Although marketed as a pre-programmed children's toy, Cozmo's open source Python SDK allows anyone to develop new software for it, which means it can also be used for robotics education and research. The course will cover robot software architecture, human-robot interaction, perception, and planning algorithms for navigation and manipulation. Prior robotics experience is not required, just strong programming skills.
+</end course description for 15-494 Cognitive Robotics: The Future of Robot Toys>

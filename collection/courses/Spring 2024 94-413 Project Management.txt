@@ -1,0 +1,16 @@
+<start course metadata for 94-413 Project Management>
+Semester: Spring 2024 (aka S24)
+Course Name: Project Management
+Course Number: 94-413
+Department: Heinz College Wide Courses
+Number of Units: 6
+Prerequisites: None
+Instructors: Laura Synnott
+Rooms: HBH 2009
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 94-413 Project Management>
+
+<start course description for 94-413 Project Management>
+Semester: Spring 2024 (aka S24)
+Course Description: As organizations continue to look for ways to reduce costs, managers are often expected to oversee special projects in addition to their traditional responsibilities. When a project is too complex for one person to handle, the project manager is expected to lead a team of diverse employees to complete the assignment. This course will assist the project manager to break down a complex project into manageable segments, lead a diverse project team, and use effective tools to ensure that the project meets its deliverables and is completed within budget and on schedule. Over the course of the mini, students will complete a plan for an actual project, giving them valuable experience with the relevant tools and skills, including Microsoft Project software.
+</end course description for 94-413 Project Management>

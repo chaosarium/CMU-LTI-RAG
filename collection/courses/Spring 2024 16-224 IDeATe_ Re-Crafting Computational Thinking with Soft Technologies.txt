@@ -1,0 +1,16 @@
+<start course metadata for 16-224 IDeATe: Re-Crafting Computational Thinking with Soft Technologies>
+Semester: Spring 2024 (aka S24)
+Course Name: IDeATe: Re-Crafting Computational Thinking with Soft Technologies
+Course Number: 16-224
+Department: Robotics
+Number of Units: 12
+Prerequisites: None
+Instructors: Melisa Orta Martinez, Olivia Robinson
+Rooms: CFA 111
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 16-224 IDeATe: Re-Crafting Computational Thinking with Soft Technologies>
+
+<start course description for 16-224 IDeATe: Re-Crafting Computational Thinking with Soft Technologies>
+Semester: Spring 2024 (aka S24)
+Course Description: This course focuses on teaching introductory concepts of Robotics, Mechatronics, and Computer Science using an arts-based approach. During the course, students will build their own weaving robot, program it, and learn how weaving art is connected to computer programming and matrix mathematics. Students will also learn the history of weaving, how to design beautiful patterns, and how to extract the features of those patterns into mathematical equations and computer programs.
+</end course description for 16-224 IDeATe: Re-Crafting Computational Thinking with Soft Technologies>

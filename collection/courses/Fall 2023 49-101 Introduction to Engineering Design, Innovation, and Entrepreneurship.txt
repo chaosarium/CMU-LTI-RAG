@@ -1,0 +1,16 @@
+<start course metadata for 49-101 Introduction to Engineering Design, Innovation, and Entrepreneurship>
+Semester: Fall 2023 (aka F23)
+Course Name: Introduction to Engineering Design, Innovation, and Entrepreneurship
+Course Number: 49-101
+Department: Integrated Innovation Institute
+Number of Units: 12
+Prerequisites: None
+Instructors: Brandon Bodily
+Rooms: BH A36
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 49-101 Introduction to Engineering Design, Innovation, and Entrepreneurship>
+
+<start course description for 49-101 Introduction to Engineering Design, Innovation, and Entrepreneurship>
+Semester: Fall 2023 (aka F23)
+Course Description: This course will introduce formal innovation and design methods to form new opportunities, product/service solutions, and ventures within a team-based project, with particular emphasis on the translation and integration of technologies into products, services, and venture solutions. The skills learned in this course can be applied to the for-profit sector and also in the context of projects for social good.  Effective communication of ideas will also be emphasized. This semester-long course will combine lecture and studio activities.
+</end course description for 49-101 Introduction to Engineering Design, Innovation, and Entrepreneurship>

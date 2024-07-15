@@ -1,0 +1,16 @@
+<start course metadata for 70-476 Service Operations Management>
+Semester: Fall 2023 (aka F23)
+Course Name: Service Operations Management
+Course Number: 70-476
+Department: Business Administration
+Number of Units: 9
+Prerequisites: (36-202 or 36-208 or 70-208) and (70-371)
+Instructors: Iman Adeinat
+Rooms: CMB 3204
+Locations: Doha, Qatar
+</end course metadata for 70-476 Service Operations Management>
+
+<start course description for 70-476 Service Operations Management>
+Semester: Fall 2023 (aka F23)
+Course Description: The service sector accounts for approximately 70% of the GDP and 85% of the jobs in the United States. Given the ever-increasing role of services in the economy, it is crucial for a manager to understand both how services differ from manufacturing operations and how traditional operations management techniques can be applied to services. This course provides a general managers perspective on strategic analysis as well as operational decision making. The course will examine settings in traditional service businesses such as financial services (banking), retail environments, and transportation (airlines), and health-care sector. The Additional topics include evaluation of management of service quality, variability and customer waits, and revenue management. The course is intended for students interested in general management, consulting, financial services, or operations.
+</end course description for 70-476 Service Operations Management>

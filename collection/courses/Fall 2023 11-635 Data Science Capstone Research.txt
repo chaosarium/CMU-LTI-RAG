@@ -1,0 +1,16 @@
+<start course metadata for 11-635 Data Science Capstone Research>
+Semester: Fall 2023 (aka F23)
+Course Name: Data Science Capstone Research
+Course Number: 11-635
+Department: Language Technologies Institute
+Number of Units: 12
+Prerequisites: None
+Instructors: Eric Nyberg
+Rooms: TEP 1403
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 11-635 Data Science Capstone Research>
+
+<start course description for 11-635 Data Science Capstone Research>
+Semester: Fall 2023 (aka F23)
+Course Description: The MCDS Capstone Research Course is the final large team project for MCDS master degree students.  Students take 11-635 combined with 11-632 as combined capstone course for process & outcomes.  This process and outcome course evaluates the project team's use of software engineering methodology and evaluates the outcomes of the capstone project.
+</end course description for 11-635 Data Science Capstone Research>

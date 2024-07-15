@@ -1,0 +1,16 @@
+<start course metadata for 93-808 Exhibitions Management>
+Semester: Spring 2024 (aka S24)
+Course Name: Exhibitions Management
+Course Number: 93-808
+Department: Arts & Entertainment Management
+Number of Units: 6
+Prerequisites: 93-703
+Instructors: Madeline Gent
+Rooms: HBH 1006
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 93-808 Exhibitions Management>
+
+<start course description for 93-808 Exhibitions Management>
+Semester: Spring 2024 (aka S24)
+Course Description: This course focuses on elements of exhibition management and introduces students to the process of planning and implementing exhibitions. This includes the roles and responsibilities of staff and community members in exhibition planning, ways to evaluate exhibitions and measure success, exhibition concept development, interpretative planning, exhibition design concepts, financial planning, and implementation logistics. Special topics will cover exhibition text and labels, managing exhibition controversy, and insurance. Assessments throughout the course intend to build upon one another, ultimately helping students to develop an exhibition brief to be used by stakeholders for fundraising, marketing, and other planning purposes. All students, but especially those that do not possess a visual arts background, may wish to examine issues present in contemporary aesthetics through readings (books, periodicals and web) and by asking questions in class.
+</end course description for 93-808 Exhibitions Management>

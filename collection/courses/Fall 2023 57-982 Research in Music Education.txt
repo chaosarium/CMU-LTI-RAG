@@ -1,0 +1,16 @@
+<start course metadata for 57-982 Research in Music Education>
+Semester: Fall 2023 (aka F23)
+Course Name: Research in Music Education
+Course Number: 57-982
+Department: Music
+Number of Units: 9
+Prerequisites: None
+Instructors: Susan Raponi
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-982 Research in Music Education>
+
+<start course description for 57-982 Research in Music Education>
+Semester: Fall 2023 (aka F23)
+Course Description: This course surveys significant, recent research in music education.  Students design and implement a project that can be either academic or applied research.  The research, outcomes, and analysis are presented in writing and orally.
+</end course description for 57-982 Research in Music Education>

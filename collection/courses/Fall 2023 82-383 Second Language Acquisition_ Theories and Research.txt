@@ -1,0 +1,16 @@
+<start course metadata for 82-383 Second Language Acquisition: Theories and Research>
+Semester: Fall 2023 (aka F23)
+Course Name: Second Language Acquisition: Theories and Research
+Course Number: 82-383
+Department: Modern Languages
+Number of Units: 9
+Prerequisites: None
+Instructors: Katharine Burns
+Rooms: PH 125D
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 82-383 Second Language Acquisition: Theories and Research>
+
+<start course description for 82-383 Second Language Acquisition: Theories and Research>
+Semester: Fall 2023 (aka F23)
+Course Description: This course provides an introduction to research and theories in Second Language Acquisition (SLA). Processes that underlie the learning and use of second languages are examined from four perspectives: 1) as linguistic knowledge, 2) as a cognitive skill, 3) as a personality-meditated process, and 4) a socio-culturally mediated process. Factors examined include: age-related differences, the influence of the first language, the role played by innate (universal) principles, the role of memory processes, attitudes, motivation, personality and cognitive styles, and formal versus naturalistic learning contexts. Issues that arise from the course readings are investigated through practical experience in applying theoretical knowledge to small-scale empirical research projects.  Students are also provided with opportunities to consider the relevance of these issues to their own language learning experiences.
+</end course description for 82-383 Second Language Acquisition: Theories and Research>

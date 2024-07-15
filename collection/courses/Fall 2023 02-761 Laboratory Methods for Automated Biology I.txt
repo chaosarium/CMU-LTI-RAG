@@ -1,0 +1,16 @@
+<start course metadata for 02-761 Laboratory Methods for Automated Biology I>
+Semester: Fall 2023 (aka F23)
+Course Name: Laboratory Methods for Automated Biology I
+Course Number: 02-761
+Department: Computational Biology
+Number of Units: 12
+Prerequisites: None
+Instructors: Joshua Kangas
+Rooms: WEH 5409
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 02-761 Laboratory Methods for Automated Biology I>
+
+<start course description for 02-761 Laboratory Methods for Automated Biology I>
+Semester: Fall 2023 (aka F23)
+Course Description: In order to rapidly generate reproducible experimental data, many modern biology labs leverage some form of laboratory automation to execute experiments. In the not so distant future, the use of laboratory automation will continue to increase in the biological lab to the point where many labs will be fully automated. Therefore, it is critical for automation scientists to be familiar with the principles, experimental paradigms, and techniques for automating biological experimentation with an eye toward the fully automated laboratory. In this laboratory course, students will learn about various automatable experimental methods, design of experiments, hardware for preparing samples and executing automated experiments, and software for controlling that hardware. These topics will be taught in lectures as well as through laboratory experience using multi-purpose laboratory robotics. During weekly laboratory time, students will complete and integrate parts of two larger projects. The first project will be focused on liquid handling, plate control, plate reading, and remote control of the automated system based on experimental data. The second project will be focused on the design, implementation, and analysis of a high content screening campaign using fluorescence microscopy, image analysis, and tissue culture methods.
+</end course description for 02-761 Laboratory Methods for Automated Biology I>

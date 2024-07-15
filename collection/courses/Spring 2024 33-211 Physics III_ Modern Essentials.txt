@@ -1,0 +1,16 @@
+<start course metadata for 33-211 Physics III: Modern Essentials>
+Semester: Spring 2024 (aka S24)
+Course Name: Physics III: Modern Essentials
+Course Number: 33-211
+Department: Physics
+Number of Units: 10
+Prerequisites: 33-107 or 33-142 or 33-152 or 33-132 or 33-112 or 33-122
+Instructors: Sayan Mandal
+Rooms: DH 1112; GHC 4102
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 33-211 Physics III: Modern Essentials>
+
+<start course description for 33-211 Physics III: Modern Essentials>
+Semester: Spring 2024 (aka S24)
+Course Description: Physics III is primarily for third-semester students of physics, including all physics majors, but is open to any qualified student who wants an introduction to the physics of the 20th century. The course will have a strong component of Special Relativity, dealing with kinematics and dynamics, but not electricity and magnetism. (See 33-213 description.) It will introduce students to a conceptual theory, which is mathematically simple but (initially) non-intuitive. The course also provides a broad exposure to quantum phenomena and early quantum theory without getting overly mathematical. It leads into the more formal Quantum Physics course (33-234).
+</end course description for 33-211 Physics III: Modern Essentials>

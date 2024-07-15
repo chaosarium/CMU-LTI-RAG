@@ -1,0 +1,16 @@
+<start course metadata for 94-705 Health Economics>
+Semester: Fall 2023 (aka F23)
+Course Name: Health Economics
+Course Number: 94-705
+Department: Heinz College Wide Courses
+Number of Units: 12
+Prerequisites: None
+Instructors: Martin Gaynor
+Rooms: HBH 1005
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 94-705 Health Economics>
+
+<start course description for 94-705 Health Economics>
+Semester: Fall 2023 (aka F23)
+Course Description: The purpose of this course is to introduce the student to the methods of health economics and demonstrate how these methods can be applied to analyze issues in health policy and management. This course will teach the student to use economic analysis to understand critical issues in health care and health policy.   We will address issues such as the following:  What factors best explain the level and rate of growth of U.S. health expenditures? Does the recent high rate of growth of U.S. health care expenditures make U.S. firms less competitive in international markets? What are some of the likely consequences (intended and unintended) of Federal health care reform? What are the impacts of health care consolidation? What is required for the ACA's health insurance exchanges to work well?
+</end course description for 94-705 Health Economics>

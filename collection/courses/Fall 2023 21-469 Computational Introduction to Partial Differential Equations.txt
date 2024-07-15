@@ -1,0 +1,16 @@
+<start course metadata for 21-469 Computational Introduction to Partial Differential Equations>
+Semester: Fall 2023 (aka F23)
+Course Name: Computational Introduction to Partial Differential Equations
+Course Number: 21-469
+Department: Mathematical Sciences
+Number of Units: 12
+Prerequisites: (21-241 or 21-240 or 21-242) and (21-268 or 21-259 or 21-269) and (21-261 or 33-231 or 21-260 or 21-630) and (15-112 or 15-110)
+Instructors: Lucas Bouck
+Rooms: WEH 7218
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-469 Computational Introduction to Partial Differential Equations>
+
+<start course description for 21-469 Computational Introduction to Partial Differential Equations>
+Semester: Fall 2023 (aka F23)
+Course Description: A Partial Differential Equation (PDE for short) is a differential equation involving derivatives with respect to more than one variable.  These arise in numerous applications from various disciplines.  Most PDEs do not have explicit solutions, and hence computational methods are essential for understanding the underlying phenomena.  This course will serve as a first introduction to PDEs and their numerical approximation, and will focus on a variety of mathematical models.  It will cover both analytical methods, numerical methods (e.g. finite differences) and the use of a computer to approximate and visualize solutions.  The mathematical ideas behind phenomena observed in nature will be studied at the theoretical level and in numerical simulations (e.g. speed of wave propagation, and/or shocks in traffic flow).  Topics will include:  Derivation of PDEs from physical principles, analytical and computational tools for the transport equation and the Poisson equation, Fourier analysis, analytical and numerical techniques for the solution of parabolic equations and if time permits, the wave equation.  (Three 50 minute lectures, one 80 minute recitation)
+</end course description for 21-469 Computational Introduction to Partial Differential Equations>

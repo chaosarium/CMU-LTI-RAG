@@ -1,0 +1,16 @@
+<start course metadata for 51-269 Prototyping Lab II: Environments>
+Semester: Spring 2024 (aka S24)
+Course Name: Prototyping Lab II: Environments
+Course Number: 51-269
+Department: Design
+Number of Units: 9
+Prerequisites: 51-267
+Instructors: Daniel Rosenberg Munoz
+Rooms: MM B4
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-269 Prototyping Lab II: Environments>
+
+<start course description for 51-269 Prototyping Lab II: Environments>
+Semester: Spring 2024 (aka S24)
+Course Description: Explore simple reactive and interactive programming as a means to support virtual and hybrid digital/physical environments.
+</end course description for 51-269 Prototyping Lab II: Environments>

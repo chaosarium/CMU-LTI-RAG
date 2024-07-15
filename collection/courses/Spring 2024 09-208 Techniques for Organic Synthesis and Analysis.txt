@@ -1,0 +1,16 @@
+<start course metadata for 09-208 Techniques for Organic Synthesis and Analysis>
+Semester: Spring 2024 (aka S24)
+Course Name: Techniques for Organic Synthesis and Analysis
+Course Number: 09-208
+Department: Chemistry
+Number of Units: 9
+Prerequisites: (09-219 or 09-217) and (09-221 or 09-207 or 09-223)
+Instructors: Niharika Krishn Botcha
+Rooms: DH 2302
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 09-208 Techniques for Organic Synthesis and Analysis>
+
+<start course description for 09-208 Techniques for Organic Synthesis and Analysis>
+Semester: Spring 2024 (aka S24)
+Course Description: 09-208 is the second of two chemistry laboratory courses required for the BS in biological sciences and the intercollege major in psychology and biological sciences.  It is also suitable for fulfilling the requirement for the laboratory experience for application to programs in the health professions. The course emphasizes experimental work in separations, synthesis, and analysis of organic compounds, including chromatography and spectroscopy. Written communication skills will be developed by means of laboratory reports and essays.  1.5 hr lec, 5 hrs lab
+</end course description for 09-208 Techniques for Organic Synthesis and Analysis>

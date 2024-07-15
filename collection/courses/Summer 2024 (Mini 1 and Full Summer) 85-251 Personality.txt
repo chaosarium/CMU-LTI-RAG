@@ -1,0 +1,16 @@
+<start course metadata for 85-251 Personality>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Personality
+Course Number: 85-251
+Department: Psychology
+Number of Units: 9
+Prerequisites: None
+Instructors: Crista Crittenden
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 85-251 Personality>
+
+<start course description for 85-251 Personality>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: The primary purpose of personality psychology is to understand human uniqueness--how and why it is that one person differs from others, in terms of the ways that they thinks, feels, and acts. Students in the course will be exposed to several broad theoretical perspectives, each of which attempts to capture and understand the origins and consequences of individual distinctiveness from a slightly different vantage point. Included among these approaches are the dispositional or trait, psychoanalytic, learning, humanistic, and cognitive self regulation perspectives. This is a survey course and is intended to provide students with a broad background of theory and research in the area. Class meetings consist primarily of lecture, but there is some discussion too. Students will be given the opportunity to assess their own personalities during the course. A consistent theme throughout the course is the relationships between aspects of one's personality and physical health.
+</end course description for 85-251 Personality>

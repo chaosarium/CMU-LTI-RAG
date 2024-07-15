@@ -1,0 +1,16 @@
+<start course metadata for 85-775 crosscultural>
+Semester: Fall 2023 (aka F23)
+Course Name: crosscultural
+Course Number: 85-775
+Department: Psychology
+Number of Units: N/A
+Prerequisites: None
+Instructors: Brian MacWhinney
+Rooms: BH 336B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 85-775 crosscultural>
+
+<start course description for 85-775 crosscultural>
+Semester: Fall 2023 (aka F23)
+Course Description: Human beings share a common genetic inheritance, but our cultural institutions differ in a bewildering variety of ways. This course explores the many different cultural expressions of basic human cognitive and social abilities and needs, We will look at cultural variations in child rearing, mother-child attachment, language socialization, categorization, reasoning, problem-solving, architecture, music, politics, warfare, food-gathering, sex roles, mental disorders, and altered states of consciousness, all with the goal of understanding how the shape of social systems and symbolic expression reflects the economic and adaptive needs of the culture and its people. Among the approaches to these phenomena we will consider are symbolic interaction, cognitive anthropology, dialectic materialism, modern ethnology. Graduate Students Only.
+</end course description for 85-775 crosscultural>

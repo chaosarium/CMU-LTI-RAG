@@ -1,0 +1,16 @@
+<start course metadata for 94-486 Advances in Robotic Process Automation>
+Semester: Fall 2023 (aka F23)
+Course Name: Advances in Robotic Process Automation
+Course Number: 94-486
+Department: Heinz College Wide Courses
+Number of Units: 6
+Prerequisites: None
+Instructors: Jennifer Morrow, Larry Honig
+Rooms: HBH 1202
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 94-486 Advances in Robotic Process Automation>
+
+<start course description for 94-486 Advances in Robotic Process Automation>
+Semester: Fall 2023 (aka F23)
+Course Description: Today's new generation of sophisticated workforce robots act across business functions, integrate cloud and legacy applications, and are self-managing, scalable and fully dynamic. This course is an introduction into the fundamentals of Robotic Process Automation (RPA) and how it is transforming the world by combining software robotics with the power of artificial intelligence (AI) and machine learning (ML).   During the class we will dig into the technology, understand how advanced RPA delivers business value, identify processes ripe for this automation, and build an RPA business case. We will also discuss the talent implications of bringing "bots to work" and the impact on the organization and its workforce.   Throughout the course we will be joined by business leaders who will share their experiences and leverage exercises designed to provide hands-on automation opportunities including use of a test environment. For the final project, students will have the opportunity to be an "automation strategy consultant" that assesses and develops a business case for a real-world automation candidate.
+</end course description for 94-486 Advances in Robotic Process Automation>

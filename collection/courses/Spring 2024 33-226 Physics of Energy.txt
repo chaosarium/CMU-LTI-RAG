@@ -1,0 +1,16 @@
+<start course metadata for 33-226 Physics of Energy>
+Semester: Spring 2024 (aka S24)
+Course Name: Physics of Energy
+Course Number: 33-226
+Department: Physics
+Number of Units: 9
+Prerequisites: 33-122 or 33-142 or 33-152
+Instructors: Scott Dodelson
+Rooms: WEH 7500
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 33-226 Physics of Energy>
+
+<start course description for 33-226 Physics of Energy>
+Semester: Spring 2024 (aka S24)
+Course Description: This course will apply basic science, in particular introductory physics concepts, to a wide variety of topics related to energy. The course will closely follow a widely praised textbook The Physics of Energy, so be divided into 3 parts: basic energy science; energy sources; and climate. This course fills the breadth requirement for Physics Majors or can be used as one of the 4 electives required for the Applied Physics Track.
+</end course description for 33-226 Physics of Energy>

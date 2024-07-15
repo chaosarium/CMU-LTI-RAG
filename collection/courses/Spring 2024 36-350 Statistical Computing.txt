@@ -1,0 +1,16 @@
+<start course metadata for 36-350 Statistical Computing>
+Semester: Spring 2024 (aka S24)
+Course Name: Statistical Computing
+Course Number: 36-350
+Department: Statistics and Data Science
+Number of Units: 9
+Prerequisites: 36-218 or 21-325 or 36-219 or 36-225 or 36-217 or 15-259 or 36-235
+Instructors: Frederick Koerner
+Rooms: WEH 7500
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 36-350 Statistical Computing>
+
+<start course description for 36-350 Statistical Computing>
+Semester: Spring 2024 (aka S24)
+Course Description: Statistical Computing: An introduction to computing targeted at statistics majors with minimal programming knowledge.  The main topics are core ideas of programming (functions, objects, data structures, flow control, input and output, debugging, logical design and abstraction), illustrated through key statistical topics (exploratory data analysis, basic optimization, linear models, graphics, and simulation).  The class will be taught in the R language. No previous programming experience required.
+</end course description for 36-350 Statistical Computing>

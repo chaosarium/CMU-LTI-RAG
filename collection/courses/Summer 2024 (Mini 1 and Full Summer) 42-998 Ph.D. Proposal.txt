@@ -1,0 +1,16 @@
+<start course metadata for 42-998 Ph.D. Proposal>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Ph.D. Proposal
+Course Number: 42-998
+Department: Biomedical Engineering
+Number of Units: 0
+Prerequisites: None
+Instructors: Maryia Rakach
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 42-998 Ph.D. Proposal>
+
+<start course description for 42-998 Ph.D. Proposal>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: PhD Thesis Prospectus.
+</end course description for 42-998 Ph.D. Proposal>

@@ -1,0 +1,16 @@
+<start course metadata for 98-037 Student Taught Courses (StuCo):  Introduction to 3D Modeling and Rendering>
+Semester: Fall 2023 (aka F23)
+Course Name: Student Taught Courses (StuCo):  Introduction to 3D Modeling and Rendering
+Course Number: 98-037
+Department: StuCo (Student Led Courses)
+Number of Units: 3
+Prerequisites: None
+Instructors: Seckhen Ariel Andrade Cuellar
+Rooms: CMB 2035; CMB 2052
+Locations: Doha, Qatar
+</end course metadata for 98-037 Student Taught Courses (StuCo):  Introduction to 3D Modeling and Rendering>
+
+<start course description for 98-037 Student Taught Courses (StuCo):  Introduction to 3D Modeling and Rendering>
+Semester: Fall 2023 (aka F23)
+Course Description: During this Stuco, I hope to introduce students to the vast realm of 3D modeling. During the span of this course, I hope to teach students how to use the free 3D modeling software called Blender. To do so, I want to introduce students to the 4 main components of 3D modeling: lighting, geometric manipulation (vertices, edges, and faces), rendering, texturing and basic animation. In addition, I want to make this course project-based so students can explore a variety of rendering styles (for instance, photorealistic, minimalistic, etc.) and also give students the freedom to explore which area of 3D modeling they are particularly interested in (product engineering, architectural/space visualization, character design, etc.).
+</end course description for 98-037 Student Taught Courses (StuCo):  Introduction to 3D Modeling and Rendering>

@@ -1,0 +1,16 @@
+<start course metadata for 80-824 Topics in Formal Epistemology: Topological Philosophy of Science>
+Semester: Fall 2023 (aka F23)
+Course Name: Topics in Formal Epistemology: Topological Philosophy of Science
+Course Number: 80-824
+Department: Philosophy
+Number of Units: 12
+Prerequisites: None
+Instructors: Kevin Kelly
+Rooms: BH 150
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 80-824 Topics in Formal Epistemology: Topological Philosophy of Science>
+
+<start course description for 80-824 Topics in Formal Epistemology: Topological Philosophy of Science>
+Semester: Fall 2023 (aka F23)
+Course Description: When faced with a question concerning learning or scientific method, one habitually reaches for logic and probability theory.  But sometimes habits should be questioned.  There is increasing awareness, scattered across philosophy,  informatics, mathematical statistics, that the the relevant issues are more fundamentally topological.  That may sound shocking: what could rubber geometry have to do with learning or inductive inference?  The answer is that the set of empirically verifiable propositions over a set of possibilities automatically satisfies the axioms of a topological space over possible worlds.  Once that is recognized, there is a systematic translation between topology and familiar concepts and issues in learning, statistics and the the philosophy of science.  This seminar will introduce the relevant topological concepts and will explore the methodological correspondences in detail.   Topics covered include Hume's problem of induction, the problem of non-refutable theories and paradigm choice, convergence to the truth, simplicity and Ockham's razor, statistical model selection, causal discovery, and computability.  The class will place students at the cutting edge of research in this fresh and exciting new area, and will provide them with a high-level, explanatory perspective that unifies much of the detail encountered in standard statistics and machine learning curricula.
+</end course description for 80-824 Topics in Formal Epistemology: Topological Philosophy of Science>

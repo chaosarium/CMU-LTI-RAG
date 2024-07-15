@@ -1,0 +1,16 @@
+<start course metadata for 90-800 Exploratory Data Analysis and Visualization with Python>
+Semester: Fall 2023 (aka F23)
+Course Name: Exploratory Data Analysis and Visualization with Python
+Course Number: 90-800
+Department: Public Policy & Mgt:Sch of Pub Pol & Mgt
+Number of Units: 6
+Prerequisites: (90-819) and (90-707 or 90-711 or 95-796)
+Instructors: Gabriela Gongora-Svartzman
+Rooms: HBH 1005; HBH 1204
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 90-800 Exploratory Data Analysis and Visualization with Python>
+
+<start course description for 90-800 Exploratory Data Analysis and Visualization with Python>
+Semester: Fall 2023 (aka F23)
+Course Description: This course covers the fundamentals of exploratory data analysis (EDA) and data visualization with Python. Through exploratory data analysis, students will learn how to perform an initial analysis on data, how to ask questions to their data, discover patterns and anomalies. This course will focus on asking questions to build data stories, applying statistical concepts to analyze data, and producing effective visualizations.
+</end course description for 90-800 Exploratory Data Analysis and Visualization with Python>

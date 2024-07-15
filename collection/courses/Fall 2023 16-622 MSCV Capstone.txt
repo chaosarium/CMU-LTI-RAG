@@ -1,0 +1,16 @@
+<start course metadata for 16-622 MSCV Capstone>
+Semester: Fall 2023 (aka F23)
+Course Name: MSCV Capstone
+Course Number: 16-622
+Department: Robotics
+Number of Units: 12
+Prerequisites: None
+Instructors: Ioannis Gkioulekas
+Rooms: NSH 1305
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 16-622 MSCV Capstone>
+
+<start course description for 16-622 MSCV Capstone>
+Semester: Fall 2023 (aka F23)
+Course Description: The MSCV capstone project course is designed to give project teams additional feedback on their capstone project from peers and faculty. Every week, capstone teams will present their project PPFs (Past-Present-Future) reports. For the presenting teams, the capstone course will help develop presentation and communication skills. For the students participating as peer-reviewers, it will help develop critical thinking and the ability to give constructive advice.
+</end course description for 16-622 MSCV Capstone>

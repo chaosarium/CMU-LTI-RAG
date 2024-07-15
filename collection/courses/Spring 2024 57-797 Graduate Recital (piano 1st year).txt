@@ -1,0 +1,16 @@
+<start course metadata for 57-797 Graduate Recital (piano 1st year)>
+Semester: Spring 2024 (aka S24)
+Course Name: Graduate Recital (piano 1st year)
+Course Number: 57-797
+Department: Music
+Number of Units: 1
+Prerequisites: None
+Instructors: Frederic Chiu, Instructor TBA, Sergey Schepkin
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-797 Graduate Recital (piano 1st year)>
+
+<start course description for 57-797 Graduate Recital (piano 1st year)>
+Semester: Spring 2024 (aka S24)
+Course Description: TBA
+</end course description for 57-797 Graduate Recital (piano 1st year)>

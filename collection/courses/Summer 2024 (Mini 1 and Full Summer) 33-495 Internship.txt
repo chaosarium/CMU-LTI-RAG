@@ -1,0 +1,16 @@
+<start course metadata for 33-495 Internship>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Internship
+Course Number: 33-495
+Department: Physics
+Number of Units: N/A
+Prerequisites: None
+Instructors: Scott Dodelson
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 33-495 Internship>
+
+<start course description for 33-495 Internship>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: Physics Internship
+</end course description for 33-495 Internship>

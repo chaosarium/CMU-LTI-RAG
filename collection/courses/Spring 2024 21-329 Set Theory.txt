@@ -1,0 +1,16 @@
+<start course metadata for 21-329 Set Theory>
+Semester: Spring 2024 (aka S24)
+Course Name: Set Theory
+Course Number: 21-329
+Department: Mathematical Sciences
+Number of Units: 9
+Prerequisites: 21-127 or 21-128 or 15-151
+Instructors: Ernest Schimmerling
+Rooms: WEH 8220
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-329 Set Theory>
+
+<start course description for 21-329 Set Theory>
+Semester: Spring 2024 (aka S24)
+Course Description: Set theory was invented about 110 years ago by George Cantor as an instrument to understand infinite objects and to compare different sizes of infinite sets. Since then set theory has come to play an important role in several branches of modern mathematics, and serves as a foundation of mathematics. Contents: Basic properties of natural numbers, countable and uncountable sets, construction of the real numbers, some basic facts about the topology of the real line, cardinal numbers and cardinal arithmetic, the continuum hypothesis, well ordered sets, ordinal numbers and transfinite induction, the axiom of choice, Zorn's lemma. Optional topics if time permits: Infinitary combinatorics, filters and large cardinals, Borel and analytic sets of reals. (Three 50 minute lectures)
+</end course description for 21-329 Set Theory>

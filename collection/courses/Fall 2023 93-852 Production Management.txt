@@ -1,0 +1,16 @@
+<start course metadata for 93-852 Production Management>
+Semester: Fall 2023 (aka F23)
+Course Name: Production Management
+Course Number: 93-852
+Department: Arts & Entertainment Management
+Number of Units: 6
+Prerequisites: None
+Instructors: Edward Lammi, John Harrison
+Rooms: 
+Locations: Los Angeles, California
+</end course metadata for 93-852 Production Management>
+
+<start course description for 93-852 Production Management>
+Semester: Fall 2023 (aka F23)
+Course Description: None
+</end course description for 93-852 Production Management>

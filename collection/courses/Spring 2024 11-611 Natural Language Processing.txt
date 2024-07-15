@@ -1,0 +1,16 @@
+<start course metadata for 11-611 Natural Language Processing>
+Semester: Spring 2024 (aka S24)
+Course Name: Natural Language Processing
+Course Number: 11-611
+Department: Language Technologies Institute
+Number of Units: 12
+Prerequisites: None
+Instructors: David Mortensen, Emma Strubell
+Rooms: CMU REMOTE; POS A35
+Locations: Kigali, Rwanda; Pittsburgh, Pennsylvania
+</end course metadata for 11-611 Natural Language Processing>
+
+<start course description for 11-611 Natural Language Processing>
+Semester: Spring 2024 (aka S24)
+Course Description: None
+</end course description for 11-611 Natural Language Processing>

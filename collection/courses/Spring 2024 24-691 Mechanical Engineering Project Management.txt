@@ -1,0 +1,16 @@
+<start course metadata for 24-691 Mechanical Engineering Project Management>
+Semester: Spring 2024 (aka S24)
+Course Name: Mechanical Engineering Project Management
+Course Number: 24-691
+Department: Mechanical Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Tyler Crummy
+Rooms: CMU REMOTE
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-691 Mechanical Engineering Project Management>
+
+<start course description for 24-691 Mechanical Engineering Project Management>
+Semester: Spring 2024 (aka S24)
+Course Description: Organizations are increasingly adopting formal project management techniques to successfully initiate, plan, execute, monitor, control, and close out projects. In this course, students will learn many project management tools which are commonly applied in industry. Students will incorporate these tools into a documented plan for a project on which they are currently working or have previously completed. The project plan will address the ten knowledge areas of project management, including the management of project integration, scope, time, cost, quality, human resources, communications, risk, procurement, and stakeholders. Students will also assume the role of a project manager, functional/line manager, or engineer in a project management simulation.  Real world constraints, challenges, and incentives will be applied.  Additional special topics in project management will be discussed based on student interest, which may include lean, agile, and industry-specific approaches, as well as project management certification.
+</end course description for 24-691 Mechanical Engineering Project Management>

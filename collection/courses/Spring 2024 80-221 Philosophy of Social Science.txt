@@ -1,0 +1,16 @@
+<start course metadata for 80-221 Philosophy of Social Science>
+Semester: Spring 2024 (aka S24)
+Course Name: Philosophy of Social Science
+Course Number: 80-221
+Department: Philosophy
+Number of Units: 9
+Prerequisites: None
+Instructors: Joel Smith
+Rooms: WEH 5415
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 80-221 Philosophy of Social Science>
+
+<start course description for 80-221 Philosophy of Social Science>
+Semester: Spring 2024 (aka S24)
+Course Description: This course will explore numerous philosophical issues that arise in the practice of various social sciences. One central question of the course is whether we can use traditional scientific reasoning to understand social phenomena, e.g. social inequalities, violence, changes in politics, discriminary practices, ecnomic forcasting, etc. in the same way that we use them to understand natural phenomena, e.g. gases, organisms, protein structure, and planetary orbits. Some of the more specific questions we address are: Because humans possess free will and act with intentions while light rays and planets in motion do not, are we forced to use  different kinds of explanations in the two cases? How can we explain social institutions that depend upon cooperation when there considerable pyschological evidence that cooperation doesn't help us in achieving our own personal goals? Whereas natural scientists actively conduct experiments, social scientists can often only collect statistical and qualitative data. Does this difference prevent social scientists from inferring causal relations and laws of social behavior? Is our understanding of social phenomena always value laden given that values are an inherent aspect of social life?
+</end course description for 80-221 Philosophy of Social Science>

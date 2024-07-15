@@ -1,0 +1,16 @@
+<start course metadata for 85-881 Thesis Research>
+Semester: Spring 2024 (aka S24)
+Course Name: Thesis Research
+Course Number: 85-881
+Department: Psychology
+Number of Units: N/A
+Prerequisites: None
+Instructors: Vicki Helgeson
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 85-881 Thesis Research>
+
+<start course description for 85-881 Thesis Research>
+Semester: Spring 2024 (aka S24)
+Course Description: None
+</end course description for 85-881 Thesis Research>

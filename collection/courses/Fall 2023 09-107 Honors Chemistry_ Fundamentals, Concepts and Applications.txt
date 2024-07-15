@@ -1,0 +1,16 @@
+<start course metadata for 09-107 Honors Chemistry: Fundamentals, Concepts and Applications>
+Semester: Fall 2023 (aka F23)
+Course Name: Honors Chemistry: Fundamentals, Concepts and Applications
+Course Number: 09-107
+Department: Chemistry
+Number of Units: 10
+Prerequisites: None
+Instructors: David Yaron
+Rooms: DH 1211
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 09-107 Honors Chemistry: Fundamentals, Concepts and Applications>
+
+<start course description for 09-107 Honors Chemistry: Fundamentals, Concepts and Applications>
+Semester: Fall 2023 (aka F23)
+Course Description: This is an honors introductory course designed to provide students with a rigorous coverage of general chemistry in the context of grand challenges in the field. Traditional topics, such as equilibrium, kinetics, acid-base chemistry, and quantum chemistry, will be discussed through current research on nucleic acid-based therapeutics, atmospheric chemistry of pollutants, and catalysts for the production of solar fuels. The approach will integrate traditional lectures and readings from the textbook with discussions of journal articles, on-line content on research methods, and guest lectures from CMU faculty in these areas. This course assumes strong preparation in chemistry (AP Chemistry score of 3 or greater; IB Chemistry score of 5 or greater; SAT II Chemistry exam with a score of 700 or greater) and will be offered at an accelerated pace. The goal is to teach core principles of chemistry while exposing students to the diversity of modern chemical research and how it is addressing grand challenges facing society. 3 hrs. lec., 2 hrs. rec.
+</end course description for 09-107 Honors Chemistry: Fundamentals, Concepts and Applications>

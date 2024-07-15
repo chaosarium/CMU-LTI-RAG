@@ -1,0 +1,16 @@
+<start course metadata for 19-684 Engineering and Technology Innovation Management in Practice>
+Semester: Fall 2023 (aka F23)
+Course Name: Engineering and Technology Innovation Management in Practice
+Course Number: 19-684
+Department: Engineering & Public Policy
+Number of Units: 6
+Prerequisites: None
+Instructors: Phillip Yu
+Rooms: BH A36
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 19-684 Engineering and Technology Innovation Management in Practice>
+
+<start course description for 19-684 Engineering and Technology Innovation Management in Practice>
+Semester: Fall 2023 (aka F23)
+Course Description: In this course, we will apply the fundamentals of innovation principles and practices to sponsored projects from corporations. You will work in teams to address the sponsors' objectives, using concepts such as six levers of innovation, seven innovation rules, design roadmapping, etc. Working closely with the sponsor is required so engaging in an appropriate professional manner is expected. Moreover, understanding how to approach team projects, manage team dynamics, and developing presentation skills will also be a part of the curriculum. The course is a culmination of utilizing your learnings from the ETIM program to address customers' needs.
+</end course description for 19-684 Engineering and Technology Innovation Management in Practice>

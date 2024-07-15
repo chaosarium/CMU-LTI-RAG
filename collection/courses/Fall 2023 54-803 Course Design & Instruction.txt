@@ -1,0 +1,16 @@
+<start course metadata for 54-803 Course Design & Instruction>
+Semester: Fall 2023 (aka F23)
+Course Name: Course Design & Instruction
+Course Number: 54-803
+Department: Drama
+Number of Units: 9
+Prerequisites: None
+Instructors: W. Arons
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-803 Course Design & Instruction>
+
+<start course description for 54-803 Course Design & Instruction>
+Semester: Fall 2023 (aka F23)
+Course Description: TBA
+</end course description for 54-803 Course Design & Instruction>

@@ -1,0 +1,16 @@
+<start course metadata for 06-799 Problems in Chemical Engineering>
+Semester: Spring 2024 (aka S24)
+Course Name: Problems in Chemical Engineering
+Course Number: 06-799
+Department: Chemical Engineering
+Number of Units: N/A
+Prerequisites: None
+Instructors: Aditya Khair
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 06-799 Problems in Chemical Engineering>
+
+<start course description for 06-799 Problems in Chemical Engineering>
+Semester: Spring 2024 (aka S24)
+Course Description: Place marker for Teaching Assistant assignments for Chemical Engineering PhD students.
+</end course description for 06-799 Problems in Chemical Engineering>

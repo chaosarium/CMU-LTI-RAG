@@ -1,0 +1,16 @@
+<start course metadata for 49-796 Software Management Independent Study>
+Semester: Fall 2023 (aka F23)
+Course Name: Software Management Independent Study
+Course Number: 49-796
+Department: Integrated Innovation Institute
+Number of Units: N/A
+Prerequisites: None
+Instructors: Fang Fang, Gladys Mercier, Karimulla Shaikh
+Rooms: 
+Locations: San Jose, California
+</end course metadata for 49-796 Software Management Independent Study>
+
+<start course description for 49-796 Software Management Independent Study>
+Semester: Fall 2023 (aka F23)
+Course Description: This independent study is designed to give students an opportunity to explore pertinent subjects through faculty directed reading or research. Variable hrs. Once you and the faculty have agreed upon the independent study, send the independent study form to the manager of Integrated Innovation Institute for enrollment. Restricted to only MSSM students. This course is for students who wish to take independent study as a mini instead of full-semester course (49790). Students must submit a proposal and be accepted into the course before being able to register.
+</end course description for 49-796 Software Management Independent Study>

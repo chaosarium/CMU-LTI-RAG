@@ -1,0 +1,16 @@
+<start course metadata for 49-712 User Experience Research: Theory, Methods, Practice>
+Semester: Fall 2023 (aka F23)
+Course Name: User Experience Research: Theory, Methods, Practice
+Course Number: 49-712
+Department: Integrated Innovation Institute
+Number of Units: 6
+Prerequisites: None
+Instructors: Francine Gemperle
+Rooms: CA 115
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 49-712 User Experience Research: Theory, Methods, Practice>
+
+<start course description for 49-712 User Experience Research: Theory, Methods, Practice>
+Semester: Fall 2023 (aka F23)
+Course Description: This course guides students through determining the need for research, planning and executing several iterations of user engagements with different UX research methods, analysis of data and development of a report. The course is focused primarily on qualitative data, although some time is spent to source quantitative data and leverage a mixed approach. The course is a mix of lectures, discussions and activities in class as well as an independent project. Readings are provided in addition to a course handbook created by the instructor. This is a required course for the MIIPS degree program. All others must contact the instructor for permission.
+</end course description for 49-712 User Experience Research: Theory, Methods, Practice>

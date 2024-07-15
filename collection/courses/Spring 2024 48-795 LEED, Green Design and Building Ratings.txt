@@ -1,0 +1,16 @@
+<start course metadata for 48-795 LEED, Green Design and Building Ratings>
+Semester: Spring 2024 (aka S24)
+Course Name: LEED, Green Design and Building Ratings
+Course Number: 48-795
+Department: Architecture
+Number of Units: 6
+Prerequisites: 48-315
+Instructors: Nina Baird
+Rooms: CFA 102
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-795 LEED, Green Design and Building Ratings>
+
+<start course description for 48-795 LEED, Green Design and Building Ratings>
+Semester: Spring 2024 (aka S24)
+Course Description: If you're interested in sustainable infrastructure and community design, have you considered how "green" strategies may vary around the world? Are there universal goals for the design of sustainable transportation, water systems or energy infrastructure, or must green goals and design approaches be adapted to a national or local context? 48795 A4, LEED, Green Infrastructure and Community Rating in Global Context, is a graduate level mini-course that compares global community and infrastructure rating systems to gain perspective about sustainable infrastructure development and community design. The course uses two rating systems--the US Green Building Council's Leadership in Energy and Environmental Design (LEED) Cities & Communities Rating System and the Institute for Sustainable Infrastructure (ISI) Envision Rating Systemas springboards for exploration and discussion of other world rating systems that address these topics. We'll consider how the goals and implementation of a rating system may reflect the national context in which the system was created and discuss emerging issues that may be omitted from these rating systems. The course provides a foundation for taking USGBC's LEED Green Associate and/or LEED Accredited Professional exams, or the ISI Envision Sustainability Professional exam and is designed to hone your critical thinking about sustainable urban design and infrastructure development in a global context.
+</end course description for 48-795 LEED, Green Design and Building Ratings>

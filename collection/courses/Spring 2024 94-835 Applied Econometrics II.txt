@@ -1,0 +1,16 @@
+<start course metadata for 94-835 Applied Econometrics II>
+Semester: Spring 2024 (aka S24)
+Course Name: Applied Econometrics II
+Course Number: 94-835
+Department: Heinz College Wide Courses
+Number of Units: 6
+Prerequisites: (90-711 or 90-777 or 95-796 or 90-707) and (94-834)
+Instructors: Akshaya Jha
+Rooms: HBH 1204; HBH A301
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 94-835 Applied Econometrics II>
+
+<start course description for 94-835 Applied Econometrics II>
+Semester: Spring 2024 (aka S24)
+Course Description: Econometrics is the statistical analysis of causal relationships in human affairs. Econometrics is essential for advancing understanding in the social sciences, conducting public policy evaluation, and assessing the impact of business practices. Applied Econometrics I and II is an integrated two-course sequence designed to teach the essentials of the econometric methodology. Econometrics I covers random assignment, multiple regression, and instrumental variables methods. Econometrics II covers regression discontinuity, difference-in-differences techniques, event study analysis, and synthetic control methods. Both Applied Econometrics I and Applied Econometrics II are "hands on" courses. Students learn to read and interpret existing studies, but also to conduct econometric analyses of their own.   Pre-requisites: Applied Econometrics II: Students are presumed to have taken 94-834 (Applied Econometrics I), and to have a solid grounding in basic statistics, at the level of 90-711 (Empirical Methods for Public Policy and Management), 90-786 (Intermediate Empirical Methods) or 95-796 (Statistics for IT Managers). We will make good use of the material covered in those courses.
+</end course description for 94-835 Applied Econometrics II>

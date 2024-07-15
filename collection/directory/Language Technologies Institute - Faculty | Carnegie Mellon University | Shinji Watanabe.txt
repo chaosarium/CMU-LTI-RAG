@@ -1,0 +1,6 @@
+Name: Shinji Watanabe
+Title: Associate Professor
+Email swatanab@andrew.cmu.edu
+Phone: 412-268-3687
+Office: 
+Interests: Natural Language Processing: Conversational AI, Intelligent Agents, and Dialogue, Speech Processing (ASR, Speech Synthesis): Speech Recognition, Speech Synthesis, Multilingual/Low-Resource Speech Processing, Speech-to-Speech Translation, Speech Enhancement / Robust Speech Processing

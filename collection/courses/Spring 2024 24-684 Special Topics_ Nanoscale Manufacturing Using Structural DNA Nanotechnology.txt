@@ -1,0 +1,16 @@
+<start course metadata for 24-684 Special Topics: Nanoscale Manufacturing Using Structural DNA Nanotechnology>
+Semester: Spring 2024 (aka S24)
+Course Name: Special Topics: Nanoscale Manufacturing Using Structural DNA Nanotechnology
+Course Number: 24-684
+Department: Mechanical Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Rebecca Taylor
+Rooms: SH 238
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-684 Special Topics: Nanoscale Manufacturing Using Structural DNA Nanotechnology>
+
+<start course description for 24-684 Special Topics: Nanoscale Manufacturing Using Structural DNA Nanotechnology>
+Semester: Spring 2024 (aka S24)
+Course Description: This course provides an introduction to modern nanoscale manufacturing using structural DNAnanotechnology. This DNA-based approach to manufacturing has much in common with other fabrication methods in micro- and nano-engineering: computer aided design tools are necessary for device design and resulting structures can only be seen using advanced microscopy. However, instead of machining larger materials down to micro- and nanostructures, DNA origami is fabricated using a "bottom up" approach for self-assembling individual oligonucleotides into 2D and 3D nanostructures. Resulting structures can be designed to have novel mechanical and electrical properties and have applications as broad-ranging as medicine, biological computing, and energy systems. The course will include lectures, hands-on physical modeling, homework problems, 3D modeling of DNA origami using caDNAno and CANDO software, and student team projects and presentations.
+</end course description for 24-684 Special Topics: Nanoscale Manufacturing Using Structural DNA Nanotechnology>

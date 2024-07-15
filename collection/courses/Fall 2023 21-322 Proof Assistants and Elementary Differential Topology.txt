@@ -1,0 +1,16 @@
+<start course metadata for 21-322 Proof Assistants and Elementary Differential Topology>
+Semester: Fall 2023 (aka F23)
+Course Name: Proof Assistants and Elementary Differential Topology
+Course Number: 21-322
+Department: Mathematical Sciences
+Number of Units: 9
+Prerequisites: (15-151 or 21-127 or 21-128) and (21-259 or 21-266 or 21-268 or 21-269)
+Instructors: Patrick Massot
+Rooms: WEH 5310
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-322 Proof Assistants and Elementary Differential Topology>
+
+<start course description for 21-322 Proof Assistants and Elementary Differential Topology>
+Semester: Fall 2023 (aka F23)
+Course Description: Complementary to 21-321 Interactive Theorem Proving, this course is designed to present special topics on the use of formalization and formal methods in mathematics. For example, the course might focus on formalization of a specific branch of mathematics, or on a specific method for automation or computational reasoning.
+</end course description for 21-322 Proof Assistants and Elementary Differential Topology>

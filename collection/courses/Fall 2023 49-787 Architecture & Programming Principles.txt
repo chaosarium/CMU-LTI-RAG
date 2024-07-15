@@ -1,0 +1,16 @@
+<start course metadata for 49-787 Architecture & Programming Principles>
+Semester: Fall 2023 (aka F23)
+Course Name: Architecture & Programming Principles
+Course Number: 49-787
+Department: Integrated Innovation Institute
+Number of Units: 12
+Prerequisites: None
+Instructors: Karimulla Shaikh
+Rooms: B23 118
+Locations: San Jose, California
+</end course metadata for 49-787 Architecture & Programming Principles>
+
+<start course description for 49-787 Architecture & Programming Principles>
+Semester: Fall 2023 (aka F23)
+Course Description: Software products are becoming increasingly large and complex, and the responsibility of Software Product Managers has extended beyond core product functionality into non-functional aspects like cloud platform selection, scale and reliability decisions, interoperability with other products, and future extensibility considerations. For this, they rely heavily on their development team to architect and design products that are reliable, scalable, flexible, cost-effective and "future-proof." They are surprised when the product fails to met these expectations - discovered only when the rubber meets the road - often too late to make any fundamental changes. These failures may manifest themselves in the inability of a product to scale the next million users, to integrate with other software systems, to support an international user base, or to enable sales through channels. This course aims to get product managers technically savvy about the non-functional aspects of a software system, and enable them to be influential in the architecture and design phase of product development. It will review a variety of architectures archetypes and analyze them for relevance to specific business requirements. It will also review some well-known products and explore their architectural characteristics. Students will architect and implement a software product using the principles learned in the course. Most coding will be done in Python, JavaScript and HTML. This course is designed for students with some experience in programming but who need to get a handle on architecture-level technical concepts.
+</end course description for 49-787 Architecture & Programming Principles>

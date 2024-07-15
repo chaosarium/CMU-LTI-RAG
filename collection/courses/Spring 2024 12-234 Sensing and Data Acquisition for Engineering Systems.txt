@@ -1,0 +1,16 @@
+<start course metadata for 12-234 Sensing and Data Acquisition for Engineering Systems>
+Semester: Spring 2024 (aka S24)
+Course Name: Sensing and Data Acquisition for Engineering Systems
+Course Number: 12-234
+Department: Civil & Environmental Engineering
+Number of Units: 4
+Prerequisites: 12-212
+Instructors: Sarah Christian
+Rooms: PH 107E
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 12-234 Sensing and Data Acquisition for Engineering Systems>
+
+<start course description for 12-234 Sensing and Data Acquisition for Engineering Systems>
+Semester: Spring 2024 (aka S24)
+Course Description: Collecting and analyzing massive amounts of data is integral to understanding and managing the complexities of our infrastructure systems. Civil and environmental engineers need to select tools and to collect data to gain an understanding of the problems they are trying to solve. In this course, students will learn how to choose and use a range of measuring tools from simple hand tools to advanced sensors to collect data in laboratory-based and system-level studies, followed by data acquisition and processing. Experiment subjects will span the breadth of the fields including, for example, structural, geotechnical, environmental, and transportation engineering. The sensors and data will be used to assess not only an individual infrastructure component, but also infrastructure systems and networks. Students will complete planning activities for each of the experiments, conduct experiments, and acquire the resulting data from sensors and other measurements. Results and analysis will be submitted as part of a report or post-laboratory assignment.
+</end course description for 12-234 Sensing and Data Acquisition for Engineering Systems>

@@ -1,0 +1,16 @@
+<start course metadata for 79-800 Readings>
+Semester: Spring 2024 (aka S24)
+Course Name: Readings
+Course Number: 79-800
+Department: History
+Number of Units: N/A
+Prerequisites: None
+Instructors: Allyson Creasman, Benno Weiner, Carl Kubler, Christopher Phillips, Donna Harsch, Edda Fields-Black, Edmund Russell, Instructor TBA, Jay Aronson, Joe Trotter, Joel Tarr, John Soluri, Lisa Tetrault, Nico Slate, Paul Eiss, Ricky Law, Scott Sandage, Steven Schlossman, Wendy Goldman
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 79-800 Readings>
+
+<start course description for 79-800 Readings>
+Semester: Spring 2024 (aka S24)
+Course Description: No course description provided.
+</end course description for 79-800 Readings>

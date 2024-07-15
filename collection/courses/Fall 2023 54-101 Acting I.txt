@@ -1,0 +1,16 @@
+<start course metadata for 54-101 Acting I>
+Semester: Fall 2023 (aka F23)
+Course Name: Acting I
+Course Number: 54-101
+Department: Drama
+Number of Units: 10
+Prerequisites: None
+Instructors: Andrew Smith, Bria Walker-Rhoze, Juan Rivera Lebron
+Rooms: PCA 314; PCA 318; PCA 321
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-101 Acting I>
+
+<start course description for 54-101 Acting I>
+Semester: Fall 2023 (aka F23)
+Course Description: A knowledge and beginning understanding of the components of acting. Basic exercises, improvisations and prepared work in relaxation, concentration, imagination, communication. The ability to create the reality of a given situation in theatrical terms. Craft fundamentals in preparation for scene study. The beginning development of the students creative resources.     This course is open to Drama majors only.
+</end course description for 54-101 Acting I>

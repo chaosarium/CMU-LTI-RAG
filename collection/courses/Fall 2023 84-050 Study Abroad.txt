@@ -1,0 +1,16 @@
+<start course metadata for 84-050 Study Abroad>
+Semester: Fall 2023 (aka F23)
+Course Name: Study Abroad
+Course Number: 84-050
+Department: Institute for Politics and Strategy
+Number of Units: 0
+Prerequisites: None
+Instructors: Audrey Cronin
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 84-050 Study Abroad>
+
+<start course description for 84-050 Study Abroad>
+Semester: Fall 2023 (aka F23)
+Course Description: This course number is a place holder and assigned to Institute for Politics and Strategy students studying abroad by the Office of International Education.
+</end course description for 84-050 Study Abroad>

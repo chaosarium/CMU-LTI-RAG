@@ -1,0 +1,16 @@
+<start course metadata for 54-250 Introduction to Scenic Design>
+Semester: Spring 2024 (aka S24)
+Course Name: Introduction to Scenic Design
+Course Number: 54-250
+Department: Drama
+Number of Units: 6
+Prerequisites: 54-169 and 54-172 and 54-171 and 54-231 and 54-232
+Instructors: Dick Block
+Rooms: PCA 307
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-250 Introduction to Scenic Design>
+
+<start course description for 54-250 Introduction to Scenic Design>
+Semester: Spring 2024 (aka S24)
+Course Description: This course will introduce students to the principles and methods of designing scenery using the development of ideas based on a text.
+</end course description for 54-250 Introduction to Scenic Design>

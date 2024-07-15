@@ -1,0 +1,16 @@
+<start course metadata for 02-602 Professional Issues for Computational and Automated Scientists>
+Semester: Fall 2023 (aka F23)
+Course Name: Professional Issues for Computational and Automated Scientists
+Course Number: 02-602
+Department: Computational Biology
+Number of Units: 3
+Prerequisites: None
+Instructors: Dan DeBlasio, Daniel Brasier
+Rooms: POS 152
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 02-602 Professional Issues for Computational and Automated Scientists>
+
+<start course description for 02-602 Professional Issues for Computational and Automated Scientists>
+Semester: Fall 2023 (aka F23)
+Course Description: This course gives Master's in Computational Biology and Master's in Automated Science students the opportunity to develop the professional skills necessary for a successful career in either academia or industry. This course, required in the first semester of both programs, will include assistance with elevator pitches, interview preparation, resume and cover letter writing, networking, and presentation skills. The course will also include opportunities to connect with computational biology professionals as part of industry outreach. The course will meet once a week and is pass/fail only.
+</end course description for 02-602 Professional Issues for Computational and Automated Scientists>

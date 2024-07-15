@@ -1,0 +1,16 @@
+<start course metadata for 18-730 Introduction to Computer Security>
+Semester: Fall 2023 (aka F23)
+Course Name: Introduction to Computer Security
+Course Number: 18-730
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: 15-214
+Instructors: Virgil Gligor
+Rooms: B23 212; DH 1211
+Locations: Pittsburgh, Pennsylvania; San Jose, California
+</end course metadata for 18-730 Introduction to Computer Security>
+
+<start course description for 18-730 Introduction to Computer Security>
+Semester: Fall 2023 (aka F23)
+Course Description: This course provides a principled introduction to techniques for defending against hostile adversaries in modern computer systems and computer networks. Topics covered in the course include operating system security; network security, including cryptography and cryptographic protocols, firewalls, and network denial-of-service attacks and defenses; user authentication technologies; security for network servers; web security; and security for mobile code technologies, such as Java and Javascript. More advanced topics will additionally be covered as time permits, such as: intrusion detection; techniques to provide privacy in Internet applications; and protecting digital content (music, video, software) from unintended use.
+</end course description for 18-730 Introduction to Computer Security>

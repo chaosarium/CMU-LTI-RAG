@@ -1,0 +1,16 @@
+<start course metadata for 98-057 Intro to Polytopes>
+Semester: Fall 2023 (aka F23)
+Course Name: Intro to Polytopes
+Course Number: 98-057
+Department: StuCo (Student Led Courses)
+Number of Units: 3
+Prerequisites: None
+Instructors: Aresh Pourkavoos
+Rooms: WEH 5304
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 98-057 Intro to Polytopes>
+
+<start course description for 98-057 Intro to Polytopes>
+Semester: Fall 2023 (aka F23)
+Course Description: This multifaceted course introduces students to polytopes, which are the n-dimensional generalizations of polygons and polyhedra. Topics include the history of the field (such as the work of Coxeter, Grünbaum, and Schläfli); their combinatorial structure as abstract polytopes; classes of polytopes e.g. regulars, uniforms, and nobles; operations on polytopes including truncations, products, and conjugations; connections to group theory, such as Coxeter groups and the monodromy group; connections to topology via simplicial complexes; more recent developments, e.g. generalizations to hypertopes; and the polytope rendering software Miratope. Additionally, students will have the opportunity to join the Polytope Discord, some of whose members are conducting research in the field. The course will reference Abstract Regular Polytopes (McMullen, Schulte) and Geometric Regular Polytopes (McMullen). The major assignments are an individual write-up on a polytope of the student's choice and a group presentation on an active area of polytope research.
+</end course description for 98-057 Intro to Polytopes>

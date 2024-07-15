@@ -1,0 +1,16 @@
+<start course metadata for 48-381 Issues of Practice>
+Semester: Spring 2024 (aka S24)
+Course Name: Issues of Practice
+Course Number: 48-381
+Department: Architecture
+Number of Units: 6
+Prerequisites: None
+Instructors: Stuart Coppedge
+Rooms: MM 103
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-381 Issues of Practice>
+
+<start course description for 48-381 Issues of Practice>
+Semester: Spring 2024 (aka S24)
+Course Description: "This course explores the interdependence of contracts, drawings, specifications, and correspondence and introduces the concept of the Standard of Care. It addresses business development, staff training, and time management and introduces the economic, cultural, and political contexts in which architecture is created. To reflect the pedagogical priorities of the school, social justice related issues related to architecture will be examined. Students will engage with practitioners, consultants, constructors, and others who together form the design and construction team to learn the specific knowledge and skills the team members bring and to understand the importance of collaboration. They will study the effects of owner expectations and field conditions. Students will learn the value of, and path to, licensure, exploring NCARB's licensure path and Architectural Experience Program (AXP). The course describes alternative career paths that would allow students to use knowledge and creative skills gained in their time in the School of Architecture. The class will align with related courses to provide a comprehensive exploration into the broad profession of architecture and be taught in coordination with the students' concurrent architecture studios so that the students can consider their studio projects from a practitioner's business perspective."
+</end course description for 48-381 Issues of Practice>

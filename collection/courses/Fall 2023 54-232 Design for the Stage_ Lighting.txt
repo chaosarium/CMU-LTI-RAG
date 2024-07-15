@@ -1,0 +1,16 @@
+<start course metadata for 54-232 Design for the Stage: Lighting>
+Semester: Fall 2023 (aka F23)
+Course Name: Design for the Stage: Lighting
+Course Number: 54-232
+Department: Drama
+Number of Units: 4
+Prerequisites: 54-171 and 54-170 and 54-172
+Instructors: Mary Stebbins
+Rooms: PCA 211
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-232 Design for the Stage: Lighting>
+
+<start course description for 54-232 Design for the Stage: Lighting>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is an introduction to the process of lighting design.  Students will engage in various hands-on light lab exercises and group projects to explore the physical properties of light in storytelling. Discovery and experimentation are encouraged. Students will begin to build a process for visualizing a play though the principles of design, interpreting a text, and communicating ideas.
+</end course description for 54-232 Design for the Stage: Lighting>

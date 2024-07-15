@@ -1,0 +1,16 @@
+<start course metadata for 42-782 Biomedical Engineering Systems Modeling and Analysis>
+Semester: Fall 2023 (aka F23)
+Course Name: Biomedical Engineering Systems Modeling and Analysis
+Course Number: 42-782
+Department: Biomedical Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Patjanaporn Chalacheva
+Rooms: BH A53; POS 152
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 42-782 Biomedical Engineering Systems Modeling and Analysis>
+
+<start course description for 42-782 Biomedical Engineering Systems Modeling and Analysis>
+Semester: Fall 2023 (aka F23)
+Course Description: This course will prepare students to develop mathematical models for biological systems and for biomedical engineering systems, devices, components, and processes and to use models for data reduction and for system performance analysis, prediction and optimization. Models considered will be drawn from a broad range of applications and will be based on algebraic equations, ordinary differential equations and partial differential equations. The tools of advanced engineering mathematics comprising analytical, computational and statistical approaches will be introduced and used for model manipulation. There will be an extra project.
+</end course description for 42-782 Biomedical Engineering Systems Modeling and Analysis>

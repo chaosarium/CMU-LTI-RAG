@@ -1,0 +1,16 @@
+<start course metadata for 10-703 Deep Reinforcement Learning & Control>
+Semester: Fall 2023 (aka F23)
+Course Name: Deep Reinforcement Learning & Control
+Course Number: 10-703
+Department: Machine Learning
+Number of Units: 12
+Prerequisites: 10-301 or 10-315 or 10-401 or 10-601 or 10-701 or 10-715
+Instructors: Katerina Fragkiadaki
+Rooms: GHC 4401
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 10-703 Deep Reinforcement Learning & Control>
+
+<start course description for 10-703 Deep Reinforcement Learning & Control>
+Semester: Fall 2023 (aka F23)
+Course Description: This course will cover latest advances in Reinforcement Learning and Imitation learning. This is a fast developing research field and an official textbook is available only for about one fourth of the course material. The rest will be taught from recent research papers. This course brings together many disciplines of Artificial Intelligence to show how to develop intelligent agent that can learn to sense the world and learn to act imitating others or maximizing sparse rewards Particular focus will be given in  incorporating visual sensory input and learning suitable visual state representations.
+</end course description for 10-703 Deep Reinforcement Learning & Control>

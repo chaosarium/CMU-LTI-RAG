@@ -1,0 +1,16 @@
+<start course metadata for 54-200 Dramaturgy Forum>
+Semester: Fall 2023 (aka F23)
+Course Name: Dramaturgy Forum
+Course Number: 54-200
+Department: Drama
+Number of Units: 1
+Prerequisites: None
+Instructors: Aysha Zackria, Caroline Holmes, Gwendolyn Kuhn
+Rooms: PH 126A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-200 Dramaturgy Forum>
+
+<start course description for 54-200 Dramaturgy Forum>
+Semester: Fall 2023 (aka F23)
+Course Description: Programmed and taught by senior students in the Dramaturgy program, this course is required for all Dramaturgy majors and meets once per week to discuss issues and topics of significance to the dramaturgy community.
+</end course description for 54-200 Dramaturgy Forum>

@@ -1,0 +1,16 @@
+<start course metadata for 60-203 Intermediate Studio: Museum as Resource>
+Semester: Spring 2024 (aka S24)
+Course Name: Intermediate Studio: Museum as Resource
+Course Number: 60-203
+Department: Art
+Number of Units: 10
+Prerequisites: None
+Instructors: Sean Beauford
+Rooms: OFF CAMPUS
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 60-203 Intermediate Studio: Museum as Resource>
+
+<start course description for 60-203 Intermediate Studio: Museum as Resource>
+Semester: Spring 2024 (aka S24)
+Course Description: This course, held within the Carnegie Museum of Art, will explore the museum as a resource for research, experimentation, and development. Students will investigate the ways museums can intersect with their creative disciplines and fields of study, and look at how its unique combination of internal and external assets can be utilized within their practice. We will look beyond the museum as a platform for exhibition and programing, and instead consider its functionality as a classroom and a laboratory. We will approach our time in this course as a research residency, prioritizing exploration and idea development. We will study the history of museums as sites of research for humanities, arts, social sciences, and STEM, and consider how as community art spaces, they're also sites of wonder and play. There will be readings, presentations, class discussions, visits from museum staff and working artists, and creative projects. Students will collaborate but also work toward the development of an individual project.
+</end course description for 60-203 Intermediate Studio: Museum as Resource>

@@ -1,0 +1,16 @@
+<start course metadata for 84-710 Thesis Proposal Tutorial>
+Semester: Fall 2023 (aka F23)
+Course Name: Thesis Proposal Tutorial
+Course Number: 84-710
+Department: Institute for Politics and Strategy
+Number of Units: 6
+Prerequisites: None
+Instructors: Kelly Voss
+Rooms: PH A21
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 84-710 Thesis Proposal Tutorial>
+
+<start course description for 84-710 Thesis Proposal Tutorial>
+Semester: Fall 2023 (aka F23)
+Course Description: The aim of this course is twofold. First, to equip students with a comprehensive understanding of what entails to produce a master's thesis. Students will read, think, and discuss relevant and novel research questions and the content and purpose of each of the components of the thesis. The second goal is to help students develop their thesis proposals, which will be drafted throughout the 14-week course. While the draft is not expected to include the data that will be analyzed in the thesis, students should identify the relevant data sources and will develop a clear outline of what they need to do to complete their thesis.
+</end course description for 84-710 Thesis Proposal Tutorial>

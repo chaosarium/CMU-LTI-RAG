@@ -1,0 +1,16 @@
+<start course metadata for 21-484 Graph Theory>
+Semester: Spring 2024 (aka S24)
+Course Name: Graph Theory
+Course Number: 21-484
+Department: Mathematical Sciences
+Number of Units: 9
+Prerequisites: (21-228 or 15-251) and (21-241 or 21-242)
+Instructors: Michael Young, Wesley Pegden
+Rooms: BH 235A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-484 Graph Theory>
+
+<start course description for 21-484 Graph Theory>
+Semester: Spring 2024 (aka S24)
+Course Description: Graph theory uses basic concepts to approach a diversity of problems and nontrivial applications in operations research, computer science and other disciplines. It is one of the very few mathematical areas where one is always close to interesting unsolved problems. Topics include graphs and subgraphs, trees, connectivity, Euler tours and Hamilton cycles, matchings, graph colorings, planar graphs and Euler's Formula, directed graphs, network flows, counting arguments, and graph algorithms.  (Three 50 minute lectures)
+</end course description for 21-484 Graph Theory>

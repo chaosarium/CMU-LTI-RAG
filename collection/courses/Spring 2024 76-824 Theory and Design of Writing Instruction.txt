@@ -1,0 +1,16 @@
+<start course metadata for 76-824 Theory and Design of Writing Instruction>
+Semester: Spring 2024 (aka S24)
+Course Name: Theory and Design of Writing Instruction
+Course Number: 76-824
+Department: English
+Number of Units: 12
+Prerequisites: None
+Instructors: Jungwan Yoon
+Rooms: PH 125D
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 76-824 Theory and Design of Writing Instruction>
+
+<start course description for 76-824 Theory and Design of Writing Instruction>
+Semester: Spring 2024 (aka S24)
+Course Description: This course introduces prospective and developing teachers to the most meaningful questions we can ask from the writing classroom: how do we design and sequence reading and writing tasks relevant to diverse learners? How do we teach writing so that students can effectively adapt their strategies to new writing situations? What knowledge about writing processes and texts should teachers have to design meaningful, culturally relevant learning experiences for developing writers? How do we assess what our students have learned, and how do we assess the fairness of our methods?We will approach these questions by reading from a variety of disciplines, including writing studies, second language writing studies, educational psychology, and instructional design. First we will conceptualize learners as readers and writers who bring diverse experiences and abilities to the classroom. We will then grapple with the questions about what we should teach our students, or which genres should students learn to write. To clarify the "what" question, we will consider frameworks from genre-based pedagogy, corpus-based pedagogy, and anti-racist pedagogy as they apply to teaching First-Year Writing and across disciplines. Finally, we will employ instructional design principles so that students will develop and situate their own pedagogical interventions within an existing curriculum that they have selected. Regular course requirements include brief synthesis papers of the course readings and a final project developed according to students' particular interests.
+</end course description for 76-824 Theory and Design of Writing Instruction>

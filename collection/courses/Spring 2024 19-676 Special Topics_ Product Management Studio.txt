@@ -1,0 +1,16 @@
+<start course metadata for 19-676 Special Topics: Product Management Studio>
+Semester: Spring 2024 (aka S24)
+Course Name: Special Topics: Product Management Studio
+Course Number: 19-676
+Department: Engineering & Public Policy
+Number of Units: 12
+Prerequisites: None
+Instructors: Melissa Murphy
+Rooms: WEH 4623
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 19-676 Special Topics: Product Management Studio>
+
+<start course description for 19-676 Special Topics: Product Management Studio>
+Semester: Spring 2024 (aka S24)
+Course Description: This course prepares students with the core skills for new product or service innovation success. Students will learn how to discover and define worthwhile customer problems to solve, conceive of a technological product or service solution, and design and communicate a compelling offer that will persuade customers to buy and use the solution. Students will learn to do these effectively both individually and within a team.    This is an active, learn-by-doing course featuring a hands-on, course-long, team project to recommend an innovative solution to a real-life problem. This problem and solution will be discovered, defined and validated by interviewing potential customers on three occasions.  The course uses a flipped-classroom learning approach, studio crit sessions, recitation sessions, project assignments and feedback to develop students' competencies. Prior to each class, students will complete lessons comprised of recorded video teaching, readings, lessons exercise, quizzes and/or assignments. In-class, students will spend the majority of their time sharing their work and collaborating with their team to converge on one set of decisions for their team project. In several classes, Studio Crit sessions will give each student team an opportunity to receive constructive criticism and improvement suggestions from their classmates and professors. The professors will coach and teach students along the way to develop their product management, collaboration and communication skills. The course culminates with each team delivering a final presentation and recommendation for their product or service idea.
+</end course description for 19-676 Special Topics: Product Management Studio>

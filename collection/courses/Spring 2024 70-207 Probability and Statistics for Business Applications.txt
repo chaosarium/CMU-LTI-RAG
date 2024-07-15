@@ -1,0 +1,16 @@
+<start course metadata for 70-207 Probability and Statistics for Business Applications>
+Semester: Spring 2024 (aka S24)
+Course Name: Probability and Statistics for Business Applications
+Course Number: 70-207
+Department: Business Administration
+Number of Units: 9
+Prerequisites: None
+Instructors: Anh Nguyen
+Rooms: TEP 2612
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 70-207 Probability and Statistics for Business Applications>
+
+<start course description for 70-207 Probability and Statistics for Business Applications>
+Semester: Spring 2024 (aka S24)
+Course Description: Elementary ideas in probability, statistics, and data analysis are presented in the context of their importance to modern business management. This course may use third-party course material that is not available for individual purchase from the publisher. If so, the third-party course material will be secured and provided by the Tepper School to students enrolled in the course, and students enrolled in the course will be required to pay to the University the associated additional course materials fee for the third-party course material provided. The amount of the course materials fee is dependent on the University's cost of the particular materials provided, and typically ranges from $13 to $75.
+</end course description for 70-207 Probability and Statistics for Business Applications>

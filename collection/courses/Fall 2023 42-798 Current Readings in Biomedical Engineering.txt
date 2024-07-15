@@ -1,0 +1,16 @@
+<start course metadata for 42-798 Current Readings in Biomedical Engineering>
+Semester: Fall 2023 (aka F23)
+Course Name: Current Readings in Biomedical Engineering
+Course Number: 42-798
+Department: Biomedical Engineering
+Number of Units: N/A
+Prerequisites: None
+Instructors: Instructor TBA
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 42-798 Current Readings in Biomedical Engineering>
+
+<start course description for 42-798 Current Readings in Biomedical Engineering>
+Semester: Fall 2023 (aka F23)
+Course Description: Current reading in BME led by BME faculty.
+</end course description for 42-798 Current Readings in Biomedical Engineering>

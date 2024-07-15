@@ -1,0 +1,16 @@
+<start course metadata for 85-794 Teaching Practicum>
+Semester: Fall 2023 (aka F23)
+Course Name: Teaching Practicum
+Course Number: 85-794
+Department: Psychology
+Number of Units: 9
+Prerequisites: None
+Instructors: Vicki Helgeson
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 85-794 Teaching Practicum>
+
+<start course description for 85-794 Teaching Practicum>
+Semester: Fall 2023 (aka F23)
+Course Description: Psychology Dept. Graduate Students Only.
+</end course description for 85-794 Teaching Practicum>

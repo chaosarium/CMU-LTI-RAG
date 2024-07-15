@@ -1,0 +1,16 @@
+<start course metadata for 90-825 Innovation Management in Practice>
+Semester: Fall 2023 (aka F23)
+Course Name: Innovation Management in Practice
+Course Number: 90-825
+Department: Public Policy & Mgt:Sch of Pub Pol & Mgt
+Number of Units: 6
+Prerequisites: None
+Instructors: Phillip Yu
+Rooms: BH A36
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 90-825 Innovation Management in Practice>
+
+<start course description for 90-825 Innovation Management in Practice>
+Semester: Fall 2023 (aka F23)
+Course Description: None
+</end course description for 90-825 Innovation Management in Practice>

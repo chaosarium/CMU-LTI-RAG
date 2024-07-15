@@ -1,0 +1,16 @@
+<start course metadata for 82-707 Introduction to Translation>
+Semester: Fall 2023 (aka F23)
+Course Name: Introduction to Translation
+Course Number: 82-707
+Department: Modern Languages
+Number of Units: 9
+Prerequisites: None
+Instructors: Lauren Shapiro
+Rooms: BH 136E
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 82-707 Introduction to Translation>
+
+<start course description for 82-707 Introduction to Translation>
+Semester: Fall 2023 (aka F23)
+Course Description: We will survey a number of different translation theories in order to understand the various approaches that are at our disposal when translating a text. All theory taught in class will be accompanied by hands-on translation projects that will give students the opportunity to try out their knowledge first-hand and evaluate the usefulness of different approaches on a personal basis. In addition, we will explore the profession of translation by researching conferences, forums, websites and associations. Last but not least, we will contact and interview a translator who does translation work we feel particularly passionate about. The course is meant as a general introduction to what it means to be a translator and is open to both undergraduate and graduate students with sufficient knowledge in a foreign language.
+</end course description for 82-707 Introduction to Translation>

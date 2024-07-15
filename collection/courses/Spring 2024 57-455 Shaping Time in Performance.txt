@@ -1,0 +1,16 @@
+<start course metadata for 57-455 Shaping Time in Performance>
+Semester: Spring 2024 (aka S24)
+Course Name: Shaping Time in Performance
+Course Number: 57-455
+Department: Music
+Number of Units: 9
+Prerequisites: None
+Instructors: John Ito
+Rooms: HOA 225
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-455 Shaping Time in Performance>
+
+<start course description for 57-455 Shaping Time in Performance>
+Semester: Spring 2024 (aka S24)
+Course Description: This course will look at basic questions that performers face: Which level of pulse do I want to feel as the main one?  How can I shape a pulse expressively?  Which measure in a phrase is felt as a main goal, especially when the phrase contains an unusual number of measures?  How can multiple tempi be meaningfully related?  Among many important formal arrival points, which are the most important?  In addition to these questions, we will also look at recent work on ways in which 18th-century musicians may have understood meter very differently from most musicians today.  These alternate perspectives open new possibilities for hearing and shaping the flow of musical time in baroque and classical music.  These issues will be pursued from two directions.  We will develop simple theoretical tools that can make score analysis a helpful input to the decisions that performers make about such questions.  We will also examine audio and video recordings by famous artists to see both how they dealt with these issues and what new questions are raised. Week-to-week work will include reading, listening, and score analysis. Students will write term papers that either use one of the main perspectives developed in class (starting from scores or starting from recordings) or else combine the two.  They will also give presentations about their projects to the class.
+</end course description for 57-455 Shaping Time in Performance>

@@ -1,0 +1,16 @@
+<start course metadata for 36-226 Introduction to Statistical Inference>
+Semester: Spring 2024 (aka S24)
+Course Name: Introduction to Statistical Inference
+Course Number: 36-226
+Department: Statistics and Data Science
+Number of Units: 9
+Prerequisites: 36-225 or 36-219 or 21-325 or 36-218 or 15-259 or 36-217
+Instructors: Zachary Branson
+Rooms: DH 2210
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 36-226 Introduction to Statistical Inference>
+
+<start course description for 36-226 Introduction to Statistical Inference>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is the second half of a year-long course in probability and mathematical statistics. Topics include estimation, confidence intervals, hypothesis testing, linear regression, and analysis of variance. A grade of C or better is required in order to advance to 36-401, 36-402 or any 36-46x course.
+</end course description for 36-226 Introduction to Statistical Inference>

@@ -1,0 +1,16 @@
+<start course metadata for 54-738 Scenic Painting II>
+Semester: Spring 2024 (aka S24)
+Course Name: Scenic Painting II
+Course Number: 54-738
+Department: Drama
+Number of Units: 6
+Prerequisites: None
+Instructors: Beth Zamborsky
+Rooms: PCA 107
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-738 Scenic Painting II>
+
+<start course description for 54-738 Scenic Painting II>
+Semester: Spring 2024 (aka S24)
+Course Description: Advanced Scene Painting is a year long course designed to explore some of the more complex problems of scene painting, including 3-D work, painting on materials that demand difficult painting techniques, more intensive subject matter, collaborative projects, shop techniques and working on pieces for public display.  The student will be expected to work outside of the classroom.
+</end course description for 54-738 Scenic Painting II>

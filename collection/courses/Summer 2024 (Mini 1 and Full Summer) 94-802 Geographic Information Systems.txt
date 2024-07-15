@@ -1,0 +1,16 @@
+<start course metadata for 94-802 Geographic Information Systems>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Geographic Information Systems
+Course Number: 94-802
+Department: Heinz College Wide Courses
+Number of Units: 12
+Prerequisites: None
+Instructors: Kristen Kurland
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 94-802 Geographic Information Systems>
+
+<start course description for 94-802 Geographic Information Systems>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: *The online summer version of 94802 is structured as a more technical offering for the MSIT student as compared to the inperson version taught in Fall/Spring. For this reason, students in the School of Public Policy must meet the pre-requisite of a B or better earned in 90728.*   A geographic information system (GIS) provides storage, retrieval, & visualization of geographically referenced data as well as design & analysis of spatial information. GIS provides unique analytical tools to investigate spatial relationships, patterns, & processes of cultural, biological, demographic, economic, social, environmental, health care, criminal, & other phenomena. The course includes lectures, computer labs, & a project using the leading desktop GIS software, ArcGIS Pro, from Esri, Inc. Subject areas include: Geographic concepts (world coordinate systems, map scale/projections, sea level/elevation), Government-provided map infrastructure (TIGER maps, census data, satellite & aerial photo images, local government cadastral maps), Map design (cartographic principles, interactive maps, map animations, & Web-based GIS), Geodatabases (importing spatial & attribute data, geocodes, table joins, data aggregation, & map queries), Creation of new spatial data (digitizing, geocoding, & dissolving vector features), Spatial data processing (clipping, merging, appending, joining, dissolving), Spatial analysis (proximity analysis, risk surface, site suitability, spatial data mining), Macros (form-based tools, flowchart-based design, user interface), 3D GIS (3D surface modeling, draping/extruding features, fly throughs, line-of-sight analysis), Raster GIS (hill shade, kernel density estimation, risk index modeling, raster queries), Data mining & cluster analysis (grouping analysis using centroid models & k-means algorithm), & Network analysis (traveling salesman problem, multi-vehicle routing problem, Huff gravity model location of facilities).
+</end course description for 94-802 Geographic Information Systems>

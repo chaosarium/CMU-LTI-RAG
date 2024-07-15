@@ -1,0 +1,16 @@
+<start course metadata for 66-182 Preserving History with Blockchain Technology>
+Semester: Spring 2024 (aka S24)
+Course Name: Preserving History with Blockchain Technology
+Course Number: 66-182
+Department: Dietrich College Interdisciplinary
+Number of Units: 9
+Prerequisites: None
+Instructors: Deepa Nair, MOHAMMAD AAZAM
+Rooms: CMB 3035
+Locations: Doha, Qatar
+</end course metadata for 66-182 Preserving History with Blockchain Technology>
+
+<start course description for 66-182 Preserving History with Blockchain Technology>
+Semester: Spring 2024 (aka S24)
+Course Description: Historical information, artifacts, and relics provide a window to our past and help us understand our present and foresee and prepare for the future. During times of conflict and internecine warfare, it is essential to preserve objects of historical and cultural heritage. Blockchain is a block of data chained together. It does three noteworthy things: 1. digitization, 2. tracing, and 3. security. For any non-digital historical data, Blockchain can provide digitization. For any data that requires tracing, such as scientific findings, religious information, or scriptures (including Hadith/sayings of the Prophet (s)), so on, tracing can play a pivotal role in going back to the originator and understanding the change on the way, as well as preserving it from any changes (which is part of security). Blockchain also involves a mining process, which includes stakeholders that audit the information of any newly added block of data, making Blockchain auditable, which is significant for history.   Using topics from blockchain technology, history, preservation, and science, this course provides students with the grand challenge of understanding how bitcoin and cryptocurrency can assist in providing potential solutions to the problems of authorship, impermanence, managing shared ownership, and stewardship of artifacts taken through war or colonialism. Many institutions and archives are considering and advocating the merits of blockchain-based repositories. In this Grand Challenge course, we want to examine how the seemingly opposed fields of study - history and blockchain technology - can be synergized to create a futuristic museum that captures monuments and artifacts, making them accessible to future generations.
+</end course description for 66-182 Preserving History with Blockchain Technology>

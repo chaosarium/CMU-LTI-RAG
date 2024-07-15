@@ -1,0 +1,16 @@
+<start course metadata for 06-642 Data Science and Machine Learning in Chemical Engineering>
+Semester: Spring 2024 (aka S24)
+Course Name: Data Science and Machine Learning in Chemical Engineering
+Course Number: 06-642
+Department: Chemical Engineering
+Number of Units: 6
+Prerequisites: None
+Instructors: John Kitchin
+Rooms: CMU REMOTE
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 06-642 Data Science and Machine Learning in Chemical Engineering>
+
+<start course description for 06-642 Data Science and Machine Learning in Chemical Engineering>
+Semester: Spring 2024 (aka S24)
+Course Description: This class will examine topics related to data science and machine learning in chemical engineering. This includes topics in data visualization and modeling. The course will emphasize computational implementations of these topics with applications in chemical engineering. Students will need to be comfortable with scientific programming. Students who have taken 06-623 and/or 06-625 should have the skills needed in this class.
+</end course description for 06-642 Data Science and Machine Learning in Chemical Engineering>

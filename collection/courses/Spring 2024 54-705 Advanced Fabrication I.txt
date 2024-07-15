@@ -1,0 +1,16 @@
+<start course metadata for 54-705 Advanced Fabrication I>
+Semester: Spring 2024 (aka S24)
+Course Name: Advanced Fabrication I
+Course Number: 54-705
+Department: Drama
+Number of Units: 6
+Prerequisites: None
+Instructors: Bernard Carter
+Rooms: PCA 107
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-705 Advanced Fabrication I>
+
+<start course description for 54-705 Advanced Fabrication I>
+Semester: Spring 2024 (aka S24)
+Course Description: For graduate technical directors.
+</end course description for 54-705 Advanced Fabrication I>

@@ -1,0 +1,16 @@
+<start course metadata for 45-748 Leadership Feedback>
+Semester: Fall 2023 (aka F23)
+Course Name: Leadership Feedback
+Course Number: 45-748
+Department: Business Administration
+Number of Units: 0
+Prerequisites: None
+Instructors: Wendy Hermann
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-748 Leadership Feedback>
+
+<start course description for 45-748 Leadership Feedback>
+Semester: Fall 2023 (aka F23)
+Course Description: To be determined
+</end course description for 45-748 Leadership Feedback>

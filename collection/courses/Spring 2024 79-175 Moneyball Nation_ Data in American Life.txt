@@ -1,0 +1,16 @@
+<start course metadata for 79-175 Moneyball Nation: Data in American Life>
+Semester: Spring 2024 (aka S24)
+Course Name: Moneyball Nation: Data in American Life
+Course Number: 79-175
+Department: History
+Number of Units: 9
+Prerequisites: None
+Instructors: Christopher Phillips
+Rooms: WEH 5403
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 79-175 Moneyball Nation: Data in American Life>
+
+<start course description for 79-175 Moneyball Nation: Data in American Life>
+Semester: Spring 2024 (aka S24)
+Course Description: From conducting clinical trials and evaluating prisoners' parole cases to drafting professional ballplayers, we increasingly make decisions using mathematical concepts and models. This course surveys the development of--and resistance to--such tools by grounding them in the recent cultural history of the United States. Focusing on baseball, medicine, and the law, we'll explore how and why Americans have come to believe mathematical and computational methods can solve complicated problems, even in seemingly unrelated moral, political, and social domains. The course encourages students to think critically about the wider implications of these transformations by situating their development historically.  This course fulfills Dietrich College's "Logic/Mathematical Reasoning" general education requirement.
+</end course description for 79-175 Moneyball Nation: Data in American Life>

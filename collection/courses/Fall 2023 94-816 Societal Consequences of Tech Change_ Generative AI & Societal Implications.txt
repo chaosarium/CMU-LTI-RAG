@@ -1,0 +1,16 @@
+<start course metadata for 94-816 Societal Consequences of Tech Change: Generative AI & Societal Implications>
+Semester: Fall 2023 (aka F23)
+Course Name: Societal Consequences of Tech Change: Generative AI & Societal Implications
+Course Number: 94-816
+Department: Heinz College Wide Courses
+Number of Units: 6
+Prerequisites: None
+Instructors: Jordan Usdan
+Rooms: HBH 1005
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 94-816 Societal Consequences of Tech Change: Generative AI & Societal Implications>
+
+<start course description for 94-816 Societal Consequences of Tech Change: Generative AI & Societal Implications>
+Semester: Fall 2023 (aka F23)
+Course Description: Technological change and the disruption that it brings frequently outpaces the ability of society and policy makers to respond. The idea behind the series of Societal Consequences of Technological Change courses is to prepare students to understand and respond to the disruptions and consequences of technology through critical thinking and construction of policy responses.  We are in the early stages of a new era of Artificial Intelligence (AI) that will profoundly change human experience. AI can now comprehend language and analyze and generate language, images, and videos at or near par with human experts in many domains. New AI experiences, such as OpenAI's ChatGPT, Google's Bard, and open-source offerings, have capabilities that will be applied to help people write, translate, and summarize language, and help humans with problem-solving and reasoning. These models can also understand computing languages, giving machines the capability to write and execute code within computing systems or on the Internet. This course will give students hands-on experience in using the latest AI technologies to supporttheir personal, educational, and work lives, which will increasingly be supported by AI copilots. You will learn the art of prompt engineering, how to use AI embedded in productivity applications, and how to avoid common failure modes of AI.This AI will also disrupt society in hard to predict ways. Students will learn about the possible societal implications and harms, and it will provide an overview of key AI policy debates and ongoing policy developments. The course will also examine how corporations are approaching responsible AI in product development and examine current debates around AI alignment and whether generative AI is precursor to AGI (Artificial General Intelligence).
+</end course description for 94-816 Societal Consequences of Tech Change: Generative AI & Societal Implications>

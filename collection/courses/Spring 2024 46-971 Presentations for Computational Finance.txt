@@ -1,0 +1,16 @@
+<start course metadata for 46-971 Presentations for Computational Finance>
+Semester: Spring 2024 (aka S24)
+Course Name: Presentations for Computational Finance
+Course Number: 46-971
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Abbe Depretis, Clara Burke, Ronald Placone
+Rooms: 88P 12031; BRD 507; TCS 250
+Locations: New York, New York; Pittsburgh, Pennsylvania
+</end course metadata for 46-971 Presentations for Computational Finance>
+
+<start course description for 46-971 Presentations for Computational Finance>
+Semester: Spring 2024 (aka S24)
+Course Description: You are never more visible in a financial organization than when you present. Clients and top management make conscious and unconscious decisions about your capabilities based upon your ability to communicate your ideas persuasively and succinctly. This course provides intensive training and practice in planning, preparing, and delivering the financial arguments your audiences will demand. Assignments focus on nonverbal, vocal and verbal training; rhetorical strategies that drive problem-solving deliverables; and visualization and framing strategies for financial data-rich content.
+</end course description for 46-971 Presentations for Computational Finance>

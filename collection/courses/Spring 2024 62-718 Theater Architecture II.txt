@@ -1,0 +1,16 @@
+<start course metadata for 62-718 Theater Architecture II>
+Semester: Spring 2024 (aka S24)
+Course Name: Theater Architecture II
+Course Number: 62-718
+Department: CFA Interdisciplinary
+Number of Units: N/A
+Prerequisites: None
+Instructors: Dick Block, Hal Hayes
+Rooms: MM 321
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 62-718 Theater Architecture II>
+
+<start course description for 62-718 Theater Architecture II>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is a continuation of Theater Architecture 1, 62408/708, which is a prerequisite. A diverse student cohort drawn from Architecture, Drama & Arts Management students will work with the programming and planning guidelines that were developed in Theater Architecture 1 to further define the building design (Architecture students), performing arts programming (MAM students), and production systems (Drama students) for the subject theater project. Faculty, professional consultants and students will participate in regular critiques of the development of the design, performance programming and production systems. Additional faculty and consultants include   Famed French theater designer Jean Guy Lecat  Preeminent theater architecture consultant & CMU Drama alumnus Len Auerbach  School of Drama University Professor Cindy Limaura  Heinz College Master of Arts Management Program Director Jessica Bowser Acrie Additional collaborations between the Architecture students and Drama lighting students in Architectural Lighting will further develop the site and interior lighting concepts for individual student design projects.
+</end course description for 62-718 Theater Architecture II>

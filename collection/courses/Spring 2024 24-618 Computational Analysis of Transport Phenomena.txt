@@ -1,0 +1,16 @@
+<start course metadata for 24-618 Computational Analysis of Transport Phenomena>
+Semester: Spring 2024 (aka S24)
+Course Name: Computational Analysis of Transport Phenomena
+Course Number: 24-618
+Department: Mechanical Engineering
+Number of Units: 12
+Prerequisites: 24-221 and 24-231 and 24-322
+Instructors: Satbir Singh
+Rooms: DH 1112
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-618 Computational Analysis of Transport Phenomena>
+
+<start course description for 24-618 Computational Analysis of Transport Phenomena>
+Semester: Spring 2024 (aka S24)
+Course Description: In this course, students will develop basic understanding and skill sets to perform simulations of transport phenomena (mass, momentum, and energy transport) for engineering applications using a CAE tool, learn to analyze and compare simulation results with theory or available data, and develop ability to relate numerical predictions to behavior of governing equations and the underlying physical system. First 8 weeks of the course will include lectures and simulation-based homework assignments. During last 7 weeks, teams of students will work on self-proposed projects related to computational analysis of transport phenomena. In the project, students will learn to approach loosely defined problems through design of adequate computational mesh, choice of appropriate numerical scheme and boundary conditions, selection of suitable physical models, efficient utilization of available computational resources etc. Each team will communicate results of their project through multiple oral presentations and a final written report. Detailed syllabus of the course is provided on the URL given below.
+</end course description for 24-618 Computational Analysis of Transport Phenomena>

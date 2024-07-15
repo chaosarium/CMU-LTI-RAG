@@ -1,0 +1,16 @@
+<start course metadata for 99-530 Senior Preparation Seminar>
+Semester: Fall 2023 (aka F23)
+Course Name: Senior Preparation Seminar
+Course Number: 99-530
+Department: Carnegie Mellon University-Wide Studies
+Number of Units: 6
+Prerequisites: None
+Instructors: Josh Schaldenbrand, M Shernell Smith
+Rooms: BH 342F
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 99-530 Senior Preparation Seminar>
+
+<start course description for 99-530 Senior Preparation Seminar>
+Semester: Fall 2023 (aka F23)
+Course Description: This mini course provides graduating seniors a chance to reflect on their experiences as students at Carnegie Mellon; intellectually, socially and as leaders in this community. In addition to its reflective component, the course will also look at how to prepare for upcoming transitions into post college roles and responsibilities. The course explores intrapersonal, interpersonal, and external factors at play for recent graduates.
+</end course description for 99-530 Senior Preparation Seminar>

@@ -1,0 +1,16 @@
+<start course metadata for 02-450 Automation of Scientific Research>
+Semester: Spring 2024 (aka S24)
+Course Name: Automation of Scientific Research
+Course Number: 02-450
+Department: Computational Biology
+Number of Units: 9
+Prerequisites: (10-315 or 10-701) and (15-122)
+Instructors: Jose Lugo-Martinez
+Rooms: BH A36
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 02-450 Automation of Scientific Research>
+
+<start course description for 02-450 Automation of Scientific Research>
+Semester: Spring 2024 (aka S24)
+Course Description: Automated scientific instruments are used widely in research and engineering. Robots dramatically increase the reproducibility of scientific experiments, and are often cheaper and faster than humans, but are most often used to execute brute-force sweeps over experimental conditions. The result is that many experiments are "wasted" on conditions where the effect could have been predicted. Thus, there is a need for computational techniques capable of selecting the most informative experiments.  This course will introduce students to techniques from Artificial Intelligence and Machine Learning for automatically selecting experiments to accelerate the pace of discovery and to reduce the overall cost of research. Real-world applications from Biology, Bioengineering, and Medicine will be studied. Grading will be based on homeworks and two exams. The course is intended to be self-contained, but students should have a basic knowledge of biology, programming, statistics, and machine learning.
+</end course description for 02-450 Automation of Scientific Research>

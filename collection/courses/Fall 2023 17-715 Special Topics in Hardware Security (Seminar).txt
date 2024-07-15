@@ -1,0 +1,16 @@
+<start course metadata for 17-715 Special Topics in Hardware Security (Seminar)>
+Semester: Fall 2023 (aka F23)
+Course Name: Special Topics in Hardware Security (Seminar)
+Course Number: 17-715
+Department: Software & Societal Systems
+Number of Units: 12
+Prerequisites: None
+Instructors: Riccardo Paccagnella
+Rooms: DH 1211
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 17-715 Special Topics in Hardware Security (Seminar)>
+
+<start course description for 17-715 Special Topics in Hardware Security (Seminar)>
+Semester: Fall 2023 (aka F23)
+Course Description: This is a seminar course that examines the security interplay between software and hardware in today's computer systems. The course covers microarchitectural side-channel attacks and defenses, trusted execution environments, transient execution attacks and defenses, fault attacks and defenses, and other emerging hardware security topics. The body of the course will be readings and discussion of seminal or noteworthy papers from the literature and guest lectures from industry. A lab assignment will help students gain hands-on experience with hardware security research. The course will culminate in an open-ended research project. This course is designed for students (PhD, masters, or advanced undergrads) who want to work on secure systems research projects where hardware plays a first-class role. Students who are interested in computer security or computer architecture in general will find it appealing too.
+</end course description for 17-715 Special Topics in Hardware Security (Seminar)>

@@ -1,0 +1,16 @@
+<start course metadata for 57-173 Survey of Western Music History>
+Semester: Fall 2023 (aka F23)
+Course Name: Survey of Western Music History
+Course Number: 57-173
+Department: Music
+Number of Units: 9
+Prerequisites: None
+Instructors: Paul Johnston
+Rooms: POS 153
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-173 Survey of Western Music History>
+
+<start course description for 57-173 Survey of Western Music History>
+Semester: Fall 2023 (aka F23)
+Course Description: This course surveys the development and contexts of European art music and its global adaptation. While keeping in view the chronology from Gregorian chant to the present, this survey emphasizes key personalities and issues, particularly issues relating to period style and interpretive decisions in performance.
+</end course description for 57-173 Survey of Western Music History>

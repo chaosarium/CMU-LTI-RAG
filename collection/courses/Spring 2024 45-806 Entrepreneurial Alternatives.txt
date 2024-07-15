@@ -1,0 +1,16 @@
+<start course metadata for 45-806 Entrepreneurial Alternatives>
+Semester: Spring 2024 (aka S24)
+Course Name: Entrepreneurial Alternatives
+Course Number: 45-806
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Leonard Caric
+Rooms: TEP 2110
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-806 Entrepreneurial Alternatives>
+
+<start course description for 45-806 Entrepreneurial Alternatives>
+Semester: Spring 2024 (aka S24)
+Course Description: Entrepreneurial Alternatives will examine paths of entrepreneurship outside of high-growth, new venture creation.  In particular, the course will focus on tactical elements of business acquisition and franchise purchase including target evaluation, financial analysis of targets, business valuation, deal structuring, financing of purchases, and post-purchase operations and integration.  In addition to its focus on business acquisition and franchise purchase, this course will explore other alternative entrepreneurial paths including social entrepreneurship and corporate entrepreneurship.
+</end course description for 45-806 Entrepreneurial Alternatives>

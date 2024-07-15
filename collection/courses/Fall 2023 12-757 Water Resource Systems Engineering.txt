@@ -1,0 +1,16 @@
+<start course metadata for 12-757 Water Resource Systems Engineering>
+Semester: Fall 2023 (aka F23)
+Course Name: Water Resource Systems Engineering
+Course Number: 12-757
+Department: Civil & Environmental Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: David Rounce, Jared Cohon
+Rooms: WEH 5328
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 12-757 Water Resource Systems Engineering>
+
+<start course description for 12-757 Water Resource Systems Engineering>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is concerned with the response of discrete and continuous linear elastic systems subjected to dynamic excitation. Newton's equations, Lagrange's equations, and variational principles are used to formulate the problems; their solution is based primarily on direct methods, transform methods, and the modal method of analysis. Applications to discrete systems, as well as various continuous systems involving individual components such as rods, beams, membranes and plates, are presented. Numerical methods of solution are discussed, although emphasis is on problem solving and physical interpretation of results using analytical methods. Prerequisites: Graduate standing or consent of the instructor.
+</end course description for 12-757 Water Resource Systems Engineering>

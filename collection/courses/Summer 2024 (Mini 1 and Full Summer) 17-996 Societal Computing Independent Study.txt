@@ -1,0 +1,16 @@
+<start course metadata for 17-996 Societal Computing Independent Study>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Societal Computing Independent Study
+Course Number: 17-996
+Department: Software & Societal Systems
+Number of Units: N/A
+Prerequisites: None
+Instructors: Bogdan Vasilescu, Fei Fang, Kathleen Carley, Lorrie Cranor, Nicolas Christin, Norman Sadeh, Patrick Park, Steven Wu
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 17-996 Societal Computing Independent Study>
+
+<start course description for 17-996 Societal Computing Independent Study>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: Note: This course previously offered as 08-996. Independent Study Course for Societal Computing
+</end course description for 17-996 Societal Computing Independent Study>

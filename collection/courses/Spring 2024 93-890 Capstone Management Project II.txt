@@ -1,0 +1,16 @@
+<start course metadata for 93-890 Capstone Management Project II>
+Semester: Spring 2024 (aka S24)
+Course Name: Capstone Management Project II
+Course Number: 93-890
+Department: Arts & Entertainment Management
+Number of Units: 9
+Prerequisites: None
+Instructors: Alison Emilio, Anna Lewgood, Daniel Green, Keith Eich, Kevin Stein, Michael Garner
+Rooms: DNM DNM
+Locations: Los Angeles, California
+</end course metadata for 93-890 Capstone Management Project II>
+
+<start course description for 93-890 Capstone Management Project II>
+Semester: Spring 2024 (aka S24)
+Course Description: The Capstone Project is a two-semester applied research project that represents the final requirement of the Master of Entertainment Industry Management (MEIM) Program. The Capstone provides the opportunity for students to apply the sum knowledge and skills gained from the MEIM program to real world issues facing the entertainment industry. Working in teams, and in consultation with industry professionals, students will define, outline and deliver an in-depth examination of a specific research topic, fulfilling a series of deliverables over the course of the project, and adhering to established research project formats and guidelines.
+</end course description for 93-890 Capstone Management Project II>

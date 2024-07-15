@@ -1,0 +1,16 @@
+<start course metadata for 82-239 Crazy Linguistically Rich Asian Languages>
+Semester: Fall 2023 (aka F23)
+Course Name: Crazy Linguistically Rich Asian Languages
+Course Number: 82-239
+Department: Modern Languages
+Number of Units: 9
+Prerequisites: None
+Instructors: Seth Wiener
+Rooms: PH 125B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 82-239 Crazy Linguistically Rich Asian Languages>
+
+<start course description for 82-239 Crazy Linguistically Rich Asian Languages>
+Semester: Fall 2023 (aka F23)
+Course Description: The languages spoken in China and Japan differ from those spoken in the west in a number of striking ways. In this 9-unit course, students will gain an understanding of the sound systems, morphosyntax, lexicon, writing systems, dialects, and varieties of Chinese and Japanese. Students will also learn how these neighboring languages and cultures have interacted and changed over time. The knowledge acquired in this course will be equally beneficial to those learning one of these languages and to those simply interested in better understanding East Asian languages and cultures.
+</end course description for 82-239 Crazy Linguistically Rich Asian Languages>

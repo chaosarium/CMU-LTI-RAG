@@ -1,0 +1,16 @@
+<start course metadata for 69-160 Swim Fit>
+Semester: Fall 2023 (aka F23)
+Course Name: Swim Fit
+Course Number: 69-160
+Department: Physical Education
+Number of Units: 3
+Prerequisites: None
+Instructors: Matthew Kinney
+Rooms: CUC POOL
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 69-160 Swim Fit>
+
+<start course description for 69-160 Swim Fit>
+Semester: Fall 2023 (aka F23)
+Course Description: Must be able to complete a 1000 yard swim (40 laps) prior to entering the class ; this is not a learn-to-swim class.  Pre and post timed swims, deep water treading, lap swimming interval training.   Average workout is around 2000 yards.
+</end course description for 69-160 Swim Fit>

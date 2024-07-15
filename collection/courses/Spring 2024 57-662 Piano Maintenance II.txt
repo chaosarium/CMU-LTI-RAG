@@ -1,0 +1,16 @@
+<start course metadata for 57-662 Piano Maintenance II>
+Semester: Spring 2024 (aka S24)
+Course Name: Piano Maintenance II
+Course Number: 57-662
+Department: Music
+Number of Units: 6
+Prerequisites: 57-661
+Instructors: Peter Stumpf
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-662 Piano Maintenance II>
+
+<start course description for 57-662 Piano Maintenance II>
+Semester: Spring 2024 (aka S24)
+Course Description: Students will employ the skills and knowledge learned in Piano Maintenance I, applying them directly to an individually assigned piano. Use of private lessons, class time and group projects will continue. Developing mechanical problem solving and time management skills will be emphasized.  Successful completion of both Piano Maintenance I and II will equip students with the basic resources needed to begin a career as a piano technician.
+</end course description for 57-662 Piano Maintenance II>

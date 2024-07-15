@@ -1,0 +1,16 @@
+<start course metadata for 27-111 Academic Variant>
+Semester: Spring 2024 (aka S24)
+Course Name: Academic Variant
+Course Number: 27-111
+Department: Materials Science & Engineering
+Number of Units: N/A
+Prerequisites: None
+Instructors: Robert Heard
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 27-111 Academic Variant>
+
+<start course description for 27-111 Academic Variant>
+Semester: Spring 2024 (aka S24)
+Course Description: TBA
+</end course description for 27-111 Academic Variant>

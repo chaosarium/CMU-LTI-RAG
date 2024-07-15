@@ -1,0 +1,16 @@
+<start course metadata for 46-885 Data Exploration and Visualization>
+Semester: Spring 2024 (aka S24)
+Course Name: Data Exploration and Visualization
+Course Number: 46-885
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Param Singh, Zoey Jiang
+Rooms: TEP 2111
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 46-885 Data Exploration and Visualization>
+
+<start course description for 46-885 Data Exploration and Visualization>
+Semester: Spring 2024 (aka S24)
+Course Description: No course description provided.
+</end course description for 46-885 Data Exploration and Visualization>

@@ -1,0 +1,6 @@
+Name: Florian Metze
+Title: Associate Research Professor
+Email fmetze@cs.cmu.edu
+Phone: 412-268-8984
+Office: 202 407 South Craig Street
+Interests: Machine Learning, Speech Processing

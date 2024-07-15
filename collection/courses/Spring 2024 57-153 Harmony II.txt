@@ -1,0 +1,16 @@
+<start course metadata for 57-153 Harmony II>
+Semester: Spring 2024 (aka S24)
+Course Name: Harmony II
+Course Number: 57-153
+Department: Music
+Number of Units: 9
+Prerequisites: 57-152
+Instructors: R. James Whipple, Richard Randall
+Rooms: CFA A2; HOA 223
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-153 Harmony II>
+
+<start course description for 57-153 Harmony II>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is a continuation of the study of common practice harmony, exploring dissonant and chromatic harmony.
+</end course description for 57-153 Harmony II>

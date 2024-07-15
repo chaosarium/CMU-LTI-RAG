@@ -1,0 +1,16 @@
+<start course metadata for 60-424 AI Generated Animation>
+Semester: Spring 2024 (aka S24)
+Course Name: AI Generated Animation
+Course Number: 60-424
+Department: Art
+Number of Units: 10
+Prerequisites: 60-110 or 60-220 or 60-125
+Instructors: Scott Andrew
+Rooms: CFA 317
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 60-424 AI Generated Animation>
+
+<start course description for 60-424 AI Generated Animation>
+Semester: Spring 2024 (aka S24)
+Course Description: This studio course offers an introduction to many AI tools for creatively generating animation projects.  The class will work exclusively with AI tools such as Runway, Deforum Stable Diffusion, Chat GPT, ElevenLabs, Midjouney, Dall-E, and more, with the expectation of final post production through Adobe Creative Cloud applications.  The class will offer an overview of the history and current artistic practices both independently and professionally utilizing AI, and will be visited by lawyers, artists, and historians working in this realm to offer a grounding in the ever-changing landscape, ethics, aesthetics and potential applications of AI tools. Students will use the tools covered in this course to generate storyboards, scripts, animated sequences, synthesized voice narration and voice acting, and sound designs, resulting in both narrative and experimental works of animation.
+</end course description for 60-424 AI Generated Animation>

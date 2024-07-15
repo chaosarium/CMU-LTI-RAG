@@ -1,0 +1,16 @@
+<start course metadata for 90-882 Behavioral Economics in Public Policy>
+Semester: Spring 2024 (aka S24)
+Course Name: Behavioral Economics in Public Policy
+Course Number: 90-882
+Department: Public Policy & Mgt:Sch of Pub Pol & Mgt
+Number of Units: 12
+Prerequisites: None
+Instructors: George Loewenstein
+Rooms: HBH 1002
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 90-882 Behavioral Economics in Public Policy>
+
+<start course description for 90-882 Behavioral Economics in Public Policy>
+Semester: Spring 2024 (aka S24)
+Course Description: "Economics has up to now been the social science that has been most broadly and deeply involved in public policy. With its rational choice perspective, the economic perspective has tended to favor certain types of policies, namely those that enhance the efficiency of market mechanisms and lower the cost of information. In this course we will spend the first several classes reviewing the assumptions, implications for public policy, and limitations of the rational choice perspective. The remainder of the course will then be devoted to examining different public policy issues, including saving, health care, crime and drug abuse, through the competing lenses of traditional and behavioral economics."
+</end course description for 90-882 Behavioral Economics in Public Policy>

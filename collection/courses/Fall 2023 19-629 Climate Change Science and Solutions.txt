@@ -1,0 +1,16 @@
+<start course metadata for 19-629 Climate Change Science and Solutions>
+Semester: Fall 2023 (aka F23)
+Course Name: Climate Change Science and Solutions
+Course Number: 19-629
+Department: Engineering & Public Policy
+Number of Units: 12
+Prerequisites: None
+Instructors: M Granger Morgan
+Rooms: WEH 5415
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 19-629 Climate Change Science and Solutions>
+
+<start course description for 19-629 Climate Change Science and Solutions>
+Semester: Fall 2023 (aka F23)
+Course Description: This course consists of four parts. The first part will provide a primer for those who are curious about the physical mechanisms by which climate is determined, and by which climate change occurs. The treatment of these mechanisms will not be overly quantitative, and no knowledge of meteorology or atmospheric science is needed. College-level physics, as well as basic calculus and basic chemistry, is, however, needed. The second part will describe the projected consequences of climate change, as well as those that are already occurring. This part will also familiarize students with how societies might adapt to these changes. The third part will explore (and critique) some of the tools that decision-makers use to quantify and compare the damages caused by these consequences. The final part of the course will discuss some of the technologies that could be used to prevent dangerous climate change.
+</end course description for 19-629 Climate Change Science and Solutions>

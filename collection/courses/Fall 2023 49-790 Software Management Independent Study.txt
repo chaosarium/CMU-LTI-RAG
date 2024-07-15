@@ -1,0 +1,16 @@
+<start course metadata for 49-790 Software Management Independent Study>
+Semester: Fall 2023 (aka F23)
+Course Name: Software Management Independent Study
+Course Number: 49-790
+Department: Integrated Innovation Institute
+Number of Units: N/A
+Prerequisites: None
+Instructors: Fang Fang, Gladys Mercier, Karimulla Shaikh
+Rooms: 
+Locations: San Jose, California
+</end course metadata for 49-790 Software Management Independent Study>
+
+<start course description for 49-790 Software Management Independent Study>
+Semester: Fall 2023 (aka F23)
+Course Description: Working with the faculty, realize that the faculty are most interested in Independent Study projects that further their own research goals. You may not be successful on your first inquiry, so please be patient. We want you to have a good Independent Study experience, so faculty are encouraged to say "no" if they don't have the cycles to mentor a project.   Once you and the faculty have agreed upon the independent study, send the independent study form to the director of your program. Students must submit a proposal and be accepted into the course before being able to register.
+</end course description for 49-790 Software Management Independent Study>

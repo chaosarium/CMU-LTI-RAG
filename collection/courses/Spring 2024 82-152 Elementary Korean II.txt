@@ -1,0 +1,16 @@
+<start course metadata for 82-152 Elementary Korean II>
+Semester: Spring 2024 (aka S24)
+Course Name: Elementary Korean II
+Course Number: 82-152
+Department: Modern Languages
+Number of Units: 12
+Prerequisites: 82-151
+Instructors: Devon Renfroe
+Rooms: PH 126A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 82-152 Elementary Korean II>
+
+<start course description for 82-152 Elementary Korean II>
+Semester: Spring 2024 (aka S24)
+Course Description: TBA
+</end course description for 82-152 Elementary Korean II>

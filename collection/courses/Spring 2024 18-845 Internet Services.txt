@@ -1,0 +1,16 @@
+<start course metadata for 18-845 Internet Services>
+Semester: Spring 2024 (aka S24)
+Course Name: Internet Services
+Course Number: 18-845
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: 18-213 or 18-613 or 15-213 or 15-513
+Instructors: David O'Hallaron
+Rooms: WEH 4623
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-845 Internet Services>
+
+<start course description for 18-845 Internet Services>
+Semester: Spring 2024 (aka S24)
+Course Description: This course investigates the issues involved in providing scalable and highly available network services over the best-effort Internet. Examples of such services include Web servers, application servers, search engines, proxy caches, online auction systems, and remote visualization. Topics include network programming, server design, clustering, caching, proxies, remote execution, resource naming, discovery, and monitoring, and wide-area metacomputing. The course consists of lectures on existing technology, student presentations of research papers, and a project where students design and implement a significant network service.
+</end course description for 18-845 Internet Services>

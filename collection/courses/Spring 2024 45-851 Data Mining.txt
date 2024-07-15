@@ -1,0 +1,16 @@
+<start course metadata for 45-851 Data Mining>
+Semester: Spring 2024 (aka S24)
+Course Name: Data Mining
+Course Number: 45-851
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Benjamin Collier
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-851 Data Mining>
+
+<start course description for 45-851 Data Mining>
+Semester: Spring 2024 (aka S24)
+Course Description: Interest in big data analytics has skyrocketed recently. The recent explosion in large-scale high-resolution data enables managers to ask and answer questions regarding businesses and consumers at a whole new level. Managers are faced with data about businesses and consumers that are growing faster than they can be utilized. Data mining enables business to extract useful consumer behavior and preferences from seemingly tremendous and unorganized data, which then can be utilized for data-driven decision-making and competitive advantage. Applications can be found in e-commerce, sales, marketing, finance, operations, etc.
+</end course description for 45-851 Data Mining>

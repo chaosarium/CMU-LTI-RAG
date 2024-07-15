@@ -1,0 +1,16 @@
+<start course metadata for 18-240 Structure and Design of Digital Systems>
+Semester: Fall 2023 (aka F23)
+Course Name: Structure and Design of Digital Systems
+Course Number: 18-240
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: 18-100
+Instructors: Tom Zajdel, William Nace
+Rooms: DH 2210
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-240 Structure and Design of Digital Systems>
+
+<start course description for 18-240 Structure and Design of Digital Systems>
+Semester: Fall 2023 (aka F23)
+Course Description: This course introduces basic issues in design and verification of modern digital systems. Topics include: Boolean algebra, digital number systems and computer arithmetic, combinational logic design and simplification, sequential logic design and optimization, register-transfer design of digital systems, basic processor organization and instruction set issues, assembly language programming and debugging, and a hardware description language. Emphasis is on the fundamentals: the levels of abstraction and hardware description language methods that allow designers to cope with hugely complex systems, and connections to practical hardware implementation problems. Students will use computer-aided digital design software and actual hardware implementation laboratories to learn about real digital systems. 3 hr. lec., 1 hr. rec., 3 hr. lab.
+</end course description for 18-240 Structure and Design of Digital Systems>

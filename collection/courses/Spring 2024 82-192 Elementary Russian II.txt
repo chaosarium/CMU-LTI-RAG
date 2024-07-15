@@ -1,0 +1,16 @@
+<start course metadata for 82-192 Elementary Russian II>
+Semester: Spring 2024 (aka S24)
+Course Name: Elementary Russian II
+Course Number: 82-192
+Department: Modern Languages
+Number of Units: 12
+Prerequisites: 82-191
+Instructors: Rossina Soyan
+Rooms: PH A21A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 82-192 Elementary Russian II>
+
+<start course description for 82-192 Elementary Russian II>
+Semester: Spring 2024 (aka S24)
+Course Description: Elementary Russian II is the second semester of a yearlong beginning Russian sequence. Students who complete this yearlong sequence will acquire the basics of Russian grammar and develop an active vocabulary of approximately 1,000 words. They will learn how to tell simple stories on familiar topics, ask questions, and express their opinions. They will be able to grasp the main ideas of short newspaper articles and understand the gist of straightforward Russian speech. Throughout the course, students will encounter oral, visual, and written content and engage in the interpretive, interpersonal, and presentational modes of communication. A student with prior experience in Russian must take the placement exam.
+</end course description for 82-192 Elementary Russian II>

@@ -1,0 +1,16 @@
+<start course metadata for 03-700 MS Honors Thesis Research>
+Semester: Fall 2023 (aka F23)
+Course Name: MS Honors Thesis Research
+Course Number: 03-700
+Department: Biological Sciences
+Number of Units: N/A
+Prerequisites: None
+Instructors: Daniel Brasier
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 03-700 MS Honors Thesis Research>
+
+<start course description for 03-700 MS Honors Thesis Research>
+Semester: Fall 2023 (aka F23)
+Course Description: A student enrolled in this course conducts an independent investigation on a project in a faculty advisor's lab. The project is selected from a major area of research study with the advice and approval of the faculty advisor. This course is required of students who are enrolled in the Master of Science program and wish to write and defend a thesis. This course is only for students who are writing an honors thesis.
+</end course description for 03-700 MS Honors Thesis Research>

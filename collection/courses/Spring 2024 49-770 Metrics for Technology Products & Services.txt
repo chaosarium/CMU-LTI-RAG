@@ -1,0 +1,16 @@
+<start course metadata for 49-770 Metrics for Technology Products & Services>
+Semester: Spring 2024 (aka S24)
+Course Name: Metrics for Technology Products & Services
+Course Number: 49-770
+Department: Integrated Innovation Institute
+Number of Units: 6
+Prerequisites: None
+Instructors: Jorge Taborga, Sheryl Root
+Rooms: B23 118; B23 212
+Locations: San Jose, California
+</end course metadata for 49-770 Metrics for Technology Products & Services>
+
+<start course description for 49-770 Metrics for Technology Products & Services>
+Semester: Spring 2024 (aka S24)
+Course Description: The Metrics for Technology Products & Services course provides an in-depth understanding and practice of applying metrics to plan and track the development of technology products and services and improve them over time by managing their market performance and value delivery. The course utilizes a business lens to understand and leverage metrics to generate questions and provide answers to meet business and customer goals, including delivered value and performance outcomes. Students will be exposed to a set of metrics architectures and their specific applications at different levels of work aggregation, namely team, program, and portfolio. Value stream mapping and analysis will be taught to identify opportunities for delivering value via adoption, cost reductions, and organizational capabilities. Through team-oriented case study assignments, students can select and design metrics systems to address business needs and value generation for product and service development and operations.
+</end course description for 49-770 Metrics for Technology Products & Services>

@@ -1,0 +1,16 @@
+<start course metadata for 04-654 Introduction to Probabilistic Graphical Model>
+Semester: Fall 2023 (aka F23)
+Course Name: Introduction to Probabilistic Graphical Model
+Course Number: 04-654
+Department: Information & Communication Technology
+Number of Units: 12
+Prerequisites: None
+Instructors: Assane Gueye, Carine Pierrett Mukamakuza
+Rooms: CMR F309
+Locations: Kigali, Rwanda
+</end course metadata for 04-654 Introduction to Probabilistic Graphical Model>
+
+<start course description for 04-654 Introduction to Probabilistic Graphical Model>
+Semester: Fall 2023 (aka F23)
+Course Description: TThis course provides an introduction to the subject of Probabilistic Graphical Models (PGM). PGM give a unified view for a wide range of problems arising in several domains such as artificial intelligence, statistics, computer systems, computer vision, natural language processing, and computational biology, among many other fields. They provide a very flexible and powerful framework for capturing statistical dependencies in complex, multivariate data. PGM brings together probability theory and graph theory to enable efficient inference, decision-making, and learning in problems with a very large number of attributes and huge datasets. This introductory course will provide you with a strong foundation necessary for applying graphical models to complex problems.
+</end course description for 04-654 Introduction to Probabilistic Graphical Model>

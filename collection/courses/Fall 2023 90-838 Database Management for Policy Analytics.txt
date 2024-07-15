@@ -1,0 +1,16 @@
+<start course metadata for 90-838 Database Management for Policy Analytics>
+Semester: Fall 2023 (aka F23)
+Course Name: Database Management for Policy Analytics
+Course Number: 90-838
+Department: Public Policy & Mgt:Sch of Pub Pol & Mgt
+Number of Units: 12
+Prerequisites: None
+Instructors: Xiaoying Tu
+Rooms: HBH 1002; HBH 1005
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 90-838 Database Management for Policy Analytics>
+
+<start course description for 90-838 Database Management for Policy Analytics>
+Semester: Fall 2023 (aka F23)
+Course Description: This semester-long course on database management systems is intended for students studying data analytics in non-technical graduate degree programs.  The course provides these students a solid understanding of concepts, and development of skills relevant for the efficient and successful management, access, and analysis of small or big data captured by relational database systems.   In addition to coverage of important theories and concepts, students will develop knowledge of and skill in using the Oracle 12C Database Management System, a relational database management platform utilized by many organizations. Topics covered include: fundamental concepts of database management systems; the relational model including relational algebra; SQL and Advanced SQL including query optimization and tuning; conceptual data modeling using UML, logical database design, including normalization; physical database organization and data access methods; database APIs; data preprocessing for analytics; overview of other analytic-related data technologies such as NoSQL, data warehousing, and data lakes.
+</end course description for 90-838 Database Management for Policy Analytics>

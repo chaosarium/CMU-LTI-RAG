@@ -1,0 +1,16 @@
+<start course metadata for 67-309 Special Topics: Information Assurance and Security>
+Semester: Fall 2023 (aka F23)
+Course Name: Special Topics: Information Assurance and Security
+Course Number: 67-309
+Department: Information Systems Program
+Number of Units: 6
+Prerequisites: 15-110 or 15-112
+Instructors: Perl
+Rooms: POS 145
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 67-309 Special Topics: Information Assurance and Security>
+
+<start course description for 67-309 Special Topics: Information Assurance and Security>
+Semester: Fall 2023 (aka F23)
+Course Description: Special Topics: Information Assurance is an introduction course for Information Systems students that focuses on information security concepts. This course will be a broad introduction to many aspects of information security that affect computer systems, your everyday life on the internet, your activities - and those of others, and the practices of all organizations using and building information systems. You will learn an introduction to the practice of securing information systems, how organizations manage risk to their information assets, what threats there are to the security of an information systems, strategies for organizational resilience, applicable US cyber laws, and how organizations respond to real incidents. You will hear about some of the major cyber incidents that have shaped the way security is performed by organizations on the internet today, and you will participate through class discussions and homework analyzing important recent cyber issues, real incidents, and internet-scale events. By the end of the class you will be able to analyze systems for security using the language of security professionals and analyze the implications of real world attacks on security systems by applying core information security concepts.
+</end course description for 67-309 Special Topics: Information Assurance and Security>

@@ -1,0 +1,16 @@
+<start course metadata for 19-654 Regulation of Internet Edge Platforms>
+Semester: Fall 2023 (aka F23)
+Course Name: Regulation of Internet Edge Platforms
+Course Number: 19-654
+Department: Engineering & Public Policy
+Number of Units: 6
+Prerequisites: None
+Instructors: Marvin Sirbu
+Rooms: WEH 4625
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 19-654 Regulation of Internet Edge Platforms>
+
+<start course description for 19-654 Regulation of Internet Edge Platforms>
+Semester: Fall 2023 (aka F23)
+Course Description: Social media, search and e-commerce platforms are under attack all over the world: antitrust lawsuits, complaints about "fake news," partisan bias, and disinformation on social media, calls to remove liability protections for platforms that post user-provided content, to regulate content and online marketplaces. In this course we will examine competing economic and policy approaches to the treatment of these platforms.  We will examine where these companies fit in the Internet ecosystem; how these firms make money (e.g. targeted advertising); traditional principles of antitrust and their application to multi-sided platforms; issues of Free Speech versus Disinformation on social networks, and how these firms differ from traditional media;   and a comparison of proposals for structural versus behavioral regulation.  Readings will be drawn from technical, economic, legal and policy sources.  Students will be encouraged to contrast competing approaches to these issues via in-class debates and written assignments.
+</end course description for 19-654 Regulation of Internet Edge Platforms>

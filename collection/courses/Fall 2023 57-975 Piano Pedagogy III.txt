@@ -1,0 +1,16 @@
+<start course metadata for 57-975 Piano Pedagogy III>
+Semester: Fall 2023 (aka F23)
+Course Name: Piano Pedagogy III
+Course Number: 57-975
+Department: Music
+Number of Units: 6
+Prerequisites: 57-974
+Instructors: Luz Manriquez
+Rooms: CFA M150
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-975 Piano Pedagogy III>
+
+<start course description for 57-975 Piano Pedagogy III>
+Semester: Fall 2023 (aka F23)
+Course Description: This class studies intermediate literature, analysis, teaching, and performance.
+</end course description for 57-975 Piano Pedagogy III>

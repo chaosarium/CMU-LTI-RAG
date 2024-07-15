@@ -1,0 +1,16 @@
+<start course metadata for 48-703 Master's Project>
+Semester: Spring 2024 (aka S24)
+Course Name: Master's Project
+Course Number: 48-703
+Department: Architecture
+Number of Units: N/A
+Prerequisites: None
+Instructors: Daniel Cardoso Llach, Erica Cochran, Instructor TBA, Man Kim, Ramesh Krishnamurti, Vivian Loftness
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-703 Master's Project>
+
+<start course description for 48-703 Master's Project>
+Semester: Spring 2024 (aka S24)
+Course Description: None
+</end course description for 48-703 Master's Project>

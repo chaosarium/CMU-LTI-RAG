@@ -1,0 +1,16 @@
+<start course metadata for 99-239 Introduction to Nanoscience and Technology>
+Semester: Summer Two 2024 (aka M24, M24 Mini 2, Summer 2024 Mini 2)
+Course Name: Introduction to Nanoscience and Technology
+Course Number: 99-239
+Department: Carnegie Mellon University-Wide Studies
+Number of Units: 9
+Prerequisites: None
+Instructors: Michael Bockstaller
+Rooms: DH 1211
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 99-239 Introduction to Nanoscience and Technology>
+
+<start course description for 99-239 Introduction to Nanoscience and Technology>
+Semester: Summer Two 2024 (aka M24, M24 Mini 2, Summer 2024 Mini 2)
+Course Description: None
+</end course description for 99-239 Introduction to Nanoscience and Technology>

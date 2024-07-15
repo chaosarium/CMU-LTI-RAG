@@ -1,0 +1,16 @@
+<start course metadata for 48-001 Architecture Elective>
+Semester: Summer Two 2024 (aka M24, M24 Mini 2, Summer 2024 Mini 2)
+Course Name: Architecture Elective
+Course Number: 48-001
+Department: Architecture
+Number of Units: 9
+Prerequisites: None
+Instructors: Instructor TBA
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-001 Architecture Elective>
+
+<start course description for 48-001 Architecture Elective>
+Semester: Summer Two 2024 (aka M24, M24 Mini 2, Summer 2024 Mini 2)
+Course Description: None
+</end course description for 48-001 Architecture Elective>

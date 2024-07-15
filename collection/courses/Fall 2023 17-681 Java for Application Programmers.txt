@@ -1,0 +1,16 @@
+<start course metadata for 17-681 Java for Application Programmers>
+Semester: Fall 2023 (aka F23)
+Course Name: Java for Application Programmers
+Course Number: 17-681
+Department: Software & Societal Systems
+Number of Units: 6
+Prerequisites: None
+Instructors: Terry Lee
+Rooms: HOA 160; WEH 7500
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 17-681 Java for Application Programmers>
+
+<start course description for 17-681 Java for Application Programmers>
+Semester: Fall 2023 (aka F23)
+Course Description: This course provides an intensive exploration of computer programming in the Java Language for students who have had some prior, but perhaps limited, programming experience in Java or in some other programming language. The course starts with a review of the fundamental topics of programming in Java (data types, operators, control structures) along with discussions of object oriented programming (classes, instances, and class hierarchies). After covering the basics we move on using Java to cover simple graphical user interfaces (using Swing), file I/O, concurrency (i.e., threads), network I/O (HTTP), simple data structures (lists and maps).  Students are required to have a reasonably modern laptop computer on which they will need to install the Java software used for this course. This course is open to undergraduate students who have some programming experience.
+</end course description for 17-681 Java for Application Programmers>

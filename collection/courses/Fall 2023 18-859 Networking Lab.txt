@@ -1,0 +1,16 @@
+<start course metadata for 18-859 Networking Lab>
+Semester: Fall 2023 (aka F23)
+Course Name: Networking Lab
+Course Number: 18-859
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Emmanuel Ndashimye
+Rooms: CMR E305
+Locations: Kigali, Rwanda
+</end course metadata for 18-859 Networking Lab>
+
+<start course description for 18-859 Networking Lab>
+Semester: Fall 2023 (aka F23)
+Course Description: Please go to the ECE Website to view "Special Topics in Communications" course descriptions.      http://www.ece.cmu.edu/courses/index.html
+</end course description for 18-859 Networking Lab>

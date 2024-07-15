@@ -1,0 +1,16 @@
+<start course metadata for 98-150 Student Taught Course: Great Ideas in the Arts>
+Semester: Fall 2023 (aka F23)
+Course Name: Student Taught Course: Great Ideas in the Arts
+Course Number: 98-150
+Department: StuCo (Student Led Courses)
+Number of Units: 3
+Prerequisites: 48-135 or 51-122
+Instructors: Aya Al Sabahi
+Rooms: 
+Locations: Doha, Qatar
+</end course metadata for 98-150 Student Taught Course: Great Ideas in the Arts>
+
+<start course description for 98-150 Student Taught Course: Great Ideas in the Arts>
+Semester: Fall 2023 (aka F23)
+Course Description: "Course objective will focus on tackling different topics in the Arts. Every week, there will be a different topic covered along with a different fun assignment. This will be a workshop style course that will hopefully open up eyes to creativity and shift perspectives in how one sees the world and observes it. Some key topics include: - analysis of media and attention to detail in comics, games, movies etc - tackling feeling uninspired - What makes everyday objects so great for art, turning the ordinary into the extraordinary - creating your own fantasy world - face composition - human body form & flow - expressing emotions visually through a piece of art  As Bob Ross once said, ""We don't make mistakes, just happy little accidents."""
+</end course description for 98-150 Student Taught Course: Great Ideas in the Arts>

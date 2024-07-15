@@ -1,0 +1,44 @@
+PhD_Student_Handbook_2023-2024
+2 The Language Technologies Institute  
+2.1 Pittsburgh Campus Location  
+The Language Technologies Institute is located primarily on the 5th and 6th floors of the  Gates 
+Hillman Complex (GHC) on Carnegie Mellon’s Pittsburgh campus.  The address and contact 
+information of the LTI are  shown below.  
+Language Technologies Institute  
+Carnegie Mellon University  
+5000 Forbes Avenue  
+Gates Hillman Complex  
+Pittsburgh, PA 15241 -3891  
+LTI Ph.D.  Graduate Student Handbook  Page 13 
+ 412-268-6298 (fax)  
+http://www.lti.cs.cmu.edu/   
+ 
+Office locations for faculty, staff, and Ph.D. students can be found on the LTI website.  
+2.2 Office Space 
+Most Ph.D. students in residence on the Pittsburgh campus are given an office in which to study 
+and do research. Typically, offices are shared with other Ph.D. students, but they may also be shared with staff, visitors, or other members of the LTI. 
+Offices are assigned by the LTI’s Office Manager (see Section 1.2 , Department Personnel, for 
+contact information).  
+2.3 Mailboxes and Office Supplies  
+Mailboxes and office supplies are in GHC 5404.  
+2.4 Photocopies and Printers  
+Printers and photocopies are available to LTI students. The use of a photocopier or printer 
+requires you to log in with your CMU ID card. LTI students may use printers/photocopiers 
+scattered throughout the School of Computer Science buildings , but the machines in GHC 5404 
+and GHC 6604  are the most convenient . The SCS Computing Facilities  publishes a list of printers 
+online at https://computing.cs.cmu.edu/desktop/printer -list. 
+2.5 Computers for LTI Ph.D.  Students  
+Ph.D. students are responsible for having their own laptop computers to support their education 
+and research. Students are free to choose their own operating system (e.g., Linux, MacOs, 
+Windows).  
+Many Ph.D. advisors also provide access to computer clusters, cloud computing, or other resources to support computationally -intense research.  
+Ph.D. students are given access to the LTI’s computer cluster on an as- needed basis, to be used for 
+course assignments, directed study projects, and/or capstone projects.  The LTI cluster provides 
+storage and computation for projects involving large datasets and/or lengthy computation.  
+Ph.D. students receive two types of user ids: An Andrew id and a CS id. All CMU students have 
+an Andrew id. Computer Science students also have a CS id that provides access to SCS -specific 
+resources (e.g., computer clusters). CS ids are being phased out very slowly, so it is likely that you will need both types of user id.  
+LTI Ph.D.  Graduate Student Handbook  Page 14 
+ The School of Computer Science has a Help Center in GHC 4201 . It can be contacted at 
+help@cs.cmu.edu  , extension 8 -4231 from a campus phone, or 412 -268-4231 from an outside line  
+(M- F, 9am- 5pm) . 

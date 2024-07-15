@@ -1,0 +1,16 @@
+<start course metadata for 21-902 Doctoral Thesis Research>
+Semester: Fall 2023 (aka F23)
+Course Name: Doctoral Thesis Research
+Course Number: 21-902
+Department: Mathematical Sciences
+Number of Units: N/A
+Prerequisites: None
+Instructors: Agoston Pisztora, Alan Frieze, Boris Bukh, Clinton Conley, David Kinderlehrer, Dejan Slepcev, Dmitry Kramkov, Ernest Schimmerling, Florian Frick, Gautam Iyer, Giovanni Leoni, Ian Tice, Instructor TBA, Irene Fonseca, James Cummings, Konstantin Tikhomirov, Martin Larsson, Michael Young, Mykhaylo Shkolnikov, Noel Walkington, Po-Shen Loh, Prasad Tetali, Rami Grossberg, Richard Statman, Robin Neumayer, Theresa Anderson, Tom Bohman, Tomasz Tkocz, Wesley Pegden, William Hrusa
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-902 Doctoral Thesis Research>
+
+<start course description for 21-902 Doctoral Thesis Research>
+Semester: Fall 2023 (aka F23)
+Course Description: No course description provided.
+</end course description for 21-902 Doctoral Thesis Research>

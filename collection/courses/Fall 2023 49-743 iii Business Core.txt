@@ -1,0 +1,16 @@
+<start course metadata for 49-743 iii Business Core>
+Semester: Fall 2023 (aka F23)
+Course Name: iii Business Core
+Course Number: 49-743
+Department: Integrated Innovation Institute
+Number of Units: 6
+Prerequisites: None
+Instructors: David Lamont
+Rooms: CA 108
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 49-743 iii Business Core>
+
+<start course description for 49-743 iii Business Core>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is focused on building a lattice of skills that will integrate the main business functions of Finance, Operations and Marketing and Strategy into a unified decision-making framework. The goal is for students to understand and appreciate the multi-dimensional reality of how business is conducted.  We will use a dual thread of theory and practice.  Students will be solving novel problems with tools in a team setting so as to validate their understanding of the business problem solving approaches.
+</end course description for 49-743 iii Business Core>

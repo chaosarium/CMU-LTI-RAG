@@ -1,0 +1,16 @@
+<start course metadata for 93-887 Practicum I>
+Semester: Fall 2023 (aka F23)
+Course Name: Practicum I
+Course Number: 93-887
+Department: Arts & Entertainment Management
+Number of Units: 1
+Prerequisites: None
+Instructors: Daniel Green
+Rooms: 
+Locations: Los Angeles, California
+</end course metadata for 93-887 Practicum I>
+
+<start course description for 93-887 Practicum I>
+Semester: Fall 2023 (aka F23)
+Course Description: Practicum I
+</end course description for 93-887 Practicum I>

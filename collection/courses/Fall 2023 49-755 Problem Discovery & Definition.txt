@@ -1,0 +1,16 @@
+<start course metadata for 49-755 Problem Discovery & Definition>
+Semester: Fall 2023 (aka F23)
+Course Name: Problem Discovery & Definition
+Course Number: 49-755
+Department: Integrated Innovation Institute
+Number of Units: 6
+Prerequisites: None
+Instructors: Fang Fang, Sheryl Root
+Rooms: B23 109; B23 212
+Locations: San Jose, California
+</end course metadata for 49-755 Problem Discovery & Definition>
+
+<start course description for 49-755 Problem Discovery & Definition>
+Semester: Fall 2023 (aka F23)
+Course Description: Students identify and describe meaningful business or social problem that can be improved in part by software technologies. Students apply a variety of techniques to elicit and model customer requirements, perform an analysis of competing products, and write a compelling vision for a creative product or service solution. Students create a product description document that captures solution alternatives for the business or social problem they are solving.
+</end course description for 49-755 Problem Discovery & Definition>

@@ -1,0 +1,16 @@
+<start course metadata for 36-471 Special Topics: Time Series>
+Semester: Spring 2024 (aka S24)
+Course Name: Special Topics: Time Series
+Course Number: 36-471
+Department: Statistics and Data Science
+Number of Units: 9
+Prerequisites: 36-401
+Instructors: Mikael Kuusela
+Rooms: SH 236
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 36-471 Special Topics: Time Series>
+
+<start course description for 36-471 Special Topics: Time Series>
+Semester: Spring 2024 (aka S24)
+Course Description: This course covers time series analysis from fundamentals to advanced models in both time and frequency domains. The focus is on practical execution and interpretation of time series analyses with realistic real-world data.
+</end course description for 36-471 Special Topics: Time Series>

@@ -1,0 +1,16 @@
+<start course metadata for 84-498 Undergraduate Research>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Undergraduate Research
+Course Number: 84-498
+Department: Institute for Politics and Strategy
+Number of Units: N/A
+Prerequisites: None
+Instructors: Instructor TBA
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 84-498 Undergraduate Research>
+
+<start course description for 84-498 Undergraduate Research>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: Students conduct research under the supervision of a CMIST faculty member. Students who wish to engage in research should seek out a faculty member whose interests are appropriate to the research. Prerequisite: Students must also complete an "Independent Study/Research for Credit" form, available on the CMIST website.  Permission of a faculty sponsor.
+</end course description for 84-498 Undergraduate Research>

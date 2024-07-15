@@ -1,0 +1,16 @@
+<start course metadata for 47-805 Macroeconomics III>
+Semester: Spring 2024 (aka S24)
+Course Name: Macroeconomics III
+Course Number: 47-805
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Liyan Shi
+Rooms: TEP 4219
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 47-805 Macroeconomics III>
+
+<start course description for 47-805 Macroeconomics III>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is the last course in the core macro sequence of the economics PhD program. It covers advanced topics in macroeconomics. These include monetary economics, models of firm dynamics, technology adoption, innovation and growth.
+</end course description for 47-805 Macroeconomics III>

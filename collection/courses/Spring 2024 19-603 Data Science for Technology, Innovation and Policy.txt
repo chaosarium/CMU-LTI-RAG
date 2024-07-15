@@ -1,0 +1,16 @@
+<start course metadata for 19-603 Data Science for Technology, Innovation and Policy>
+Semester: Spring 2024 (aka S24)
+Course Name: Data Science for Technology, Innovation and Policy
+Course Number: 19-603
+Department: Engineering & Public Policy
+Number of Units: 12
+Prerequisites: None
+Instructors: Paul Welle
+Rooms: GHC 4307
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 19-603 Data Science for Technology, Innovation and Policy>
+
+<start course description for 19-603 Data Science for Technology, Innovation and Policy>
+Semester: Spring 2024 (aka S24)
+Course Description: Students will learn how to use R to collect, organize, and analyze data in technology, innovation, and policy-related domains. The focus will be on the practical issues faced when conducting data analyses, correctly implementing and interpreting statistical models, and summarizing results for clients and research purposes.
+</end course description for 19-603 Data Science for Technology, Innovation and Policy>

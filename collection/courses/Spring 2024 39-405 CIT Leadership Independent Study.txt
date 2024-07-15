@@ -1,0 +1,16 @@
+<start course metadata for 39-405 CIT Leadership Independent Study>
+Semester: Spring 2024 (aka S24)
+Course Name: CIT Leadership Independent Study
+Course Number: 39-405
+Department: CIT Interdisciplinary
+Number of Units: 9
+Prerequisites: 39-402
+Instructors: Michael Murphy
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 39-405 CIT Leadership Independent Study>
+
+<start course description for 39-405 CIT Leadership Independent Study>
+Semester: Spring 2024 (aka S24)
+Course Description: The CIT Leadership Independent Study provides the opportunity for a student to deeply focus on various issues relating to leadership development.  The experience will be largely driven by directed readings, video and related research, experiential opportunities, written assessment, reflective journaling, and one:one meetings with the instructor.  39-402 is a prerequisite for this independent study.
+</end course description for 39-405 CIT Leadership Independent Study>

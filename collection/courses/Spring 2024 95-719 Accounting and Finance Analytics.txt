@@ -1,0 +1,16 @@
+<start course metadata for 95-719 Accounting and Finance Analytics>
+Semester: Spring 2024 (aka S24)
+Course Name: Accounting and Finance Analytics
+Course Number: 95-719
+Department: Information Systems:Sch of IS & Mgt
+Number of Units: 6
+Prerequisites: None
+Instructors: Jillian Stephenson, William Gogolak
+Rooms: HBH 1202; HBH 1204; HBH 1206
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 95-719 Accounting and Finance Analytics>
+
+<start course description for 95-719 Accounting and Finance Analytics>
+Semester: Spring 2024 (aka S24)
+Course Description: The focus of this course is on the basics of reading and interpreting financial statements in for-profit companies and financial evaluation of projects.  These are critical skills for any manager. Owners (shareholders) expect managers to operate their companies in a way that produces creates wealth. For this reason, managers must know how their decisions affect the company's profits. This course provides the background students will need to be successful in their careers.
+</end course description for 95-719 Accounting and Finance Analytics>

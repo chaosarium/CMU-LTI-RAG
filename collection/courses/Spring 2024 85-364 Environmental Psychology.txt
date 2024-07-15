@@ -1,0 +1,16 @@
+<start course metadata for 85-364 Environmental Psychology>
+Semester: Spring 2024 (aka S24)
+Course Name: Environmental Psychology
+Course Number: 85-364
+Department: Psychology
+Number of Units: 9
+Prerequisites: 85-211 or 85-241
+Instructors: Jennifer Lynn Bruder
+Rooms: CMB 2049
+Locations: Doha, Qatar
+</end course metadata for 85-364 Environmental Psychology>
+
+<start course description for 85-364 Environmental Psychology>
+Semester: Spring 2024 (aka S24)
+Course Description: TBA
+</end course description for 85-364 Environmental Psychology>

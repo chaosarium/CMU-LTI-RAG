@@ -1,0 +1,16 @@
+<start course metadata for 85-377 Attitudes and Persuasion>
+Semester: Fall 2023 (aka F23)
+Course Name: Attitudes and Persuasion
+Course Number: 85-377
+Department: Psychology
+Number of Units: 9
+Prerequisites: 85-241
+Instructors: Jocelyn Belanger
+Rooms: CMB 1031
+Locations: Doha, Qatar
+</end course metadata for 85-377 Attitudes and Persuasion>
+
+<start course description for 85-377 Attitudes and Persuasion>
+Semester: Fall 2023 (aka F23)
+Course Description: This advanced undergraduate course will focus on the topic of attitude change and how various persuasive techniques are used to shape human response. The dynamics of propaganda and what makes the techniques effective on social and consumer decisions will be addressed.  The primary goals of the course are to 1) understand the dynamics of attitude change; 2) explore the mechanism by which attitude change techniques operate and 3) examine relevant theories and research in persuasion.  Examples of topics covered include the origins of attitudes, how attitudes influence judgments, social power and attitude change, and how individual decisions are influenced by the mass media.   Classic and contemporary research in the area of persuasion will be examined in the form of course readings and assignments.
+</end course description for 85-377 Attitudes and Persuasion>

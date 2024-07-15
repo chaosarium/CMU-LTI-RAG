@@ -1,0 +1,16 @@
+<start course metadata for 67-354 Sustainability in the Digital Age>
+Semester: Fall 2023 (aka F23)
+Course Name: Sustainability in the Digital Age
+Course Number: 67-354
+Department: Information Systems Program
+Number of Units: 9
+Prerequisites: 67-250
+Instructors: Chadi Aoun
+Rooms: CMB 2051
+Locations: Doha, Qatar
+</end course metadata for 67-354 Sustainability in the Digital Age>
+
+<start course description for 67-354 Sustainability in the Digital Age>
+Semester: Fall 2023 (aka F23)
+Course Description: Environmental, economic, and societal challenges are affecting the sustainability of many communities around the globe. Given its multidisciplinary foundation, IS presents an important potential for enabling adaptation and mitigation to these challenges. IS innovation could also play a prominent role in transforming unsustainable problem spaces into sustainable and resilient systems. What is needed is sustainability minded IS professionals to lead such transformation. This course introduces students (future IS leaders) to the fundamentals of sustainability in the 21st century. It includes topics on Green IS, Smart Cities, and the Information Economy. The course invites students to proactively reflect on sustainability issues and their effects on policy and leadership. In such reflection, students are encouraged to consider various case-based scenarios where they evaluate challenges to sustainability and developed innovative, strategic, practical, and rigorously supported IS based solutions.
+</end course description for 67-354 Sustainability in the Digital Age>

@@ -1,0 +1,16 @@
+<start course metadata for 51-175 Design Studies: Place>
+Semester: Fall 2023 (aka F23)
+Course Name: Design Studies: Place
+Course Number: 51-175
+Department: Design
+Number of Units: 5
+Prerequisites: None
+Instructors: Esther Kang
+Rooms: MM A11
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-175 Design Studies: Place>
+
+<start course description for 51-175 Design Studies: Place>
+Semester: Fall 2023 (aka F23)
+Course Description: "Place" introduces you to place-based design thinking. It trains your senses to perceive all that is designed and sustains everyday human lifestyles, especially those infrastructures and services invisible to city dwellers in the built environment. In addition, you will recognize relations between natural and artificial worlds. Coursework covers methods to evaluate individual and collective environmental and social impact at a regional and local level through techniques that develop capacities to reveal dynamic relationships among elements.
+</end course description for 51-175 Design Studies: Place>

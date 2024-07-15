@@ -1,0 +1,16 @@
+<start course metadata for 24-262 Mechanics II: 3D Design>
+Semester: Spring 2024 (aka S24)
+Course Name: Mechanics II: 3D Design
+Course Number: 24-262
+Department: Mechanical Engineering
+Number of Units: 10
+Prerequisites: (33-106 or 33-141 or 33-151) and (24-261)
+Instructors: Christopher McComb
+Rooms: DH 2315
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-262 Mechanics II: 3D Design>
+
+<start course description for 24-262 Mechanics II: 3D Design>
+Semester: Spring 2024 (aka S24)
+Course Description: This is the second course in a three-semester sequence that integrates the principles of mechanics with hands-on projects that have students apply those principles in a design context. In the second semester, students extend their foundation in 2D statics to the analysis of 3D engineering systems, including determination of reactions at connections and internal loads. Friction, shear stress, and shear strain are introduced, followed by a study of stresses and deformation in torsion.  Multiaxial stresses, such as those occurring in combinations of torsion and bending or in pressure vessels, are studied.  Stress transformations are introduced, as well as the formulation of simple failure criteria.  Students will expand their engineering design skills through team-based hands-on and computational projects that utilize stress and failure analysis of 3D engineered systems.  In addition, students will learn elementary aspects of machine design and catalog selection to support projects. Altogether, students will learn to express ideas in sketches, interpret and create engineering drawings, model detailed shapes with CAD tools, analyze product performance with CAE tools, choose materials and manufacturing schemes, and create and test prototypes.
+</end course description for 24-262 Mechanics II: 3D Design>

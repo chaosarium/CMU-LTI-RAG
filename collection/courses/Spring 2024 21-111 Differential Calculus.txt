@@ -1,0 +1,16 @@
+<start course metadata for 21-111 Differential Calculus>
+Semester: Spring 2024 (aka S24)
+Course Name: Differential Calculus
+Course Number: 21-111
+Department: Mathematical Sciences
+Number of Units: 10
+Prerequisites: None
+Instructors: Hasan Demirkoparan
+Rooms: CMB 2147
+Locations: Doha, Qatar
+</end course metadata for 21-111 Differential Calculus>
+
+<start course description for 21-111 Differential Calculus>
+Semester: Spring 2024 (aka S24)
+Course Description: Review of basic algebra, functions, limits, derivatives of algebraic, exponential and logarithmic functions, curve sketching, maximum-minimum problems.  Successful completion of 21-111 and 21-112 entitles a student to enroll in any mathematics course for which 21-120 is a prerequisite. (Three 50 minute lectures, two 50 minute recitations)
+</end course description for 21-111 Differential Calculus>

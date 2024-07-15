@@ -1,0 +1,16 @@
+<start course metadata for 45-864 Operations Strategy>
+Semester: Fall 2023 (aka F23)
+Course Name: Operations Strategy
+Course Number: 45-864
+Department: Business Administration
+Number of Units: 6
+Prerequisites: 45-760
+Instructors: Soo-Haeng Cho
+Rooms: TEP 2111
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-864 Operations Strategy>
+
+<start course description for 45-864 Operations Strategy>
+Semester: Fall 2023 (aka F23)
+Course Description: The goal of this course is to provide conceptual frameworks and analytical tools to optimize key decisions in formulating operations strategy. In particular, we will study: (1) process & resource strategy, and (2) supply chain & outsourcing strategy. The intended audience for this course is those who seek better understanding of the connection between operations and strategy, including an operations manager, a general or marketing manager (who interfaces with operations), a consultant, and an entrepreneur.    Operations strategy enables the execution of corporate/business strategy (i.e., how to best deliver the value proposition), and it involves configuring and developing resources & processes used to design, produce, distribute, and deliver goods and/or services. Operations strategy must be aligned with other functional strategies, and therefore this course is integrative in nature, drawing upon concepts introduced in other disciplines such as strategy, marketing, finance, and organizational behavior.    This course is the highest-level elective in the operations concentration, and it is also counted for the strategy concentration. Operations strategy must build on good understanding of day-to-day operations management as well as corporate/business strategy. The strategic decisions studied in this course require a detailed analysis and understanding of the underlying operations. Thus, this course may have a greater amount of concreteness and detail than a corporate strategy class.    The class format is a combination of lectures and case discussions. For class discussions, the instructional format will be a dialogue between the students and the instructor, tending toward the Socratic approach, should the dialogue languish. We will also play online live simulation games, followed by debriefing and discussions of different strategies chosen. (1.11.2021)
+</end course description for 45-864 Operations Strategy>

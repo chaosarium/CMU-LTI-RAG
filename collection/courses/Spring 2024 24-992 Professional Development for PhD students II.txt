@@ -1,0 +1,16 @@
+<start course metadata for 24-992 Professional Development for PhD students II>
+Semester: Spring 2024 (aka S24)
+Course Name: Professional Development for PhD students II
+Course Number: 24-992
+Department: Mechanical Engineering
+Number of Units: 2
+Prerequisites: None
+Instructors: Joanna Wolfe
+Rooms: SH 234
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-992 Professional Development for PhD students II>
+
+<start course description for 24-992 Professional Development for PhD students II>
+Semester: Spring 2024 (aka S24)
+Course Description: This is one of two required courses (the other being 24-991) where incoming PhD students learn research and professional skills that will benefit them throughout the PhD and in their careers. Topics covered include leadership and equity in teamwork, equity in evaluation, ethics in research, presenting your work to different audiences, responding to questions in an oral presentation, responding to peer review, and writing an effective abstract. The class intends to strengthen the PhD cohort and activities will often require group work and evaluation. Students entering in the Spring should take 24-992 before 24-991
+</end course description for 24-992 Professional Development for PhD students II>

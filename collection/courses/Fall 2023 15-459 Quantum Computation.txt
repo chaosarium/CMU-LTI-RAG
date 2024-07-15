@@ -1,0 +1,16 @@
+<start course metadata for 15-459 Quantum Computation>
+Semester: Fall 2023 (aka F23)
+Course Name: Quantum Computation
+Course Number: 15-459
+Department: Computer Science
+Number of Units: 9
+Prerequisites: (15-251 or 15-210) and (21-325 or 33-341 or 36-218 or 15-259 or 36-225) and (33-341 or 21-241 or 21-242)
+Instructors: Ryan O'Donnell
+Rooms: BH A36
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-459 Quantum Computation>
+
+<start course description for 15-459 Quantum Computation>
+Semester: Fall 2023 (aka F23)
+Course Description: This undergraduate course will be an introduction to quantum computation and quantum information theory, from the perspective of theoretical computer science. Topics include: Qubit operations, multi-qubit systems, p=artial measurements, entanglement, quantum teleportation and quantum money, quantum circuit model, Deutsch-Jozsa and Simon's algorithm, number theory and Shor's Algorithm, Grover's Algorithm, quantum complexity theory, limitations and current practical developments.
+</end course description for 15-459 Quantum Computation>

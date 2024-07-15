@@ -1,0 +1,16 @@
+<start course metadata for 06-623 Mathematical Modeling of Chemical Engineering Processes>
+Semester: Fall 2023 (aka F23)
+Course Name: Mathematical Modeling of Chemical Engineering Processes
+Course Number: 06-623
+Department: Chemical Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: John Kitchin
+Rooms: SH 236
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 06-623 Mathematical Modeling of Chemical Engineering Processes>
+
+<start course description for 06-623 Mathematical Modeling of Chemical Engineering Processes>
+Semester: Fall 2023 (aka F23)
+Course Description: Numerical approaches to solving problems relevant to chemical engineering applications.  In this course, advanced mathematical topics relevant to chemical engineering will be used to solve complex problems.  Topics include linear algebra, nonlinear equation solving, initial value and boundary value problems for solution of differential equations, numerical optimization, probability and stochastic methods.  Significant focus will be placed on numerical rather than analytical solution to problems.     Primary Software Package(s): Mathematical programming environment.
+</end course description for 06-623 Mathematical Modeling of Chemical Engineering Processes>

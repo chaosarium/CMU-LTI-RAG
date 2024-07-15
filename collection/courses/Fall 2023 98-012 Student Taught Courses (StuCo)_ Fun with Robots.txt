@@ -1,0 +1,16 @@
+<start course metadata for 98-012 Student Taught Courses (StuCo): Fun with Robots>
+Semester: Fall 2023 (aka F23)
+Course Name: Student Taught Courses (StuCo): Fun with Robots
+Course Number: 98-012
+Department: StuCo (Student Led Courses)
+Number of Units: 3
+Prerequisites: None
+Instructors: Brandon Dong, Charlotte Wang, Clarise Liu
+Rooms: WEH 5202
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 98-012 Student Taught Courses (StuCo): Fun with Robots>
+
+<start course description for 98-012 Student Taught Courses (StuCo): Fun with Robots>
+Semester: Fall 2023 (aka F23)
+Course Description: This course teaches students the basics of programming, sensors, motors, and control using a Romi robot. Students will also build a basic breadboard circuit and use real sensor data to navigate. The course lecture format will include instructional slides and teaching at the beginning of each lecture, followed by a brief lecture on how what we do in class connects to "real-world" robotics. This is followed by supervised programming time, where the instructors will answer questions and advise students working on labs. There is a $10 lab fee. If your financial situation makes this fee an obstacle to your participation in the class, please talk to the instructors.
+</end course description for 98-012 Student Taught Courses (StuCo): Fun with Robots>

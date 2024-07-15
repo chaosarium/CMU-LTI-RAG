@@ -1,0 +1,16 @@
+<start course metadata for 70-437 Strategic Management and Innovation>
+Semester: Fall 2023 (aka F23)
+Course Name: Strategic Management and Innovation
+Course Number: 70-437
+Department: Business Administration
+Number of Units: 9
+Prerequisites: 70-311
+Instructors: Oliver Hahl
+Rooms: TEP 2612
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 70-437 Strategic Management and Innovation>
+
+<start course description for 70-437 Strategic Management and Innovation>
+Semester: Fall 2023 (aka F23)
+Course Description: This course focuses on how organizations deliver value in changing business environments, using analytical techniques to evaluate business situations and develop strategies that improve organizational performance. By focusing on the organizational perspective, you will develop practical skills in evaluating and designing ways for firms to achieve key strategic outcomes like growth and innovation, which determine the firm's chances of success in dynamic environments. This course is particularly useful if you are interested in careers such as consulting, business development, investment banking, private equity, entrepreneurship, or simply want a better understanding of how their firm can develop a more innovative outlook. This course may use third-party course material that is not available for individual purchase from the publisher.   If so, the third-party course material will be secured and provided by the Tepper School to students enrolled in the course, and students enrolled in the course will be required to pay to the University the associated additional course materials fee for the third-party course material provided.   The amount of the course materials fee is dependent on the University's cost of the particular materials provided, and typically ranges from $13 to $75.
+</end course description for 70-437 Strategic Management and Innovation>

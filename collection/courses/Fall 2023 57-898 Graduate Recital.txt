@@ -1,0 +1,16 @@
+<start course metadata for 57-898 Graduate Recital>
+Semester: Fall 2023 (aka F23)
+Course Name: Graduate Recital
+Course Number: 57-898
+Department: Music
+Number of Units: 1
+Prerequisites: None
+Instructors: Alberto Almarza, Andres Cardenes, Andrew Carlisle, Anne Williams, Christopher Allen, Christopher Wu, Craig Knox, Cynthia Dealmeida, David Harding, David Premo, Eric Defade, Frederic Chiu, George Vosburgh, Gretchen Van Hoesen, Instructor TBA, James Ferla, James Houlik, Jason Kush, Jeffrey Dee, Jeremy Branson, Jocelyn Dueck, Katherine Shields, Lance Laduke, Lorna McGhee, Luz Manriquez, Mark Carver, Micah Howard, Michael Rusinek, Nancy Goeres, Neal Berntsen, Paul Evans, Peter Sullivan, Rebecca Cherian, Sergey Schepkin, Stephen Kostyniak, Sung-Im Kim, Thomas Thompson, William Caballero, William van der Sloot
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-898 Graduate Recital>
+
+<start course description for 57-898 Graduate Recital>
+Semester: Fall 2023 (aka F23)
+Course Description: TBA
+</end course description for 57-898 Graduate Recital>

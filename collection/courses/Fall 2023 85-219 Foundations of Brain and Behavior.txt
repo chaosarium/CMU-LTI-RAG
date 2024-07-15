@@ -1,0 +1,16 @@
+<start course metadata for 85-219 Foundations of Brain and Behavior>
+Semester: Fall 2023 (aka F23)
+Course Name: Foundations of Brain and Behavior
+Course Number: 85-219
+Department: Psychology
+Number of Units: 9
+Prerequisites: None
+Instructors: Michael Tarr
+Rooms: POS 153
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 85-219 Foundations of Brain and Behavior>
+
+<start course description for 85-219 Foundations of Brain and Behavior>
+Semester: Fall 2023 (aka F23)
+Course Description: This course provides a general introduction to the neural foundations of behavior. Topics will cover cognitive, perceptual, motor, social, and affective aspects of behavior. Each topic will be addressed at multiple scales, from single neurons and their interactions, to brain systems, to computational principles, and to real-world behaviors. While the focus will be on foundational principles and mechanisms (including some pretty cool case studies, illusions, anecdotes, etc.), there will also be some effort given to integrating current advances in computational cognitive neuroscience, including both the applications of modern AI to understanding biological systems and how principles drawn from biological systems might inform or improve artificial systems. Students are expected to regularly attend and participate in class.
+</end course description for 85-219 Foundations of Brain and Behavior>

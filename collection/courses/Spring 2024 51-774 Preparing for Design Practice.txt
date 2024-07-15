@@ -1,0 +1,16 @@
+<start course metadata for 51-774 Preparing for Design Practice>
+Semester: Spring 2024 (aka S24)
+Course Name: Preparing for Design Practice
+Course Number: 51-774
+Department: Design
+Number of Units: 6
+Prerequisites: None
+Instructors: Kelsey Elder
+Rooms: MM 107
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-774 Preparing for Design Practice>
+
+<start course description for 51-774 Preparing for Design Practice>
+Semester: Spring 2024 (aka S24)
+Course Description: This course helps design students formulate individual plans for their professional practice. In a ramp-up to Confluence, the first half of the class is devoted to developing and organizing portfolios, writing and designing resumes and cover letters and practicing interviewing skills. After Confluence, the second half is devoted to self-evaluation and reflection, guest lectures by early-career and later career designers and field trips that explore various aspects of a professional design career as well as other post-graduate opportunities. This course is geared towards Seniors and MA students, but Juniors applying for internships are also welcome.
+</end course description for 51-774 Preparing for Design Practice>

@@ -1,0 +1,16 @@
+<start course metadata for 17-997 Graduate Reading and Research>
+Semester: Spring 2024 (aka S24)
+Course Name: Graduate Reading and Research
+Course Number: 17-997
+Department: Software & Societal Systems
+Number of Units: N/A
+Prerequisites: None
+Instructors: Christian Kaestner
+Rooms: DNM DNM
+Locations: Lisbon, Portugal; Pittsburgh, Pennsylvania
+</end course metadata for 17-997 Graduate Reading and Research>
+
+<start course description for 17-997 Graduate Reading and Research>
+Semester: Spring 2024 (aka S24)
+Course Description: Graduate Reading and Research for Software Engineering PhD Students.  Only Software Engineering PhD students should register for this course
+</end course description for 17-997 Graduate Reading and Research>

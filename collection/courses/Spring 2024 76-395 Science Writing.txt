@@ -1,0 +1,16 @@
+<start course metadata for 76-395 Science Writing>
+Semester: Spring 2024 (aka S24)
+Course Name: Science Writing
+Course Number: 76-395
+Department: English
+Number of Units: 9
+Prerequisites: (76-102 or 76-101 or 76-106 or 76-107 or 76-108) and (76-372 or 76-270 or 76-271)
+Instructors: Virginia Linn
+Rooms: PH 125D
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 76-395 Science Writing>
+
+<start course description for 76-395 Science Writing>
+Semester: Spring 2024 (aka S24)
+Course Description: You will learn how to write clear, well-organized, compelling articles about science, technology and health topics for a general audience. You will learn how to carry out research on scientific topics using primary and secondary sources, how to conduct interviews, and how to organize that information in a logical fashion for presentation. For writing majors, the course will increase their understanding of scientific research and how to describe it accurately and in a compelling manner to a general audience. For science majors, this course will teach them how to craft fluid, powerful prose so that they can bring their disciplines to life. The course is not intended just for those who want to become science writers, but for anyone who may have the need to explain science, medicine, or technology to a general audience, whether it is an engineer describing a green building project at a public hearing or a computer programmer describing new software to a firm's marketing staff. Scientists and educators today are increasingly concerned about the public's lack of understanding about scientific principles and practices, and this course is one step toward remedying that deficit. You will get a chance to read several examples of high-quality science writing and interview researchers, but the primary emphasis will be on writing a series of articles, and rewriting them after they've been edited. Your assignments will range from profiles of scientists to explanations of how something works. In particular, this year's class will focus on how science and society interact, whether that means the way that science writers write about public health and the COVID pandemic or climate change. The class will be run partly as a writing workshop where students will be organized in teams where they will discuss ideas, as well as edit and critique each other's work in class, in a process similar to what journalists routinely go through.
+</end course description for 76-395 Science Writing>

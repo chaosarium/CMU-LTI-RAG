@@ -1,0 +1,16 @@
+<start course metadata for 51-242 How Things Work: Mechanics and Electronics>
+Semester: Fall 2023 (aka F23)
+Course Name: How Things Work: Mechanics and Electronics
+Course Number: 51-242
+Department: Design
+Number of Units: 9
+Prerequisites: None
+Instructors: Stephen Stadelmeier
+Rooms: MM 203
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-242 How Things Work: Mechanics and Electronics>
+
+<start course description for 51-242 How Things Work: Mechanics and Electronics>
+Semester: Fall 2023 (aka F23)
+Course Description: This course investigates the basic principles of mechanics and electronics. Through the combination of lectures, investigations, and lab experiments, students develop simplified representations of complex systems. The skills of freehand drawing, mechanical drawing and three-dimensional models are employed and developed during the project sequence. Instructor permission required for non-Design majors.
+</end course description for 51-242 How Things Work: Mechanics and Electronics>

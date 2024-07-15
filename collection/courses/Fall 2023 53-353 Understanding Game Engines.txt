@@ -1,0 +1,16 @@
+<start course metadata for 53-353 Understanding Game Engines>
+Semester: Fall 2023 (aka F23)
+Course Name: Understanding Game Engines
+Course Number: 53-353
+Department: Entertainment Technology
+Number of Units: 9
+Prerequisites: None
+Instructors: Thomas Corbett
+Rooms: HL 106B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 53-353 Understanding Game Engines>
+
+<start course description for 53-353 Understanding Game Engines>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is designed for non-programmers who would like to learn how to create content with game engines such as Unity (which will be the primary tool used for this course). The course will explore the fundamental components and features of game engines - such as objects, inputs, movement, interactions, physics, UI, 2D and 3D art, animation, and sound -  and the terminology and theory behind them.  Students will learn the principles of these concepts during in-class lectures, gain practical experience building game projects through guided coding exercises, and then apply their learnings to the assignment work to complete their projects.  This course does not have pre-requisites, but a basic understanding of common code concepts (variables, loops, conditional statements) is recommended.
+</end course description for 53-353 Understanding Game Engines>

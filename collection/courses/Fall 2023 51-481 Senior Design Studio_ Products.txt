@@ -1,0 +1,16 @@
+<start course metadata for 51-481 Senior Design Studio: Products>
+Semester: Fall 2023 (aka F23)
+Course Name: Senior Design Studio: Products
+Course Number: 51-481
+Department: Design
+Number of Units: 12
+Prerequisites: 51-330 or 51-350 or 51-360
+Instructors: Daphne Firos, Jonathan Chapman, Kelsey Elder
+Rooms: MM 112; MM 211
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-481 Senior Design Studio: Products>
+
+<start course description for 51-481 Senior Design Studio: Products>
+Semester: Fall 2023 (aka F23)
+Course Description: As contributors to the built world, the School of Design recognizes that designers can significantly impact society and embrace the responsibility to propose new ways of seeing and exploring the numerous dimensions of any given problem space. This studio is the next stage of that preparation. Structured into three separate discipline sections  communications, products, and environments  each will continue to leverage and evolve its disciplinary practices, ways of working, and purview to develop positive and impactful design proposals.
+</end course description for 51-481 Senior Design Studio: Products>

@@ -1,0 +1,16 @@
+<start course metadata for 57-099 Freshman Showcase>
+Semester: Spring 2024 (aka S24)
+Course Name: Freshman Showcase
+Course Number: 57-099
+Department: Music
+Number of Units: 1
+Prerequisites: None
+Instructors: Nancy Galbraith
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-099 Freshman Showcase>
+
+<start course description for 57-099 Freshman Showcase>
+Semester: Spring 2024 (aka S24)
+Course Description: To be determined
+</end course description for 57-099 Freshman Showcase>

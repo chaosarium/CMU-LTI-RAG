@@ -1,0 +1,16 @@
+<start course metadata for 15-319 Cloud Computing>
+Semester: Fall 2023 (aka F23)
+Course Name: Cloud Computing
+Course Number: 15-319
+Department: Computer Science
+Number of Units: 12
+Prerequisites: 15-213
+Instructors: Majd Sakr
+Rooms: CMU REMOTE
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-319 Cloud Computing>
+
+<start course description for 15-319 Cloud Computing>
+Semester: Fall 2023 (aka F23)
+Course Description: This course gives students an overview of Cloud Computing, which is the delivery of computing as a service over a network, whereby distributed resources are rented, rather than owned, by an end user as a utility. Students will study its enabling technologies, building blocks, and gain hands-on experience through projects utilizing public cloud infrastructures.  Cloud computing services are widely adopted by many organizations across domains.  The course will introduce the cloud and cover the topics of data centers, software stack, virtualization, software defined networks and storage, cloud storage, and programming models. We will start by discussing the clouds motivating factors, benefits, challenges, service models, SLAs and security. We will describe several concepts behind data center design and management, which enable the economic and technological benefits of the cloud paradigm. Next, we will study how CPU, memory and I/O resources, network (SDN) and storage (SDS) are virtualized, and the key role of virtualization to enable the cloud. Subsequently, students will study cloud storage concepts like data distribution, durability, consistency and redundancy. We will discuss distributed file systems, NoSQL databases and object storage using HDFS, CephFS, HBASE, MongoDB, Cassandra, DynamoDB, S3, and Swift as case studies. Finally, students will study the MapReduce, Spark and GraphLab programming models. Students will work with Amazon Web Services and Microsoft Azure, to rent and provision compute resources and then program and deploy applications using these resources. Students will develop and evaluate scaling and load balancing solutions, work with cloud storage systems, and develop applications in several programming paradigms. 15619 students must complete an extra team project which entails designing and implementing a cost- and performance-sensitive web-service for querying big data.
+</end course description for 15-319 Cloud Computing>

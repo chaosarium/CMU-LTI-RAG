@@ -1,0 +1,16 @@
+<start course metadata for 70-493 Valuation and Financial Modeling>
+Semester: Spring 2024 (aka S24)
+Course Name: Valuation and Financial Modeling
+Course Number: 70-493
+Department: Business Administration
+Number of Units: 9
+Prerequisites: 70-391
+Instructors: Kate Barraclough
+Rooms: TEP 2701
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 70-493 Valuation and Financial Modeling>
+
+<start course description for 70-493 Valuation and Financial Modeling>
+Semester: Spring 2024 (aka S24)
+Course Description: This course focuses on valuing companies. Students will learn theoretical valuation frameworks and then apply them practically. The class will cover a range of valuation approaches including discounted cash flow analyses, price multiples, real options and the venture capital method. The class will be very hands-on - we will be building valuation models in excel in-class and in case assignments using real-world data such as company financial statements and stock prices. This is particularly useful for students considering careers in investment banking and private equity. We will focus not just on learning valuation methods but also understanding the assumptions that underlie them. We will ask when such assumptions are trivial and when they can lead to large errors. We will value a variety of companies including Ferrari, WhatsApp and Snap Inc. This course may use third-party course material that is not available for individual purchase from the publisher.   If so, the third-party course material will be secured and provided by the Tepper School to students enrolled in the course, and students enrolled in the course will be required to pay to the University the associated additional course materials fee for the third-party course material provided.   The amount of the course materials fee is dependent on the University's cost of the particular materials provided, and typically ranges from $13 to $75.
+</end course description for 70-493 Valuation and Financial Modeling>

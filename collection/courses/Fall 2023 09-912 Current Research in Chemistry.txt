@@ -1,0 +1,16 @@
+<start course metadata for 09-912 Current Research in Chemistry>
+Semester: Fall 2023 (aka F23)
+Course Name: Current Research in Chemistry
+Course Number: 09-912
+Department: Chemistry
+Number of Units: 1
+Prerequisites: None
+Instructors: Bruce Armitage
+Rooms: MI 348
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 09-912 Current Research in Chemistry>
+
+<start course description for 09-912 Current Research in Chemistry>
+Semester: Fall 2023 (aka F23)
+Course Description: None
+</end course description for 09-912 Current Research in Chemistry>

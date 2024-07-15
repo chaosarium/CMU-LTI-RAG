@@ -1,0 +1,16 @@
+<start course metadata for 18-649 Distributed Embedded Systems>
+Semester: Spring 2024 (aka S24)
+Course Name: Distributed Embedded Systems
+Course Number: 18-649
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: 18-349
+Instructors: Anthony Rowe
+Rooms: HH B103
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-649 Distributed Embedded Systems>
+
+<start course description for 18-649 Distributed Embedded Systems>
+Semester: Spring 2024 (aka S24)
+Course Description: This course introduces the principles for designing distributed embedded systems with a mixture of heterogeneous network-connected resource-constrained devices. This course will address the new challenges designers face as embedded systems are connected forming large-scale networks that sense, monitor and control elements of the physical environment in real-time. This includes topics related to transducer hardware, operating systems, time synchronization, energy management, modeling, simulation, and security. We will study recent applications in the domain of safety-critical systems, smart grid technology, intelligent buildings, Supervisory Control and Data Acquisition (SCADA) systems used in manufacturing and automotive systems. The course will include a significant project component that gives students hands-on experience building systems that use current RTOSes on micro-controllers alongside Embedded Linux on application processors that span cloud, edge and device.  This course is crosslisted with 18449. ECE graduate students will be prioritized for 18649, and ECE undergraduate students will be prioritized for 18449. Although students in 18449 will share lectures with students in 18649, students in 18449 will receive distinct homework assignments, distinct programming projects, and distinct exams from the ones given to students in 18649. Specifically, the homework assignments, programming projects, and exams that are given to the 18649 students will be more challenging than those given to the 18449 students.
+</end course description for 18-649 Distributed Embedded Systems>

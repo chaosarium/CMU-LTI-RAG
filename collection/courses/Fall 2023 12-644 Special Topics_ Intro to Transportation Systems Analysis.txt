@@ -1,0 +1,16 @@
+<start course metadata for 12-644 Special Topics: Intro to Transportation Systems Analysis>
+Semester: Fall 2023 (aka F23)
+Course Name: Special Topics: Intro to Transportation Systems Analysis
+Course Number: 12-644
+Department: Civil & Environmental Engineering
+Number of Units: 6
+Prerequisites: None
+Instructors: Sean Qian
+Rooms: HBH 1202
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 12-644 Special Topics: Intro to Transportation Systems Analysis>
+
+<start course description for 12-644 Special Topics: Intro to Transportation Systems Analysis>
+Semester: Fall 2023 (aka F23)
+Course Description: This course covers fundamentals of planning, design and operation of roadway transportation and public transportation. Topics covered include basic traffic flow theory, traffic signal design and evaluation, transportation planning, pricing of transportation systems, and basic data analytics techniques. The objective is to develop the capability to: 1) understand the principles of transportation planning, transportation economics and system management; 2) analyze transportation systems with emerging mobility data; and 3) apply methodologies to solve transportation system problems and develop management strategies/policies.
+</end course description for 12-644 Special Topics: Intro to Transportation Systems Analysis>

@@ -1,0 +1,16 @@
+<start course metadata for 57-597 Senior Project>
+Semester: Fall 2023 (aka F23)
+Course Name: Senior Project
+Course Number: 57-597
+Department: Music
+Number of Units: 1
+Prerequisites: None
+Instructors: Instructor TBA, Nancy Galbraith, R. James Whipple
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-597 Senior Project>
+
+<start course description for 57-597 Senior Project>
+Semester: Fall 2023 (aka F23)
+Course Description: A composition for orchestra required of all senior composition majors.
+</end course description for 57-597 Senior Project>

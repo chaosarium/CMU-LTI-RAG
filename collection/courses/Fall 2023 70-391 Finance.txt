@@ -1,0 +1,16 @@
+<start course metadata for 70-391 Finance>
+Semester: Fall 2023 (aka F23)
+Course Name: Finance
+Course Number: 70-391
+Department: Business Administration
+Number of Units: 9
+Prerequisites: (73-102 or 73-100 or 73-104) and (36-218 or 36-207 or 70-207 or 36-200 or 36-225 or 36-201 or 36-217)
+Instructors: James Albertus, Muhammad Farooqi
+Rooms: CMB 2052; TEP 2611; TEP 3801
+Locations: Doha, Qatar; Pittsburgh, Pennsylvania
+</end course metadata for 70-391 Finance>
+
+<start course description for 70-391 Finance>
+Semester: Fall 2023 (aka F23)
+Course Description: Firms create value by making good investment decisions. Finance is the field of management science tasked with making this happen. It is a set of tools with which firms identify good investments and decide how to pay for them. Paying for them ultimately involves getting money from households. Therefore, finance also describes the investment decisions of households and the resulting allocation of the economy's resources across firms and time. This course is the introductory finance course in the undergraduate business program. The main topics covered in the course are Financial Markets, Net Present Value, The Objective of the Firm, Discounted Cash Flow, Portfolio Theory and the Cost of Capital, The Efficient Markets Hypothesis, The Capital Structure of the Firm, and Business Valuation. Time permitting, the course will also provide an introduction to option markets and derivative securities. Upon completing the course a student will be able to consider a large and complex business problem, make some assumptions, structure the firms' cash flows in a spreadsheet, calculate the value of different solutions to the problem, and make a decision. This course may use third-party course material that is not available for individual purchase from the publisher.   If so, the third-party course material will be secured and provided by the Tepper School to students enrolled in the course, and students enrolled in the course will be required to pay to the University the associated additional course materials fee for the third-party course material provided.   The amount of the course materials fee is dependent on the University's cost of the particular materials provided, and typically ranges from $13 to $75.
+</end course description for 70-391 Finance>

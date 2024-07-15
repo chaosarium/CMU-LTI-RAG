@@ -1,0 +1,16 @@
+<start course metadata for 19-669 Behavior, Decision and Policy>
+Semester: Fall 2023 (aka F23)
+Course Name: Behavior, Decision and Policy
+Course Number: 19-669
+Department: Engineering & Public Policy
+Number of Units: 12
+Prerequisites: None
+Instructors: Baruch Fischhoff
+Rooms: WEH 6403
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 19-669 Behavior, Decision and Policy>
+
+<start course description for 19-669 Behavior, Decision and Policy>
+Semester: Fall 2023 (aka F23)
+Course Description: Behavioral science can inform policy making in three ways: (a) improving two-way communication between the public and policy makers; (b) creating policies that make realistic assumptions about human behavior; (c) disciplining the expert judgment needed to analyze risks.  The course will introduce and discuss the technical and ethical foundations of behavioral research and risk analysis, setting them in their historical, social, and political context.  It will apply them to a wide variety of technology-related policies, including energy (e.g., conservation, nuclear power), environment (e.g., climate, pollution), health (e.g., vaccines, COVID-19), national security (e.g., terrorism, intelligence analysis), and others, including ones proposed by students.  Students will acquire a critical perspective on policies in their lives, society, and profession.  The course is open to juniors, seniors, and graduate students, who have not taken 84369/84669.
+</end course description for 19-669 Behavior, Decision and Policy>

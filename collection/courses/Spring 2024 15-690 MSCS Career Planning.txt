@@ -1,0 +1,16 @@
+<start course metadata for 15-690 MSCS Career Planning>
+Semester: Spring 2024 (aka S24)
+Course Name: MSCS Career Planning
+Course Number: 15-690
+Department: Computer Science
+Number of Units: 3
+Prerequisites: None
+Instructors: David Eckhardt, David O'Hallaron
+Rooms: GHC 4303
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-690 MSCS Career Planning>
+
+<start course description for 15-690 MSCS Career Planning>
+Semester: Spring 2024 (aka S24)
+Course Description: This class is for students enrolled in the Applied Study variant of the MSCS program. The class will support students in clarifying their objectives for their applied-study experience in consultation with their advisor and Career Center staff. Throughout the semester students will seek, develop, and select among applied-study experiences.
+</end course description for 15-690 MSCS Career Planning>

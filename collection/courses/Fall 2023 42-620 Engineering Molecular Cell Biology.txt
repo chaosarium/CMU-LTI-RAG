@@ -1,0 +1,16 @@
+<start course metadata for 42-620 Engineering Molecular Cell Biology>
+Semester: Fall 2023 (aka F23)
+Course Name: Engineering Molecular Cell Biology
+Course Number: 42-620
+Department: Biomedical Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Charlie Ren
+Rooms: BH 235A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 42-620 Engineering Molecular Cell Biology>
+
+<start course description for 42-620 Engineering Molecular Cell Biology>
+Semester: Fall 2023 (aka F23)
+Course Description: Cells are not only basic units of living organisms but also fascinating engineering systems that exhibit amazing functionality, adaptability, and complexity. Applying engineering perspectives and approaches to study molecular mechanisms of cellular processes plays a critical role in the development of contemporary biology. At the same time, understanding the principles that govern biological systems provides critical insights into the development of engineering systems. The goal of this course is to provide basic molecular cell biology for engineering students with little or no background in cell biology, with particular emphasis on integrating engineering concepts throughout the entire learning process of modern molecular and cellular biology. This course will prepare advanced undergraduate or graduate students with the essential knowledge and mindset for future research endeavors involving engineering biological systems at molecular and cellular levels. This course, besides introducing the fundamental biological knowledge, aims to enhance students' comprehension and appreciation of (1) how engineering approaches have led to our current understanding of molecular and cell biology; (2) what the available engineering approaches are that allow manipulation and even creation of biological systems at molecular, cellular and tissue levels; (3) what the current challenges are in molecular and cell biology that could be solved one day by engineering innovation. Course topics include the engineering of cellular components (DNA, RNA, protein, cell membrane, mitochondria, extracellular matrix) and cellular processes (metabolism, proliferation, cell death, tissue formation). Pre-requisites: None. Prior completion of 03-121 Modern Biology is suggested but not required.
+</end course description for 42-620 Engineering Molecular Cell Biology>

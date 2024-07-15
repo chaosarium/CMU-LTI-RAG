@@ -1,0 +1,16 @@
+<start course metadata for 60-170 Foundations: Paint/Print>
+Semester: Spring 2024 (aka S24)
+Course Name: Foundations: Paint/Print
+Course Number: 60-170
+Department: Art
+Number of Units: 10
+Prerequisites: None
+Instructors: Daniel Ferrell, Lyndon Barrois, Ranee Henderson
+Rooms: CFA 308
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 60-170 Foundations: Paint/Print>
+
+<start course description for 60-170 Foundations: Paint/Print>
+Semester: Spring 2024 (aka S24)
+Course Description: Foundations: Paint/Print introduces you to color, paint, printed multiples, and digital imaging to expand upon the techniques, concepts and materials used in contemporary two dimensional image making. You will work predominantly in drawing and painting (water based media), but will also have opportunities to experiment with screen printing, risograph, image transfers, and digital output. With an emphasis on material exploration, you will investigate how scale, medium, and color support or distract from the intention of your artwork. You will think about how contemporary artists do visual research in our image and media saturated world, and what it means to appropriate, collage, produce memes, and/or publish in multiple media. Working in multiples and in series, you will practice working iteratively, producing deeper visual exploration of your artistic concept and intention.
+</end course description for 60-170 Foundations: Paint/Print>

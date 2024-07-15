@@ -1,0 +1,16 @@
+<start course metadata for 84-624 The Future of Democracy>
+Semester: Spring 2024 (aka S24)
+Course Name: The Future of Democracy
+Course Number: 84-624
+Department: Institute for Politics and Strategy
+Number of Units: 12
+Prerequisites: None
+Instructors: John Chin
+Rooms: PH 226C
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 84-624 The Future of Democracy>
+
+<start course description for 84-624 The Future of Democracy>
+Semester: Spring 2024 (aka S24)
+Course Description: After the Cold War, Francis Fukuyama famously argued that humanity had reached the "end of history" insofar as liberal democracy had become the last viable form of government. Yet today, illiberal democracies and dictatorships persist, the world has witnessed the return of authoritarian great powers led by China and Russia, and populist movements challenge liberal democracies around the world. What is the future of democracy around the world, and how can we know? This course surveys the causes of historical rise (and fall) of democracy, the methods and pitfalls of democracy promotion, and a variety of challenges to democracy -- such as nationalism, polarization, and misinformation. By the end, students will be expected to write an intelligence memo and give an oral presentation on the future of democracy in a particular region or country.
+</end course description for 84-624 The Future of Democracy>

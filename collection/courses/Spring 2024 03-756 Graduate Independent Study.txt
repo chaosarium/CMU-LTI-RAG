@@ -1,0 +1,16 @@
+<start course metadata for 03-756 Graduate Independent Study>
+Semester: Spring 2024 (aka S24)
+Course Name: Graduate Independent Study
+Course Number: 03-756
+Department: Biological Sciences
+Number of Units: N/A
+Prerequisites: None
+Instructors: Daniel Brasier, Natalia Hiller
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 03-756 Graduate Independent Study>
+
+<start course description for 03-756 Graduate Independent Study>
+Semester: Spring 2024 (aka S24)
+Course Description: N/A
+</end course description for 03-756 Graduate Independent Study>

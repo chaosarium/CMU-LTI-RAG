@@ -1,0 +1,16 @@
+<start course metadata for 60-713 MFA Thesis Writing Seminar II>
+Semester: Fall 2023 (aka F23)
+Course Name: MFA Thesis Writing Seminar II
+Course Number: 60-713
+Department: Art
+Number of Units: 9
+Prerequisites: None
+Instructors: Sharmistha Ray
+Rooms: HOA 323
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 60-713 MFA Thesis Writing Seminar II>
+
+<start course description for 60-713 MFA Thesis Writing Seminar II>
+Semester: Fall 2023 (aka F23)
+Course Description: The two terms of the Thesis Writing Seminar are designed to engage each student's research goals and foster the process of forming their written thesis. Progressive focus on individual research, bibliographical development, formation of theoretical positions, and the defense of polemical conclusions define the arc of the two seminars. With faculty drawn from either critical studies or art history, each student is provided the support required to engage with scholarly material and form a thesis that constitutes the intellectual interests and theoretical positions relevant to their studio practice.
+</end course description for 60-713 MFA Thesis Writing Seminar II>

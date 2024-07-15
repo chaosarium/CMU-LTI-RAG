@@ -1,0 +1,16 @@
+<start course metadata for 57-824 Percussion Ensemble>
+Semester: Fall 2023 (aka F23)
+Course Name: Percussion Ensemble
+Course Number: 57-824
+Department: Music
+Number of Units: 3
+Prerequisites: None
+Instructors: Jeremy Branson
+Rooms: CFA A1
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-824 Percussion Ensemble>
+
+<start course description for 57-824 Percussion Ensemble>
+Semester: Fall 2023 (aka F23)
+Course Description: TBA
+</end course description for 57-824 Percussion Ensemble>

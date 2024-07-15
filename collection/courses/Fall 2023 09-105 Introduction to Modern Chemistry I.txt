@@ -1,0 +1,16 @@
+<start course metadata for 09-105 Introduction to Modern Chemistry I>
+Semester: Fall 2023 (aka F23)
+Course Name: Introduction to Modern Chemistry I
+Course Number: 09-105
+Department: Chemistry
+Number of Units: 10
+Prerequisites: None
+Instructors: Leonard Vuocolo, Nimer Murshid
+Rooms: CMB 1030; DH 2210
+Locations: Doha, Qatar; Pittsburgh, Pennsylvania
+</end course metadata for 09-105 Introduction to Modern Chemistry I>
+
+<start course description for 09-105 Introduction to Modern Chemistry I>
+Semester: Fall 2023 (aka F23)
+Course Description: This course first investigates the establishment of some fundamental principles of chemistry and then progresses through the presentation of chemically interesting applications and sophisticated problems.  It explores an understanding of matter and the energy changes associated with it, beginning with the atom.  It then overviews how atoms interact and react to form the more complicated structures of molecules and ionic compounds.  How the structure of elements and compounds affects their properties, function, and reactivity will then be explored.  Finally, the quantification of the changes during the reactivity of substances through bond breaking and forming will be investigated in single and multiple phase reactions, such as acid-base and redox reactions.  Topics will be presented to promote mastery of "depth over breadth of topics" and "conceptual understanding before using applicable equations".  The course covers the major principles of atomic structure, chemical bonding, , molecular structures of organic and inorganic compounds (including some transition metal complexes), interaction of substances, multiphase reaction stoichiometry, acid-base reactions, and redox reactions.  Relevant examples will be drawn from such areas as environmental, materials, and biological chemistry.
+</end course description for 09-105 Introduction to Modern Chemistry I>

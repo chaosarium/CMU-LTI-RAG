@@ -1,0 +1,16 @@
+<start course metadata for 07-070 Teaching Techniques for Computer Science>
+Semester: Fall 2023 (aka F23)
+Course Name: Teaching Techniques for Computer Science
+Course Number: 07-070
+Department: SCS Interdisciplinary
+Number of Units: 2
+Prerequisites: None
+Instructors: Charles Garrod, Kelly Rivers
+Rooms: BH 235B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 07-070 Teaching Techniques for Computer Science>
+
+<start course description for 07-070 Teaching Techniques for Computer Science>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is a broad introduction to teaching techniques and DEI issues in the context of computer science education.  It is targeted to first-time undergraduate and graduate SCS TAs, with the goal of providing instruction, hands-on practice, and feedback to TAs to improve their instructional proficiency.
+</end course description for 07-070 Teaching Techniques for Computer Science>

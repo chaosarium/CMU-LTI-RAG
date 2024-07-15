@@ -1,0 +1,16 @@
+<start course metadata for 54-361 Prod Prep>
+Semester: Spring 2024 (aka S24)
+Course Name: Prod Prep
+Course Number: 54-361
+Department: Drama
+Number of Units: N/A
+Prerequisites: None
+Instructors: TBA
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-361 Prod Prep>
+
+<start course description for 54-361 Prod Prep>
+Semester: Spring 2024 (aka S24)
+Course Description: Participation in School of Drama productions in design or production roles.
+</end course description for 54-361 Prod Prep>

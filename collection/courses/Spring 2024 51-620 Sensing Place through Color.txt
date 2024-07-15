@@ -1,0 +1,16 @@
+<start course metadata for 51-620 Sensing Place through Color>
+Semester: Spring 2024 (aka S24)
+Course Name: Sensing Place through Color
+Course Number: 51-620
+Department: Design
+Number of Units: 12
+Prerequisites: None
+Instructors: Kristin Hughes
+Rooms: MM 203
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-620 Sensing Place through Color>
+
+<start course description for 51-620 Sensing Place through Color>
+Semester: Spring 2024 (aka S24)
+Course Description: The world is enhanced by color in every facet of our environment, but we often overlook unimaginable color interactions. The application of color depends mainly upon a trial and error process of selection, comparison, interaction, and evaluation. This course is about learning to look at the world with color filters and exploring ways to utilize color in new and meaningful ways. Through a series of prompts, journaling exercises, and personal experiences, we will reimagine our sense of place through color.
+</end course description for 51-620 Sensing Place through Color>

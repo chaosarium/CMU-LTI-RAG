@@ -1,0 +1,16 @@
+<start course metadata for 70-467 Machine Learning for Business Analytics>
+Semester: Fall 2023 (aka F23)
+Course Name: Machine Learning for Business Analytics
+Course Number: 70-467
+Department: Business Administration
+Number of Units: 9
+Prerequisites: (21-259 or 21-256 or 21-254) and (70-207 or 36-220 or 36-225 or 36-200)
+Instructors: Karan Singh
+Rooms: TEP 2610
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 70-467 Machine Learning for Business Analytics>
+
+<start course description for 70-467 Machine Learning for Business Analytics>
+Semester: Fall 2023 (aka F23)
+Course Description: This course introduces students to the machine learning tools and software that drive modern predictive analytics in business settings. Students will gain an understanding of a variety of popular machine learning algorithms including linear and logistic regression, random forests, and neural networks. Each algorithm will be introduced with real-world business applications, and students will learn to implement these algorithms on data. The course is taught in the programming language R (prior programming experience is not required).This course may use third-party course material that is not available for individual purchase from the publisher.   If so, the third-party course material will be secured and provided by the Tepper School to students enrolled in the course, and students enrolled in the course will be required to pay to the University the associated additional course materials fee for the third-party course material provided.   The amount of the course materials fee is dependent on the University's cost of the particular materials provided, and typically ranges from $13 to $75.
+</end course description for 70-467 Machine Learning for Business Analytics>

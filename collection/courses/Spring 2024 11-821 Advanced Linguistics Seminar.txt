@@ -1,0 +1,16 @@
+<start course metadata for 11-821 Advanced Linguistics Seminar>
+Semester: Spring 2024 (aka S24)
+Course Name: Advanced Linguistics Seminar
+Course Number: 11-821
+Department: Language Technologies Institute
+Number of Units: 6
+Prerequisites: None
+Instructors: Lorraine Levin
+Rooms: PH A19C
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 11-821 Advanced Linguistics Seminar>
+
+<start course description for 11-821 Advanced Linguistics Seminar>
+Semester: Spring 2024 (aka S24)
+Course Description: None
+</end course description for 11-821 Advanced Linguistics Seminar>

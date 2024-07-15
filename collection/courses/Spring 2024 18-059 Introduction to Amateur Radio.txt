@@ -1,0 +1,16 @@
+<start course metadata for 18-059 Introduction to Amateur Radio>
+Semester: Spring 2024 (aka S24)
+Course Name: Introduction to Amateur Radio
+Course Number: 18-059
+Department: Electrical & Computer Engineering
+Number of Units: 3
+Prerequisites: None
+Instructors: Tom Zajdel
+Rooms: BH 237B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-059 Introduction to Amateur Radio>
+
+<start course description for 18-059 Introduction to Amateur Radio>
+Semester: Spring 2024 (aka S24)
+Course Description: Amateur radio is a pursuit that encompasses equal parts technology, communication, and public safety. It began in the US with the Radio Act of 1912, which guaranteed use of the electromagnetic spectrum to the people, provided they demonstrated the requisite technical competence. These privileges have persisted to the present day, with a vibrant global community of radio amateurs (hams) utilizing the spectrum to tinker and experiment with wireless communications for satellites, drone control, low-power communication, radio astronomy, and so on!  This course will introduce students to the history, art, and science of radio with emphasis on hands-on demonstrations and in-class projects, including soldering a low-power FM transmitter and building a directional antenna. Students will also self-study to pass an amateur radio licensing exam administered on campus, which unlocks the electromagnetic spectrum for personal, non-commercial use. Radio service for public safety is tightly woven into the cultural fabric of the Buggy tradition at Carnegie Mellon, and becoming licensed is the first step to getting involved!  Topics covered include: Radio signal fundamentals; Basic electronics; Antennas; Radio wave propagation; Radio equipment; Norms and culture of amateur radio communication; Operating regulations and safety  Anyone interested in becoming a licensed amateur radio user is welcome regardless of major or prior background!
+</end course description for 18-059 Introduction to Amateur Radio>

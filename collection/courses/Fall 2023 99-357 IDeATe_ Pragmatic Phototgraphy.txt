@@ -1,0 +1,16 @@
+<start course metadata for 99-357 IDeATe: Pragmatic Phototgraphy>
+Semester: Fall 2023 (aka F23)
+Course Name: IDeATe: Pragmatic Phototgraphy
+Course Number: 99-357
+Department: Carnegie Mellon University-Wide Studies
+Number of Units: 1
+Prerequisites: None
+Instructors: Hugh Dyar
+Rooms: HL 106C
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 99-357 IDeATe: Pragmatic Phototgraphy>
+
+<start course description for 99-357 IDeATe: Pragmatic Phototgraphy>
+Semester: Fall 2023 (aka F23)
+Course Description: PLEASE NOTE: The specific meeting dates for the A1 section of this micro course are Sep 24, Oct 1. The specific meeting dates for the A2 section of this micro course are Oct 28, Nov 4. Pragmatic Photography is a digital imaging course for the non-photographer. A tech-first approach provides a strong grounding in the core concepts and techniques of image-based media. This course will enable students to create photographs for project documentation. This class will not require special cameras or software; students will use commonly-available photo-editing software to create images using DSLRs, point and click cameras, or their cell phones. The course focuses on general principles that apply across different equipment and software.
+</end course description for 99-357 IDeATe: Pragmatic Phototgraphy>

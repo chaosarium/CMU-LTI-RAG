@@ -1,0 +1,16 @@
+<start course metadata for 21-120 Differential and Integral Calculus>
+Semester: Fall 2023 (aka F23)
+Course Name: Differential and Integral Calculus
+Course Number: 21-120
+Department: Mathematical Sciences
+Number of Units: 10
+Prerequisites: None
+Instructors: Dylan Altschuler, Katarzyna Wyczesany, Lane Chun Yeung, Udita Katugampola
+Rooms: DH A302; HOA 160; POS A35; WEH 7500
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-120 Differential and Integral Calculus>
+
+<start course description for 21-120 Differential and Integral Calculus>
+Semester: Fall 2023 (aka F23)
+Course Description: Functions, limits, derivatives, logarithmic, exponential, and trigonometric functions, inverse functions; L'Hospital's Rule, curve sketching, Mean Value Theorem, related rates, linear and approximations, maximum-minimum problems, inverse functions, definite and indefinite integrals; integration by substitution and by parts. Applications of integration, as time permits. (Three 50 minute lectures, two 50 minute recitations)
+</end course description for 21-120 Differential and Integral Calculus>

@@ -1,0 +1,16 @@
+<start course metadata for 36-202 Methods for Statistics & Data Science>
+Semester: Fall 2023 (aka F23)
+Course Name: Methods for Statistics & Data Science
+Course Number: 36-202
+Department: Statistics and Data Science
+Number of Units: 9
+Prerequisites: 36-200 or 36-247 or 36-220 or 70-207 or 36-207
+Instructors: Gordon Weinberg
+Rooms: MI AUD
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 36-202 Methods for Statistics & Data Science>
+
+<start course description for 36-202 Methods for Statistics & Data Science>
+Semester: Fall 2023 (aka F23)
+Course Description: This course builds on the principles and methods of statistical reasoning developed in 36-200 (or its equivalents). The course covers simple and multiple regression, basic analysis of variance methods, logistic regression, and introduction to data mining including classification and clustering. Students will also learn the principles of overfitting, training vs testing, ensemble methods, variable selection, and bootstrapping.   Course objectives include applying the basic principles and methods that underlie statistical practice and empirical research to real data sets and interdisciplinary problems. Learning the Data Analysis Pipeline is strongly emphasized through structured coding and data analysis projects. In addition to three lectures a week, students attend a computer lab once a week for "hands-on" practice of the material covered in lecture.  There is no programming language pre-requisite.  Students will learn the basics of R Markdown and related analytics tools.
+</end course description for 36-202 Methods for Statistics & Data Science>

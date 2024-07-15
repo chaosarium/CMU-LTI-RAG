@@ -1,0 +1,16 @@
+<start course metadata for 05-661 Advanced Interaction Design>
+Semester: Spring 2024 (aka S24)
+Course Name: Advanced Interaction Design
+Course Number: 05-661
+Department: Human-Computer Interaction
+Number of Units: 12
+Prerequisites: 05-660 or 05-651 or 05-692
+Instructors: Arie Stavchansky, Auldyn Matthews, Daniel Saffer, Kelsey Dusenka, Sinan Goral, Skip Shelly
+Rooms: 4SC 104
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 05-661 Advanced Interaction Design>
+
+<start course description for 05-661 Advanced Interaction Design>
+Semester: Spring 2024 (aka S24)
+Course Description: Advanced Interaction Design (05-361/05-661) follows Interaction Design for Human-Computer Interaction (05-360/05-660). Students are expected to build on the basic interaction design principles they learned in Interaction Design Fundamentals by applying advanced methods to solve more complex problems using emerging technologies in user experiences that cross devices, modalities and contexts. Students learn how to design with advanced technologies that predict, assist and automate, and make through a design system. Systems thinking, data as a design material, and UI design are emphasized in projects which are designed to give students experience solving complex problems that they are likely to encounter as practitioners. Advanced Interaction Design prepares students to become interaction designers that take a rigorous and principled approach to solving enterprise-scale problems where many systems and applications serve many stakeholders.
+</end course description for 05-661 Advanced Interaction Design>

@@ -1,0 +1,16 @@
+<start course metadata for 48-100 Architecture Design Studio: POIESIS STUDIO 1>
+Semester: Fall 2023 (aka F23)
+Course Name: Architecture Design Studio: POIESIS STUDIO 1
+Course Number: 48-100
+Department: Architecture
+Number of Units: 15
+Prerequisites: None
+Instructors: Jackie McFarland
+Rooms: MM A14
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-100 Architecture Design Studio: POIESIS STUDIO 1>
+
+<start course description for 48-100 Architecture Design Studio: POIESIS STUDIO 1>
+Semester: Fall 2023 (aka F23)
+Course Description: This studio will investigate the role and process of architectural design as different forms of practice. The studio will practice drawing, making, and building architectural narratives in iterations at various scales of time and space, to establish productive habits and develop essential techniques and skills in architectural design. In learning how architects see in both visible and invisible terms, the studio will analyze design precedents and problems that generate ideas about architectural material, form, and systems. In understanding how architects empathize with whom or what they serve, the studio will rigorously investigate methods of abstraction and critical dimensions relative to human form and experience. In practicing how architects deliver in the professional context, the studio will develop mastery of spatial composition, representation, and narrative as means for an architect to iteratively test, experiment with, and communicate spatial ideas.
+</end course description for 48-100 Architecture Design Studio: POIESIS STUDIO 1>

@@ -1,0 +1,16 @@
+<start course metadata for 42-626 Drug Delivery Systems>
+Semester: Fall 2023 (aka F23)
+Course Name: Drug Delivery Systems
+Course Number: 42-626
+Department: Biomedical Engineering
+Number of Units: 9
+Prerequisites: None
+Instructors: Kathryn Whitehead
+Rooms: DH 4201
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 42-626 Drug Delivery Systems>
+
+<start course description for 42-626 Drug Delivery Systems>
+Semester: Fall 2023 (aka F23)
+Course Description: The body is remarkable in its ability to sequester and clear foreign entities - whether they be "bad" (e.g. pathogens) or "good" (e.g. therapeutic drugs). This course will explore the design principles being used to engineer modern drug delivery systems capable of overcoming the body's innate defenses to achieve therapeutic effect. Specifically, we will study the chemistry, formulation, and mechanisms of systems designed to deliver nucleic acids, chemotherapeutics, and proteins across a variety of physiological barriers. Scientific communication plays a prominent role in the course, and students will have several opportunities to strengthen their communication skills through journal club presentations, proposal writing and constructive feedback. This is a graduate level course that is also open to undergraduate seniors.
+</end course description for 42-626 Drug Delivery Systems>

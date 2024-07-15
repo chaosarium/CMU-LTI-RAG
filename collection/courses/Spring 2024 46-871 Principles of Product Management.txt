@@ -1,0 +1,16 @@
+<start course metadata for 46-871 Principles of Product Management>
+Semester: Spring 2024 (aka S24)
+Course Name: Principles of Product Management
+Course Number: 46-871
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Robert Monroe
+Rooms: TEP 2202
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 46-871 Principles of Product Management>
+
+<start course description for 46-871 Principles of Product Management>
+Semester: Spring 2024 (aka S24)
+Course Description: MSPM STUDENTS ONLY
+</end course description for 46-871 Principles of Product Management>

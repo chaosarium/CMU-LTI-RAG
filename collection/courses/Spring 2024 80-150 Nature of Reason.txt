@@ -1,0 +1,16 @@
+<start course metadata for 80-150 Nature of Reason>
+Semester: Spring 2024 (aka S24)
+Course Name: Nature of Reason
+Course Number: 80-150
+Department: Philosophy
+Number of Units: 9
+Prerequisites: None
+Instructors: Francesca Zaffora Blando
+Rooms: BH A53
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 80-150 Nature of Reason>
+
+<start course description for 80-150 Nature of Reason>
+Semester: Spring 2024 (aka S24)
+Course Description: This course provides an accessible introduction to the historical development of philosophical ideas about the nature of reasoning and rationality (with a focus on mathematics and the sciences), from ancient to modern times. The first part of the course traces the search for deductive methods for obtaining certain knowledge, starting with Aristotle and Euclid all the way to the work of Boole and Frege in the 19th century. The second part of the course considers the history of skepticism about empirical knowledge, covering Plato, Descartes, Pascal, and Hume, along with replies to skepticism in the works of Bayes and Kant. The third part of the course discusses theories of the nature of the mind and mental processes, culminating in the computational conception of the mind that underlies contemporary cognitive science.
+</end course description for 80-150 Nature of Reason>

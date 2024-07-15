@@ -1,0 +1,16 @@
+<start course metadata for 48-793 Ph.D. Thesis>
+Semester: Spring 2024 (aka S24)
+Course Name: Ph.D. Thesis
+Course Number: 48-793
+Department: Architecture
+Number of Units: N/A
+Prerequisites: None
+Instructors: Azadeh Sawyer, Dana Cupkova, Daniel Cardoso Llach, Daragh Byrne, Erica Cochran, Gerard Damiani, Jeremy Ficca, Joshua Bard, Kai Gutschow, Nina Baird, Ramesh Krishnamurti, Stefan Gruber, Vivian Loftness
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-793 Ph.D. Thesis>
+
+<start course description for 48-793 Ph.D. Thesis>
+Semester: Spring 2024 (aka S24)
+Course Description: In the thesis proposal phase, the PhD student completes the preliminary research needed to plan a course of action leading to a successful dissertation on a selected topic. The thesis proposal must be publicly defended. This phase ends when the thesis proposal is accepted, whereupon the doctoral candidate is deemed to be in all but dissertation (ABD) status.
+</end course description for 48-793 Ph.D. Thesis>

@@ -1,0 +1,16 @@
+<start course metadata for 45-740 Managing People and Teams>
+Semester: Fall 2023 (aka F23)
+Course Name: Managing People and Teams
+Course Number: 45-740
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Anita Woolley, Taya Cohen
+Rooms: TEP 2112; TEP 2118
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-740 Managing People and Teams>
+
+<start course description for 45-740 Managing People and Teams>
+Semester: Fall 2023 (aka F23)
+Course Description: Teams are increasingly used to innovate and implement in a variety of organizational settings. This course is designed to improve your effectiveness as a manager by introducing you to concepts for managing people and teams in organizations. Students will be exposed to cutting edge research as well as given an opportunity to practice some of the principles introduced through course exercises, case discussions, and assignments.
+</end course description for 45-740 Managing People and Teams>

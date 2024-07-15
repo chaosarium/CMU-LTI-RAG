@@ -1,0 +1,16 @@
+<start course metadata for 04-720 Ethical Hacking>
+Semester: Spring 2024 (aka S24)
+Course Name: Ethical Hacking
+Course Number: 04-720
+Department: Information & Communication Technology
+Number of Units: 12
+Prerequisites: 18-631
+Instructors: Edwin Kairu
+Rooms: CMR F305
+Locations: Kigali, Rwanda
+</end course metadata for 04-720 Ethical Hacking>
+
+<start course description for 04-720 Ethical Hacking>
+Semester: Spring 2024 (aka S24)
+Course Description: This course will introduce students to professional penetration testing by teaching offensive security tactics, along with the appropriate methodologies and responsibilities it takes to ethically attack systems. The course will also cover basic defensive security concepts and tools that can be used to mitigate such attacks. The majority of time will be spent in hands-on labs performing reconnaissance, discovering vulnerabilities, developing exploits, and carefully penetrating targets in a virtual environment. Students will also work on building basic defenses in a similar environment.
+</end course description for 04-720 Ethical Hacking>

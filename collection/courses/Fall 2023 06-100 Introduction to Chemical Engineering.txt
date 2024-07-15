@@ -1,0 +1,16 @@
+<start course metadata for 06-100 Introduction to Chemical Engineering>
+Semester: Fall 2023 (aka F23)
+Course Name: Introduction to Chemical Engineering
+Course Number: 06-100
+Department: Chemical Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Joanne Beckwith
+Rooms: HH B131
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 06-100 Introduction to Chemical Engineering>
+
+<start course description for 06-100 Introduction to Chemical Engineering>
+Semester: Fall 2023 (aka F23)
+Course Description: We equip students with creative engineering problem-solving techniques and fundamental chemical engineering material balance skills. Lectures, laboratory experiments, and recitation sessions are designed to provide coordinated training and experience in data analysis, material property estimation for single- and multi-phase systems, basic process flowsheet, reactive and non-reactive mass balances, problem solving strategies and tools, and team dynamics. The course is targeted for CIT First Year students.
+</end course description for 06-100 Introduction to Chemical Engineering>

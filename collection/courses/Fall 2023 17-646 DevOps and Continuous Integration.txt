@@ -1,0 +1,16 @@
+<start course metadata for 17-646 DevOps and Continuous Integration>
+Semester: Fall 2023 (aka F23)
+Course Name: DevOps and Continuous Integration
+Course Number: 17-646
+Department: Software & Societal Systems
+Number of Units: 6
+Prerequisites: 15-319 or 15-440 or 15-619 or 15-640 or 17-639
+Instructors: Hasan Yasar, Len Bass
+Rooms: 3SC 265
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 17-646 DevOps and Continuous Integration>
+
+<start course description for 17-646 DevOps and Continuous Integration>
+Semester: Fall 2023 (aka F23)
+Course Description: DevOps: Engineering for Deployment and Operations": DevOps is the term given to a modern movement to establish practices that significantly reduce the time to production of committed code. This time involves deployment - the period between the completion of the code by the developers and the placing of the code into normal production ¿ and dealing with operations issues. Deployment time can be days, weeks, or even months when using normal development practices. Operational issues such as dealing with incidents and errors introduce other delays. Modern internet companies deploy a system multiple or even dozens of times every day. Achieving this velocity requires coordinated process and design activities together with supporting tooling. This course will cover the deployment process and the associated tooling, it will highlight reasons why release schedules can be slow, and it will introduce the practices that are used to enable high velocity deployments. It will also cover the kinds of problems that are created because of high velocity and how modern internet companies deal with these problems. Please note: This is a required course for MSE-SS students. Students outside of the software engineering department may take this course but students of the MSE programs will have first priority.
+</end course description for 17-646 DevOps and Continuous Integration>

@@ -1,0 +1,16 @@
+<start course metadata for 42-625 Surgery for Engineers>
+Semester: Spring 2024 (aka S24)
+Course Name: Surgery for Engineers
+Course Number: 42-625
+Department: Biomedical Engineering
+Number of Units: 9
+Prerequisites: (42-202) and (06-100 or 27-100 or 18-100 or 19-101 or 24-101 or 42-101 or 12-100)
+Instructors: Boyle Cheng
+Rooms: BH A36
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 42-625 Surgery for Engineers>
+
+<start course description for 42-625 Surgery for Engineers>
+Semester: Spring 2024 (aka S24)
+Course Description: This course explores the impact of engineering on surgery. Students will interact with clinical practitioners and investigate the technological challenges that face these practitioners. A number of visits to the medical center are anticipated for hands on experience with a number of technologies utilized by surgeons to demonstrate the result of advances in biomedical engineering. These experiences are expected to include microvascular surgery, robotic surgery, laparoscopic, and endoscopic techniques. Tours of the operating room and shock trauma unit will be arranged. If possible observation of an operative procedure will be arranged (if scheduling permits). Invited surgeons will represent disciplines including cardiovascular surgery, plastic and reconstructive surgery, surgical oncology, trauma surgery, minimally invasive surgery, oral and maxillofacial surgery, bariatric surgery, thoracic surgery, orthopedic surgery, and others.    The Primary Instructor is Howard Edington, M.D., MBA System Chairman of Surgery, Allegheny Health Network. This course meets once a week for 3 hours. Several sessions will be held at the Medical Center, transport provided.  Pre-requisite: Physiology 42-202 and one of the introductory engineering courses, 42-101, 06-100, 12-100. 18-100, 19-101, 24-101, or 27-100  Priority for enrollment is given to BME Graduate students and additional majors, followed by BME minors.
+</end course description for 42-625 Surgery for Engineers>

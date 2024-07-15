@@ -1,0 +1,16 @@
+<start course metadata for 95-727 Applied Information Systems Practicum>
+Semester: Spring 2024 (aka S24)
+Course Name: Applied Information Systems Practicum
+Course Number: 95-727
+Department: Information Systems:Sch of IS & Mgt
+Number of Units: N/A
+Prerequisites: None
+Instructors: Instructor TBA
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 95-727 Applied Information Systems Practicum>
+
+<start course description for 95-727 Applied Information Systems Practicum>
+Semester: Spring 2024 (aka S24)
+Course Description: Course description available on Heinz website
+</end course description for 95-727 Applied Information Systems Practicum>

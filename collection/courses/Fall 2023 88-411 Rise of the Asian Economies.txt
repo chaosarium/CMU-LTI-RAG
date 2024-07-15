@@ -1,0 +1,16 @@
+<start course metadata for 88-411 Rise of the Asian Economies>
+Semester: Fall 2023 (aka F23)
+Course Name: Rise of the Asian Economies
+Course Number: 88-411
+Department: Social & Decision Sciences
+Number of Units: 9
+Prerequisites: 73-100 or 73-102 or 73-150 or 88-220
+Instructors: Lee Branstetter
+Rooms: HBH 2009
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 88-411 Rise of the Asian Economies>
+
+<start course description for 88-411 Rise of the Asian Economies>
+Semester: Fall 2023 (aka F23)
+Course Description: For most of the past quarter century, no region of the world has been more economically dynamic than Asia.  This course is designed to provide students with the essential knowledge necessary to evaluate opportunities and risks in Asia.  The course will use analytical tools drawn from economics and finance, business cases, and guest lectures to focus on the key strengths that sustained economic growth in East Asia for decades, the weaknesses that undermined that growth in the late 1990s, and what lies ahead.  The course will also examine Indian economic growth since the early 1980s, and compare India's experience with that of the East Asian economies.  A special focus will be placed on recent developments in India and China and the prospects for continued growth in those countries over the next decade.
+</end course description for 88-411 Rise of the Asian Economies>

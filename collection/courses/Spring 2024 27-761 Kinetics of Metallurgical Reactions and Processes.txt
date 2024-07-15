@@ -1,0 +1,16 @@
+<start course metadata for 27-761 Kinetics of Metallurgical Reactions and Processes>
+Semester: Spring 2024 (aka S24)
+Course Name: Kinetics of Metallurgical Reactions and Processes
+Course Number: 27-761
+Department: Materials Science & Engineering
+Number of Units: 6
+Prerequisites: None
+Instructors: P. Chris Pistorius
+Rooms: DH 1117
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 27-761 Kinetics of Metallurgical Reactions and Processes>
+
+<start course description for 27-761 Kinetics of Metallurgical Reactions and Processes>
+Semester: Spring 2024 (aka S24)
+Course Description: This class uses examples from the ironmaking and steelmaking to illustrate different rate-determining reaction steps.  Reaction times in ironmaking and steelmaking process vary quite widely; the fundamental origins of the large differences in reaction time are analyzed, after a brief overview of the main reactions and process steps in ironmaking and steelmaking. Particular skills to be practiced and developed include derivation of the mathematical relationships which describe the rates of metallurgical processes which involve heat transfer, and mass transfer for solid-gas, liquid-gas and liquid-liquid reactions; quantifying the expected rates of such reactions; identification of rate-determining steps, based on calculated rates and observed reaction rates; predicting the effects of process parameters such as particle size, stirring, temperature and chemical compositions of phases on the overall rate; and critical evaluation of kinetic data and models in scientific papers on metallurgical reactions.
+</end course description for 27-761 Kinetics of Metallurgical Reactions and Processes>

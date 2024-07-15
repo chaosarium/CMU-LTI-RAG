@@ -1,0 +1,16 @@
+<start course metadata for 10-623 Generative AI>
+Semester: Spring 2024 (aka S24)
+Course Name: Generative AI
+Course Number: 10-623
+Department: Machine Learning
+Number of Units: 12
+Prerequisites: 10-301 or 10-315 or 10-601 or 10-701 or 10-715 or 11-485 or 11-685 or 11-785
+Instructors: Matthew Gormley, Yuanzhi Li, Zachary Lipton
+Rooms: GHC 4401
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 10-623 Generative AI>
+
+<start course description for 10-623 Generative AI>
+Semester: Spring 2024 (aka S24)
+Course Description: From generating images and text to generating music and art, the goal of generative modeling has long been a key challenge for artificial intelligence. This course explores the techniques from machine learning and artificial intelligence that are driving the recent advances in generative modeling and foundation models. Students will understand, develop, and apply state-of-the-art algorithms that enable machines to generate realistic and creative content. Core topics will include: the fundamental mechanisms of learning; how to build generative models and other large foundation models (e.g. transformers for vision and language, diffusion models); how to train such models (pre-training, fine-tuning) and efficiently adapt them (adapters, in-context learning); how to scale up to massive datasets (multi-GPU/distributed optimization); how to employ existing models for everyday use (generating code, coding with a generative model in the loop). Students will also explore the theoretical foundations and empirical attempts to understand their inner workings as well as learn about the ways in which things can go wrong (bias, hallucination, adversarial attacks, data contamination) and ways to combat these problems. Students in the course will develop understanding of modern techniques through implementation, but they will also employ existing libraries and models to explore their generative capabilities and limitations. The course is designed for students who have completed an introductory course in machine learning or deep learning.
+</end course description for 10-623 Generative AI>

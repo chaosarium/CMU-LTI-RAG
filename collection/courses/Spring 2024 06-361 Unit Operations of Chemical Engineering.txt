@@ -1,0 +1,16 @@
+<start course metadata for 06-361 Unit Operations of Chemical Engineering>
+Semester: Spring 2024 (aka S24)
+Course Name: Unit Operations of Chemical Engineering
+Course Number: 06-361
+Department: Chemical Engineering
+Number of Units: 9
+Prerequisites: 06-323
+Instructors: Kathryn Whitehead
+Rooms: GHC 4215
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 06-361 Unit Operations of Chemical Engineering>
+
+<start course description for 06-361 Unit Operations of Chemical Engineering>
+Semester: Spring 2024 (aka S24)
+Course Description: This course comprises many of the standard operations in chemical plants such as gas absorption, heat exchange, distillation and extraction. The design and operation of these devices is emphasized. A project dealing with a novel unit operation is also investigated.
+</end course description for 06-361 Unit Operations of Chemical Engineering>

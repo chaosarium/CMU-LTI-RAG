@@ -1,0 +1,16 @@
+<start course metadata for 03-345 Experimental Cell and Developmental Biology>
+Semester: Spring 2024 (aka S24)
+Course Name: Experimental Cell and Developmental Biology
+Course Number: 03-345
+Department: Biological Sciences
+Number of Units: 12
+Prerequisites: (03-343) and (03-232 or 03-231) and (03-240 or 03-320)
+Instructors: Brett Wisniewski, Emily Drill
+Rooms: MI 355
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 03-345 Experimental Cell and Developmental Biology>
+
+<start course description for 03-345 Experimental Cell and Developmental Biology>
+Semester: Spring 2024 (aka S24)
+Course Description: This laboratory is designed to teach concepts and experimental methods in cell and developmental biology. Students work with a variety of organisms to examine how cells traverse development from rapidly dividing, undifferentiated cells, through cell commitment and the establishment of spatial and temporal patterns of gene expression, to the specific characteristics and responses of terminally differentiated cells. The course makes extensive use of video microscopy with phase contrast, DIC and fluorescence microscopes. Biochemical, immunological and molecular biological techniques are used to probe the molecules and processes of cells undergoing development. Experimentation using living organisms and/or their tissues, cells or molecules is an essential component of this course.
+</end course description for 03-345 Experimental Cell and Developmental Biology>

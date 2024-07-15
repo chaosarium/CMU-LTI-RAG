@@ -1,0 +1,16 @@
+<start course metadata for 70-258 Developing Blockchain Use Case>
+Semester: Spring 2024 (aka S24)
+Course Name: Developing Blockchain Use Case
+Course Number: 70-258
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Ariel Zetlin-Jones
+Rooms: TEP 3801
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 70-258 Developing Blockchain Use Case>
+
+<start course description for 70-258 Developing Blockchain Use Case>
+Semester: Spring 2024 (aka S24)
+Course Description: Blockchains, or distributed ledger and consensus technologies, hold tremendous promise for improving markets and organically handling private, secure data. As CMU develops its own blockchain and token---CMU Coin---a central concern is to determine the set of applications that such technology would be most useful for. This course is designed for students to propose and, potentially, develop applications or use cases for a campus blockchain. http://tinyurl.com/cmucoincourse The course begins with a brief introduction to blockchain using Bitcoin as an example of a blockchain protocol. We will examine the market failure Bitcoin was intended to resolve as well as the role of cryptography and distributed systems in enabling this new technology to create societal value. The course will go on to discuss the boundaries of the role of cryptography in blockchain. Next, we will use these tools to evaluate existing, real-world blockchain use cases with an eye towards developing our own applications of these emerging technologies. Along the way, we will learn practical development skills in distributed ledger technologies to understand blockchain programming and application development. Finally, students will propose their own blockchain use cases for CMU's own proprietary blockchain. No formal prerequisites, but familiarity with programming is highly recommended. This course may use third-party course material that is not available for individual purchase from the publisher. If so, the third-party course material will be secured and provided by the Tepper School to students enrolled in the course, and students enrolled in the course will be required to pay to the University the associated additional course materials fee for the third-party course material provided. The amount of the course materials fee is dependent on the University's cost of the particular materials provided, and typically ranges from $13 to $75.
+</end course description for 70-258 Developing Blockchain Use Case>

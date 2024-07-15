@@ -1,0 +1,16 @@
+<start course metadata for 39-251 CIT Undergraduate Projects>
+Semester: Spring 2024 (aka S24)
+Course Name: CIT Undergraduate Projects
+Course Number: 39-251
+Department: CIT Interdisciplinary
+Number of Units: N/A
+Prerequisites: None
+Instructors: Instructor TBA
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 39-251 CIT Undergraduate Projects>
+
+<start course description for 39-251 CIT Undergraduate Projects>
+Semester: Spring 2024 (aka S24)
+Course Description: This course number is to be used for Spring CIT freshman research projects only. Student must complete a CIT Undergraduate Project Approval form (located in Scaife Hall 110) and submit for approval. The form must include a complete description and a signature approval from the research advisor/instructor. If the project is approved, the CIT Undergraduate Studies Office will add the course to the student's fall schedule.
+</end course description for 39-251 CIT Undergraduate Projects>

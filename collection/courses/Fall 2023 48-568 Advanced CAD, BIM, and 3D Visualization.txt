@@ -1,0 +1,16 @@
+<start course metadata for 48-568 Advanced CAD, BIM, and 3D Visualization>
+Semester: Fall 2023 (aka F23)
+Course Name: Advanced CAD, BIM, and 3D Visualization
+Course Number: 48-568
+Department: Architecture
+Number of Units: N/A
+Prerequisites: 48-305
+Instructors: Kristen Kurland
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-568 Advanced CAD, BIM, and 3D Visualization>
+
+<start course description for 48-568 Advanced CAD, BIM, and 3D Visualization>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is designed to introduce a student to 3D software tools, including AutoCAD 3D, Revit Architecture, and 3D Studio MAX. Using building information and parametric modeling, materials, lighting, rendering, and animation students will create integrated CAD/BIM projects, 3D video animations, and realistic renderings.  The course objectives are to develop an understanding of how to properly set up and manipulate 3D projects integrating software applications, replicating real world projects in leading architectural, lighting, and design firms; learn how to create details 3D CAD models using surfaces and solids; learn about BIM parametric modeling using Revit Architecture; and learn how to apply materials, lighting, and rendering to AutoCAD, Revit, and 3D Studio Max.  At the conclusion of this course, students will have projects and animations created and architectural CAD/BIM standards outlined. Students should have some familiarity with basic AutoCAD 2D commands. Those who don't have AutoCAD 2D knowledge can contact the professor to arrange for on-line tutorials that need to be completed before classes begin.   This course will be primarily taught asynchronously via video lectures and other materials. Some live remote meetings will be held for topic previews and project reviews. Remote office hours will be held weekly.
+</end course description for 48-568 Advanced CAD, BIM, and 3D Visualization>

@@ -1,0 +1,16 @@
+<start course metadata for 80-495 Independent Study>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Independent Study
+Course Number: 80-495
+Department: Philosophy
+Number of Units: N/A
+Prerequisites: None
+Instructors: Instructor TBA
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 80-495 Independent Study>
+
+<start course description for 80-495 Independent Study>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: Independent Study
+</end course description for 80-495 Independent Study>

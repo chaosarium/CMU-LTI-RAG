@@ -1,0 +1,16 @@
+<start course metadata for 07-300 Research and Innovation in Computer Science>
+Semester: Fall 2023 (aka F23)
+Course Name: Research and Innovation in Computer Science
+Course Number: 07-300
+Department: SCS Interdisciplinary
+Number of Units: 9
+Prerequisites: (76-101) or (76-102) or (76-106 and 76-107) or (76-106 and 76-108) or (76-107 and 76-108)
+Instructors: Ruben Martins
+Rooms: BH A53
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 07-300 Research and Innovation in Computer Science>
+
+<start course description for 07-300 Research and Innovation in Computer Science>
+Semester: Fall 2023 (aka F23)
+Course Description: This Fall course is the first part of a two-course sequence that is designed to help prepare students to invent the future state-of-the-art in the field of computer science. Course topics will include the following: an overview of important things to know about how research and innovation works in the field of computer science; a survey of the current cutting- edge of computer science research, both here at Carnegie Mellon and elsewhere; critical thinking skills when reading research publications that disagree with each other; strategies for coping with open-ended problems; and technical communication skills for computer scientists. Students will also match up with a faculty mentor for a potential Technology Innovation Project (to be performed in the Spring), put together a detailed plan of attack for that project, and start to get up to speed (including background reading, etc.). This course can be used to satisfy the Technical Communications requirement for the CS major.
+</end course description for 07-300 Research and Innovation in Computer Science>

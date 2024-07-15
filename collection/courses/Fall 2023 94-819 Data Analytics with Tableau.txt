@@ -1,0 +1,16 @@
+<start course metadata for 94-819 Data Analytics with Tableau>
+Semester: Fall 2023 (aka F23)
+Course Name: Data Analytics with Tableau
+Course Number: 94-819
+Department: Heinz College Wide Courses
+Number of Units: 6
+Prerequisites: None
+Instructors: Gabriela Gongora-Svartzman
+Rooms: HBH 1202; HBH 2008
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 94-819 Data Analytics with Tableau>
+
+<start course description for 94-819 Data Analytics with Tableau>
+Semester: Fall 2023 (aka F23)
+Course Description: TBA
+</end course description for 94-819 Data Analytics with Tableau>

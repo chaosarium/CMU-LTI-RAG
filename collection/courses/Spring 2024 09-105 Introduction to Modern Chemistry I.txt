@@ -1,0 +1,16 @@
+<start course metadata for 09-105 Introduction to Modern Chemistry I>
+Semester: Spring 2024 (aka S24)
+Course Name: Introduction to Modern Chemistry I
+Course Number: 09-105
+Department: Chemistry
+Number of Units: 10
+Prerequisites: None
+Instructors: Leonard Vuocolo
+Rooms: DH 2315
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 09-105 Introduction to Modern Chemistry I>
+
+<start course description for 09-105 Introduction to Modern Chemistry I>
+Semester: Spring 2024 (aka S24)
+Course Description: The course is intended to give students a powerful set of conceptual tools they can use to reason about chemical  systems and provide opportunities to practice application of these tools to phenomena of relevance to modern  society and technology.  The major goal is to teach core principles of chemistry while exposing students to the  diversity of modern chemical research and how it is addressing grand challenges facing society. The course  integrates online with classroom instruction to help all students succeed regardless of their past exposure to  chemistry.
+</end course description for 09-105 Introduction to Modern Chemistry I>

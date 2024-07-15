@@ -1,0 +1,16 @@
+<start course metadata for 17-634 Applied Machine Learning>
+Semester: Spring 2024 (aka S24)
+Course Name: Applied Machine Learning
+Course Number: 17-634
+Department: Software & Societal Systems
+Number of Units: 6
+Prerequisites: None
+Instructors: Scanlon, Worrell
+Rooms: CMU REMOTE
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 17-634 Applied Machine Learning>
+
+<start course description for 17-634 Applied Machine Learning>
+Semester: Spring 2024 (aka S24)
+Course Description: Autonomous and intelligent systems increasingly rely on automated decision making based on statistical models used for classification or prediction. The practical application of machine learning requires understanding the underlying theoretical assumptions behind a wide variety of statistical models, how to analyze the performance of such models, and how to integrate models into data processing pipelines. This course introduces students to supervised and unsupervised machine learning in the context of software engineering, including the analysis of natural language in bug reports and mobile app reviews. Techniques covered include latent Dirichlet allocation, TF/IDF, naive Bayes, linear regression, decision trees, and random forests.
+</end course description for 17-634 Applied Machine Learning>

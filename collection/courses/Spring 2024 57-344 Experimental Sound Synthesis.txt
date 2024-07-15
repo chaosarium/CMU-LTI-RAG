@@ -1,0 +1,16 @@
+<start course metadata for 57-344 Experimental Sound Synthesis>
+Semester: Spring 2024 (aka S24)
+Course Name: Experimental Sound Synthesis
+Course Number: 57-344
+Department: Music
+Number of Units: 9
+Prerequisites: None
+Instructors: Annie Hui-Hsin Hsieh
+Rooms: HL A10A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-344 Experimental Sound Synthesis>
+
+<start course description for 57-344 Experimental Sound Synthesis>
+Semester: Spring 2024 (aka S24)
+Course Description: This is a course that will guide students into the world of experimental approaches to music and sound production, with particular emphasis in some of the key practices and concepts developed in the 20th and 21st centuries. We will examine a variety of ways in which sound works are made and perceived; understanding the historical perspectives and critical viewpoints of each approach through the application of hands-on practicum. The topics covered in the course are divided into three large areas: the art of sound, the use of technology in the production of sound works, and the creation of interdisciplinary sound installation. Students from different disciplines will work together to collaborate on the designing, prototyping and execution of a series of ambitious projects in response to the topics covered in class.
+</end course description for 57-344 Experimental Sound Synthesis>

@@ -1,0 +1,16 @@
+<start course metadata for 79-205 20th Century Europe>
+Semester: Spring 2024 (aka S24)
+Course Name: 20th Century Europe
+Course Number: 79-205
+Department: History
+Number of Units: 9
+Prerequisites: None
+Instructors: Michal Friedman
+Rooms: PH 226C
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 79-205 20th Century Europe>
+
+<start course description for 79-205 20th Century Europe>
+Semester: Spring 2024 (aka S24)
+Course Description: This course surveys the history of Europe from 1900 through the present. We shall examine some of the major political trends and social/economic changes of the last century, including: the collapse of Europe's multiethnic empires and the rise of the modern nation-state; the extraordinary violence and impact of WWI and the rise of ethno-nationalism and fascism during the inter-war period; The Spanish Civil War, WWII and the War in the Balkans in the 1990s. We will also examine Communism and its collapse; colonial resistance and the process of decolonization; and the creation of the European Union. In addressing contemporary Europe, we shall discuss: the re-emergence of ethno-nationalism and rising anti-immigrant sentiment and antisemitism over the last decades; cultural and political debates surrounding Islam and Muslims; contemporary debates over the memory of the Holocaust, and Russia's brutal war against Ukraine.  Primary sources, academic articles, memoir and film will be used in the classroom to explore these topics. Classes will combine lecture, discussion and group work.
+</end course description for 79-205 20th Century Europe>

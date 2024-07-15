@@ -1,0 +1,16 @@
+<start course metadata for 57-367 Supervised Recording Teaching>
+Semester: Fall 2023 (aka F23)
+Course Name: Supervised Recording Teaching
+Course Number: 57-367
+Department: Music
+Number of Units: 6
+Prerequisites: None
+Instructors: Riccardo Schulz
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-367 Supervised Recording Teaching>
+
+<start course description for 57-367 Supervised Recording Teaching>
+Semester: Fall 2023 (aka F23)
+Course Description: None
+</end course description for 57-367 Supervised Recording Teaching>

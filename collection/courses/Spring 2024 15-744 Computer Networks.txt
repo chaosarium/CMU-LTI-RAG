@@ -1,0 +1,16 @@
+<start course metadata for 15-744 Computer Networks>
+Semester: Spring 2024 (aka S24)
+Course Name: Computer Networks
+Course Number: 15-744
+Department: Computer Science
+Number of Units: 12
+Prerequisites: None
+Instructors: Justine Sherry, Nirav Atre
+Rooms: GHC 4303
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-744 Computer Networks>
+
+<start course description for 15-744 Computer Networks>
+Semester: Spring 2024 (aka S24)
+Course Description: 15-744 is a doctoral course in computer networking research. The goals are:  To understand the state of the art in network protocols, network architecture, and networked systems. To engage with systems research at a scholarly level through written and oral argument. To investigate novel ideas and make new scholarly arguments through a semester-long research project in computer networking.
+</end course description for 15-744 Computer Networks>

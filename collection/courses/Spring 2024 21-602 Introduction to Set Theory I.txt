@@ -1,0 +1,16 @@
+<start course metadata for 21-602 Introduction to Set Theory I>
+Semester: Spring 2024 (aka S24)
+Course Name: Introduction to Set Theory I
+Course Number: 21-602
+Department: Mathematical Sciences
+Number of Units: 12
+Prerequisites: (21-235 or 21-355 or 21-455) and (21-237 or 21-373) and (21-329) and (21-300)
+Instructors: Ernest Schimmerling
+Rooms: PH 125D
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-602 Introduction to Set Theory I>
+
+<start course description for 21-602 Introduction to Set Theory I>
+Semester: Spring 2024 (aka S24)
+Course Description: The axioms of ZFC, ordinal arithmetic, cardinal arithmetic including Konig's lemma, class length induction and recursion, the rank hierarchy, the Mostowski collapse theorem, the H-hierarchy, the Delta_1 absoluteness theorem, the absoluteness of wellfoundedness, the reflection theorem for hierarchies of sets, ordinal definability, the model HOD, relative consistency, Goedel's theorem that HOD is a model of ZFC, constructibility, Goedel's theorem that L is a model of ZFC + GCH, the Borel and Projective hierarchies and their effective versions, Suslin representations for Sigma^1_1, Pi^1_1 and Sigma^1_2, sets of reals, Shoenfield's absoluteness theorem, the complexity of the set of constructible reals, the combinatorics of club and stationary sets (including the diagonal intersection, the normality of the club filter, Fodor's lemma and its applications), Solovay's splitting theorem, model theoretic techniques commonly applied in set theory (e.g., elementary substructures, chains of models and ultrapowers), club and stationary subsets of [X]^/omega and their combinatorics, Jensen's diamond principles and his proofs that they hold in L, Gregory's theorem and generalizations, constructions of various kinds of uncountable trees (including Aronszajn, special, Suslin, Kurepa), Jensen's square principles and elementary applications, the basic theory of large cardinals (including inaccesssible, Mahlo, weakly compact and measurable cardinals), Scott's theorem that there are no measurable cardinals in L, Kunen's theorem that the only elementary embedding from V to V is the identity.  Optional topic: SCH and Silver's theorem.  (Three 50 minute lectures)
+</end course description for 21-602 Introduction to Set Theory I>

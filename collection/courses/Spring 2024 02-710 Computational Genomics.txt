@@ -1,0 +1,16 @@
+<start course metadata for 02-710 Computational Genomics>
+Semester: Spring 2024 (aka S24)
+Course Name: Computational Genomics
+Course Number: 02-710
+Department: Computational Biology
+Number of Units: 12
+Prerequisites: None
+Instructors: Jian Ma, Yun Yu
+Rooms: MI 348
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 02-710 Computational Genomics>
+
+<start course description for 02-710 Computational Genomics>
+Semester: Spring 2024 (aka S24)
+Course Description: Dramatic advances in experimental technology and computational analysis are fundamentally transforming the basic nature and goal of biological research. The emergence of new frontiers in biology, such as evolutionary genomics and systems biology is demanding new methodologies that can confront quantitative issues of substantial computational and mathematical sophistication.  From the computational side this course focuses on modern machine learning methodologies for computational problems in molecular biology and genetics, including probabilistic modeling, inference and learning algorithms, data integration, time series analysis, active learning, etc. This course counts as a CSD Applications elective
+</end course description for 02-710 Computational Genomics>

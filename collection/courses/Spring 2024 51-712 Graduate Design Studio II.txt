@@ -1,0 +1,16 @@
+<start course metadata for 51-712 Graduate Design Studio II>
+Semester: Spring 2024 (aka S24)
+Course Name: Graduate Design Studio II
+Course Number: 51-712
+Department: Design
+Number of Units: 15
+Prerequisites: 51-711
+Instructors: Daphne Firos, Haeyoung Kim
+Rooms: MM 215
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-712 Graduate Design Studio II>
+
+<start course description for 51-712 Graduate Design Studio II>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is an extension of Graduate Design Studio I, with an emphasis on applying the principles of Studio I, Seminar I, and Research Methods to a semester-long team project. The focus is on research, strategic thinking, and design process, which lead to planning and development of interactive systems or services. This is an externally sponsored project that involves teamwork, collaboration, and client interaction-critical skills for any designer. This course is a design master's level course. Students are expected to demonstrate mastery in the integration of design process, design research, and client presentations. Past clients have included Motorola, Microsoft, and the Carnegie Museum of Art. Prerequisite: concurrent registration in Graduate Design Seminar II or approval of instructor.
+</end course description for 51-712 Graduate Design Studio II>

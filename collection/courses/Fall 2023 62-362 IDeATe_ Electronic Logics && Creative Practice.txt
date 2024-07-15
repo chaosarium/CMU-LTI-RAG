@@ -1,0 +1,16 @@
+<start course metadata for 62-362 IDeATe: Electronic Logics && Creative Practice>
+Semester: Fall 2023 (aka F23)
+Course Name: IDeATe: Electronic Logics && Creative Practice
+Course Number: 62-362
+Department: CFA Interdisciplinary
+Number of Units: 12
+Prerequisites: None
+Instructors: Petra Floyd, Robert Zacharias
+Rooms: HL A10
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 62-362 IDeATe: Electronic Logics && Creative Practice>
+
+<start course description for 62-362 IDeATe: Electronic Logics && Creative Practice>
+Semester: Fall 2023 (aka F23)
+Course Description: Electronic Logics && Creative Practice investigates the fundamentals of electronic computation as metaphors for art and interaction. Students explore technology through a creative lens, as conceptual and physical material to be manipulated and synthesized, by examining the basis of digital computation alongside contemporary and new media art practices. There are three main units: Gates (the logical building blocks of computers), Flow (ways in which signals "flow" through physical and electronic systems), and Arrows (the stacked layers of indirection used in modern computer systems). These major themes are addressed through lecture, readings, and the creation of individual and collaborative works. Throughout the semester students complete a series of quick thematic exercises and three larger-scale projects; these works are reviewed through meetings, group critique, and documentation. Our toolbox includes 7400-series logic chips, the Arduino electronics platform, software, wood, laser cut acrylic, found objects, props, projections, and glue. We address technical engineering subjects (e.g. Karnaugh maps) alongside art and performance theory. Students deepen conceptual skills while increasing the scale and ambition of creative output. The course culminates in an end-of-semester showcase where students publicly exhibit their work.
+</end course description for 62-362 IDeATe: Electronic Logics && Creative Practice>

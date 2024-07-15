@@ -1,0 +1,16 @@
+<start course metadata for 21-260 Differential Equations>
+Semester: Spring 2024 (aka S24)
+Course Name: Differential Equations
+Course Number: 21-260
+Department: Mathematical Sciences
+Number of Units: 9
+Prerequisites: 21-122
+Instructors: Udita Katugampola
+Rooms: HOA 160
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-260 Differential Equations>
+
+<start course description for 21-260 Differential Equations>
+Semester: Spring 2024 (aka S24)
+Course Description: Ordinary differential equations: first and second order equations, applications, Laplace transforms; partial differential equations: partial derivatives, separation of variables, Fourier series; systems of ordinary differential equations; applications. 21-259 or 21-268 or 21-269 are recommended. (Three 50 minute lectures, one 50 minute recitation)
+</end course description for 21-260 Differential Equations>

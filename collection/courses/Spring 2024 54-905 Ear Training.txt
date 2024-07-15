@@ -1,0 +1,16 @@
+<start course metadata for 54-905 Ear Training>
+Semester: Spring 2024 (aka S24)
+Course Name: Ear Training
+Course Number: 54-905
+Department: Drama
+Number of Units: 1
+Prerequisites: None
+Instructors: Joe Pino
+Rooms: PCA 103
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-905 Ear Training>
+
+<start course description for 54-905 Ear Training>
+Semester: Spring 2024 (aka S24)
+Course Description: Ear Training for sound designers and audio technologists. Introduction and development of skills and techniques for discerning, measuring and expressing the physical qualities of sound with accuracy and sensitivity. Topics include recognizing frequencies (1/3 octave and dual-octave) and analyzing effects and processing (pitch, amplitude, time domain and timbral). This course is open to Drama Sound Design majors/minors, Music Technology major/minors or by permission of the instructor.
+</end course description for 54-905 Ear Training>

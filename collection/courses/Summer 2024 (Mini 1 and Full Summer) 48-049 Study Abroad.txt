@@ -1,0 +1,16 @@
+<start course metadata for 48-049 Study Abroad>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Study Abroad
+Course Number: 48-049
+Department: Architecture
+Number of Units: N/A
+Prerequisites: None
+Instructors: Instructor TBA
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-049 Study Abroad>
+
+<start course description for 48-049 Study Abroad>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: This course number is used by the Office of International Education. Students should not register themselves for this course.
+</end course description for 48-049 Study Abroad>

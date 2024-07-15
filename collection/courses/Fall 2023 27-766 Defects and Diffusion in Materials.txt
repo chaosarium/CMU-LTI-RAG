@@ -1,0 +1,16 @@
+<start course metadata for 27-766 Defects and Diffusion in Materials>
+Semester: Fall 2023 (aka F23)
+Course Name: Defects and Diffusion in Materials
+Course Number: 27-766
+Department: Materials Science & Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Gregory Rohrer
+Rooms: HH B103
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 27-766 Defects and Diffusion in Materials>
+
+<start course description for 27-766 Defects and Diffusion in Materials>
+Semester: Fall 2023 (aka F23)
+Course Description: Defects in materials, and the transport of matter through these defects by diffusion, strongly influence a material's physical properties and microstructural evolution.  For example, the strength of materials, the electrical and optical properties of materials, and the rates at which microstructures coarsen, recrystallize, and oxidize all depend on the population of intrinsic and extrinsic defects and the transport of matter through these defects.  The objective of this course is to define methods of quantifying the population and properties of defects in materials and the transport of matter through these defects.  The course addresses both crystalline, semicrystalline, and amorphous materials and begins with the fundamentals of diffusion in amorphous materials.  After describing point defect formation and equilibrium defect populations in elements and compounds, diffusion through these defects will be described.  Point defect diffusion will be illustrated using examples such as the Kirkendall effect and diffusive creep.  The properties and characteristics of dislocations, their motion, and the role of dislocations in deformation will also be discussed.  Short circuit diffusion and the role of diffusion in dislocation creep will be described as examples of transport involving dislocations.  Finally, the energetics of planar defects, grain boundaries, and interfaces will be discussed.  Diffusive transport along interfaces will be described, using examples including transport in two phase systems, sintering, and coarsening.
+</end course description for 27-766 Defects and Diffusion in Materials>

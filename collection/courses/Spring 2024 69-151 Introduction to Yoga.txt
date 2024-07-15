@@ -1,0 +1,16 @@
+<start course metadata for 69-151 Introduction to Yoga>
+Semester: Spring 2024 (aka S24)
+Course Name: Introduction to Yoga
+Course Number: 69-151
+Department: Physical Education
+Number of Units: 3
+Prerequisites: None
+Instructors: Molly Goldcamp, Patricia Stragar, Sara Gauntner
+Rooms: CUC AR 254
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 69-151 Introduction to Yoga>
+
+<start course description for 69-151 Introduction to Yoga>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is designed for the beginning yoga student who wants to gain a solid foundation of yoga poses and the benefits a yoga practice has to offer.  The course is also for those who have experience in Yoga and want to practice and improve their basic skills.
+</end course description for 69-151 Introduction to Yoga>

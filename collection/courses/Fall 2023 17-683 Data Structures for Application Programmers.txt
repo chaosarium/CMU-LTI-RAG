@@ -1,0 +1,16 @@
+<start course metadata for 17-683 Data Structures for Application Programmers>
+Semester: Fall 2023 (aka F23)
+Course Name: Data Structures for Application Programmers
+Course Number: 17-683
+Department: Software & Societal Systems
+Number of Units: 6
+Prerequisites: None
+Instructors: Terry Lee
+Rooms: DH 2210
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 17-683 Data Structures for Application Programmers>
+
+<start course description for 17-683 Data Structures for Application Programmers>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is an introduction to Data Structures and a few fundamental algorithms for students with some prior programming experience (functions, loops and arrays mainly in Java). It covers the conceptual and implementation views of some common data structures and algorithms. It also goes over the Java Collections (such as List, ArrayList, LinkedList, Set, HashSet, TreeSet, Map, HashMap, TreeMap, PriorityQueue) to solidify the understanding of the data structures. There is an introduction to the analysis of algorithms that operate on them. Following learning-by-doing methodology, there will be many repetitions of writing code and reviews of the items covered in lectures. Students are required to be familiar with Java Programming before taking this course. Those who are not are encouraged to take 17-681 in mini 1 before taking this course. Students are required to have a reasonably modern laptop computer on which install the Java software used for this course. This course is open to undergraduate students who have some programming experience.
+</end course description for 17-683 Data Structures for Application Programmers>

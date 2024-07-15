@@ -1,0 +1,16 @@
+<start course metadata for 57-758 Business of Music>
+Semester: Fall 2023 (aka F23)
+Course Name: Business of Music
+Course Number: 57-758
+Department: Music
+Number of Units: 6
+Prerequisites: None
+Instructors: Denis Colwell, Lance Laduke
+Rooms: WQE ST B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-758 Business of Music>
+
+<start course description for 57-758 Business of Music>
+Semester: Fall 2023 (aka F23)
+Course Description: This class will teach you the fundamentals of how to survive in the music industry. A diverse set of speakers, hands-on projects tailored to your interests and needs and group activities will introduce you to the challenges you'll face during your career. How to manage your money, what you need to know about copyright, whom do you need on your side? We'll cover all of these and more!
+</end course description for 57-758 Business of Music>

@@ -1,0 +1,16 @@
+<start course metadata for 51-132 Introduction to Photo Design>
+Semester: Spring 2024 (aka S24)
+Course Name: Introduction to Photo Design
+Course Number: 51-132
+Department: Design
+Number of Units: 10
+Prerequisites: 51-101
+Instructors: Dylan Vitone
+Rooms: MM 121
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-132 Introduction to Photo Design>
+
+<start course description for 51-132 Introduction to Photo Design>
+Semester: Spring 2024 (aka S24)
+Course Description: Using a digital camera, students learn how to extend their 'seeing' with the camera, both in the world and in a shooting studio. Through shooting assignments student will understand how to: deconstruct image meaning and aesthetical choices, construction of photographic meaning and aesthetics, an understanding of color and how color delivers meaning, how a photographic studio works, proper digital photographic workflow and contemporary trends in photography.  Intended for Design Majors, or permission of the instructor.
+</end course description for 51-132 Introduction to Photo Design>

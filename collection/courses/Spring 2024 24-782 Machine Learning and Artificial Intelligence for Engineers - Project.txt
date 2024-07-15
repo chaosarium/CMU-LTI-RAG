@@ -1,0 +1,16 @@
+<start course metadata for 24-782 Machine Learning and Artificial Intelligence for Engineers - Project>
+Semester: Spring 2024 (aka S24)
+Course Name: Machine Learning and Artificial Intelligence for Engineers - Project
+Course Number: 24-782
+Department: Mechanical Engineering
+Number of Units: 12
+Prerequisites: 24-787 or 10-601 or 10-701 or 15-781
+Instructors: Inseung Kang
+Rooms: GHC 4211
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-782 Machine Learning and Artificial Intelligence for Engineers - Project>
+
+<start course description for 24-782 Machine Learning and Artificial Intelligence for Engineers - Project>
+Semester: Spring 2024 (aka S24)
+Course Description: This course provides an open-ended computational project experience in artificial intelligence and machine learning. This course will enable student teams to design, develop and test data-driven computational algorithms. Course objectives are: - Gain experience in data sciences and data-driven methods for engineering. - Learn advanced programming and computational system design. - Learn project planning and management, project evaluation, teamwork, technical communication. The projects will target problems involving experimental, simulated or crowd-sourced data. Each project will aim to build an artificial intelligence or machine learning system that accomplishes one or more of the following: Identify patterns in data, establish a mathematical model for the input/output relationships, classify data into distinct categories, use existing data to synthesize new solutions to a synthesis problem. Team activities include three presentations, two written reports, a final technology demo, and one final report in the form of an archival publication.
+</end course description for 24-782 Machine Learning and Artificial Intelligence for Engineers - Project>

@@ -1,0 +1,16 @@
+<start course metadata for 10-680 Mathematical Foundations for Machine Learning>
+Semester: Fall 2023 (aka F23)
+Course Name: Mathematical Foundations for Machine Learning
+Course Number: 10-680
+Department: Machine Learning
+Number of Units: 6
+Prerequisites: None
+Instructors: Bryan Wilder
+Rooms: CMU REMOTE
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 10-680 Mathematical Foundations for Machine Learning>
+
+<start course description for 10-680 Mathematical Foundations for Machine Learning>
+Semester: Fall 2023 (aka F23)
+Course Description: This course provides a place for students to practice the necessary mathematical background for further study in machine learning. Topics covered include probability (random variables, modeling with continuous and discrete distributions), linear algebra (inner product spaces, linear operators), and multivariate differential calculus (partial derivatives, matrix differentials). The course assumes some background in each of the above, but will review and give practice in each. (It does not provide from-scratch coverage of all of the above, which would be impossible in a course of this length.) Some coding will be required: the course will provide practice with translating the above mathematical concepts into concrete programs. This course is one of two minis intended to prepare students for further study in machine learning -- particularly for taking 10-601 and 10-701. One of the courses 10-680 focuses on mathematical background, and the other course 10-681 focuses on computational background. Most students take both mini courses, but this is not required. 10-680 is not a prerequisite of 10-681. This course is only available to students enrolled in the online Graduate Certificate in Computational Data Science Foundations; other students should enroll in 10-606.
+</end course description for 10-680 Mathematical Foundations for Machine Learning>

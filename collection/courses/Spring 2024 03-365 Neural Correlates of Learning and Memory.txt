@@ -1,0 +1,16 @@
+<start course metadata for 03-365 Neural Correlates of Learning and Memory>
+Semester: Spring 2024 (aka S24)
+Course Name: Neural Correlates of Learning and Memory
+Course Number: 03-365
+Department: Biological Sciences
+Number of Units: 9
+Prerequisites: 03-161 or 85-219 or 03-240 or 03-320
+Instructors: Natalie McGuier
+Rooms: DH 1211
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 03-365 Neural Correlates of Learning and Memory>
+
+<start course description for 03-365 Neural Correlates of Learning and Memory>
+Semester: Spring 2024 (aka S24)
+Course Description: This course will examine the biological substrates of learning, memory, and behavioral adaptation. The focus will be on addressing how neural circuits change during new skill acquisition and adapt to variations in the environment.  An introduction to experience-dependent changes in neural structure and function, in addition to behavioral learning paradigms, will be provided.  Then we will consider the ways in which specific changes in biological substrates give rise to the emergent properties that drive behavioral adaptation, followed by in depth coverage of deciphering which biological substrates constitute a lasting memory trace. Finally, the concept of age-dependent learning will be examined.   Concepts and specific examples will come through reading of primary literature and selected readings from advanced texts.
+</end course description for 03-365 Neural Correlates of Learning and Memory>

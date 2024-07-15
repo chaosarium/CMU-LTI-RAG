@@ -1,0 +1,16 @@
+<start course metadata for 36-200 Reasoning with Data>
+Semester: Spring 2024 (aka S24)
+Course Name: Reasoning with Data
+Course Number: 36-200
+Department: Statistics and Data Science
+Number of Units: 9
+Prerequisites: None
+Instructors: Gordon Weinberg
+Rooms: GHC 4401
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 36-200 Reasoning with Data>
+
+<start course description for 36-200 Reasoning with Data>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is an introduction to learning how to make statistical decisions and now to reason with data.  The approach will emphasize the thinking-through of empirical problems from beginning to end and using statistical tools to look for evidence for/against explicit arguments/hypotheses.  Types of data will include continuous and categorical variables, images, text, networks, and repeated measures over time.  Applications will largely drawn from interdisciplinary case studies spanning the humanities, social sciences, and related fields.  Methodological topics will include basic exploratory data analysis, elementary probability, significance tests, and empirical research methods.  There will be once-weekly computer lab for additional hands-on practice using an interactive software platform that allows student-driven inquiry.
+</end course description for 36-200 Reasoning with Data>

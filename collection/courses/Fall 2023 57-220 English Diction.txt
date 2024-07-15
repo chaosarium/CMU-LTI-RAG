@@ -1,0 +1,16 @@
+<start course metadata for 57-220 English Diction>
+Semester: Fall 2023 (aka F23)
+Course Name: English Diction
+Course Number: 57-220
+Department: Music
+Number of Units: 3
+Prerequisites: None
+Instructors: Jocelyn Dueck
+Rooms: CFA M157
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-220 English Diction>
+
+<start course description for 57-220 English Diction>
+Semester: Fall 2023 (aka F23)
+Course Description: This one semester course helps singers sing English songs from the Classical and Musical Theater repertoire with clarity, accuracy, ease, uniformity, and expressiveness; to illuminate meaning; and to improve tonal quality through diction.
+</end course description for 57-220 English Diction>

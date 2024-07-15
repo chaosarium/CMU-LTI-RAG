@@ -1,0 +1,16 @@
+<start course metadata for 48-788 Proseminar in Computational Design>
+Semester: Fall 2023 (aka F23)
+Course Name: Proseminar in Computational Design
+Course Number: 48-788
+Department: Architecture
+Number of Units: 6
+Prerequisites: None
+Instructors: Daniel Cardoso Llach
+Rooms: MM 307
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-788 Proseminar in Computational Design>
+
+<start course description for 48-788 Proseminar in Computational Design>
+Semester: Fall 2023 (aka F23)
+Course Description: No course description provided.
+</end course description for 48-788 Proseminar in Computational Design>

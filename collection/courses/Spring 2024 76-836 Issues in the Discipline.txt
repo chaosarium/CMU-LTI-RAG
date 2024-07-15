@@ -1,0 +1,16 @@
+<start course metadata for 76-836 Issues in the Discipline>
+Semester: Spring 2024 (aka S24)
+Course Name: Issues in the Discipline
+Course Number: 76-836
+Department: English
+Number of Units: N/A
+Prerequisites: None
+Instructors: Jeffrey Williams
+Rooms: BH 255B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 76-836 Issues in the Discipline>
+
+<start course description for 76-836 Issues in the Discipline>
+Semester: Spring 2024 (aka S24)
+Course Description: This Mini introduces students to the history of the discipline of literary and cultural studies and current problems. It will survey how literary study was formed as a discipline in the twentieth century. Then it will cover some of the key recent debates in the discipline, for instance over critique, the shrinking of the humanities and labor in higher education, and the address to a public or publics.
+</end course description for 76-836 Issues in the Discipline>

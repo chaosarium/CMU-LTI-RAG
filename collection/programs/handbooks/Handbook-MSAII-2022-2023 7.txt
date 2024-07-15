@@ -1,0 +1,52 @@
+Handbook-MSAII-2022-2023
+8 MSAII Policies 
+The Language Technologies Institute (LTI) ha s prepared this statement of policies, program 
+requirements, guidance, process and procedures for students in the M.S. in Artificial Intelligence 
+and Innovation (MSAII) program. A copy of this handbook is also available online at the 
+program website .   
+The University Student guide, The Word, which  details university-wide policies, is also 
+available online at www.cmu.edu/student-affairs/theword .     
+Additional resources specific to graduate students can be found at 
+www.cmu.edu/graduate/policies/     
+8.1 The MSAII Degree 
+The M.S. in Artificial Intelligence and Innovation (MSAII) is a professional master's program 
+offered by the Language Technologies Institute (LTI) in the School of Computer Science at 
+Carnegie Mellon University. This program seeks to educate students in the innovative use of 
+artificial intelligence to create practical soluti ons in a wide variety of application areas. As 
+artificial intelligence matures, th ere is a great need for students who can envision, design, plan 
+and deliver solutions that integrate AI technolo gies such as deep learning, natural language 
+processing, robotics and big data analytics into  new applications.  The program stresses both 
+10 
+ intrapreneurship and entrepreneurship and enco urages students to develop ideas for startups 
+and for introduction into established companies. 
+The curriculum is designed for students who have  a strong background in computer science 
+with interest in in-depth study of AI to ena ble them to develop re al-world applications, 
+especially in areas to which AI has not yet b een applied. The integrated curriculum includes 
+coursework and team projects lead ing to a full-semester capstone project to produce a working 
+prototype.     
+8.2 Program Contacts 
+Michael I. Shamos       
+ Director, MSAII      Distinguished Career Professor    
+ G H C  6 7 0 7           
+ shamos@cs.cmu.edu  
+ 
+Amber Vivis 
+ Academic Program Manager, MSAII  TCS 357 
+ 412-268-9998 
+ avivis@cs.cmu.edu  
+ 
+ Carolyn Penstein Rosé      Interim Director, Language Technologies Institute  Professor  GHC 5415 
+ 412-268-7130 
+ cprose@cs.cmu.edu  
+8.3 The Reasonable Person Principle (RPP) 
+It is a long-standing and revered principle of the School of Computer Science (SCS) that 
+members of our community are expected to act reasonably, and therefore we try to keep formal, 
+written SCS policies to a minimum.  The faculty  do not burden the students with numerous 
+rules, and, in return, we expect the students to not try to find technical  loopholes that violate 
+the clear intent of program policies.  In any situation not covered by an explicit rule, you should 
+ask yourself how reasonable people would behave  in that situation.  The RPP does not alter 
+University-wide policies. 
+8.4 Academic Calendar 
+ The Academic Calendar can be found at https://www.cmu.edu/hub/calendar/index.html  and 
+provides information on all deadlines including registration date s, class start dates, add/drop 
+deadlines, exam dates and more. 

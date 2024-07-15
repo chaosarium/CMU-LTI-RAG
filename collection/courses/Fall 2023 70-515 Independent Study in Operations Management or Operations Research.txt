@@ -1,0 +1,16 @@
+<start course metadata for 70-515 Independent Study in Operations Management or Operations Research>
+Semester: Fall 2023 (aka F23)
+Course Name: Independent Study in Operations Management or Operations Research
+Course Number: 70-515
+Department: Business Administration
+Number of Units: N/A
+Prerequisites: None
+Instructors: George Burton Hollifield
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 70-515 Independent Study in Operations Management or Operations Research>
+
+<start course description for 70-515 Independent Study in Operations Management or Operations Research>
+Semester: Fall 2023 (aka F23)
+Course Description: For students completing an independent study in operations management or operations research; consult the business administration program for independent study information.
+</end course description for 70-515 Independent Study in Operations Management or Operations Research>

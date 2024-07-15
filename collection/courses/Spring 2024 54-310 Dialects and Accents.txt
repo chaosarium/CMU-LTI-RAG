@@ -1,0 +1,16 @@
+<start course metadata for 54-310 Dialects and Accents>
+Semester: Spring 2024 (aka S24)
+Course Name: Dialects and Accents
+Course Number: 54-310
+Department: Drama
+Number of Units: 6
+Prerequisites: None
+Instructors: Gary Logan
+Rooms: PCA A41
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-310 Dialects and Accents>
+
+<start course description for 54-310 Dialects and Accents>
+Semester: Spring 2024 (aka S24)
+Course Description: For School of Drama Acting/MT students only.
+</end course description for 54-310 Dialects and Accents>

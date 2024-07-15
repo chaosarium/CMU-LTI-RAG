@@ -1,0 +1,16 @@
+<start course metadata for 73-352 Public Economics>
+Semester: Fall 2023 (aka F23)
+Course Name: Public Economics
+Course Number: 73-352
+Department: Economics
+Number of Units: 9
+Prerequisites: (21-256 or 21-259 or 21-269 or 21-268) and (73-230)
+Instructors: Christina Fong
+Rooms: TEP 2612
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 73-352 Public Economics>
+
+<start course description for 73-352 Public Economics>
+Semester: Fall 2023 (aka F23)
+Course Description: In this course, students analyze the role of governments in market economies and their impact on the behavior and welfare of citizens. Reasons for government intervention in markets are examined in light of some of the economic challenges faced by modern societies in an increasingly globalized marketplace. Topics include: taxation and expenditure policies, externalities and market failure, social security, public assistance and income redistribution programs. There will also be some coverage of the role of local governments in the economy with respect to such issues as crime, urban development and education.  (Lecture, 3 hours). Minimum grade of "C" required in all economics pre-requisite courses.
+</end course description for 73-352 Public Economics>

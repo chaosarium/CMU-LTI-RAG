@@ -1,0 +1,16 @@
+<start course metadata for 06-643 Creating Scientific Research Software>
+Semester: Spring 2024 (aka S24)
+Course Name: Creating Scientific Research Software
+Course Number: 06-643
+Department: Chemical Engineering
+Number of Units: 6
+Prerequisites: None
+Instructors: John Kitchin
+Rooms: CMU REMOTE
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 06-643 Creating Scientific Research Software>
+
+<start course description for 06-643 Creating Scientific Research Software>
+Semester: Spring 2024 (aka S24)
+Course Description: This course will introduce students to topics in creating scientific research software. This will include using a shell, creating and using command-line utilities, using software editors,  using version control systems, and creating and distributing software packages for scientific research.
+</end course description for 06-643 Creating Scientific Research Software>

@@ -1,0 +1,16 @@
+<start course metadata for 12-690 Independent Study>
+Semester: Spring 2024 (aka S24)
+Course Name: Independent Study
+Course Number: 12-690
+Department: Civil & Environmental Engineering
+Number of Units: N/A
+Prerequisites: None
+Instructors: Amit Acharya, Kelvin Gregory, Sarah Christian
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 12-690 Independent Study>
+
+<start course description for 12-690 Independent Study>
+Semester: Spring 2024 (aka S24)
+Course Description: In-depth investigation of a special topic in Civil and Environmental Engineering under the direction of a faculty member. The topic usually involves open-ended problems whose solution requires some elements of syntheses, analysis, construction, testing and evaluation of an engineering device or system.  Junior or Senior Standing or with instructor permission in Civil and Environmental Engineering.  Faculty approval required.  3 to 12 units
+</end course description for 12-690 Independent Study>

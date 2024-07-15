@@ -1,0 +1,16 @@
+<start course metadata for 98-186 Student Taught Courses (StuCo): Roller Coasters: Background and Design>
+Semester: Spring 2024 (aka S24)
+Course Name: Student Taught Courses (StuCo): Roller Coasters: Background and Design
+Course Number: 98-186
+Department: StuCo (Student Led Courses)
+Number of Units: 3
+Prerequisites: None
+Instructors: Justin Peng
+Rooms: WEH 5409
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 98-186 Student Taught Courses (StuCo): Roller Coasters: Background and Design>
+
+<start course description for 98-186 Student Taught Courses (StuCo): Roller Coasters: Background and Design>
+Semester: Spring 2024 (aka S24)
+Course Description: Students will learn the fundamentals of how roller coasters are designed, roller coaster and manufacturer identification, basic physics used in roller coaster design, as well as the history of roller coasters. Lecture slides will go over the history of different roller coaster innovations and design philosophies, as well as real world examples and applications. During the course, students will take a class trip to Kennywood ($25 fee) to gain further insight into theme park management and roller coaster maintenance.
+</end course description for 98-186 Student Taught Courses (StuCo): Roller Coasters: Background and Design>

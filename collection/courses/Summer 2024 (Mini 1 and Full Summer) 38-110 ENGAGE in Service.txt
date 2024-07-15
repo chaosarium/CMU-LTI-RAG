@@ -1,0 +1,16 @@
+<start course metadata for 38-110 ENGAGE in Service>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: ENGAGE in Service
+Course Number: 38-110
+Department: MCS Interdisciplinary
+Number of Units: 1
+Prerequisites: None
+Instructors: Ken Hovis
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 38-110 ENGAGE in Service>
+
+<start course description for 38-110 ENGAGE in Service>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: ENGAGE in Service is a 1-unit course (9 hours of work, minimum requirement for a passing grade) designed to promote MCS students' direct engagement with community development and service learning. To fulfill this requirement, students must engage in a minimum of 9 hours of work devoted to a non-profit organization or organizations of their choice, 3 of which must have a direct benefit to the local Pittsburgh community. Students may complete the requirements anytime during their undergraduate years, but must register for the class during the semester that they intend to complete it, no later than their penultimate semester. Coursework includes documentation of service via completion of a form for each eligible activity that includes a time log, a description of the activity, the name and contact information for their supervisor and the supervisor's signature. In addition, during the last semester of the project/course students will prepare a 1-2 page reflective paper on the lessons learned from their immersion in the organization(s) and its (their) work.  No pay or other compensation can be received, and, in special cases, students may petition for a waiver if they have completed another service-learning course at Carnegie Mellon.
+</end course description for 38-110 ENGAGE in Service>

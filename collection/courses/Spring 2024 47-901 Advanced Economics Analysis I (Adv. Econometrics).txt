@@ -1,0 +1,16 @@
+<start course metadata for 47-901 Advanced Economics Analysis I (Adv. Econometrics)>
+Semester: Spring 2024 (aka S24)
+Course Name: Advanced Economics Analysis I (Adv. Econometrics)
+Course Number: 47-901
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Robert Miller
+Rooms: TEP 4219
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 47-901 Advanced Economics Analysis I (Adv. Econometrics)>
+
+<start course description for 47-901 Advanced Economics Analysis I (Adv. Econometrics)>
+Semester: Spring 2024 (aka S24)
+Course Description: No course description provided.
+</end course description for 47-901 Advanced Economics Analysis I (Adv. Econometrics)>

@@ -1,0 +1,16 @@
+<start course metadata for 36-795 Interdisciplinary Applied Research>
+Semester: Fall 2023 (aka F23)
+Course Name: Interdisciplinary Applied Research
+Course Number: 36-795
+Department: Statistics and Data Science
+Number of Units: 12
+Prerequisites: None
+Instructors: Aaditya Ramdas, Alessandro Rinaldo, Alexandra Chouldechova, Amelia Haviland, Ann Lee, Chad Schafer, Cosma Shalizi, Edward Kennedy, Jiashun Jin, Jing Lei, Joel Greenhouse, Kathryn Roeder, Larry Wasserman, Mark Schervish, Matey Neykov, Mikael Kuusela, Nynke Niezink, Rebecca Nugent, Robert Kass, Robin Mejia, Ryan Tibshirani, Sivaraman Balakrishnan, Valerie Ventura, Will Townes, Zachary Branson
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 36-795 Interdisciplinary Applied Research>
+
+<start course description for 36-795 Interdisciplinary Applied Research>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is the second course of the advanced applied data analysis sequence and is for PhD students in Statistics & Data Science only.
+</end course description for 36-795 Interdisciplinary Applied Research>

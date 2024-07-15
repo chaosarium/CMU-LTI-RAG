@@ -1,0 +1,16 @@
+<start course metadata for 14-601 INI Academic and Professional Development 1>
+Semester: Fall 2023 (aka F23)
+Course Name: INI Academic and Professional Development 1
+Course Number: 14-601
+Department: Information Networking Institute
+Number of Units: 3
+Prerequisites: None
+Instructors: Catherine Liao, Joanne Peca
+Rooms: CMU REMOTE
+Locations: Pittsburgh, Pennsylvania; San Jose, California
+</end course metadata for 14-601 INI Academic and Professional Development 1>
+
+<start course description for 14-601 INI Academic and Professional Development 1>
+Semester: Fall 2023 (aka F23)
+Course Description: This course, the first of two required for all first year INI students, will provide a foundation for essential academic and professional skills.  It targets preparation for success, focusing on INI students¿ academic endeavors for lifelong learning and the enhancement of their professional lives. This course will provide students the best skills and tools to succeed in their academic endeavors, including awareness of research opportunities and knowledge and expertise in obtaining key professional and non-technical skills critical for global career success. Attendance and participation are required components of the course, and students who miss a class period for any reason will be required to submit extra work (e.g., a written report, a recorded presentation) demonstrating mastery of topics from that class period.
+</end course description for 14-601 INI Academic and Professional Development 1>

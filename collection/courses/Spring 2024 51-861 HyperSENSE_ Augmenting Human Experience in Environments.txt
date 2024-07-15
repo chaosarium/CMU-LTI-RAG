@@ -1,0 +1,16 @@
+<start course metadata for 51-861 HyperSENSE: Augmenting Human Experience in Environments>
+Semester: Spring 2024 (aka S24)
+Course Name: HyperSENSE: Augmenting Human Experience in Environments
+Course Number: 51-861
+Department: Design
+Number of Units: 12
+Prerequisites: None
+Instructors: Dina El Zanfaly
+Rooms: MM 215
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-861 HyperSENSE: Augmenting Human Experience in Environments>
+
+<start course description for 51-861 HyperSENSE: Augmenting Human Experience in Environments>
+Semester: Spring 2024 (aka S24)
+Course Description: We make sense of the world using our bodies, and just as we shape environments around us, they also shape our experiences and senses. In this course, we will look at how we can create physical and digital interactions that bridge the gap between humans and built environments to augment our senses. To support our hands-on projects, we will look at both the phenomenology and temporality of human experience and interactions. We will also explore and introduce new roles of computational design and making in embodied sense-making, including human perception and cognition. One of the main themes we will look at is how we perceive physical presence within our space and time, and how we perceive human traces and spatial memory.
+</end course description for 51-861 HyperSENSE: Augmenting Human Experience in Environments>

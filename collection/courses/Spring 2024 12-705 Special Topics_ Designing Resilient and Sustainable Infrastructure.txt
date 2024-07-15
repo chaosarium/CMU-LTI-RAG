@@ -1,0 +1,16 @@
+<start course metadata for 12-705 Special Topics: Designing Resilient and Sustainable Infrastructure>
+Semester: Spring 2024 (aka S24)
+Course Name: Special Topics: Designing Resilient and Sustainable Infrastructure
+Course Number: 12-705
+Department: Civil & Environmental Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Sarah Christian
+Rooms: PH A7F
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 12-705 Special Topics: Designing Resilient and Sustainable Infrastructure>
+
+<start course description for 12-705 Special Topics: Designing Resilient and Sustainable Infrastructure>
+Semester: Spring 2024 (aka S24)
+Course Description: In an ever-changing world, creating and rehabilitating infrastructure demands state-of-the-art engineering solutions. These solutions must be sustainable, resilient against changing threats, and adaptable to evolving societal needs. Technological breakthroughs and innovative materials offer unprecedented opportunities to tackle these challenges, enabling us to overcome obstacles that were insurmountable in the past. In this course, students will learn about technological advances and imminent threats that define the landscape of infrastructure in the 21st century. Real-world case studies will illuminate sustainable and resilient infrastructure projects, providing insights into their successes and hurdles. Through a team-based design experience, students will collaborate to solve real-world infrastructure problems, applying the knowledge and skills acquired throughout the course to develop innovative, sustainable, and resilient solutions. By the end of this course, students will be well-equipped to envision, design, and implement infrastructure solutions that contribute to a more sustainable and resilient future for communities and societies worldwide.
+</end course description for 12-705 Special Topics: Designing Resilient and Sustainable Infrastructure>

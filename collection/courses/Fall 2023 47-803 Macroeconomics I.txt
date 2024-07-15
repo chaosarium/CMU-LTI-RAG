@@ -1,0 +1,16 @@
+<start course metadata for 47-803 Macroeconomics I>
+Semester: Fall 2023 (aka F23)
+Course Name: Macroeconomics I
+Course Number: 47-803
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Ali Shourideh
+Rooms: TEP 5219
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 47-803 Macroeconomics I>
+
+<start course description for 47-803 Macroeconomics I>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is the first course in the core macro sequence of the economics PhD program. This is an introductory course to modern macroeconomics. The course covers topics from basic growth theory to labor markets, asset pricing and government policy. It makes the students familiar with important and basic questions in macroeconomics: What determines the cross-country differences in income level and growth rates? What are the determinants of business cycles? Why is there unemployment? How should governments design policies over time? By the end of the course students will learn the models and the mathematical tools that are used and developed in macro to think about and answer these questions.
+</end course description for 47-803 Macroeconomics I>

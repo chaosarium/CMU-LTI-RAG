@@ -1,0 +1,5 @@
+publication venue: International Journal of Computer-Supported Collaborative Learning
+title: Editorial: Nine elements for robust collaborative learning analytics: A constructive collaborative critique
+year: 2023
+tldr: The four full articles of this March issue offer a view of the kind of work that the CSCL community is engaging in to capture meaningful traces of learning, map them onto valued learning constructs, and discover useful ways to present them back to teachers, students and other educational stakeholders.
+authors: A. Wise, Carolyn P. Rosé, Sanna Järvelä

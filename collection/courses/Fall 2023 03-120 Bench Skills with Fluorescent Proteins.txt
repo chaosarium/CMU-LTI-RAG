@@ -1,0 +1,16 @@
+<start course metadata for 03-120 Bench Skills with Fluorescent Proteins>
+Semester: Fall 2023 (aka F23)
+Course Name: Bench Skills with Fluorescent Proteins
+Course Number: 03-120
+Department: Biological Sciences
+Number of Units: 6
+Prerequisites: None
+Instructors: Natalie McGuier
+Rooms: DH 2303
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 03-120 Bench Skills with Fluorescent Proteins>
+
+<start course description for 03-120 Bench Skills with Fluorescent Proteins>
+Semester: Fall 2023 (aka F23)
+Course Description: Special Topics in Biological Sciences Mini Courses. Topics will vary depending on the semester and instructor.  Courses offered under this course number will not require prior knowledge of or exposure to biological sciences and are open to students from any major and class year.  Please read individual section descriptions for more information.  Fall 2023 Section A2: Bench Skills with Fluorescent Proteins: In this combined lecture and lab course we will develop our toolkit of molecular biology bench skills in order to identify unknown fluorescent proteins. You will complete experimental work to isolate plasmids, characterize DNA, express fluorescent proteins in bacteria, purify those proteins, and finally identify the unknowns. This course will be a colorful opportunity to practice lab skills before taking required lab classes or starting research. Recommended corequisite of 03-121 Modern Biology.
+</end course description for 03-120 Bench Skills with Fluorescent Proteins>

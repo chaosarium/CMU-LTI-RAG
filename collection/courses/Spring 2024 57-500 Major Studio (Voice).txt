@@ -1,0 +1,16 @@
+<start course metadata for 57-500 Major Studio (Voice)>
+Semester: Spring 2024 (aka S24)
+Course Name: Major Studio (Voice)
+Course Number: 57-500
+Department: Music
+Number of Units: 9
+Prerequisites: None
+Instructors: Alexandra Gruber, Daniel Teadt, Elizabeth Lawrence, Jennifer Aylmer, Maria Spacagna, Marianne Cornetti
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-500 Major Studio (Voice)>
+
+<start course description for 57-500 Major Studio (Voice)>
+Semester: Spring 2024 (aka S24)
+Course Description: A one hour private lesson per week for all music majors.
+</end course description for 57-500 Major Studio (Voice)>

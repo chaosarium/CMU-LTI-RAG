@@ -1,0 +1,16 @@
+<start course metadata for 48-625 Thesis Seminar>
+Semester: Fall 2023 (aka F23)
+Course Name: Thesis Seminar
+Course Number: 48-625
+Department: Architecture
+Number of Units: 9
+Prerequisites: None
+Instructors: Francesca Torello
+Rooms: MM 409
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-625 Thesis Seminar>
+
+<start course description for 48-625 Thesis Seminar>
+Semester: Fall 2023 (aka F23)
+Course Description: This seminar is designed for students planning to work on a thesis project in the M.Arch program and is intended to prepare students for a semester long, studio-based thesis project in the following Spring. You will enter this course with a written thesis statement, a body of background research related to your topic(s), and an initial set of questions that can be interrogated by engaging in research and discussion. Your continued progress is supported by the collective engagement of the seminar participants and the structure provided by course assignments and deadlines, in addition to individual conversations and targeted feedback from the instructor.  The seminar focuses on refining the scope of the thesis argument, defining the methods to make the topic(s) of inquiry actionable through design-based methods, and sharpening the communication about thesis work in all of its phases.  Thesis work is highly self-directed and requires a level of metacognitive thinking, which includes identifying a valid area of concern motivating the work, understanding the disciplinary and societal context for the project, identifying the means and methods for acting, and establishing the criteria by which to evaluate the work. The course is structured around the individual effort required to advance these aims. In addition, it facilitates group conversation and the regular exchange of ideas, providing dialogue, feedback, and continued motivation.
+</end course description for 48-625 Thesis Seminar>

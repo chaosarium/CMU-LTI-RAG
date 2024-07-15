@@ -1,0 +1,16 @@
+<start course metadata for 18-200 ECE Sophomore Seminar>
+Semester: Fall 2023 (aka F23)
+Course Name: ECE Sophomore Seminar
+Course Number: 18-200
+Department: Electrical & Computer Engineering
+Number of Units: 1
+Prerequisites: None
+Instructors: James Bain
+Rooms: DH 2210
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-200 ECE Sophomore Seminar>
+
+<start course description for 18-200 ECE Sophomore Seminar>
+Semester: Fall 2023 (aka F23)
+Course Description: The class comprises of a series of lectures from our own faculty and alumni, Department and University staff, and student groups. Students are required to attend each lecture. The lectures are designed to serve the following purposes: 1. Introduce to students to the faculty member's research field and the most current world advancements in engineering and technology in that area; 2. Provide students a good understanding of our curriculum structure and the courses in various areas; 3. Present correlations between the present technological developments and our courses for each course area; 4. Introduce new undergraduate courses; 5. Advertise on-campus/off-campus research opportunities for undergraduate students and explain the corresponding research projects; 6. Motivate students with positive presentations on the importance of obtaining education and gaining self-learning ability; 7. Provide basic education on learning and working ethics.
+</end course description for 18-200 ECE Sophomore Seminar>

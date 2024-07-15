@@ -1,0 +1,16 @@
+<start course metadata for 21-378 Mathematics of Fixed Income Markets>
+Semester: Spring 2024 (aka S24)
+Course Name: Mathematics of Fixed Income Markets
+Course Number: 21-378
+Department: Mathematical Sciences
+Number of Units: 9
+Prerequisites: 21-270
+Instructors: Benjamin Weber, William Hrusa
+Rooms: SH 236
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-378 Mathematics of Fixed Income Markets>
+
+<start course description for 21-378 Mathematics of Fixed Income Markets>
+Semester: Spring 2024 (aka S24)
+Course Description: A first course in fixed income.  Students will be introduced to the most common securities traded in fixed income markets and the valuation methods used to price them.  Topics covered include discount factors; interest rates basics; pricing of coupon bonds; identifying the yield to maturity, as well as bond sensitivities to interest rates; term structure modeling; forward and swap rates; fixed income derivatives (including mortgage backed securities) and their valuation through backwards induction; fixed income indexes and return attribution.  For a co-requisite, 36-225 can be accepted as an alternative for 21-325.  (Three 50 minute lectures)
+</end course description for 21-378 Mathematics of Fixed Income Markets>

@@ -1,0 +1,16 @@
+<start course metadata for 51-825 MDES Seminar III: Advanced Interaction & Service Design Concepts>
+Semester: Fall 2023 (aka F23)
+Course Name: MDES Seminar III: Advanced Interaction & Service Design Concepts
+Course Number: 51-825
+Department: Design
+Number of Units: 12
+Prerequisites: None
+Instructors: Dina El Zanfaly
+Rooms: MM A11
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-825 MDES Seminar III: Advanced Interaction & Service Design Concepts>
+
+<start course description for 51-825 MDES Seminar III: Advanced Interaction & Service Design Concepts>
+Semester: Fall 2023 (aka F23)
+Course Description: This seminar is an exploration of the leading edge of current interaction design practice. Most of these new developments reflect the conflicting ways in which the work of interaction designers is expanding in scope whilst also speeding up. This necessitates that designers understand more non-design domains of knowledge, for instance, in relation to domains of cultural difference, organizational change, business strategy, risk management. It also demands that designers pay more attention to processes and organizations - their own as professional designers, but also those of their clients and stakeholders. And it requires that interaction designers have a better understanding of their profession within wider socio- economic transformations. The course will involve a range of readings with participants required to develop public positions on emerging design practice trends. To this end, the course will teach multi-modal social media communication techniques. It will also involve developing research-based strategies for helping complex organizations in transition.
+</end course description for 51-825 MDES Seminar III: Advanced Interaction & Service Design Concepts>

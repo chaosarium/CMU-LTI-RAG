@@ -1,0 +1,16 @@
+<start course metadata for 04-608 Advanced Academic Skills for Engineers I>
+Semester: Fall 2023 (aka F23)
+Course Name: Advanced Academic Skills for Engineers I
+Course Number: 04-608
+Department: Information & Communication Technology
+Number of Units: 6
+Prerequisites: None
+Instructors: Kwan Lee
+Rooms: CMR F309
+Locations: Kigali, Rwanda
+</end course metadata for 04-608 Advanced Academic Skills for Engineers I>
+
+<start course description for 04-608 Advanced Academic Skills for Engineers I>
+Semester: Fall 2023 (aka F23)
+Course Description: This course aims to develop students range of academic skills to support them in their MS programs. The skills will include academic writing, summarizing texts, preparing and delivering presentations, and research and seminar skills.  This course is offered on a pass/no pass basis.
+</end course description for 04-608 Advanced Academic Skills for Engineers I>

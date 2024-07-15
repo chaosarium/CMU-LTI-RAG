@@ -1,0 +1,16 @@
+<start course metadata for 95-771 Data Structures and Algorithms>
+Semester: Fall 2023 (aka F23)
+Course Name: Data Structures and Algorithms
+Course Number: 95-771
+Department: Information Systems:Sch of IS & Mgt
+Number of Units: 12
+Prerequisites: 95-712 or 95-713
+Instructors: Michael Mccarthy
+Rooms: HBH 1007
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 95-771 Data Structures and Algorithms>
+
+<start course description for 95-771 Data Structures and Algorithms>
+Semester: Fall 2023 (aka F23)
+Course Description: 95-771 is a one-semester, 12-unit course which covers the fundamental data structures and algorithms for information processing. The course uses the Java programming language to illustrate the concepts covered; students are expected to code their assignments in Java. Students enrolled in the course must have a prior background in programming (course work or practical experience). Students with an adequate grasp of programming should have little difficulty learning the Java constructs required to do their assignments.  It should be noted that this is not a Java programming course. With the exception of some initial background information, the course does not focus on the Java language itself, and students who have not studied Java are responsible for acquiring any additional required skills outside of class. Students without adequate programming preparation should consider taking an additional programming course as a pre-requisite or co-requisite to this course.  A major part of the course focuses on the design and analysis of data structures and their algorithms. Therefore, we will not be using the built-in Java classes that provide immediate access to such data structures.
+</end course description for 95-771 Data Structures and Algorithms>

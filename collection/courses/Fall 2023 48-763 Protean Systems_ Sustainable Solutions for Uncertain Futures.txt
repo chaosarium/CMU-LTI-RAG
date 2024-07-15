@@ -1,0 +1,16 @@
+<start course metadata for 48-763 Protean Systems: Sustainable Solutions for Uncertain Futures>
+Semester: Fall 2023 (aka F23)
+Course Name: Protean Systems: Sustainable Solutions for Uncertain Futures
+Course Number: 48-763
+Department: Architecture
+Number of Units: N/A
+Prerequisites: None
+Instructors: Joshua Lee
+Rooms: MM 415IW
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-763 Protean Systems: Sustainable Solutions for Uncertain Futures>
+
+<start course description for 48-763 Protean Systems: Sustainable Solutions for Uncertain Futures>
+Semester: Fall 2023 (aka F23)
+Course Description: Uncertainty perpetually plagues the built environment. The inability of our buildings and cities to adapt to shifting circumstances has led to an enormous amount of waste. We will explore various forces and scales of change and review various strategies (Spatial Flexibility, Metabolism, Shearing Layers of Change, Open Building, Design for Deconstruction (DfD), Circular Economy, Dynamic Facades, Smart Materials, Transformable Structures, Resiliency, Persistence, and Adaptive Reuse) through a wide array of built precedents and products that have attempted with varying degrees of success to respond to these forces over time. Throughout the semester students will individually and collectively reflect on the readings and work in teams to prepare case studies representative of each strategy. Students will also iteratively redesign a project of their own choosing that applies the strategies through sketches, diagrams, animations, and models or complete a detailed individual case study that includes archival documents, interviews, facility assessments, and other evidence of how the project has changed over time. The course welcomes students from all SoA and SoD undergraduate and graduate programs.
+</end course description for 48-763 Protean Systems: Sustainable Solutions for Uncertain Futures>

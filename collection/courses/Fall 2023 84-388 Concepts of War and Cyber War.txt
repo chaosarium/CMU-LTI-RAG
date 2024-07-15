@@ -1,0 +1,16 @@
+<start course metadata for 84-388 Concepts of War and Cyber War>
+Semester: Fall 2023 (aka F23)
+Course Name: Concepts of War and Cyber War
+Course Number: 84-388
+Department: Institute for Politics and Strategy
+Number of Units: 6
+Prerequisites: None
+Instructors: Forrest Morgan
+Rooms: POS 146
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 84-388 Concepts of War and Cyber War>
+
+<start course description for 84-388 Concepts of War and Cyber War>
+Semester: Fall 2023 (aka F23)
+Course Description: This course examines traditional theories, concepts, and practices in international relations and warfare- conventional, unconventional, and modern- and relates them to the emerging dynamics of cyber war. The principal concepts examined in this course reflect, have shaped, and continue to shape state and non-state actor behaviors and their calculations of how to prepare for and prosecute warfare. These include, among others, conventional and nuclear deterrence, offense-defense dynamics, first strike capabilities, and irregular warfare. The course will focus on theory but will leverage history, military doctrine, and cases to highlight the challenges of integrating cyber war into defense planning and practice. Students will be challenged to consider how the introduction of cyberspace as a warfighting domain- in addition to land, maritime, air, and space- affects the ways that scholars and practitioners- operating with force structures and strategic, operational, and tactical concepts that are decades, if not centuries old- conceive of and practice warfare in the 21st Century.  The principal objective of this course is to introduce students to cyber war within the context of traditional, and emerging, concepts of armed and unarmed warfare. This course will focus on two core areas: 1) a discussion of traditional concepts of warfare in the physical domains; and, 2) a discussion of cyber war and its intersection with these traditional concepts.
+</end course description for 84-388 Concepts of War and Cyber War>

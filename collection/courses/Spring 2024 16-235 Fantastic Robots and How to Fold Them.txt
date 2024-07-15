@@ -1,0 +1,16 @@
+<start course metadata for 16-235 Fantastic Robots and How to Fold Them>
+Semester: Spring 2024 (aka S24)
+Course Name: Fantastic Robots and How to Fold Them
+Course Number: 16-235
+Department: Robotics
+Number of Units: 9
+Prerequisites: 15-104 or 15-110 or 15-112
+Instructors: Zeynep Temel
+Rooms: WEH 2302
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 16-235 Fantastic Robots and How to Fold Them>
+
+<start course description for 16-235 Fantastic Robots and How to Fold Them>
+Semester: Spring 2024 (aka S24)
+Course Description: This course will focus on the basics of robotics through a hands-on approach. Students will build their own robots by designing a mechanical structure and embedding actuators, sensors, and controllers. They will then use these robots to solve a simple maze with obstacles. The course content will be delivered through lectures, workshops, and a course-long team project.  In classical robotics, we explore the three main behaviors of robots through the work frame of "sense-plan-act". Robots are more than just these behaviors, and students will learn about how to make the physical embodiments of robots through an overview of design and manufacturing techniques for robot mechanisms. Students will be able to make their own mechanisms, improve the system through hardware or software, and learn how to analyze the kinematics and dynamics of these mechanisms to understand and control the motion.
+</end course description for 16-235 Fantastic Robots and How to Fold Them>

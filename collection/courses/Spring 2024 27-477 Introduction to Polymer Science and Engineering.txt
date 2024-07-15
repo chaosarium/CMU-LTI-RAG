@@ -1,0 +1,16 @@
+<start course metadata for 27-477 Introduction to Polymer Science and Engineering>
+Semester: Spring 2024 (aka S24)
+Course Name: Introduction to Polymer Science and Engineering
+Course Number: 27-477
+Department: Materials Science & Engineering
+Number of Units: 9
+Prerequisites: 27-215
+Instructors: Michael Bockstaller
+Rooms: WEH 4625
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 27-477 Introduction to Polymer Science and Engineering>
+
+<start course description for 27-477 Introduction to Polymer Science and Engineering>
+Semester: Spring 2024 (aka S24)
+Course Description: This survey-level course introduces the fundamental properties of polymer materials and the principles underlying the synthesis, engineering, manufacturing, and design with polymer materials. Fundamental concepts of molecular interactions and structure formation in molecular materials will be introduced and the effect of chemical composition on physical properties of polymers will be discussed. The basic principles of polymer chemistry will be introduced and discussed in the context of step- and chain-growth reactions. This is followed by an introduction to technologically relevant engineering properties of polymer materials with focus on mechanical properties, concepts of viscoelasticity and their application to polymer product engineering, a survey of relevant forming technologies as well as the effect of processing on material performance. Case studies will introduce students to the various stages of technical product development, i.e. problem analysis, material selection and processing plan. A final section will discuss polymer recycling and sustainable polymer technologies for a circular economy.
+</end course description for 27-477 Introduction to Polymer Science and Engineering>

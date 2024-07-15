@@ -1,0 +1,16 @@
+<start course metadata for 16-697 Introduction to Robotics Business>
+Semester: Spring 2024 (aka S24)
+Course Name: Introduction to Robotics Business
+Course Number: 16-697
+Department: Robotics
+Number of Units: 9
+Prerequisites: None
+Instructors: Parag Batavia
+Rooms: NSH 1305
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 16-697 Introduction to Robotics Business>
+
+<start course description for 16-697 Introduction to Robotics Business>
+Semester: Spring 2024 (aka S24)
+Course Description: *This course is only for current Robotics MRSD program participants.*  Required core course for MRSD first-year students. In this course, MRSD students will explore the fundamentals of start-up and new venture creation in the context of robotics and unmanned systems. The explosion in robotics investment in the past 5 years presents many new opportunities and challenges to potential entrepreneurs who are interested in starting their own company.    In this class, you will take an idea, based on a subset of your MRSD project, and view it through the lens of product and/or service development. This includes the concept of a "minimum viable product" - what is the simplest version of your idea that can be sold, to test the marketplace? To get to this point, however, we will learn about the core fundamentals that go into the decision of what kind of business to build: innovation, business models, marketing, financial analysis, funding options, and exit strategies. In addition, we will spend a lot of time discussing practical strategies and considerations for companies in the robotics space.    This course will not teach you everything you need to know to build and run a company. Can't do that in one semester. But you will be exposed to all aspects of company formation and management, with an emphasis on what you need to know to have a potentially successful robotics business.    Along the way, we will make heavy use of the "business model canvas" concept, which is a relatively new approach to brainstorming and specifying the specifics of a business model - activities, partners, resources, value proposition, customer relationships, customer segments, distribution channels, cost structure, revenue streams, and risks. We will use this concept heavily throughout the course, and constantly come back to your canvas and update it throughout the semester. Once this is completed, developing a pitch deck becomes much easier.
+</end course description for 16-697 Introduction to Robotics Business>

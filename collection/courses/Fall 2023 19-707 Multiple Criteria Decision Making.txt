@@ -1,0 +1,16 @@
+<start course metadata for 19-707 Multiple Criteria Decision Making>
+Semester: Fall 2023 (aka F23)
+Course Name: Multiple Criteria Decision Making
+Course Number: 19-707
+Department: Engineering & Public Policy
+Number of Units: 6
+Prerequisites: None
+Instructors: Deanna Matthews, Jared Cohon
+Rooms: WEH 5421
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 19-707 Multiple Criteria Decision Making>
+
+<start course description for 19-707 Multiple Criteria Decision Making>
+Semester: Fall 2023 (aka F23)
+Course Description: Problems with multiple, conflicting objectives are ubiquitous in the private and, especially, the public sector where tradeoffs among economic efficiency, equity and environmental quality are common. The objective of this course is to provide an overview of the techniques for the analysis and resolution of multiple criteria decision making (MCDM) problems.  Topics will include multi-objective programming, multi-attribute utility theory and several MCDM methods such as the Analytical Hierarchy Process.  The emphasis will be on theory and technique, but there will be several applications to demonstrate the methods. Undergraduate students require permission of the instructor to enroll.
+</end course description for 19-707 Multiple Criteria Decision Making>

@@ -1,0 +1,16 @@
+<start course metadata for 94-818 Financial Investing>
+Semester: Spring 2024 (aka S24)
+Course Name: Financial Investing
+Course Number: 94-818
+Department: Heinz College Wide Courses
+Number of Units: 6
+Prerequisites: None
+Instructors: William Gogolak
+Rooms: HBH 1007
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 94-818 Financial Investing>
+
+<start course description for 94-818 Financial Investing>
+Semester: Spring 2024 (aka S24)
+Course Description: The goal of Financial Investing is to immerse students in the tools essential for analyzing dynamic systems through the lens of financial markets. While a substantial portion of the course is dedicated to the fundamental interpretation of financial metrics, we will also delve into market factors identified through extensive years of research in the trading domain. These factors extend beyond financial markets, finding applications in diverse fields such as weather systems, social systems, herd behavior, and latent factor analysis. This course is an opportunity to improve your financial skills and learn more about applied time series analysis. You will also develop a full appreciation of dynamics systems in an applied setting, where financial markets are one part of the puzzle.
+</end course description for 94-818 Financial Investing>

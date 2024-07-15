@@ -1,0 +1,16 @@
+<start course metadata for 21-112 Integral Calculus>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Integral Calculus
+Course Number: 21-112
+Department: Mathematical Sciences
+Number of Units: 10
+Prerequisites: 21-111
+Instructors: Instructor TBA
+Rooms: 
+Locations: Doha, Qatar
+</end course metadata for 21-112 Integral Calculus>
+
+<start course description for 21-112 Integral Calculus>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: Definite and indefinite integrals, and hyperbolic functions;  applications of integration, integration by substitution and by parts. Successful completion of 21-111 and 21-112 entitles a student to enroll in any mathematics course for which 21-120 is a prerequisite. 3 hrs. lec., 2 hrs. rec.
+</end course description for 21-112 Integral Calculus>

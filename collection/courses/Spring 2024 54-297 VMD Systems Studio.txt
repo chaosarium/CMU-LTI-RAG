@@ -1,0 +1,16 @@
+<start course metadata for 54-297 VMD Systems Studio>
+Semester: Spring 2024 (aka S24)
+Course Name: VMD Systems Studio
+Course Number: 54-297
+Department: Drama
+Number of Units: 9
+Prerequisites: 54-232 and 54-231
+Instructors: Nica Ross
+Rooms: MEL 103; PCA A21
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-297 VMD Systems Studio>
+
+<start course description for 54-297 VMD Systems Studio>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is designed to augment the conceptual background and technical skills of First year Graduate students and newly declared VMD Sophomores, and others interested in learning about media design for theater and installations. The course reviews foundational readings about media, technology and society and explores the skills used in contemporary media work. Through real-world examples, building custom media servers, experimenting with materials and software, rigging multiple types of display systems and visiting artists - students will learn the best practices for bringing their designs to life. A great deal of technical information will be covered including; video compression formats, projector optics, cueing software, projection mapping & custom surfaces, media servers both custom and professional, networking and control protocols, live camera systems, and stage rigging for projection systems. The class will give students a clearer perspective of the field and help them plan a fulfilling course of study, based on their goals and interests. Class projects range from presentations of research to building media installations over at Studio 201. Required for new VMD Sophomores, 1st Year VMD Grads; open to IDeATe and BXA students; others accepted up to class limit.
+</end course description for 54-297 VMD Systems Studio>

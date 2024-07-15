@@ -1,0 +1,16 @@
+<start course metadata for 99-409 Summer Research>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Summer Research
+Course Number: 99-409
+Department: Carnegie Mellon University-Wide Studies
+Number of Units: 1
+Prerequisites: None
+Instructors: Korryn Mozisek
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 99-409 Summer Research>
+
+<start course description for 99-409 Summer Research>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: This course allows undergraduate students from all fields to participate in research (including artistic/creative inquiry) under the direction of a Carnegie Mellon faculty member. Tenure track, teaching track, research track, librarian track, and special faculty may serve as research supervisors. Students should have previously participated in summer research via the Summer Undergraduate Research Apprenticeship and/or the Summer Undergraduate Research Fellowship before enrolling in 99-409 (students who are unsure of whether 99-409 is appropriate for them should consult with the Undergraduate Research Office). Students will need to complete a supervisor agreement form to be eligible for participation in this tuition-free 1-unit course. Students are responsible for finding research supervisors. In addition to the summer research with the faculty member, students will be expected to write a brief (one- to two-page) research report about their summer work. This course is not eligible for CPT for international students; please contact the Office for International Education for more information regarding CPT.
+</end course description for 99-409 Summer Research>

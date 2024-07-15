@@ -1,0 +1,16 @@
+<start course metadata for 11-716 Graduate Seminar on Dialog Processing>
+Semester: Fall 2023 (aka F23)
+Course Name: Graduate Seminar on Dialog Processing
+Course Number: 11-716
+Department: Language Technologies Institute
+Number of Units: 6
+Prerequisites: None
+Instructors: Alexander Rudnicky
+Rooms: PH A21A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 11-716 Graduate Seminar on Dialog Processing>
+
+<start course description for 11-716 Graduate Seminar on Dialog Processing>
+Semester: Fall 2023 (aka F23)
+Course Description: Dialog systems and processes are becoming an increasingly vital area of interest both in research and in practical applications. The purpose of this course will be to examine, in a structured way, the literature in this area as well as learn about ongoing work.  The course will cover traditional approaches to the problem, as exemplified by the work of Grosz and Sidner, as well as more recent work in dialog, discourse and evaluation, including statistical approaches to problems in the field. We will select several papers on a particular topic to read each week. While everyone will do all readings, a presenter will be assigned to overview the paper and lead the discussion. On occasion, a researcher may be invited to present their own work in detail and discuss it with the group. A student or researcher taking part in the seminar will come away with a solid knowledge of classic work on dialog, as well as familiarity with ongoing trends.
+</end course description for 11-716 Graduate Seminar on Dialog Processing>

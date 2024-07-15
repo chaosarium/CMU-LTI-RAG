@@ -1,0 +1,16 @@
+<start course metadata for 95-734 Managing Digital Business>
+Semester: Fall 2023 (aka F23)
+Course Name: Managing Digital Business
+Course Number: 95-734
+Department: Information Systems:Sch of IS & Mgt
+Number of Units: 12
+Prerequisites: None
+Instructors: James Riel
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 95-734 Managing Digital Business>
+
+<start course description for 95-734 Managing Digital Business>
+Semester: Fall 2023 (aka F23)
+Course Description: A phenomenon of the information age showcases transformations of market interactions and economic decision making. Information technology managers, directors, and CIO/CTO's, once looked upon as the enablers of integrating and maintaining business technologies, are increasingly seen as the driving force behind creating and sustaining competitive advantage through information technology innovation. To succeed in this environment, the IT leader must have a grounded understanding of the technology in use, the potential development for new technology, and the ability to strategize and understand the impacts of incorporating technology in the business or industry they serve.  This class will focus on two main areas to help IT leaders succeed: managing the business side of the entity including its people and processes; and managing the technical roles, innovations and implications for the digital business. From a business context, the course will focus on digital business models including eCommerce marketplaces, requirements elicitation for understanding and establishing the needs of internal and external stakeholders, understanding the roles of fulfillment in the current business environment, understanding the difference between SCM and ERP systems to determine advantages and disadvantages of each, and understanding the workings of B2B and P2P markets. From a technical context, this course will focus on current and emerging immersive technologies such as IoT, ePayment, Blockchain, and Cloud & Quantum Computing. Additionally, this course will examine IT-related changes in the current market space through the growth of Internet and mobile commerce, social networking effects on markets, Web 2.0 including recommender systems and user-generated/created content (UGC/UCC), and understanding the differences and nuances of digital products and services.
+</end course description for 95-734 Managing Digital Business>

@@ -1,0 +1,16 @@
+<start course metadata for 05-432 Personalized Online Learning>
+Semester: Fall 2023 (aka F23)
+Course Name: Personalized Online Learning
+Course Number: 05-432
+Department: Human-Computer Interaction
+Number of Units: 12
+Prerequisites: None
+Instructors: Vincent Aleven
+Rooms: WEH 5409
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 05-432 Personalized Online Learning>
+
+<start course description for 05-432 Personalized Online Learning>
+Semester: Fall 2023 (aka F23)
+Course Description: Online learning has become widespread (e.g., MOOCs, online and blended courses, and Khan Academy) and many claim it will revolutionize higher education and K-12. How can we make sure online learning is maximally effective? Learners differ along many dimensions and they change over time. Therefore, advanced learning technologies must adapt to learners to provide individualized learning experiences.  This course covers a number of proven personalization techniques used in advanced learning technologies. One of the techniques is the use of cognitive modeling to personalize practice of complex cognitive skills in intelligent tutoring systems. This approach, developed at CMU, may well be the most significant application of cognitive science in education and is commercially successful. We will also survey newer techniques, such as personalizing based on student meta-cognition, affect, and motivation. Finally, we will look at personalization approaches that are widely believed to be effective but have not proven to be so.  The course involves readings and discussion of different ways of personalizing instruction, with an emphasis on cognitive modeling approaches. Students will learn to use the Cognitive Tutor Authoring Tools (CTAT) to implement tutor prototypes that rely on computer-executable models of human problem solving to personalize instruction.  The course is meant for graduate or advanced undergraduate students in Human-Computer Interaction, Psychology, Computer Science, Design, or related fields, who are interested in educational applications. Students should either have some  programming skills or experience in the cognitive psychology of human problem solving, or experience with instructional design.
+</end course description for 05-432 Personalized Online Learning>

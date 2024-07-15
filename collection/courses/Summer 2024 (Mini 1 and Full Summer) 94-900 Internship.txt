@@ -1,0 +1,16 @@
+<start course metadata for 94-900 Internship>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Internship
+Course Number: 94-900
+Department: Heinz College Wide Courses
+Number of Units: 0
+Prerequisites: None
+Instructors: Ron Delfine
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 94-900 Internship>
+
+<start course description for 94-900 Internship>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: Course description available on Heinz College website.
+</end course description for 94-900 Internship>

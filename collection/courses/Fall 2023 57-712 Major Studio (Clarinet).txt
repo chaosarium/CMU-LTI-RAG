@@ -1,0 +1,16 @@
+<start course metadata for 57-712 Major Studio (Clarinet)>
+Semester: Fall 2023 (aka F23)
+Course Name: Major Studio (Clarinet)
+Course Number: 57-712
+Department: Music
+Number of Units: 9
+Prerequisites: None
+Instructors: Katherine Shields, Michael Rusinek, Thomas Thompson
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-712 Major Studio (Clarinet)>
+
+<start course description for 57-712 Major Studio (Clarinet)>
+Semester: Fall 2023 (aka F23)
+Course Description: A one hour private lesson per week for all music majors.
+</end course description for 57-712 Major Studio (Clarinet)>

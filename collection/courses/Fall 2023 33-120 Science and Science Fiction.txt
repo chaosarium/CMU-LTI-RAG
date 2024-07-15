@@ -1,0 +1,16 @@
+<start course metadata for 33-120 Science and Science Fiction>
+Semester: Fall 2023 (aka F23)
+Course Name: Science and Science Fiction
+Course Number: 33-120
+Department: Physics
+Number of Units: 9
+Prerequisites: None
+Instructors: Barry Luokkala
+Rooms: DH 2302
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 33-120 Science and Science Fiction>
+
+<start course description for 33-120 Science and Science Fiction>
+Semester: Fall 2023 (aka F23)
+Course Description: We will view and critique the science content in a selection of science fiction films, spanning more than 100 years of cinematic history, and from sci-fi TV shows from the past 50+ years. Guided by selected readings from current scientific literature, and aided by order-of-magnitude estimates and careful calculations, we will ponder whether the films are showing things which may fall into one of the following categories: Science fiction at the time of production, but currently possible, due to recent breakthroughs. Possible, in principle, but beyond our current technology. Impossible by any science we know. Topics to be covered include the future of the technological society, the physics of Star Trek, the nature of space and time, extraterrestrial intelligence, robotics and artificial intelligence, biotechnology and more. Success of this course will depend upon class participation. Students will be expected to contribute to discussion of assigned readings and problems, and to give brief presentations in class on assigned films.
+</end course description for 33-120 Science and Science Fiction>

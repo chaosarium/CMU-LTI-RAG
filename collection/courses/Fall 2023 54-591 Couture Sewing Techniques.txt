@@ -1,0 +1,16 @@
+<start course metadata for 54-591 Couture Sewing Techniques>
+Semester: Fall 2023 (aka F23)
+Course Name: Couture Sewing Techniques
+Course Number: 54-591
+Department: Drama
+Number of Units: 9
+Prerequisites: None
+Instructors: Brian Russman
+Rooms: PCA 308
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-591 Couture Sewing Techniques>
+
+<start course description for 54-591 Couture Sewing Techniques>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is designed to help the student gain an understanding of and appreciation for high-end sewing and finishing techniques and how these techniques improve the quality of the clothing they are employed in.  -The student should gain a comprehension of the terminology commonly used in couture sewing and high-end finishing.  -The student should gain a full comprehension of the process of each of these techniques and be able to logically enumerate steps in the full process involved with each technique.  -The student should be able to appropriately apply each technique and distinguish between techniques when making choices in the sewing process.
+</end course description for 54-591 Couture Sewing Techniques>

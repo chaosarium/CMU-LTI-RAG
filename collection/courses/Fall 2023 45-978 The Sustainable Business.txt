@@ -1,0 +1,16 @@
+<start course metadata for 45-978 The Sustainable Business>
+Semester: Fall 2023 (aka F23)
+Course Name: The Sustainable Business
+Course Number: 45-978
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Nicholas Muller
+Rooms: TEP 2110
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-978 The Sustainable Business>
+
+<start course description for 45-978 The Sustainable Business>
+Semester: Fall 2023 (aka F23)
+Course Description: The modern business operates in an environment in which customers, investors, competitors, and policymakers evaluate firm performance beyond conventional metrics. Many firms must now consider, model, and measure the implications of their operations for various dimensions of sustainability. The objective of the class is for students to emerge well acquainted with a broad range of topics at the intersection of sustainability and business, with deeper expertise in particular topics relevant to their careers. Sustainability and Business Practice will begin with an introduction to the concepts and working definitions of sustainability. Within this framework we consider the role of business in society. The course then covers both traditional and cutting-edge policies relevant to sustainability. A module on measurement and valuation presents students with both the motivation and tools for valuing firms' impacts on sustainability. The course concludes with modules on corporate sustainability strategy and emergent issues in sustainability finance. The course format is lecture and discussion based, with evaluation consisting of cases, problem sets, a group presentation, and a final exam.
+</end course description for 45-978 The Sustainable Business>

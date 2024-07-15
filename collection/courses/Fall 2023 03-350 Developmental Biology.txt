@@ -1,0 +1,16 @@
+<start course metadata for 03-350 Developmental Biology>
+Semester: Fall 2023 (aka F23)
+Course Name: Developmental Biology
+Course Number: 03-350
+Department: Biological Sciences
+Number of Units: 9
+Prerequisites: 03-240 or 03-320
+Instructors: Mohamed Bouaouina
+Rooms: CMB 3178
+Locations: Doha, Qatar
+</end course metadata for 03-350 Developmental Biology>
+
+<start course description for 03-350 Developmental Biology>
+Semester: Fall 2023 (aka F23)
+Course Description: How does a complex, multicellular organism arise from a single cell? How do cells with identical genomes acquire distinctive properties? What are the medical consequences of abnormal embryonic development? How does regeneration occur? How has evolution modified developmental programs to produce different body plans? These are some of the central questions in the field of developmental biology. This course serves as an introduction to current concepts and experimental approaches in this rapidly advancing field. Topics in the course include genomics, differential gene expression, cell signaling, cell movements, tissue morphogenesis, stem cells, human development, and regeneration. The course examines the genes and signaling pathways that control development and the role that mis-regulation of these pathways plays in human disease.
+</end course description for 03-350 Developmental Biology>

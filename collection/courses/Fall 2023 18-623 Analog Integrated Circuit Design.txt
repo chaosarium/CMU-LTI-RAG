@@ -1,0 +1,16 @@
+<start course metadata for 18-623 Analog Integrated Circuit Design>
+Semester: Fall 2023 (aka F23)
+Course Name: Analog Integrated Circuit Design
+Course Number: 18-623
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: 18-320 and 18-290
+Instructors: Marc Dandin
+Rooms: GHC 4215
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-623 Analog Integrated Circuit Design>
+
+<start course description for 18-623 Analog Integrated Circuit Design>
+Semester: Fall 2023 (aka F23)
+Course Description: Some form of analog circuit design is a critical step in the creation of every modern IC. First and foremost, analog circuits act as the interface between digital systems and the real world. They act to amplify and filter analog signals, and to convert signals from analog to digital and back again. In addition, high performance digital cell design (either high speed or low power) also invokes significant analog circuit design issues. The goal of this course is to teach students some of the methods used in the design and analysis of analog integrated circuits, to illustrate how one approaches design problems in general, and to expose students to a broad cross-section of important analog circuit topologies. The course will focus on learning design through carrying out design projects. Design and implementation details of wide-band amplifiers, operational amplifiers, filters and basic data converters will be covered. Example topics to be covered include transistor large- and small-signal device models, small-signal characteristics of transistor-based amplifiers, large-signal amplifier characteristics and nonidealities, operational amplifier design, basic feedback amplifier stability analysis and compensation, and comparator design. The course will focus primarily on analog CMOS, but some aspects of BJT design will be discussed.   18-290 and 18-320 or equivalent background material with permission of the instructor.  Although students in 18-623 will share Lectures and Recitations with students in 18-421, students in 18-623 will receive distinct homework assignments, distinct design problems, and distinct exams from the ones given to students in 18-421 and will be graded on a separate curve from students taking 18-421.
+</end course description for 18-623 Analog Integrated Circuit Design>

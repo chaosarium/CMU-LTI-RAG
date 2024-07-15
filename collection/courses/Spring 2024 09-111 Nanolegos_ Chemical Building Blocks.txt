@@ -1,0 +1,16 @@
+<start course metadata for 09-111 Nanolegos: Chemical Building Blocks>
+Semester: Spring 2024 (aka S24)
+Course Name: Nanolegos: Chemical Building Blocks
+Course Number: 09-111
+Department: Chemistry
+Number of Units: 9
+Prerequisites: None
+Instructors: Nimer Murshid
+Rooms: CMB 3046
+Locations: Doha, Qatar
+</end course metadata for 09-111 Nanolegos: Chemical Building Blocks>
+
+<start course description for 09-111 Nanolegos: Chemical Building Blocks>
+Semester: Spring 2024 (aka S24)
+Course Description: How does chemistry provide the foundation and building blocks in science, engineering, and technology?   How does activity on the particle and molecular level that we cannot see cause things to happen and function on a level we CAN observe?  What basic chemical concepts are needed as tools to understand current significant research and technology, as well as to understand phenomena and problems in the world around us?  This course will emphasize answering these questions by presenting "problem- or context-first", then applicable chemical concepts on an as-needed basis.  It is structured around phenomena relevant to modern society, research, and technology rather than the conceptual tools (i.e. systems- or application-, rather than content-driven).  Many of the conceptual tools (e.g. structure, interaction between energy and matter, interparticle forces, reaction stoichiometry, thermodynamics and kinetics)  are used throughout the course, to help reinforce these ideas and promote an integrated understanding.   The major contexts and phenomena that we will explore in applying and connecting chemical concepts are: (1) sustainable energy, (2) charge motion in materials, (3) natural versus engineered catalysts, (4) polymeric materials, and (5) reversible reactions in environmental and biological chemistry
+</end course description for 09-111 Nanolegos: Chemical Building Blocks>

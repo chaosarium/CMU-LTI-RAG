@@ -1,0 +1,16 @@
+<start course metadata for 80-851 Seminar on History in Philosophy: Smith and Hume>
+Semester: Fall 2023 (aka F23)
+Course Name: Seminar on History in Philosophy: Smith and Hume
+Course Number: 80-851
+Department: Philosophy
+Number of Units: 12
+Prerequisites: None
+Instructors: Kevin Zollman
+Rooms: BH 150
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 80-851 Seminar on History in Philosophy: Smith and Hume>
+
+<start course description for 80-851 Seminar on History in Philosophy: Smith and Hume>
+Semester: Fall 2023 (aka F23)
+Course Description: David Hume and Adam Smith are the two most famous and influential figures of a philosophical era called the Scottish enlightenment. They had significant influences on one another and on the development of philosophy and the social sciences. In this class we will read work by both of them on topics related to ethics and the social sciences, and trace some of those ideas to modern philosophical and scientific ideas.
+</end course description for 80-851 Seminar on History in Philosophy: Smith and Hume>

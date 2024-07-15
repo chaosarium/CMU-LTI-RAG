@@ -1,0 +1,16 @@
+<start course metadata for 12-233 TBA>
+Semester: Fall 2023 (aka F23)
+Course Name: TBA
+Course Number: 12-233
+Department: Civil & Environmental Engineering
+Number of Units: 2
+Prerequisites: 12-100
+Instructors: Kelvin Gregory
+Rooms: PH 107E
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 12-233 TBA>
+
+<start course description for 12-233 TBA>
+Semester: Fall 2023 (aka F23)
+Course Description: Civil and environmental engineering infrastructure is all around us. CEE infrastructure is integral to society's day-to-day operations, providing, for example, shelter, transportation, and clean drinking water. In this course, students will get a first-hand experience of civil and environmental engineering in action all around us. The course is comprised of lab sessions during which students will learn about and investigate infrastructure and phenomena in the built and natural environments on or near campus. Student coursework includes short assignments and reflections related to the lab experience.
+</end course description for 12-233 TBA>

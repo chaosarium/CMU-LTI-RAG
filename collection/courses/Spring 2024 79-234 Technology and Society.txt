@@ -1,0 +1,16 @@
+<start course metadata for 79-234 Technology and Society>
+Semester: Spring 2024 (aka S24)
+Course Name: Technology and Society
+Course Number: 79-234
+Department: History
+Number of Units: 9
+Prerequisites: None
+Instructors: Whitney Laemmli
+Rooms: DH 2210
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 79-234 Technology and Society>
+
+<start course description for 79-234 Technology and Society>
+Semester: Spring 2024 (aka S24)
+Course Description: How has technology shaped human society? And how have human beings shaped technology in return? This course investigates these questions across history-from stone tools, agriculture, and ancient cities to windmills, cathedrals, and the printing press; from railroads, electricity, and airplanes to atom bombs, the internet, and the dishwasher. In analyzing these tools, we will explore the dynamic relationships between technological systems and the social, political, religious, artistic, and economic worlds in which they emerged. We will also pay particular attention to technology's effects, asking both who benefited from and who was harmed by technological change. By the end of the course, students will be able to reflect critically on how humanity chooses which technologies to exploit and how human societies have been transformed by these choices.  This course fulfills Dietrich College's "Humanities" general education requirement.
+</end course description for 79-234 Technology and Society>

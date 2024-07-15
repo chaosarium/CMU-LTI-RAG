@@ -1,0 +1,16 @@
+<start course metadata for 54-480 Technical Direction IV>
+Semester: Spring 2024 (aka S24)
+Course Name: Technical Direction IV
+Course Number: 54-480
+Department: Drama
+Number of Units: 6
+Prerequisites: 54-477
+Instructors: Kevin Hines
+Rooms: PCA 209
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-480 Technical Direction IV>
+
+<start course description for 54-480 Technical Direction IV>
+Semester: Spring 2024 (aka S24)
+Course Description: The purpose of this class is to prepare Technical Directors as Technical Designers, specifying the engineering and fabrication of discrete scenic elements in a production context. Upon completion of this course, students should be able to: Understand how elements function to support production Recognize the limitations of standard approaches Develop unique approaches to technical challenges where appropriate Work with an ever-expanding body of methods, materials and hardware Integrate knowledge from prior PTM coursework Develop effective drawings and prototypes Iterate technical designs to achieve optimization
+</end course description for 54-480 Technical Direction IV>

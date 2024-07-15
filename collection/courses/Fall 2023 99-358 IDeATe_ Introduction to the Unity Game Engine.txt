@@ -1,0 +1,16 @@
+<start course metadata for 99-358 IDeATe: Introduction to the Unity Game Engine>
+Semester: Fall 2023 (aka F23)
+Course Name: IDeATe: Introduction to the Unity Game Engine
+Course Number: 99-358
+Department: Carnegie Mellon University-Wide Studies
+Number of Units: 1
+Prerequisites: None
+Instructors: Hugh Dyar
+Rooms: HL 106C
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 99-358 IDeATe: Introduction to the Unity Game Engine>
+
+<start course description for 99-358 IDeATe: Introduction to the Unity Game Engine>
+Semester: Fall 2023 (aka F23)
+Course Description: PLEASE NOTE: The specific meeting dates for the A1 section of this micro course are Sep 23, Sep 30, Oct 7. The specific meeting dates for the A2 section of this micro course are Oct 29, Nov 5, Nov 12. This course is designed for students with little to no experience working with game engines as entry point into the field of game development.  Students will learn the basics of the Unity3D engine, and to creatively and effectively build their own simple games.  This course will cover topics such as navigating and using the engine, basic game programming in C#, user interface development and introductory game design principles.  Students will be assessed based on the functionality of their games and will receive further feedback on their implementation, execution and creativity.
+</end course description for 99-358 IDeATe: Introduction to the Unity Game Engine>

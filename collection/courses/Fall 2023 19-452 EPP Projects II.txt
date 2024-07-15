@@ -1,0 +1,16 @@
+<start course metadata for 19-452 EPP Projects II>
+Semester: Fall 2023 (aka F23)
+Course Name: EPP Projects II
+Course Number: 19-452
+Department: Engineering & Public Policy
+Number of Units: 12
+Prerequisites: None
+Instructors: Deanna Matthews, John Miller
+Rooms: PH A18B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 19-452 EPP Projects II>
+
+<start course description for 19-452 EPP Projects II>
+Semester: Fall 2023 (aka F23)
+Course Description: Students work in multidisciplinary teams (engineers and scientists, humanities and social scientists, public policy and management graduates) on a cutting edge project topic with very little in the way of pre-digested analysis or solutions. Topics include both technical and social dimensions, multiple constraints on the solutions, and require multi-dimensional analyses. Students are given a general goal, and are expected to discover existing knowledge on the topic, and to research existing technologies and relevant policies. Using this background and their technical and social analysis education as appropriate, students then create new knowledge on the subject and analyzing technology impacts, policy alternatives, or other relevant options as topics necessitate. This knowledge is communicated to an external advisory panel, selected from experts and constituencies of importance to the issue through formal presentations and a written report. The second of two EPP Projects course experiences for EPP additional majors, EPP Projects II is the capstone course. Students apply their skills and knowledge from EPP Projects I, demonstrating project framing, decomposition, and developing analyses. Students in this second course are expected to be course leaders, assisting students taking the course for the first time in navigating project communications and tasks.
+</end course description for 19-452 EPP Projects II>

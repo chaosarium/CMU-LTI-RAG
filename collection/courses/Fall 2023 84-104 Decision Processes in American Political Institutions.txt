@@ -1,0 +1,16 @@
+<start course metadata for 84-104 Decision Processes in American Political Institutions>
+Semester: Fall 2023 (aka F23)
+Course Name: Decision Processes in American Political Institutions
+Course Number: 84-104
+Department: Institute for Politics and Strategy
+Number of Units: 9
+Prerequisites: None
+Instructors: Geoffrey Mcgovern
+Rooms: POS 152
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 84-104 Decision Processes in American Political Institutions>
+
+<start course description for 84-104 Decision Processes in American Political Institutions>
+Semester: Fall 2023 (aka F23)
+Course Description: This is an interdisciplinary introduction to the study of politics and government in the United States. It familiarizes the student with the basic structures and processes of American government, but moves beyond the purely descriptive into the realm of the analytical. The main theoretical tools are spatial models of political decision-making, and models of collective action problems. The position taken in this course is that understanding American philosophical ideas about authority, power, and freedom is as central to demystifying the U.S. form of democracy as is understanding how decision-making institutions function. Thus, on one side, this course looks at how American political thought is infused into political institutions and society. On the other side, it investigates institutional arrangements using rationalistic theories. In addition, scientific writings at the intersection of psychology and economics are used to probe the possibility of gaining explanatory leverage on U.S. politics from the perspective of behavioral decision-making theories.
+</end course description for 84-104 Decision Processes in American Political Institutions>

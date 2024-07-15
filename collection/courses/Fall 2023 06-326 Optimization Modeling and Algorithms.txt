@@ -1,0 +1,16 @@
+<start course metadata for 06-326 Optimization Modeling and Algorithms>
+Semester: Fall 2023 (aka F23)
+Course Name: Optimization Modeling and Algorithms
+Course Number: 06-326
+Department: Chemical Engineering
+Number of Units: 6
+Prerequisites: 06-262
+Instructors: Chrysanthos Gounaris
+Rooms: GHC 4215
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 06-326 Optimization Modeling and Algorithms>
+
+<start course description for 06-326 Optimization Modeling and Algorithms>
+Semester: Fall 2023 (aka F23)
+Course Description: Formulation and solution of mathematical optimization problems with and without constraints. Objective functions are based on economics or functional specifications. Both discrete and continuous variables are considered.
+</end course description for 06-326 Optimization Modeling and Algorithms>

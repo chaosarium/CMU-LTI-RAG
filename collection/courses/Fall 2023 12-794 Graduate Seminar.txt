@@ -1,0 +1,16 @@
+<start course metadata for 12-794 Graduate Seminar>
+Semester: Fall 2023 (aka F23)
+Course Name: Graduate Seminar
+Course Number: 12-794
+Department: Civil & Environmental Engineering
+Number of Units: 0
+Prerequisites: None
+Instructors: Gregory Lowry, Kaushik Dayal, Mario Berges, Sean Qian
+Rooms: PH 100; WEH 5304; WEH 5310; WEH 5421
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 12-794 Graduate Seminar>
+
+<start course description for 12-794 Graduate Seminar>
+Semester: Fall 2023 (aka F23)
+Course Description: Forum for exchange of information on research conducted within the department, and for occasional presentations by external professionals. Required for all full-time graduate students. Separate seminars are conducted in each of the principal research areas of the department. Prerequisites: None.
+</end course description for 12-794 Graduate Seminar>

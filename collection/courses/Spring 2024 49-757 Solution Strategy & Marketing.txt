@@ -1,0 +1,16 @@
+<start course metadata for 49-757 Solution Strategy & Marketing>
+Semester: Spring 2024 (aka S24)
+Course Name: Solution Strategy & Marketing
+Course Number: 49-757
+Department: Integrated Innovation Institute
+Number of Units: 6
+Prerequisites: None
+Instructors: Fang Fang, Sheryl Root
+Rooms: B23 109; B23 118
+Locations: San Jose, California
+</end course metadata for 49-757 Solution Strategy & Marketing>
+
+<start course description for 49-757 Solution Strategy & Marketing>
+Semester: Spring 2024 (aka S24)
+Course Description: This course provides students with an understanding  of commercializing  a product in the dynamic high-tech industry.  Students apply concepts of effective strategy for effective product delivery.  This will include understanding the drivers for a strategic roadmap, creating scenarios for alternatives, market and technology analysis and establishing metrics for business success.  Students define a strategy and roadmap for delivering a minimum viable product that addresses the business or social problem they intend to improve.
+</end course description for 49-757 Solution Strategy & Marketing>

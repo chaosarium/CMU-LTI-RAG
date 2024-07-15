@@ -1,0 +1,16 @@
+<start course metadata for 54-456 Carnegie Scenic>
+Semester: Spring 2024 (aka S24)
+Course Name: Carnegie Scenic
+Course Number: 54-456
+Department: Drama
+Number of Units: N/A
+Prerequisites: None
+Instructors: Brian Russman, C. Todd Brown, David Boevers, Hugh Hanson, Kevin Hines
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-456 Carnegie Scenic>
+
+<start course description for 54-456 Carnegie Scenic>
+Semester: Spring 2024 (aka S24)
+Course Description: Production Preparation is a required course and is a core component of the curriculum for all drama directing, dramaturgy, production, and design students.  In the Lighting Production course students will work within technical lighting teams to support production work on School of Drama shows and events.
+</end course description for 54-456 Carnegie Scenic>

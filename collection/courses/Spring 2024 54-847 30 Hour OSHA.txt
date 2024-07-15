@@ -1,0 +1,16 @@
+<start course metadata for 54-847 30 Hour OSHA>
+Semester: Spring 2024 (aka S24)
+Course Name: 30 Hour OSHA
+Course Number: 54-847
+Department: Drama
+Number of Units: 2
+Prerequisites: None
+Instructors: Sean West
+Rooms: PCA 307
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-847 30 Hour OSHA>
+
+<start course description for 54-847 30 Hour OSHA>
+Semester: Spring 2024 (aka S24)
+Course Description: For Production Technology & Management majors.
+</end course description for 54-847 30 Hour OSHA>

@@ -1,0 +1,16 @@
+<start course metadata for 15-668 Physics-Based Rendering>
+Semester: Spring 2024 (aka S24)
+Course Name: Physics-Based Rendering
+Course Number: 15-668
+Department: Computer Science
+Number of Units: 12
+Prerequisites: 15-462 or 16-385 or 16-720
+Instructors: Ioannis Gkioulekas
+Rooms: SH 236
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-668 Physics-Based Rendering>
+
+<start course description for 15-668 Physics-Based Rendering>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is an introduction to physics-based rendering at the advanced undergraduate and introductory graduate level. During the course, we will cover fundamentals of light transport, including topics such as the rendering and radiative transfer equation, light transport operators, path integral formulations, and approximations such as diffusion and single scattering. Additionally, we will discuss state-of-the-art models for illumination, surface and volumetric scattering, and sensors. Finally, we will use these theoretical foundations to develop Monte Carlo algorithms and sampling techniques for efficiently simulating physically-accurate images. Towards the end of the course, we will look at advanced topics such as rendering wave optics, neural rendering, and differentiable rendering.
+</end course description for 15-668 Physics-Based Rendering>

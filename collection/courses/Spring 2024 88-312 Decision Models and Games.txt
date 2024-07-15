@@ -1,0 +1,16 @@
+<start course metadata for 88-312 Decision Models and Games>
+Semester: Spring 2024 (aka S24)
+Course Name: Decision Models and Games
+Course Number: 88-312
+Department: Social & Decision Sciences
+Number of Units: 9
+Prerequisites: 36-200 or 70-207 or 36-201
+Instructors: Cleotilde Gonzalez
+Rooms: WEH 5310
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 88-312 Decision Models and Games>
+
+<start course description for 88-312 Decision Models and Games>
+Semester: Spring 2024 (aka S24)
+Course Description: Humans often make decisions in changing and uncertain situations. A car driver entering a new city must adjust decisions rapidly while moving along heavy traffic; firefighter crews entering a burning building must maintain awareness of the development of fire; citizens in a country must change their activities based on the evolution of a pandemic and the restrictions imposed. While challenging, humans are an adaptable species. We plan and re-adjust our plans to changing conditions; we keep aware of potentially new courses of action; and we manage our limited time, information, and attention to changing environments. How do humans make decisions in dynamic situations?  This course will explore human decision making as a dynamic process resulting from human interactions with the environment. The course uses decision games to illustrate how humans learn and adapt to changing conditions of choice, and computational models to simulate decision processes and environmental dynamics. Decision Models and Games will provide: (1) foundational perspectives for using models to represent the dynamics of environments and human decision processes; (2) tools to build computational models of human decision making and of dynamic environments; and (3) practical illustrations of how models and games can be used to understand and generate solutions to a wide range of decision problems, from simple choices to large scale consequential decisions.
+</end course description for 88-312 Decision Models and Games>

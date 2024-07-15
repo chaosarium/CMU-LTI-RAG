@@ -1,0 +1,16 @@
+<start course metadata for 11-651 TBA>
+Semester: Fall 2023 (aka F23)
+Course Name: TBA
+Course Number: 11-651
+Department: Language Technologies Institute
+Number of Units: 12
+Prerequisites: None
+Instructors: Michael Shamos
+Rooms: WEH 5403
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 11-651 TBA>
+
+<start course description for 11-651 TBA>
+Semester: Fall 2023 (aka F23)
+Course Description: This course focuses on applications of artificial intelligence and their role in shaping or disrupting new and existing markets. Students will work in teams to identify, analyze, and synthesize emerging trends and perform detailed studies of how these trends can influence and create markets.  The teams will also assess artificial intelligence technologies and potential applications to create solutions that address identified market opportunities.  A major objective of this course is for the teams to develop viable product ideas ultimately leading to a Capstone Project in the last semester of the MSAII program. For MS in Artificial Intelligence and Innovation (MSAII) students only.
+</end course description for 11-651 TBA>

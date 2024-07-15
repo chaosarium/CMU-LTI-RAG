@@ -1,0 +1,16 @@
+<start course metadata for 09-990 Internship>
+Semester: Spring 2024 (aka S24)
+Course Name: Internship
+Course Number: 09-990
+Department: Chemistry
+Number of Units: N/A
+Prerequisites: None
+Instructors: Kevin Noonan
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 09-990 Internship>
+
+<start course description for 09-990 Internship>
+Semester: Spring 2024 (aka S24)
+Course Description: None
+</end course description for 09-990 Internship>

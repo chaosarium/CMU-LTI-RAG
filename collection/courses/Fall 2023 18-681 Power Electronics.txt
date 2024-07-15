@@ -1,0 +1,16 @@
+<start course metadata for 18-681 Power Electronics>
+Semester: Fall 2023 (aka F23)
+Course Name: Power Electronics
+Course Number: 18-681
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Sarath Tennakoon
+Rooms: CMR F307; CMU REMOTE
+Locations: Kigali, Rwanda; Pittsburgh, Pennsylvania
+</end course metadata for 18-681 Power Electronics>
+
+<start course description for 18-681 Power Electronics>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is aimed at developing Power Electronics expertise in Masters level students to develop knowledge and skills necessary for the formation of a power electronics engineer. Considerations of static and dynamic characteristics of power semiconductor devices including thermal management are followed by the analysis and design of principal types of power converters. Key applications are also considered so that the course provides a broad knowledge and skills in the field of power electronics in wide ranging applications. Assessment is based on assignments and examinations. It is assumed that students will have an understanding of electrical & electronic principles, power systems, and electrical machines. Content includes: Power Semiconductor Devices Static and Dynamic Characteristics; Application of semiconductor devices and components in the medium to high voltage environment: Series and parallel operation, damping components; Spread of device characteristics, Thermal Management; Naturally commutated converters: Single phase and three phase up to 12 pulse, analysis and operation; Effect of supply side reactance; Grid applications; DC-DC Converters and energy storage: step up and step down operation, application to electric vehicles, battery management and PV systems; Self-commutated converters; Pulsewidth modulation; Multilevel converters; HVDC light; Voltage source converter based HVDC; AC to AC Converters: grid applications.
+</end course description for 18-681 Power Electronics>

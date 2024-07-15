@@ -1,0 +1,16 @@
+<start course metadata for 82-271 Intermediate Japanese I>
+Semester: Spring 2024 (aka S24)
+Course Name: Intermediate Japanese I
+Course Number: 82-271
+Department: Modern Languages
+Number of Units: 12
+Prerequisites: 82-172
+Instructors: Kiyono Fujinaga-Gordon
+Rooms: WEH 4707
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 82-271 Intermediate Japanese I>
+
+<start course description for 82-271 Intermediate Japanese I>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is the first part of a two-semester course sequence (82-271, 82-272). At the intermediate level, students will continue to improve the basic skills of listening, speaking, reading and writing skills with the goal of becoming more proficient in daily communication needs, and takes an integrated approach to the study of Japanese language and culture, consisting of grammar review, reading, and intensive practice in written and spoken Japanese. Course materials include authentic audiovisual and written texts in addition to the assigned textbooks. Also integrated are cultural explorations through direct interactions with native speakers. Regular homework, quizzes, tests, presentations, essays, and class participation are mandatory (four in-class hours per week). A student with prior experience in Japanese must take the placement exam. NOTE: For S23, the Friday class meeting will be asynchronous.  More details will be given in class.
+</end course description for 82-271 Intermediate Japanese I>

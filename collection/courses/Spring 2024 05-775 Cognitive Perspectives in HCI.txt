@@ -1,0 +1,16 @@
+<start course metadata for 05-775 Cognitive Perspectives in HCI>
+Semester: Spring 2024 (aka S24)
+Course Name: Cognitive Perspectives in HCI
+Course Number: 05-775
+Department: Human-Computer Interaction
+Number of Units: 6
+Prerequisites: None
+Instructors: Amy Ogan, Instructor TBA
+Rooms: DNM DNM; WEH 5415
+Locations: Lisbon, Portugal; Pittsburgh, Pennsylvania
+</end course metadata for 05-775 Cognitive Perspectives in HCI>
+
+<start course description for 05-775 Cognitive Perspectives in HCI>
+Semester: Spring 2024 (aka S24)
+Course Description: One of a series of four, seminar style mini-courses, to expose our PhD students to the breadth of classic and cutting edge research in four distinct traditions in HCII--computer science, cognitive science, social science, and design. Although no project is required for this course, there will be significant reading and writing. The four courses are:  Number Name                                   When             Instruct 05-773 Computer Science Perspectives in HCI   Mini 3-Spring'07 05-772 Social Perspectives in HCI             Mini 4-Spring'07  05-774 Cognitive Science Perspectives in HCI  Mini 3-Spring'08  05-775 Design Perspectives in HCI             Mini 4-Spring'08
+</end course description for 05-775 Cognitive Perspectives in HCI>

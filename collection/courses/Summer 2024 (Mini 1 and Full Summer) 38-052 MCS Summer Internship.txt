@@ -1,0 +1,16 @@
+<start course metadata for 38-052 MCS Summer Internship>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: MCS Summer Internship
+Course Number: 38-052
+Department: MCS Interdisciplinary
+Number of Units: 3
+Prerequisites: None
+Instructors: Maggie Braun
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 38-052 MCS Summer Internship>
+
+<start course description for 38-052 MCS Summer Internship>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: The Mellon College of Science at Carnegie Mellon considers experiential learning opportunities important educational options for its undergraduate students. One such option is an internship, normally completed during the summer. Students do not need to officially register for an internship unless they want it listed on their official transcripts. The MCS Undergraduate Dean's Office will add the course to the student's schedule, and the student will be assessed tuition for 3 units. Upon completion of the internship, students must submit a 1-2 page report of their work experience, and a 1-2 page evaluation from the academic or company supervisor to the Undergraduate Dean's Office in DH 1324. After the reports have been reviewed and approved, a "P" grade will be assigned.
+</end course description for 38-052 MCS Summer Internship>

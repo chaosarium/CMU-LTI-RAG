@@ -1,0 +1,16 @@
+<start course metadata for 95-798 Tech Entrepreneurship and Innovation>
+Semester: Fall 2023 (aka F23)
+Course Name: Tech Entrepreneurship and Innovation
+Course Number: 95-798
+Department: Information Systems:Sch of IS & Mgt
+Number of Units: 6
+Prerequisites: None
+Instructors: Mark DeSantis
+Rooms: HBH 1002
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 95-798 Tech Entrepreneurship and Innovation>
+
+<start course description for 95-798 Tech Entrepreneurship and Innovation>
+Semester: Fall 2023 (aka F23)
+Course Description: The first three years of a technology start-up are the most critical; when the company's DNA or trajectory is set. Too few entrepreneurs appreciate this fact and, as a result, many start without the essential skills talents and capabilities needed to set the company on a successful path. Some of these entrepreneurial skills can only be learned through starting and growing a business while others can be learned. This course attempts to bridge the challenging gap between learning and doing entrepreneurship.  We introduce you to an essential skill of market discovery or learning to create, develop and evaluate your concept of your business. Is my idea a real innovation? Is it also a business or a product or neither? How do I know how big the market is for my product? What are the technology market and competitive risks in my idea and how do I assess them? Can I compete? Can I sell it? How? When? Where?  Students will have the opportunity to apply their newfound practical skills gathered in part from lectures from experienced entrepreneurs and investors to case studies role-playing and solving actual problems of local tech businesses.       The best way to learn entrepreneurship is by doing, which is why this course will use 'true-to-life' scenarios as the anchor for the course. The class will be divided into 4 teams will focus on a company that is either (1) a student idea for new start-up, (2) an existing start-up (ideally local) or (3) a hypothetical start-up proposed/conceived by the students, the professor or both.
+</end course description for 95-798 Tech Entrepreneurship and Innovation>

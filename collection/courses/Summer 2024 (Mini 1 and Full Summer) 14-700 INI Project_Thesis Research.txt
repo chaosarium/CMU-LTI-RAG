@@ -1,0 +1,16 @@
+<start course metadata for 14-700 INI Project/Thesis Research>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: INI Project/Thesis Research
+Course Number: 14-700
+Department: Information Networking Institute
+Number of Units: N/A
+Prerequisites: None
+Instructors: Dena Tsamitis
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 14-700 INI Project/Thesis Research>
+
+<start course description for 14-700 INI Project/Thesis Research>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: This course is for INI students who are working on research for their master's thesis or graduate project.  A student must receive special permission to register for this course.  Please contact the INI Enrollment Services Office for more info at ini-enrollment@andrew.cmu.edu.
+</end course description for 14-700 INI Project/Thesis Research>

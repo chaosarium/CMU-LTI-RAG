@@ -1,0 +1,16 @@
+<start course metadata for 32-410 Fundamentals of Maneuver Warefare and Amphibious Operations>
+Semester: Fall 2023 (aka F23)
+Course Name: Fundamentals of Maneuver Warefare and Amphibious Operations
+Course Number: 32-410
+Department: Naval Science - ROTC
+Number of Units: 9
+Prerequisites: None
+Instructors: Ryan Faddish
+Rooms: FRB 215
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 32-410 Fundamentals of Maneuver Warefare and Amphibious Operations>
+
+<start course description for 32-410 Fundamentals of Maneuver Warefare and Amphibious Operations>
+Semester: Fall 2023 (aka F23)
+Course Description: A historical survey of the development of amphibious doctrine and the conduct of amphibious operations. Emphasis is placed on the evolution of amphibious warfare in the twentieth century, especially during World War II. Focus is applied to four main themes: political/strategic situation, sea-to-land transitions, tactics ashore, and development of amphibious technology. Present day potential and limitations on amphibious operations, including the rapid deployment force concept, are explored.
+</end course description for 32-410 Fundamentals of Maneuver Warefare and Amphibious Operations>

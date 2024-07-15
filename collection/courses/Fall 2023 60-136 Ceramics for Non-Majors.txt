@@ -1,0 +1,16 @@
+<start course metadata for 60-136 Ceramics for Non-Majors>
+Semester: Fall 2023 (aka F23)
+Course Name: Ceramics for Non-Majors
+Course Number: 60-136
+Department: Art
+Number of Units: 10
+Prerequisites: None
+Instructors: Yoko Sekino-Bove
+Rooms: DH B301
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 60-136 Ceramics for Non-Majors>
+
+<start course description for 60-136 Ceramics for Non-Majors>
+Semester: Fall 2023 (aka F23)
+Course Description: An introduction to three-dimensional form in clay, with access to our ceramics facility and kiln firings. Skills covered include hand building, sketching and modeling for larger fireable clay forms, throwing on the wheel, and basic glazing techniques. Discussions will include contemporary artists working in ceramics, as well as historical examples, and various approaches and techniques for working in clay.
+</end course description for 60-136 Ceramics for Non-Majors>

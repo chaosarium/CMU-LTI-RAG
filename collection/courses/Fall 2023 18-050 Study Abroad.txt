@@ -1,0 +1,16 @@
+<start course metadata for 18-050 Study Abroad>
+Semester: Fall 2023 (aka F23)
+Course Name: Study Abroad
+Course Number: 18-050
+Department: Electrical & Computer Engineering
+Number of Units: 0
+Prerequisites: None
+Instructors: James Bain
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-050 Study Abroad>
+
+<start course description for 18-050 Study Abroad>
+Semester: Fall 2023 (aka F23)
+Course Description: Students are encouraged to pursue various international collaborative programs offered through the department of Electrical and Computer Engineering.
+</end course description for 18-050 Study Abroad>

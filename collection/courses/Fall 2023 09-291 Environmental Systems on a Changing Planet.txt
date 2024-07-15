@@ -1,0 +1,16 @@
+<start course metadata for 09-291 Environmental Systems on a Changing Planet>
+Semester: Fall 2023 (aka F23)
+Course Name: Environmental Systems on a Changing Planet
+Course Number: 09-291
+Department: Chemistry
+Number of Units: 9
+Prerequisites: None
+Instructors: Ryan Sullivan
+Rooms: SH 234
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 09-291 Environmental Systems on a Changing Planet>
+
+<start course description for 09-291 Environmental Systems on a Changing Planet>
+Semester: Fall 2023 (aka F23)
+Course Description: This course introduces the interconnected environmental systems that regulate our climate and ecosystems, providing the resources required to sustain all life, including human societies. These systems are the fascinating connections between the oceans, atmosphere, continents, ecosystems, and people that provide our planet with resources that all life depends on. Human activities disrupt these natural systems, posing critical threats to the sustainable functioning of environmental systems. We will explore how solar and biochemical energy moves through the Earths interconnected systems, recycling nutrients; how complex environmental systems function to produce critical resources such as food and water; and how human activities interfere with these systems. Case studies include the interplay between climate change feedbacks, wildfires, and forest ecosystems; the hazards that everyday chemical toxins pose to ecosystems and human health and reproduction; and growing threats to ecosystem health and biodiversity. We will also develop the relevant information literacy required to understand current issues that are frequently debated in the public sphere, and connect these to environmental justice. This course draws on principles learned in high school science and serves as the foundational Earth & Environmental Science requirement for both the Minor and Additional Major in Environmental and Sustainability Studies. 09-291 is intended for both non-STEM majors from any program as well as STEM majors from any program in CIT, MCS, and SCS.  In addition, STEM majors are strongly encouraged to take the connected 09-381 3-unit course that provides a more technical and quantitative framework for understanding the course content. 24-381 is often required for this course to count as a technical elective for STEM programs, and is required for students from CIT, MCS, and SCS in the Environmental and Sustainability Studies programs.
+</end course description for 09-291 Environmental Systems on a Changing Planet>

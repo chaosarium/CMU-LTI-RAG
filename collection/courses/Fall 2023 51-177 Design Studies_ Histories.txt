@@ -1,0 +1,16 @@
+<start course metadata for 51-177 Design Studies: Histories>
+Semester: Fall 2023 (aka F23)
+Course Name: Design Studies: Histories
+Course Number: 51-177
+Department: Design
+Number of Units: 5
+Prerequisites: None
+Instructors: Margaret Urban
+Rooms: MM A11
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-177 Design Studies: Histories>
+
+<start course description for 51-177 Design Studies: Histories>
+Semester: Fall 2023 (aka F23)
+Course Description: "Histories" explores a plurality of design histories extending beyond the dominant, Anglo-European story of Design. Through a series of guest lectures, critical readings, and lively debates, you will expand your understanding of design as a "field," which evolves and changes over time in the context of broader technological, social, and philosophical developments; a tapestry woven of many threads, some more noticeable than others, but all relevant in their own way. Coursework includes authoring a well-historicized account of an influential designer, practice, or movement, and feature as part of a growing, online archive.
+</end course description for 51-177 Design Studies: Histories>

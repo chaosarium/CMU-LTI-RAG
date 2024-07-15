@@ -1,0 +1,16 @@
+<start course metadata for 82-250 Digital Realities: Introducing Immersive Technologies for Arts and Culture>
+Semester: Fall 2023 (aka F23)
+Course Name: Digital Realities: Introducing Immersive Technologies for Arts and Culture
+Course Number: 82-250
+Department: Modern Languages
+Number of Units: 9
+Prerequisites: None
+Instructors: Stephan Caspar
+Rooms: TEP 1024
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 82-250 Digital Realities: Introducing Immersive Technologies for Arts and Culture>
+
+<start course description for 82-250 Digital Realities: Introducing Immersive Technologies for Arts and Culture>
+Semester: Fall 2023 (aka F23)
+Course Description: As Immersive and spatial media increasingly feature in our cultural life, innovators are needed who can blend technological skills with creative imagination and critical humanistic practice. This introductory course aims to enable hybrid technologists, media-makers, and storytellers who can create mediated experiences that advance diversity, equity, and inclusion in the creation of augmented, immersive, and spatial media.  You will construct, but also deconstruct immersive and augmented experiences with respect to the cultural, socio-emotional, and embodied aspects of human experience through a process of play, exploration, and experimentation. You will author original narratives and prototype spatially mediated experiences while attending to the aesthetic considerations, humanistic concerns, and design conventions defining this emerging mode of cultural production.
+</end course description for 82-250 Digital Realities: Introducing Immersive Technologies for Arts and Culture>

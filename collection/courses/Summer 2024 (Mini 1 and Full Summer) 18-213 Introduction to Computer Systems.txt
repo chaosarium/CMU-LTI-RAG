@@ -1,0 +1,16 @@
+<start course metadata for 18-213 Introduction to Computer Systems>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Introduction to Computer Systems
+Course Number: 18-213
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: 15-122
+Instructors: Gregory Kesden
+Rooms: CMU REMOTE
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-213 Introduction to Computer Systems>
+
+<start course description for 18-213 Introduction to Computer Systems>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: This course provides a programmer's view of how computer systems execute programs, store information, and communicate. It enables students to become more effective programmers, especially in dealing with issues of performance, portability and robustness. It also serves as a foundation for courses on compilers, networks, operating systems, and computer architecture, where a deeper understanding of systems-level issues is required. Topics covered include: machine-level code and its generation by optimizing compilers, performance evaluation and optimization, computer arithmetic, memory organization and management, networking technology and protocols, and supporting concurrent computation. NOTE: students must achieve a C or better in order to use this course to satisfy the pre-requisite for any subsequent Computer Science course.    Prerequisites: 15-123 (Grade of C or higher is required in the prerequisite)
+</end course description for 18-213 Introduction to Computer Systems>

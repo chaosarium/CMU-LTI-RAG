@@ -1,0 +1,16 @@
+<start course metadata for 48-328 Detailing Architecture>
+Semester: Spring 2024 (aka S24)
+Course Name: Detailing Architecture
+Course Number: 48-328
+Department: Architecture
+Number of Units: 9
+Prerequisites: 48-205
+Instructors: Gerard Damiani
+Rooms: MM 307
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-328 Detailing Architecture>
+
+<start course description for 48-328 Detailing Architecture>
+Semester: Spring 2024 (aka S24)
+Course Description: "This course examines the role of the architectural detail in the formation/ thematic development of a work of architecture and how the detail reinforces the theoretical position of the architect.
+</end course description for 48-328 Detailing Architecture>

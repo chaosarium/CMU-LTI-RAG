@@ -1,0 +1,16 @@
+<start course metadata for 51-950 Progress Reviews I>
+Semester: Fall 2023 (aka F23)
+Course Name: Progress Reviews I
+Course Number: 51-950
+Department: Design
+Number of Units: N/A
+Prerequisites: None
+Instructors: Jonathan Chapman
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-950 Progress Reviews I>
+
+<start course description for 51-950 Progress Reviews I>
+Semester: Fall 2023 (aka F23)
+Course Description: Design proceeds by way of critique. Being a recent discipline, design research is especially in need of frequent in-progress exposure. This is even more the case for emergent epistemologies of practice-based design research. Consequently, all candidates in all doctoral programs are required to give progress review presentations before their peers and a panel of experts that demonstrate significant progress on methodologically valid forms of design research in response to clearly articulated research questions.
+</end course description for 51-950 Progress Reviews I>

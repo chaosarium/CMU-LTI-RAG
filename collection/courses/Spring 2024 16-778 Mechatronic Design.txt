@@ -1,0 +1,16 @@
+<start course metadata for 16-778 Mechatronic Design>
+Semester: Spring 2024 (aka S24)
+Course Name: Mechatronic Design
+Course Number: 16-778
+Department: Robotics
+Number of Units: 12
+Prerequisites: None
+Instructors: Cameron Riviere
+Rooms: SH 238
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 16-778 Mechatronic Design>
+
+<start course description for 16-778 Mechatronic Design>
+Semester: Spring 2024 (aka S24)
+Course Description: Mechatronics is the synergistic integration of mechanism, electronics, and computer control to achieve a functional system. This course is a semester-long multidisciplinary capstone hardware project design experience in which small (typically four-person) teams of electrical and computer engineering, mechanical engineering and robotics students deliver an end-of-course demonstration of a final integrated system capable of performing a mechatronic task.  Throughout the semester, the students design, configure, implement, test and evaluate in the laboratory devices and subsystems culminating in the final integrated mechatronic system.  Lectures will complement the laboratory experience with comparative surveys,  operational principles, and integrated design issues associated with the spectrum of mechanism, microcontroller, electronic, sensor, and control components.
+</end course description for 16-778 Mechatronic Design>

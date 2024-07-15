@@ -1,0 +1,16 @@
+<start course metadata for 53-374 Retro Game Lab>
+Semester: Spring 2024 (aka S24)
+Course Name: Retro Game Lab
+Course Number: 53-374
+Department: Entertainment Technology
+Number of Units: 6
+Prerequisites: None
+Instructors: Jonathan Walton, Robert Zacharias
+Rooms: HL A10
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 53-374 Retro Game Lab>
+
+<start course description for 53-374 Retro Game Lab>
+Semester: Spring 2024 (aka S24)
+Course Description: In this course, we invite students to explore, hack, and redesign early arcade machines and related entertainment devices, growing their game design and physical computing skills. Before the digital age, entertainment arcades were dominated by a variety of electromechanical devices. By building on the tradition of carnivals, midways, and expositions, these interactive interfaces invited users to explore and play in new ways, culminating in the explosion of pinball's popularity in the 1930s and the eventual rise of video game arcades in the late 1970s. In this course, we build on these traditions of design and play but also push toward new and alternate understandings of early entertainment arcades. The course will culminate in students building a working electromechanical game to be released to the public at Spring Carnival.
+</end course description for 53-374 Retro Game Lab>

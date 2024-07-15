@@ -1,0 +1,16 @@
+<start course metadata for 70-208 Regression Analysis>
+Semester: Fall 2023 (aka F23)
+Course Name: Regression Analysis
+Course Number: 70-208
+Department: Business Administration
+Number of Units: 9
+Prerequisites: 70-207 or 36-200 or 36-201 or 36-207 or 36-220 or 36-247 or 36-218
+Instructors: Rebecca Lessem
+Rooms: TEP 2610
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 70-208 Regression Analysis>
+
+<start course description for 70-208 Regression Analysis>
+Semester: Fall 2023 (aka F23)
+Course Description: This class focuses on the statistical analysis of the relationship between two or more random variables. In particular, we examine the estimation of the conditional mean of the dependent variable as a function of independent variables using linear regression. We draw on statistical theory to determine the precision of our estimates and to conduct inference about the population, and we examine a number of applications to business, finance, and economics throughout the course.  This course may use third-party course material that is not available for individual purchase from the publisher.   If so, the third-party course material will be secured and provided by the Tepper School to students enrolled in the course, and students enrolled in the course will be required to pay to the University the associated additional course materials fee for the third-party course material provided.   The amount of the course materials fee is dependent on the University's cost of the particular materials provided, and typically ranges from $13 to $75.
+</end course description for 70-208 Regression Analysis>

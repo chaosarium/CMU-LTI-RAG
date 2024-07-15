@@ -1,0 +1,16 @@
+<start course metadata for 94-816 Generative AI: Applications, Implications, and Governance>
+Semester: Spring 2024 (aka S24)
+Course Name: Generative AI: Applications, Implications, and Governance
+Course Number: 94-816
+Department: Heinz College Wide Courses
+Number of Units: 6
+Prerequisites: None
+Instructors: Jordan Usdan
+Rooms: HBH 2008
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 94-816 Generative AI: Applications, Implications, and Governance>
+
+<start course description for 94-816 Generative AI: Applications, Implications, and Governance>
+Semester: Spring 2024 (aka S24)
+Course Description: Technological change and the disruption that it brings frequently outpaces the ability of society and policy makers to respond. The idea behind the series of Societal Consequences of Technological Change courses is to prepare students to understand and respond to the disruptions and consequences of technology through critical thinking and construction of policy responses.  We are on the cusp of a new era of Artificial Intelligence (AI) that will profoundly change the human experience. This course will give students a hands-on glimpse of their future personal and work lives, which will increasingly be supported by AI copilots. AI can now comprehend language and analyze and generate language, images, and videos at or near par with human experts in many domains. New AI experiences, such as ChatGPT and LaMDA, have capabilities that will be applied to help people write, translate, and summarize language, and help humans with problem-solving and reasoning. These models can also understand computing languages, giving machines the capability to write and execute code within computing systems or on the Internet. Moreover, new multi-modal (text + images and/or video) models such as Dall-E and Stable Diffusion, can transform plain text instructions into works of art that are indistinguishable from human artists.  This AI will also disrupt society in hard to predict ways. This class will study the possible implications from a variety of angles, providing students with context on the tough judgments government and corporate policymakers will need to make. Having developed an appreciation of the AI capabilities, the class will examine the opportunities and challenges posed by the development of this technology, which is ushering in a new era of democratized content creation and AI copilots for cognitive work. Visit https://api.heinz.cmu.edu/courses_api/course_detail/94-816/ for full description.
+</end course description for 94-816 Generative AI: Applications, Implications, and Governance>

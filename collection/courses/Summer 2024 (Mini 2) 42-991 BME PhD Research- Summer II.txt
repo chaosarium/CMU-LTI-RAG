@@ -1,0 +1,16 @@
+<start course metadata for 42-991 BME PhD Research- Summer II>
+Semester: Summer Two 2024 (aka M24, M24 Mini 2, Summer 2024 Mini 2)
+Course Name: BME PhD Research- Summer II
+Course Number: 42-991
+Department: Biomedical Engineering
+Number of Units: N/A
+Prerequisites: None
+Instructors: Maryia Rakach
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 42-991 BME PhD Research- Summer II>
+
+<start course description for 42-991 BME PhD Research- Summer II>
+Semester: Summer Two 2024 (aka M24, M24 Mini 2, Summer 2024 Mini 2)
+Course Description: None
+</end course description for 42-991 BME PhD Research- Summer II>

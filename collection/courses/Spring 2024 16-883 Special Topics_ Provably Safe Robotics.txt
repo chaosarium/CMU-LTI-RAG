@@ -1,0 +1,16 @@
+<start course metadata for 16-883 Special Topics: Provably Safe Robotics>
+Semester: Spring 2024 (aka S24)
+Course Name: Special Topics: Provably Safe Robotics
+Course Number: 16-883
+Department: Robotics
+Number of Units: 12
+Prerequisites: None
+Instructors: Changliu Liu
+Rooms: NSH 1305
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 16-883 Special Topics: Provably Safe Robotics>
+
+<start course description for 16-883 Special Topics: Provably Safe Robotics>
+Semester: Spring 2024 (aka S24)
+Course Description: Safe autonomy has become increasingly critical in many application domains. It is important to ensure not only the safety of the ego robot, but also the safety of other agents (humans or robots) that directly interact with the autonomy. For example, robots should be safe to human workers in human-robot collaborative assembly; autonomous vehicles should be safe to other road participants. For complex autonomous systems with many degrees of freedom, safe operation depends on the correct functioning of all system components, i.e., accurate perception, optimal decision making, and safe control. This course deals with both the design and the verification of safe robotic systems. From the design perspective, we will talk about how to assure safety through planning, prediction, learning, and control. From the verification perspective, we will talk about verification of deep neural networks, safety or reachability analysis for closed loop systems, and analysis of multi-agent systems.
+</end course description for 16-883 Special Topics: Provably Safe Robotics>

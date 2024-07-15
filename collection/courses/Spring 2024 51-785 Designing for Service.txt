@@ -1,0 +1,16 @@
+<start course metadata for 51-785 Designing for Service>
+Semester: Spring 2024 (aka S24)
+Course Name: Designing for Service
+Course Number: 51-785
+Department: Design
+Number of Units: 12
+Prerequisites: None
+Instructors: Ayca Akin, Daphne Firos
+Rooms: MM 215
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-785 Designing for Service>
+
+<start course description for 51-785 Designing for Service>
+Semester: Spring 2024 (aka S24)
+Course Description: We all have an idea of what a good service is -- when everything clicks into place, when you feel a little surprised and delighted because of the thoughtfulness and smoothness. And we know what it's like when a service goes wrong -- missed flight connections, sitting for too long in a doctor's waiting room, continually repeating information as you're passed around customer service representatives. So what does it take to get a service right? And how can our services best help us get things done across multiple channels? We will explore the fundamentals of service design in this project based course. This includes the tools and practices of service design, and using service design to both analyze and improve existing services, as well as develop new, compelling services. Our goals (and the objectives of this class) will be to learn service design fundamentals by hypothesizing, experimenting, building, testing our assumptions, pivoting, tweaking, and improving. Some great visitors will join us too, in person and virtually, to provide real-world insights about service design. This course utilizes interdisciplinary and mixed-cohort teams to replicate the experience of working as a service designer.
+</end course description for 51-785 Designing for Service>

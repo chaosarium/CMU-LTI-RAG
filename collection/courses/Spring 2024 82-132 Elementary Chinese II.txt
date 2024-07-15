@@ -1,0 +1,16 @@
+<start course metadata for 82-132 Elementary Chinese II>
+Semester: Spring 2024 (aka S24)
+Course Name: Elementary Chinese II
+Course Number: 82-132
+Department: Modern Languages
+Number of Units: 12
+Prerequisites: 82-131 or 82-133
+Instructors: Cheng Li
+Rooms: PH A21A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 82-132 Elementary Chinese II>
+
+<start course description for 82-132 Elementary Chinese II>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is designed for students who have taken first-semester Chinese at Carnegie Mellon or its equivalent by placement. Students will continue developing contextually appropriate interpersonal communication skills in both written and spoken Chinese, developing reading and listening skills through various media, and working toward a deeper understanding of Chinese culture. Work for this course will include the introduction and use of more complicated sentence structures, grammar, and expressions. Students are also encouraged to communicate in longer sentences and write short paragraphs and essays in Chinese. Regular homework, quizzes, tests, and participation in class are mandatory (four in-class hours per week). Students will continue to learn the phonetic transcriptions of Chinese (Pinyin) for speaking and listening as well as Chinese characters for reading and writing. The elementary level is designed to help students learn to reflect and draw upon strategies used by good language learners in their second language study. A student with prior experience in Chinese must take the placement exam.
+</end course description for 82-132 Elementary Chinese II>

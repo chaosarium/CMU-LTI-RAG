@@ -1,0 +1,16 @@
+<start course metadata for 70-485 Product and Brand Management>
+Semester: Spring 2024 (aka S24)
+Course Name: Product and Brand Management
+Course Number: 70-485
+Department: Business Administration
+Number of Units: 9
+Prerequisites: 70-381
+Instructors: Melissa Murphy
+Rooms: TEP 2610
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 70-485 Product and Brand Management>
+
+<start course description for 70-485 Product and Brand Management>
+Semester: Spring 2024 (aka S24)
+Course Description: Product managers are essentially the "CEO" of the product line. Brand and product management provides strategic vision and leadership for the product and service, both 1) understanding the market opportunity and what must be done for successfully delivering on the brand promise and 2) leading across the organization, often without authority, to achieve that success.  Product/service success in a dynamic market is subject to many factors, including marketplace needs, reactions and activities of competition, the strategy and change within one's own firm, operating and financial constraints, demand forecast uncertainty, and more.  By taking this course, you will learn the principles of product and brand management and understand what it is like and what it takes to be a successful marketing leader. This course may use third-party course material that is not available for individual purchase from the publisher.   If so, the third-party course material will be secured and provided by the Tepper School to students enrolled in the course, and students enrolled in the course will be required to pay to the University the associated additional course materials fee for the third-party course material provided.   The amount of the course materials fee is dependent on the University's cost of the particular materials provided, and typically ranges from $13 to $75.
+</end course description for 70-485 Product and Brand Management>

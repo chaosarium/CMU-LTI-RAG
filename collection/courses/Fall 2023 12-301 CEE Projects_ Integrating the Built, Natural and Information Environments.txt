@@ -1,0 +1,16 @@
+<start course metadata for 12-301 CEE Projects: Integrating the Built, Natural and Information Environments>
+Semester: Fall 2023 (aka F23)
+Course Name: CEE Projects: Integrating the Built, Natural and Information Environments
+Course Number: 12-301
+Department: Civil & Environmental Engineering
+Number of Units: 9
+Prerequisites: 12-271 and 12-200
+Instructors: Donald Coffelt, Joe Moore
+Rooms: PH 107E
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 12-301 CEE Projects: Integrating the Built, Natural and Information Environments>
+
+<start course description for 12-301 CEE Projects: Integrating the Built, Natural and Information Environments>
+Semester: Fall 2023 (aka F23)
+Course Description: Civil and environmental engineers work at the interface of multiple disciplines, understanding and applying principles to evaluate and create. This course extends design skills from 12-100 and 12-200 to hands-on experiences with more integrated, interdisciplinary problem solving. Students explore the roles of diverse stakeholders, community engagement, and sustainability goals in CEE projects.  Students integrate construction/structures, sensing, and sustainability through team-based projects, and apply communication, computation, and project management skills. Students develop an understanding of the professional, ethical, social, and economic aspects of engineering projects.  The course combines formal instruction, field trips, teamwork, role-playing, and engagement with practicing experts involved with CEE projects.
+</end course description for 12-301 CEE Projects: Integrating the Built, Natural and Information Environments>

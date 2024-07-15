@@ -1,0 +1,16 @@
+<start course metadata for 45-928 Energy Finance>
+Semester: Spring 2024 (aka S24)
+Course Name: Energy Finance
+Course Number: 45-928
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Chris Telmer
+Rooms: TEP 2119
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-928 Energy Finance>
+
+<start course description for 45-928 Energy Finance>
+Semester: Spring 2024 (aka S24)
+Course Description: None
+</end course description for 45-928 Energy Finance>

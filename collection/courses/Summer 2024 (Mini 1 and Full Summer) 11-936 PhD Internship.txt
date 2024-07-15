@@ -1,0 +1,16 @@
+<start course metadata for 11-936 PhD Internship>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: PhD Internship
+Course Number: 11-936
+Department: Language Technologies Institute
+Number of Units: N/A
+Prerequisites: None
+Instructors: Instructor TBA, Jamie Callan
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 11-936 PhD Internship>
+
+<start course description for 11-936 PhD Internship>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: TBA
+</end course description for 11-936 PhD Internship>

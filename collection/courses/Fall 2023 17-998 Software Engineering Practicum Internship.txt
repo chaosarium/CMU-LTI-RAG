@@ -1,0 +1,16 @@
+<start course metadata for 17-998 Software Engineering Practicum Internship>
+Semester: Fall 2023 (aka F23)
+Course Name: Software Engineering Practicum Internship
+Course Number: 17-998
+Department: Software & Societal Systems
+Number of Units: N/A
+Prerequisites: None
+Instructors: Christian Kaestner
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 17-998 Software Engineering Practicum Internship>
+
+<start course description for 17-998 Software Engineering Practicum Internship>
+Semester: Fall 2023 (aka F23)
+Course Description: Students will register for this course if they plan to participate in a internship opportunity during the academic semester.    Internships require CPT approval for international students.  Internships must begin and end matching the CMU summer academic calendar. If this does not occur international students will be required to use OPT to cover the non-academic time.    Students are required to submit a description of what was accomplished during their internship. Students must turn this into their current advisers for credit, and grading.  This 3 unit course will count towards the required electives of the program. ** Please note students must continue to take at least 21 units of course work at 6+ units or higher each for elective credit.
+</end course description for 17-998 Software Engineering Practicum Internship>

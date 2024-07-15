@@ -1,0 +1,16 @@
+<start course metadata for 21-238 Mathematical Studies Algebra II>
+Semester: Spring 2024 (aka S24)
+Course Name: Mathematical Studies Algebra II
+Course Number: 21-238
+Department: Mathematical Sciences
+Number of Units: 12
+Prerequisites: 21-237
+Instructors: Clinton Conley
+Rooms: PH 226B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-238 Mathematical Studies Algebra II>
+
+<start course description for 21-238 Mathematical Studies Algebra II>
+Semester: Spring 2024 (aka S24)
+Course Description: A component of the honors program, 21-238 is a more demanding version of 21-341 (Linear Algebra) of greater scope.  Linear algebra is a crucial tool in pure and applied mathematics. This course aims to introduce the main ideas at a high level of rigour and generality. The course covers vector spaces over arbitrary fields and the natural generalization to modules over rings. Vector space topics to be covered include: fields, Zorn's Lemma, vector spaces (possibly infinite dimensional) over an arbitrary field, independent sets, bases, existence of a basis, exchange lemma, dimension. Linear transformations, dual space, multilinear maps, tensor products, exterior powers, the determinant, eigenvalues, eigenvectors, characteristic and minimal polynomial of a transformation, the Cayley-Hamilton theorem. Module-theoretic topics to be covered include: review of (commutative) rings, R-modules, sums and quotients of modules, free modules, the structure theorem for finitely generated modules over a PID, Jordan and rational canonical forms, structure theory of finitely generated abelian groups. Further topics in real and complex inner product spaces include: orthonormal sets, orthonormal bases, the Gram-Schmidt process, symmetric/Hermitian operators, orthogonal/unitary operators, the spectral theorem, quadratic forms, the singular value decomposition. Possible additional topics:  applications to combinatorics, category theory, representations of finite groups, unitary representations of infinite groups. (Three 50 minute lectures, one 50 minute recitation)
+</end course description for 21-238 Mathematical Studies Algebra II>

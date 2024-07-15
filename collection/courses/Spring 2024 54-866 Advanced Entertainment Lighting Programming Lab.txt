@@ -1,0 +1,16 @@
+<start course metadata for 54-866 Advanced Entertainment Lighting Programming Lab>
+Semester: Spring 2024 (aka S24)
+Course Name: Advanced Entertainment Lighting Programming Lab
+Course Number: 54-866
+Department: Drama
+Number of Units: N/A
+Prerequisites: None
+Instructors: C. Todd Brown
+Rooms: PCA A16
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-866 Advanced Entertainment Lighting Programming Lab>
+
+<start course description for 54-866 Advanced Entertainment Lighting Programming Lab>
+Semester: Spring 2024 (aka S24)
+Course Description: Students will explore advanced techniques and methods while programming on top-end lighting control systems.
+</end course description for 54-866 Advanced Entertainment Lighting Programming Lab>

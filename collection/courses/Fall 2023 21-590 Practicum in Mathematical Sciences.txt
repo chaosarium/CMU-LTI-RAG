@@ -1,0 +1,16 @@
+<start course metadata for 21-590 Practicum in Mathematical Sciences>
+Semester: Fall 2023 (aka F23)
+Course Name: Practicum in Mathematical Sciences
+Course Number: 21-590
+Department: Mathematical Sciences
+Number of Units: 3
+Prerequisites: None
+Instructors: Jason Howell
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-590 Practicum in Mathematical Sciences>
+
+<start course description for 21-590 Practicum in Mathematical Sciences>
+Semester: Fall 2023 (aka F23)
+Course Description: Students in this course gain experience with the application of mathematical models to business and/or industrial problems during an internship.  The internship is set up by the student in consultation with a faculty member.  The students must also have a mentor at the firm providing the internship, who together with the faculty member develops a description of the goals of the internship.  The internship must include the opportunity to learn about problems which have mathematical content.  Tuition is charged for this course.
+</end course description for 21-590 Practicum in Mathematical Sciences>

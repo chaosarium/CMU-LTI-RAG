@@ -1,0 +1,16 @@
+<start course metadata for 85-311 Research Methods: Meta-Analysis>
+Semester: Spring 2024 (aka S24)
+Course Name: Research Methods: Meta-Analysis
+Course Number: 85-311
+Department: Psychology
+Number of Units: 9
+Prerequisites: 85-310 or 85-320 or 85-340 or 85-330 or 85-314
+Instructors: Phoebe Lam
+Rooms: BH 336B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 85-311 Research Methods: Meta-Analysis>
+
+<start course description for 85-311 Research Methods: Meta-Analysis>
+Semester: Spring 2024 (aka S24)
+Course Description: The scientific process is inherently cumulative: Scientific understanding moves forward by building on the theories, methods, and findings of individual scientistics. The broad aim of this course is to teach you a set of practical, modern tools for conducting psychological research that facilitate cumulative scientific progress.
+</end course description for 85-311 Research Methods: Meta-Analysis>

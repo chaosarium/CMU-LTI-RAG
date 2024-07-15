@@ -1,0 +1,16 @@
+<start course metadata for 57-775 Vocal Pedagogy II>
+Semester: Spring 2024 (aka S24)
+Course Name: Vocal Pedagogy II
+Course Number: 57-775
+Department: Music
+Number of Units: 6
+Prerequisites: 57-774
+Instructors: Jennifer Aylmer
+Rooms: CFA M157
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-775 Vocal Pedagogy II>
+
+<start course description for 57-775 Vocal Pedagogy II>
+Semester: Spring 2024 (aka S24)
+Course Description: Building upon what we learned in Vocal Pedagogy I, this course will enable you to learn more about the act of teaching, how to build a voice studio, build new vocabulary in the lesson, and will feature in-class demonstrations of techniques in breathing, posture, resonance, articulation, etc.
+</end course description for 57-775 Vocal Pedagogy II>

@@ -1,0 +1,16 @@
+<start course metadata for 54-737 Scenic Painting I>
+Semester: Fall 2023 (aka F23)
+Course Name: Scenic Painting I
+Course Number: 54-737
+Department: Drama
+Number of Units: 6
+Prerequisites: None
+Instructors: Beth Zamborsky
+Rooms: PCA 107
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-737 Scenic Painting I>
+
+<start course description for 54-737 Scenic Painting I>
+Semester: Fall 2023 (aka F23)
+Course Description: This is a beginning course in the foundations of scene painting for the theatre. Students will complete projects covering some basic issues in technique, aesthetics, and shop protocol. Some of the topics covered include: painting textures, trompe l'oiel, transluscence, working in scale; subjects for painting could include lanscape, architecture, the human figure, drapery and cloth, and close-up views of natural and manmade textures and objects.
+</end course description for 54-737 Scenic Painting I>

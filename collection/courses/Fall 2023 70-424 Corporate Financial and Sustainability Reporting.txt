@@ -1,0 +1,16 @@
+<start course metadata for 70-424 Corporate Financial and Sustainability Reporting>
+Semester: Fall 2023 (aka F23)
+Course Name: Corporate Financial and Sustainability Reporting
+Course Number: 70-424
+Department: Business Administration
+Number of Units: 9
+Prerequisites: 70-122
+Instructors: Gaoqing Zhang
+Rooms: TEP 2613
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 70-424 Corporate Financial and Sustainability Reporting>
+
+<start course description for 70-424 Corporate Financial and Sustainability Reporting>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is designed to strengthen your ability to understand and use both financial and sustainability data reported by corporations. For the past five centuries, massive and rich financial data has been generated and intensively used to aid investment decisions in capital markets and business strategies by corporations. More recently, the realm of financial reporting has been significantly augmented along the new dimension of sustainability reporting due to the rapidly growing trend of sustainability-oriented investing and investors' demand for sustainability-related data. The course is aimed at anyone whose career might involve working with financial and sustainability data and should be especially useful for those interested in investing, banking, and consulting careers. Throughout the semester, we will discuss the regulatory and corporate environments that govern the generating process of financial and sustainability data and how understanding such data-generating process helps with drawing implications from the financial and sustainability data about corporate valuations, business strategies, etc. This course may use third-party course material that is not available for individual purchase from the publisher.  If so, the third-party course material will be secured and provided by the Tepper School to students enrolled in the course, and students enrolled in the course will be required to pay to the University the associated additional course materials fee for the third-party course material provided. The amount of the course materials fee is dependent on the University's cost of the particular materials provided, and typically ranges from $13 to $75.
+</end course description for 70-424 Corporate Financial and Sustainability Reporting>

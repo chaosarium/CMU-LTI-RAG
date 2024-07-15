@@ -1,0 +1,16 @@
+<start course metadata for 11-877 Advanced Topics in Multimodal Machine Learning>
+Semester: Spring 2024 (aka S24)
+Course Name: Advanced Topics in Multimodal Machine Learning
+Course Number: 11-877
+Department: Language Technologies Institute
+Number of Units: N/A
+Prerequisites: 11-777
+Instructors: Daniel Fried, Paul Liang
+Rooms: WEH 4709
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 11-877 Advanced Topics in Multimodal Machine Learning>
+
+<start course description for 11-877 Advanced Topics in Multimodal Machine Learning>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is designed to be a graduate-level course covering recent research papers in multimodal machine learning, a vibrant multi-disciplinary research field which studies modeling, alignment, and fusion of heterogeneous data from multiple modalities, including language, vision, and acoustic. The course will focus on discussions and understanding of recent research papers in this field. Students are expected to have already taken 11-777 Multimodal Machine Learning course or have equivalent research experience (instructor approval required).  The course is planned for 6 credit units. Optionally, students can register for 12 credit units, with the expectation to do a comprehensive research project as part of the semester. These course projects are expected to be done in teams, with the research topic to be in the realm of multimodal machine learning and pre-approved by the course instructors.
+</end course description for 11-877 Advanced Topics in Multimodal Machine Learning>

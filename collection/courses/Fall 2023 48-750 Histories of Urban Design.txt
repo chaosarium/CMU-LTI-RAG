@@ -1,0 +1,16 @@
+<start course metadata for 48-750 Histories of Urban Design>
+Semester: Fall 2023 (aka F23)
+Course Name: Histories of Urban Design
+Course Number: 48-750
+Department: Architecture
+Number of Units: 9
+Prerequisites: None
+Instructors: Diane Shaw
+Rooms: CFA 102
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-750 Histories of Urban Design>
+
+<start course description for 48-750 Histories of Urban Design>
+Semester: Fall 2023 (aka F23)
+Course Description: This architectural and urban design history course examines the cultural histories of the design and redesign of world cities. The scale of urban interventions we will look at varies greatly, from the macro-scale of designing totally new capitals to the micro-scale of altering small nodes within a city. We explore the relationship between form and culture by considering political, social, economic, and aesthetic forces that have shaped the public realm of urban as well as suburban spaces. We focus on recognizing and understanding the rationale behind the design, re-design, and use of culturally important urban spaces during their own time, making periodic forays into the issues that influence those spaces today.  Non-majors are welcome.
+</end course description for 48-750 Histories of Urban Design>

@@ -1,0 +1,16 @@
+<start course metadata for 21-120 Differential and Integral Calculus>
+Semester: Spring 2024 (aka S24)
+Course Name: Differential and Integral Calculus
+Course Number: 21-120
+Department: Mathematical Sciences
+Number of Units: 10
+Prerequisites: None
+Instructors: Lane Chun Yeung
+Rooms: POS 153
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-120 Differential and Integral Calculus>
+
+<start course description for 21-120 Differential and Integral Calculus>
+Semester: Spring 2024 (aka S24)
+Course Description: Functions, limits, derivatives, logarithmic, exponential, and trigonometric functions, inverse functions; L'Hospital's Rule, curve sketching, Mean Value Theorem, related rates, linear and quadratic approximations, maximum-minimum problems, inverse functions, definite and indefinite integrals, and hyperbolic functions; applications of integration, integration by substitution and by parts.  (Three 50 minute lectures, two 50 minute recitations)
+</end course description for 21-120 Differential and Integral Calculus>

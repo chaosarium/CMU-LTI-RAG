@@ -1,0 +1,16 @@
+<start course metadata for 69-136 Basketball Skills>
+Semester: Fall 2023 (aka F23)
+Course Name: Basketball Skills
+Course Number: 69-136
+Department: Physical Education
+Number of Units: 3
+Prerequisites: None
+Instructors: Jacquie Hullah, Megan Yawman, Sara Gauntner
+Rooms: CUC W GYM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 69-136 Basketball Skills>
+
+<start course description for 69-136 Basketball Skills>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is designed to familiarize the student with the rules of basketball and to develop the skills needed to become proficient for recreational play.
+</end course description for 69-136 Basketball Skills>

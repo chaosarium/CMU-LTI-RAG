@@ -1,0 +1,16 @@
+<start course metadata for 48-798 HVAC and Power Supply for Low-Carbon Buildings>
+Semester: Fall 2023 (aka F23)
+Course Name: HVAC and Power Supply for Low-Carbon Buildings
+Course Number: 48-798
+Department: Architecture
+Number of Units: N/A
+Prerequisites: None
+Instructors: Nina Baird
+Rooms: MM 415IW
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-798 HVAC and Power Supply for Low-Carbon Buildings>
+
+<start course description for 48-798 HVAC and Power Supply for Low-Carbon Buildings>
+Semester: Fall 2023 (aka F23)
+Course Description: HVAC and Power Supply for Low-Carbon Buildings is a new graduate course that focuses on heating, cooling, ventilation and power supply systems for new and future commercial buildings.  The course is designed for architecture and engineering students to introduce HVAC and power supply needs, and system choices likely to produce environmentally-effective and comfortable buildings.  It will engage students in consideration of sustainable choices for commercial buildings and how those choices may vary by building type and project location.  The course should also strengthen students' understanding of these systems to prepare for 48-722, Building Performance Modeling.  The class is lecture-based.  Weekly reading; homework based on readings and lecture; and a mid-term and final exam are required for the 9-unit option.  The 12-unit option includes an additional design project with technical report, with prior approval from the instructor.   Students who register must understand passive building design strategies that affect HVAC loads and know how to calculate, at a minimum, heat loss and heat gain for a single family home.   You are also expected to understand the fundamentals of power demand and supply for an individual building.   Students who successfully complete the class will understand how building loads, created in part by envelope design, affect HVAC and power supply choices.  They will be familiar with basic requirements for heating, cooling and ventilating a commercial building; how newer and emerging systems operate; and system options that are likely to support the creation of a comfortable, healthful, low carbon building.  Students will understand what types of energy are needed to operate different types of systems and the environmental impact of these choices.  They will also learn the basics of electrical and thermal energy supply and storage for one or more buildings.
+</end course description for 48-798 HVAC and Power Supply for Low-Carbon Buildings>

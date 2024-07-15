@@ -1,0 +1,16 @@
+<start course metadata for 24-231 Fluid Mechanics>
+Semester: Spring 2024 (aka S24)
+Course Name: Fluid Mechanics
+Course Number: 24-231
+Department: Mechanical Engineering
+Number of Units: 10
+Prerequisites: (33-141 or 33-106 or 33-151) and (21-122)
+Instructors: Noelia Grande Gutierrez, Shawn Litster
+Rooms: SH 105
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-231 Fluid Mechanics>
+
+<start course description for 24-231 Fluid Mechanics>
+Semester: Spring 2024 (aka S24)
+Course Description: Hydrostatics. Control volume concepts of mass, momentum, and energy conservation. Euler's and Bernoulli's equations. Viscous flow equations. Head loss in ducts and piping systems. Dimensional analysis and similitude as an engineering tool. Measurement techniques.  3 hrs. lec., 1 hr. rec.
+</end course description for 24-231 Fluid Mechanics>

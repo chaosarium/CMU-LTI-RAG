@@ -1,0 +1,16 @@
+<start course metadata for 36-901 Pre-Research Seminar>
+Semester: Spring 2024 (aka S24)
+Course Name: Pre-Research Seminar
+Course Number: 36-901
+Department: Statistics and Data Science
+Number of Units: 6
+Prerequisites: None
+Instructors: Larry Wasserman
+Rooms: BH 232M
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 36-901 Pre-Research Seminar>
+
+<start course description for 36-901 Pre-Research Seminar>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is for second year PhD students in statistics. The course involves reading recent papers on current topics with the aim of helping students develop research ideas.
+</end course description for 36-901 Pre-Research Seminar>

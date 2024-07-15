@@ -1,0 +1,16 @@
+<start course metadata for 21-671 Computational Linear Algebra>
+Semester: Fall 2023 (aka F23)
+Course Name: Computational Linear Algebra
+Course Number: 21-671
+Department: Mathematical Sciences
+Number of Units: 12
+Prerequisites: (21-241 or 21-240 or 21-242) and (21-259 or 21-268 or 21-269)
+Instructors: Jason Howell
+Rooms: WEH 8220
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-671 Computational Linear Algebra>
+
+<start course description for 21-671 Computational Linear Algebra>
+Semester: Fall 2023 (aka F23)
+Course Description: This is a survey of methods in computational linear algebra. Topics covered in this course focus around algorithms for solving (dense or large and sparse) linear systems. Regularization and underdetermined systems will be discussed in detail. Rather than assuming prior knowledge in numerical analysis or matrix theory, we will introduce standard methods or results when needed. In this way, much of the material is self-contained. Theoretical and experimental results will be covered accordingly, with an emphasis on cost, stability, and convergence.  (Three 50 minute lectures)
+</end course description for 21-671 Computational Linear Algebra>

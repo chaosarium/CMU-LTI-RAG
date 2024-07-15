@@ -1,0 +1,16 @@
+<start course metadata for 33-104 Experimental Physics>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Experimental Physics
+Course Number: 33-104
+Department: Physics
+Number of Units: 9
+Prerequisites: None
+Instructors: David Anderson
+Rooms: DH A331
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 33-104 Experimental Physics>
+
+<start course description for 33-104 Experimental Physics>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: This course provides first year students and sophomores with an introduction to the methods of experimental physics. Particular emphasis is placed on three aspects of experimentation: laboratory technique, including both the execution and the documentation of an experiment; data analysis, including the treatment of statistical and systematic errors and computer-aided analysis of experimental data; and written communication of experimental procedures and results. The concepts and skills for measurement and data analysis are acquired gradually through a series of experiments covering a range of topics from mechanics to nuclear and atomic physics.
+</end course description for 33-104 Experimental Physics>

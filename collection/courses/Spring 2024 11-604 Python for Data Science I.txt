@@ -1,0 +1,16 @@
+<start course metadata for 11-604 Python for Data Science I>
+Semester: Spring 2024 (aka S24)
+Course Name: Python for Data Science I
+Course Number: 11-604
+Department: Language Technologies Institute
+Number of Units: 6
+Prerequisites: None
+Instructors: Carolyn Rose
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 11-604 Python for Data Science I>
+
+<start course description for 11-604 Python for Data Science I>
+Semester: Spring 2024 (aka S24)
+Course Description: Students learn the concepts, techniques, skills, and tools needed for developing programs in Python. Core topics include types, variables, functions, iteration, conditionals, data structures, classes, objects, modules, and I/O operations. Students get an introductory experience with several development environments, including Jupyter Notebook, as well as selected software development practices, such as test-driven development, debugging, and style. Course projects include real-life applications on enterprise data and document manipulation, web scraping, and data analysis.
+</end course description for 11-604 Python for Data Science I>

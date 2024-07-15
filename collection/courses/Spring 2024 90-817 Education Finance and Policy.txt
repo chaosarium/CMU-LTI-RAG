@@ -1,0 +1,16 @@
+<start course metadata for 90-817 Education Finance and Policy>
+Semester: Spring 2024 (aka S24)
+Course Name: Education Finance and Policy
+Course Number: 90-817
+Department: Public Policy & Mgt:Sch of Pub Pol & Mgt
+Number of Units: 12
+Prerequisites: None
+Instructors: Robert Strauss
+Rooms: HBH 1208
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 90-817 Education Finance and Policy>
+
+<start course description for 90-817 Education Finance and Policy>
+Semester: Spring 2024 (aka S24)
+Course Description: The purpose of this Heinz course is to introduce professional master's students to the special problems of financing regional governments in a decentralized federal system with a special focus on public education. The course i] reviews theories of federalism from economic and constitutional perspectives, ii] reviews the evolution of the United States from a confederation to a federation, iii] examines financial and political problems associated with jointure, iv] reviews alternative rationales for public financing and provision of education (k-16), v] analyzes distressed school systems and municipal governments, vi] reviews the international evidence on estimated economic returns and distributional effects of k-16 public education and the use of cost-effectiveness and educational production functions, vii] school budgeting issues, viii] the school property tax, ix] intergovernmental relations and the design of school aid formulas, and x] the measurement and implications of student achievement. These issues are examined from positive and normative perspectives, and through the lens of economics and political economy.
+</end course description for 90-817 Education Finance and Policy>

@@ -1,0 +1,16 @@
+<start course metadata for 36-795 Independent Study>
+Semester: Spring 2024 (aka S24)
+Course Name: Independent Study
+Course Number: 36-795
+Department: Statistics and Data Science
+Number of Units: 12
+Prerequisites: None
+Instructors: Aaditya Ramdas, Alexander Reinhart, Alexandra Chouldechova, Amelia Haviland, Ann Lee, Arun Kuchibhotla, Chad Schafer, Christopher Genovese, Cosma Shalizi, Edward Kennedy, Eli Ben-Michael, Jiashun Jin, Jing Lei, Joel Greenhouse, Kathryn Roeder, Larry Wasserman, Matey Neykov, Mikael Kuusela, Nynke Niezink, Robert Kass, Robin Mejia, Sivaraman Balakrishnan, Valerie Ventura, Will Townes, Zachary Branson
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 36-795 Independent Study>
+
+<start course description for 36-795 Independent Study>
+Semester: Spring 2024 (aka S24)
+Course Description: None
+</end course description for 36-795 Independent Study>

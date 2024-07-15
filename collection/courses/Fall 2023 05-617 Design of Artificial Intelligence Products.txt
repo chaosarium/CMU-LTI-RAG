@@ -1,0 +1,16 @@
+<start course metadata for 05-617 Design of Artificial Intelligence Products>
+Semester: Fall 2023 (aka F23)
+Course Name: Design of Artificial Intelligence Products
+Course Number: 05-617
+Department: Human-Computer Interaction
+Number of Units: 12
+Prerequisites: None
+Instructors: Daniel Saffer, John Zimmerman, Nikolas Martelaro, Raelin Musuraca
+Rooms: 4SC 104
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 05-617 Design of Artificial Intelligence Products>
+
+<start course description for 05-617 Design of Artificial Intelligence Products>
+Semester: Fall 2023 (aka F23)
+Course Description: This course teaches students how to design new products and services that leverage the capabilities of AI and machine learning to improve the quality of people¿s lives. Students will learn to follow a matchmaking design, user-centered design, and service design process. They will learn to ideate; reframing problematic situations by envisioning many possible products and services. They will learn to iteratively refine and assess their ideas with real users/customers. Class projects will focus on the challenges of deploying systems that generate errors and the challenges of situating intelligent systems such that they harmonize the best qualities of human and machine intelligence.
+</end course description for 05-617 Design of Artificial Intelligence Products>

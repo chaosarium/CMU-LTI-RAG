@@ -1,0 +1,16 @@
+<start course metadata for 57-949 Multitrack Recording>
+Semester: Spring 2024 (aka S24)
+Course Name: Multitrack Recording
+Course Number: 57-949
+Department: Music
+Number of Units: 9
+Prerequisites: 57-967 or 57-947 or 57-651
+Instructors: Riccardo Schulz
+Rooms: CFA A6
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-949 Multitrack Recording>
+
+<start course description for 57-949 Multitrack Recording>
+Semester: Spring 2024 (aka S24)
+Course Description: This course builds upon the ideas learned in Sound Recording (57-947), but with an emphasis on close microphone techniques and popular music styles.  Students will work in small groups and complete at least two recording projects.  $10.00 materials fee.
+</end course description for 57-949 Multitrack Recording>

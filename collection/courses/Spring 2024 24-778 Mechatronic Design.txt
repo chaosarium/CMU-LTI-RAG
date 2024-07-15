@@ -1,0 +1,16 @@
+<start course metadata for 24-778 Mechatronic Design>
+Semester: Spring 2024 (aka S24)
+Course Name: Mechatronic Design
+Course Number: 24-778
+Department: Mechanical Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Cameron Riviere
+Rooms: SH 238
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-778 Mechatronic Design>
+
+<start course description for 24-778 Mechatronic Design>
+Semester: Spring 2024 (aka S24)
+Course Description: Mechatronics is the synergistic integration of mechanical mechanisms, electronics, and computer control to achieve a functional system. Because of the emphasis upon integration, this course will center around laboratory projects in which small teams of students will configure, design, and implement mechatronic systems. Lectures will complement the laboratory experience with operational principles and system design issues associated with the spectrum of mechanical, electrical, and microcontroller components. Class lectures will cover selected topics including mechatronic design methodologies, system modeling, mechanical components, sensor and I/O interfacing, motor control, and microcontroller basics.
+</end course description for 24-778 Mechatronic Design>

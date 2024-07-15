@@ -1,0 +1,6 @@
+publication venue: Conference of the European Chapter of the Association for Computational Linguistics
+title: Understanding Ethics in NLP Authoring and Reviewing
+authors: Luciana Benotti, Karën Fort, Min-Yen Kan, Yulia Tsvetkov
+year: 2023
+tldr: This tutorial will equip participants with basic guidelines for thinking deeply about ethical issues and review common considerations that recur in NLP research.
+abstract: With NLP research now quickly being transferred into real-world applications, it is important to be aware of and think through the consequences of our scientific investigation. Such ethical considerations are important in both authoring and reviewing. This tutorial will equip participants with basic guidelines for thinking deeply about ethical issues and review common considerations that recur in NLP research. The methodology is interactive and participatory, including case studies and working in groups. Importantly, the participants will be co-building the tutorial outcomes and will be working to create further tutorial materials to share as public outcomes.

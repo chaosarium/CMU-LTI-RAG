@@ -1,0 +1,16 @@
+<start course metadata for 90-435 Public Finance>
+Semester: Fall 2023 (aka F23)
+Course Name: Public Finance
+Course Number: 90-435
+Department: Public Policy & Mgt:Sch of Pub Pol & Mgt
+Number of Units: 12
+Prerequisites: None
+Instructors: Robert Strauss
+Rooms: HBH 2011
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 90-435 Public Finance>
+
+<start course description for 90-435 Public Finance>
+Semester: Fall 2023 (aka F23)
+Course Description: The purpose of Public Finance (90-736/90-435) is to provide an introduction to the theory and practice of how national, regional and local governments should and actually finance their budgets for operating and capital project purposes. To accomplish this, the course reviews: i] rationales for government intervention in the market place, ii] analyzes methods of resolving conflicts over the size of the public sector budget, iii] extensively analyzes the rationales and issues of various types of tax revenue, and iv] reviews the effects of public sector spending and taxes on the aggregate economy. Throughout, Public Finance emphasizes the interplay between how current revenue policy is fashioned, and how the models and their key assumptions along with political processes interact which result in changes in current law at the federal, state, and local levels. While the examples are largely drawn from the US, examples are also drawn from around the world. Because the subject matter of public spending and revenues can easily consume an entire academic year of study, Public Finance focuses mainly on the revenue side of the public budget. Two courses typically offered by Professor Strauss in the Spring build on Public Finance. Public Expenditure Analysis (90-774/90-474) deals with techniques for evaluating private and public expenditure and capital spending decisions. Education Finance and Policy (90-817) deals in-depth with issues surrounding multi-level government finance from US and international perspectives.  While Public Finance and Public Expenditure Analysis are self-contained, students who have had a semester of statistics and a semester of micro-economics at the principles or Advanced Placement levels will be more comfortable. For more information about Professor Strauss and this course, see respectively: www.andrew.cmu.edu/user/rs9f under Teaching for the current course outline.
+</end course description for 90-435 Public Finance>

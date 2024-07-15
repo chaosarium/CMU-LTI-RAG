@@ -1,0 +1,16 @@
+<start course metadata for 33-355 Nanoscience and Nanotechnology>
+Semester: Fall 2023 (aka F23)
+Course Name: Nanoscience and Nanotechnology
+Course Number: 33-355
+Department: Physics
+Number of Units: 9
+Prerequisites: 33-234 or 33-225
+Instructors: Benjamin Hunt, Randall Feenstra
+Rooms: PH A22
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 33-355 Nanoscience and Nanotechnology>
+
+<start course description for 33-355 Nanoscience and Nanotechnology>
+Semester: Fall 2023 (aka F23)
+Course Description: Offered alternative years. This course will explore the underlying science behind nanotechnology, the tools used to create and characterize nanostructures, and potential applications of such devices. Material will be presented on a level intended for upper-level science and engineering students. The course will start with a survey of physics at different length scales, and introduce the application of elementary quantum mechanics and solid-state physics to nanoscience and nanotechnology.  Characterization using electron microscopy, scanning probe methods, and spectroscopic techniques will then be described in detail. Fabrication using top-down and bottom-up methods will be discussed, contrasting these approaches and providing examples of each. Nanotechnology methods will be compared with those used in the modern microelectronics industry. Finally, examples of nanoscale components and systems will be described, which may include semiconductor heterostructures; nanotubes and graphene; single-electron transistors; nanoscale magnetic devices; photonic devices; nanofluidic devices; nano electrical-mechanical systems (NEMS); and superconducting devices. There will be time allocated to other topics, with the mutual agreement of the instructor and the class.  Stand-alone laboratory exercises will be included as an important element of the course. These will focus on the use of scanning probe methods to study the nm-scale structure and atomic forces involved in various nanostructures as well as micro-scale patterning using photolithography. In addition to the prerequisites, students should have taken a prior laboratory course in a science or engineering department and should have some familiarity with differential equations at an elementary level.
+</end course description for 33-355 Nanoscience and Nanotechnology>

@@ -1,0 +1,6 @@
+Name: Alon Lavie
+Title: Vice President of Language Technologies at Unbabel and Consulting Professor at the Language Technologies Institute
+Email alavie@cs.cmu.edu
+Phone: 
+Office: 
+Interests: Machine Translation, Natural Language Processing and Computational Linguistics

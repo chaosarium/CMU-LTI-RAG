@@ -1,0 +1,16 @@
+<start course metadata for 90-889 DC Fellowship>
+Semester: Spring 2024 (aka S24)
+Course Name: DC Fellowship
+Course Number: 90-889
+Department: Public Policy & Mgt:Sch of Pub Pol & Mgt
+Number of Units: 1
+Prerequisites: None
+Instructors: Marie Coleman
+Rooms: 
+Locations: Washington, District of Columbia
+</end course metadata for 90-889 DC Fellowship>
+
+<start course description for 90-889 DC Fellowship>
+Semester: Spring 2024 (aka S24)
+Course Description: No course description provided.
+</end course description for 90-889 DC Fellowship>

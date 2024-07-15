@@ -1,0 +1,16 @@
+<start course metadata for 24-221 Thermodynamics>
+Semester: Fall 2023 (aka F23)
+Course Name: Thermodynamics
+Course Number: 24-221
+Department: Mechanical Engineering
+Number of Units: 10
+Prerequisites: (33-141 or 33-151 or 33-121 or 33-106) and (21-122) and (24-101)
+Instructors: Satbir Singh
+Rooms: WEH 7500
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-221 Thermodynamics>
+
+<start course description for 24-221 Thermodynamics>
+Semester: Fall 2023 (aka F23)
+Course Description: Temperature and thermometry; equations of state for fluids and solids; work, heat, and the first law; internal energy, enthalpy, and specific heats; energy equations for flow; change of phase; the second law, reversibility, absolute temperature, and entropy; combined first and second laws; availability; power and refrigeration cycles. Applications to a wide range of processes and devices. 3 hrs. lec., 1 hour recitation
+</end course description for 24-221 Thermodynamics>

@@ -1,0 +1,16 @@
+<start course metadata for 27-577 Advanced Polymer Science and Engineering>
+Semester: Fall 2023 (aka F23)
+Course Name: Advanced Polymer Science and Engineering
+Course Number: 27-577
+Department: Materials Science & Engineering
+Number of Units: 9
+Prerequisites: 27-477
+Instructors: Michael Bockstaller
+Rooms: POS 146
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 27-577 Advanced Polymer Science and Engineering>
+
+<start course description for 27-577 Advanced Polymer Science and Engineering>
+Semester: Fall 2023 (aka F23)
+Course Description: This advanced-level course introduces the physical concepts necessary to understand the structure-processing-properties relationships of polymers in the solid state. Chain models fundamental to the description of polymers will be introduced. The structure of solid-state polymers will be discussed with focus on the amorphous, crystalline and liquid-crystalline state. The glass transition in amorphous polymers as well as the morphology and kinetics of crystal formation in semi-crystalline polymers will be discussed in detail. Mechanical properties of polymers will be discussed with emphasis of network elasticity and linear viscoelastic behavior. Models to describe nonlinear deformation will be introduced. Simplified and viscoelastic flow models as well as the solidification of polymers will be discussed and their relevance to polymer processing illustrated. Anisotropy development during processing and the application of symmetry concepts to deduce microstructure in processed parts will be discussed. A final section of the class will be dedicated to polymer blends. Basic concepts of lattice models will be introduced and applied to predict the phase behavior of polymer blends. Applications of polymer blends, including thermoplastic elastomers and rubber toughening will be discussed.
+</end course description for 27-577 Advanced Polymer Science and Engineering>

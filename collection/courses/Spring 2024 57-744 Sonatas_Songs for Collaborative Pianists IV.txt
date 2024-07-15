@@ -1,0 +1,16 @@
+<start course metadata for 57-744 Sonatas/Songs for Collaborative Pianists IV>
+Semester: Spring 2024 (aka S24)
+Course Name: Sonatas/Songs for Collaborative Pianists IV
+Course Number: 57-744
+Department: Music
+Number of Units: 3
+Prerequisites: 57-743
+Instructors: Luz Manriquez, Mark Carver, Rodrigo Ojeda, Sung-Im Kim
+Rooms: CFA ACH
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-744 Sonatas/Songs for Collaborative Pianists IV>
+
+<start course description for 57-744 Sonatas/Songs for Collaborative Pianists IV>
+Semester: Spring 2024 (aka S24)
+Course Description: This course will allow the collaborative pianist to work with singers and instrumentalists, coached by appropriate faculty. The course will culminate with a performance at the end of each semester.
+</end course description for 57-744 Sonatas/Songs for Collaborative Pianists IV>

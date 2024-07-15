@@ -1,0 +1,16 @@
+<start course metadata for 95-854 Machine Learning with TABLEAU>
+Semester: Spring 2024 (aka S24)
+Course Name: Machine Learning with TABLEAU
+Course Number: 95-854
+Department: Information Systems:Sch of IS & Mgt
+Number of Units: 6
+Prerequisites: None
+Instructors: Gabriela Gongora-Svartzman
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 95-854 Machine Learning with TABLEAU>
+
+<start course description for 95-854 Machine Learning with TABLEAU>
+Semester: Spring 2024 (aka S24)
+Course Description: The main purpose of this course is to provide students with a basic understanding of supervised and unsupervised machine learning models.   This course will face students with real examples and real-world data, as an increasing number of organizations nowadays collect data to support their decision-making process. Learning from data can enable us to better: evaluate sales decisions, make a medical diagnosis, monitor the reliability of IT systems, p market segmentation, improve the success of marketing campaigns, and much, much more.
+</end course description for 95-854 Machine Learning with TABLEAU>

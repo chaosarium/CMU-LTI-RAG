@@ -1,0 +1,16 @@
+<start course metadata for 54-396 Theatrical Lighting Management>
+Semester: Fall 2023 (aka F23)
+Course Name: Theatrical Lighting Management
+Course Number: 54-396
+Department: Drama
+Number of Units: 6
+Prerequisites: 54-368
+Instructors: C. Todd Brown
+Rooms: PCA A16
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-396 Theatrical Lighting Management>
+
+<start course description for 54-396 Theatrical Lighting Management>
+Semester: Fall 2023 (aka F23)
+Course Description: Theatrical Lighting Management continues the investigation of the role of the department head within a theatrical lighting department, concentrating on skills needed to perform the role within the School of Drama.
+</end course description for 54-396 Theatrical Lighting Management>

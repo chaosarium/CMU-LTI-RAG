@@ -1,0 +1,16 @@
+<start course metadata for 98-258 Student Taught Courses (StuCo): Introduction to Competitive Pokemon>
+Semester: Spring 2024 (aka S24)
+Course Name: Student Taught Courses (StuCo): Introduction to Competitive Pokemon
+Course Number: 98-258
+Department: StuCo (Student Led Courses)
+Number of Units: 3
+Prerequisites: None
+Instructors: Richard Sbaschnig, Ryan Kim
+Rooms: DH 1211
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 98-258 Student Taught Courses (StuCo): Introduction to Competitive Pokemon>
+
+<start course description for 98-258 Student Taught Courses (StuCo): Introduction to Competitive Pokemon>
+Semester: Spring 2024 (aka S24)
+Course Description: Do you want to be the very best, like no one ever was? Pounding the Elite Four into dust with your level 100 team is one thing, but defeating a human trainer on equal footing is another. Competitive Pokémon involves strategy, teambuilding, predictions, and a thorough understanding of battle mechanics, all under a rainbow of different battle formats, each with their own set of rules and playstyles. This course will introduce basic mechanics, teambuilding principles, and strategy, as well as the most popular competitive formats such as VGC, Smogon singles, across the many generations of Pokémon's existence. No competitive experience required, but experienced players may also learn something new! All teambuilding and battling will be done through the free online simulator Pokémon Showdown.
+</end course description for 98-258 Student Taught Courses (StuCo): Introduction to Competitive Pokemon>

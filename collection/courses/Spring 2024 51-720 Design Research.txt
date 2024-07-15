@@ -1,0 +1,16 @@
+<start course metadata for 51-720 Design Research>
+Semester: Spring 2024 (aka S24)
+Course Name: Design Research
+Course Number: 51-720
+Department: Design
+Number of Units: N/A
+Prerequisites: None
+Instructors: Jonathan Chapman
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-720 Design Research>
+
+<start course description for 51-720 Design Research>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is for faculty-approved research in the Design Masters and Doctoral programs.
+</end course description for 51-720 Design Research>

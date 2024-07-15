@@ -1,0 +1,16 @@
+<start course metadata for 76-858 Sociology of Literature & Culture>
+Semester: Spring 2024 (aka S24)
+Course Name: Sociology of Literature & Culture
+Course Number: 76-858
+Department: English
+Number of Units: 12
+Prerequisites: None
+Instructors: Jon Klancher
+Rooms: BH 255B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 76-858 Sociology of Literature & Culture>
+
+<start course description for 76-858 Sociology of Literature & Culture>
+Semester: Spring 2024 (aka S24)
+Course Description: This course introduces you to the sociology of literary and cultural media, emphasizing how texts arise within "the field of cultural production" and its dynamics. We will first read in the classical social theory of Max Weber, Emile Durkheim, and Karl Marx, then move to late 20th and early 21st century sociological thinking about literature by Raymond Williams, Pierre Bourdieu, Bruno Latour, Sara Ahmed and others. Key topics will include the problem of social conditioning and "habitus"; the structure of the literary and media fields; the question of "affect" and emotion¿a topic not usually considered sociological¿in the writing of Ahmed, Williams, and others; the politics of social networks in Latour and other network theorists who have been aiming to redefine what the "social" means. Literary writers to be read alongside these theorists will include William Blake, the Shelleys, Herman Melville, William Morris, Bertolt Brecht, and Toni Morrison. The last two weeks of the course will be devoted to students' presentation of their research. Two papers and several in-class presentations will be required.
+</end course description for 76-858 Sociology of Literature & Culture>

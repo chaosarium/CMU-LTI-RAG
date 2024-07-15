@@ -1,0 +1,16 @@
+<start course metadata for 18-771 Linear Systems>
+Semester: Fall 2023 (aka F23)
+Course Name: Linear Systems
+Course Number: 18-771
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: 18-474 or 18-370
+Instructors: Soummya Kar
+Rooms: PH A18A; POS 151
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-771 Linear Systems>
+
+<start course description for 18-771 Linear Systems>
+Semester: Fall 2023 (aka F23)
+Course Description: A modern approach to the analysis and engineering applications of linear systems. Modeling and linearization of multi-input-- multi-output dynamic physical systems. State-variable and transfer function matrices. Emphasis on linear and matrix algebra. Numerical matrix algebra and computational issues in solving systems of linear algebraic equations, singular value decomposition, eigenvalue-eigenvector and least-squares problems. Analytical and numerical solutions of systems of differential and difference equations. Structural properties of linear dynamic physical systems, including controllability, observability and stability. Canonical realizations, linear state-variable feedback controller and asymptotic observer design. Design and computer applications to electronic circuits, control engineering, dynamics and signal processing. 4 hrs. lec.     Pre-Reqs:  18-470 or 18-474 and Graduate standing in CIT or MCS.
+</end course description for 18-771 Linear Systems>

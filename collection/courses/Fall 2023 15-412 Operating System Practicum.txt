@@ -1,0 +1,16 @@
+<start course metadata for 15-412 Operating System Practicum>
+Semester: Fall 2023 (aka F23)
+Course Name: Operating System Practicum
+Course Number: 15-412
+Department: Computer Science
+Number of Units: N/A
+Prerequisites: 15-410
+Instructors: David Eckhardt
+Rooms: WEH 5207
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-412 Operating System Practicum>
+
+<start course description for 15-412 Operating System Practicum>
+Semester: Fall 2023 (aka F23)
+Course Description: The goal of this class is for students to acquire hands-on experience with operating-system code as it is developed and deployed in the real world.  Groups of two to four students will select, build, install, and become familiar with an open-source operating system project; propose a significant extension or upgrade to that project; and develop a production-quality implementation meeting the coding standards of that project.  Unless infeasible, the results will be submitted to the project for inclusion in the code base.  Variations on this theme are possible at the discretion of the instructor.  For example, it may be possible to work within the context of a non-operating-system software infrastructure project (window system, web server, or embedded network device kernel) or to extend a 15-410 student kernel.  In some situations students may work alone.  Group membership and unit count (9 units versus 12) will be decided by the third week of the semester.  Contributing to a real-world project will involve engaging in some mixture of messy, potentially open-ended activities such as: learning a revision control system, writing a short design document, creating and updating a simple project plan, participating in an informal code review, synthesizing scattered information about hardware and software, classifying and/or reading large amounts of code written by various people over a long period of time, etc.
+</end course description for 15-412 Operating System Practicum>

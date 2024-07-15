@@ -1,0 +1,16 @@
+<start course metadata for 54-489 Dramaturgy: Internship>
+Semester: Spring 2024 (aka S24)
+Course Name: Dramaturgy: Internship
+Course Number: 54-489
+Department: Drama
+Number of Units: 9
+Prerequisites: None
+Instructors: W. Arons
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-489 Dramaturgy: Internship>
+
+<start course description for 54-489 Dramaturgy: Internship>
+Semester: Spring 2024 (aka S24)
+Course Description: Professional internship with a dramaturg at a LORT or similarly-ranked theatre in the US or abroad.
+</end course description for 54-489 Dramaturgy: Internship>

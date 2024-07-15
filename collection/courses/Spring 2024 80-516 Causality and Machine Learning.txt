@@ -1,0 +1,16 @@
+<start course metadata for 80-516 Causality and Machine Learning>
+Semester: Spring 2024 (aka S24)
+Course Name: Causality and Machine Learning
+Course Number: 80-516
+Department: Philosophy
+Number of Units: 9
+Prerequisites: None
+Instructors: Peter Spirtes
+Rooms: BH 255A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 80-516 Causality and Machine Learning>
+
+<start course description for 80-516 Causality and Machine Learning>
+Semester: Spring 2024 (aka S24)
+Course Description: In the past decades, interesting advances were made in machine learning, philosophy, and statistics for tackling long-standing causality problems, including how to discover causal knowledge from observational data, known as causal discovery, and how to infer the effect of interventions. A number of researchers have been recognized with the Turing Award (to Pearl in 2012) the Nobel Prize (to Granger in 2003 and to Sims in 2011). Furthermore, it has recently been shown that the causal view may facilitate understanding and solving various machine learning or artificial intelligence problems such as transfer learning, semi-supervised learning, disentanglement, and adversarial vulnerability.   This course is concerned with understanding causality, learning causality from observational data, and using causality to tackle a class of learning problems. We will particularly focus on two key problems in causality. One is causal discovery. It is well known that "correlation does not imply causality," but we will make this statement more precise by asking what assumptions, what information in the data, and what procedures enable us to successfully recover causal information. Causal influences may take place between the underlying hidden variables, and what we measure may be their reflections; so we will also see how to find the underlying hidden "causal" variables as well as their causal relations by analyzing measured variables. Its implication in unsupervised deep learning will be discussed. The other is how to properly make use of causal information. This includes identification of causal effects, counterfactual reasoning, improving machine learning in light of causal knowledge, and forecasting in complex environments, and we will investigate how the causal perspective helps in domain adaptation, image-to-image translation, and deep reinforcement learning.
+</end course description for 80-516 Causality and Machine Learning>

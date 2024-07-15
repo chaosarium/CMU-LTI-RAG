@@ -1,0 +1,16 @@
+<start course metadata for 16-376 IDeATe: Kinetic Fabrics>
+Semester: Spring 2024 (aka S24)
+Course Name: IDeATe: Kinetic Fabrics
+Course Number: 16-376
+Department: Robotics
+Number of Units: 10
+Prerequisites: None
+Instructors: Garth Zeglin
+Rooms: HL A10
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 16-376 IDeATe: Kinetic Fabrics>
+
+<start course description for 16-376 IDeATe: Kinetic Fabrics>
+Semester: Spring 2024 (aka S24)
+Course Description: Kinetic Fabrics brings together the fields of robotics and textiles to explore their unified creative and expressive potential. It is a wide-open frontier for kinetic art, wearable art, and architectural installation. In this course students will build a variety of performative systems combining fabrics and robotic technologies. Students will apply modular actuation and sensing to textile artworks, using software designed to facilitate fluid explorations, rapid iterations, and playful experimentation. Students will learn basic textile skills, such as hand and machine sewing, as well as gain facility and familiarity with the characteristics of multiple type of fabrics.  Historical precedents as well as contemporary examples of works will support students creative growth and knowledge of the field. Students' course work will include short-term and long-term projects, sampling and prototyping, critique, and documentation. Additionally, students will organize an end-of-semester event where they will perform a developed kinetic fabric work for a public audience.
+</end course description for 16-376 IDeATe: Kinetic Fabrics>

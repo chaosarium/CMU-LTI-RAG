@@ -1,0 +1,16 @@
+<start course metadata for 46-701 Business Management(MSIN)>
+Semester: Fall 2023 (aka F23)
+Course Name: Business Management(MSIN)
+Course Number: 46-701
+Department: Business Administration
+Number of Units: 3
+Prerequisites: None
+Instructors: David Lamont, Instructor TBA
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 46-701 Business Management(MSIN)>
+
+<start course description for 46-701 Business Management(MSIN)>
+Semester: Fall 2023 (aka F23)
+Course Description: None
+</end course description for 46-701 Business Management(MSIN)>

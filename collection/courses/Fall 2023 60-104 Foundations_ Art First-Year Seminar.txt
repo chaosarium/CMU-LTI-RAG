@@ -1,0 +1,16 @@
+<start course metadata for 60-104 Foundations: Art First-Year Seminar>
+Semester: Fall 2023 (aka F23)
+Course Name: Foundations: Art First-Year Seminar
+Course Number: 60-104
+Department: Art
+Number of Units: 6
+Prerequisites: None
+Instructors: Imin Yeh
+Rooms: DH B309
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 60-104 Foundations: Art First-Year Seminar>
+
+<start course description for 60-104 Foundations: Art First-Year Seminar>
+Semester: Fall 2023 (aka F23)
+Course Description: Foundations: First-Year Seminar is a critical aspect of beginning your experience as a School of Art Student. This course introduces you to the school's many  facilities, equipment, opportunities, staff, and faculty that will be essential resources for you throughout your four years at CMU School of Art. You  will build community with your entire first year cohort, both BFA and BXA students, as you share 24 hour access to the Foundations Studio, a multi-use shared studio space that will support your studio coursework during your first year. Through lectures and panel discussions, you will explore various methods of artistic research and forms of making that support today's creative citizens.  Through hands-on demonstrations, you will learn technical skills and gain access to equipment that will prepare you for academic and artistic success at CMU and beyond.
+</end course description for 60-104 Foundations: Art First-Year Seminar>

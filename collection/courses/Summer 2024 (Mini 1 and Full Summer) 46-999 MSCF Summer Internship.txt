@@ -1,0 +1,16 @@
+<start course metadata for 46-999 MSCF Summer Internship>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: MSCF Summer Internship
+Course Number: 46-999
+Department: Business Administration
+Number of Units: 3
+Prerequisites: None
+Instructors: Lefterije Paljevic, Robert Simon
+Rooms: DNM DNM
+Locations: New York, New York
+</end course metadata for 46-999 MSCF Summer Internship>
+
+<start course description for 46-999 MSCF Summer Internship>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: The course provides students the opportunity to put the skills they have learned in the MSCF program into practical application in the financial services industry.
+</end course description for 46-999 MSCF Summer Internship>

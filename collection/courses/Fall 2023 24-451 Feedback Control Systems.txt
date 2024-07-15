@@ -1,0 +1,16 @@
+<start course metadata for 24-451 Feedback Control Systems>
+Semester: Fall 2023 (aka F23)
+Course Name: Feedback Control Systems
+Course Number: 24-451
+Department: Mechanical Engineering
+Number of Units: 12
+Prerequisites: (15-110 or 15-112) and (24-352)
+Instructors: Sameer Shroff
+Rooms: PH A18C
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-451 Feedback Control Systems>
+
+<start course description for 24-451 Feedback Control Systems>
+Semester: Fall 2023 (aka F23)
+Course Description: Fundamentals of feedback control with emphasis on classical techniques and an introduction to discrete-time (computer controlled) systems. Topics include the following: frequency domain modeling and state space modeling of dynamical systems; feedback control system concepts and components; control system performance specifications such as stability, transient response, and steady state error; analytical and graphical methods for analysis and design - root locus, Bode plot, Nyquist criterion; design and implementation of proportional, proportional-derivative, proportional-integral-derivative, lead, lag, and lead-lag controllers. Extensive use of computer aided analysis and design software.  4 hrs lec.
+</end course description for 24-451 Feedback Control Systems>

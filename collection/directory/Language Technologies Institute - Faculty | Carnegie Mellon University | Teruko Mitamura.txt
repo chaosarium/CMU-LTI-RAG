@@ -1,0 +1,6 @@
+Name: Teruko Mitamura
+Title: Research Professor
+Email teruko@cs.cmu.edu
+Phone: 412-268-6596
+Office: 6711 Gates & Hillman Centers
+Interests: Information Extraction, Summarization and Question Answering, Information Retrieval, Text Mining and Analytics, Language Technologies for Education, Natural Language Processing and Computational Linguistics

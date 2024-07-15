@@ -1,0 +1,16 @@
+<start course metadata for 95-914 Independent Study>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Independent Study
+Course Number: 95-914
+Department: Information Systems:Sch of IS & Mgt
+Number of Units: N/A
+Prerequisites: None
+Instructors: Instructor TBA
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 95-914 Independent Study>
+
+<start course description for 95-914 Independent Study>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: None
+</end course description for 95-914 Independent Study>

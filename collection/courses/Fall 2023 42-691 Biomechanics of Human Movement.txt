@@ -1,0 +1,16 @@
+<start course metadata for 42-691 Biomechanics of Human Movement>
+Semester: Fall 2023 (aka F23)
+Course Name: Biomechanics of Human Movement
+Course Number: 42-691
+Department: Biomedical Engineering
+Number of Units: 12
+Prerequisites: 21-260 and 24-351
+Instructors: Eni Halilaj
+Rooms: GHC 4301
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 42-691 Biomechanics of Human Movement>
+
+<start course description for 42-691 Biomechanics of Human Movement>
+Semester: Fall 2023 (aka F23)
+Course Description: This course provides an overview of the mechanical principles underlying human movement biomechanics and the experimental and modeling techniques used to study it. Specific topics will include locomotion, motion capture systems, force plates, muscle mechanics, musculoskeletal modeling, three dimensional kinematics, inverse dynamics, forward dynamic simulations, and imaging-based biomechanics. Homework and final class projects will emphasize applications of movement biomechanics in orthopedics, rehabilitation, and sports.
+</end course description for 42-691 Biomechanics of Human Movement>

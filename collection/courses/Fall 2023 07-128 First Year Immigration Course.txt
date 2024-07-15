@@ -1,0 +1,16 @@
+<start course metadata for 07-128 First Year Immigration Course>
+Semester: Fall 2023 (aka F23)
+Course Name: First Year Immigration Course
+Course Number: 07-128
+Department: SCS Interdisciplinary
+Number of Units: 3
+Prerequisites: None
+Instructors: Thomas Cortina, Veronica Peet
+Rooms: GHC 4401
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 07-128 First Year Immigration Course>
+
+<start course description for 07-128 First Year Immigration Course>
+Semester: Fall 2023 (aka F23)
+Course Description: The First Year Immigration Course is taken by first-semester School of Computer Science students on the Pittsburgh campus. The course is designed to acquaint incoming students with computer science at CMU. Talks range from historical perspectives in the field to descriptions of the cutting edge research being conducted in the School of Computer Science. Enrollment is limited to SCS First Year students ONLY.
+</end course description for 07-128 First Year Immigration Course>

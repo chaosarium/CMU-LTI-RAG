@@ -1,0 +1,16 @@
+<start course metadata for 82-211 Intermediate Arabic I>
+Semester: Fall 2023 (aka F23)
+Course Name: Intermediate Arabic I
+Course Number: 82-211
+Department: Modern Languages
+Number of Units: 12
+Prerequisites: 82-112
+Instructors: Nevine Abraham
+Rooms: POS 235
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 82-211 Intermediate Arabic I>
+
+<start course description for 82-211 Intermediate Arabic I>
+Semester: Fall 2023 (aka F23)
+Course Description: This course builds on Elementary Arabic II to continue building students' communicative competence at the Intermediate Low-Mid level in Modern Standard Arabic in all four language skills (listening, reading, speaking, and writing) following a proficiency-oriented teaching approach. The course also continues to 1) integrate a spoken dialect to enrich students' background in oral communication; and 2) educate students about to various aspects of Arab culture through written and audio-visual materials.
+</end course description for 82-211 Intermediate Arabic I>

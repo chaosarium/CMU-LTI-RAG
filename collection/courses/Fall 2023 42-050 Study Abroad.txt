@@ -1,0 +1,16 @@
+<start course metadata for 42-050 Study Abroad>
+Semester: Fall 2023 (aka F23)
+Course Name: Study Abroad
+Course Number: 42-050
+Department: Biomedical Engineering
+Number of Units: 0
+Prerequisites: None
+Instructors: Patjanaporn Chalacheva
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 42-050 Study Abroad>
+
+<start course description for 42-050 Study Abroad>
+Semester: Fall 2023 (aka F23)
+Course Description: None
+</end course description for 42-050 Study Abroad>

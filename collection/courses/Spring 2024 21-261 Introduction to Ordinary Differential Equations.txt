@@ -1,0 +1,16 @@
+<start course metadata for 21-261 Introduction to Ordinary Differential Equations>
+Semester: Spring 2024 (aka S24)
+Course Name: Introduction to Ordinary Differential Equations
+Course Number: 21-261
+Department: Mathematical Sciences
+Number of Units: 10
+Prerequisites: 21-122
+Instructors: Konstantin Tikhomirov
+Rooms: BH 235A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-261 Introduction to Ordinary Differential Equations>
+
+<start course description for 21-261 Introduction to Ordinary Differential Equations>
+Semester: Spring 2024 (aka S24)
+Course Description: A first course in ordinary differential equations intended primarily for math majors and for those students interested in a more conceptual treatment of the subject. One of the goals of this course is to prepare students for upper level courses on differential equations, mathematical analysis and applied mathematics. Students will be required to write rigorous arguments. Topics to be covered: Ordinary differential equations: first and second order equations, applications, Laplace transform, systems of linear ordinary differential equations; systems of nonlinear ordinary differential equations, equilibria and stability, applications.  Corequisites:  (21-268 or 21-269 or 21-259) and (21-241 or 21-242). (Three 50 minute lectures, one 50 minute recitation)
+</end course description for 21-261 Introduction to Ordinary Differential Equations>

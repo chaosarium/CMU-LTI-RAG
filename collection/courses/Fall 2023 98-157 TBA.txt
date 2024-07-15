@@ -1,0 +1,16 @@
+<start course metadata for 98-157 TBA>
+Semester: Fall 2023 (aka F23)
+Course Name: TBA
+Course Number: 98-157
+Department: StuCo (Student Led Courses)
+Number of Units: 3
+Prerequisites: None
+Instructors: Stephanie Mao
+Rooms: BH 237B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 98-157 TBA>
+
+<start course description for 98-157 TBA>
+Semester: Fall 2023 (aka F23)
+Course Description: Students will be introduced to artists such as Frank Ocean and Lady Gaga as well as subcategories such as shoegaze and new wave. Each week will comprise different genres and specific artists. These genres and artists will be delved into through their history, discography, and how they continue to influence certain forms of society.
+</end course description for 98-157 TBA>

@@ -1,0 +1,16 @@
+<start course metadata for 12-993 Reading and Research in Civil and Environmental Engineering>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Reading and Research in Civil and Environmental Engineering
+Course Number: 12-993
+Department: Civil & Environmental Engineering
+Number of Units: N/A
+Prerequisites: None
+Instructors: Instructor TBA
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 12-993 Reading and Research in Civil and Environmental Engineering>
+
+<start course description for 12-993 Reading and Research in Civil and Environmental Engineering>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: This reading and research course is designed for CEE research assistants (PhD and MS RAs) to reflect activity related to their research during the Summer semester.
+</end course description for 12-993 Reading and Research in Civil and Environmental Engineering>

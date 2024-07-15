@@ -1,0 +1,16 @@
+<start course metadata for 57-273 Piano Pedagogy I>
+Semester: Fall 2023 (aka F23)
+Course Name: Piano Pedagogy I
+Course Number: 57-273
+Department: Music
+Number of Units: 6
+Prerequisites: None
+Instructors: Luz Manriquez
+Rooms: CFA M157
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-273 Piano Pedagogy I>
+
+<start course description for 57-273 Piano Pedagogy I>
+Semester: Fall 2023 (aka F23)
+Course Description: This course offers an historical overview of piano pedagogy including its significant developments over the past forty years. Topics covered include beginning piano techniques, the sequencing of concepts and materials, common problems among beginning pianists, practicing, motivation, and parental involvement. Current representative beginning piano methods will be surveyed.
+</end course description for 57-273 Piano Pedagogy I>

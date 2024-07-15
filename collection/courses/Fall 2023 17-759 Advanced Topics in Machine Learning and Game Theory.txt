@@ -1,0 +1,16 @@
+<start course metadata for 17-759 Advanced Topics in Machine Learning and Game Theory>
+Semester: Fall 2023 (aka F23)
+Course Name: Advanced Topics in Machine Learning and Game Theory
+Course Number: 17-759
+Department: Software & Societal Systems
+Number of Units: 12
+Prerequisites: None
+Instructors: Fei Fang
+Rooms: WEH 4708
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 17-759 Advanced Topics in Machine Learning and Game Theory>
+
+<start course description for 17-759 Advanced Topics in Machine Learning and Game Theory>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is designed to be a graduate-level course covering the topics at the intersection of machine learning and game theory. Recent years have witnessed significant advances in machine learning and their successes in detection, prediction, and decision-making problems. However, in many application domains, ranging from auction and ads bidding, to entertainment games such as Go and Poker, to autonomous driving and traffic routing, to the intelligent warehouse, to home assistants and the Internet of Things, there is more than one agent interacting with each other. Game theory provides a framework for analyzing the strategic interaction between multiple agents and can complement machine learning when dealing with challenges in these domains. Therefore, in the course, we will introduce how to integrate machine learning and game theory to tackle challenges in multi-agent systems. The course will multiple topics as listed below
+</end course description for 17-759 Advanced Topics in Machine Learning and Game Theory>

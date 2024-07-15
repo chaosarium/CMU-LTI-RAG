@@ -1,0 +1,16 @@
+<start course metadata for 18-721 Advanced Analog Integrated Circuits Design>
+Semester: Spring 2024 (aka S24)
+Course Name: Advanced Analog Integrated Circuits Design
+Course Number: 18-721
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: 18-623 or 18-421
+Instructors: Rick Carley
+Rooms: DH 2122
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-721 Advanced Analog Integrated Circuits Design>
+
+<start course description for 18-721 Advanced Analog Integrated Circuits Design>
+Semester: Spring 2024 (aka S24)
+Course Description: This course will familiarize students with advanced analog integrated circuit design issues. Analog circuit design issues play an important role in creating modern ICs.  First and foremost, analog circuits act as the interface between digital systems and the real world. They act to amplify and filter analog signals, and to convert signals from analog to digital and back again.  These analog interfaces appear in all communications devices (e.g., cell phones)   both to condition the "transmitted" signal and as sensitive "receivers."  In addition, these analog interfaces appear in sensors (e.g., accelerometer). The goal of this course is to familiarize students with some of the advanced analog circuit design ideas that are involved in these tasks.  Specific topics will include analog filtering (continuous-time and discrete-time), sample-and-hold amplifiers, analog-to-digital converters, digital-to-analog converters.    Prerequisites: 18-623 (was 18-523 before Fall 2005) and senior or graduate standing.
+</end course description for 18-721 Advanced Analog Integrated Circuits Design>

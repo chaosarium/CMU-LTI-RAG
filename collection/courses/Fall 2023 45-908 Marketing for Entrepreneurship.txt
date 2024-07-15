@@ -1,0 +1,16 @@
+<start course metadata for 45-908 Marketing for Entrepreneurship>
+Semester: Fall 2023 (aka F23)
+Course Name: Marketing for Entrepreneurship
+Course Number: 45-908
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: David Mawhinney, Robert Blattberg
+Rooms: TEP 2112
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-908 Marketing for Entrepreneurship>
+
+<start course description for 45-908 Marketing for Entrepreneurship>
+Semester: Fall 2023 (aka F23)
+Course Description: The purpose of this course is to apply basic marketing principles to start-up and early-stage businesses.  The differences between marketing for start-up and early-stage entrepreneurial firms and traditional large businesses are:  1) no or limited marketing budgets to fund activities such as consumer and marketing research and advertising/marketing communications; and 2) lack of readily available historical data to analyze in order to determine marketing tactics and strategies.  The constrained start-up and early-stage firm must learn how to design marketing approaches that will allow it to market within a highly constrained financial environment.
+</end course description for 45-908 Marketing for Entrepreneurship>

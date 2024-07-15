@@ -1,0 +1,16 @@
+<start course metadata for 66-101 Dietrich Introductory Seminar: College & University Success Strategies>
+Semester: Fall 2023 (aka F23)
+Course Name: Dietrich Introductory Seminar: College & University Success Strategies
+Course Number: 66-101
+Department: Dietrich College Interdisciplinary
+Number of Units: 3
+Prerequisites: None
+Instructors: Ashley Christopherson, Instructor TBA
+Rooms: WEH 4709; WEH 5312
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 66-101 Dietrich Introductory Seminar: College & University Success Strategies>
+
+<start course description for 66-101 Dietrich Introductory Seminar: College & University Success Strategies>
+Semester: Fall 2023 (aka F23)
+Course Description: This interactive course is designed to help new students transition successfully to academic and student life in the Dietrich College at Carnegie Mellon. Students will explore campus resources and opportunities; their skills, identity, interests, and goals; and strategies for personal and academic success to help them make the most of their Dietrich experience. This course is intended to be taken by first year students in their first semester at Carnegie Mellon.
+</end course description for 66-101 Dietrich Introductory Seminar: College & University Success Strategies>

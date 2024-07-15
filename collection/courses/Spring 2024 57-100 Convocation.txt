@@ -1,0 +1,16 @@
+<start course metadata for 57-100 Convocation>
+Semester: Spring 2024 (aka S24)
+Course Name: Convocation
+Course Number: 57-100
+Department: Music
+Number of Units: 1
+Prerequisites: None
+Instructors: Kenneth Keeling, Sharon Johnston
+Rooms: CFA KRESGE
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-100 Convocation>
+
+<start course description for 57-100 Convocation>
+Semester: Spring 2024 (aka S24)
+Course Description: A weekly meeting for all music students that features lectures, concerts, and other presentations related to professional development.
+</end course description for 57-100 Convocation>

@@ -1,0 +1,16 @@
+<start course metadata for 09-524 Environmental Chemistry>
+Semester: Spring 2024 (aka S24)
+Course Name: Environmental Chemistry
+Course Number: 09-524
+Department: Chemistry
+Number of Units: 9
+Prerequisites: 09-217 or 09-219
+Instructors: Ryan Sullivan
+Rooms: DH 1209
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 09-524 Environmental Chemistry>
+
+<start course description for 09-524 Environmental Chemistry>
+Semester: Spring 2024 (aka S24)
+Course Description: Environmental pollutants are common consequences of human activities. These chemicals have a wide range of deleterious effects on the environment and people. This course will introduce students to a range of major environmental pollutants, with a particular focus on persistent organic pollutants. We will use chemical principles including thermodynamics, kinetics, photochemistry, organic reaction mechanisms, and structure-activity relationships to understand the environmental fate of major classes of pollutants. The transport of chemicals through the environment and their partitioning between air, water, soil, and people will be described. The major environmental reaction pathways (oxidation, photolysis, hydrolysis, reduction, metabolism) of common pollutants will be explored. This will provide students with the necessary knowledge to predict the chemical fate of environmental pollutants, and improve their understanding of the environmental impacts of their everyday chemical use and exposure. Specific topics include water quality, photochemical smog, organic aerosols, atmospheric chemistry and global climate change, toxicity of pesticides, and heterogeneous and multiphase atmospheric chemistry. The 12-unit course is intended for graduate students that want to explore aspects of the course more deeply. This includes additional requirements including a final term paper and in-class presentation, and additional advanced questions on the homework assignments.
+</end course description for 09-524 Environmental Chemistry>

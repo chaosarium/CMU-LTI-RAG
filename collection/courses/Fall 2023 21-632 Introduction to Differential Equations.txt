@@ -1,0 +1,16 @@
+<start course metadata for 21-632 Introduction to Differential Equations>
+Semester: Fall 2023 (aka F23)
+Course Name: Introduction to Differential Equations
+Course Number: 21-632
+Department: Mathematical Sciences
+Number of Units: 12
+Prerequisites: (21-356 or 21-236 or 21-456) and (21-373 or 21-237)
+Instructors: Robin Neumayer
+Rooms: WEH 7218
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-632 Introduction to Differential Equations>
+
+<start course description for 21-632 Introduction to Differential Equations>
+Semester: Fall 2023 (aka F23)
+Course Description: This course serves as a broad introduction to Ordinary and Partial Differential Equations for beginning graduate students and advanced undergraduate students in mathematics, engineering, and the applied sciences. Mathematical sophistication in real analysis at the level of 21-355/356 is assumed.  Topics include: essentials of Ordinary Differential Equations, origins of Partial Differential Equations, the study of model problems including the Poisson and Laplace equations, the heat equation, the transport equation, and the wave equation.  (Three 50 minute lectures)
+</end course description for 21-632 Introduction to Differential Equations>

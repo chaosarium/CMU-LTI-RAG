@@ -1,0 +1,16 @@
+<start course metadata for 73-366 Designing the Digital Economy>
+Semester: Spring 2024 (aka S24)
+Course Name: Designing the Digital Economy
+Course Number: 73-366
+Department: Economics
+Number of Units: 9
+Prerequisites: (21-259 or 21-269 or 21-268 or 21-256) and (73-230) and (36-202 or 36-208 or 36-220 or 36-226 or 70-208 or 73-265 or 73-274 or 73-374 or 73-407)
+Instructors: Maryam Saeedi
+Rooms: TEP 2702
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 73-366 Designing the Digital Economy>
+
+<start course description for 73-366 Designing the Digital Economy>
+Semester: Spring 2024 (aka S24)
+Course Description: This class analyzes the economics of e-commerce and technology. It will identify the critical features that differentiate the technology firms from traditional industries, and examine the implications for business strategy. The class will discuss topics such as network effects, switching costs, and platform markets. To complement the economic theory, we will also consider a case study of a firm each week. These have three aims: to provide applications for the concepts developed in the lectures; to inform you about different industries; and to help develop your written, rhetorical and presentation skills.  Minimum grade of "C" required in all economics pre-requisite courses.
+</end course description for 73-366 Designing the Digital Economy>

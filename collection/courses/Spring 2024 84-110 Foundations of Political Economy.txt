@@ -1,0 +1,16 @@
+<start course metadata for 84-110 Foundations of Political Economy>
+Semester: Spring 2024 (aka S24)
+Course Name: Foundations of Political Economy
+Course Number: 84-110
+Department: Institute for Politics and Strategy
+Number of Units: 9
+Prerequisites: None
+Instructors: Josh Counselman
+Rooms: POS 145
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 84-110 Foundations of Political Economy>
+
+<start course description for 84-110 Foundations of Political Economy>
+Semester: Spring 2024 (aka S24)
+Course Description: Political Economics studies the interplay between economics and politics. Politicians, for example, may deviate from welfare-maximizing policies due to political pressures. Conversely, the economic and political consequences of policy decisions can shape the choices of future governments. The course will provide a broad, accessible introduction to the key issues in micro and macroeconomics, international economics, and financial markets, emphasizing those most valuable to understanding the interaction of politics and economics. The course will examine core economic concepts to illuminate how economies work, what constraints governments face, and what the welfare implications are of policy choices. From there, the course with incorporate the effect of political actors on economic policy decision-making and outcomes. The institutional configurations within countries can fundamentally affect the economic and political decisions available to actors. The course will analyze the various institutional settings and their effects on economic policy-making and outcomes. The course will explore the relationship between politics and economics by examining monetary policy and central banking, economic crises, the international factors influencing the implementation of domestic policies, and political influences on economic integration.
+</end course description for 84-110 Foundations of Political Economy>

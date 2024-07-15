@@ -1,0 +1,16 @@
+<start course metadata for 51-725 MDES/MPS Interaction Design Lab>
+Semester: Fall 2023 (aka F23)
+Course Name: MDES/MPS Interaction Design Lab
+Course Number: 51-725
+Department: Design
+Number of Units: 6
+Prerequisites: None
+Instructors: Ashley Deal, Raelynn O'Leary
+Rooms: MM 215
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-725 MDES/MPS Interaction Design Lab>
+
+<start course description for 51-725 MDES/MPS Interaction Design Lab>
+Semester: Fall 2023 (aka F23)
+Course Description: This lab course is intended to support MDes and MPS students in developing a variety of prototyping skills, with opportunities for application to projects in two concurrent studio courses (51711 MDes/MPS Studio I: Designing for Interactions and 51729 Communication Design Studio). In this course, students will learn a variety of sketching and prototyping methods for digital, conversational/voice, and AR interfaces. The course also introduces tools and basic skills for illustration, 3D rendering, animation, video editing, physical computing, and machine learning.
+</end course description for 51-725 MDES/MPS Interaction Design Lab>

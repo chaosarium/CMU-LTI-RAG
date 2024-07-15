@@ -1,0 +1,16 @@
+<start course metadata for 33-998 Thesis Research>
+Semester: Fall 2023 (aka F23)
+Course Name: Thesis Research
+Course Number: 33-998
+Department: Physics
+Number of Units: N/A
+Prerequisites: None
+Instructors: Markus Deserno
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 33-998 Thesis Research>
+
+<start course description for 33-998 Thesis Research>
+Semester: Fall 2023 (aka F23)
+Course Description: None
+</end course description for 33-998 Thesis Research>

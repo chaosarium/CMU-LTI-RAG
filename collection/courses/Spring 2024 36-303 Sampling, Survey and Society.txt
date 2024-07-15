@@ -1,0 +1,16 @@
+<start course metadata for 36-303 Sampling, Survey and Society>
+Semester: Spring 2024 (aka S24)
+Course Name: Sampling, Survey and Society
+Course Number: 36-303
+Department: Statistics and Data Science
+Number of Units: 9
+Prerequisites: 36-208 or 36-202 or 36-309 or 36-220 or 36-226 or 36-326 or 70-208 or 36-236 or 36-218
+Instructors: Robin Mejia
+Rooms: BH A51
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 36-303 Sampling, Survey and Society>
+
+<start course description for 36-303 Sampling, Survey and Society>
+Semester: Spring 2024 (aka S24)
+Course Description: This course will revolve around the role of sampling and sample surveys in the context of U.S. society and its institutions. We will examine the evolution of survey taking in the United States in the context of its economic, social and political uses. This will eventually lead to discussions about the accuracy and relevance of survey responses, especially in light of various kinds of nonsampling error. Students will be required to design, implement and analyze a survey sample.
+</end course description for 36-303 Sampling, Survey and Society>

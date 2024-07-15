@@ -1,0 +1,16 @@
+<start course metadata for 03-738 Synthetic Biology>
+Semester: Fall 2023 (aka F23)
+Course Name: Synthetic Biology
+Course Number: 03-738
+Department: Biological Sciences
+Number of Units: 6
+Prerequisites: 03-231 or 03-232
+Instructors: Huaiying Zhang
+Rooms: POS 153
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 03-738 Synthetic Biology>
+
+<start course description for 03-738 Synthetic Biology>
+Semester: Fall 2023 (aka F23)
+Course Description: This course discusses the design of artificial biological parts or systems for research, engineering and medical applications. The course is divided into two parts: top-down and bottom-up synthetic biology. In top-down synthetic biology, engineering of cells with new functions or new products with metabolic and genetic engineering techniques such as circuit building, directed evolution, CRISPR-Cas9 will be covered. In bottom-up synthetic biology, the assembly of molecules to obtain a specific biological output such as in vitro reconstitution of cellular machinery, cell free protein expression system and construction of artificial cells will be discussed.
+</end course description for 03-738 Synthetic Biology>

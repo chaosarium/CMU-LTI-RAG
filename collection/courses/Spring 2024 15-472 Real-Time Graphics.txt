@@ -1,0 +1,16 @@
+<start course metadata for 15-472 Real-Time Graphics>
+Semester: Spring 2024 (aka S24)
+Course Name: Real-Time Graphics
+Course Number: 15-472
+Department: Computer Science
+Number of Units: 12
+Prerequisites: 15-462
+Instructors: James McCann
+Rooms: POS 151
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-472 Real-Time Graphics>
+
+<start course description for 15-472 Real-Time Graphics>
+Semester: Spring 2024 (aka S24)
+Course Description: Real-time computer graphics is about building systems that leverage modern CPUs and GPUs to produce detailed, interactive, immersive, and high-frame-rate imagery. Students will build a state-of-the-art renderer using C++ and the Vulkan API. Topics explored will include efficient data handling strategies; culling and scene traversal; multi-threaded rendering; post-processing, depth of field, screen-space reflections; volumetric rendering; sample distribution, spatial and temporal sharing, and anti-aliasing; stereo view synthesis; physical simulation and collision detection; dynamic lights and shadows; global illumination, accelerated raytracing; dynamic resolution, "AI" upsampling; compute shaders; parallax occlusion mapping; tessellation, displacement; skinning, transform feedback; debugging, profiling, and accelerating graphics algorithms.
+</end course description for 15-472 Real-Time Graphics>

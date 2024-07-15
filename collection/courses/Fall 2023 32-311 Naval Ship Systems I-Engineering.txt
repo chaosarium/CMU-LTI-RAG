@@ -1,0 +1,16 @@
+<start course metadata for 32-311 Naval Ship Systems I-Engineering>
+Semester: Fall 2023 (aka F23)
+Course Name: Naval Ship Systems I-Engineering
+Course Number: 32-311
+Department: Naval Science - ROTC
+Number of Units: 9
+Prerequisites: None
+Instructors: Benjamin Stewart
+Rooms: HBH 1006
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 32-311 Naval Ship Systems I-Engineering>
+
+<start course description for 32-311 Naval Ship Systems I-Engineering>
+Semester: Fall 2023 (aka F23)
+Course Description: A detailed study of ship characteristics and types including ship design, hydrodynamic forces, stability, compartmentalization, propulsion, electrical and auxiliary systems, interior communications, ship control, and damage control. Included are basic concepts of the theory and design of steam, gas turbine, internal combustion, and nuclear propulsion. Shipboard safety and firefighting are also discussed.
+</end course description for 32-311 Naval Ship Systems I-Engineering>

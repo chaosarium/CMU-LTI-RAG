@@ -1,0 +1,16 @@
+<start course metadata for 06-608 Graduate Professional Development Seminar>
+Semester: Fall 2023 (aka F23)
+Course Name: Graduate Professional Development Seminar
+Course Number: 06-608
+Department: Chemical Engineering
+Number of Units: 3
+Prerequisites: None
+Instructors: Jim Schneider
+Rooms: WEH 5320
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 06-608 Graduate Professional Development Seminar>
+
+<start course description for 06-608 Graduate Professional Development Seminar>
+Semester: Fall 2023 (aka F23)
+Course Description: This course will also expose the students to personal safety issues encountered in normal science and engineering practice. Safety topics covered include mechanical, electrical, chemical, radiation, and biological hazards, to provide an awareness of these hazards and appropriate action to be taken in the event of an accident.
+</end course description for 06-608 Graduate Professional Development Seminar>

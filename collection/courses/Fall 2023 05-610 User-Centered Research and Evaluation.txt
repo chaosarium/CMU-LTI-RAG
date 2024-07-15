@@ -1,0 +1,16 @@
+<start course metadata for 05-610 User-Centered Research and Evaluation>
+Semester: Fall 2023 (aka F23)
+Course Name: User-Centered Research and Evaluation
+Course Number: 05-610
+Department: Human-Computer Interaction
+Number of Units: 12
+Prerequisites: None
+Instructors: Motahhare Eslami, Raelin Musuraca
+Rooms: DH 2315
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 05-610 User-Centered Research and Evaluation>
+
+<start course description for 05-610 User-Centered Research and Evaluation>
+Semester: Fall 2023 (aka F23)
+Course Description: This course provides and overview and introduction to the field of human-computer interaction (HCI). It introduces students to tools, techniques, and sources of information about HCI and provides a systematic approach to design. The course increases awareness of good and bad design through observation of existing technology, and teaches the basic skills of generative and evaluative research methods. This is a companion course to software implementation (05-430, 05-431 05-380).  When registering for this course, undergraduate students are automatically placed the wait list. Students will be then moved into the class, based on if they are in the BHCI primary or second major and year in school e.g. seniors, juniors, etc. Freshman are not permitted to register in this course.  In the Fall, this course is NOT open to students outside the HCI major or MHCI.  The Spring offering is open to all students. This course is a core requirement for students in the HCI additional major and the MHCI program.
+</end course description for 05-610 User-Centered Research and Evaluation>

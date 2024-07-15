@@ -1,0 +1,16 @@
+<start course metadata for 14-818 Introduction to Software Engineering>
+Semester: Spring 2024 (aka S24)
+Course Name: Introduction to Software Engineering
+Course Number: 14-818
+Department: Information Networking Institute
+Number of Units: 6
+Prerequisites: None
+Instructors: Instructor TBA, Sujata Telang
+Rooms: B23 212; INI DEC
+Locations: Pittsburgh, Pennsylvania; San Jose, California
+</end course metadata for 14-818 Introduction to Software Engineering>
+
+<start course description for 14-818 Introduction to Software Engineering>
+Semester: Spring 2024 (aka S24)
+Course Description: Coming together as a team and making headway through the early discovery phase at the fuzzy front-end of a software development project, eliciting requirements from stakeholders, analyzing requirements sufficiently to confirm scope of development, and establishing just enough design to be able to commence development - these are some aspects that can prove challenging to development teams. Adopting a project-centered model for teaching and course materials, this course aims to provide some of the foundational learning essential for taking a disciplined software engineering approach to working on a software-development project and to help with such  challenges.  Students will work on teams through most of the course, to complete three significant tasks of 2-3  weeks duration each and structured as assignments similar to those on a sponsored project with associated deliverables. Projects may be proposed by teams or be selected from among samples provided. For these assigned tasks, teams will be expected to take on dual roles for a better appreciation of issues coming into play. For instance: each team would function as a "development team" for a project and a "sponsoring team" for another - to take a dual perspective through both disseminating and eliciting software requirements. Further: while these assigned tasks relate to software development, this is not a programming course.
+</end course description for 14-818 Introduction to Software Engineering>

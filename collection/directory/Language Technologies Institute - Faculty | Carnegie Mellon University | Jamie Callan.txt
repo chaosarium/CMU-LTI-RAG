@@ -1,0 +1,6 @@
+Name: Jamie Callan
+Title: Professor and PhD Program Director
+Email callan@cs.cmu.edu
+Phone: 412-268-4525
+Office: 5419 Gates & Hillman Centers
+Interests: Information Retrieval, Text Mining and Analytics

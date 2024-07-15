@@ -1,0 +1,16 @@
+<start course metadata for 49-607 Product Strategy & Planning>
+Semester: Spring 2024 (aka S24)
+Course Name: Product Strategy & Planning
+Course Number: 49-607
+Department: Integrated Innovation Institute
+Number of Units: 10
+Prerequisites: 49-606
+Instructors: David Lamont
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 49-607 Product Strategy & Planning>
+
+<start course description for 49-607 Product Strategy & Planning>
+Semester: Spring 2024 (aka S24)
+Course Description: MIIPS Online & Certificate Students Only - New Product Management Certificate   This course explores the concepts, roles and responsibilities associated with both product management and brand management, also covering how strategy and business models intertwine to shape the nature and success of a product and business.  Tools and methods will be introduced that allow a business to better understand and define itself and recognize its position in the market environment.  The course will also cover planning, development and marketing tools that product and brand managers use to make decisions on how to deliver the expected value to customers and stakeholders and differentiate itself from competition.  These tools will help you address common strategic, as well as tactical, challenges across the product lifecycle to make a product or service successful.  In addition to covering theory and applications, the course will use a business simulation to help students to understand how the functional areas tie together. The course will cover a variety of contexts: corporate and entrepreneurial, for-profit and not-for-profit, products and services, business to business and consumer products, digital and physical products.  Further, the course will build on your knowledge of marketing, engineering, accounting, and manufacturing, showing how product managers and brand managers work cross-functionally and play critical leadership functions to make products and services successful.
+</end course description for 49-607 Product Strategy & Planning>

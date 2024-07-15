@@ -1,0 +1,16 @@
+<start course metadata for 95-482 Enterprise Web Development>
+Semester: Fall 2023 (aka F23)
+Course Name: Enterprise Web Development
+Course Number: 95-482
+Department: Information Systems:Sch of IS & Mgt
+Number of Units: 6
+Prerequisites: None
+Instructors: Michael Bigrigg
+Rooms: HBH 2009
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 95-482 Enterprise Web Development>
+
+<start course description for 95-482 Enterprise Web Development>
+Semester: Fall 2023 (aka F23)
+Course Description: Enterprise web applications are a complex relationship between the client, server, and any additional back-end services.  Web systems are becoming more supportive of users such that the system must adapt based on the needs and behaviors of the users.  This course will support the understanding of the data that drives the enterprise web development, which includes the analysis of web traffic and usage, ads, and the personalization of the web experience.  This course focuses on the development of an enterprise web application with specific emphasis on the server-side enterprise web application programming and an n-tier system approach.  The students will design and develop a full enterprise web application including an n-tier implementation over the lifetime of the course. The development aspect will include server programming languages and systems (such as PHP, Django, Node) and database support (such as mySQL) as well as appropriate front-end development.  Heinz web courses are a mix of business, technology and analytics, and not simply about programming.
+</end course description for 95-482 Enterprise Web Development>

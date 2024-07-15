@@ -1,0 +1,16 @@
+<start course metadata for 82-284 TBA>
+Semester: Spring 2024 (aka S24)
+Course Name: TBA
+Course Number: 82-284
+Department: Modern Languages
+Number of Units: 6
+Prerequisites: None
+Instructors: Stephan Caspar
+Rooms: TEP 1024
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 82-284 TBA>
+
+<start course description for 82-284 TBA>
+Semester: Spring 2024 (aka S24)
+Course Description: Pittsburgh is known for its multicultural landscape and communities. Through this course, students will explore the cultures, identities, languages, and groups that have historically shaped, and are still shaping Pittsburgh. Students will develop digital documentation of the city's communities, for example using video, photography, audio podcast, and focus on immersive VR. Through active learning, students will employ approaches such as interviews, research and exploration of the city through its data and social history. Students will craft their work in the Askwith Kenner Global Languages & Cultures Room housed in the Tepper Building, and at the end of the course, the work will be on exhibit for the campus community and the wider public.   This course will develop your research and fieldwork skills, media creation skills and multicultural literacy. This course will meet two days a week for four weeks, followed by self-directed study and Instructor support, with video projects due two weeks after.  This is a course focusing on the use of 360 Immersive Virtual Reality Video for students to produce, shoot, edit and publish their projects.
+</end course description for 82-284 TBA>

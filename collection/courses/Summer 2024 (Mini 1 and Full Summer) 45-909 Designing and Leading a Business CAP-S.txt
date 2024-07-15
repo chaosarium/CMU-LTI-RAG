@@ -1,0 +1,16 @@
+<start course metadata for 45-909 Designing and Leading a Business CAP-S>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Designing and Leading a Business CAP-S
+Course Number: 45-909
+Department: Business Administration
+Number of Units: 12
+Prerequisites: None
+Instructors: Craig Markovitz
+Rooms: CMU REMOTE
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-909 Designing and Leading a Business CAP-S>
+
+<start course description for 45-909 Designing and Leading a Business CAP-S>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: Capstone project Pittsburgh campus course for the Entrepreneurship Track
+</end course description for 45-909 Designing and Leading a Business CAP-S>

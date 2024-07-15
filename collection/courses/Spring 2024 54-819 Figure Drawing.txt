@@ -1,0 +1,16 @@
+<start course metadata for 54-819 Figure Drawing>
+Semester: Spring 2024 (aka S24)
+Course Name: Figure Drawing
+Course Number: 54-819
+Department: Drama
+Number of Units: 3
+Prerequisites: None
+Instructors: Beth Zamborsky
+Rooms: PCA 305
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-819 Figure Drawing>
+
+<start course description for 54-819 Figure Drawing>
+Semester: Spring 2024 (aka S24)
+Course Description: Costume Majors have priority, then Design Majors. This course explores the realistic and expressive depiction of the human form primarily in two dimensional media. Working primarily from the live model, exercises will be undertaken that address gesture, proportion, movement, anatomy and structure, composition and expressive form. Students will experience a variety of media and formal approaches to the figure, working from nude, draped, and clothed male and female models. A primary goal of the class is to develop the ability to create the human figure from imagination, based on intensive empirical study of the forms and structures of the human body from life.
+</end course description for 54-819 Figure Drawing>

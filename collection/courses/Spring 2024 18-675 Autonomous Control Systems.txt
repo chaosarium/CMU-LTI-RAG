@@ -1,0 +1,16 @@
+<start course metadata for 18-675 Autonomous Control Systems>
+Semester: Spring 2024 (aka S24)
+Course Name: Autonomous Control Systems
+Course Number: 18-675
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Yorie Nakahira
+Rooms: WEH 4623
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-675 Autonomous Control Systems>
+
+<start course description for 18-675 Autonomous Control Systems>
+Semester: Spring 2024 (aka S24)
+Course Description: In this course, we will introduce the basic principles in the learning and control of autonomous control systems. We will cover topics related to the representation of control systems, state estimation, state feedback control, separation principles between control and estimation, robust control, adaptive control, and reinforcement learning. These tools are currently used in a broad range of systems: autonomous vehicles, drones, robots, manufacturing systems, human sensorimotor control systems, biomolecular control systems, and economic models, among others.  This course is crosslisted with 18475. ECE graduate students will be prioritized for 18675, and ECE undergraduate students will be prioritized for 18475. Although students in 18475 will share lectures with students in 18675, students in 18475 will receive partially different assignments.  The assignments given to the 18675 students will be more challenging than those given to the 18475 students.
+</end course description for 18-675 Autonomous Control Systems>

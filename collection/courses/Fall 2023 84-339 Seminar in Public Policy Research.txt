@@ -1,0 +1,16 @@
+<start course metadata for 84-339 Seminar in Public Policy Research>
+Semester: Fall 2023 (aka F23)
+Course Name: Seminar in Public Policy Research
+Course Number: 84-339
+Department: Institute for Politics and Strategy
+Number of Units: 12
+Prerequisites: None
+Instructors: William Marcellino
+Rooms: MDC 522
+Locations: Washington, District of Columbia:Dulles
+</end course metadata for 84-339 Seminar in Public Policy Research>
+
+<start course description for 84-339 Seminar in Public Policy Research>
+Semester: Fall 2023 (aka F23)
+Course Description: Public policy has high stakes.  The taxes we pay, our access to medical care, the quality and composition of the military- all of these are the direct result of US public policy.  Furthermore, public policy often touches on highly contested issues such as private gun ownership or single payer health care.  Public policy research then is important, helping inform critical political decisions with evidence-based analysis.   This seminar will give students an overview of public policy research concepts, terms, and actors.  This will be followed by a case study unit on exemplars of public policy research: the opening of all military occupations to women, and the passage the Affordable Care Act.  A third unit will focus on the increasing role of scalable analytics and large datasets.  In this unit students will gain an overview of scalable methods (including machine learning applications), the potential of "big data" to transform policy research, but the problems and pitfalls associated with a more algorithmic approach to public policy.  These three units will build towards a final research project where students propose their own policy initiative.
+</end course description for 84-339 Seminar in Public Policy Research>

@@ -1,0 +1,16 @@
+<start course metadata for 90-760 Management Science II>
+Semester: Spring 2024 (aka S24)
+Course Name: Management Science II
+Course Number: 90-760
+Department: Public Policy & Mgt:Sch of Pub Pol & Mgt
+Number of Units: 6
+Prerequisites: None
+Instructors: Holly Wiberg
+Rooms: HBH 1002; HBH 1007
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 90-760 Management Science II>
+
+<start course description for 90-760 Management Science II>
+Semester: Spring 2024 (aka S24)
+Course Description: This course, along with its companions (90-722 Management Science I: Decision and Risk Modeling, 94-833 Decision Analysis and Multi-Criteria Decision Making, and 95-760 Decision Making Under Uncertainty) are introductory courses in analytics and management science that survey a variety of hands-on quantitative and modeling methods useful to decision makers and analysts.  90-760 focuses on methods for making decisions in the face of uncertainty, including forecasting, Monte Carlo simulation, and queuing theory.  Normally Heinz PPM, HCPM, MBTM, and MEIM students take 90-722 & 90-760, whereas MISM students take 95-760 which pulls examples from the information systems context. Both tracks feed into 94-833, although students with a strong quantitative background can take 94-833 in the first year; No pre-requisite of the other courses are actually a prerequisite for 94-833.  Prerequisites: Ability to work with concepts from probability is required (Binomial and Normal random variables, distributions more generally, computation of mean & standard deviation, event probabilities, Bayes Rule, etc.). Some concepts in 90-760 are easier to grasp if one knows regression, but regression per se is not a prerequisite.  The course uses Excel intensively. If you have not already taken 90-722 or become proficient with Excel in some other way, you should work through some Excel tutorials before the course begins.
+</end course description for 90-760 Management Science II>

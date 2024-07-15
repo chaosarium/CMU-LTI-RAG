@@ -1,0 +1,16 @@
+<start course metadata for 17-647 Engineering Data Intensive Scalable Systems>
+Semester: Spring 2024 (aka S24)
+Course Name: Engineering Data Intensive Scalable Systems
+Course Number: 17-647
+Department: Software & Societal Systems
+Number of Units: 6
+Prerequisites: None
+Instructors: Paulo Merson, Swarnalatha Ashok
+Rooms: 3SC 265; CMU REMOTE
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 17-647 Engineering Data Intensive Scalable Systems>
+
+<start course description for 17-647 Engineering Data Intensive Scalable Systems>
+Semester: Spring 2024 (aka S24)
+Course Description: Internet services companies such as Google, Amazon, Netflix, and Meta, have pioneered systems that have achieved unprecedented scale while still providing high level availability and a high cost-performance. These systems differ from mainstream high performance systems in fundamental ways. They are data intensive rather than compute intensive. They are also cloud-native distributed systems that are often deployed as microservices and require integration with external systems via networked-based APIs.  They need to inherently support scalability, typically having high throughput, security, reliability and availability demands as well. Designing and building these systems require a specialized set of skills. This course will cover design principles and strategies needed to design and implement data intensive scalable distributed systems. In this domain engineers not only need to know how to architect systems that are inherently scalable, but to do so in a way that also supports high availability, reliability, and performance. Given the nature of these systems, basic distributed systems concepts such as time, transparency, data consistency and synchronization are also important. These systems largely operate around the clock, have components running on different nodes and platforms, so the course also emphasizes deployability and operational concerns. The course includes a hands-on project where students get to create and discuss design alternatives, and implement the solutions in a public cloud environment. The basic concepts will be given during the lectures and applied in the project. The students will gain exposure to the core concepts needed to design and build such systems as well as current technologies in this space. Class size will be limited.
+</end course description for 17-647 Engineering Data Intensive Scalable Systems>

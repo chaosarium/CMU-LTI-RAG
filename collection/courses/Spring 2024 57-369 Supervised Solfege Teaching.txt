@@ -1,0 +1,16 @@
+<start course metadata for 57-369 Supervised Solfege Teaching>
+Semester: Spring 2024 (aka S24)
+Course Name: Supervised Solfege Teaching
+Course Number: 57-369
+Department: Music
+Number of Units: 6
+Prerequisites: None
+Instructors: Instructor TBA
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-369 Supervised Solfege Teaching>
+
+<start course description for 57-369 Supervised Solfege Teaching>
+Semester: Spring 2024 (aka S24)
+Course Description: None
+</end course description for 57-369 Supervised Solfege Teaching>

@@ -1,0 +1,16 @@
+<start course metadata for 54-103 Speech I>
+Semester: Fall 2023 (aka F23)
+Course Name: Speech I
+Course Number: 54-103
+Department: Drama
+Number of Units: 4
+Prerequisites: None
+Instructors: Gary Logan
+Rooms: PCA A41
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-103 Speech I>
+
+<start course description for 54-103 Speech I>
+Semester: Fall 2023 (aka F23)
+Course Description: (Speech I ) The course introduces students to the pronunciation of the sounds of Standard American English pronunciation as presented by Edith Skinner in her textbook SPEAK WITH DISTINCTION. The International Phonetic Alphabet is used to introduce the students to a distinct symbol for each vowel, diphthong and consonant sound. This process will strengthen the student's placement of sounds and will help to illustrate and control regional characteristics. The work is applied to regular individual presentations of various texts. Phonetic transcription is required of class participants throughout the course. Written accuracy of the sounds are required and assigned regularly. This course is open to first year Acting majors who have been accepted to the School of Drama only.
+</end course description for 54-103 Speech I>

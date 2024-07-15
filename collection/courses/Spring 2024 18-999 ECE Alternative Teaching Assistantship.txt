@@ -1,0 +1,16 @@
+<start course metadata for 18-999 ECE Alternative Teaching Assistantship>
+Semester: Spring 2024 (aka S24)
+Course Name: ECE Alternative Teaching Assistantship
+Course Number: 18-999
+Department: Electrical & Computer Engineering
+Number of Units: N/A
+Prerequisites: None
+Instructors: James Bain
+Rooms: DNM DNM
+Locations: Kigali, Rwanda; Lisbon, Portugal; Pittsburgh, Pennsylvania; San Jose, California
+</end course metadata for 18-999 ECE Alternative Teaching Assistantship>
+
+<start course description for 18-999 ECE Alternative Teaching Assistantship>
+Semester: Spring 2024 (aka S24)
+Course Description: Students will be apply to TA for this course after speaking with the Academic Services Center (coursehub@ece.cmu.edu) about any TAships which are not directly covered in the ECE TA Application Process. If a student plans to TA for a course and does not see the course listed in the application, they should apply to TA 18999.
+</end course description for 18-999 ECE Alternative Teaching Assistantship>

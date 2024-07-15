@@ -1,0 +1,16 @@
+<start course metadata for 80-501 Undergraduate Research in Philosophy>
+Semester: Spring 2024 (aka S24)
+Course Name: Undergraduate Research in Philosophy
+Course Number: 80-501
+Department: Philosophy
+Number of Units: N/A
+Prerequisites: None
+Instructors: Danielle Wenner, Instructor TBA
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 80-501 Undergraduate Research in Philosophy>
+
+<start course description for 80-501 Undergraduate Research in Philosophy>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is for students pursuing a research project under the supervision of a faculty member in the Philosophy Department. Time commitments as well as specific requirements, expectations, and deliverables of the research experience must be worked out in advance between the student and the supervising faculty member. The units can vary depending on the scope of the project.
+</end course description for 80-501 Undergraduate Research in Philosophy>

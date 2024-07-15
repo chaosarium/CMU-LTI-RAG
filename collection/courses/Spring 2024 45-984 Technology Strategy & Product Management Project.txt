@@ -1,0 +1,16 @@
+<start course metadata for 45-984 Technology Strategy & Product Management Project>
+Semester: Spring 2024 (aka S24)
+Course Name: Technology Strategy & Product Management Project
+Course Number: 45-984
+Department: Business Administration
+Number of Units: 12
+Prerequisites: None
+Instructors: Mary Butler-Everson
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-984 Technology Strategy & Product Management Project>
+
+<start course description for 45-984 Technology Strategy & Product Management Project>
+Semester: Spring 2024 (aka S24)
+Course Description: to be determined
+</end course description for 45-984 Technology Strategy & Product Management Project>

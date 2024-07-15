@@ -1,0 +1,16 @@
+<start course metadata for 80-652 Kant>
+Semester: Spring 2024 (aka S24)
+Course Name: Kant
+Course Number: 80-652
+Department: Philosophy
+Number of Units: 12
+Prerequisites: None
+Instructors: Kevin Kelly
+Rooms: GHC 5222
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 80-652 Kant>
+
+<start course description for 80-652 Kant>
+Semester: Spring 2024 (aka S24)
+Course Description: Immanuel Kant was a CMU sort of person.  He was an enthusiastic follower of Isaac Newton, and his approach to fundamental philosophy was: "what would robotics be like from the viewpoint of the robot?"   From that starting point, he investigated what would have to be the case for the robot to know anything about its environment.  The resulting "critical philosophy" defined the relevant philosophical vocabulary for generations of prominent mathematicians and scientists into the 20th century, and is pivotal background both for both the "analytic" and the "continental" schools of philosophy.  This course starts with essential background reading in pre-Kantian, early modern sources, including Descartes.  Then it focuses on a detailed reading of Kant's Critique of Pure Reason and related texts.   Course requirements include written answers to reading questions and two short paper projects.  There are no prerequisites.
+</end course description for 80-652 Kant>

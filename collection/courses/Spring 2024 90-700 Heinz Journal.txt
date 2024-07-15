@@ -1,0 +1,16 @@
+<start course metadata for 90-700 Heinz Journal>
+Semester: Spring 2024 (aka S24)
+Course Name: Heinz Journal
+Course Number: 90-700
+Department: Public Policy & Mgt:Sch of Pub Pol & Mgt
+Number of Units: 3
+Prerequisites: None
+Instructors: Silvia Borzutzky
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 90-700 Heinz Journal>
+
+<start course description for 90-700 Heinz Journal>
+Semester: Spring 2024 (aka S24)
+Course Description: Students get 3 Pass/Fail credits per term for participating in the journal activities. Students can be involved in editing, radio programs where the students discuss policy issues either among themselves or with a guest speaker, managing the website, promoting the journal activities, or by organizing and moderating Forum. Enrollment is restricted and can be done only by the instructor. Recruitment and enrollment takes place at the beginning of the Fall, and Spring semesters.
+</end course description for 90-700 Heinz Journal>

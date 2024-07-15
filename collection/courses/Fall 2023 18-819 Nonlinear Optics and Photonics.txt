@@ -1,0 +1,16 @@
+<start course metadata for 18-819 Nonlinear Optics and Photonics>
+Semester: Fall 2023 (aka F23)
+Course Name: Nonlinear Optics and Photonics
+Course Number: 18-819
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Elias Towe, Qing Li
+Rooms: GHC 4211; POS 147; TEP 4219
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-819 Nonlinear Optics and Photonics>
+
+<start course description for 18-819 Nonlinear Optics and Photonics>
+Semester: Fall 2023 (aka F23)
+Course Description: Please go the the ECE Website to view "Special Topics in Applied Physics" course descriptions.    http://www.ece.cmu.edu/courses/index.html
+</end course description for 18-819 Nonlinear Optics and Photonics>

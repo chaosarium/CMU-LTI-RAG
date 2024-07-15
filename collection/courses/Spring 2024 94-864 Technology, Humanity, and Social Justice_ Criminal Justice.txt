@@ -1,0 +1,16 @@
+<start course metadata for 94-864 Technology, Humanity, and Social Justice: Criminal Justice>
+Semester: Spring 2024 (aka S24)
+Course Name: Technology, Humanity, and Social Justice: Criminal Justice
+Course Number: 94-864
+Department: Heinz College Wide Courses
+Number of Units: 3
+Prerequisites: None
+Instructors: Korryn Mozisek
+Rooms: CMU REMOTE; DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 94-864 Technology, Humanity, and Social Justice: Criminal Justice>
+
+<start course description for 94-864 Technology, Humanity, and Social Justice: Criminal Justice>
+Semester: Spring 2024 (aka S24)
+Course Description: As humans rely more and more on electronic devices to support their everyday activities, there are ever present warnings about the impacts such reliance has on human autonomy ranging from who owns and controls information networks, the inequitable impact of technology consumption on peoples and places, varying accessibility of technology around the globe, and the promises and limitations of technology in improving human health. By engaging in technology as a lens, this sequence of weekend micro-courses encourages students to examine technology as a system disproportionately impacting humanity by enabling and constraining human rights of groups of people around the globe. With a multi-disciplinary focus, the course invites researchers and practitioners from the University of Pittsburgh, Carnegie Mellon, and relevant fields more broadly. In Spring 2024, the focus will be on the impact technology has on criminal justice. This will include a discussion about technology's impact on human safety, including the increasing use of machine learning, artificial intelligence, and other technology by various authorities of the criminal justice system. This will include discussions on the benefits and risks in the implementation and automation of such technology within criminal justice apparatuses. We will also consider how such implementation differs across global criminal justice systems, including how this technology is governed. Added Note: The course will occur on Friday, Mar. 22, Saturday, Mar. 23, and Sunday, Mar. 24. Engagement in the course should be synchronous; accommodations for those in significant time zone differences will be provided to allow enrollment and completion of all elements of the weekend. If a student is interested in the course but unable to engage in the course dates, please reach out to Korryn Mozisek (kmozisek@andrew.cmu.edu). Course Profile:
+</end course description for 94-864 Technology, Humanity, and Social Justice: Criminal Justice>

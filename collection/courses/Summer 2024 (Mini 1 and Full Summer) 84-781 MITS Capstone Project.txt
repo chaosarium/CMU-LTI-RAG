@@ -1,0 +1,16 @@
+<start course metadata for 84-781 MITS Capstone Project>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: MITS Capstone Project
+Course Number: 84-781
+Department: Institute for Politics and Strategy
+Number of Units: 36
+Prerequisites: None
+Instructors: Mark Gardner
+Rooms: PH A19
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 84-781 MITS Capstone Project>
+
+<start course description for 84-781 MITS Capstone Project>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: The MITS capstone project provides students a direct application of concepts learned during their program of study resulting in the development of technology-based strategies for a designated professional client. In this required capstone course MITS students are expected to meet once a week within a classroom setting and with their assigned teams as often as needed to finalize project outcomes. Groups are also required to provide weekly updates to their project advisor. The weekly capstone course meets to help students facilitate effective group work processes and to workshop communication skills within professional contexts. Registration in the MITS Capstone Project course is limited to those students who have been accepted into the MITS program.
+</end course description for 84-781 MITS Capstone Project>

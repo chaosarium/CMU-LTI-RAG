@@ -1,0 +1,16 @@
+<start course metadata for 24-773 Multivariable Linear Control>
+Semester: Spring 2024 (aka S24)
+Course Name: Multivariable Linear Control
+Course Number: 24-773
+Department: Mechanical Engineering
+Number of Units: 12
+Prerequisites: (24-771) or (24-677)
+Instructors: Mark Bedillion
+Rooms: WEH 8427
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-773 Multivariable Linear Control>
+
+<start course description for 24-773 Multivariable Linear Control>
+Semester: Spring 2024 (aka S24)
+Course Description: Robust control techniques are used in various industries, from hard disk drives to robotics, to rigorously account for model uncertainty and manufacturing variations. This course will introduce robust control of multi-input, multi-output linear systems, providing a synthesis of frequency-domain concepts from classical control with state space analysis from linear systems. Topics include performance limitations in control systems, uncertainty models, generalized plants, robust stability and performance measures, controller synthesis, and model order reduction. The course will mix theoretical developments with practical design examples drawn from industry (robotics, data storage, aerospace, etc.). This is intended to be the 2nd in a three course sequence designed to prepare students for an industrial career in control systems engineering.
+</end course description for 24-773 Multivariable Linear Control>

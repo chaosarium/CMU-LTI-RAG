@@ -1,0 +1,16 @@
+<start course metadata for 48-105 Architecture Design Studio: Poiesis Studio 2>
+Semester: Spring 2024 (aka S24)
+Course Name: Architecture Design Studio: Poiesis Studio 2
+Course Number: 48-105
+Department: Architecture
+Number of Units: 15
+Prerequisites: 48-100
+Instructors: Tommy Yang
+Rooms: MM A14
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-105 Architecture Design Studio: Poiesis Studio 2>
+
+<start course description for 48-105 Architecture Design Studio: Poiesis Studio 2>
+Semester: Spring 2024 (aka S24)
+Course Description: As the second studio within the Poiesis Sequence, this studio will nurture a way of making and thinking in design that aims to cultivate the practice of architecture as an act of creative citizenship. By building an affinity for an approach linking the cross-cultural study of how people perceive and manipulate their environments can push a multimodal understanding of architecture and urban design. We will use a multi-disciplinary approach to become detectives interrogating the contemporary and historical tissue of Pittsburgh through the occupations and working lives, therefore elevating ordinary folks and trades that had and continues to foster the fabric of the city. Grasping the multi-faceted changing environment, this studio will use architectural tools as a base of inquiry to speculate and allow us to transform the way we view our world through multiscale multisystemic perspectives.  The structure of the studio will follow one cohesive research driven design project that will explore narrative modalities, by using critical cartography, archival research, storytelling, programming adjacencies and tectonic exploration as a method to produce a hybrid shop-house focused on the historical trades of Pittsburgh. Students in the sequence will be introduced to critical proficiencies, learn new techniques of representation, adapt rigorous illustration and animation tools in the production of a dwelling project that is rooted in its urban fabric.
+</end course description for 48-105 Architecture Design Studio: Poiesis Studio 2>

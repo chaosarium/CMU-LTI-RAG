@@ -1,0 +1,16 @@
+<start course metadata for 18-330 Introduction to Computer Security>
+Semester: Fall 2023 (aka F23)
+Course Name: Introduction to Computer Security
+Course Number: 18-330
+Department: Electrical & Computer Engineering
+Number of Units: 12
+Prerequisites: 18-213
+Instructors: Bryan Parno
+Rooms: BH A51
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 18-330 Introduction to Computer Security>
+
+<start course description for 18-330 Introduction to Computer Security>
+Semester: Fall 2023 (aka F23)
+Course Description: Security is becoming one of the core requirements in the design of critical systems. This course will introduce students to the intro-level fundamental knowledge of computer security and applied cryptography. Students will learn the basic concepts in computer security including software vulnerability analysis and defense, networking and wireless security, and applied cryptography. Students will also learn the fundamental methodology for how to design and analyze security critical systems.
+</end course description for 18-330 Introduction to Computer Security>

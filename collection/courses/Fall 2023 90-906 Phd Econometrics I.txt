@@ -1,0 +1,16 @@
+<start course metadata for 90-906 Phd Econometrics I>
+Semester: Fall 2023 (aka F23)
+Course Name: Phd Econometrics I
+Course Number: 90-906
+Department: Public Policy & Mgt:Sch of Pub Pol & Mgt
+Number of Units: 12
+Prerequisites: (36-325 and 36-326) or (90-905)
+Instructors: Edson Severnini
+Rooms: HBH 2003
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 90-906 Phd Econometrics I>
+
+<start course description for 90-906 Phd Econometrics I>
+Semester: Fall 2023 (aka F23)
+Course Description: Empirical research is most valuable when it uses data to answer specific causal questions, as if in a randomized clinical trial. In the absence of a real experiment, we look for well-controlled comparisons and/or natural quasi-experiments. Some research designs are more convincing than others, but the econometric methods behind them are almost always fairly simple. This course provides an introduction to the most important items in an applied econometrician's toolkit: (i) analysis of randomized controlled trials; (ii) regression models designed to control for variables that may mask the causal effects of interest; (iii) difference-in-differences-type strategies that use repeated observations to control for unobserved omitted factors; and (iv) instrumental variables and regression discontinuity methods for the analysis of real and natural experiments. In this course, emphasis will be given to conceptual issues and statistical techniques that turn up in the applied research we read and do. Many empirical examples will illustrate these ideas and techniques.  Within the Heinz College, 90-906 is appropriate for first-year PhD students plus first and second year Masters students who desire and are prepared for a rigorous course in econometrics as a base for more advanced research methodology. Outside the Heinz school, 90-906 may be of interest to graduate students in Engineering and Public Policy, Social and Decision Science, Software Engineering, Psychology, GSIA, Philosophy, Applied History, or Architecture who need background in econometrics targeted toward social and policy research.
+</end course description for 90-906 Phd Econometrics I>

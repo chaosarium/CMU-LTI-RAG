@@ -1,0 +1,16 @@
+<start course metadata for 06-464 Chemical Engineering Process Control>
+Semester: Spring 2024 (aka S24)
+Course Name: Chemical Engineering Process Control
+Course Number: 06-464
+Department: Chemical Engineering
+Number of Units: 9
+Prerequisites: 06-325
+Instructors: Lorenz Biegler
+Rooms: POS 153
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 06-464 Chemical Engineering Process Control>
+
+<start course description for 06-464 Chemical Engineering Process Control>
+Semester: Spring 2024 (aka S24)
+Course Description: This course presents basic concepts of process dynamics and feedback control. Included are selection of measurements and manipulated variables, definition of transfer functions, creation of block diagrams and closed loop configurations. The course also covers concepts of open loop and closed loop stability, and tuning of PID controllers.
+</end course description for 06-464 Chemical Engineering Process Control>

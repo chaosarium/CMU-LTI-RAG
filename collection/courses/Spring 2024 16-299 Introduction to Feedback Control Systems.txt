@@ -1,0 +1,16 @@
+<start course metadata for 16-299 Introduction to Feedback Control Systems>
+Semester: Spring 2024 (aka S24)
+Course Name: Introduction to Feedback Control Systems
+Course Number: 16-299
+Department: Robotics
+Number of Units: 12
+Prerequisites: 15-122 and 21-122
+Instructors: Christopher Atkeson
+Rooms: WEH 5415
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 16-299 Introduction to Feedback Control Systems>
+
+<start course description for 16-299 Introduction to Feedback Control Systems>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is designed as a first course in feedback control systems  for computer science majors. Course topics include classical linear  control theory (differential equations, Laplace transforms, feedback  control), linear state-space methods (controllability/observability,  pole placement, LQR), nonlinear systems theory, and an introduction  to control using computer learning techniques.  Priorities will be given to computer science majors with a robotics major or minor.
+</end course description for 16-299 Introduction to Feedback Control Systems>

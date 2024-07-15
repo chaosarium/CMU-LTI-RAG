@@ -1,0 +1,16 @@
+<start course metadata for 21-256 Multivariate Analysis>
+Semester: Fall 2023 (aka F23)
+Course Name: Multivariate Analysis
+Course Number: 21-256
+Department: Mathematical Sciences
+Number of Units: 9
+Prerequisites: 21-112 or 21-120
+Instructors: Andrew Newman
+Rooms: DH 2302; POS 152
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 21-256 Multivariate Analysis>
+
+<start course description for 21-256 Multivariate Analysis>
+Semester: Fall 2023 (aka F23)
+Course Description: This course is designed for students in Economics or Business Administration.  Matrix algebra: vectors, matrices, systems of equations, dot product, cross product, lines and planes. Optimization: partial derivatives, the chain rule, gradient, unconstrained optimization, constrained optimization (Lagrange multipliers and the Kuhn-Tucker Theorem). Improper integrals. Multiple integration: iterated integrals, probability applications, triple integrals, change of variables. (Three 50 minute lectures, one 50 minute recitation)
+</end course description for 21-256 Multivariate Analysis>

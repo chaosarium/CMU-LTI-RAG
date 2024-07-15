@@ -1,0 +1,16 @@
+<start course metadata for 70-389 Design Thinking for Business: Creative Solutions for Complex Problems>
+Semester: Spring 2024 (aka S24)
+Course Name: Design Thinking for Business: Creative Solutions for Complex Problems
+Course Number: 70-389
+Department: Business Administration
+Number of Units: 9
+Prerequisites: None
+Instructors: Ming Ming Chapman
+Rooms: TEP 2610
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 70-389 Design Thinking for Business: Creative Solutions for Complex Problems>
+
+<start course description for 70-389 Design Thinking for Business: Creative Solutions for Complex Problems>
+Semester: Spring 2024 (aka S24)
+Course Description: In today's rapidly evolving world, businesses constantly seek innovative solutions to complex problems. Design Thinking has emerged as a powerful process to address these challenges by fostering creativity, empathy, experience, and collaboration. This course introduces the principles, methods, and tools of Design Thinking and explores an array of techniques and frameworks¿from problem framing and creative ideation to prototyping and user testing. We will adopt the UN Sustainable Development Goals to bring positive changes to people and the planet and shape a more prosperous future for all.
+</end course description for 70-389 Design Thinking for Business: Creative Solutions for Complex Problems>

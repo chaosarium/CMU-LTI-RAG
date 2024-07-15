@@ -1,0 +1,16 @@
+<start course metadata for 80-605 Game Theory>
+Semester: Fall 2023 (aka F23)
+Course Name: Game Theory
+Course Number: 80-605
+Department: Philosophy
+Number of Units: 12
+Prerequisites: None
+Instructors: Adam Bjorndahl
+Rooms: DH A302
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 80-605 Game Theory>
+
+<start course description for 80-605 Game Theory>
+Semester: Fall 2023 (aka F23)
+Course Description: Game theory is the study of interactive decision-making: making choices in the context of other agents who are also making choices. Famous examples include the Prisoner's Dilemma (pitting rational self-interest against the benefits of cooperation), and the Cournot duopoly (a basic model of market competition and supply-and-demand). Game theory has been applied to situations as diverse as traffic flow, auctions, the search and competition for scarce resources, and bargaining. This course will develop conceptual and technical facility with the mathematical tools used to model and analyze such situations. We will cover both simultaneous and sequential games and become familiar with a variety of concepts such as strict and weak dominance, randomization, expected utility maximization, never-best responses, non-credible threats, and time discounting. We'll also study solution concepts such as Nash equilibrium, correlated equilibrium, rationalizability, and subgame perfect equilibrium. Throughout the course we will take the opportunity to actually play several of the games we study to help build intuitions and foster insights into the formal mathematical models we develop. Some experience with mathematical methods (definitions, proofs, etc.) will be helpful.
+</end course description for 80-605 Game Theory>

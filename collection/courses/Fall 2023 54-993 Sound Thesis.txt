@@ -1,0 +1,16 @@
+<start course metadata for 54-993 Sound Thesis>
+Semester: Fall 2023 (aka F23)
+Course Name: Sound Thesis
+Course Number: 54-993
+Department: Drama
+Number of Units: N/A
+Prerequisites: None
+Instructors: Brian Russman, Dick Block, Hugh Hanson, Joe Pino, Lawrence Shea, Mary Stebbins, Mindy Eshelman, Nica Ross, Robert Thomson, Susan Tsu
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-993 Sound Thesis>
+
+<start course description for 54-993 Sound Thesis>
+Semester: Fall 2023 (aka F23)
+Course Description: TBD
+</end course description for 54-993 Sound Thesis>

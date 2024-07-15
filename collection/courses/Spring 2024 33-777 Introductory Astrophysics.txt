@@ -1,0 +1,16 @@
+<start course metadata for 33-777 Introductory Astrophysics>
+Semester: Spring 2024 (aka S24)
+Course Name: Introductory Astrophysics
+Course Number: 33-777
+Department: Physics
+Number of Units: 12
+Prerequisites: None
+Instructors: Rupert Croft
+Rooms: WEH 5316
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 33-777 Introductory Astrophysics>
+
+<start course description for 33-777 Introductory Astrophysics>
+Semester: Spring 2024 (aka S24)
+Course Description: Introductory Astrophysics is survey course with a mix of observational and theoretical investigations into astrophysical systems across a range of scales, covering planetary physics (solar system and extrasolar planets), stellar structure/evolution, Milky Way, extragalactic astrophysics, and cosmology.
+</end course description for 33-777 Introductory Astrophysics>

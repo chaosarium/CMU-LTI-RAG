@@ -1,0 +1,16 @@
+<start course metadata for 60-217 Intermediate Studio: Experimental Hybrid Film - Video and Animation>
+Semester: Fall 2023 (aka F23)
+Course Name: Intermediate Studio: Experimental Hybrid Film - Video and Animation
+Course Number: 60-217
+Department: Art
+Number of Units: 10
+Prerequisites: None
+Instructors: Suzie Silver
+Rooms: CFA 318
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 60-217 Intermediate Studio: Experimental Hybrid Film - Video and Animation>
+
+<start course description for 60-217 Intermediate Studio: Experimental Hybrid Film - Video and Animation>
+Semester: Fall 2023 (aka F23)
+Course Description: Digital production and post-production technologies have made hybrid moving images that combine live action, animation and image processing ubiquitous. Collage processes and aesthetics are at work even in moving image media that appear naturalistic. While developing proficiency in Adobe After Effects and other production and post production tools, students in this course will explore the experimental world-building and storytelling possibilities of hybrid moving image production. The course is structured around technical tutorials and workshops, readings and screenings, and the creation of collaborative and independent hybrid filmmaking exercises and projects.   Artists whose work we will look to for inspiration include Yuge Zhou, Shana Moulton, Tabita Rezaire, Rachel MacLean, Chitra Ganesh, Jee Young Lee, Sondra Perry, Miwa Matreyek, Saya Woolfalk, Jacolby Satterwhite, Alex DaCorte, Grace Nayoon Rhee, Nam June Paik, Wangechi Mutu, Joo Young Choi, Cecile B. Evans, Ryan Trecartin, Oskar Fischinger, Karel Zeman, Sin Wai Kin, Winston Hacking, Russ Murphy (RUFFMERCY), Jordan Belson and many others.
+</end course description for 60-217 Intermediate Studio: Experimental Hybrid Film - Video and Animation>

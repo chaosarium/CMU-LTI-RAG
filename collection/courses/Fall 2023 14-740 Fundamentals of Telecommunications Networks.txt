@@ -1,0 +1,16 @@
+<start course metadata for 14-740 Fundamentals of Telecommunications Networks>
+Semester: Fall 2023 (aka F23)
+Course Name: Fundamentals of Telecommunications Networks
+Course Number: 14-740
+Department: Information Networking Institute
+Number of Units: 12
+Prerequisites: None
+Instructors: Pedro Bustamante
+Rooms: CIC 1201
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 14-740 Fundamentals of Telecommunications Networks>
+
+<start course description for 14-740 Fundamentals of Telecommunications Networks>
+Semester: Fall 2023 (aka F23)
+Course Description: 14-740 is a graduate-level, first-course in computer and telecommunication networks. There is no pre-requisite of an undergraduate equivalent, but basic computer, programming and probability theory background is required. The primary objective of this course is for you to learn the fundamental principles underlying computer and telecommunication networks. Using a top-down approach, we will cover topics in the application, transport, network and link layers of the protocol stack. We will also go over advanced topics, including network management, traffic engineering, and router internals. Besides learning about the nuts and bolts, you will gain an understanding as well in engineering tradeoffs made and design principles used in computer and telecommunication networks. Another objective is for you to apply some of this knowledge in the context of systems projects. We will follow an aggressive pace in this course. Prerequisites: Graduate standing.
+</end course description for 14-740 Fundamentals of Telecommunications Networks>

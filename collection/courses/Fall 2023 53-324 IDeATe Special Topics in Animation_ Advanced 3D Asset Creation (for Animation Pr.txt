@@ -1,0 +1,16 @@
+<start course metadata for 53-324 IDeATe Special Topics in Animation: Advanced 3D Asset Creation (for Animation Pr>
+Semester: Fall 2023 (aka F23)
+Course Name: IDeATe Special Topics in Animation: Advanced 3D Asset Creation (for Animation Pr
+Course Number: 53-324
+Department: Entertainment Technology
+Number of Units: 6
+Prerequisites: None
+Instructors: James Chan
+Rooms: CMU REMOTE
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 53-324 IDeATe Special Topics in Animation: Advanced 3D Asset Creation (for Animation Pr>
+
+<start course description for 53-324 IDeATe Special Topics in Animation: Advanced 3D Asset Creation (for Animation Pr>
+Semester: Fall 2023 (aka F23)
+Course Description: The course will cover advanced techniques for modeling, texturing, and rendering realistic digital props for use in visual effects and 3D animation. Students will create a series of high-quality models in Maya, texture them with Substance 3D Painter, and then render them in Maya's Arnold renderer. The class will cover project organization, hard-surface modeling techniques, highly-detailed texturing workflows, color space management, look development, and some lighting. At the end of the course, students will composite their 3D assets seamlessly into a photo as well as render turntables to present their work.
+</end course description for 53-324 IDeATe Special Topics in Animation: Advanced 3D Asset Creation (for Animation Pr>

@@ -1,0 +1,16 @@
+<start course metadata for 51-625 Design Software Lab>
+Semester: Fall 2023 (aka F23)
+Course Name: Design Software Lab
+Course Number: 51-625
+Department: Design
+Number of Units: 9
+Prerequisites: None
+Instructors: Kelsey Dusenka
+Rooms: MM B4
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-625 Design Software Lab>
+
+<start course description for 51-625 Design Software Lab>
+Semester: Fall 2023 (aka F23)
+Course Description: Software including Adobe CC: Photoshop, Illustrator, InDesign, After Effects; UX protoyping tools; some limited programming/coding, technical skill building synchronized with Studio I projects in consultation with Studio (51611) instructor.This course is intended for and required for MA Design students; all other students by permission of the instructor.
+</end course description for 51-625 Design Software Lab>

@@ -1,0 +1,16 @@
+<start course metadata for 90-784 Affordable Housing Policy and Finance>
+Semester: Spring 2024 (aka S24)
+Course Name: Affordable Housing Policy and Finance
+Course Number: 90-784
+Department: Public Policy & Mgt:Sch of Pub Pol & Mgt
+Number of Units: 6
+Prerequisites: None
+Instructors: Jessica Smith
+Rooms: CMU REMOTE
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 90-784 Affordable Housing Policy and Finance>
+
+<start course description for 90-784 Affordable Housing Policy and Finance>
+Semester: Spring 2024 (aka S24)
+Course Description: In this course students will be introduced to Affordable Housing Policy and Finance in the U.S. Context.  Approximately half of each class session will be spent describing local, state, and federal housing policies and discussing the implications (both positive and negative) of these policies in urban settings.  The students will read two books to be used as aids for class discussion.  The books are The Color of Law by Richard Rothstein and Evicted by Matthew Desmond.  Additionally, there may be one or two occasions where a guest speaker presents a specific policy issue.  -       The remaining half of each class session will be spent learning the financial computations used by practitioners of housing development.  In other words, how are new affordable housing developments financed when the developer knows that the rents will be less than what he/she could receive on the private market?  The course will cover the basic principles of both market-rate and affordable housing finance.  The instructor will also teach the fundamentals of the Low-Income Housing Tax Credit.  By the end of the course, the students will be expected to know how to calculate Low-Income Housing Tax Credits and use them to generate equity in affordable housing developments.  -       The course is for students who may want to work for local, state, and/or the federal government directly impacting issues related to affordable housing.  This course is also for students who would like to work for an affordable housing developer, a real estate practitioner, and/or is just interested in the topic of affordable housing.  -       There are no prerequisites for the course.
+</end course description for 90-784 Affordable Housing Policy and Finance>

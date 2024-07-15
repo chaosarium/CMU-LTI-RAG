@@ -1,0 +1,16 @@
+<start course metadata for 42-799 Directed Study>
+Semester: Spring 2024 (aka S24)
+Course Name: Directed Study
+Course Number: 42-799
+Department: Biomedical Engineering
+Number of Units: N/A
+Prerequisites: None
+Instructors: Maryia Rakach
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 42-799 Directed Study>
+
+<start course description for 42-799 Directed Study>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is intended for directed study only with permission of the Associate Department Head.
+</end course description for 42-799 Directed Study>

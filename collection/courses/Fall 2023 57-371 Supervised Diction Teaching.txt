@@ -1,0 +1,16 @@
+<start course metadata for 57-371 Supervised Diction Teaching>
+Semester: Fall 2023 (aka F23)
+Course Name: Supervised Diction Teaching
+Course Number: 57-371
+Department: Music
+Number of Units: 3
+Prerequisites: None
+Instructors: Instructor TBA
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-371 Supervised Diction Teaching>
+
+<start course description for 57-371 Supervised Diction Teaching>
+Semester: Fall 2023 (aka F23)
+Course Description: No course description provided.
+</end course description for 57-371 Supervised Diction Teaching>

@@ -1,0 +1,16 @@
+<start course metadata for 04-631 Advanced Database Systems>
+Semester: Fall 2023 (aka F23)
+Course Name: Advanced Database Systems
+Course Number: 04-631
+Department: Information & Communication Technology
+Number of Units: 12
+Prerequisites: None
+Instructors: Eric Umuhoza
+Rooms: CMR F305
+Locations: Kigali, Rwanda
+</end course metadata for 04-631 Advanced Database Systems>
+
+<start course description for 04-631 Advanced Database Systems>
+Semester: Fall 2023 (aka F23)
+Course Description: This course aims to describe databases in a way suitable for applications designers. The course initially describes the fundamental characteristics of current database architectures, giving emphasis to the concept of transaction and its implementation in a centralized and distributed environment. The course then illustrates the main lines of system evolution, presenting widespread and relevant models that go beyond  relational systems, such as active databases, object-oriented systems, and the management of XML data.
+</end course description for 04-631 Advanced Database Systems>

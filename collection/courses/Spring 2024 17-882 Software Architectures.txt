@@ -1,0 +1,16 @@
+<start course metadata for 17-882 Software Architectures>
+Semester: Spring 2024 (aka S24)
+Course Name: Software Architectures
+Course Number: 17-882
+Department: Software & Societal Systems
+Number of Units: 12
+Prerequisites: None
+Instructors: Bradley Schmerl, David Garlan
+Rooms: 3SC 265
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 17-882 Software Architectures>
+
+<start course description for 17-882 Software Architectures>
+Semester: Spring 2024 (aka S24)
+Course Description: Successful design of complex software systems requires the ability to describe, evaluate, and create systems at an architectural level of abstraction. This course introduces architectural design of complex software systems. The course considers commonly-used software system structures, techniques for designing and implementing these structures, models and formal notations for characterizing and reasoning about architectures, tools for generating specific instances of an architecture, and case studies of actual system architectures. It teaches the skills and background students need to evaluate the architectures of existing systems and to design new systems in principled ways using well-founded architectural paradigms. After completing this course, students will be able to: 1. describe an architecture accurately 2. recognize major architectural styles in existing software systems 3. generate architectural alternatives for a problem and choose among them 4. construct a medium-sized software system that satisfies an architectural specification 5. use existing definitions and development tools to expedite such tasks 6. understand the formal definition of a number of architectures and be able to reason about the properties of those architectures 7. use domain knowledge to specialize an architecture for a particular family of applications.
+</end course description for 17-882 Software Architectures>

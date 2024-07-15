@@ -1,0 +1,16 @@
+<start course metadata for 70-482 Pricing Strategy>
+Semester: Spring 2024 (aka S24)
+Course Name: Pricing Strategy
+Course Number: 70-482
+Department: Business Administration
+Number of Units: 9
+Prerequisites: None
+Instructors: Sameer Mathur
+Rooms: CMB 2049
+Locations: Doha, Qatar
+</end course metadata for 70-482 Pricing Strategy>
+
+<start course description for 70-482 Pricing Strategy>
+Semester: Spring 2024 (aka S24)
+Course Description: Pricing is a critical marketing decision which enables a firm to translate customer value into profit. This course provides a first survey of pricing concepts. Instead of discussing pricing in isolation, we focus on the interplay between pricing and other aspects of marketing, such as positioning, branding and advertising. To this end, we provide a formal treatment of pricing concepts in the framework of game theory. Finally, we also discuss non-pricing tools that firms can use in order to capture customer value. Specifically, we cover cases wherein firms generate a profit while keeping their services free, a phenomena that is widely observed among Internet firms. This course has no formal prerequisite, but a willingness to study formal (i.e., mathematical) models is assumed. Any previous exposure to microeconomics analysis and game theory will be helpful. This course may use third-party course material that is not available for individual purchase from the publisher.   If so, the third-party course material will be secured and provided by the Tepper School to students enrolled in the course, and students enrolled in the course will be required to pay to the University the associated additional course materials fee for the third-party course material provided.   The amount of the course materials fee is dependent on the University's cost of the particular materials provided, and typically ranges from $13 to $75.
+</end course description for 70-482 Pricing Strategy>

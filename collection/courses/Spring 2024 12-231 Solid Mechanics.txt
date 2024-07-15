@@ -1,0 +1,16 @@
+<start course metadata for 12-231 Solid Mechanics>
+Semester: Spring 2024 (aka S24)
+Course Name: Solid Mechanics
+Course Number: 12-231
+Department: Civil & Environmental Engineering
+Number of Units: 9
+Prerequisites: 12-212
+Instructors: Sarah Christian
+Rooms: WEH 3503
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 12-231 Solid Mechanics>
+
+<start course description for 12-231 Solid Mechanics>
+Semester: Spring 2024 (aka S24)
+Course Description: Understanding and calculating the deformation and eventual failure of solids is fundamental to the design of structures and materials for civil engineering applications ranging from structural analysis and design of buildings and bridges to the design of novel materials and structures optimized for specific functionality. This course provides students with an introduction to fundamental concepts and methods in solid mechanics. Topics covered include stress, strain, mechanical properties of materials, and geometric compatibility; response under axial loads, torsion, bending, transverse shear, and combined loadings; stress transformations and Mohr's circles, deflections of beams and shafts, and buckling of columns. Students will develop problem solving skills and apply these concepts to analyze deformable bodies.
+</end course description for 12-231 Solid Mechanics>

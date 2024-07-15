@@ -1,0 +1,16 @@
+<start course metadata for 38-304 Reading and Writing Science>
+Semester: Spring 2024 (aka S24)
+Course Name: Reading and Writing Science
+Course Number: 38-304
+Department: MCS Interdisciplinary
+Number of Units: 6
+Prerequisites: None
+Instructors: Hovis, Wynn
+Rooms: BH A51
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 38-304 Reading and Writing Science>
+
+<start course description for 38-304 Reading and Writing Science>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is designed to hone the student's ability to read scientific writing and to communicate about scientific topics to audiences with different levels of interest and expertise in science. This course introduces students to frameworks for identifying the linguistic features of scientific argumentation in research papers across a range of scientific disciplines to improve their reading and writing of scientific content. The course also examines how scientific information changes when it is reported in the popular media and the effects these changes have on non-experts' understanding of science. Students will use these changes as a model for writing about scientific research to non-expert audiences. Finally, this course gives students the opportunity to practice science communication by creating oral presentations for their peers. The curriculum in this course is drawn from rhetoric: a discipline focused on the analysis and production of language, arrangement, and argument strategically designed to persuade an audience.
+</end course description for 38-304 Reading and Writing Science>

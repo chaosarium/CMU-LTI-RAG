@@ -1,0 +1,16 @@
+<start course metadata for 15-316 Software Foundations of Security and Privacy>
+Semester: Fall 2023 (aka F23)
+Course Name: Software Foundations of Security and Privacy
+Course Number: 15-316
+Department: Computer Science
+Number of Units: 9
+Prerequisites: 15-213
+Instructors: Matthew Fredrikson
+Rooms: POS 153
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-316 Software Foundations of Security and Privacy>
+
+<start course description for 15-316 Software Foundations of Security and Privacy>
+Semester: Fall 2023 (aka F23)
+Course Description: Security and privacy issues in computer systems continue to be a pervasive issue in technology and society. Understanding the security and privacy needs of software, and being able to rigorously demonstrate that those needs are met, is key to eliminating vulnerabilities that cause these issues. Students who take this course will learn the principles needed to make these assurances about software, and some of the key strategies used to make sure that they are correctly implemented in practice. Topics include: policy models and mechanisms for confidentiality, integrity, and availability, language-based techniques for detecting and preventing security threats, mechanisms for enforcing privacy guarantees, and the interaction between software and underlying systems that can give rise to practical security threats. Students will also gain experience applying many of these techniques to write code that is secure by construction.
+</end course description for 15-316 Software Foundations of Security and Privacy>

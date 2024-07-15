@@ -1,0 +1,16 @@
+<start course metadata for 04-634 Software Architecture and Design>
+Semester: Spring 2024 (aka S24)
+Course Name: Software Architecture and Design
+Course Number: 04-634
+Department: Information & Communication Technology
+Number of Units: 12
+Prerequisites: None
+Instructors: Eric Umuhoza
+Rooms: CMR F205
+Locations: Kigali, Rwanda
+</end course metadata for 04-634 Software Architecture and Design>
+
+<start course description for 04-634 Software Architecture and Design>
+Semester: Spring 2024 (aka S24)
+Course Description: Software Architecture and Design is a one-semester course, aiming to train our graduate students from software engineers toward becoming software architects who are the technical lead of a software project team. The primary objective of the course is to help students develop skills in designing, developing, and justifying reasonable software architecture for enterprise-scale software-intensive systems, considering both functional and non-functional requirements as well as contextual system environments. Core topics include an overview of software architecture, micro-architectural patterns (so-called design patterns), macro-architectural patterns (i.e., modern patterns), service-oriented architecture, architectural modeling, viewpoints and perspectives, architectural analysis techniques, architectural tactics (QoS), agile architecture, and some advanced topics. Literature survey and study of state-of-the-art technologies, as well as both individual and group project work, are essential ingredients of this class. Research and practical projects build upon one another. Please note that this course is intended for ECE master students with a concentration in Software Engineering and will satisfy the Software Engineering and Design requirement.
+</end course description for 04-634 Software Architecture and Design>

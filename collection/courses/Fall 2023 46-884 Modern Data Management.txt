@@ -1,0 +1,16 @@
+<start course metadata for 46-884 Modern Data Management>
+Semester: Fall 2023 (aka F23)
+Course Name: Modern Data Management
+Course Number: 46-884
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Robert Monroe
+Rooms: TEP 2112
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 46-884 Modern Data Management>
+
+<start course description for 46-884 Modern Data Management>
+Semester: Fall 2023 (aka F23)
+Course Description: TBA
+</end course description for 46-884 Modern Data Management>

@@ -1,0 +1,16 @@
+<start course metadata for 60-499 Studio Independent Study>
+Semester: Fall 2023 (aka F23)
+Course Name: Studio Independent Study
+Course Number: 60-499
+Department: Art
+Number of Units: N/A
+Prerequisites: None
+Instructors: Andrew Johnson, Angela Washko, Britt Ransom, Clayton Merrell, Elizabeth Chodos, Golan Levin, Instructor TBA, Isla Hansen, Johannes DeYoung, Jon Rubin, Lyndon Barrois, Thomas Corbett
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 60-499 Studio Independent Study>
+
+<start course description for 60-499 Studio Independent Study>
+Semester: Fall 2023 (aka F23)
+Course Description: A tutorial studio in which an Art student works individually on a self-generated project under the supervision of a School of Art faculty member.  Prior to enrolling in Independent Study, the student must complete an "Independent Study Proposal" form (available in the bins on the 3rd floor of CFA) which is signed by the faculty member and the Assistant Head of Academic Affairs of the School of Art. Prerequisite: Art Junior/Senior status and by instructor permission.
+</end course description for 60-499 Studio Independent Study>

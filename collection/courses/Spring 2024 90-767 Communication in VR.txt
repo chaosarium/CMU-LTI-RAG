@@ -1,0 +1,16 @@
+<start course metadata for 90-767 Communication in VR>
+Semester: Spring 2024 (aka S24)
+Course Name: Communication in VR
+Course Number: 90-767
+Department: Public Policy & Mgt:Sch of Pub Pol & Mgt
+Number of Units: 6
+Prerequisites: None
+Instructors: Kim Hyatt
+Rooms: HBH 1208
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 90-767 Communication in VR>
+
+<start course description for 90-767 Communication in VR>
+Semester: Spring 2024 (aka S24)
+Course Description: We will conduct exploratory research to investigate how virtual reality (VR) environments can be designed to encourage certain behaviors in groups, specifically collaborative practices in professional settings. Our research will draw from virtual environment design and social psychology to focus on 3 situations of collaboration within professional settings:   1. Relationship-building (during business meetings) 2. Presentations for decision-making (giving a speech to a diverse group) 3. Co-creation sessions (teamwork for projects)
+</end course description for 90-767 Communication in VR>

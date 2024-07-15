@@ -1,0 +1,16 @@
+<start course metadata for 03-600 Biotechnology or Biopharmaceutical Engineering Internship>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Name: Biotechnology or Biopharmaceutical Engineering Internship
+Course Number: 03-600
+Department: Biological Sciences
+Number of Units: 3
+Prerequisites: None
+Instructors: Daniel Brasier, Natalie McGuier
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 03-600 Biotechnology or Biopharmaceutical Engineering Internship>
+
+<start course description for 03-600 Biotechnology or Biopharmaceutical Engineering Internship>
+Semester: Summer One/All 2024 (aka M24, M24 Mini 1 or M24 Full, Summer 2024 Mini 1)
+Course Description: This course allows a student to gain biotechnology experience in a "real-world" setting. Internships vary widely in scope, but common to all is the chance to practice biotechnology skills acquired in the classroom. Typically, students seek and secure their own internships. Students are required to write written reflections summarizing their internship work and submit those to the course instructor.
+</end course description for 03-600 Biotechnology or Biopharmaceutical Engineering Internship>

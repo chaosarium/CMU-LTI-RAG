@@ -1,0 +1,16 @@
+<start course metadata for 73-332 Political Economy>
+Semester: Spring 2024 (aka S24)
+Course Name: Political Economy
+Course Number: 73-332
+Department: Economics
+Number of Units: 9
+Prerequisites: (73-160 or 73-230) and (36-200 or 36-201)
+Instructors: Stephen Spear
+Rooms: TEP 2702
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 73-332 Political Economy>
+
+<start course description for 73-332 Political Economy>
+Semester: Spring 2024 (aka S24)
+Course Description: The Political Economy course looks at how groups within society organize for self-governance.  The course will begin with an overview of the ways groups of individuals organize for collective action by examining different types of political institutions, the role these institutions play in different contexts, and the economic and strategic micro-foundations that give rise to these institutions.  We will then examine the empirical evidence supporting this taxonomy, leading to a more detailed consideration of institutions that moderate social conflicts.  The next part of the course examines basic results in social choice theory: the Condorcet paradox, Arrow's Impossibility Theorem, majority rule, median voter theories, and modern treatments of probabilistic voting models that allow for strategic behavior, misrepresentation of preferences, and policy manipulation.  From this basis for understanding collective choice mechanisms, we will then examine how institutions foster cooperation, looking in detail at problems of public goods allocation, redistribution of income, the organization of clubs - interest groups and lobbying associations --in the private sector, and the organization of legislative activities in the public sector.  In our examination of voting and electoral mechanisms, we will look at practical applications of the theory to problems of gerrymandering, voter suppression, and propaganda that feature prominently in contemporary political discourse.
+</end course description for 73-332 Political Economy>

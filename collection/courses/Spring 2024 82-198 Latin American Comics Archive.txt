@@ -1,0 +1,16 @@
+<start course metadata for 82-198 Latin American Comics Archive>
+Semester: Spring 2024 (aka S24)
+Course Name: Latin American Comics Archive
+Course Number: 82-198
+Department: Modern Languages
+Number of Units: N/A
+Prerequisites: None
+Instructors: Felipe Gomez, Kiyono Fujinaga-Gordon, Seth Wiener
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 82-198 Latin American Comics Archive>
+
+<start course description for 82-198 Latin American Comics Archive>
+Semester: Spring 2024 (aka S24)
+Course Description: S23: Section A: Section A, Professor Felipe Gomez Latin American Comics Archive This project involves research of Latin American comics. The course will teach the basics of Comic Book Markup Language (CBML, a TEI-based XML vocabulary) for encoding and analyzing the structural, textual, visual, and bibliographic complexity of digitized comic books and related documents. Student researchers will assist in: a) editing, marking up, and structuring digitized Latin American comics; b) reading and subjecting these texts to interpretation, making inferences, and embarking in theoretical explorations of issues according to given criteria. Long-term results of this project entail possible inclusion of encoded materials in the Latin American Comics Archive (LACA), an award-winning Digital Humanities project; collaboration with national and international students and researchers; and perhaps a published work (for which student participants would be acknowledged as contributors).   Open to one or more students with at least low-intermediate level reading skills in Spanish.  Interested students should send an email to Prof. Gomez (fgomez@andrew.cmu.edu) and include information about your interests in this project.
+</end course description for 82-198 Latin American Comics Archive>

@@ -1,0 +1,16 @@
+<start course metadata for 15-294 Rapid Prototyping Technologies>
+Semester: Spring 2024 (aka S24)
+Course Name: Rapid Prototyping Technologies
+Course Number: 15-294
+Department: Computer Science
+Number of Units: 5
+Prerequisites: 15-104 or 15-110 or 15-112
+Instructors: David Touretzky
+Rooms: HL 106B
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-294 Rapid Prototyping Technologies>
+
+<start course description for 15-294 Rapid Prototyping Technologies>
+Semester: Spring 2024 (aka S24)
+Course Description: This mini-course introduces students to rapid prototyping technologies with a focus on laser cutting and 3D printing.  The course has three components: 1) A survey of rapid prototyping and additive manufacturing technologies, the maker and open source movements, and societal impacts of these technologies; 2) An introduction to the computer science behind these technologies: CAD tools, file formats, slicing algorithms; 3) Hands-on experience with SolidWorks, laser cutting, and 3D printing, culminating in student projects (e.g. artistic creations, functional objects, replicas of famous calculating machines, etc.).
+</end course description for 15-294 Rapid Prototyping Technologies>

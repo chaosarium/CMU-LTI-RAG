@@ -1,0 +1,16 @@
+<start course metadata for 09-502 Organic Chemistry of Polymers>
+Semester: Spring 2024 (aka S24)
+Course Name: Organic Chemistry of Polymers
+Course Number: 09-502
+Department: Chemistry
+Number of Units: 9
+Prerequisites: 09-218 or 09-220
+Instructors: Krzysztof Matyjaszewski
+Rooms: MI 448
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 09-502 Organic Chemistry of Polymers>
+
+<start course description for 09-502 Organic Chemistry of Polymers>
+Semester: Spring 2024 (aka S24)
+Course Description: A study of the synthesis and reactions of high polymers. Emphasis is on practical polymer preparation and on the fundamental kinetics and mechanisms of polymerization reactions. Topics include: relationship of synthesis and structure, step-growth polymerization, chain-growth polymerization via  radical, ionic and coordination intermediates, copolymerization, discussions of specialty polymers and reactions of polymers. 09-509, Physical Chemistry of Macromolecules, is excellent preparation for this course but is not required. 3-6 hrs. lec. (Graduate Course: 12 units, 09-741)
+</end course description for 09-502 Organic Chemistry of Polymers>

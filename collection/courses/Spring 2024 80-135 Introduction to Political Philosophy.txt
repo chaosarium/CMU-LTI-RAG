@@ -1,0 +1,16 @@
+<start course metadata for 80-135 Introduction to Political Philosophy>
+Semester: Spring 2024 (aka S24)
+Course Name: Introduction to Political Philosophy
+Course Number: 80-135
+Department: Philosophy
+Number of Units: 9
+Prerequisites: None
+Instructors: Derrick Gray
+Rooms: WEH 4625
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 80-135 Introduction to Political Philosophy>
+
+<start course description for 80-135 Introduction to Political Philosophy>
+Semester: Spring 2024 (aka S24)
+Course Description: At the heart of political philosophy lie fundamental questions such as: What constitutes a just society? How, and under what circumstances do individuals incur political obligations to a particular state? This course provides a systematic investigation of the way such questions are answered by dominant schools of liberal political theory, such as the social contract tradition, utilitarianism and libertarianism. Later we will introduce critiques from socialist, and feminist theorists. Readings are drawn from classic works by authors such as Plato, Hobbes and Locke, and from the works of more contemporary theorists like Rawls, and Nozick.
+</end course description for 80-135 Introduction to Political Philosophy>

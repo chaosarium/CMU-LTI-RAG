@@ -1,0 +1,16 @@
+<start course metadata for 24-692 Special Topics: Engineering a Startup: How to Start and Grow a Hardware Company>
+Semester: Spring 2024 (aka S24)
+Course Name: Special Topics: Engineering a Startup: How to Start and Grow a Hardware Company
+Course Number: 24-692
+Department: Mechanical Engineering
+Number of Units: 12
+Prerequisites: None
+Instructors: Aaron Morris, Mike Formica
+Rooms: GHC 4211
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-692 Special Topics: Engineering a Startup: How to Start and Grow a Hardware Company>
+
+<start course description for 24-692 Special Topics: Engineering a Startup: How to Start and Grow a Hardware Company>
+Semester: Spring 2024 (aka S24)
+Course Description: Many modern devices are created by entrepreneurs starting their own enterprises. This course will provide a practical foundation for creating a new technology company. Specifically, it focuses on the unique challenges with creating, funding, and scaling a hardware-centric startup, with a heavy focus on examining real world examples of engineered product companies. Topics will include: issues with product development processes in a startup setting, identifying key market differentiators, launching a product to market, fund raising strategies, establishing and scaling manufacturing, and creating and understanding financial statements. This class is geared towards students with no business experience.  The class will feature guest speakers with entrepreneurial experience developing and launching high tech products. The class will culminate with student teams creating and presenting an original pitch deck to a review board of entrepreneurs and investors.
+</end course description for 24-692 Special Topics: Engineering a Startup: How to Start and Grow a Hardware Company>

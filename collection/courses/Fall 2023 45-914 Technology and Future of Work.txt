@@ -1,0 +1,16 @@
+<start course metadata for 45-914 Technology and Future of Work>
+Semester: Fall 2023 (aka F23)
+Course Name: Technology and Future of Work
+Course Number: 45-914
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Laurence Ales
+Rooms: TEP 2202
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-914 Technology and Future of Work>
+
+<start course description for 45-914 Technology and Future of Work>
+Semester: Fall 2023 (aka F23)
+Course Description: The goal of the course is to understand how changes in technology will affect workers in the near future. The course will draw from research spanning both economics and engineering. The emphasis will be both theoretical and quantitative. On the theoretical side, the course will overview recent economic theories of technological change that analyze the changing nature of work and the changing demands for workers' abilities. To gain an in-depth understanding of technology and to decompose the impacts on workers, the course will also look at engineering models of production. The class will focus on a wide range of technologies both historical and modern, ranging from early forms of automation to advanced robotics, additive manufacturing and AI. On the quantitative side, the course will provide students with hands-on opportunities for analyzing data. For example, students will use both data on technological adoption  and worker-level data to learn broad lessons on the impact of technology both in the US as well as in other advanced economies. The class will conclude by looking at the set of policies available to governments aimed at easing the transition of technologically-displaced workers. Examples will include universal basic income and retraining programs.
+</end course description for 45-914 Technology and Future of Work>

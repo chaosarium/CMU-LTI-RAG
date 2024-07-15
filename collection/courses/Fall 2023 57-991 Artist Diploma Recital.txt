@@ -1,0 +1,16 @@
+<start course metadata for 57-991 Artist Diploma Recital>
+Semester: Fall 2023 (aka F23)
+Course Name: Artist Diploma Recital
+Course Number: 57-991
+Department: Music
+Number of Units: 1
+Prerequisites: None
+Instructors: Instructor TBA
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 57-991 Artist Diploma Recital>
+
+<start course description for 57-991 Artist Diploma Recital>
+Semester: Fall 2023 (aka F23)
+Course Description: TBA.
+</end course description for 57-991 Artist Diploma Recital>

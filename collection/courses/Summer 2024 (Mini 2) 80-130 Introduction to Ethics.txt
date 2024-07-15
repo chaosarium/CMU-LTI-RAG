@@ -1,0 +1,16 @@
+<start course metadata for 80-130 Introduction to Ethics>
+Semester: Summer Two 2024 (aka M24, M24 Mini 2, Summer 2024 Mini 2)
+Course Name: Introduction to Ethics
+Course Number: 80-130
+Department: Philosophy
+Number of Units: 9
+Prerequisites: None
+Instructors: Emily Ann Pasetes
+Rooms: PH A19A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 80-130 Introduction to Ethics>
+
+<start course description for 80-130 Introduction to Ethics>
+Semester: Summer Two 2024 (aka M24, M24 Mini 2, Summer 2024 Mini 2)
+Course Description: Philosophical ethics, or moral philosophy, covers a lot of ground. It asks and tries to answer questions like: What's good in life? What matters? What should I (and others) do? How should I (and others) act? What kinds of things out there must be treated ethically? Do we have moral duties to (at least some) non-human animals? Is morality subjective? Are there actually any objective moral truths? Morally speaking, what (if anything) is the difference between killing someone, and simply letting them die? In trying to answer these questions (and others), we'll engage in some wonderfully weird thought experiments, class discussions, smaller group discussions, debates, etc. We'll study and critique several moral theories which try to explain and help guide our moral judgments, and we'll try to apply these theories to real-life moral controversies. Past classes covered topics including drug prohibition, abortion, euthanasia, and physician-assisted suicide. This is an introductory philosophy class, so you'll be learning how to read, critique, do, and write philosophy generally, not just ethics. Considerable time and effort, both in lectures and in recitations, will be spent helping you learn to recognize and evaluate philosophical arguments, as well as empowering you to create, improve, and defend your own arguments in class assignments.
+</end course description for 80-130 Introduction to Ethics>

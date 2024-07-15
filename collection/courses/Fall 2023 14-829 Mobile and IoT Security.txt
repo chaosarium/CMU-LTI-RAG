@@ -1,0 +1,16 @@
+<start course metadata for 14-829 Mobile and IoT Security>
+Semester: Fall 2023 (aka F23)
+Course Name: Mobile and IoT Security
+Course Number: 14-829
+Department: Information Networking Institute
+Number of Units: 12
+Prerequisites: (18-631 or 18-730 or 14-741) and (14-740 or 18-756 or 15-641)
+Instructors: Patrick Tague
+Rooms: B23 118; INI DEC
+Locations: Pittsburgh, Pennsylvania; San Jose, California
+</end course metadata for 14-829 Mobile and IoT Security>
+
+<start course description for 14-829 Mobile and IoT Security>
+Semester: Fall 2023 (aka F23)
+Course Description: For many people, mobile and embedded devices have become an essential part of life and work.  As such devices represent many and varied combinations of technologies, they have unique security and privacy issues that potentially impact users, developers, service providers, manufacturers, and regulators.  This course will focus on various aspects of security and privacy that are faced by mobile and Internet of Things devices, including aspects of wireless communication and networking, mobile computing, data analytics, security, and privacy.  The course will include studies of security and privacy aspects of networking (including telecom, enterprise, personal, etc.), applications, and data analytics as relevant to mobile and embedded/IoT devices.  One of the main goals of the course is to improve knowledge and awareness of security issues faced by mobile application developers, embedded system builders, and smart system designers.  Material will cover standards, best practices, and research challenges in both deployed and emerging systems.  Topics of study include (but are not limited to) telecom protocols and vulnerabilities; mobile/IoT network security; security and privacy in edge computing; mobile application security; and location and activity privacy.  In addition to individual homework assignments, students will participate in an intensive group project involving significant research, development, and experimentation.  Graduate standing is required to register for this course.
+</end course description for 14-829 Mobile and IoT Security>

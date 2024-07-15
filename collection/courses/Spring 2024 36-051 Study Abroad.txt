@@ -1,0 +1,16 @@
+<start course metadata for 36-051 Study Abroad>
+Semester: Spring 2024 (aka S24)
+Course Name: Study Abroad
+Course Number: 36-051
+Department: Statistics and Data Science
+Number of Units: 0
+Prerequisites: None
+Instructors: TBA
+Rooms: 
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 36-051 Study Abroad>
+
+<start course description for 36-051 Study Abroad>
+Semester: Spring 2024 (aka S24)
+Course Description: None
+</end course description for 36-051 Study Abroad>

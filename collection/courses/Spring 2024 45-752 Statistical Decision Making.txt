@@ -1,0 +1,16 @@
+<start course metadata for 45-752 Statistical Decision Making>
+Semester: Spring 2024 (aka S24)
+Course Name: Statistical Decision Making
+Course Number: 45-752
+Department: Business Administration
+Number of Units: 6
+Prerequisites: None
+Instructors: Dennis Epple, Maryam Saeedi
+Rooms: TEP 2202
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 45-752 Statistical Decision Making>
+
+<start course description for 45-752 Statistical Decision Making>
+Semester: Spring 2024 (aka S24)
+Course Description: Description:  The object of this course is to provide a simple but rigorous framework for  understanding modern macroeconomic issues, debates, crises and solutions. We will develop simple models of the economy that can be used to better understand the behavior of the economy as a whole and the sources of the various controversies concerning macroeconomic policy. The class notes and topics are updated every mini and throughout the course in an effort to incorporate both new research in macroeconomics and topical issues in the US economy and worldwide.
+</end course description for 45-752 Statistical Decision Making>

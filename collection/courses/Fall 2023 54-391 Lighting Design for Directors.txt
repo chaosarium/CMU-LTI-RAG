@@ -1,0 +1,16 @@
+<start course metadata for 54-391 Lighting Design for Directors>
+Semester: Fall 2023 (aka F23)
+Course Name: Lighting Design for Directors
+Course Number: 54-391
+Department: Drama
+Number of Units: 4
+Prerequisites: None
+Instructors: Robert Thomson
+Rooms: PCA 211
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 54-391 Lighting Design for Directors>
+
+<start course description for 54-391 Lighting Design for Directors>
+Semester: Fall 2023 (aka F23)
+Course Description: An exploration of the lighting design process that will provide the tools for stage directors to communicate, collaborate and explore with designers.  Students will explore the physical properties of light and the artistic potential of light through script analysis and hands on use of the Light Lab. (For Junior Directing Students)
+</end course description for 54-391 Lighting Design for Directors>

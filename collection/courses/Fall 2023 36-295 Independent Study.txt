@@ -1,0 +1,16 @@
+<start course metadata for 36-295 Independent Study>
+Semester: Fall 2023 (aka F23)
+Course Name: Independent Study
+Course Number: 36-295
+Department: Statistics and Data Science
+Number of Units: N/A
+Prerequisites: 36-201
+Instructors: Instructor TBA
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 36-295 Independent Study>
+
+<start course description for 36-295 Independent Study>
+Semester: Fall 2023 (aka F23)
+Course Description: Statistics majors are given the opportunity to conduct original research under the direction of a faculty member. Students are expected to propose a research topic, design and implement the study, analyze the data, and prepare a written report describing the investigation and results.
+</end course description for 36-295 Independent Study>

@@ -1,0 +1,16 @@
+<start course metadata for 51-971 Coda I>
+Semester: Fall 2023 (aka F23)
+Course Name: Coda I
+Course Number: 51-971
+Department: Design
+Number of Units: 36
+Prerequisites: None
+Instructors: Jonathan Chapman
+Rooms: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-971 Coda I>
+
+<start course description for 51-971 Coda I>
+Semester: Fall 2023 (aka F23)
+Course Description: This course provides the critical space for divergent research themes to coalesce into a clear and conclusive body of research. You will assemble your dissertation ready for examination in May of the final semester. Dissertations can be entirely written (60-80K words), or a body of written and practical work (40-60K words, by negotiation). Your final body of work must demonstrate an original contribution to knowledge which expands understanding of transition design. Topics include: Distilling Research Findings; Finding your Voice; Making your Point; Coalescing Divergent Themes; Dissertation Production; Editing & Refining; and, Viva Prep.
+</end course description for 51-971 Coda I>

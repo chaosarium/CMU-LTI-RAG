@@ -1,0 +1,16 @@
+<start course metadata for 24-321 Thermal-Fluids Experimentation>
+Semester: Spring 2024 (aka S24)
+Course Name: Thermal-Fluids Experimentation
+Course Number: 24-321
+Department: Mechanical Engineering
+Number of Units: 12
+Prerequisites: 24-221 and 24-231 and 24-322
+Instructors: Jonathan Malen, Satbir Singh
+Rooms: ANS 106
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 24-321 Thermal-Fluids Experimentation>
+
+<start course description for 24-321 Thermal-Fluids Experimentation>
+Semester: Spring 2024 (aka S24)
+Course Description: Thermal-Fluids Experimentation  Spring: 12 units This is a capstone course for the thermal-fluids core-course sequence. This course covers techniques of measurement, uncertainty analysis, and realization of systems, which demonstrate fundamental principles in thermodynamics, fluid mechanics, and heat transfer. The principles of designing thermal experiments are also integrated into this course.
+</end course description for 24-321 Thermal-Fluids Experimentation>

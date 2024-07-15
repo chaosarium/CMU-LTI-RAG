@@ -1,0 +1,16 @@
+<start course metadata for 51-441 Foundation of BME Design>
+Semester: Fall 2023 (aka F23)
+Course Name: Foundation of BME Design
+Course Number: 51-441
+Department: Design
+Number of Units: 6
+Prerequisites: None
+Instructors: Conrad Zapanta, Wayne Chung
+Rooms: BH A36
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 51-441 Foundation of BME Design>
+
+<start course description for 51-441 Foundation of BME Design>
+Semester: Fall 2023 (aka F23)
+Course Description: This course focuses on the Product Development scope and framing of a new medical device.  Students will work together in an interdisciplinary team with Biomedical Engineering students to identify medical professional or patient needs through behavioral research and participatory research methods.  This course deliverable requires the team to propose the problem space and develop a design brief and plan for the following Spring semester to implement.  Prerequisite: Junior level design or higher with studio training.  Solid modeling or surface modeling recommended.
+</end course description for 51-441 Foundation of BME Design>

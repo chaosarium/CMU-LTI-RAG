@@ -1,0 +1,16 @@
+<start course metadata for 33-121 Physics I for Science Students>
+Semester: Spring 2024 (aka S24)
+Course Name: Physics I for Science Students
+Course Number: 33-121
+Department: Physics
+Number of Units: 12
+Prerequisites: None
+Instructors: Matthew Walker
+Rooms: DH 1212
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 33-121 Physics I for Science Students>
+
+<start course description for 33-121 Physics I for Science Students>
+Semester: Spring 2024 (aka S24)
+Course Description: This calculus-based course combines the basic principles of mechanics with some quantum physics and relativity to explain nature on both a microscopic and macroscopic scale. The course will build models to describe the universe based on a small number of fundamental physics principles. Some simple computer modeling will be done to develop insight into the solving of problems using Newton's laws. Topics covered will include vectors, momentum, force, gravitation, oscillations, energy, quantum physics, center of mass motion, rotation, angular momentum, statistical physics, and the laws of thermodynamics. No computer experience is needed.  Examples illustrating basic principles being presented will be taken from physics, chemistry, and biology.
+</end course description for 33-121 Physics I for Science Students>

@@ -1,0 +1,16 @@
+<start course metadata for 49-313 Designing for the Internet of Things>
+Semester: Fall 2023 (aka F23)
+Course Name: Designing for the Internet of Things
+Course Number: 49-313
+Department: Integrated Innovation Institute
+Number of Units: 12
+Prerequisites: None
+Instructors: Brandon Bodily
+Rooms: HL A5
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 49-313 Designing for the Internet of Things>
+
+<start course description for 49-313 Designing for the Internet of Things>
+Semester: Fall 2023 (aka F23)
+Course Description: Thermostats, locks, power sockets, and lights are all being imbued with smarts making them increasingly aware and responsive to their environment and users. This course will chart the emergence of the now connected world to explore the possibilities for future products and connected spaces. This introductory, hands-on course invites students to creating connected products without any knowledge of programming, electronics or systems. Students will be introduced to interactive connected technologies through a series of hands on exercises, collaborative projects, in depth discussions, and instructor led tutorials. Topics explored will include awareness, real time sensing and communication, embedded intelligence, and designing experiences for the internet of things. By the end of this course, students will be familiar with the core skills, the considerations involved and design process required to build a connected system. Students will also apply this learning in collaborative groups to realize a prototype-connected product. This course is offered for undergraduate students in IDeATe.
+</end course description for 49-313 Designing for the Internet of Things>

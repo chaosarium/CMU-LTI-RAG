@@ -1,0 +1,16 @@
+<start course metadata for 60-714 MFA Thesis Exhibition>
+Semester: Spring 2024 (aka S24)
+Course Name: MFA Thesis Exhibition
+Course Number: 60-714
+Department: Art
+Number of Units: 12
+Prerequisites: None
+Instructors: Elizabeth Chodos
+Rooms: HOA 323
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 60-714 MFA Thesis Exhibition>
+
+<start course description for 60-714 MFA Thesis Exhibition>
+Semester: Spring 2024 (aka S24)
+Course Description: MFA students are required to register for this 12 unit course in the Spring of their third year. Students will work in close contact with the Program Director, their thesis advisors, and the staff of the Miller Institute for Contemporary Art to prepare for, install, and de-install their thesis exhibition work. Students are required to attend all Exhibition planning meetings with the Miller staff, and will provide deliverables regarding the exhibition, marketing, and publications on time. Limited funds will be provided to each student to assist in exhibition costs; these funds will be established annually with each student receiving equal support.
+</end course description for 60-714 MFA Thesis Exhibition>

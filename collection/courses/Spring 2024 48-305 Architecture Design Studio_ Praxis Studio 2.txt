@@ -1,0 +1,16 @@
+<start course metadata for 48-305 Architecture Design Studio: Praxis Studio 2>
+Semester: Spring 2024 (aka S24)
+Course Name: Architecture Design Studio: Praxis Studio 2
+Course Number: 48-305
+Department: Architecture
+Number of Units: 18
+Prerequisites: 48-300
+Instructors: Jeremy Ficca
+Rooms: POS 146
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 48-305 Architecture Design Studio: Praxis Studio 2>
+
+<start course description for 48-305 Architecture Design Studio: Praxis Studio 2>
+Semester: Spring 2024 (aka S24)
+Course Description: This studio introduces integrated architectural design as the synthesis of disparate elements, demands, and desires. It situates architecture as a technological, cultural, and environmental process that is inherently contingent and entangled, yet tethered to a historical project of autonomy. It is within the contested space between these two notions of architecture that the studio operates. The studio sets out alternatives to extractive practices and introduces students to bio-based material practices and computationally facilitated methods of manufacturing and construction. While the studio directs attention to concerns of building, such as context, building systems, program, and regulatory constraints, it challenges students to situate design as a Project that engages contemporary discourse and ecological imperatives to explore emerging aesthetics, spatial organizations, and materializations.  Our discussions and your work this semester will be guided by the following overarching questions:  What is architecture's capacity to facilitate civic exchange/life in America today?  How might we understand public space today?  What are the public spaces, rooms, and interiors of the city in an era of increasing virtuality and privatization of public space?  How do building typologies evolve and transform in response to technological and cultural shifts?  How can architecture support and reveal the fluid and diverse needs of a community?  How might a material-first, carbon-aware approach infuse the design process with greater material specificity and productive constraints?
+</end course description for 48-305 Architecture Design Studio: Praxis Studio 2>

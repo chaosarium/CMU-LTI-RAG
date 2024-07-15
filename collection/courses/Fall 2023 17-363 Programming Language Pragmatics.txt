@@ -1,0 +1,16 @@
+<start course metadata for 17-363 Programming Language Pragmatics>
+Semester: Fall 2023 (aka F23)
+Course Name: Programming Language Pragmatics
+Course Number: 17-363
+Department: Software & Societal Systems
+Number of Units: 12
+Prerequisites: (15-150) and (21-228 or 15-251)
+Instructors: Benjamin Titzer, Jonathan Aldrich
+Rooms: DH 2105
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 17-363 Programming Language Pragmatics>
+
+<start course description for 17-363 Programming Language Pragmatics>
+Semester: Fall 2023 (aka F23)
+Course Description: This course provides a broad and pragmatic foundation in the most basic tool of the programmer: programming languages.  It starts with the fundamentals of syntax, parsing, and binding, the core structural concepts in programming languages.  The course will then cover program semantics and type systems, and students will learn to relate them with a type soundness theorem.  Finally, a coverage of intermediate optimization and code generation offers the opportunity to discuss both producing efficient code and reasoning about the correctness of program transformations.  Assignments involve a combination of tool-assisted formal reasoning and proofs about programming languages, and implementing these language constructs in a compiler.  This course fulfills the Logic & Languages constrained elective of the B.S. in Computer Science.  Students with substantial math and programming experience who have not satisfied the specific prerequisites can contact the instructor for permission to enroll.
+</end course description for 17-363 Programming Language Pragmatics>

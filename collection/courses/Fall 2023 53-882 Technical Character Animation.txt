@@ -1,0 +1,16 @@
+<start course metadata for 53-882 Technical Character Animation>
+Semester: Fall 2023 (aka F23)
+Course Name: Technical Character Animation
+Course Number: 53-882
+Department: Entertainment Technology
+Number of Units: 10
+Prerequisites: None
+Instructors: Moshe Mahler
+Rooms: BH 140A
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 53-882 Technical Character Animation>
+
+<start course description for 53-882 Technical Character Animation>
+Semester: Fall 2023 (aka F23)
+Course Description: Technical Character Animation is a deep dive into the fundamental concepts of character animation and "The Illusion of Life."  This course will focus on building a foundation of body mechanics that demonstrate weight, balance, and authenticity. Through a series of strategically designed modules, students will gain a command of the 12 principles of animation, beginning with a ball bounce to more advanced block, spline, and polish workflows. This course is designed to give students exposure to the art of movement as it is done by animators in the fx, film, and game industries.
+</end course description for 53-882 Technical Character Animation>

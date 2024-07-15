@@ -1,0 +1,16 @@
+<start course metadata for 76-269 Introduction to Screenwriting>
+Semester: Fall 2023 (aka F23)
+Course Name: Introduction to Screenwriting
+Course Number: 76-269
+Department: English
+Number of Units: 9
+Prerequisites: (76-101) or (76-102) or (76-106 and 76-107) or (76-106 and 76-108) or (76-107 and 76-108)
+Instructors: Sharon Dilworth
+Rooms: BH 255B; WEH 5328
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 76-269 Introduction to Screenwriting>
+
+<start course description for 76-269 Introduction to Screenwriting>
+Semester: Fall 2023 (aka F23)
+Course Description: This is a course in screenplay narrative. The screenplay has a certain format observed by every screenwriter. It is not so difficult to learn the format. The difficulty is in developing a screen story populated by believable characters, creating an expressive and logical relationship between the scenes by manipulating screen space and screen time (knowing what to omit from the story and what to emphasize), and finally writing dialogue that sounds real, but that does not simply copy everyday speech. The class will be structured into weekly writing exercises, discussion of the narratives under consideration, presentation and discussion of student work, and a final writing project.
+</end course description for 76-269 Introduction to Screenwriting>

@@ -1,0 +1,16 @@
+<start course metadata for 15-721 Advanced Database Systems>
+Semester: Spring 2024 (aka S24)
+Course Name: Advanced Database Systems
+Course Number: 15-721
+Department: Computer Science
+Number of Units: 12
+Prerequisites: None
+Instructors: Andrew Pavlo
+Rooms: GHC 4303
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 15-721 Advanced Database Systems>
+
+<start course description for 15-721 Advanced Database Systems>
+Semester: Spring 2024 (aka S24)
+Course Description: This course is a comprehensive study of the internals of modern database management systems. It will cover the core concepts and fundamentals of the components that are used in large-scale analytical systems (OLAP). The class will stress both efficiency and correctness of the implementation of these ideas.
+</end course description for 15-721 Advanced Database Systems>

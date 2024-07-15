@@ -1,0 +1,16 @@
+<start course metadata for 33-101 Black Holes>
+Semester: Spring 2024 (aka S24)
+Course Name: Black Holes
+Course Number: 33-101
+Department: Physics
+Number of Units: N/A
+Prerequisites: None
+Instructors: Tiziana Di Matteo
+Rooms: DH A301D
+Locations: Pittsburgh, Pennsylvania
+</end course metadata for 33-101 Black Holes>
+
+<start course description for 33-101 Black Holes>
+Semester: Spring 2024 (aka S24)
+Course Description: Various seminars are offered that introduce first-year students to current topics of modern physics. These are mini courses that meet for half a semester. In the past, seminar topics have included: Science and Science Fiction, Astrophysics, Black Holes, Cosmology and Supernovae, Elementary Particles, and The Building Blocks of Matter. These seminars are open only to MCS first year students.
+</end course description for 33-101 Black Holes>
