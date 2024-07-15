@@ -1,0 +1,9 @@
+src/.DS_Store
+.DS_Store
+**/.DS_Store
+node_modules
+*.bin
+__pycache__
+**/.ragatouille
+**/experiments/default/indexes
+.vscode

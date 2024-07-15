@@ -1,0 +1,6 @@
+[submodule "src/retrieval/ColBERT"]
+	path = src/retrieval/ColBERT
+	url = https://github.com/stanford-futuredata/ColBERT.git
+[submodule "src/lib/ColBERT"]
+	path = src/lib/ColBERT
+	url = https://github.com/stanford-futuredata/ColBERT.git
